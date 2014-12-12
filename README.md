@@ -1,4 +1,4 @@
 OscarNights
 ===========
 
-A predictive model for Academy Award performance
+A predictive model for Academy Award performance.
