@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Going Shopping</name>
+   <company>Rainbow Releasing</company>
+   <genres>
+      <genre>Drama</genre>
+      <genre>Romance</genre>
+   </genres>
+   <authors>
+      <author>Victoria Foyt</author>
+      <author>Henry Jaglom</author>
+   </authors>
+   <directors>
+      <director>Henry Jaglom</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Victoria Foyt</actor>
+      <actor>Rob Morrow</actor>
+      <actor>Lee Grant</actor>
+      <actor>Bruce Davison</actor>
+      <actor>Mae Whitman</actor>
+      <actor>Jennifer Grant</actor>
+      <actor>Juliet Lau</actor>
+   </actors>
+   <release_date>September 30, 2005</release_date>
+   <running_time>106</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>Comes as close as any film to explaining what the deal is with women and shopping.</snippet>
+         <url>http://www.nypost.com/movies/53205.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>Going Shopping is sharp and funny about all the things that shopping can mean to the women who live to do it, and even to those who don't.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1116755_1_0_,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>Going Shopping can make a wonderful outing for girlfriends. It's fun.</snippet>
+         <url>http://ae.miami.com/entertainment/ui/miami/movie.html?id=483782&amp;reviewId=19597</url>
+         <critic>Marta Barber</critic>
+      </review>
+      <review>
+         <snippet>There's just enough neurotic or sharp badinage and Rodeo Drive realism to make it all go down easy.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-060203-movies-review-shopping,0,7047185.story?coll=mmx-movies_top_heds</url>
+         <critic>Michael Wilmington</critic>
+      </review>
+      <review>
+         <snippet>It completes an informal trilogy that treats women's anxieties over food, motherhood and now clothes with humor and affection.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-shopping30sep30,0,2411230.story</url>
+         <critic>Kevin Thomas</critic>
+      </review>
+      <review>
+         <snippet>As in many of his films, Jaglom establishes a striking intimate rapport with his female subjects, and as the funny and bitter revelations pour forth, an activity that many men may view as something done strictly out of necessity takes on unforeseen narcotic, romantic and therapeutic dimensions.</snippet>
+         <url>http://www.laweekly.com/film/film_results.php?showid=3576&amp;Sumbit.x=55&amp;Sumbit.y=11</url>
+         <critic>Scott Foundas</critic>
+      </review>
+      <review>
+         <snippet>Though intermittently shrill, Shopping does have enough moments of insight to blunt charges of sexist stereotyping.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/moviereviews/story/351086p-299353c.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>Going Shopping, like Mr. Jaglom's other movies, has enough smart, knowing touches and enough easy spontaneity among its well-chosen actors to make you wish it added up to more than what it turns out to be: a flighty, motor-mouthed cinematic divertissement.</snippet>
+         <url>http://www.nytimes.com/2005/09/30/movies/30shopp.html</url>
+         <critic>Stephen Holden</critic>
+      </review>
+      <review>
+         <snippet>Jaglom has the good sense to cast the legendary Lee Grant in an extraordinary role.</snippet>
+         <url>http://www.filmthreat.com/Reviews.asp?Id=7995</url>
+         <critic>Phil Hall</critic>
+      </review>
+      <review>
+         <snippet>Zeroes in on retail mania with a flimsy wire hanger of a premise.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1001219945</url>
+         <critic>Sheri Linden</critic>
+      </review>
+      <review>
+         <snippet>Every scene ends with a gag line, punched up by Jaglom's harried intercutting, and threaded through the story are close-ups of women discussing their obsession with new clothes, an exercise that yields its wisdom in the first 20 minutes and then keeps repeating it.</snippet>
+         <url>http://spacefinder.chicagoreader.com/movies/briefs/29263_GOING_SHOPPING.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>The message is muddled.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2005/12/02/DDGQ2G0V9U1.DTL&amp;type=movies</url>
+         <critic>Ruthe Stein</critic>
+      </review>
+      <review>
+         <snippet>Item may draw curious women looking to cool their heels, say, while out shopping, but straight men can be expected to stay away in droves and Jaglom regulars will probably wait for the DVD.</snippet>
+         <url>http://www.variety.com/review/VE1117928372?categoryid=31&amp;cs=1</url>
+         <critic>Lael Loewenstein</critic>
+      </review>
+      <review>
+         <snippet>More cheerful misogyny from writer-director Henry Jaglom.</snippet>
+         <url>http://online.tvguide.com/movies/database/ShowMovie.asp?MI=46492</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>Henry Jaglom's latest study of contemporary female obsessions among a noxious clan of West L.A. bourgeoisie is of more pathological than cinematic interest.</snippet>
+         <url>http://www.villagevoice.com/film/0539,tracking5,68250,20.html</url>
+         <critic>Akiva Gottlieb</critic>
+      </review>
+   </reviews>
+   <US_Gross>$31,908</US_Gross>
+   <weekend_gross>$6,691</weekend_gross>
+   <number_of_screens>6</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

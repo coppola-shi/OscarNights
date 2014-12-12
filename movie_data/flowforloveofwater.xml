@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Flow: For Love of Water</name>
+   <company>Oscilloscope Pictures</company>
+   <genres>
+      <genre>Documentary</genre>
+   </genres>
+   <authors>
+      <author/>
+   </authors>
+   <directors>
+      <director>Irena Salina</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors/>
+   <release_date>September 12, 2008</release_date>
+   <running_time>93</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>This documentary makes a terrible kind of sense. It reminds us that something we take for granted, like air, can be sold to us – if we can afford it. And if we can't, what happens then?</snippet>
+         <url>http://events.charlotteobserver.com/reviews/show/34397-review-flow</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>Skips right past depressing on its way to apocalyptic.</snippet>
+         <url>http://www.avclub.com/content/cinema/flow_for_the_love_of_water</url>
+         <critic>Nathan Rabin</critic>
+      </review>
+      <review>
+         <snippet>According to Irene Salina's eye-opening documentary Flow, 500,000 to 7 million US residents are sickened by tap water each year.</snippet>
+         <url>http://www.nypost.com/seven/09122008/entertainment/movies/water_doc_taps_into_consumers_outrage_128663.htm</url>
+         <critic>V.A. Musetto</critic>
+      </review>
+      <review>
+         <snippet>A very effective primer of an underreported problem.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2008/09/18/DDMQ1311E1.DTL&amp;type=movies</url>
+         <critic>G. Allen Johnson</critic>
+      </review>
+      <review>
+         <snippet>One of those charming little documentaries that make you question whether the human race is really worth preserving.</snippet>
+         <url>http://www.villagevoice.com/2008-09-10/film/flow/</url>
+         <critic>Vadim Rizov</critic>
+      </review>
+      <review>
+         <snippet>A smartly done, involving look at a number of interrelated water issues.</snippet>
+         <url>http://www.latimes.com/entertainment/news/reviews/la-et-flow12-2008sep12,0,2236440.story</url>
+         <critic>Kenneth Turan</critic>
+      </review>
+      <review>
+         <snippet>Irena Salina's astonishingly wide-ranging film is less depressing than galvanizing, an informed and heartfelt examination of the tug of war between public health and private interests.</snippet>
+         <url>http://movies.nytimes.com/2008/09/12/movies/12flow.html?ref=movies</url>
+         <critic>Jeannette Catsoulis</critic>
+      </review>
+      <review>
+         <snippet>It's strange thinking of water as a market commodity, and it's hard to comprehend the kind of greed that must go into keeping it from needy mouths, but, fact is, the water business is now the world's third-largest industry, meaning there are a lot of sinister souls out there fiddling with their bank statements while Rome dries up.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A688933</url>
+         <critic>Josh Rosenblatt</critic>
+      </review>
+      <review>
+         <snippet>Flow preaches to the choir with a starry-eyed NPR eco-humanism that can set the wrong kind of person's teeth on edge.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=12337</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>Insistent, sometimes conspicuously one-sided, the film's concerns are difficult to dismiss, considering that a water-starved planet isn't ultimately viable.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?rid=10784</url>
+         <critic>Justin Lowe</critic>
+      </review>
+      <review>
+         <snippet>Flow makes you thirsty for more information.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2008/09/11/2008-09-11_short_takes_for_the_weekend_of_912.html</url>
+         <critic>Joe Neumaier</critic>
+      </review>
+   </reviews>
+   <US_Gross>$142,569</US_Gross>
+   <weekend_gross>$3,644</weekend_gross>
+   <number_of_screens>1</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

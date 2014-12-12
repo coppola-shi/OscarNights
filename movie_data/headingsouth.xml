@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Heading South</name>
+   <company>Celluloid Dreams</company>
+   <genres>
+      <genre>Drama</genre>
+      <genre>Foreign</genre>
+   </genres>
+   <authors>
+      <author>Robin Campillo</author>
+      <author>Laurent Cantet</author>
+      <author>Dany Laferrière</author>
+   </authors>
+   <directors>
+      <director>Laurent Cantet</director>
+   </directors>
+   <origins>
+      <origin>FranceCanada</origin>
+   </origins>
+   <actors>
+      <actor>Charlotte Rampling</actor>
+      <actor>Karen Young</actor>
+      <actor>Louise Portal</actor>
+      <actor>Ménothy Cesar</actor>
+      <actor>Lys Ambroise</actor>
+      <actor>Jackenson Pierre Olmo Diaz</actor>
+      <actor>Wilfried Paul</actor>
+      <actor>Anotte Saint Ford</actor>
+   </actors>
+   <release_date>July 7, 2006</release_date>
+   <running_time>107</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>Cantet weaves a dark, disturbing story of hedonism, casual racism and the lethal consequences of self-indulgence in his superb drama Heading South.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=9117</url>
+         <critic>Phil Hall</critic>
+      </review>
+      <review>
+         <snippet>A beautifully written, seamlessly directed film with award-worthy performances by Ms. Rampling and Ms. Young.</snippet>
+         <url>http://movies2.nytimes.com/2006/07/07/movies/07sout.html</url>
+         <critic>Stephen Holden</critic>
+      </review>
+      <review>
+         <snippet>Heading South is a hydra-headed love story, as dangerous as it is heated and complex.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-to.heading25aug25,0,2142364.story?coll=bal-artslife-movies</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>A pleasurably unsettling, sunbaked tale of sex and politics set in late-1970s Haiti.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1212998_1_0_,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>Director Laurent Cantet's fourth feature abandons the contentious French workplaces of "Human Resources" and "Time Out" for sunnier climes, but this Haitian idyll is an equally excoriating look at labor and exploitation.</snippet>
+         <url>http://online.tvguide.com/newsearch/detail.aspx?id=47154&amp;sourcetype=m&amp;more=ucmoviereview</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>The movie itself is a powerful cocktail of not just sex and love but race, poverty, colonialism and jealousy.</snippet>
+         <url>http://www.nypost.com/entertainment/movies/when_haiti_leads_to_love_or_at_least_lust_movies_kyle_smith.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>Boasts another formidable and fine-tuned performance from the great Charlotte Rampling.</snippet>
+         <url>http://ae.philly.com/entertainment/ui/philly/movie.html?id=597771&amp;reviewId=21240</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>Laurent Cantet's fascinating, troubling drama has many meanings.</snippet>
+         <url/>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>Heading South is a seemingly straightforward and simple picture that's really defiantly complex, sexually, politically and emotionally.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2006/07/07/heading_south/index.html</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>In its way, the film is a piercing indictment, though it makes its point without much screaming, hectoring or preening. It's quietly terrific.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1119811&amp;categories=Movies&amp;nm=1</url>
+         <critic>Stephen Hunter</critic>
+      </review>
+      <review>
+         <snippet>The film offers something unusual, a tragic spectacle of normal, recognizable and utterly sympathetic people condemning themselves.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?file=/c/a/2006/09/01/DDGM4KS9KI1.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>Heading South is strong in bursts, but the bursts are too diffuse for its best moments to last.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/1157586910176860.xml&amp;coll=7</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>Evocative and disturbing.</snippet>
+         <url>http://www.csmonitor.com/2006/0707/p14s01-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>The racial and sexual politics of Heading South may trouble some audiences; Cantet is definitely not a moralist in the usual sense.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-060818-movies-review-south,0,1950231.story?coll=mmx-movies_top_heds</url>
+         <critic>Michael Wilmington</critic>
+      </review>
+      <review>
+         <snippet>If only Cantet and Robin Campillo (who based their screenplay on stories by Dany Lafèrriere) had balanced the sexual and political elements more acutely, the result could have been searing.</snippet>
+         <url>http://www.tnr.com/doc.mhtml?i=20060731&amp;s=kauffmann073106</url>
+         <critic>Stanley Kauffmann</critic>
+      </review>
+      <review>
+         <snippet>An absorbing extension of Cantet's abiding obsession with the seeding of political inequality in intimate relations.</snippet>
+         <url>http://www.laweekly.com/film+tv/film-reviews/film-reviews/14064/</url>
+         <critic>Ella Taylor</critic>
+      </review>
+      <review>
+         <snippet>The film tackles more than it can master, but it's never less than fascinating, and all three leads are exceptional.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/capsules/29383_HEADING_SOUTH_VERS_LE_SUD</url>
+         <critic>Jonathan Rosenbaum</critic>
+      </review>
+      <review>
+         <snippet>An intelligent movie, not so much salacious as affecting but ultimately less analytical than overwrought, Heading South makes its points in the first 20 minutes.</snippet>
+         <url>http://www.villagevoice.com/film/0627,hoberman,73743,20.html</url>
+         <critic>J. Hoberman</critic>
+      </review>
+      <review>
+         <snippet>Provocative and prodding, but apart from its queen bee Ellen (the marvelous Rampling), the characters are representational types instead of fleshed-out human beings.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A424010</url>
+         <critic>Marjorie Baumgarten</critic>
+      </review>
+      <review>
+         <snippet>Cantet does something that educated, upscale audiences may find exasperating in the extreme: He takes a tinderbox of racial and sexual exploitation, pours gasoline all over it, and refuses to light the match.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=9313</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>Lonely, bitter, insecure and clearly unstable, the women are meant to level the emotional playing field and add depth to what is, at heart, a story about the exploitation of poor nations by rich and powerful ones. But they wind up being too bitter and unstable to elicit much sympathy.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-south21jul21,0,5955817.story</url>
+         <critic>Carina Chocano</critic>
+      </review>
+      <review>
+         <snippet>Cantet keeps a lid on a story that he could have easily exploited, but he makes his points about beauty, fulfillment, self-indulgence and delusion with a measured hand.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1001095442</url>
+         <critic>Ray Bennett</critic>
+      </review>
+      <review>
+         <snippet>Cantet's anticipated follow-up to "Time Out" supplants that pic's important issues with unexamined attitudes toward sex and the tropics.</snippet>
+         <url>http://www.variety.com/review/VE1117928091?categoryid=31&amp;cs=1&amp;s=h&amp;p=0</url>
+         <critic>Jay Weissberg</critic>
+      </review>
+      <review>
+         <snippet>Heading South's gender politics keep the movie from being too simple, since these women's self-indulgence can be read as a kind of unfettered (and even laudable) feminism, instead of just unintentional racism.</snippet>
+         <url>http://www.avclub.com/content/node/50158</url>
+         <critic>Noel Murray</critic>
+      </review>
+      <review>
+         <snippet>Among the creepiest adult monologues you'll hear in a regular theater this year comes from Karen Young in Heading South, a well-acted but misguided tale of displaced sexual longing on the beaches of Baby Doc Duvalier's 1970s Haiti.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/moviereviews/story/433109p-364852c.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>Rampling is fascinating as Ellen, the aging romantic who hardens her vulnerability with a materialist philosophy regarding the buying and selling of sex. The other two actresses give more superficial performances, with Young totally unconvincing as a Southern neurotic.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/282456_limited25.html</url>
+         <critic>Bill White</critic>
+      </review>
+   </reviews>
+   <US_Gross>$898,294</US_Gross>
+   <weekend_gross>$56,207</weekend_gross>
+   <number_of_screens>2</number_of_screens>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

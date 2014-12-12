@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Turn the River</name>
+   <company>Screen Media Films</company>
+   <genres>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author>Chris Eigeman</author>
+   </authors>
+   <directors>
+      <director>Chris Eigeman</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Famke Janssen</actor>
+      <actor>Jaymie Dornan</actor>
+      <actor>Rip Torn</actor>
+      <actor>Matt Ross</actor>
+      <actor>Lois Smith</actor>
+   </actors>
+   <release_date>May 9, 2008</release_date>
+   <running_time>92</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>Atmospheric picture positively vibrates with authenticity, and Janssen's intense, febrile performance earned a special jury prize at the Hamptons fest.</snippet>
+         <url>http://www.variety.com/review/VE1117935356.html?categoryid=31&amp;cs=1&amp;p=0</url>
+         <critic>Ronnie Scheib</critic>
+      </review>
+      <review>
+         <snippet>Turn the River can't weather the ante-upping into pathos when Kailey desperately reasserts her privilege of motherhood--but the sense of storytelling intelligence is undeniable.</snippet>
+         <url>http://www.villagevoice.com/film/0819,turn-the-river,433928,20.html</url>
+         <critic>Nick Pinkerton</critic>
+      </review>
+      <review>
+         <snippet>Has a mixture of edginess and melancholy that's beautifully sustained until the climax, when the tang of realism becomes the cudgel of melodrama.</snippet>
+         <url>http://nymag.com/movies/reviews/46661/index1.html</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>Turn the River becomes a standard fatalistic misfits-on-the-run movie with more than its share of improbabilities. It's as if Eigeman didn't realize how good the best parts of his film were, and so went ahead and trashed them.</snippet>
+         <url>http://www.csmonitor.com/2008/0517/p25s05-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>Skip the coda to this movie, with its tiny upswing of hope, and remember the days at the tables, as dim and endless as nights, and the click of the dialogue.</snippet>
+         <url>http://www.newyorker.com/arts/critics/cinema/2008/05/12/080512crci_cinema_lane</url>
+         <critic>Anthony Lane</critic>
+      </review>
+      <review>
+         <snippet>The main problem with Turn the River is that it's a well-acted, if not terribly well-crafted, character-driven drama without much in the way of a purpose.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/la-et-river16-2008may16,0,5270506.story</url>
+         <critic>Carina Chocano</critic>
+      </review>
+      <review>
+         <snippet>Until it transforms into an improbable thriller, Turn the River is a finely observed portrait of a desperate working-class woman who refuses to play by ordinary rules.</snippet>
+         <url>http://movies.nytimes.com/2008/05/09/movies/09rive.html?ref=movies</url>
+         <critic>Stephen Holden</critic>
+      </review>
+      <review>
+         <snippet>An only-in-the-movies mother hustles pool to raise the money to abduct the son she's been forbidden to see since her divorce.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20200503,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>It's not sharp or ironic, but drab and downbeat. Unfortunately, it's also going to feel utterly familiar to those who've seen their share of independent dramas in the last 15 years.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2008/05/09/2008-05-09_cue_the_indiemovie_cliches_with_turn_the.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>Turn the River lacks almost everything Eigeman has as a performer: charisma, wit and snappy delivery.</snippet>
+         <url>http://www.nypost.com/seven/05092008/entertainment/movies/tedious_turn_of_events_unimpressive_110003.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+   </reviews>
+   <US_Gross>$2,900</US_Gross>
+   <weekend_gross>$2,722</weekend_gross>
+   <number_of_screens>1</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

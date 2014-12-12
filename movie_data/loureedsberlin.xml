@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Lou Reed&amp;#039;s Berlin</name>
+   <company>Third Rail Releasing (The Weinstein Company)</company>
+   <genres>
+      <genre>Documentary</genre>
+   </genres>
+   <authors>
+      <author/>
+   </authors>
+   <directors>
+      <director>Julian Schnabel</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+      <origin>UK</origin>
+   </origins>
+   <actors>
+      <actor>Lou Reed</actor>
+   </actors>
+   <release_date>July 18, 2008</release_date>
+   <running_time>85</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>Never an easy one to impress, Reed is clearly in awe of Antony's ethereal voice, and it must now stand as the definitive version of a 40 year old song.</snippet>
+         <url>http://www.tvguide.com/movies/berlin/review/294576</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>If nothing else, Julian Schnabel's concert film Lou Reed's Berlin presents the album's 10 songs with a force they've rarely shown before.</snippet>
+         <url>http://www.avclub.com/content/cinema/lou_reeds_berlin</url>
+         <critic>Noel Murray</critic>
+      </review>
+      <review>
+         <snippet>Less groundbreaking video experimentation than extraordinary concert experience, Lou Reed's Berlin expertly fulfills its function.</snippet>
+         <url>http://www.variety.com/review/VE1117934775.html?categoryid=31&amp;cs=1&amp;p=0</url>
+         <critic>Ronnie Scheib</critic>
+      </review>
+      <review>
+         <snippet>Your enjoyment will hinge entirely on whether you think the album is a masterpiece or a bore.</snippet>
+         <url>http://www.nypost.com/seven/07182008/entertainment/movies/lou_reeds_berlin_thrall_120371.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>A concert film by technicality, a cinematic trance in practicality.</snippet>
+         <url>http://www.villagevoice.com/2008-07-16/film/lou-reed-s-berlin-is-all-new-york/</url>
+         <critic>Camille Dodero</critic>
+      </review>
+      <review>
+         <snippet>As a cautionary tale Lou Reed’s Berlin is an 85-minute public-service announcement that preaches "Just say no." The force of the music, however, lends this tawdry melodrama a tragic stature.</snippet>
+         <url>http://movies.nytimes.com/2008/07/18/movies/18berl.html?ref=movies</url>
+         <critic>Stephen Holden</critic>
+      </review>
+      <review>
+         <snippet>Reed stands at the center, taut and impassive, punching out words that are more often spoken than sung.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-capsule18-2008jul18,0,2702015.story</url>
+         <critic>Sam Adams</critic>
+      </review>
+      <review>
+         <snippet>Satisfying for devoted fans and might even win a convert or two.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/imdb/reviews/article_display.jsp?rid=10843&amp;vnu_special_account_code=thrsiteimdbpro</url>
+         <critic>John DeFore</critic>
+      </review>
+      <review>
+         <snippet>Berlin is far from the lost masterpiece the movie wants it to be.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20213002,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>Intermittent shots of actress Emmanuelle Seigner embodying the lyrics are surplus.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2008/07/18/2008-07-18_short_takes_the_doorman_and_more_movies_-2.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>Again, if you love Lou Reed or even like Lou Reed a little, musically this film is worth your time.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=11098</url>
+         <critic>Mark Bell</critic>
+      </review>
+   </reviews>
+   <US_Gross>$29,692</US_Gross>
+   <weekend_gross>$8,280</weekend_gross>
+   <number_of_screens>2</number_of_screens>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Gogol Bordello Non-Stop</name>
+   <company>Lorber Films</company>
+   <genres>
+      <genre>Documentary</genre>
+   </genres>
+   <authors>
+      <author/>
+   </authors>
+   <directors>
+      <director>Margarita Jimeno</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Gogol Bordello</actor>
+      <actor>Manu Chao</actor>
+      <actor>Susan Donaldson</actor>
+      <actor>Eliot Ferguson</actor>
+      <actor>Eugene Hutz</actor>
+   </actors>
+   <release_date>September 11, 2009</release_date>
+   <running_time>90</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>Gogol Bordello plays a mix of punk rock and Gypsy music that recalls the work of the Serbian No Smoking Band. Onstage, Gogol Bordello puts on a visually outrageous show that one member describes as "kick-ass."</snippet>
+         <url>http://www.nypost.com/p/entertainment/movies/punk_band_with_spunk_P0EOoBzMfSezzn7FeLHzcJ</url>
+         <critic>V.A. Musetto</critic>
+      </review>
+      <review>
+         <snippet>An exhilarating document.</snippet>
+         <url>http://www.villagevoice.com/2009-09-08/film/gogol-bordello-non-stop/</url>
+         <critic>Aaron Hillis</critic>
+      </review>
+      <review>
+         <snippet>Choppy, high-energy documentary.</snippet>
+         <url>http://movies.nytimes.com/2009/09/11/movies/11gogol.html?ref=movies</url>
+         <critic>Stephen Holden</critic>
+      </review>
+      <review>
+         <snippet>Non Stop doesn’t know how to hit it and quit; it’s a rock doc that screams loud and says frustratingly little</snippet>
+         <url>http://newyork.timeout.com/articles/film/78418/gogol-bordello-non-stop-film-review</url>
+         <critic>David Fear</critic>
+      </review>
+   </reviews>
+   <US_Gross>$5,532</US_Gross>
+   <weekend_gross>$2,793</weekend_gross>
+   <number_of_screens>1</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

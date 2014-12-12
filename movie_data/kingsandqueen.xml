@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Kings and Queen</name>
+   <company>Wellspring Media</company>
+   <genres>
+      <genre>Comedy</genre>
+      <genre>Drama</genre>
+      <genre>Foreign</genre>
+   </genres>
+   <authors>
+      <author>Roger Bohbot</author>
+      <author>Arnaud Desplechin</author>
+   </authors>
+   <directors>
+      <director>Arnaud Desplechin</director>
+   </directors>
+   <origins>
+      <origin>France</origin>
+   </origins>
+   <actors>
+      <actor>Emmanuelle Devos</actor>
+      <actor>Mathieu Amalric</actor>
+      <actor>Catherine Deneuve</actor>
+      <actor>Maurice Garrel</actor>
+      <actor>Nathalie Boutefeu</actor>
+      <actor>Jean-Paul Roussillon</actor>
+      <actor>Magalie Woch</actor>
+      <actor>Hippolyte Girardot</actor>
+   </actors>
+   <release_date>May 13, 2005</release_date>
+   <running_time>150</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>It's hugely ambitious, with a sweeping range of character types, frequently shifting moods, stylistic flourishes of many kinds, and some mighty wry satire, aimed largely at the world of psychotherapy.</snippet>
+         <url>http://www.csmonitor.com/2005/0513/p14s02-almo.html</url>
+         <critic>David Sterritt</critic>
+      </review>
+      <review>
+         <snippet>With all his artifice, his prodigious narrative risks and seemingly undisciplined mélange of styles and tones, Desplechin has made a film that feels more like real life than anything I've seen in years, from any source. It's a masterpiece.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2005/05/12/btm/index.html</url>
+         <critic>Andrew O&amp;#039;Hehir</critic>
+      </review>
+      <review>
+         <snippet>Kings and Queen, full of passion and humor, madness and grief, is close to a masterpiece. It's like life: messy, impossible, elating, unavoidable.</snippet>
+         <url>http://ae.philly.com/entertainment/ui/philly/movie.html?id=284837&amp;reviewId=18847</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>Desplechin fearlessly dives into raw, bitter revelations and surfaces with hope as our heroes try again to get it right.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/238035_limited26.html</url>
+         <critic>Sean Axmaker</critic>
+      </review>
+      <review>
+         <snippet>Gripping, highly original.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1063017_1_0_,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>A remarkable though sometimes frustrating film.</snippet>
+         <url/>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>Arnaud Desplechin's best movie to date.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/capsules/26926_KINGS_AND_QUEEN</url>
+         <critic>Jim Healy</critic>
+      </review>
+      <review>
+         <snippet>This extravagant family melodrama, one of the highlights of last year's New York Film Festival, runs two and a half hours and never lags, so moment-to-moment enthralling are Desplechin's narrative gambits, as well as his reckless eccentricity.</snippet>
+         <url>http://www.villagevoice.com/film/0519,hoberman1,63841,20.html</url>
+         <critic>J. Hoberman</critic>
+      </review>
+      <review>
+         <snippet>He gives these characters the time to develop, to display their nuances, to establish their relationships with each other, to talk out their destinies.</snippet>
+         <url>http://www.washingtonpost.com/wp-dyn/content/article/2005/06/23/AR2005062301869.html</url>
+         <critic>Stephen Hunter</critic>
+      </review>
+      <review>
+         <snippet>A long, messy cinematic novel full of hate, love, murder, ghosts, madness, poetry and Catherine Deneuve.</snippet>
+         <url>http://www.nypost.com/movies/43868.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>The film is a tower of literary and cinematic references, tangential yet somehow essential characters, and one fantastic performance after another. It's a simple movie yet is anything but.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=7784</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>It is well-acted and written with a rigorous effort to skirt cliche, and it has the savor of real life throughout.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/1126782277109490.xml&amp;coll=7</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>Both these stories, which of course develop further, are more engaging than they may sound, because Desplechin directs them so intelligently and because they are so well acted.</snippet>
+         <url>http://www.tnr.com/doc.mhtml?i=20050606&amp;s=kauffmann060605</url>
+         <critic>Stanley Kauffmann</critic>
+      </review>
+      <review>
+         <snippet>A true emotional epic.</snippet>
+         <url>http://www.empireonline.co.uk/site/incinemas/ReviewInFull.asp?FID=11186</url>
+         <critic>David Parkinson</critic>
+      </review>
+      <review>
+         <snippet>Odd, complex and charming.</snippet>
+         <url>http://www.washingtonpost.com/wp-dyn/content/article/2005/06/23/AR2005062300728.html</url>
+         <critic>Desson Thomson</critic>
+      </review>
+      <review>
+         <snippet>This enjoyable French pic welds together drama, melodrama and comedy.</snippet>
+         <url>http://www.variety.com/review/VE1117924847?categoryid=31&amp;cs=1</url>
+         <critic>Deborah Young</critic>
+      </review>
+      <review>
+         <snippet>A complex, boldly experimental movie plotted like a thriller and paced like a farce, Kings and Queen is category-defying film that's as smart and emotionally resonant as it is entertaining.</snippet>
+         <url>http://www.calendarlive.com/movies/chocano/cl-et-kings20may20,0,5346396.story</url>
+         <critic>Carina Chocano</critic>
+      </review>
+      <review>
+         <snippet>For all its hectic comings and goings, though, Kings &amp; Queen is superbly controlled, gracefully shot and edited, and, for its entire 150 minutes, as engrossing as its meanings are opaque.</snippet>
+         <url>http://www.laweekly.com/ink/05/26/film-taylor2.php</url>
+         <critic>Ella Taylor</critic>
+      </review>
+      <review>
+         <snippet>Late in his new film Kings and Queen, the wildly gifted French director Arnaud Desplechin yanks the rug from under his characters and sends both them and us reeling.</snippet>
+         <url>http://movies2.nytimes.com/2005/05/13/movies/13king.html</url>
+         <critic>Manohla Dargis</critic>
+      </review>
+      <review>
+         <snippet>The kind of brainy human comedy that only this formidable French auteur seems capable of making.</snippet>
+         <url>http://tvguide.com/movies/database/showmovie.asp?MI=46107</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>Arnaud Desplechin's sprawling drama exudes a go-for-broke determination that is frustrating and exhilarating.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/moviereviews/story/309108p-264334c.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>A film that unfolds like a court case in which all of the testimony sounds like the simple truth, and none of it agrees.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20050526/REVIEWS/50510002/1001</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>Though overly long and difficult to digest, it's a feast you won't want to miss.</snippet>
+         <url>http://sfgate.com/cgi-bin/article.cgi?f=/c/a/2005/06/03/DDG82D1UQS1.DTL&amp;type=movies</url>
+         <critic>Ruthe Stein</critic>
+      </review>
+      <review>
+         <snippet>At times compelling, at times devastating, and at times long-winded.</snippet>
+         <url>http://movie-reviews.colossus.net/movies/k/kings_queen.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>Though frequently dazzling, Kings And Queen proves that a bunch of punchy singles don't necessarily make an album.</snippet>
+         <url>http://www.theavclub.com/review.php?review_id=8484</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>This movie, however incomplete and frustrating, is also fully alive and extraordinarily intelligent.</snippet>
+         <url>http://www.newyorker.com/critics/cinema/?050516crci_cinema</url>
+         <critic>David Denby</critic>
+      </review>
+   </reviews>
+   <US_Gross>$289,592</US_Gross>
+   <weekend_gross>$16,101</weekend_gross>
+   <number_of_screens>2</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

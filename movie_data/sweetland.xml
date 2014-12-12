@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Sweet Land</name>
+   <company>Forward Entertainment LLC</company>
+   <genres>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author>Ali Selim</author>
+   </authors>
+   <directors>
+      <director>Ali Selim</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Alan Cumming</actor>
+      <actor>Lois Smith</actor>
+      <actor>Ned Beatty</actor>
+      <actor>Alex Kingston</actor>
+      <actor>John Heard</actor>
+      <actor>Elizabeth Reaser</actor>
+      <actor>Tim Guinee</actor>
+      <actor>Patrick Heusinger</actor>
+   </actors>
+   <release_date>October 18, 2006</release_date>
+   <running_time>110</running_time>
+   <rating>PG</rating>
+   <reviews>
+      <review>
+         <snippet>Intelligently written, brilliantly cast and thesped story of a German mail order bride in a Norwegian-American community in Minnesota just after WWI never hits a wrong note.</snippet>
+         <url>http://www.variety.com/review/VE1117928680?categoryid=31&amp;cs=1&amp;s=h&amp;p=0</url>
+         <critic>Ronnie Scheib</critic>
+      </review>
+      <review>
+         <snippet>Sweet Land is a movie of extraordinary tenderness, in which Reaser and Guinee, using a language of looks, make you happy to think about what love once might have been.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1547550_1_0_,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>Directing with a light comic touch and a palpable affection for the characters, Selim draws pitch-perfect acting from a large cast  and achieves breathtaking levels of color and clarity from old-fashioned 35mm.</snippet>
+         <url>http://www.villagevoice.com/film/0642,nelson,74776,20.html</url>
+         <critic>Rob Nelson</critic>
+      </review>
+      <review>
+         <snippet>Demonstrating a mastery of the medium that belies his status as a first-time feature filmmaker, writer-director Ali Selim has crafted in Sweet Land a tale of pure Americana that speaks both to the immigrant experience and the nature of love.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1003252153</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>This year's actress to watch is Elizabeth Reaser, who delivers a tour de force as a determined German mail-order bride who comes to 1920 Minnesota in Ali Selim's captivating indie Sweet Land.</snippet>
+         <url>http://www.nypost.com/seven/10202006/entertainment/movies/prairie_home___add_companion_movies_lumenick.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>Top honors go to Guinee, who steadily builds his character from tiny details, and Reaser, who's understood through eyes and attitude while speaking a hodgepodge of German, Norwegian and English.</snippet>
+         <url>http://ae.charlotte.com/entertainment/ui/charlotte/movie.html?id=597904&amp;reviewId=22187&amp;startDate=NEXT7</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>First-time director Ali Selim does an exceptional job throughout, his movie has the balance, uncluttered leanness and emotional impact of a Willa Cather short story, and it's no surprise that it has been nominated for Best First Feature in the 2007 Independent Spirit Awards.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/296776_sweet22q.html</url>
+         <critic>William Arnold</critic>
+      </review>
+      <review>
+         <snippet>A type of American independent we don't see often enough.</snippet>
+         <url>http://www.calendarlive.com/movies/cl-et-sweetland15nov15,0,7271067.story</url>
+         <critic>Kenneth Turan</critic>
+      </review>
+      <review>
+         <snippet>It's winsome, sentimental and lovely in a minor-key way.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2006/10/12/btm/index2.html?CP=IMD&amp;DN=110</url>
+         <critic>Andrew O&amp;#039;Hehir</critic>
+      </review>
+      <review>
+         <snippet>The film's most memorable performance is in another supporting role, by Alan Cumming as hapless Frandsen, Olaf's sympathetic neighbor and a hopelessly inept farmer.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-061122-movies-review-land,0,5724789.story?coll=mmx-movies_top_heds</url>
+         <critic>Michael Wilmington</critic>
+      </review>
+      <review>
+         <snippet>A lovely , old-fashioned farm romance quietly doubling as a comment on immigration and American identity.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=9618</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>Sweet Land brushes against the true spirit of American independent cinema.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/1166664318238670.xml&amp;coll=7</url>
+         <critic>Marc Mohan</critic>
+      </review>
+      <review>
+         <snippet>An unusual look at love and how it can unexpectedly develop. Those for whom the concept of an arranged marriage is foreign will get a little history lesson on the immigrant experience watching this sweetly engrossing film.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2006/12/15/DDG2VMVC851.DTL&amp;type=movies</url>
+         <critic>Ruthe Stein</critic>
+      </review>
+      <review>
+         <snippet>The film’s guileless, heartfelt style veers perilously close to corniness at times, but the superb cast dares you to mock.</snippet>
+         <url>http://movies2.nytimes.com/2006/10/18/movies/18sweet.html?ref=movies</url>
+         <critic>Jeannette Catsoulis</critic>
+      </review>
+      <review>
+         <snippet>Ali Selim, a highly successful director of commercials in Minneapolis, makes his feature directing debut with this simple and beautifully paced drama, letting the characters breathe and the land speak.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/30776_SWEET_LAND.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>Once you get past the movie's needlessly fragmented framing device and its protracted introduction to a xenophobic rural Minnesota town, the core story gains some traction in your mind.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-to.sweetland25may25,0,3937124.story?coll=bal-artslife-movies</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>Selim's script doesn't hit new territory, but beautiful cinematography takes it just far enough.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/moviereviews/story/463507p-389811c.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>Sweet Land is as empty and beautiful as the picturesque Minnesota terrain it's so clearly taken with.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1123039&amp;categories=Movies&amp;nm=1</url>
+         <critic>Desson Thomson</critic>
+      </review>
+      <review>
+         <snippet>Mark Orton's overused fiddly score is nice enough, but can't disguise the essential emptiness of overlong scenes.</snippet>
+         <url>http://tvguide.com/detail/movie.aspx?tvobjectid=282696&amp;more=ucmoviereview</url>
+         <critic>Ken Fox</critic>
+      </review>
+   </reviews>
+   <US_Gross>$1,706,325</US_Gross>
+   <weekend_gross>$41,860</weekend_gross>
+   <number_of_screens>2</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

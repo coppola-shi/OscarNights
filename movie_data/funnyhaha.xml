@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Funny Ha Ha</name>
+   <company>Goodbye Cruel Releasing</company>
+   <genres>
+      <genre>Comedy</genre>
+      <genre>Romance</genre>
+   </genres>
+   <authors>
+      <author>Andrew Bujalski</author>
+   </authors>
+   <directors>
+      <director>Andrew Bujalski</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Kate Dollenmayer</actor>
+      <actor>Mark Herlehy</actor>
+      <actor>Christian Rudder</actor>
+      <actor>Jennifer L. Schaper</actor>
+      <actor>Myles Paige</actor>
+      <actor>Marshall Lewy</actor>
+   </actors>
+   <release_date>April 29, 2005</release_date>
+   <running_time>89</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>Bujalski takes a sledgehammer to the carefully ordered surfaces and dramatic conventions of narrative cinema, favoring instead an unpredictability in which the crosscurrents of quotidian life collide on the screen in a series of brilliantly alive patterns.</snippet>
+         <url>http://www.laweekly.com/ink/05/28/film-foundas2.php</url>
+         <critic>Scott Foundas</critic>
+      </review>
+      <review>
+         <snippet>As David Rakoff once wrote, "Youth isn't wasted on the young. It is perpetrated on the young." Exactly how is brilliantly captured by Andrew Bujalski in his debut feature, Funny Ha Ha.</snippet>
+         <url>http://www.calendarlive.com/movies/chocano/cl-et-funnyhaha03jun03,0,5245378.story</url>
+         <critic>Carina Chocano</critic>
+      </review>
+      <review>
+         <snippet>Bujalski celebrates the awkwardness of twentysomething life, allowing Dollenmayer to create a beautifully authentic portrait.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/moviereviews/story/304685p-260629c.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>A smartly observed, unpretentious, and unconventional comedy of manners -- or more properly, it's a comedy of mannerisms.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=2275</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>Andrew Bujalski's Funny Ha Ha, an ebullient sliver of a movie, follows a group of men and women in their early 20s, and for once the un-dialogue dialogue doesn't come off as an affectation.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1060093_1_0_,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>The kind of film that you just don't want to end.</snippet>
+         <url>http://www.filmthreat.com/Reviews.asp?Id=7444</url>
+         <critic>Eric Campos</critic>
+      </review>
+      <review>
+         <snippet>A beautifully observant and wholly unpretentious film with roots more in Cassavetes than Sundance-style showbiz.</snippet>
+         <url>http://www.variety.com/review/VE1117921109?categoryid=31&amp;cs=1</url>
+         <critic>Robert Koehler</critic>
+      </review>
+      <review>
+         <snippet>The final scene is as close to perfection as any Amerindie has come in recent memory--in a single reaction of Marnie's, we see a small but definite shift in perspective; abruptly, Bujalski stops the film, as if there's nothing more to say. It's a wonderful parting shot for a movie that locates the momentous in the mundane.</snippet>
+         <url>http://www.villagevoice.com/film/0517,lim,63401,20.html</url>
+         <critic>Dennis Lim</critic>
+      </review>
+      <review>
+         <snippet>It is a small, plain movie, shot in 16 millimeter in dull locations around Boston; but also, like its passive, quizzical heroine, it is unexpectedly seductive, and even, in its own stubborn, hesitant way, beautiful.</snippet>
+         <url>http://movies2.nytimes.com/2005/04/29/movies/29haha.html</url>
+         <critic>Dana Stevens</critic>
+      </review>
+      <review>
+         <snippet>Funny Ha Ha is often offhandedly funny, and Bujalski has a knack for letting scenes build and then cutting out abruptly, duplicating the flow of a life in flux.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A164328</url>
+         <critic>Marrit Ingman</critic>
+      </review>
+      <review>
+         <snippet>Andrew Bujalski's refreshingly modest look at life in the directionless netherworld between college and career is the rare film that finds its story in the minor contradictions and simple conflicts of ordinary people doing, well, not exactly nothing, but nothing important.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/238035_limited26.html</url>
+         <critic>Sean Axmaker</critic>
+      </review>
+      <review>
+         <snippet>The dialogue is so real that it makes you wince, then laugh.</snippet>
+         <url>http://www.nypost.com/movies/43188.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>Like a lot of scenes in Funny Ha Ha, the commonplace somehow seems invigoratingly original.</snippet>
+         <url>http://www.theavclub.com/review.php?review_id=7009</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>Bujalski has a knack for the genuine moment.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/capsules/24701_FUNNY_HA_HA</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>Dollenmayer has managed to transform a sad sack into an indie screen goddess.</snippet>
+         <url>http://www.washingtonpost.com/wp-dyn/content/article/2005/09/01/AR2005090100704.html</url>
+         <critic>Ann Hornaday</critic>
+      </review>
+      <review>
+         <snippet>The look is rough, but Bujalski's talent is evident.</snippet>
+         <url>http://tvguide.com/movies/database/showmovie.asp?MI=46085</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+   </reviews>
+   <US_Gross>$77,070</US_Gross>
+   <production_budget>$30,000</production_budget>
+   <weekend_gross>$10,555</weekend_gross>
+   <number_of_screens>2</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

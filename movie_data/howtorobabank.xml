@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>How to Rob a Bank</name>
+   <company>IFC First Take</company>
+   <genres>
+      <genre>Comedy</genre>
+      <genre>Crime</genre>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>Andrews Jenkins</author>
+   </authors>
+   <directors>
+      <director>Andrews Jenkins</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Nick Stahl</actor>
+      <actor>Erika Christensen</actor>
+      <actor>Terry Crews</actor>
+      <actor>Adriano Aragon</actor>
+      <actor>David Carradine</actor>
+      <actor>Gavin Rossdale</actor>
+   </actors>
+   <release_date>February 6, 2008</release_date>
+   <running_time>minutes,</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>It makes for a good time with Christensen providing lovely eye candy, but as for Jenkins and his hipper than thou dialogue, and gritty direction? I’m not impressed.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=10866</url>
+         <critic>Felix Vasques Jr.</critic>
+      </review>
+      <review>
+         <snippet>An excellent actor too often stuck in unworthy roles, Nick Stahl deserves much better than Andrew Jenkins' derivative, self-conscious heist flick.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2008/02/08/2008-02-08_short_takes__more_movie_reviews.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>What's most disturbing about "Bank" is its lack of ambition. Maybe Jenkins will take more chances in the future. If he's lucky, this stinker will be quickly forgotten.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/imdb/reviews/article_display.jsp?rid=9480&amp;vnu_special_account_code=thrsiteimdbpro</url>
+         <critic>Stephen Farber</critic>
+      </review>
+      <review>
+         <snippet>Amateurish, half-hearted romantic comedy-cum-heist film twists itself into unconvincing knots to pull off a guilt-free bank robbery.</snippet>
+         <url>http://www.variety.com/review/VE1117936121.html?categoryid=31&amp;cs=1</url>
+         <critic>Ronnie Scheib</critic>
+      </review>
+      <review>
+         <snippet>So objectively awful it ceases even to be a reflection of writer- director Andrews Jenkins's non-talent, How to Rob a Bank calls into question the distribution filtration process that should protect delicate consumer eyes from things like this.</snippet>
+         <url>http://www.villagevoice.com/film/0806,pinkerton,79031,20.html</url>
+         <critic>Nick Pinkerton</critic>
+      </review>
+   </reviews>
+   <US_Gross>$711</US_Gross>
+   <weekend_gross>$109</weekend_gross>
+   <number_of_screens>1</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

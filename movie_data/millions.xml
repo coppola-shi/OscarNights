@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Millions</name>
+   <company>Fox Searchlight Pictures</company>
+   <genres>
+      <genre>Comedy</genre>
+      <genre>Crime</genre>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author>Frank Cottrell Boyce</author>
+   </authors>
+   <directors>
+      <director>Danny Boyle</director>
+   </directors>
+   <origins>
+      <origin>UKUSA</origin>
+   </origins>
+   <actors>
+      <actor>Alexer Nathan Etel</actor>
+      <actor>Lewis Owen McGibbon</actor>
+      <actor>James Nesbitt</actor>
+      <actor>Daisy Donovan</actor>
+      <actor>Christopher Fulford</actor>
+   </actors>
+   <release_date>March 11, 2005</release_date>
+   <running_time>98</running_time>
+   <rating>PG</rating>
+   <reviews>
+      <review>
+         <snippet>A family film of limitless imagination and surprising joy.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20050317/REVIEWS/50309002/1001</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>Utterly enchanting.</snippet>
+         <url>http://sfgate.com/cgi-bin/article.cgi?f=/c/a/2005/03/18/DDGD5BQGIH1.DTL&amp;type=movies</url>
+         <critic>Ruthe Stein</critic>
+      </review>
+      <review>
+         <snippet>This sincere, delicate, and intrinsically religious comedy may also become that most unexpected of blessings - Danny Boyle's first family classic.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1036484_1_0_,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>The near-miracle worked by Mr. Boyle, whose exuberant style brings several saints to scruffy life, is a movie that's joyously funny and hugely inventive -- occasionally to the point of preciousness -- yet true to the spirit of the saintly little kid at its center.</snippet>
+         <url/>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>It's vibrant and verdant and heartbreakingly inviting, begging you to escape into a lovely tale in which children, through a simple act of faith, find their own heaven on earth.</snippet>
+         <url>http://dallasobserver.com/issues/2005-03-24/film/film2.html</url>
+         <critic>Robert Wilonsky</critic>
+      </review>
+      <review>
+         <snippet>Leaves you feeling rich - and richly satisfied.</snippet>
+         <url>http://ae.philly.com/entertainment/ui/philly/movie.html?id=273387&amp;reviewId=17697</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>One of the more delightful and satisfying family movies.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-050317-movies-review-mw-millions.story</url>
+         <critic>Michael Wilmington</critic>
+      </review>
+      <review>
+         <snippet>The film is thriller, comedy and rite-of-passage story, but Boyle never loses sight of what's at its core.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/216420_millions18q.html</url>
+         <critic>Paula Nechak</critic>
+      </review>
+      <review>
+         <snippet>The most gleeful movie about a single-minded kid since "A Christmas Story."</snippet>
+         <url>http://onfilm.chireader.com/movies/critic.html#27554</url>
+         <critic>Andrea Gronvall</critic>
+      </review>
+      <review>
+         <snippet>Witty, sweet and charming but never sappy, the movie joins the heady company of such extraordinary child-centered movies as "The 400 Blows," "My Life as a Dog" and "Au Revoir Les Enfants."</snippet>
+         <url>http://www.washingtonpost.com/wp-dyn/articles/A43661-2005Mar17.html</url>
+         <critic>Desson Thomson</critic>
+      </review>
+      <review>
+         <snippet>Millions is an intelligent children’s film that may prove to be a guilty pleasure for adults.</snippet>
+         <url>http://www.laweekly.com/film/film_results.php?showid=3314&amp;Sumbit.x=79&amp;Sumbit.y=16</url>
+         <critic>Chuck Wilson</critic>
+      </review>
+      <review>
+         <snippet>A heartfelt, emotionally delicate children's movie about life and death and all the parts in between.</snippet>
+         <url>http://movies2.nytimes.com/2005/03/11/movies/11mill.html</url>
+         <critic>Manohla Dargis</critic>
+      </review>
+      <review>
+         <snippet>Despite being a pure fantasy that relishes not making literal sense, Millions retains a conviction about what it's doing that makes us believe and enjoy.</snippet>
+         <url>http://www.calendarlive.com/movies/turan/cl-et-millions11mar11,2,1958191.story</url>
+         <critic>Kenneth Turan</critic>
+      </review>
+      <review>
+         <snippet>Millions is that rarest of creatures: a family film - one of surprising warmth – that won't have adults reaching for an airsick bag.</snippet>
+         <url>http://www.filmthreat.com/Reviews.asp?Id=7315</url>
+         <critic>Pete Vonder Haar</critic>
+      </review>
+      <review>
+         <snippet>Millions, like all kid-powered movies, stands or falls in the first place on the performances of its child actors, and Alex Etel and Lewis McGibbon both delight.</snippet>
+         <url>http://www.empireonline.co.uk/site/incinemas/ReviewInFull.asp?FID=11150</url>
+         <critic>Adam Smith</critic>
+      </review>
+      <review>
+         <snippet>The movie, though quite funny in parts, turns organically dark, and it refuses to paint a picture of a cotton-candy world. It prefers the real one.</snippet>
+         <url>http://www.washingtonpost.com/wp-dyn/articles/A45532-2005Mar17.html</url>
+         <critic>Stephen Hunter</critic>
+      </review>
+      <review>
+         <snippet>It's childhood done just right: part cotton candy angels, part gurning adult frighteners, and all wide-eyed kidhood bravado.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A263778</url>
+         <critic>Marc Savlov</critic>
+      </review>
+      <review>
+         <snippet>You really don't need to borrow someone else's kids to ponder and enjoy what Millions has to offer.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=7156</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>You never know what to expect from Boyle, and that goes triple in this offbeat comedy drama. It's a movie about family that family viewers will find good, quirky fun.</snippet>
+         <url>http://www.csmonitor.com/2005/0311/p14s02-almo.html</url>
+         <critic>David Sterritt</critic>
+      </review>
+      <review>
+         <snippet>It's an uplifting motion picture that will bring smiles to faces, and Boyle's trademark irreverence keeps the feel-good experience from becoming too saccharine.</snippet>
+         <url>http://movie-reviews.colossus.net/movies/m/millions.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>This is a family movie in the best sense; it plays to children without talking down and to their parents without pandering. Mostly, it's just good fun.</snippet>
+         <url>http://www.nydailynews.com/03-11-2005/entertainment/col/story/288913p-247273c.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>This cheeky fable rests on the slender shoulders of Etel and McGibbon, and the lovely, natural performances Boyle elicits from them are the film's real miracle.</snippet>
+         <url>http://tvguide.com/movies/database/ShowMovie.asp?MI=45978</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>A sweet little picture with a sense of humor as well as a mission. If money can't buy you love, at least it can buy you 90 minutes of warmth.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2005/03/11/millions/index.html</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>Maintains a bankable charm and innocence even when overdrawn on the special effects side.</snippet>
+         <url>http://www.variety.com/review/VE1117924879?categoryid=31&amp;cs=1</url>
+         <critic>Derek Elley</critic>
+      </review>
+      <review>
+         <snippet>A little broad comedy keeps things perky, but the kids' excellent, restrained acting and the low-key script by "The Claim" screenwriter Frank Cottrell Boyce hold the whole sprawling project together, from weepy revelations to silly fantasy-saint sequences.</snippet>
+         <url>http://www.theavclub.com/review_pop.php?review_id=8281</url>
+         <critic>Tasha Robinson</critic>
+      </review>
+      <review>
+         <snippet>Starts as sweetly impossible and ends as impossibly sweet.</snippet>
+         <url>http://ae.charlotte.com/entertainment/ui/charlotte/movie.html?id=273387&amp;reviewId=17689&amp;startDate=NEXT7</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>The film is small-scale, cleverly crafted and feels like a more expensive version of the sort of "dramedy" they produce by the truckload at the BBC.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/ArticleNews/TPStory/LAC/20050318/MILLIONS18/TPEntertainment/Film</url>
+         <critic>Liam Lacey</critic>
+      </review>
+      <review>
+         <snippet>Mostly avoids being cloying but flirts with being precious. Yet Boyle is enough of a stylist to make it all passable. It's one of those films for which fans and detractors can see the others' viewpoint.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2005-03-10-millions_x.htm</url>
+         <critic>Mike Clark</critic>
+      </review>
+      <review>
+         <snippet>Give Boyce and Boyle credit for daring to be strange, but this enchilada is so overstuffed, it's falling apart.</snippet>
+         <url>http://www.nypost.com/movies/40920.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>By avoiding sentimentality, Millions emerges as a simple tale told with sympathy for a child's point of view.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1000629140</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>Danny Boyle's Millions is not what we'd expect from the "Trainspotting" and "28 Days Later" director. It's essentially a gentle, kid's-eye parable.</snippet>
+         <url>http://www.villagevoice.com/film/0510,park,61844,20.html</url>
+         <critic>Ed Park</critic>
+      </review>
+      <review>
+         <snippet>We're supposed to be overwhelmed by magic, but what we see is fancy film technique and a lot of strained whimsy.</snippet>
+         <url>http://www.newyorker.com/critics/cinema/?050321crci_cinema</url>
+         <critic>David Denby</critic>
+      </review>
+      <review>
+         <snippet>And the movie, likable for short stretches, ends up seeming worn and frayed, like Christmas decorations left hanging until spring.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-to.millions01apr01,1,6732157.story?coll=bal-artslife-movies</url>
+         <critic>Michael Sragow</critic>
+      </review>
+   </reviews>
+   <US_Gross>$6,584,159</US_Gross>
+   <weekend_gross>$70,224</weekend_gross>
+   <number_of_screens>5</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

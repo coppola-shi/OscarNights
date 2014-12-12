@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Blind Mountain</name>
+   <company>Film Forum</company>
+   <genres>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author>Li Yang</author>
+   </authors>
+   <directors>
+      <director>Li Yang</director>
+   </directors>
+   <origins>
+      <origin>China</origin>
+   </origins>
+   <actors>
+      <actor>Huang Lu</actor>
+      <actor>Yang You&amp;#039;an</actor>
+      <actor>Zhang Yuling</actor>
+      <actor>Yunle He</actor>
+      <actor>Jia Yinggao</actor>
+      <actor>Zhang Youping</actor>
+   </actors>
+   <release_date>March 12, 2008</release_date>
+   <running_time>95</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>Twenty years ago, Li's film might have served as a warning; today, it rues a dehumanizing economic system run rampant that leaves one sad slave wife to muse, "It's easy to die. It's living that's hard."</snippet>
+         <url>http://www.tvguide.com/movies/blind-mountain/review/292922</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>This is a resolutely tough-minded, beautifully crafted film so compelling as to make bearable watching the nearly unbearable.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-capsules25apr25,0,5107403.story</url>
+         <critic>Kevin Thomas</critic>
+      </review>
+      <review>
+         <snippet>Li’s story is lean and economical, but deeply harrowing, as Xuemei--sympathetically played by debuting performer Huang Lu, the only classically trained actor in a cast of non-professionals--clings to her courage and tries again and again to escape.</snippet>
+         <url>http://chicago.metromix.com/movies/movie_review/movie-review-blind-mountain/463128/content</url>
+         <critic>Tasha Robinson</critic>
+      </review>
+      <review>
+         <snippet>A potent drama from Yang Li, one of China's Sixth Generation filmmakers noted for the stark realism and documentary feeling of their work.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2008/07/10/DDLT11NANR.DTL&amp;type=movies</url>
+         <critic>Walter Addiego</critic>
+      </review>
+      <review>
+         <snippet>A stinging and frightening indictment of mainland China.</snippet>
+         <url>http://www.nypost.com/seven/03122008/entertainment/movies/great_pall_of_china_101516.htm</url>
+         <critic>V.A. Musetto</critic>
+      </review>
+      <review>
+         <snippet>The film's economical style, vivid cinematography and tremendous acting should attract audiences far and wide.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/imdb/reviews/article_display.jsp?rid=9252&amp;vnu_special_account_code=thrsiteimdbpro</url>
+         <critic>Ray Bennett</critic>
+      </review>
+      <review>
+         <snippet>Blind Mountain is a reminder that art sometimes keeps the truth alive far better than the news.</snippet>
+         <url>http://movies.nytimes.com/2008/03/12/movies/12blin.html?ref=movies</url>
+         <critic>Manohla Dargis</critic>
+      </review>
+      <review>
+         <snippet>Blind Mountain would be better-served by more touches of universality, as in the scene where a neighbor woman comforts Huang by saying, "All women go through this." That scene flirts with metaphor. The rest of the film too often descends into harangue.</snippet>
+         <url>http://www.avclub.com/content/cinema/blind_mountain</url>
+         <critic>Noel Murray</critic>
+      </review>
+      <review>
+         <snippet>Low on drama and originality, and high on deja vu, sophomore outing by writer-director Li Yang ("Blind Shaft," 2003).</snippet>
+         <url>http://www.variety.com/index.asp?layout=festivals&amp;jump=review&amp;reviewid=VE1117933698&amp;cs=1&amp;p=0</url>
+         <critic>Derek Elley</critic>
+      </review>
+      <review>
+         <snippet>Blind Mountain forces its way through numerous illogicalities and several plot lapses to a violently abrupt ending.</snippet>
+         <url>http://www.villagevoice.com/film/0811,374079,374079,20.html</url>
+         <critic>J. Hoberman</critic>
+      </review>
+      <review>
+         <snippet>The movie not only indicts the country's embrace of capitalism by showing how low people will sink to make money, it also denigrates the agrarian class--once celebrated as heroic under Mao--by portraying its members as illiterate barbarians concerned only with continuing their family lines.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/33270_BLIND_MOUNTAIN.html</url>
+         <critic>Andrea Gronvall</critic>
+      </review>
+   </reviews>
+   <US_Gross>$12,719</US_Gross>
+   <weekend_gross>$5,210</weekend_gross>
+   <number_of_screens>1</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

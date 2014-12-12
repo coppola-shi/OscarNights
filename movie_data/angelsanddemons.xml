@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Angels &amp; Demons</name>
+   <company>Columbia Pictures (Sony)</company>
+   <genres>
+      <genre>Crime</genre>
+      <genre>Drama</genre>
+      <genre>Mystery</genre>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>Dan Brown</author>
+      <author>David Koepp</author>
+      <author>Akiva Goldsman</author>
+   </authors>
+   <directors>
+      <director>Ron Howard</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Tom Hanks</actor>
+      <actor>Ewan McGregor</actor>
+      <actor>Ayelet Zurer</actor>
+      <actor>Stellan Skarsgard</actor>
+      <actor>Pierfrancesco Favino</actor>
+      <actor>Nikolaj Lie Kaas</actor>
+      <actor>Armin Mueller-Stahl</actor>
+   </actors>
+   <release_date>May 15, 2009</release_date>
+   <running_time>140</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>This kind of film requires us to be very forgiving, and if we are, it promises to entertain. Angels &amp; Demons succeeds.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20090513/REVIEWS/905139997</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>Plucking the same violent, occult strings as "Da Vinci" while avoiding its leadenness, Angels keeps the action coming for the best part of 139 minutes.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film-reviews/film-review-angels-demons-1003969172.story</url>
+         <critic>Deborah Young</critic>
+      </review>
+      <review>
+         <snippet>The movie includes some tony philosophizing about the conflict between science and faith, but it's mostly a beat-the-clock chase through Rome (nicely evoked in Salvatore Totino's lush cinematography).</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/nextweek/34381_ANGELS_AND_DEMONS.html</url>
+         <critic>Andrea Gronvall</critic>
+      </review>
+      <review>
+         <snippet>As transparent as this device is, Angels has elemental satisfactions in its blend of movie genre that could appeal to wide segments of the audience.</snippet>
+         <url>http://www.time.com/time/arts/article/0,8599,1897543,00.html</url>
+         <critic>Richard Corliss</critic>
+      </review>
+      <review>
+         <snippet>The new movie is an opulent-bordering-on-hysterical mass of chitchat and chase scenes.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20278660,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>An OK action film, but only the humorless will find it heretical – or educational.</snippet>
+         <url>http://www.csmonitor.com/2009/0515/p17s01-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>It's got enough going on to sustain five blockbuster thrillers. That is its blessing and its curse.</snippet>
+         <url>http://www.nypost.com/seven/05152009/entertainment/movies/holy_pope_opera__169307.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>The movie can be enjoyed for the hell-raising hooey it is.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/12615902/review/28221175/angels__demons</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>A far sight nimbler than its plodding predecessor, where the Holy Grail turns out to be a Holy Girl. The sequel is a little like CSI: Vatican City.</snippet>
+         <url>http://www.philly.com/philly/entertainment/movies/20090515__Da_Vinci__follow-up_is_a_gory_thriller.html</url>
+         <critic>Carrie Rickey</critic>
+      </review>
+      <review>
+         <snippet>There are so many facts presented that many of them feel forced and trivial. We were also a little disappointed with the twist ending.</snippet>
+         <url>http://www.premiere.com/Review/Movies/Angels-Demons</url>
+         <critic>Patrick Parker</critic>
+      </review>
+      <review>
+         <snippet>Despite the overlong running time, the action moves smoothly and swiftly.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2009/05/14/2009-05-14_ron_howards_angels__demons_runs_too_long_but_gives_thrilling_ride_.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>Less turgid and aggravating than its predecessor, this cleverly produced melodrama remains hamstrung by novelist's Dan Brown's laborious connect-the-dots plotting and the filmmakers' prosaic literal-mindedness in the face of ripe historical antagonisms, mystery and intrigue.</snippet>
+         <url>http://www.variety.com/review/VE1117940184.html?categoryid=31&amp;cs=1</url>
+         <critic>Todd McCarthy</critic>
+      </review>
+      <review>
+         <snippet>Angels &amp; Demons is still no more than another treat for whacked-out male conspiracy theorists.</snippet>
+         <url>http://www.villagevoice.com/2009-05-13/film/angels-demons-has-a-need-for-speed/</url>
+         <critic>Ella Taylor</critic>
+      </review>
+      <review>
+         <snippet>Technically a prequel to "Da Vinci" but could also pass for a two-hour episode of "24," rarely stands still long enough for anyone to deliver a monologue.</snippet>
+         <url>http://www.miamiherald.com/entertainment/movies/reviews/story/1047499.html</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>Watching what Howard has done with the book - covering up the lewdness, blunting the snobbery, and spackling the amazing plot holes - is dismaying. This adaptation has the stink of superiority about it.</snippet>
+         <url>http://www.boston.com/ae/movies/articles/2009/05/15/unoriginal_sin/</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>At half the length, and with half of Hanks' sneering pretension, this would make a pretty terrific action film.</snippet>
+         <url>http://www.avclub.com/articles/angels-demons,28020/?utm_source=channel_film</url>
+         <critic>Tasha Robinson</critic>
+      </review>
+      <review>
+         <snippet>This movie, without being particularly good, is nonetheless far less hysterical than "Da Vinci."</snippet>
+         <url>http://movies.nytimes.com/2009/05/15/movies/15ange.html</url>
+         <critic>A.O. Scott</critic>
+      </review>
+      <review>
+         <snippet>Though complete redemption of Brown's fiction may not be possible, Howard's new film at least represents an upgrade from a mortal to a venal movie sin.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20090513.wangels0514/BNStory/Entertainment/home</url>
+         <critic>Liam Lacey</critic>
+      </review>
+      <review>
+         <snippet>Perhaps this is what fans want from a movie like this: to sit back as if in a Jacuzzi and get a quick impression of history and Rome and such. If so, Howard, Brown and company likely have another monster hit on their hands.</snippet>
+         <url>http://blog.oregonlive.com/madaboutmovies/2009/05/review_breaking_the_code_in_an.html</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>Preposterous.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2009/05/14/DDEM17JSLJ.DTL&amp;type=movies</url>
+         <critic>Amy Binacolli</critic>
+      </review>
+      <review>
+         <snippet>Ultimately everything wilts under the weight of the complicated story lines of its many saints and sinners.</snippet>
+         <url>http://www.latimes.com/entertainment/news/la-et-angels15-2009may15,0,6053625.story</url>
+         <critic>Betsy Sharkey</critic>
+      </review>
+      <review>
+         <snippet>Angels doesn't know when to quit: Just when you think it's over, it continues.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2009-05-13-angels-and-demons_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>Unlike Nicolas Cage in "National Treasure," Hanks lacks the game for it. The surface seriousness of these Dan Brown movies obstructs his affability and easy, attentive way with romance.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/reviews/bal-angels-demons-review-0514,0,1740968.story</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>Whatever Howard's reasons for keeping things so stale, it was a bad choice, but lucky for viewers, some stories are just too crazy for even the dullest storytelling to completely ruin the fun.</snippet>
+         <url>http://movies.tvguide.com/angels-demons/review/297335</url>
+         <critic>Cammila Albertson</critic>
+      </review>
+      <review>
+         <snippet>One of the more cheerfully dumb thrillers I've seen in a good long while.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=11732</url>
+         <critic>Scott Mendelson</critic>
+      </review>
+      <review>
+         <snippet>Presumably in response to criticism that "The Da Vinci Code" was static and talky, director Ron Howard has made Angels &amp; Demons frantic -- and, well, talky.</snippet>
+         <url>http://www.npr.org/templates/story/story.php?storyId=104030264</url>
+         <critic>Bob Mondello</critic>
+      </review>
+      <review>
+         <snippet>What the movie is supposed to accomplish -- laying out a fairly complex mystery in a way that creates suspense -- is precisely what it doesn't do.</snippet>
+         <url>http://www.washingtonpost.com/wp-dyn/content/article/2009/05/14/AR2009051404062.html</url>
+         <critic>John Anderson</critic>
+      </review>
+      <review>
+         <snippet>Angels &amp; Demons is a serious slog. Still, it's an odd kind of a slog that manages to keep you partially engaged, even at its most esoteric or absurd.</snippet>
+         <url>http://online.wsj.com/article/film_review.html</url>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>In its last 20 minutes, Angels does attain the status of good bad movie, with a transcendently absurd climax that's great fun to rehash later over burgers.</snippet>
+         <url>http://www.slate.com/id/2218388/</url>
+         <critic>Dana Stevens</critic>
+      </review>
+      <review>
+         <snippet>Might have been classy, entertaining junk -- if only it were entertaining.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2009/05/15/angels_demons/index.html</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>The only thrill here comes from the adrenaline kick of the chase. Alas, it's an empty, Pavlovian kick at best.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A780028</url>
+         <critic>Kimberley Jones</critic>
+      </review>
+      <review>
+         <snippet>More entertaining than "The Da Vinci Code," but still tosh.</snippet>
+         <url>http://www.empireonline.com/reviews/reviewcomplete.asp?FID=134206</url>
+         <critic>Kim Newman</critic>
+      </review>
+      <review>
+         <snippet>A shapely, stylish, white-knuckle horror-thriller that hits its marks with blood and thunder. It stinks to heaven, too, but it isn't lame. The streets of Rome haven't run this red since the Inquisition.</snippet>
+         <url>http://nymag.com/movies/reviews/56610/</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>Of course, the problem with Angels &amp; Demons is that to get to the final 40 minutes, it's necessary to endure the first 90, and that would be defined as cruel and unusual punishment.</snippet>
+         <url>http://www.reelviews.net/php_review_template.php?identifier=1637</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>Astonishingly, Angels &amp; Demons IS the same sort of lumbering mediocrity.</snippet>
+         <url>http://www.chicagotribune.com/entertainment/movies/chi-tc-mov-angels-demons-0513-05may13,0,220774.story</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>Brown and now Ron Howard have added an incendiary element to trash--open hostility toward the Catholic Church.</snippet>
+         <url>http://www.newyorker.com/arts/critics/cinema/2009/05/25/090525crci_cinema_denby</url>
+         <critic>David Denby</critic>
+      </review>
+   </reviews>
+   <US_Gross>$133,375,846</US_Gross>
+   <production_budget>$150,000,000</production_budget>
+   <weekend_gross>$46,204,168</weekend_gross>
+   <number_of_screens>3,527</number_of_screens>
+   <oscar_winning_actors_present/>
+   <num_oscar_winning_actors>1</num_oscar_winning_actors>
+   <oscar_winning_actor>tom hanks</oscar_winning_actor>
+   <oscar_winning_directors_present/>
+   <num_oscar_winning_directors>1</num_oscar_winning_directors>
+   <oscar_winning_director>ron howard</oscar_winning_director>
+   <highest_grossing_actors_present/>
+   <num_highest_grossing_actors>2</num_highest_grossing_actors>
+   <highest_grossing_actor>tom hanks</highest_grossing_actor>
+   <highest_grossing_actor>ewan mcgregor</highest_grossing_actor>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Lookout, The</name>
+   <company>Miramax Films</company>
+   <genres>
+      <genre>Crime</genre>
+      <genre>Drama</genre>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>Scott Frank</author>
+   </authors>
+   <directors>
+      <director>Scott Frank</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Joseph Gordon-Levitt</actor>
+      <actor>Jeff Daniels</actor>
+      <actor>Matthew Goode</actor>
+      <actor>Isla Fisher</actor>
+      <actor>Carla Gugino</actor>
+      <actor>Bruce McGill</actor>
+      <actor>Alberta Watson</actor>
+      <actor>Alex Borstein</actor>
+   </actors>
+   <release_date>March 30, 2007</release_date>
+   <running_time>98</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>If you enjoyed any of Frank's previous work, or thought "Brick" was the bomb, you'll love this.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/1175126121241280.xml&amp;coll=7</url>
+         <critic>M. E. Russell</critic>
+      </review>
+      <review>
+         <snippet>Gordon-Levitt's worth the admission all by his lonesome. He's that good--the proverbial young man with an old soul who brings unexpected depth, complexity, and sincerity to what could have been just another damaged-guy role. He's the one to look out for.</snippet>
+         <url>http://www.villagevoice.com/film/0713,wilonsky,76201,20.html</url>
+         <critic>Robert Wilonsky</critic>
+      </review>
+      <review>
+         <snippet>The Lookout is Frank's show. He's crafted a haunting and hypnotic film that transcends pulp by creating characters that get under your skin.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/6132195/review/13891755/the_lookout</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>Rarely does a first-time director make as auspicious a debut as Scott Frank has done with the haunting, engrossing and intelligent thriller The Lookout.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2007-03-29-lookout-review_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>The Lookout's thriller elements could stand to be more surprising, but they're ultimately in service of a better understanding of the characters. Usually, it's the other way around.</snippet>
+         <url>http://www.avclub.com/content/cinema/the_lookout</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>Nobody can play stupid better than Daniels – think "Dumb and Dumber" – and, as it turns out, few can play smarter. He's a sharp asset in a sharp movie.</snippet>
+         <url>http://www.csmonitor.com/2007/0330/p14s02-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>The Lookout is funny, tender and littered with elegantly written characters played by actors cast for goodness of fit rather than star wattage.</snippet>
+         <url>http://www.laweekly.com/film+tv/film/the-lookout-look-both-ways/16006/</url>
+         <critic>Ella Taylor</critic>
+      </review>
+      <review>
+         <snippet>A stealthy neo-noir drama that isn't afraid to take its time developing characters on the way to the payoff of a neatly designed caper scenario.</snippet>
+         <url>http://www.variety.com/review/VE1117933048.html?categoryid=31&amp;cs=1&amp;p=0</url>
+         <critic>Joe Leydon</critic>
+      </review>
+      <review>
+         <snippet>Frank's writing is razor-sharp, his filmmaking whistle-clean. As a fan of sharp razors and clean whistles, I enjoyed The Lookout--yet I did feel let down by the climax, which ought to have been blunter and messier and crazier and more cathartic.</snippet>
+         <url>http://nymag.com/movies/reviews/29711/</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>A writer's thriller. True, it's cleanly and efficiently directed, and it showcases some crackerjack acting, but the reason it's a real pleasure to watch is that a writer's sensibility is the foundation everything is built on.</snippet>
+         <url>http://www.calendarlive.com/printedition/calendar/cl-et-lookout30mar30,0,6226269.story</url>
+         <critic>Kenneth Turan</critic>
+      </review>
+      <review>
+         <snippet>We saw what Mr. Gordon-Levitt could do in such diverse films as "Mysterious Skin" and "Brick," and in the TV sitcom "3rd Rock From the Sun." But this performance is something else. It's unforgettable.</snippet>
+         <url/>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>So refreshingly straightforward that at first you may not know what to make of it.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2007/03/30/lookout/index.html</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>A sensitive coping drama after all, while still serving up that noirish heist flick with comic flourishes. That's some range, and in 99 succinct minutes too: Most pictures would be lucky to do half as much in twice the time.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20070329.wlook30/BNStory/Entertainment/home</url>
+         <critic>Rick Groen</critic>
+      </review>
+      <review>
+         <snippet>With his directorial debut, screenwriting stalwart Scott Frank concocts a compelling variation on a reliable film noir convention.</snippet>
+         <url>http://www.premiere.com/moviereviews/3667/the-lookout.html</url>
+         <critic>Glenn Kenny</critic>
+      </review>
+      <review>
+         <snippet>Exactly the right length. That sounds like faint praise, but isn't it rare? Many movies drag past the points where they should stop; others end abruptly, leaving you to wonder at things unexplained or unconcluded.</snippet>
+         <url>http://ae.charlotte.com/entertainment/ui/charlotte/movie.html;jsessionid=3A9997980FF70FD6F67BA0B3780F0699.prodapp12_ae_02?id=840965&amp;reviewId=22363&amp;startDate=03%2F30%2F2007</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>Promises minor pleasures and delivers them. In the process, it's gracious enough to kick in a few extras: a nifty central gimmick, a self-effacing lead performance, and a big slice of ham from supporting actor Jeff Daniels .</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=9883</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>Coolly crafted crime thriller.</snippet>
+         <url>http://www.philly.com/inquirer/columnists/steven_rea/Vulnerable_memory_at_crime_thriller_s_core.html</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>A smart, engrossing thriller in which you care as much about the characters as the crime.</snippet>
+         <url>http://www.tvguide.com/movies/lookout/review/285630</url>
+         <critic>Staff (Not Credited)</critic>
+      </review>
+      <review>
+         <snippet>Though The Lookout is eventually a genre film, with a tense, bang-up ending, it is also a thoughtful study of a young man trying to make sense of a world that he is having to learn all over again.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2007/03/30/2007-03-30_keep_an_eye_on_lookout_star.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>A solidly above-average thriller.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2007/03/30/DDGAKOTH331.DTL&amp;type=movies</url>
+         <critic>Ruthe Stein</critic>
+      </review>
+      <review>
+         <snippet>Frank's dialogue owes a little something to Elmore Leonard, but it's less comic and heavily brocaded.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-070330-movies-review-lookout,0,588995.story?coll=mmx-movies_top_heds</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>More of a leisurely paced ensemble character-study than the slam-bang traditional action gut-buster that its trailer seems to promise.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/309531_lookout30q.html</url>
+         <critic>William Arnold</critic>
+      </review>
+      <review>
+         <snippet>Mr. Frank’s screenplay for The Lookout was long considered one of Hollywood's great unproduced scripts. The end product doesn't  justify that buildup...Still, there's a lot to like here, and the film's bleak setting and empathetic tone add interest to what could have been a by-the-numbers affair.</snippet>
+         <url>http://movies2.nytimes.com/2007/03/30/movies/30look.html?ref=movies</url>
+         <critic>Matt Zoller Seitz</critic>
+      </review>
+      <review>
+         <snippet>The way Frank structures and directs this film, it's too predictably "unpredictable."</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-to.lookout30mar30,0,4413175.story?coll=bal-artslife-movies</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>The Lookout marks Frank's directorial debut after years of working as a screenwriter on movies like "Get Shorty" and "Out of Sight," and though his new movie may lack the sexual tension and bubbly wit that elevated those films to rarefied heights, there's a newfound, and not unwelcome, sobriety to his writing.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A460033</url>
+         <critic>Josh Rosenblatt</critic>
+      </review>
+      <review>
+         <snippet>The Lookout boasts some very interesting, original performances. They make this noirish, bank-heist caper intriguing, but in some ways they actually work against making it believable.</snippet>
+         <url>http://ae.miami.com/entertainment/ui/miami/movie.html;jsessionid=265DBA73156D624744069D1DCF0545CE.prodapp15_ae_01?id=840965&amp;reviewId=22365&amp;startDate=03%2F30%2F2007</url>
+         <critic>Bob Strauss</critic>
+      </review>
+      <review>
+         <snippet>The movie's anti-climatic resolution in concert with the holes left by the occasionally untidy script result in The Lookout not living up to its promise. Compared to some of Frank's past projects, this is a tepid offering.</snippet>
+         <url>http://www.reelviews.net/movies/l/lookout.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>The dour, downbeat story eventually spirals into grisly Grand Guignol and contrivance. Still, Gordon-Levitt is superb, and Jeff Daniels delivers a wry and wily performance as Pratt's blind roommate.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1133611&amp;categories=Movies&amp;nm=1</url>
+         <critic>Ann Hornaday</critic>
+      </review>
+      <review>
+         <snippet>It is worthy of your time, simply because of the brilliant acting and the first and final acts but... the middle of the film feels like an endurance challenge.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=9825</url>
+         <critic>Mark Bell</critic>
+      </review>
+      <review>
+         <snippet>Plot holes and a mixed tone lessen the impact but Gordon-Levitt holds it together with a strong lead performance.</snippet>
+         <url>http://www.empireonline.com/reviews/reviewcomplete.asp?FID=133074</url>
+         <critic>Alan Morrison</critic>
+      </review>
+      <review>
+         <snippet>Combines the sweet strangeness of "Fargo" with the existential panic of "Memento" and some Elmore Leonard tough talk. It all creates a cinematic tummy ache.</snippet>
+         <url>http://www.nypost.com/seven/03302007/entertainment/movies/forget_about_realism_movies_kyle_smith.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>Sleekly tooled but eminently forgettable thriller.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/31329_LOOKOUT.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>A thriller that wheezes along on bits and pieces of ''character.''</snippet>
+         <url>http://www.ew.com/ew/article/0,,20016249,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+   </reviews>
+   <US_Gross>$4,600,585</US_Gross>
+   <weekend_gross>$2,017,795</weekend_gross>
+   <number_of_screens>955</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

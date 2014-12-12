@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Hannah Montana: The Movie</name>
+   <company>Walt Disney Pictures</company>
+   <genres>
+      <genre>Comedy</genre>
+      <genre>FamilyKids</genre>
+      <genre>Musical</genre>
+   </genres>
+   <authors>
+      <author>Barry O&amp;#039;Brien</author>
+      <author>Richard Correll</author>
+      <author>Michael Poryes</author>
+      <author>Daniel Berendsen</author>
+   </authors>
+   <directors>
+      <director>Peter Chelsom</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Miley Cyrus</actor>
+      <actor>Emily Osment</actor>
+      <actor>Peter Gunn</actor>
+      <actor>Melora Hardin</actor>
+      <actor>Barry Bostwick</actor>
+      <actor>Taylor Swift</actor>
+      <actor>Vanessa Williams</actor>
+      <actor>Billy Ray Cyrus</actor>
+   </actors>
+   <release_date>April 10, 2009</release_date>
+   <running_time>102</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>Handles the strained daddy/daughter bond with sufficient lightness and laughs so that fathers won't mind accompanying their spawn.</snippet>
+         <url>http://www.philly.com/philly/entertainment/movies/20090410_Pep_and_pop_from_a_tween_idol.html</url>
+         <critic>Carrie Rickey</critic>
+      </review>
+      <review>
+         <snippet>Music, naturally, is a big part of this movie -- Disney has a soundtrack to sell -- with both Cyruses, Taylor Swift and Rascal Flatts performing.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20090409.wahannah10/BNStory/Entertainment/home</url>
+         <critic>Catherine Dawson March</critic>
+      </review>
+      <review>
+         <snippet>It's just as awesome as the tv show only bigger and prettier.</snippet>
+         <url>http://movies.nytimes.com/2009/04/10/movies/10hann.html?ref=movies</url>
+         <critic>Jeannette Catsoulis</critic>
+      </review>
+      <review>
+         <snippet>A goofily endearing romp that might even lasso a few new fans.</snippet>
+         <url>http://www.variety.com/review/VE1117940025.html?categoryid=31&amp;cs=1</url>
+         <critic>Lael Loewenstein</critic>
+      </review>
+      <review>
+         <snippet>Cyrus, as always, is a professional charmer (it's hard to resist when she leads a hip-hop hoedown), and the crusty folkiness of Billy Ray Cyrus as her real-life dad is as welcome as ever.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20271762,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>If you are a big fan of country music, you will enjoy it for the Taylor Swift, Rascal Flatts, Billy Ray Cyrus and of course, Miley Cyrus performances.</snippet>
+         <url>http://www.premiere.com/Review/Movies/Hannah-Montana-The-Movie</url>
+         <critic>Olivia Putnal</critic>
+      </review>
+      <review>
+         <snippet>In the end, Hannah Montana: The Movie is big, beautiful, a little boring and utterly safe. There are flashes of inspiration -- the "Hoedown Throwdown" dance, the scenes between Martindale and the Cyruses -- but it also is what it is: Miley Cyrus' next big step.</snippet>
+         <url>http://www.latimes.com/entertainment/la-et-hannah10-2009apr10,0,995728.story</url>
+         <critic>Mary McNamara</critic>
+      </review>
+      <review>
+         <snippet>Like 2003's "Lizzie McGuire" movie, "Hannah" breaks little new ground but makes the big screen shift with liveliness and sense of humor impressively intact.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2009/04/09/2009-04-09_miley_cyrus_hannah_montana.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>There are sufficient pratfalls and Miley/Hannah quick-changes to satisfy the fans, while Cyrus retains that natural, unforced likability that made her a star in the first place.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film-reviews/film-review-hannah-montana-the-movie-1003959904.story</url>
+         <critic>Michael Rechtshaffen</critic>
+      </review>
+      <review>
+         <snippet>Cornpone caricatures abound (witness "Hoedown Throwdown," in which Miley sunnily urges us to "pop it, lock it, polka dot it"), but so do worthy messages about responsibility – to family, community, even Mother Earth.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A763707</url>
+         <critic>Kimberley Jones</critic>
+      </review>
+      <review>
+         <snippet>Young Cyrus is undeniably cute, and some of her songs are as catchy as the law allows - especially "Hoedown Throwdown," But asked to anchor a full-length movie, she simply doesn't have the chops to pull it off.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/reviews/bal-to.hannah10apr10,0,603997.story</url>
+         <critic>Chris Kaltenbach</critic>
+      </review>
+      <review>
+         <snippet>The singer-actress has screen presence to spare and a nice, rich voice. By the time her young fans outgrow her -- or she them -- she should have an excellent chance at a second career. Making, you know, real movies and real music.</snippet>
+         <url>http://www.washingtonpost.com/gog/movies/hannah-montana-the-movie,1156054.html</url>
+         <critic>Michael O&amp;#039;Sullivan</critic>
+      </review>
+      <review>
+         <snippet>Miley may vacillate, but for now her indentured servitude to Disney continues. The image that comes to mind is Princess Leia chained to Jabba the Hutt, but that's probably just me.</snippet>
+         <url>http://www.boston.com/ae/movies/articles/2009/04/10/hannah_is_still_keeping_a_secret/</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>It's almost foolish to review Hannah Montana: The Movie as anything other than the latest cog in a cultural phenomenon/mass-marketing juggernaut. The film itself certainly doesn't aspire to anything more.</snippet>
+         <url>http://www.laweekly.com/2009-04-09/film-tv/movie-reviews-anvil-the-story-of-anvil-dragonball-evolution-hannah-montana-the-movie/</url>
+         <critic>Ernest Hardy</critic>
+      </review>
+      <review>
+         <snippet>I like the end-credits sequence best, which has nothing to do with hoary complications or the miseries of stardom or the magical spellbinding powers of a cheap wig.</snippet>
+         <url>http://www.chicagotribune.com/entertainment/movies/chi-tc-mov-hannah-montana-0408-1apr10,0,4200102.story</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>The only folks Montana is interested in pleasing are prepubescent girls and Disney stockholders.</snippet>
+         <url>http://www.avclub.com/articles/hannah-montana-the-movie,26445/</url>
+         <critic>Nathan Rabin</critic>
+      </review>
+      <review>
+         <snippet>It's hard not to wish the same wholesome message could be conveyed with a bit more finesse and originality.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2009-04-09-hannah-montana-movie_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>The movie overall is painless if not exactly electrifying.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2009/04/10/hannah_montana/index.html</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>Perhaps the thing that most surprised me is how fingernails-on-blackboard awful the music is.</snippet>
+         <url>http://www.reelviews.net/php_review_template.php?identifier=1565</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>The best that can be said of it: inoffensive.</snippet>
+         <url>http://online.wsj.com/article/SB123931508054406587.html</url>
+         <critic>Joanne Kaufman</critic>
+      </review>
+      <review>
+         <snippet>Lazy but functional tween fare.</snippet>
+         <url>http://www.empireonline.com/reviews/reviewcomplete.asp?FID=135995</url>
+         <critic>Anna Smith</critic>
+      </review>
+      <review>
+         <snippet>The most shocking thing here is the fact that Peter Chelsom directed it. His 1995 movie, "Funny Bones," is a genuinely transgressive piece of dark comedy. I can't detect a trace of Chelsom in Hannah Montana, which means he won't have to wear a blonde wig to hide his shame.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/21799127/review/27461024/hannah_montana_the_movie</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>Fans will clap along with the many songs, but the tunes aren't interesting enough to win over the unconverted -- a fact made clear when genuine teen star Taylor Swift shows up to perform -- she demonstrates all the spontaneity and authenticity that Miley Cyrus lacks.</snippet>
+         <url>http://movies.tvguide.com/detail/movie.aspx?tvobjectid=297109&amp;more=ucmoviereview</url>
+         <critic>Perry Seibert</critic>
+      </review>
+      <review>
+         <snippet>If you're no longer old enough to carry a Hannah Montana lunch box, this movie will feel like punishment.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2009/04/09/DDCD16V8QG.DTL&amp;type=movies</url>
+         <critic>Peter Hartlaub</critic>
+      </review>
+      <review>
+         <snippet>The thing is a virtual remake of the fusty oldie "Sweet Home Alabama," which came out back when movie scripts were written on stone tablets.</snippet>
+         <url>http://www.nypost.com/seven/04102009/entertainment/movies/montana_a_real_butte_163693.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+   </reviews>
+   <US_Gross>$79,576,189</US_Gross>
+   <weekend_gross>$32,324,487</weekend_gross>
+   <number_of_screens>3,118</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

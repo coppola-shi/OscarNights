@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Doom</name>
+   <company>Universal Studios Inc.</company>
+   <genres>
+      <genre>Action</genre>
+      <genre>Horror</genre>
+      <genre>Scifi</genre>
+   </genres>
+   <authors>
+      <author>Dave Callaham</author>
+      <author>Wesley Strick</author>
+   </authors>
+   <directors>
+      <director>Andrzej Bartkowiak</director>
+   </directors>
+   <origins>
+      <origin>USACzechRepublic</origin>
+   </origins>
+   <actors>
+      <actor>Karl Urban</actor>
+      <actor>The Rock</actor>
+      <actor>Rosamund Pike</actor>
+      <actor>Deobia Oparei</actor>
+      <actor>Ben Daniels</actor>
+      <actor>Razaaq Adoti</actor>
+      <actor>Richard Brake</actor>
+      <actor>Al Weaver</actor>
+   </actors>
+   <release_date>October 21, 2005</release_date>
+   <running_time>100</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>For a big-screen disposable, Doom has a few jolts, a few good laughs and an attractive female lead to whom you want to say, "What's a nice girl like you doing on a Mars like this?"</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2005-10-20-doom_x.htm</url>
+         <critic>Mike Clark</critic>
+      </review>
+      <review>
+         <snippet>It's really not all that bad. Ultra-derivative bigscreen transplant of one of the most successful (and controversial) games ever made plays like a mutant cross between a biotech thriller and a zombie movie, with all the alien autopsies, blood-gushing protuberances and meaningless scientific jargon that come with the territory.</snippet>
+         <url>http://www.variety.com/review/VE1117928623?categoryid=31&amp;cs=1</url>
+         <critic>Justin Chang</critic>
+      </review>
+      <review>
+         <snippet>By hewing close to James Cameron's "Aliens" playbook, Doom manages to escape the game-to-movie curse that afflicted "Resident Evil," "House of the Dead," and, well, every other movie based on a game.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1120091_1_0_,00.html</url>
+         <critic>Marc Bernardin</critic>
+      </review>
+      <review>
+         <snippet>Doom may be by the numbers, with a roll call of colorful types systematically exterminated while The Rock entertains with cartoonish expressions and reactions (the closest the film comes to personality).</snippet>
+         <url>http://seattlepi.nwsource.com/movies/245332_doom21q.html</url>
+         <critic>Sean Axmaker</critic>
+      </review>
+      <review>
+         <snippet>Plot, character development and dialogue are so sparse that the screenwriters are fortunate they're not paid by the word. But this basic approach doesn't render it ineffectual. There's so little to go wrong that those who like their entertainment mindless and violent will find little fault.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1001349219</url>
+         <critic>Richard James Havis</critic>
+      </review>
+      <review>
+         <snippet>Doom, the film, aspires to be more than just a gory shoot em' up--though it'd still be a stretch to call it a thinking man's action movie.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-0501021-movies-review-doom,0,3053921.story?coll=mmx-movies_top_heds</url>
+         <critic>Robert K. Elder</critic>
+      </review>
+      <review>
+         <snippet>The Rock's ungainly performance is somewhat alleviated by Karl Urban as a crew member and Rosamund Pike as his twin sister.</snippet>
+         <url>http://spacefinder.chicagoreader.com/movies/briefs/28800_DOOM.html</url>
+         <critic>Staff (Not credited)</critic>
+      </review>
+      <review>
+         <snippet>Dreary-looking and painfully slow, but it's not terrible.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=7187</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>If he (The Rock) can keep those wandering eyebrows in check, his future as an action hero appears unlimited--that is, provided he can resist taking roles in movies like this one.</snippet>
+         <url>http://avclub.com/content/node/41884</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>The movie ultimately cops out by culminating in a fistfight between two humans, with nary a cyborg missile-throwing devil in sight.</snippet>
+         <url>http://listings.dallasobserver.com/gyrobase/Film/ShowFilm</url>
+         <critic>Luke Y. Thompson</critic>
+      </review>
+      <review>
+         <snippet>As dumb as they come, the entertaining Doom might warrant a place in cinema history as the first movie in which someone rips off their own ear.</snippet>
+         <url>http://www.villagevoice.com/film/0543,tracking9,69447,20.html</url>
+         <critic>Drew Tillman</critic>
+      </review>
+      <review>
+         <snippet>Beyond a couple of cool guns and one long, gory, clever first-person shot, Doom is something the video games have never been: dull.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/1129805854180870.xml&amp;coll=7</url>
+         <critic>M. E. Russell</critic>
+      </review>
+      <review>
+         <snippet>Not quite as dreadful as Resident Evil: Apocalypse, but that's hardly a major achievement.</snippet>
+         <url>http://www.empireonline.co.uk/incinemas/ReviewComplete.asp?FID=10329</url>
+         <critic>Kim Newman</critic>
+      </review>
+      <review>
+         <snippet>Doesn’t break any new ground – it actually steals from half a dozen other sci-fi movies – but it’ll make enough at the box office to justify further game flicks.</snippet>
+         <url>http://www.filmthreat.com/Reviews.asp?Id=8085</url>
+         <critic>Pete Vonder Haar</critic>
+      </review>
+      <review>
+         <snippet>Like Doom itself, the movie is rich in backstory, but sparse in actual story.</snippet>
+         <url>http://online.tvguide.com/movies/database/showmovie.asp?MI=46058</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>Basically a deadly dull rehash of "Resident Evil," which in turn was a third-generation clone of "Aliens."</snippet>
+         <url>http://www.nypost.com/movies/55805.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>We don't need a discussion of plot in a review of a movie made from a video game, do we? Nor do we care whether the characters are complicated (no), the acting is sophisticated (no), the direction is competent (no) or the camerawork is clever (no).</snippet>
+         <url>http://ae.charlotte.com/entertainment/ui/charlotte/movie.html?id=441433&amp;reviewId=19316&amp;startDate=NEXT7</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>The latest failed Hollywood attempt to make a movie from a video game.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-to.doom21oct21,1,2824135.story?coll=bal-artslife-movies</url>
+         <critic>Chris Kaltenbach</critic>
+      </review>
+      <review>
+         <snippet>Baffling too is The Rock's choice to follow up his acclaimed performance in "Be Cool" with a role that requires him to do little more than widen his eyes and grunt lines.</snippet>
+         <url>http://www.laweekly.com/film/film_results.php?showid=3621&amp;Sumbit.x=48&amp;Sumbit.y=17</url>
+         <critic>Chuck Wilson</critic>
+      </review>
+      <review>
+         <snippet>Go for the gore (there's lots of it), but stay for the immortal line: "Now let's go find the body this arm belongs to."</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A301018</url>
+         <critic>Marc Savlov</critic>
+      </review>
+      <review>
+         <snippet>A loud, standard-issue sci-fi action film that has a confusing mission.</snippet>
+         <url>http://www.washingtonpost.com/wp-dyn/content/article/2005/10/20/AR2005102000615.html</url>
+         <critic>Desson Thomson</critic>
+      </review>
+      <review>
+         <snippet>Shows less human dimension than the new Wallace and Gromit movie.</snippet>
+         <url>http://www.calendarlive.com/printedition/calendar/cl-et-doom21oct21,0,5720267.story</url>
+         <critic>Gene Seymour</critic>
+      </review>
+      <review>
+         <snippet>Watching Doom is like visiting Vegas and never leaving your hotel room.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20051020/REVIEWS/51012003</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>Even The Rock, who can usually be counted on to enliven any scenario, seems bored by the laughably feeble script.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/moviereviews/story/357795p-304695c.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>Like most movies based on games, this film appears to have been quite literally doomed from the start.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2005/10/21/DDGJNFB58R1.DTL&amp;type=movies</url>
+         <critic>Peter Hartlaub</critic>
+      </review>
+      <review>
+         <snippet>Doom is, to its detriment, a remarkably faithful re-creation of the massively popular video game. In other words, it's a dark, violent, nerve-wracking, trigger-giddy waste of time.</snippet>
+         <url>http://ae.philly.com/entertainment/ui/philly/movie.html?id=441433&amp;reviewId=19319&amp;startDate=10%2F20%2F2005</url>
+         <critic>David Hiltbrand</critic>
+      </review>
+      <review>
+         <snippet>A dreadful, hackneyed piece of cinema.</snippet>
+         <url>http://movie-reviews.colossus.net/movies/d/doom.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>This claustrophobic mess of a movie offers only carnage.</snippet>
+         <url>http://movies2.nytimes.com/2005/10/21/movies/21doom.html</url>
+         <critic>Janet Maslin</critic>
+      </review>
+   </reviews>
+   <US_Gross>$28,212,337</US_Gross>
+   <production_budget>$70,000,000</production_budget>
+   <weekend_gross>$15,488,870</weekend_gross>
+   <number_of_screens>3,043</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

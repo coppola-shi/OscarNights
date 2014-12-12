@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Camden 28, The</name>
+   <company/>
+   <genres>
+      <genre>Documentary</genre>
+   </genres>
+   <authors>
+      <author/>
+   </authors>
+   <directors>
+      <director>Anthony Giacchino</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors/>
+   <release_date>July 27, 2007</release_date>
+   <running_time>90</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>Scene for scene, The Camden 28 is a brilliant merger of political outrage and filmmaking chops, and the most suspenseful movie in theaters right now.</snippet>
+         <url>http://movies.nytimes.com/2007/07/27/movies/27camd.html?ref=movies</url>
+         <critic>Matt Zoller Seitz</critic>
+      </review>
+      <review>
+         <snippet>Unexpectedly poignant documentary.</snippet>
+         <url>http://www.tvguide.com/movies/camden-28/review/114771</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>Though the filmmaking is pedestrian, The Camden 28's timeless truths come through with resounding power.</snippet>
+         <url>http://www.avclub.com/content/cinema/the_camden_28</url>
+         <critic>Nathan Rabin</critic>
+      </review>
+      <review>
+         <snippet>Not exactly blazing cinema, but intellectually riveting.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2007/08/02/btm/index2.html</url>
+         <critic>Andrew O&amp;#039;Hehir</critic>
+      </review>
+      <review>
+         <snippet>Fond, stinging, and finally instructive, the film assembles a comprehensive look back at the actions, arrest, and prosecution of a group of political malcontents (most of them young Catholics and some of them priests) in the summer of 1971.</snippet>
+         <url>http://www.villagevoice.com/film/0730,various,77314,20.html</url>
+         <critic>Michelle Orange</critic>
+      </review>
+      <review>
+         <snippet>The video lapses into self-congratulation near the end, as many of the principals reunite for a 2002 retrospective, but for the most part this is a powerful tale of conscience, betrayal, and forgiveness.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/capsules/30347_CAMDEN_TWENTY_EIGHT</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>Director Anthony Giacchino realizes what an engaging tale he’s uncovered, and stays back to let the members tell their story.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=10137</url>
+         <critic>Matthew Sorrento</critic>
+      </review>
+      <review>
+         <snippet>The Camden 28 is slapdash: more talking heads, reunion footage with the mother reading from her own testimony, newscasts of the day. But the editing supplies some urgency, and the subjects remain radiant yet down-to-earth--too good-humored to be beatific.</snippet>
+         <url>http://nymag.com/movies/reviews/34986/index1.html</url>
+         <critic>David Edelstein</critic>
+      </review>
+   </reviews>
+   <US_Gross>$6,983</US_Gross>
+   <weekend_gross>$3,429</weekend_gross>
+   <number_of_screens>1</number_of_screens>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

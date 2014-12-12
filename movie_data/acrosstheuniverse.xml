@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Across the Universe</name>
+   <company>Columbia Pictures</company>
+   <genres>
+      <genre>Drama</genre>
+      <genre>Musical</genre>
+      <genre>Romance</genre>
+   </genres>
+   <authors>
+      <author>Julie Taymor</author>
+      <author>Dick Clement</author>
+      <author>Ian La Frenais</author>
+   </authors>
+   <directors>
+      <director>Julie Taymor</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Evan Rachel Wood</actor>
+      <actor>Jim Sturgess</actor>
+      <actor>Joe Anderson</actor>
+      <actor>Dana Fuchs</actor>
+      <actor>Eddie Izzard</actor>
+      <actor>Martin Luther</actor>
+      <actor>T.V. Carpio</actor>
+      <actor>Bono</actor>
+   </actors>
+   <release_date>September 14, 2007</release_date>
+   <running_time>131</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>Here is a bold, beautiful, visually enchanting musical where we walk INTO the theater humming the songs.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20070913/REVIEWS/709130301</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>This much is inarguable: In the more than two flamboyant hours of Across the Universe, Julie Taymor doesn't cheat us for a single second.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20070913.wuniversereview0914/BNStory/Entertainment/home</url>
+         <critic>Rick Groen</critic>
+      </review>
+      <review>
+         <snippet>The film is a strange, nostalgic, suitably outrageous ode to a very real revolution in consciousness.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/331557_across14q.html</url>
+         <critic>William Arnold</critic>
+      </review>
+      <review>
+         <snippet>Somewhere around its midpoint, Across the Universe captured my heart, and I realized that falling in love with a movie is like falling in love with another person. Imperfections, however glaring, become endearing quirks once you’ve tumbled.</snippet>
+         <url>http://movies.nytimes.com/2007/09/14/movies/14univ.html?ref=movies</url>
+         <critic>Stephen Holden</critic>
+      </review>
+      <review>
+         <snippet>A load of kids singing Beatles tunes? You better believe it.</snippet>
+         <url>http://www.empireonline.com/reviews/reviewcomplete.asp?FID=135154</url>
+         <critic>Ian Nathan</critic>
+      </review>
+      <review>
+         <snippet>While the songs are recycled, Across the Universe stands out just by existing.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2007/09/14/DDG3RVRFR.DTL&amp;type=movies</url>
+         <critic>Peter Hartlaub</critic>
+      </review>
+      <review>
+         <snippet>Across the Universe can't achieve the transcendence and exhilaration musicals strive for, but it often generates a singular kind of magic you've never experienced before.</snippet>
+         <url>http://www.miamiherald.com/1054/story/236061.html</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>It's a funny thing: On the one hand, you fault Taymor for going out of her way to create some of the more disposable sequences. On the other, you can forgive her: Who wouldn't get carried away given the opportunity she has been given here to play with one of the world's greatest song catalogs?</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/1190769917273680.xml&amp;coll=7</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>If you're a Beatles fan who's not offended by people taking serious liberties with the arrangements of your favorite songs, the unrepentantly exuberant and seriously tuneful Across the Universe is pretty much a sure thing.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-070914-movies-review-universe,0,2839097.story?coll=mmx-movies_top_heds</url>
+         <critic>Jessica Reaves</critic>
+      </review>
+      <review>
+         <snippet>All you need is love -- for the Beatles, for psychedelic visuals, for ideas about being young in the ‘60s -- to fully enjoy Across the Universe.</snippet>
+         <url>http://www.variety.com/review/VE1117934673.html?categoryid=31&amp;cs=1</url>
+         <critic>Justin Chang</critic>
+      </review>
+      <review>
+         <snippet>It's all very clever and thought-through, but all the allusions don't much bolster the bland central romance or the paper-thin treatment of '60s social issues.</snippet>
+         <url>http://www.avclub.com/content/cinema/across_the_universe</url>
+         <critic>Tasha Robinson</critic>
+      </review>
+      <review>
+         <snippet>Taymor's flower-powery phantasmagoria is ambitious but ultimately tiresome.</snippet>
+         <url>http://www.csmonitor.com/2007/0914/p14s01-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>A bizarre counterculture jukebox musical.</snippet>
+         <url>http://www.philly.com/philly/entertainment/movies/20070914_A_trippy_journey_goes_astray.html</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>To call it trippy would be an understatement. Your head might explode. Just don't accuse Taymor of playing it safe.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/9200818/review/16681840/across_the_universe</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>And yes, that is Salma Hayek in the chorus line of sexily sinister nurses, perhaps repaying Taymor for lending her dramatic credibility with "Frida."</snippet>
+         <url>http://www.tvguide.com/detail/movie.aspx?tvobjectid=290469&amp;more=ucmoviereview</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>Julie Taymor says the idea for her Across the Universe was "to create an original musical using only the songs of the Beatles." That's like saying you're going to create a new element using only gold.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2007/09/14/2007-09-14_taymors_beatles_musical_is_a_hard_days_f.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>An interesting failure, not a fascinating one.</snippet>
+         <url>http://www.nypost.com/seven/09142007/entertainment/movies/it_goes_nowhere__man.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>While style trumps substance, something in the way this '60s tribute moves attracts us.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2007-09-13-alsoopening-universe-woodcock_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>Disarming, discombobulating and disappointing.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/reviews/bal-to.universe28sep28,0,6295361.story</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>The film does not know what it is, tonally changing within and between structural acts.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=10280</url>
+         <critic>Mark Bell</critic>
+      </review>
+      <review>
+         <snippet>Across the Universe, which filters the cultural revolt through a blizzard of early Beatles songs, ends up both reductive and smugly condescending to a presumptively know-nothing audience.</snippet>
+         <url>http://www.villagevoice.com/film/0737,taylor,77753,20.html</url>
+         <critic>Ella Taylor</critic>
+      </review>
+      <review>
+         <snippet>Elements of Across the Universe are shockingly awful and the film lasts at least 30 minutes past the bearable stage. But if you like the Beatles and the idea of hearing about 20 covers of their work fills you with a perverse joy, this may be the movie for you.</snippet>
+         <url>http://www.reelviews.net/movies/a/across_universe.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>Julie Taymor's visual gifts are very much in evidence in Across the Universe, an ambitious, only partly successful attempt to reinvigorate the musical genre.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?JSESSIONID=8xn1Gy1RQMJZLJpLJLhnL7y42F4NwJHYqswbTWlZgyyZVw91vJNX!-45203434&amp;&amp;rid=9802</url>
+         <critic>Stephen Farber</critic>
+      </review>
+      <review>
+         <snippet>Goofy, pompous, annoyingly boomer-myopic Fab Four musical.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20056210,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>A yawn and most unforgivably features some appalling arrangements of the Beatles' best-loved songs.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1136199&amp;categories=Movies&amp;nm=1</url>
+         <critic>Ann Hornaday</critic>
+      </review>
+      <review>
+         <snippet>Hobbled by its vaguely insulting comic-book version of the '60s and by a humorlessness that can only come from talented people convinced they're creating work for the ages.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=8798</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>If a bullet hadn't killed John Lennon, this Beatles-scored musical might have.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/32084_ACROSS_THE_UNIVERSE.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>Director Julie Taymor's gargantuan all-Beatles-songs musical is that rarest of animals, the perfect disaster that fulfills expectations by defying them.</snippet>
+         <url>http://www.premiere.com/moviereviews/4066/across-the-universe.html</url>
+         <critic>Glenn Kenny</critic>
+      </review>
+      <review>
+         <snippet>Across the Universe will have ardent defenders, but in the long run, it will do nothing to infuse life into the current mini-revival of movie musicals and is as soft-headed as the wishful refrain “All You Need Is Love.” Maybe that works in real life but not in the movies, sister.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A542912</url>
+         <critic>Marjorie Baumgarten</critic>
+      </review>
+   </reviews>
+   <US_Gross>$24,343,673</US_Gross>
+   <production_budget>$45,000,000</production_budget>
+   <weekend_gross>$667,784</weekend_gross>
+   <number_of_screens>23</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

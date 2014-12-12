@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Beyond a Reasonable Doubt</name>
+   <company>Anchor Bay Entertainment</company>
+   <genres>
+      <genre>Drama</genre>
+      <genre>Mystery</genre>
+   </genres>
+   <authors>
+      <author>Peter Hyams</author>
+   </authors>
+   <directors>
+      <director>Peter Hyams</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Michael Douglas</actor>
+      <actor>Amber Tamblyn</actor>
+      <actor>Jesse Metcalfe</actor>
+   </actors>
+   <release_date>September 11, 2009</release_date>
+   <running_time>105</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>Like the decent B-movie director that he is, Hyams tosses in two gripping car chases and blows up a few more vehicles for good measure. But otherwise, there's little in this pointless rehash to distract audiences from the pleasure of watching Tamblyn.</snippet>
+         <url>http://www.npr.org/templates/story/story.php?storyId=112524020</url>
+         <critic>Ella Taylor</critic>
+      </review>
+      <review>
+         <snippet>Lacks tension or mystery. Even the courtroom scenes feel artificial.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2009-09-10-reasonable-doubt_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>He squeezes a bit of suspenseful juice out of the old plot, and Douglas makes smarm a chewy pleasure, but this is a noir in search of a hero we can root for because we actually buy what he’s doing.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20303096,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>Lang's film, the last he made in the U.S., exposed the immorality of the death penalty; Hyams's retread offers only more plot and longer, louder car chases.</snippet>
+         <url>http://www.villagevoice.com/2009-09-08/film/michael-douglas-collects-a-paycheck-for-beyond-a-reasonable-doubt/</url>
+         <critic>Melissa Anderson</critic>
+      </review>
+      <review>
+         <snippet>Despite excellent stunt work and a too-brief appearance by Orlando Jones as an unflappable cop, the movie -- unlike Mr. Douglas’s hairdo -- never rises above mediocrity.</snippet>
+         <url>http://movies.nytimes.com/2009/09/11/movies/11beyond.html?ref=movies</url>
+         <critic>Jeannette Catsoulis</critic>
+      </review>
+      <review>
+         <snippet>Comes across as more 80s TV movie than 50s period piece.</snippet>
+         <url>http://www.empireonline.com/reviews/reviewcomplete.asp?FID=136570</url>
+         <critic>Staff (Not credited)</critic>
+      </review>
+      <review>
+         <snippet>The scam is so crazy, it just might work…for a throwaway episode of "Law &amp; Order."</snippet>
+         <url>http://newyork.timeout.com/articles/film/78397/beyond-a-reasonable-doubt-film-review</url>
+         <critic>Aaron Hillis</critic>
+      </review>
+      <review>
+         <snippet>The lack of charisma exhibited by leads Jesse Metcalfe and Amber Tamblyn doesn't help matters, and not even the stalwart presence of Michael Douglas fails to provide the proceedings with sufficient gravitas.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film-reviews/beyond-a-reasonable-doubt-film-review-1004011170.story</url>
+         <critic>Frank Scheck</critic>
+      </review>
+      <review>
+         <snippet>The leads can't lend either spunk or gravitas to what was already a preposterous yarn 50 years ago.</snippet>
+         <url>http://www.latimes.com/entertainment/news/la-et-capsules11-2009sep11,0,4777361.story</url>
+         <critic>Robert Abele</critic>
+      </review>
+      <review>
+         <snippet>What I can’t figure out is how director Peter Hyams can remake a 1956 movie from the great Fritz Lang and not learn anything about suspense, pacing and storytelling in the process. This movie is beyond boring. You could stay warm for two hours by striking a match to the wooden acting.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/21096043/review/30065634/beyond_a_reasonable_doubt</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>The would-be noir Beyond a Rea sonable Doubt has an absurd story, but on the plus side you can hardly see what's going on because the photography is so murky.</snippet>
+         <url>http://www.nypost.com/p/entertainment/movies/absurd_plot_no_doubt_about_it_f8wO1n2LBjvGK7EyvGeCUL</url>
+         <critic>Kyle Smith</critic>
+      </review>
+   </reviews>
+   <US_Gross>$32,917</US_Gross>
+   <weekend_gross>$17,164</weekend_gross>
+   <number_of_screens>5</number_of_screens>
+   <oscar_winning_actors_present/>
+   <num_oscar_winning_actors>1</num_oscar_winning_actors>
+   <oscar_winning_actor>michael douglas</oscar_winning_actor>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

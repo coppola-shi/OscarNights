@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Battle in Seattle</name>
+   <company>Redwood Palms Pictures</company>
+   <genres>
+      <genre>Action</genre>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author>Stuart Townsend</author>
+   </authors>
+   <directors>
+      <director>Stuart Townsend</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Isaach De Bankole</actor>
+      <actor>Woody Harrelson</actor>
+      <actor>Ray Liotta</actor>
+      <actor>Martin Henderson</actor>
+      <actor>Michelle Rodriguez</actor>
+      <actor>Andre Benjamin</actor>
+      <actor>Connie Nielsen</actor>
+      <actor>Joshua Jackson</actor>
+   </actors>
+   <release_date>September 19, 2008</release_date>
+   <running_time>100</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>His (Townsend) staging has a tumult, a multi-POV immediacy that brings to mind Paul Greengrass' "Bloody Sunday."</snippet>
+         <url>http://www.ew.com/ew/article/0,,20228550,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>The result is not quite a documentary and not quite a drama, but interesting all the same. It uses the approach of Haskell Wexler's "Medium Cool" (1969), but without the same urgency.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20080925/REVIEWS/809250301</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>It's the next best thing to being there, in that it's likely to make shuddering viewers intensely glad that they weren't.</snippet>
+         <url>http://www.avclub.com/content/cinema/battle_in_seattle</url>
+         <critic>Tasha Robinson</critic>
+      </review>
+      <review>
+         <snippet>What the film lacks in artistry it makes up for in commitment.</snippet>
+         <url>http://movies.tvguide.com/battle-seattle/review/294806</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>While it makes no bones about where its sympathies lie, these fictional stories show a genuine fascination with the role politics plays on both sides of such confrontations and how things can spin out of control with no single person to blame.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/imdb/reviews/article_display.jsp?rid=9826&amp;vnu_special_account_code=thrsiteimdbpro</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>Absorbing docudrama.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/33581_BATTLE_IN_SEATTLE.html</url>
+         <critic>Joshua Katzman</critic>
+      </review>
+      <review>
+         <snippet>Is it too much to ask that the fictional scenes have at least some of the complexity and unpredictability of the real-life theater?</snippet>
+         <url>http://seattlepi.nwsource.com/movies/379655_battle19q.html</url>
+         <critic>Sean Axmaker</critic>
+      </review>
+      <review>
+         <snippet>Picture's ambition, cogency and decent performances make up for its uneven aspects. Woody Harrelson has some especially good moments as a cop.</snippet>
+         <url>http://www.variety.com/review/VE1117934682.html?categoryid=2850&amp;cs=1&amp;p=0</url>
+         <critic>Dennis Harvey</critic>
+      </review>
+      <review>
+         <snippet>Flapping like a scarecrow in the wind, Battle in Seattle is too frantic to make more than a transitory impression, yet too responsibly hackneyed in its characterizations to achieve pure tabloid hysteria.</snippet>
+         <url>http://www.villagevoice.com/2008-09-17/film/battle-in-seattle-and-virtual-jfk-ask-we-or-he-the-people/</url>
+         <critic>J. Hoberman</critic>
+      </review>
+      <review>
+         <snippet>A drama is only as convincing as its characters. The people awkwardly forced together in Battle in Seattle are rhetorical mouthpieces tied to the sketchy plotlines of a so-so Hollywood ensemble movie.</snippet>
+         <url>http://movies.nytimes.com/2008/09/19/movies/19seat.html?ref=movies</url>
+         <critic>Stephen Holden</critic>
+      </review>
+      <review>
+         <snippet>In his directing debut Battle in Seattle, actor Stuart Towns end does an impressive job (on a shoestring budget) of re-creating the massive street protests that forced the cancellation of the World Trade Organization summit in 1999.</snippet>
+         <url>http://www.nypost.com/seven/09192008/entertainment/movies/riotous_tale_not_well_espressod_129733.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>Getting an inside view on events is fascinating enough to carry the movie.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2008/09/18/DDM91300N1.DTL&amp;type=movies</url>
+         <critic>Reyhan Harmanci</critic>
+      </review>
+      <review>
+         <snippet>The chief culprits are Townsend's TV-movie characterizations and a very muddled message.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=12360</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>Near the end of the movie, Django jokes that, after the protests, people may still not know what the WTO is, but "they know it's bad." That's a fair summation of how much insight Battle in Seattle provides for its viewers.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20081016.wbattle17/BNStory/Entertainment/home</url>
+         <critic>Liam Lacey</critic>
+      </review>
+      <review>
+         <snippet>Townsend's sincerity, his admiration for the idealism of the people behind the anti-WTO protests, is never in doubt, but combining drama with historical re-creation is frankly a challenge his filmmaking skills are not up to.</snippet>
+         <url>http://www.latimes.com/entertainment/news/reviews/la-et-battle26-2008sep26,0,3573624.story</url>
+         <critic>Kenneth Turan</critic>
+      </review>
+      <review>
+         <snippet>It's a movie by a true believer in anti-globalization, and it may win a few converts, but not among devotees of convincing, capable cinema.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1143580&amp;categories=Movies</url>
+         <critic>John Anderson</critic>
+      </review>
+      <review>
+         <snippet>Well-intentioned but as earnest as a college freshman discovering campus politics.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2008/09/19/2008-09-19_short_takes_for_the_weekend_of_september.html</url>
+         <critic>Joe Neumaier</critic>
+      </review>
+   </reviews>
+   <US_Gross>$223,537</US_Gross>
+   <weekend_gross>$46,903</weekend_gross>
+   <number_of_screens>8</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

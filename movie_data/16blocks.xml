@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>16 Blocks</name>
+   <company>Warner Bros.</company>
+   <genres>
+      <genre>Action</genre>
+      <genre>Adventure</genre>
+      <genre>Crime</genre>
+      <genre>Drama</genre>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>Richard Wenk</author>
+   </authors>
+   <directors>
+      <director>Richard Donner</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Bruce Willis</actor>
+      <actor>Mos Def</actor>
+      <actor>David Morse</actor>
+      <actor>Cylk Cozart</actor>
+      <actor>David Sparrow</actor>
+      <actor>David Zayas</actor>
+   </actors>
+   <release_date>March 3, 2006</release_date>
+   <running_time>105</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>A helluva lot happens in 16 Blocks - an outrageous amount, really, along with a coda that deposits the audience squarely at a movieland finale. Who knew that looking both ways before crossing is where the real action is?</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1168934_1_0_,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>As good as Willis is, he's no match for Mos Def.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-to.blocks03mar03,0,5668653.story?coll=bal-artslife-movies</url>
+         <critic>Chris Kaltenbach</critic>
+      </review>
+      <review>
+         <snippet>This is some of the best filmmaking ever done by director Richard Donner, a longtime Hollywood journeyman known more for his proficient deployment of three long-running movie franchises (The Omen, Superman and Lethal Weapon) than for his lyricism.</snippet>
+         <url>http://www.laweekly.com/film/12802/take-the-long-way-home/</url>
+         <critic>Scott Foundas</critic>
+      </review>
+      <review>
+         <snippet>Mr. Willis has always been an acquired taste, but for those who did acquire that taste, riding shotgun on his good times and bad, it's a pleasure to see him doing what comes naturally.</snippet>
+         <url>http://movies2.nytimes.com/2006/03/03/movies/03bloc.html</url>
+         <critic>Manohla Dargis</critic>
+      </review>
+      <review>
+         <snippet>A mismatched-buddy movie that's endearing, funny and affecting in equal measure.</snippet>
+         <url/>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>A ticking clock scenario and a terrific performance by Willis as an alcoholic NYPD detective make up for the film's occasional missteps and some strange pop culture references.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-block3mar03,0,2629542.story</url>
+         <critic>Kevin Crust</critic>
+      </review>
+      <review>
+         <snippet>Def and Willis are both good, but Donner's lethal weapon here is Morse, a chronically overlooked character actor whose combined tenderness and ruthlessness make him the most fascinating heavy since Robert Ryan.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/critic.html#29367</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>A throwback to an age when action movies had room between shoot-outs and car chases for dialogue - real dialogue, not rim-shot-ready one-liners - and character development.</snippet>
+         <url>http://online.tvguide.com/movies/database/Movie-Review.asp?MI=46654</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>The bedrock of the plot is the dogged determination of the Bruce Willis character. Jack may be middle-aged, he may be tired, he may be balding, he may be a drunk, but if he's played by Bruce Willis you don't want to bet against him.</snippet>
+         <url>http://www.rogerebert.com/apps/pbcs.dll/article?AID=/20060302/REVIEWS/60301010/1023</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>Mos Def makes it work. It's a truly daring piece of acting because it skirts racial stereotyping and is so out of key with everything else in the movie. But that's just why it is so good.</snippet>
+         <url>http://www.csmonitor.com/2006/0303/p11s02-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>16 Blocks is a burger movie, served by an old pro: 76-year-old director Richard Donner, who hasn't done work this interesting since the other Bush was president but who knows his way around a thriller.</snippet>
+         <url>http://ae.charlotte.com/entertainment/ui/charlotte/movie.html?id=548846&amp;reviewId=20250</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>Richard Wenk's script, taut and enjoyable, pays homage to those police procedurals, with a nod to the Brazilian hostages-on-mass-transit documentary, "Bus 174."</snippet>
+         <url>http://ae.philly.com/entertainment/ui/philly/movie.html?id=548846&amp;reviewId=20255</url>
+         <critic>Carrie Rickey</critic>
+      </review>
+      <review>
+         <snippet>Achieves the odd distinction of being the first post-9/11 NYPD corruption movie - complete with a shootout in the Criminal Courts building. Cool.</snippet>
+         <url>http://www.nypost.com/movies/64570.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>This is a sturdy little cop thriller, and even when it stretches the bounds of plausibility, you go with it, partly because you believe -- almost against your better judgment -- in what the characters are doing.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2006/03/03/16_blocks/index.html</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>Thanks to a compact story and some economical direction, it actually ends up better than it has any right to be.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=8804</url>
+         <critic>Pete Vonder Haar</critic>
+      </review>
+      <review>
+         <snippet>Although much of the plot defies credulity, Richard Donner directs the odd-couple action drama with a nimble facility that draws viewers in.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1002074941</url>
+         <critic>Sheri Linden</critic>
+      </review>
+      <review>
+         <snippet>Not that it ever rises to the level of Sidney Lumet's Gotham police pics ("Serpico," "Prince of the City"), but 16 Blocks does raise the banner for the tradition of the textured urban cop drama, spurred by action but made substantial by characters at crossroads.</snippet>
+         <url>http://www.variety.com/review/VE1117929762?categoryid=31&amp;cs=1</url>
+         <critic>Robert Koehler</critic>
+      </review>
+      <review>
+         <snippet>A happier surprise is the smart work of director Richard Donner: 16 Blocks is all jumble and jangle--crowds, snarled traffic, and discordant car horns. The scariest moments have no music.</snippet>
+         <url>http://newyorkmetro.com/movies/reviews/16116/</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>It's still just cops and robbers, but with Donner at the helm, it feels like so much more.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A343736</url>
+         <critic>Marc Savlov</critic>
+      </review>
+      <review>
+         <snippet>Never quite transcends its origins as a high-concept action thriller, but the clean professionalism of Donner's direction, the low-key turn by Willis and the street-level heroics make it a satisfying piece of genre filmmaking.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/261495_blocks03q.html</url>
+         <critic>Sean Axmaker</critic>
+      </review>
+      <review>
+         <snippet>Has a sweaty, weary, often intimate feel, with the human aspect dominating the mechanistic. Donner can't help but push it over the top now and again, like a bodybuilder flexing his muscles when he spots a potential mate. But he contents himself with aiming for small virtues more often than grand impact.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/1141253710174110.xml&amp;coll=7</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>Until Richard Wenk's script drives the characters into a brick wall of pukey sentiment, it's a wild ride.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/_/id/8743193/rid/9440864/</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>It's unbelievably bland.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=8635</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>The action sequences that follow are routine to the point of monotony, involving chases through crowded streets and store fronts, a commandeered bus, a woman in peril, and so on. But Donner wisely devotes long spells in between to the evolving relationship between Jack and Eddie.</snippet>
+         <url>http://www.nydailynews.com/03-03-2006/entertainment/col/story/396263p-335850c.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>A solid, bare-knuckle action-thriller.</snippet>
+         <url>http://www.empireonline.com/incinemas/reviewcomplete.asp?FID=11100</url>
+         <critic>Simon Braund</critic>
+      </review>
+      <review>
+         <snippet>No one can dismiss 16 Blocks as a mere formula flick -- it's a mere two or three formula flicks all fighting for top billing.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/LAC.20060303.BLOCKS03/TPStory/TPEntertainment/</url>
+         <critic>Rick Groen</critic>
+      </review>
+      <review>
+         <snippet>Willis never develops a rapport with Def, and in the end it's not the predictable action but this lack of chemistry and camaraderie that sinks 16 Blocks.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-060303-movies-review-blocks,0,3314992.story?coll=mmx-movies_top_heds</url>
+         <critic>Allison Benedikt</critic>
+      </review>
+      <review>
+         <snippet>Another urban action thriller that's better than some, worse than most and so forgettable that it's possible to forget it while watching it?</snippet>
+         <url>http://sfgate.com/cgi-bin/article.cgi?f=/c/a/2006/03/03/DDGA1HHC991.DTL</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>Willis' performance mystifies, while Mos Def's mesmerizes.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2006-03-02-16-blocks_x.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>It's a cobbled together mess of clichés that fails to surprise at any of its turns.</snippet>
+         <url>http://movie-reviews.colossus.net/movies/s/16blocks.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>It's a small movie trying to seem epic, or a bloated monster trying to seem lean (real B movies don't have 14 producers), but it's clear that at 99 minutes, 16 Blocks should've been at least 20 minutes shorter still.</snippet>
+         <url>http://www.villagevoice.com/film/0609,atkinson,72357,20.html</url>
+         <critic>Michael Atkinson</critic>
+      </review>
+      <review>
+         <snippet>Richard Wenk's familiar screenplay laboriously establishes Willis as an exhausted, limping shell of a man rotting internally from decades of alcoholism and self-hatred. Yet whenever the film requires it, Willis magically morphs into a super-cop with the lightning-fast reflexes of an 18-year-old Navy SEAL.</snippet>
+         <url>http://www.avclub.com/content/node/45833</url>
+         <critic>Nathan Rabin</critic>
+      </review>
+      <review>
+         <snippet>It seems such a waste to go onto the actual streets of Lower Manhattan and shoot a movie this stupid. Think of the money, the logistics, the interruptions in the city's life -- all that trouble for what? For this? For shame.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1118400&amp;lat=200.0&amp;lon=200.0&amp;displaySearchLocation=&amp;nm=1&amp;categories=Movies</url>
+         <critic>Stephen Hunter</critic>
+      </review>
+      <review>
+         <snippet>This noisy, formulaic film turns out to be immediately forgettable, except for the parts that are so ridiculous they leave you shaking your head in wonder hours later.</snippet>
+         <url>http://ae.miami.com/entertainment/ui/miami/movie.html?id=548846&amp;reviewId=20247</url>
+         <critic>Connie Ogle</critic>
+      </review>
+   </reviews>
+   <US_Gross>$36,895,141</US_Gross>
+   <production_budget>$45,000,000</production_budget>
+   <weekend_gross>$11,855,260</weekend_gross>
+   <number_of_screens>2,706</number_of_screens>
+   <highest_grossing_actors_present/>
+   <num_highest_grossing_actors>1</num_highest_grossing_actors>
+   <highest_grossing_actor>bruce willis</highest_grossing_actor>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

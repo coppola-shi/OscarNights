@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>My Big Fat Independent Movie</name>
+   <company>Anchor Bay Entertainment</company>
+   <genres>
+      <genre>Comedy</genre>
+   </genres>
+   <authors>
+      <author>Chris Gore</author>
+      <author>Adam Schwartz</author>
+   </authors>
+   <directors>
+      <director>Philip Zlotorynski</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Paget Brewster</actor>
+      <actor>Neil Barton</actor>
+      <actor>Eric Hoffman</actor>
+      <actor>Darren Reiher</actor>
+      <actor>Ashley Head</actor>
+      <actor>Brian Krow</actor>
+      <actor>Neil Hopkins</actor>
+      <actor>Rob Schrab</actor>
+   </actors>
+   <release_date>September 30, 2005</release_date>
+   <running_time>80</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>I would like to praise My Big Fat Independent Movie for achieving something that most independently-produced comedies fail to do: it creates laughs.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=8195</url>
+         <critic>Phil Hall</critic>
+      </review>
+      <review>
+         <snippet>Has a knowing, insider quality that could generate a modest cult following.</snippet>
+         <url>http://www.nytimes.com/2005/11/24/movies/25fat.html</url>
+         <critic>Jeannette Catsoulis</critic>
+      </review>
+      <review>
+         <snippet>It might have looked good on paper, but the results are mixed at best; despite a few early chuckles, the whole thing gets tired after 20 minutes.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/capsules/28045_MY_BIG_FAT_INDEPENDENT_MOVIE</url>
+         <critic>Reece Pendleton</critic>
+      </review>
+      <review>
+         <snippet>A big fast bust.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-bigfatindie30sep30,0,5148861.story</url>
+         <critic>Kevin Thomas</critic>
+      </review>
+      <review>
+         <snippet>Painfully unfunny spoof.</snippet>
+         <url>http://www.nypost.com/movies/58278.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>The juvenile gags seem aimed at moviegoers who hate the whole idea of independent/art/foreign-language films and the stuck-up eggheads who like them -- so what's the point?</snippet>
+         <url>http://online.tvguide.com/movies/database/ShowMovie.asp?MI=46607</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>Feels motivated by envy more than anything else-it's a sour, petty act of mockery that values its own ineptitude over genuine cleverness, travestying Quentin Tarantino and others simply for dreaming up gimmicks that worked.</snippet>
+         <url>http://www.villagevoice.com/film/0547,kenigsberg,70233,20.html</url>
+         <critic>Ben Kenigsberg</critic>
+      </review>
+   </reviews>
+   <US_Gross>$4,655</US_Gross>
+   <production_budget>$3,000,000</production_budget>
+   <weekend_gross>$4,655</weekend_gross>
+   <number_of_screens>1</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

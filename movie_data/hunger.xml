@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Hunger</name>
+   <company>IFC Films</company>
+   <genres>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author>Steve Mc</author>
+      <author>Queen</author>
+      <author>Enda Walsh</author>
+   </authors>
+   <directors>
+      <director>Steve Mc</director>
+      <director>Queen</director>
+   </directors>
+   <origins>
+      <origin>UK</origin>
+      <origin>Ireland</origin>
+   </origins>
+   <actors>
+      <actor>Michael Fassbender</actor>
+      <actor>Stuart Graham</actor>
+      <actor>Helena Bereen</actor>
+      <actor>Larry Cowan</actor>
+      <actor>Liam Cunningham</actor>
+      <actor>Dennis McCambridge</actor>
+      <actor>Liam McMahon</actor>
+      <actor>Laine Megaw</actor>
+   </actors>
+   <release_date>December 5, 2008</release_date>
+   <running_time>90</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>A superbly balanced piece of work, addressing the passion of Irish Republican martyr Bobby Sands.</snippet>
+         <url>http://www.villagevoice.com/2009-03-18/film/the-excruciating-details-of-death-by-starvation-in-hunger/</url>
+         <critic>J. Hoberman</critic>
+      </review>
+      <review>
+         <snippet>McQueen has taken the raw materials of filmmaking and committed an act of great art.</snippet>
+         <url>http://www.washingtonpost.com/gog/movies/hunger,1156089.html</url>
+         <critic>Ann Hornaday</critic>
+      </review>
+      <review>
+         <snippet>Artful, beautiful in parts and unbelievably brutal in others, and no less honest for its stagecraft.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2009/04/02/MV6J16PK1O.DTL&amp;type=movies</url>
+         <critic>Reyhan Harmanci</critic>
+      </review>
+      <review>
+         <snippet>Hunger -- the disturbing, provocative, brilliant feature debut from British director Steve McQueen -- does for modern film what Caravaggio did to Renaissance painting.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20090409.whunger0410/BNStory/Entertainment/home</url>
+         <critic>Rick Groen</critic>
+      </review>
+      <review>
+         <snippet>An alternately harrowing and poetic take on the fatal 1982 hunger strike of Irish Republican Army prisoner Bobby Sands, Hunger is also one of the most impressive feature directing debuts in years.</snippet>
+         <url>http://www.oregonlive.com/movies/index.ssf/2009/04/review_pain_and_poetry_in_hung.html</url>
+         <critic>Marc Mohan</critic>
+      </review>
+      <review>
+         <snippet>Hunger is a mesmerizing 96 minutes of cinema, one of the truly extraordinary filmmaking debuts of recent years. It's also an uneasy, unsettling experience and is meant to be.</snippet>
+         <url>http://www.salon.com/ent/movies/btm/feature/2009/03/18/hunger/</url>
+         <critic>Andrew O&amp;#039;Hehir</critic>
+      </review>
+      <review>
+         <snippet>A disturbingly avid re-creation of the last six weeks in the life and slow, self-imposed wasting of Irish hunger striker Bobby Sands.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20266384,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>The movie is a political remake of "The Passion of the Christ," only more aestheticized: It's rigorous, evocative, and, in spite of its grisly imagery, elegant. It's a triumph--of masochistic literal-mindedness.</snippet>
+         <url>http://nymag.com/movies/reviews/55495/</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>An artistic triumph.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/20727311/review/26794210/hunger</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>Sands' death is shown in a tableaux of increasing bleakness. It is agonizing, yet filmed with a curious painterly purity.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20090415/REVIEWS/904159995</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>So what is Hunger? Unexpectedly, a visually ravishing tour of hell and a meditation on freedom that at best is wordlessly profound and at worst interestingly obscure.</snippet>
+         <url>http://www.boston.com/ae/movies/articles/2009/03/27/hunger/</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>Hunger is daunting and powerful work.</snippet>
+         <url>http://www.philly.com/philly/entertainment/movies/20090417_A_visceral_look_at_a_prison_hunger_strike.html</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>Although the film, for the most part, is told from the perspective of the IRA, it does not blithely take its side.</snippet>
+         <url>http://www.csmonitor.com/2009/0328/p25s03-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>Hunger may be criticized for being willfully arty, or for reducing a complex political situation to a broadly allegorical vision of martyrdom, but it's never less than visually stunning.</snippet>
+         <url>http://www.avclub.com/content/cinema/hunger</url>
+         <critic>Noel Murray</critic>
+      </review>
+      <review>
+         <snippet>While Hunger is a very brutal film, it also taps into human emotions and, in the end, asks what would we be willing to die for or, better, what could we truly not live without?</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=11352</url>
+         <critic>Don R. Lewis</critic>
+      </review>
+      <review>
+         <snippet>It's a strength of this carefully composed, almost obsessively controlled picture that it has no interest in the conventional biographical focus on a subject.</snippet>
+         <url>http://www.chicagotribune.com/entertainment/movies/chi-tc-mov-hunger-0415-17apr17,0,5613241.story</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>Hunger is almost silent, most of its sounds being unintelligible moans and screams.</snippet>
+         <url>http://www.nypost.com/seven/03202009/entertainment/movies/decay__then_death_160363.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>In all, Steve McQueen is a master of fascination rather than of drama--he creates stunning shots rather than an intricate story.</snippet>
+         <url>http://www.newyorker.com/arts/critics/cinema/2009/03/30/090330crci_cinema_denby</url>
+         <critic>David Denby</critic>
+      </review>
+      <review>
+         <snippet>The fulcrum of this deeply humanist work is an extended two-shot of the strike's leader, Bobby Sands (Michael Fassbender), as he converses with a priest (Liam Cunningham); the virtuosic sequence encapsulates the whole sorry history of a horrific civil war.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/capsules/33776_HUNGER_MCQUEEN</url>
+         <critic>Andrea Gronvall</critic>
+      </review>
+      <review>
+         <snippet>Picture represents a powerful, pertinent but not entirely perfect debut for British visual-artist-turned-feature-helmer Steve McQueen, who demonstrates a painterly touch with composition and real cinematic flair, but who stumbles in film's last furlough with trite symbolism.</snippet>
+         <url>http://www.variety.com/review/VE1117937146.html?categoryid=31&amp;cs=1&amp;query=hunger</url>
+         <critic>Leslie Felperin</critic>
+      </review>
+      <review>
+         <snippet>The brutality in the film is pervasive and often stomach turningly graphic, but what is perhaps most unnerving is the tact, patience and care with which Mr. McQueen depicts its causes and effects.</snippet>
+         <url>http://movies.nytimes.com/2009/03/20/movies/20hung.html?ref=movies</url>
+         <critic>A.O. Scott</critic>
+      </review>
+      <review>
+         <snippet>For those who can tough it out -- and not everyone will -- Hunger is a searing experience. Just don't expect to have much of an appetite when it's over.</snippet>
+         <url>http://www.miamiherald.com/entertainment/movies/reviews/story/1047510.html</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>The first-time director's unflinching camera, deliberate pacing and maddeningly long takes just amplify the story's innate harshness and test audience endurance levels.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-capsules5-2008dec05,0,4186366.story</url>
+         <critic>Gary Goldstein</critic>
+      </review>
+      <review>
+         <snippet>An emotionally devastating drama that isn't for the squeamish.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2009/03/19/2009-03-19_short_takes_valentino_the_last_emperor_t-2.html</url>
+         <critic>Joe Neumaier</critic>
+      </review>
+      <review>
+         <snippet>Trite, grim and feebly provocative.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?rid=11099</url>
+         <critic>Ray Bennett</critic>
+      </review>
+   </reviews>
+   <US_Gross>$154,084</US_Gross>
+   <weekend_gross>$1,980</weekend_gross>
+   <number_of_screens>1</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

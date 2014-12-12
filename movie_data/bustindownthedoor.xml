@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Bustin&amp;#039; Down the Door</name>
+   <company>Screen Media Films</company>
+   <genres>
+      <genre>Documentary</genre>
+   </genres>
+   <authors>
+      <author/>
+   </authors>
+   <directors>
+      <director>Jeremy Gosch</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Wayne &amp;#034;Rabbit&amp;#034; Bartholomew</actor>
+      <actor>Peter Townend</actor>
+      <actor>Mark Richards</actor>
+      <actor>Ian Cairns</actor>
+      <actor>Michael Tomson</actor>
+      <actor>Edward Norton</actor>
+   </actors>
+   <release_date>July 25, 2008</release_date>
+   <running_time>minutes,</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>Engaging, elegantly made surf documentary.</snippet>
+         <url>http://www.villagevoice.com/2008-07-23/film/bustin-down-the-door/</url>
+         <critic>Scott Foundas</critic>
+      </review>
+      <review>
+         <snippet>With verve, style and a fine sense of the human side of surf culture, Jeremy Gosch makes a terrific splash with his debut doc, Bustin' Down the Door.</snippet>
+         <url>http://www.variety.com/review/VE1117937808.html?categoryid=31&amp;cs=1</url>
+         <critic>Robert Koehler</critic>
+      </review>
+      <review>
+         <snippet>Jeremy Gosch's documentary about the origins of professional surfing shines a light on four wave riders – three Australians and a South African – who helped transform a counter-culture life style into a billion-dollar industry.</snippet>
+         <url>http://www.tvguide.com/movies/bustin-door/review/294667</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>The darker side of the story -- how the advent of pro surfing was taken as an act of cultural colonialism by some of the locals -- adds gravity to this otherwise lightweight, if amiable summer diversion.</snippet>
+         <url>http://movies.nytimes.com/2008/07/25/movies/25bust.html?ref=movies</url>
+         <critic>Nathan Lee</critic>
+      </review>
+      <review>
+         <snippet>A mostly enjoyable wave of nostalgia.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-capsules25-2008jul25,0,93254.story</url>
+         <critic>Robert Abele</critic>
+      </review>
+      <review>
+         <snippet>Mainly will appeal to devotees, but even nonfans might want to appreciate its visual splendors on the big screen.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?JSESSIONID=TgwlLS3WmWT3p5Z33g7Mk1Sh3yvx3hVP2cwbn5mvDDQyh1cWtpQ6!30151265&amp;&amp;rid=11469</url>
+         <critic>Frank Scheck</critic>
+      </review>
+      <review>
+         <snippet>Falls victim to some surfing cliches.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2008/07/31/DDNB123CNA.DTL&amp;type=movies</url>
+         <critic>Reyhan Harmanci</critic>
+      </review>
+      <review>
+         <snippet>Some of the talk gets a little bombastic, but it's hard to deny the thrill involved.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2008/07/25/2008-07-25_movies_opening_for_the_weekend_of_july_2.html?page=1</url>
+         <critic>Joe Neumaier</critic>
+      </review>
+   </reviews>
+   <US_Gross>$106,100</US_Gross>
+   <weekend_gross>$16,000</weekend_gross>
+   <number_of_screens>5</number_of_screens>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

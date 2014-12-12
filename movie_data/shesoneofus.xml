@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>She&amp;#039;s One of Us</name>
+   <company>Leisure Time Features</company>
+   <genres>
+      <genre>Drama</genre>
+      <genre>Foreign</genre>
+   </genres>
+   <authors>
+      <author>Siegrid Alnoy</author>
+      <author>Jérôme Beaujour</author>
+      <author>François Favrat</author>
+   </authors>
+   <directors>
+      <director>Siegrid Alnoy</director>
+   </directors>
+   <origins>
+      <origin>France</origin>
+   </origins>
+   <actors>
+      <actor>Sasha Andres</actor>
+      <actor>Catherine Mouchet</actor>
+      <actor>Carlo Brt</actor>
+      <actor>Eric Caravaca</actor>
+      <actor>Pierre-Félix Gravière</actor>
+      <actor>Daniel Ceccaldi</actor>
+      <actor>Jacques Spiesser</actor>
+      <actor>Mireille Roussel</actor>
+   </actors>
+   <release_date>January 21, 2005</release_date>
+   <running_time>100</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>Imaginatively acted, endlessly atmospheric.</snippet>
+         <url>http://www.csmonitor.com/2005/0121/p14s01-almo.html</url>
+         <critic>David Sterritt</critic>
+      </review>
+      <review>
+         <snippet>The cryptic finale raises more questions than it solves. But She's One of Us is such a fine work that answers aren't necessary.</snippet>
+         <url>http://www.nypost.com/movies/38521.htm</url>
+         <critic>V.A. Musetto</critic>
+      </review>
+      <review>
+         <snippet>Alnoy's unnerving mood piece is spare and atmospheric, even funny. The movie is accomplished, but gets hung up on arty composition.</snippet>
+         <url>http://www.nydailynews.com/08-31-2003/entertainment/movies/moviereviews/story/273463p-234034c.html</url>
+         <critic>Jami Bernard</critic>
+      </review>
+      <review>
+         <snippet>While the director's penchant for extended silences and stagy character positioning make it all seem rather studied, the drama nonetheless is compellingly unsettling.</snippet>
+         <url>http://www.variety.com/index.asp?layout=cannes2003&amp;content=review&amp;reviewid=VE1117920768&amp;categoryid=1273&amp;cs=</url>
+         <critic>David Rooney</critic>
+      </review>
+      <review>
+         <snippet>Alnoy's narrative is better suited to a trashy thriller than a vehicle for weighty political themes.</snippet>
+         <url>http://tvguide.com/movies/database/showmovie.asp?MI=45882</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>For all the smart visual design, though, She's One Of Us is frustratingly clinical.</snippet>
+         <url>http://www.theavclub.com/review_pop.php?review_id=8144</url>
+         <critic>Noel Murray</critic>
+      </review>
+      <review>
+         <snippet>Handsome but empty film.</snippet>
+         <url>http://movies2.nytimes.com/2005/01/21/movies/21she.html</url>
+         <critic>Stephen Holden</critic>
+      </review>
+      <review>
+         <snippet>Quickly nose-dives into the ridiculous.</snippet>
+         <url>http://www.villagevoice.com/film/0503,anderson,60093,20.html</url>
+         <critic>Melissa Anderson</critic>
+      </review>
+   </reviews>
+   <US_Gross>$996</US_Gross>
+   <weekend_gross>$996</weekend_gross>
+   <number_of_screens>1</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

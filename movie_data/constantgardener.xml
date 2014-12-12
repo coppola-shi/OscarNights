@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Constant Gardener, The</name>
+   <company>Focus Features</company>
+   <genres>
+      <genre>Drama</genre>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>Jeffrey Caine</author>
+      <author>John Le Carré</author>
+   </authors>
+   <directors>
+      <director>Fernando Meirelles</director>
+   </directors>
+   <origins>
+      <origin>USAUK</origin>
+   </origins>
+   <actors>
+      <actor>Ralph Fiennes</actor>
+      <actor>Rachel Weisz</actor>
+      <actor>Danny Huston</actor>
+      <actor>Bill Nighy</actor>
+      <actor>Pete Postlethwaite</actor>
+      <actor>Archie Panjabi</actor>
+   </actors>
+   <release_date>August 31, 2005</release_date>
+   <running_time>129</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>Like "City of God," it feels organically rooted. Like many Le Carre stories, it begins with grief and proceeds with sadness toward horror. Its closing scenes are as cynical about international politics and commerce as I can imagine. I would like to believe they are an exaggeration, but I fear they are not. This is one of the year's best films.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20050901/REVIEWS/50826001</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>A masterwork of suspense, romance and political intrigue.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2005-08-30-constant-gardener_x.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>A thriller from the inside out, a romance from the outside in: that's the double-edged brilliance of The Constant Gardener.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-to.gardener31aug31,1,7860041.story?coll=bal-artslife-movies</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>Simply the best adaptation of any John le Carré thriller to make it to the screen.</snippet>
+         <url>http://ae.philly.com/entertainment/ui/philly/movie.html?id=393773&amp;reviewId=18938</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>A sweaty, vital masterpiece that's always one step ahead of its audience.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-050825-movies-review-constant-gardener,0,4113103.story?coll=mmx-movies_top_heds</url>
+         <critic>Robert K. Elder</critic>
+      </review>
+      <review>
+         <snippet>It's a love story only in passing. And yet the love story is what lingers in the mind and gives energy and meaning to everything that happens on-screen.</snippet>
+         <url>http://sfgate.com/cgi-bin/article.cgi?f=/c/a/2005/08/31/DDGG9EF6VH16.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>Essentially two movies for the price of one. But those halves add up to more than most movies right now.</snippet>
+         <url>http://www.csmonitor.com/2005/0902/p11s02-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>Reigns as the most assured, provocative film so far this year.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/1125486450296660.xml&amp;coll=7</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>The movie is smart, serious, and adult about something that matters, but not at the expense of a kind of awful, sensual revelry as le Carré's capacious plot hurtles to its big finish.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1097739_1_0_,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>The film is able to be a thriller, a political statement and a haunting romance all at once.</snippet>
+         <url>http://www.filmthreat.com/Reviews.asp?Id=7869</url>
+         <critic>Greg Bellavia</critic>
+      </review>
+      <review>
+         <snippet>Ralph Fiennes gives one of the year's subtlest, yet most exciting, screen performances.</snippet>
+         <url>http://newyorkmetro.com/nymetro/movies/reviews/12511/</url>
+         <critic>Ken Tucker</critic>
+      </review>
+      <review>
+         <snippet>A film that grips us dramatically, intellectually and emotionally.</snippet>
+         <url>http://www.calendarlive.com/movies/turan/cl-et-constant31aug31,0,5625860.story</url>
+         <critic>Kenneth Turan</critic>
+      </review>
+      <review>
+         <snippet>Is Fiennes miscast? Perhaps. He's a high-strung, somewhat clammy actor--not the first to spring to mind for this warmly self-effacing plodder. But he's remarkably fine.</snippet>
+         <url>http://slate.msn.com/id/2125293/?nav=fo</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>Substantive and imaginatively filmed but is not an off-putting art movie; rather, it's the kind of solid but accessible filmmaking that prevailed in Hollywood's golden age.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A286167</url>
+         <critic>Marrit Ingman</critic>
+      </review>
+      <review>
+         <snippet>Cinematographer Cesar Charlone, whose burnt-orange view of the favela made "City of God" striking, conveys Africa's slums with equal force in somber browns and simmering yellows. At times, the inhabitants seem to be on fire in their surroundings, a fitting image for a land consigned to a hell of unhappiness.</snippet>
+         <url>http://ae.charlotte.com/entertainment/ui/charlotte/movie.html?id=393773&amp;reviewId=18933</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>A slick, fast-paced production with first-rate performances and an emotional punch you won't soon forget.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/moviereviews/story/342028p-291978c.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>Director Fernando Meirelles and screenwriter Jeffrey Caine put a human face on John le Carre's novel of sex, lies and dirty politics in modern Africa. Prepare for a thrilling ride.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/_/id/6153707?pageid=rs.ReviewsMovieArchive&amp;pageregion=mainRegion</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>His (Fernando Meirelles) impressionistic, guerilla style of filmmaking works surprisingly well in capturing the hypnotic urgency of le Carre's fiction. And his viewpoint is less British and more Third World.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1001015303</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>Succeeds in capturing the book's essential themes and concerns, albeit in a hectic style that could not be more antithetical to that of the literary master of international intrigue.</snippet>
+         <url>http://www.variety.com/review/VE1117927907?categoryid=31&amp;cs=1</url>
+         <critic>Todd McCarthy</critic>
+      </review>
+      <review>
+         <snippet>A smart, beautiful piece of storytelling, attentive to Le Carré's broad intent, while boldly taking a knife to his more egregious longueurs.</snippet>
+         <url>http://www.laweekly.com/ink/05/40/film-taylor.php</url>
+         <critic>Ella Taylor</critic>
+      </review>
+      <review>
+         <snippet>Fernando Meirelles stresses old-fashioned storytelling and takes full advantage of his cast, including Danny Huston.</snippet>
+         <url>http://spacefinder.chicagoreader.com/movies/briefs/28469_CONSTANT_GARDENER.html</url>
+         <critic>Jonathan Rosenbaum</critic>
+      </review>
+      <review>
+         <snippet>Although le Carré's story may seem predictable and unduly focused on the plight of a pale, wealthy Old Worlder adrift in a sea of needy East Africans, the movie's human material is masterfully manipulated.</snippet>
+         <url>http://www.villagevoice.com/film/0535,atkinson,67300,20.html</url>
+         <critic>Michael Atkinson</critic>
+      </review>
+      <review>
+         <snippet>This is a supremely well-executed piece of popular entertainment that is likely to linger in your mind and may even trouble your conscience.</snippet>
+         <url>http://movies2.nytimes.com/2005/08/31/movies/31gard.html</url>
+         <critic>Dana Stevens</critic>
+      </review>
+      <review>
+         <snippet>One of the best elements in the adaptation is Caine's blending, like le Carré's, of the past and the present so that one can enrich the other. There are no stilted flashbacks: both past and present are treated as present, which gives the film a texture of depth.</snippet>
+         <url>http://tnr.com/doc.mhtml?i=20050926&amp;s=kauffmann092605</url>
+         <critic>Stanley Kauffmann</critic>
+      </review>
+      <review>
+         <snippet>Serious, topical filmmaking of a very high order. It may not engage as immediately as a Bourne, but it sticks with you longer.</snippet>
+         <url>http://www.empireonline.co.uk/incinemas/ReviewComplete.asp?FID=11289</url>
+         <critic>Staff (Not credited)</critic>
+      </review>
+      <review>
+         <snippet>Isn't quite a great espionage movie or a great Africa movie, but in a summer of heat and wind, it's the next best thing.</snippet>
+         <url>http://www.washingtonpost.com/wp-dyn/content/article/2005/08/30/AR2005083001843.html?sub=AR</url>
+         <critic>Stephen Hunter</critic>
+      </review>
+      <review>
+         <snippet>Weisz has never been better: She's joyously expressive and alive, but there's gravity beneath that milkmaid complexion. She's grounded even when she's being flirtatious. And Fiennes has never been more moving.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2005/08/31/constant_gardener/index.html?sid=1383609</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>The Constant Gardener is difficult to watch, literally. Meirelles' lens leaps and jitters too much, as if it's anxious it might be bludgeoned to death, too.</snippet>
+         <url>http://ae.miami.com/entertainment/ui/miami/movie.html?id=393773&amp;reviewId=18935</url>
+         <critic>Connie Ogle</critic>
+      </review>
+      <review>
+         <snippet>Fernando Meirelles's MTV-grandstanding worked for "City of God," but it's just not necessary for, and gets in the way of, a script this literate and solid. In the end, The Constant Gardener works in spite of, not because of him.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/238610_gardener31q.html</url>
+         <critic>William Arnold</critic>
+      </review>
+      <review>
+         <snippet>Deadly serious about its message: that the West is just as vicious and corrupt as Africa.</snippet>
+         <url>http://www.nypost.com/movies/27532.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>With almost palpable anger, Meirelles hammers home the point that crushing poverty is only one problem for Africa that the West needs to do something about.</snippet>
+         <url>http://www.premiere.com/article.asp?section_id=2&amp;article_id=2249</url>
+         <critic>Glenn Kenny</critic>
+      </review>
+      <review>
+         <snippet>Talky and intelligent, and never takes the cheap way out. It's also something of a downer.</snippet>
+         <url>http://movie-reviews.colossus.net/movies/c/constant_gardener.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>Think about it a day later, though, and its hectic swoop from romance to thriller to campaign manifesto leaves oddly little afterglow. The gardener is the only constant here; so much else burns up and blows away.</snippet>
+         <url>http://www.newyorker.com/critics/cinema/?050905crci_cinema</url>
+         <critic>Anthony Lane</critic>
+      </review>
+      <review>
+         <snippet>Fiennes is the perfect John Le Carré hero: reserved and sophisticated, possessing the driest of wits, yet deceptively passionate in a way that people never really anticipate from him.</snippet>
+         <url>http://avclub.com/content/node/40139</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>Rather than trading le Carré's downbeat but agonizingly true-to-life ending for something more palatable, Meirelles has crafted a rare sort of thriller that refuses to resolve real-life issues for the sake of feel-good entertainment.</snippet>
+         <url>http://online.tvguide.com/movies/database/ShowMovie.asp?MI=46379</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>A predictable conspiracy thriller that somehow ends up diminishing the real urgency of the West's humanitarian disconnect from Africa. If it sends audiences home to log on to the Amnesty International website, terrific -- but that still doesn't make it a very good movie.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=7872</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>Constant is the very thing The Constant Gardener is not. Attractive yet fickle, the movie beckons enticingly one moment and wanders off the next.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/Page/document/v4/sub/MarketingPage?user_URL=http://www.theglobeandmail.com%2Fservlet%2FArticleNews%2FTPStory%2FLAC%2F20050831%2FCONSTANT31%2FTPEntertainment%2FFilm&amp;ord=1125509379123&amp;brand=theglobeandmail&amp;force_login=true</url>
+         <critic>Rick Groen</critic>
+      </review>
+      <review>
+         <snippet>Most of The Constant Gardener is made with good taste and with respect for its African subjects. But when Fiennes flees a Kenyan village as bandits begin their merciless attack, it's hard not to feel a little uneasy with the medium. We're meant to get a thrill out of the chase, but it's not thrilling. Sickening's more like it.</snippet>
+         <url>http://dallasobserver.com/Issues/2005-09-01/film/film2.html</url>
+         <critic>Melissa Levine</critic>
+      </review>
+      <review>
+         <snippet>In the end, The Constant Gardener is hardly more than yet another study of white, upper-middle-class martyrdom rather than the hard look at third-world suffering it might've been.</snippet>
+         <url/>
+         <critic>Jim Fusilli</critic>
+      </review>
+   </reviews>
+   <US_Gross>$33,579,798</US_Gross>
+   <production_budget>$25,500,000</production_budget>
+   <weekend_gross>$10,395,799</weekend_gross>
+   <number_of_screens>1,346</number_of_screens>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

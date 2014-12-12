@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Wedding Song, The</name>
+   <company>Strand Releasing</company>
+   <genres>
+      <genre>Drama</genre>
+      <genre>War</genre>
+   </genres>
+   <authors>
+      <author>Karin Albou</author>
+   </authors>
+   <directors>
+      <director>Karin Albou</director>
+   </directors>
+   <origins>
+      <origin>France</origin>
+      <origin>Tunisia</origin>
+   </origins>
+   <actors>
+      <actor>Lizzie Brochere</actor>
+      <actor>Olympe Borval</actor>
+   </actors>
+   <release_date>October 23, 2009</release_date>
+   <running_time>100</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>Exquisite yet harrowing.</snippet>
+         <url>http://www.latimes.com/entertainment/news/la-et-capsules6-2009nov06,0,2738976.story</url>
+         <critic>Kevin Thomas</critic>
+      </review>
+      <review>
+         <snippet>A lumpy admixture of politics and carnality, but when it all comes together, it has a lingering force.</snippet>
+         <url>http://www.csmonitor.com/2009/1113/p17s02-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>The performances by neophite actresses Olympe Borval and Lizzie Brochere make the film special.</snippet>
+         <url>http://www.nypost.com/p/entertainment/movies/frightful_wedding_night_KXhpm6I6vB8HSzf2FQPBNN</url>
+         <critic>V.A. Musetto</critic>
+      </review>
+      <review>
+         <snippet>Has a sensuous, intimate filmmaking style that overrides The Wedding Song's more precariously loaded plot parallels.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20315863,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>A seductively fluid and tactile drama from the writer and director Karin Albou, explores love and identity through the prism of the female body and the rights of its owner.</snippet>
+         <url>http://movies.nytimes.com/2009/10/23/movies/23wedding.html?ref=movies</url>
+         <critic>Jeannette Catsoulis</critic>
+      </review>
+      <review>
+         <snippet>The movie's distinction, however, lies in two lovely performances, and in the passion and pain of parallel lives--both girls suffering at the hands of men, both struggling to understand the brutality of the world they must share.</snippet>
+         <url>http://online.wsj.com/article/film_review.html</url>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>Albou’s film conjures an irresistibly evocative atmosphere of stifling limitations, as well as a frank view of the female body that vacillates between carnal, sacrificial and beatific. Its caustic beauty is hard to shake.</snippet>
+         <url>http://newyork.timeout.com/articles/film/79816/the-wedding-song-film-review</url>
+         <critic>Stephen Garrett</critic>
+      </review>
+      <review>
+         <snippet>It takes more than just the ominous tread of Nazi boots to infuse gravitas into this well-intentioned but dreary look at the female mind and body during wartime.</snippet>
+         <url>http://www.avclub.com/articles/the-wedding-song,34747/</url>
+         <critic>Nathan Rabin</critic>
+      </review>
+      <review>
+         <snippet>Though lovely to look at, The Wedding Song is a little overwhelmed by its relentlessly hyper-poetic imagery.</snippet>
+         <url>http://www.villagevoice.com/2009-10-20/film/the-wedding-song-probes-bond-between-two-women/</url>
+         <critic>Ella Taylor</critic>
+      </review>
+   </reviews>
+   <US_Gross>$30,818</US_Gross>
+   <weekend_gross>$1,240</weekend_gross>
+   <number_of_screens>1</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

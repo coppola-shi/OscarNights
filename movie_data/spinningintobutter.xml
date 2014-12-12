@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Spinning Into Butter</name>
+   <company>Screen Media Films</company>
+   <genres>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author>Doug Atchison</author>
+      <author>Rebecca Gilman</author>
+   </authors>
+   <directors>
+      <director>Mark Brokaw</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Sarah Jessica Parke</actor>
+      <actor>Mira Richardson</actor>
+      <actor>Beau Bridges</actor>
+      <actor>Mykelti Williamson</actor>
+   </actors>
+   <release_date>March 27, 2009</release_date>
+   <running_time>86</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>Though the movie trails off unsatisfyingly, it raises intriguing and candid, if unanswerable, questions about race relations and political correctness.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2009-03-26-spinning-into-butter_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>In style and content, Sarah Jessica Parker starrer is the kind of earnest, talky, modestly scaled social-issue pic that seems predestined for the smallscreen.</snippet>
+         <url>http://www.variety.com/review/VE1117934540.html?categoryid=31&amp;cs=1&amp;query=spinning+into+butter</url>
+         <critic>Dennis Harvey</critic>
+      </review>
+      <review>
+         <snippet>Despite the film's haphazard choices and aversion to subtlety, Parker and Williamson come off as appealing sparring partners.</snippet>
+         <url>http://www.latimes.com/entertainment/la-et-spinning27-2009mar27,0,4611802.story</url>
+         <critic>Glenn Whipp</critic>
+      </review>
+      <review>
+         <snippet>I don't mind a movie where people spend a lot of time jawboning, but what they say had better be interesting. In Spinning into Butter we are spoon-fed the deep dark revelation that racism can exist as virulently in liberal environs as in reactionary ones. Alert the media.</snippet>
+         <url>http://www.csmonitor.com/2009/0328/p25s04-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>Despite all the hyperventilating, the movie fails to consider what these crimes mean when, say, the residents of the White House happen to be black. The filmmakers recognize that identity politics are often a trap door. But it's one they're helpless to save themselves from falling through.</snippet>
+         <url>http://www.boston.com/ae/movies/articles/2009/03/27/spinning_into_butter/</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>A painfully miscast Parker nervously flips her hair and waves her hands, sitcom-style, as a do-gooding dean of students.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20267701,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>Approaches its ideas of reverse racism and the hypocrisies of tolerance with a heavy hand and odious moralizing.</snippet>
+         <url>http://www.villagevoice.com/2009-03-25/film/director-mark-brokaw-s-flat-spinning-into-butter/</url>
+         <critic>Aaron Hillis</critic>
+      </review>
+      <review>
+         <snippet>What seemed sharp and pointed onstage comes across pedantically in the film, which treats its subject with a clumsy heavy-handedness.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film-reviews/film-review-spinning-into-butter-1003956100.story</url>
+         <critic>Frank Scheck</critic>
+      </review>
+      <review>
+         <snippet>Less a movie than an essay.</snippet>
+         <url>http://movies.nytimes.com/2009/03/27/movies/27butt.html?ref=movies</url>
+         <critic>Stephen Holden</critic>
+      </review>
+      <review>
+         <snippet>The movie suffers most of all from a feeling of creeping irrelevance, as if it's being delivered well after its sell-by date.</snippet>
+         <url>http://www.washingtonpost.com/gog/movies/spinning-into-butter,1156043.html</url>
+         <critic>Dan Kois</critic>
+      </review>
+      <review>
+         <snippet>If freshman film students were assigned to make a movie on race relations, this contrived attempt is probably what they'd come up with.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2009/03/26/2009-03-26_sarah_jessica_parkers_spinning_into_butt.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+   </reviews>
+   <US_Gross>$5,534</US_Gross>
+   <weekend_gross>$5,534</weekend_gross>
+   <number_of_screens>4</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

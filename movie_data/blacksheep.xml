@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Black Sheep</name>
+   <company>IFC Films</company>
+   <genres>
+      <genre>Comedy</genre>
+      <genre>Foreign</genre>
+      <genre>Horror</genre>
+   </genres>
+   <authors>
+      <author>Jonathan King</author>
+   </authors>
+   <directors>
+      <director>Jonathan King</director>
+   </directors>
+   <origins>
+      <origin>NewZealand</origin>
+   </origins>
+   <actors>
+      <actor>Nathan Meister</actor>
+      <actor>Danielle Mason</actor>
+      <actor>Peter Feeney</actor>
+      <actor>Tammy Davis</actor>
+      <actor>Glenis Levestam</actor>
+      <actor>Ti Wright</actor>
+      <actor>Oliver Driver</actor>
+      <actor>Matthew Chamberlain</actor>
+   </actors>
+   <release_date>June 22, 2007</release_date>
+   <running_time>87</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>It's smart; it's silly; it's – kill me now – shear terror.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A531067</url>
+         <critic>Marc Savlov</critic>
+      </review>
+      <review>
+         <snippet>It manages the weird feat of making a flock of sheep bounding across a meadow seem vaguely menacing.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/1184714770128860.xml&amp;coll=7</url>
+         <critic>M. E. Russell</critic>
+      </review>
+      <review>
+         <snippet>You'll laugh, you'll groan, you'll never buy wool again.</snippet>
+         <url>http://www.premiere.com/moviereviews/3896/black-sheep.html</url>
+         <critic>Eric Alt</critic>
+      </review>
+      <review>
+         <snippet>Never very frightening, but it's clever and fun, with a memorable amount of humor and gore.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2007/07/06/DDGS4QQOT31.DTL&amp;type=movies</url>
+         <critic>Peter Hartlaub</critic>
+      </review>
+      <review>
+         <snippet>Horror buffs in search of a fresh take on the usual grue should embrace it wholeheartedly.</snippet>
+         <url>http://www.tvguide.com/movies/black-sheep/review/288706</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>The cast, including Tammy Davis as a handyman and Glenis Levestam as a housekeeper with a taste for innards, hits its marks flawlessly, even when the material isn't first-rate. Like "Shaun of the Dead," Black Sheep is at once exhilarating and self-deprecating, knowledgeable without being fannish, clever but not too clever.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-sheep22jun22,0,2622657.story?coll=cl-mreview</url>
+         <critic>Sam Adams</critic>
+      </review>
+      <review>
+         <snippet>The cartoonish overkill that often makes Black Sheep a hoot proves wearying over an entire movie: The broad comedy and one-note characters eventually cancel out the horror, leaving elaborate set pieces that are more frantic than funny.</snippet>
+         <url>http://www.villagevoice.com/film/0725,ridley,77006,20.html</url>
+         <critic>Jim Ridley</critic>
+      </review>
+      <review>
+         <snippet>A giddily subversive addition to the age-old cinema tradition of the horror comedy.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?JSESSIONID=kFgZG63FRfw0LrNnfQq32Q2kP7LGv7pTJ22FL16hXQMgdr61T88f!-1951265468&amp;&amp;rid=9399</url>
+         <critic>Luke Sader</critic>
+      </review>
+      <review>
+         <snippet>Endearingly amusing horror pic.</snippet>
+         <url>http://www.variety.com/review/VE1117932602.html?categoryid=31&amp;cs=1&amp;query=%22Black+sheep%22</url>
+         <critic>Jay Weissberg</critic>
+      </review>
+      <review>
+         <snippet>Jolly good fun.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2007/06/21/btm/index3.html</url>
+         <critic>Andrew O&amp;#039;Hehir</critic>
+      </review>
+      <review>
+         <snippet>Once you have seen a sheep munching on a bloody human leg, you may think twice about your next leg of lamb. On the other hand maybe you'll be inspired to seek vengeance. To provoke one of these responses -- vegetarianism or a defiant meat eating -- may be the point of this odd, amusing film.</snippet>
+         <url>http://movies2.nytimes.com/2007/06/22/movies/22shee.html?ref=movies</url>
+         <critic>A.O. Scott</critic>
+      </review>
+      <review>
+         <snippet>Both the humor and horror are as broad as the side of the Oldfields' barn, but King and the cast are clearly having fun.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2007/06/22/2007-06-22_short_takes.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>This is a one-joke skit that trots in a straight line, and your enjoyment of it will depend entirely on how many times you need to see gonzo sheep rip out human entrails.</snippet>
+         <url>http://www.nypost.com/seven/06222007/entertainment/movies/violence_of_the_lambs_movies_kyle_smith.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>Unfortunately, Black Sheep takes so long to get going and misses so many easy opportunities for classic comedy it has to be regarded as a noble failure.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=9870</url>
+         <critic>Pete Vonder Haar</critic>
+      </review>
+      <review>
+         <snippet>The gold standard for the modern monster movie remains "Tremors," which combines genuine thrills with clever plot twists and distinctive characters. By contrast, Black Sheep has a bunch of one-note living jokes running around willy-nilly while being chased by killer sheep.</snippet>
+         <url>http://www.avclub.com/content/cinema/black_sheep</url>
+         <critic>Noel Murray</critic>
+      </review>
+      <review>
+         <snippet>I did like seeing the (fakey-looking) sheep take flying neck-high leaps at various human throats, in scenes recalling the killer rabbit in "Monty Python and the Holy Grail." And I enjoyed the Kiwi dialects. And I suspect King's next film will be better.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-070706-movies-review-sheep,0,7464424.story?coll=mmx-movies_top_heds</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>Stunning vistas of New Zealand's rolling countryside aren't enough to carry this lame 2006 horror spoof.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/31810_BLACK_SHEEP.html</url>
+         <critic>Andrea Gronvall</critic>
+      </review>
+   </reviews>
+   <US_Gross>$82,987</US_Gross>
+   <weekend_gross>$16,102</weekend_gross>
+   <number_of_screens>4</number_of_screens>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

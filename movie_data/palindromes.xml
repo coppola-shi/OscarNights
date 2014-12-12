@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Palindromes</name>
+   <company>Wellspring Media</company>
+   <genres>
+      <genre>Adventure</genre>
+      <genre>Comedy</genre>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author>Todd Solondz</author>
+   </authors>
+   <directors>
+      <director>Todd Solondz</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Ellen Barkin</actor>
+      <actor>Jennifer Jason Leigh</actor>
+      <actor>Stephen Adly-Guirgis</actor>
+      <actor>Valerie Shusterov</actor>
+      <actor>Rachel Corr</actor>
+      <actor>Richard Masur</actor>
+      <actor>Debra Monk</actor>
+      <actor>Sharon Wilkins</actor>
+   </actors>
+   <release_date>April 13, 2005</release_date>
+   <running_time>100</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>Like all this adventurous filmmaker's work, it's truly one of a kind.</snippet>
+         <url>http://www.csmonitor.com/2005/0415/p14s02-almo.html</url>
+         <critic>David Sterritt</critic>
+      </review>
+      <review>
+         <snippet>Most comedies start with a straight story and hang jokes on it; Solondz begins with a cosmic joke and takes his characters by the hand as they suffer through it.</snippet>
+         <url>http://www.chireader.com/movies/archives/2005/0405/050429.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>Then there's Todd Solondz's Palindromes, which is that rare event: a memorable provocation.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1048855_1_0_,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>Solondz beats on abortion defenders, stomps on the pro-life crowd and finishes up by telling us there is no free will. If you want some easy laughs tonight you'd be better off curling up with some Kierkegaard.</snippet>
+         <url>http://www.nypost.com/movies/44423.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>If the movie is a moral labyrinth, it is paradoxically straightforward and powerful in the moment; each individual story has an authenticity and impact of its own.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20050428/REVIEWS/50411003/1001</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>Palindromes is a cracked American picaresque.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/ArticleNews/TPStory/LAC/20050513/PALINDROMES13/TPEntertainment/Film</url>
+         <critic>Stephen Cole</critic>
+      </review>
+      <review>
+         <snippet>As depressing as it is hard to watch, Palindromes is also consistently, horrifyingly funny and sharp-witted, and the darker and more well-observed its humor, the more it belies the director's unsentimental, even grudging empathy for his fellow DNA monkeys.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-palindromes15apr15,2,3321968.story</url>
+         <critic>Carina Chocano</critic>
+      </review>
+      <review>
+         <snippet>You love Solondz's films, you'll love Palindromes. That same twisted sense of humor is there and certain scenes go on for an uncomfortably long time, but you wind up savoring the discomfort.</snippet>
+         <url>http://www.filmthreat.com/Reviews.asp?Id=7199</url>
+         <critic>Eric Campos</critic>
+      </review>
+      <review>
+         <snippet>What could have been Solondz's most complex and challenging film winds up being a bit on the flat side. Still, the life-forms skittering over its surface are fascinating to behold.</snippet>
+         <url>http://www.premiere.com/article.asp?section_id=2&amp;article_id=2087</url>
+         <critic>Glenn Kenny</critic>
+      </review>
+      <review>
+         <snippet>Palindromes isn't a wise movie, or a particularly true movie, but it's an honest one and a singular experience.</snippet>
+         <url>http://sfgate.com/cgi-bin/article.cgi?f=/c/a/2005/05/06/DDGIJCK97D1.DTL</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>What makes Palindromes bearable is that Solondz has yet to come up with an answer.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=7523</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>Solondz likes to put the screws to moral hypocrisy. As always, he goes too far. As always, you don't want to look away.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/_/id/6824057?pageid=rs.ReviewsMovieArchive&amp;pageregion=mainRegion</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>The experience isn't for everyone. But it amounts to intellectual penicillin for our sequel-driven, franchise-heavy entertainment culture.</snippet>
+         <url>http://www.washingtonpost.com/wp-dyn/content/article/2005/04/28/AR2005042800676.html</url>
+         <critic>Desson Thomson</critic>
+      </review>
+      <review>
+         <snippet>Palindromes becomes a strangely compelling fractured fable, a grim cinematic fairy tale heightened by Nathan Larson's delicate, bittersweet score.</snippet>
+         <url>http://www.theavclub.com/review_pop.php?review_id=8389</url>
+         <critic>Nathan Rabin</critic>
+      </review>
+      <review>
+         <snippet>With the possible exception of Neil LaBute, I can't think of a filmmaker who can divide an audience as efficiently as Solondz.</snippet>
+         <url>http://www.laweekly.com/ink/05/21/film-taylor.php</url>
+         <critic>Ella Taylor</critic>
+      </review>
+      <review>
+         <snippet>Aviva emerges undamaged for all of her trauma. That may be the most compassionate, human act Solondz has offered in his career up to now.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/222078_palindromes29q.html</url>
+         <critic>Sean Axmaker</critic>
+      </review>
+      <review>
+         <snippet>As bizarre, provocative and almost deliberately off-putting an indie picture as anything that's popped up in theaters recently.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-050428-movies-review-mw-palindromes.story</url>
+         <critic>Michael Wilmington</critic>
+      </review>
+      <review>
+         <snippet>Like the symmetrical word that supplies its title, the mordant comedy-drama recovers ground to become a boldly intriguing if not entirely satisfying subversion of American family values.</snippet>
+         <url>http://www.variety.com/review/VE1117924815?categoryid=31&amp;cs=1</url>
+         <critic>David Rooney</critic>
+      </review>
+      <review>
+         <snippet>The heroes are villains, the villains are heroes, and in between are the innocents who become casualties in their wars waged in the names of morality and righteousness.</snippet>
+         <url>http://listings.dallasobserver.com/gyrobase/Film/ShowFilm</url>
+         <critic>Robert Wilonsky</critic>
+      </review>
+      <review>
+         <snippet>Based on Palindromes, it's easy to see what Solondz is railing against but almost impossible to tell what he's railing for.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-to.palindromes13may13,1,854660.story?coll=bal-artslife-movies</url>
+         <critic>Chris Kaltenbach</critic>
+      </review>
+      <review>
+         <snippet>Solondz's determinedly removed eye for the graphic and shocking is by now practically a cliche. If Solondz really wants to outrage anyone, he'll have to make a sweet and heartfelt drama.</snippet>
+         <url>http://www.miami.com/mld/miamiherald/entertainment/movies/11568006.htm</url>
+         <critic>Connie Ogle</critic>
+      </review>
+      <review>
+         <snippet>Solondz, for reasons best discussed with a therapist, can find no good in people -- or at least none that he expresses in his films.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/111528742867520.xml&amp;coll=7</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>It’s occasionally sick-funny, but large swathes are unforgivably dull.</snippet>
+         <url>http://www.empireonline.co.uk/site/incinemas/ReviewInFull.asp?FID=11087</url>
+         <critic>Adam Smith</critic>
+      </review>
+      <review>
+         <snippet>You could call this film repugnant and abrasive, and Solondz would probably agree.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A268805</url>
+         <critic>Marrit Ingman</critic>
+      </review>
+      <review>
+         <snippet>If the point of "A Dirty Shame" was that nothing human is foreign to John Waters, Palindromes seems to suggest that, for Todd Solondz, everything human is.</snippet>
+         <url>http://www.villagevoice.com/film/0515,hoberman1,62952,20.html</url>
+         <critic>J. Hoberman</critic>
+      </review>
+      <review>
+         <snippet>Palindromes read the same way backward and forward, and Todd Solondz' sour tale ends where it begins.</snippet>
+         <url>http://tvguide.com/movies/database/showmovie.asp?MI=46045</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>It's a highly stylized piece of work typical of director Todd Solondz, who renders wildly exaggerated sequences on a topic not generally thought of as a basis for comedy. He leaves it to the viewer to decide if it's insightful whimsy or meaningless drivel.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1000627116</url>
+         <critic>Ray Bennett</critic>
+      </review>
+      <review>
+         <snippet>A shallow, transparent satire/social commentary, Palindromes lives and dies on a gimmick.</snippet>
+         <url>http://movie-reviews.colossus.net/movies/p/palindromes.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>On the evidence of Palindromes, the most misanthropic, depressing, hopeless film in memory, I'd hazard that for Solondz, childhood is a problem without a solution.</snippet>
+         <url>http://ae.philly.com/entertainment/ui/philly/movie.html?id=307396&amp;reviewId=17884</url>
+         <critic>Carrie Rickey</critic>
+      </review>
+      <review>
+         <snippet>As a director, Solondz seems to have his own locked-in fate -- to favor caricature over compassion -- and his movies are the worse for it.</snippet>
+         <url>http://www.washingtonpost.com/wp-dyn/content/article/2005/04/28/AR2005042801989.html</url>
+         <critic>Ann Hornaday</critic>
+      </review>
+      <review>
+         <snippet>Mostly stiff acting and intentionally flat, banal dialogue.</snippet>
+         <url>http://newyorkmetro.com/nymetro/movies/reviews/11694/</url>
+         <critic>Ken Tucker</critic>
+      </review>
+      <review>
+         <snippet>The human landscape of Palindromes is a vista of grotesqueness, dishonesty and creepiness. These are qualities Mr. Solondz has explored before, but this time he fails to make them interesting, partly because he lets himself and the audience off the hook.</snippet>
+         <url>http://movies2.nytimes.com/2005/04/13/movies/13pali.html?</url>
+         <critic>Dana Stevens</critic>
+      </review>
+      <review>
+         <snippet>Palindromes finds him (Solondz) stuck with his single theme inside a sealed dollhouse of his own construction. He has gifts to give a larger audience, if ever he breaks out.</snippet>
+         <url/>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>A thesis movie, almost a manifesto for despair, and certainly worthy of the aforementioned NR-DS rating. Except that its bad vibes don't linger. Have dinner and smart conversation with friends, hug a child, pick up a good book--and poof, life returns with a happy vengeance.</snippet>
+         <url>http://www.slate.com/id/2116769/</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>This is extremely dark and politically loaded material.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/story/299289p-256231c.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>I've never seen anything crazier than Palindromes. You can read that as praise if you're that sort of person, but I don't mean it that way.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2005/04/13/palindromes/index.html</url>
+         <critic>Andrew O&amp;#039;Hehir</critic>
+      </review>
+   </reviews>
+   <US_Gross>$553,368</US_Gross>
+   <weekend_gross>$68,071</weekend_gross>
+   <number_of_screens>7</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

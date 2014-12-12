@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Ballets Russes</name>
+   <company>Zeitgeist Films</company>
+   <genres>
+      <genre>Documentary</genre>
+   </genres>
+   <authors>
+      <author>Daniel Geller</author>
+      <author>Dayna Goldfine</author>
+      <author>Celeste Schaefer Snyder</author>
+      <author>Gary Weimberg</author>
+   </authors>
+   <directors>
+      <director>Daniel Geller</director>
+      <director>Dayna Goldfine</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Marian Seldes (narrator)</actor>
+      <actor>Irina Baronova</actor>
+      <actor>Yvonne Chouteau</actor>
+      <actor>Frederic Franklin</actor>
+      <actor>Nathalie Krassovska</actor>
+      <actor>Alicia Markova</actor>
+      <actor>Marc E. Platt</actor>
+      <actor>Tatiana Riabouchinska</actor>
+   </actors>
+   <release_date>October 26, 2005</release_date>
+   <running_time>118</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>May not be the greatest dance documentary ever made, but it could well be the most accessible and touching.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-0501118-movies-review-ballets,0,1129343.story?coll=mmx-movies_top_heds</url>
+         <critic>Sid Smith</critic>
+      </review>
+      <review>
+         <snippet>It captures the heart and spirit of one of the 20th century's most fabled ballet companies, with a history that stretches continents and decades.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/248759_ballet18q.html</url>
+         <critic>R. M. Campbell</critic>
+      </review>
+      <review>
+         <snippet>It gives you such an intense hit of creativity that afterward you may find yourself trying to jete out of the theater and into the street.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-to.ballet27jan27,1,6621722.story?coll=bal-artslife-movies</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>The meat of the film is their wittily edited interviews with company members, now in their 80s and 90s and scattered around the world, many of them still active as teachers and consultants.</snippet>
+         <url>http://www.laweekly.com/film/film_results.php?showid=3644&amp;Sumbit.x=48&amp;Sumbit.y=10</url>
+         <critic>Ella Taylor</critic>
+      </review>
+      <review>
+         <snippet>An electrifying documentary.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1107846&amp;lat=200.0&amp;lon=200.0&amp;displaySearchTerm=Ballets%20Russes&amp;displaySearchLocation=&amp;nm=1</url>
+         <critic>Sarah Kaufman</critic>
+      </review>
+      <review>
+         <snippet>A captivating film that truly elevates the spirit, Ballets Russes is the most emotionally satisfying documentary since "Mad Hot Ballroom."</snippet>
+         <url>http://www.calendarlive.com/movies/turan/cl-et-ballet11nov11,0,3836747.story</url>
+         <critic>Kenneth Turan</critic>
+      </review>
+      <review>
+         <snippet>A feature-length documentary, by Dayna Goldfine and Dan Geller, of absolutely breathtaking sweep and joyous energy.</snippet>
+         <url/>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>Enormously absorbing.</snippet>
+         <url>http://www.variety.com/index.asp?layout=sundance2005&amp;nav=reviews&amp;content=reviews&amp;reviewid=VE1117926270&amp;categoryid=1865&amp;cs=</url>
+         <critic>Scott Foundas</critic>
+      </review>
+      <review>
+         <snippet>Nothing short of majestic.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A338616</url>
+         <critic>Kimberley Jones</critic>
+      </review>
+      <review>
+         <snippet>Goldfine discover so many fascinating themes within their seemingly narrow subject that anyone with the slightest interest in history or human nature will find it absorbing.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/moviereviews/story/360028p-306590c.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>The archival footage is so breathtaking, the reminiscences so piquant, that even a stranger to dance can't help but be swept up by this peek into such exquisite, now vanished glamour.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1125300_1_0_,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>Ballets Russes does tell a marvelous story of midcentury show business, encompassing both the most exalted expressions of pure art and the sometimes grubby commerce that sustained it.</snippet>
+         <url>http://movies2.nytimes.com/2005/10/26/movies/26russ.html</url>
+         <critic>Dana Stevens</critic>
+      </review>
+      <review>
+         <snippet>It's a profoundly optimistic and delightful movie, for balletomanes and neophytes alike. It made me happy for days afterward.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2005/11/03/btm/index3.html</url>
+         <critic>Andrew O&amp;#039;Hehir</critic>
+      </review>
+      <review>
+         <snippet>Ballets Russes should find a wider audience beyond dance aficionados. Like all good documentaries, the human element is the glory of Ballets Russes.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/ArticleNews/TPStory/LAC/20051209/BALLET09/TPEntertainment/Film</url>
+         <critic>Paula Citron</critic>
+      </review>
+      <review>
+         <snippet>The documentary traces the fiery history of Ballets Russes -- which for a time consisted of two warring companies.</snippet>
+         <url>http://www.nypost.com/movies/30079.htm</url>
+         <critic>V.A. Musetto</critic>
+      </review>
+      <review>
+         <snippet>You don't have to know an arabesque from an alligator handbag to enjoy Daniel Geller and Dayna Goldfine's loving documentary about the various incarnations of the Ballet Russe.</snippet>
+         <url>http://online.tvguide.com/movies/database/ShowMovie.asp?MI=46502</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>If this documentary never quite makes the case for the deeper artistic or cultural imprint of the Ballets Russes, it does convey its enduring presence in these dancers' lives.</snippet>
+         <url>http://sfgate.com/cgi-bin/article.cgi?f=/c/a/2005/11/04/DDGOEFI2H81.DTL&amp;type=movies</url>
+         <critic>Steven Winn</critic>
+      </review>
+      <review>
+         <snippet>The troupe veterans interviewed, most in their 80s and 90s, are wonderfully passionate; the affecting ending shows them still working as dance teachers and archivists all over the world.</snippet>
+         <url>http://spacefinder.chicagoreader.com/movies/briefs/29022_BALLETS_RUSSES.html</url>
+         <critic>Fred Camper</critic>
+      </review>
+      <review>
+         <snippet>The documentary Ballets Russes enacts its drama with a light editorial hand and unavoidable sentimentality, rather like a roll call of the NBA's "50 Greatest Players."</snippet>
+         <url>http://www.villagevoice.com/film/0543,tracking8,69446,20.html</url>
+         <critic>Phyllis Fong</critic>
+      </review>
+      <review>
+         <snippet>A captivating if somewhat conventional documentary, Ballets Russes is a paean to the groundbreaking, 20th century ballet troupe that began as a loose group of Russian refugees, metamorphosed into the Ballet Russe de Monte Carlo and eventually split into two competing companies.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1001434088</url>
+         <critic>Sura Wood</critic>
+      </review>
+      <review>
+         <snippet>Geller and Goldfine have assembled a vital historical document, covering a cultural era now mostly lost, corrupted imperceptibly but permanently when fledgling ballerinas started dreaming about Broadway and Hollywood instead of Swan Lake.</snippet>
+         <url>http://avclub.com/content/node/41968</url>
+         <critic>Noel Murray</critic>
+      </review>
+      <review>
+         <snippet>One of the finest documentaries ever made about the performing arts, this magisterial history of the companies that danced under the name Ballet Russe will enchant dance aficionados and novices alike.</snippet>
+         <url>http://www.empireonline.com/incinemas/reviewcomplete.asp?FID=133567</url>
+         <critic>David Parkinson</critic>
+      </review>
+      <review>
+         <snippet>This very conventional PBS style videodoc should not be viewed before operating heavy machinery. However, there's plenty to fascinate devotees of the dance.</snippet>
+         <url>http://www.filmthreat.com/Reviews.asp?Id=7023</url>
+         <critic>Bob Westal</critic>
+      </review>
+   </reviews>
+   <US_Gross>$815,848</US_Gross>
+   <weekend_gross>$15,995</weekend_gross>
+   <number_of_screens>1</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

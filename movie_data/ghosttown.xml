@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Ghost Town</name>
+   <company>DreamWorks Pictures (Paramount)</company>
+   <genres>
+      <genre>Comedy</genre>
+      <genre>Fantasy</genre>
+      <genre>Romance</genre>
+   </genres>
+   <authors>
+      <author>David Koepp</author>
+      <author>John Kamps</author>
+   </authors>
+   <directors>
+      <director>David Koepp</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Ricky Gervais</actor>
+      <actor>Greg Kinnear</actor>
+      <actor>Kristen Wiig</actor>
+      <actor>Tea Leoni</actor>
+      <actor>Billy Campbell</actor>
+   </actors>
+   <release_date>September 19, 2008</release_date>
+   <running_time>102</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>Both very funny and a bit of a tearjerker, with an on-the-money performance from Ricky Gervais.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2008/09/18/DD2K130FUL.DTL&amp;type=movies</url>
+         <critic>Walter Addiego</critic>
+      </review>
+      <review>
+         <snippet>A winning mix of sharp comedy and touching bits that keeps the laughter -- a few tears -- flowing.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?rid=11644</url>
+         <critic>Michael Rechtshaffen</critic>
+      </review>
+      <review>
+         <snippet>A misanthropic dentist, a roguish ghost and a zany Egyptologist: as these unlikely companions scamper around Manhattan in the buoyant comedy Ghost Town, they resurrect the spirits of classic movie curmudgeons like W. C. Fields and such romantic comedians as Cary Grant and Carole Lombard in Woody Allen territory.</snippet>
+         <url>http://movies.nytimes.com/2008/09/19/movies/19ghos.html</url>
+         <critic>Stephen Holden</critic>
+      </review>
+      <review>
+         <snippet>A welcome surprise: a supernatural romantic comedy that works, graced with a cast just off-center enough to make it distinctive.</snippet>
+         <url>http://chicago.metromix.com/movies/movie_review/movie-review-ghost-town/617363/content</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>The twists are executed superbly, right up to a climax that fits the David Mamet definition of what makes for a perfect ending: It is both surprising and inevitable.</snippet>
+         <url>http://www.nypost.com/seven/09192008/entertainment/movies/lust_for_afterlife_129734.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>The astonishingly versatile Kinnear proves note-perfect as a huckster who slowly rids himself of slime.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/news/bal-to.gervais19sep19,0,5370895.story</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>A sweet and hilarious romantic comedy featuring a breakout performance by British comic genius Ricky Gervais, inspires viewers to pause, reflect and praise one of the most rare and wondrous occurrences in contemporary cinema: the Good Movie.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1150039&amp;categories=Movies</url>
+         <critic>Ann Hornaday</critic>
+      </review>
+      <review>
+         <snippet>Smartly supernatural, and featuring sensational performances by Ricky Gervais and Tea Leoni, Ghost Town is a "Topper" for our times.</snippet>
+         <url>http://www.variety.com/review/VE1117938251.html?categoryid=31&amp;cs=1&amp;query=Ghost+Town</url>
+         <critic>John Anderson</critic>
+      </review>
+      <review>
+         <snippet>Leoni and Kinnear are charming, and Koepp keeps the mood appropriately light. But really, this would be just another disposable comedy if it weren't for our unassuming star.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2008/09/18/2008-09-18_ricky_gervais_is_dropdead_hilarious_in_g.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>Ghost Town is a rarity, a contemporary romantic comedy that honors the traditions of the genre without checking them off some plasticized list. The picture is breathing, and alive, every minute.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2008/09/19/ghost_town/</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>It sounds sappy, and sometimes it is, but director Koepp and co-writer John Kamps stay alert to the humor and pathos of Bertram's isolation.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/22188298/review/23178139/ghost_town</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>A lightweight rom-com elevated by its performances. It is a reminder that the funniest people are often not comedians, but actors playing straight in funny roles.</snippet>
+         <url>http://www.rogerebert.com/apps/pbcs.dll/article?AID=/20080918/REVIEWS/809180301/1023</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>Though the plot contrives to throw Gervais and Leoni together and then pull them apart, the two leads stay consistently in sync through it all, laughing at each other's jokes and generally sharing the kind of normal adult communication that's often missing from movies about people falling in love.</snippet>
+         <url>http://www.avclub.com/content/cinema/ghost_town</url>
+         <critic>Noel Murray</critic>
+      </review>
+      <review>
+         <snippet>An innovative romantic comedy that is a mixture of British spice and American sugar.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20080918.wghost19/BNStory/Entertainment/home</url>
+         <critic>Liam Lacey</critic>
+      </review>
+      <review>
+         <snippet>Predictable but amusing. The painfully awkward, stubby Gervais as romantic lead is a funny enough concept, but the actor's ongoing banter with Kinnear is engaging, and their styles mesh entertainingly.</snippet>
+         <url>http://www.miamiherald.com/entertainment/movies/reviews/story/690845.html</url>
+         <critic>Connie Ogle</critic>
+      </review>
+      <review>
+         <snippet>A good-natured and engaging fantasy/romantic comedy in the tradition of "Heaven Can Wait" or even "Topper."</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2008-09-18-ghost-town_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>It's a smooth journey across familiar territory to a safe emotional harbor, always professional and occasionally delightful.</snippet>
+         <url>http://www.charlotteobserver.com/161/story/200157.html</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>Once Leoni's Gwen comes on the scene, the movie starts to bubble along nicely. Not just because Leoni is a screwball heroine worth, er, screwballing--at 42, she's more attractive than ever--but because her character is given a weight and texture that's rare in a movie of this type.</snippet>
+         <url>http://www.slate.com/id/2200397/</url>
+         <critic>Dana Stevens</critic>
+      </review>
+      <review>
+         <snippet>Audiences who feel battered by Hollywood's usual hard-sell approach to farce may be disarmed by Koepp's soft touch and inclined to credit blandness as understatement.</snippet>
+         <url>http://www.latimes.com/entertainment/news/reviews/la-et-ghost19-2008sep19,0,5226979.story</url>
+         <critic>Jan Stuart</critic>
+      </review>
+      <review>
+         <snippet>In this comedy by David Koepp, Gervais handles the big, crowd-pleasing gags with aplomb.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/33546_GHOST_TOWN.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>Diverting enough, but it's also the kind of high-concept studio concoction Ricky Gervais might have ridiculed in his great backstage-showbiz sitcom "Extras."</snippet>
+         <url>http://www.ew.com/ew/article/0,,20226412,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>But by the time this imperfect little film wends its way to one of the most winning exit lines I've heard in a long time, it's turned into something, well, perfectly lovely.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A673168</url>
+         <critic>Kimberley Jones</critic>
+      </review>
+      <review>
+         <snippet>Ghost Town reworks "Ghost" as a romantic comedy with a miserable hero who sees dead people and is really annoyed by them.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/379650_ghosttown19q.html</url>
+         <critic>Sean Axmaker</critic>
+      </review>
+      <review>
+         <snippet>Someone once said about W.C. Fields that he had the rare ability to despise amusingly. I can imagine no greater compliment than to say that Ricky Gervais seems, at his best, like a young Fields.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=11754</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>One of those romantic comedies that never quite clicks. At times, its humor is effective, provoking chuckles and laughs. At other times, the comedy feels forced and awkward.</snippet>
+         <url>http://www.reelviews.net/php_review_template.php?identifier=1334</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>In Koepp's comedic variation on a similar theme, the dead are not just unhappy -- they're irritatingly needy.</snippet>
+         <url>http://movies.tvguide.com/ghost-town/review/294804</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>Eventually, though, Ghost Town buckles beneath the weight of contrivance -- so many ghosts to dispel, so many lessons to learn.</snippet>
+         <url>http://online.wsj.com/article/SB122177747252654291.html</url>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>Feels downright ancient.</snippet>
+         <url>http://www.philly.com/philly/entertainment/movies/20080919_Low_spirits_in__Ghost_Town_.html</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>If it sounds all so pale and predictable, it is.</snippet>
+         <url>http://www.villagevoice.com/2008-09-17/film/ricky-gervais-sees-dead-people-in-ghost-town/</url>
+         <critic>Robert Wilonsky</critic>
+      </review>
+      <review>
+         <snippet>If you like Gervais' usual schtick, you might be prepared to overlook the hackneyed plot for the jokes and strong cast.</snippet>
+         <url>http://www.empireonline.com/reviews/reviewcomplete.asp?FID=135741</url>
+         <critic>Helen O&amp;#039;Hara</critic>
+      </review>
+   </reviews>
+   <US_Gross>$13,252,641</US_Gross>
+   <production_budget>$20,000,000</production_budget>
+   <weekend_gross>$5,012,315</weekend_gross>
+   <number_of_screens>1,505</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

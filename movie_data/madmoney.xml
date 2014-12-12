@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Mad Money</name>
+   <company>Overture Films</company>
+   <genres>
+      <genre>Comedy</genre>
+      <genre>Crime</genre>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>Terry Winsor</author>
+      <author>Neil Mc</author>
+      <author>Kay</author>
+      <author>John Mister</author>
+      <author>Glenn Gers</author>
+   </authors>
+   <directors>
+      <director>Callie Khouri</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Diane Keaton</actor>
+      <actor>Queen Latifah</actor>
+      <actor>Katie Holmes</actor>
+      <actor>Ted Danson</actor>
+   </actors>
+   <release_date>January 18, 2008</release_date>
+   <running_time>minutes,</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>Latifah coasts on grit and verve, and Holmes has a goggle-eyed sweetness, but it's Keaton who rules.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20172129,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>Moviegoers will come up empty with Mad Money. This lifeless comedy and uninventive caper feels as if it were cobbled together at a studio's obligatory consciousness-raising diversity seminar.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2008-01-17-mad-money_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>This is the feistiest Hollywood movie about American women and their thankless jobs since "9 to 5."</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=10898</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>While it's all so breezy and zippy and girl-power peppy, it's Keaton who makes Mad Money worth a few bucks.</snippet>
+         <url>http://www.villagevoice.com/film/0803,wilonsky,78851,20.html</url>
+         <critic>Robert Wilonsky</critic>
+      </review>
+      <review>
+         <snippet>The results are moderately entertaining, but the humor is broad and shallow; the film has none of the irony, bite or wit of its predecessor; and the script (by Glenn Gers) seems so calculated to appeal to every conceivable female demographic that it always feels contrived.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/347758_mad18q.html</url>
+         <critic>William Arnold</critic>
+      </review>
+      <review>
+         <snippet>The pleasures of this slight caper film are strictly small-screen, as three talented actresses walk through quaint roles before they hurry on to the next project.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/reviews/bal-to.madmoney18jan18,0,1000708.story</url>
+         <critic>Chris Kaltenbach</critic>
+      </review>
+      <review>
+         <snippet>A caper comedy with some definite problems.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2008/01/18/DDDKUGCVA.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>Keaton and Ted Danson, who plays her husband, Don, are the comedic bright spot in the movie, not least because they are ridiculous.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-madmoney18jan18,0,7143608.story?coll=cl-mreview</url>
+         <critic>Carina Chocano</critic>
+      </review>
+      <review>
+         <snippet>If you're going to make a heist picture, then at least have the decency to make the heist itself interesting. Otherwise, do like Tarantino did in "Reservoir Dogs" and just skip it altogether.</snippet>
+         <url>http://www.miamiherald.com/1054/story/382754.html</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>A likable and completely dispensable heist film starring two of the deftest comedians working (Keaton and Latifah), the film from Callie Khouri is itself an American retread of the British caper telefilm "Hot Money."</snippet>
+         <url>http://www.philly.com/philly/entertainment/movies/20080118_Gals_find_a_use_for_old_dough.html</url>
+         <critic>Carrie Rickey</critic>
+      </review>
+      <review>
+         <snippet>Move over, Gordon Gecko: The new poster boy for American greed in the movies isn’t a silver-tongued corporate hustler with pomaded hair and a closet full of $10,000 suits. In fact, the new poster boy for American greed in the movies isn’t a boy at all. I know you won’t believe me when I tell you, but you’ve been replaced by Diane Keaton.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A581469</url>
+         <critic>Josh Rosenblatt</critic>
+      </review>
+      <review>
+         <snippet>Everyone in the cast treads water, acting-wise -- there's nothing else to do -- except for Latifah, who brings passion to her work.</snippet>
+         <url>http://ae.charlotte.com/entertainment/ui/charlotte/movie.html?id=1009206&amp;reviewId=22843&amp;startDate=NEXT7</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>Mad Money is a comedy caper where the caper's not interesting and the comedy's not funny.</snippet>
+         <url>http://www.reelviews.net/movies/m/mad_money.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>Once the star of some of the finest movies of the '70s and '80s, Keaton has begun making just this kind of chick-flick comedy with increasing regularity at least since 1996's "The First Wives Club," and it's gotten so she's not even trying to get into character anymore.</snippet>
+         <url>http://www.tvguide.com/movies/mad-money/review/292000</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>In the breezy, amoral heist comedy Mad Money, “Fun With Dick and Jane” meets “9 to 5” on the way to recession.</snippet>
+         <url>http://movies.nytimes.com/2008/01/18/movies/18mad.html?ref=movies</url>
+         <critic>Stephen Holden</critic>
+      </review>
+      <review>
+         <snippet>Possesses its share of modest laughs, many of them delivered by Ted Danson as Bridget's bemused husband. But director Callie Khouri (best known for writing "Thelma &amp; Louise") doesn't bring the dash needed to make this a comic heist on a par with "Ocean's Eleven."</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1106285&amp;categories=Movies&amp;nm=1</url>
+         <critic>Ann Hornaday</critic>
+      </review>
+      <review>
+         <snippet>The pocketing of tired bills headed for the shredder, the producing of tired movies headed for the theatre -- it's all just recycling.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20080117.wmoney18/BNStory/Entertainment/home</url>
+         <critic>Rick Groen</critic>
+      </review>
+      <review>
+         <snippet>As a comedy, it relies on Keaton and Latifah playing the same characters they always play, and Holmes overcompensating by switching into bug-eyed manic-comedienne mode. Her performance is part Lucille Ball, part overcaffeinated chicken, and it deserves some credit for daring, but none for execution.</snippet>
+         <url>http://www.avclub.com/content/cinema/mad_money</url>
+         <critic>Keith Phipps</critic>
+      </review>
+      <review>
+         <snippet>The movie is not so much horrible as it is drab -- from its lazy plotting to its uninspired yuks to its cop-out ending to its relentlessly yellow-brown sets. "Mad Money" does little more than take up space, and you will be two hours closer to the grave when you leave the theater.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/1200533101315440.xml&amp;coll=7</url>
+         <critic>M. E. Russell</critic>
+      </review>
+      <review>
+         <snippet>The picture has no legs, no style, no sense of movement other than the meandering, dawdling kind.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2008/01/18/mad_money/</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>The best way to describe Callie Khouri’s Mad Money is as “Ocean’s Eleven” if it were geared to the drones at the Oprah Winfrey book club.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=10716</url>
+         <critic>Felix Vasques Jr.</critic>
+      </review>
+      <review>
+         <snippet>If the movie gets by, as it surely will during the current entertainment drought, most of the credit should go to a couple of performers (Latifah/Keaton) who come from different traditions, yet share a gift for breathing life into moribund material.</snippet>
+         <url>http://online.wsj.com/article/SB120061149390499007.html</url>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>Improbable and generally unfunny comedy.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?JSESSIONID=3C1KHMSCw6KvNMjbv5nppwpPQ18BrMJJt6L1Wg1hLyQL9PyHLZNW!-1822885353&amp;&amp;rid=10450</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>Banking on the appealing chemistry of Diane Keaton and Queen Latifah -- with co-star Katie Holmes awkwardly upsetting the balance -- this strained heist comedy about three cash-strapped femmes is watchable enough for a few reels, but lacks the requisite wit and amoral energy to capitalize on its get-rich-quick premise.</snippet>
+         <url>http://www.variety.com/review/VE1117935784.html?categoryid=31&amp;cs=1</url>
+         <critic>Justin Chang</critic>
+      </review>
+      <review>
+         <snippet>Diane Keaton--now there’s a trouper for you. She will not be caught giving less than 110 percent, even in a drab little heist comedy.</snippet>
+         <url>http://chicago.metromix.com/movies/movie_review/movie-review-mad-money/286252/content</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>Affable Ted Danson makes few ripples as Bridget's husband Don; while Roger Cross and Adam Rothenberg also glide through the film in their minor "significant other" roles to Nina and Jackie, respectively.</snippet>
+         <url>http://www.premiere.com/moviereviews/4363/mad-money.html</url>
+         <critic>Deborah Day</critic>
+      </review>
+      <review>
+         <snippet>Why would so many accomplished women waste their time and talents on a movie as counterfeit as Mad Money?</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2008/01/18/2008-01-18_chicks_and_balances_in_mad_money.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>Mad Money is astonishingly casual for a movie about three service workers who steal millions from a Federal Reserve Bank. There is little suspense, no true danger; their plan is simple, the complications are few, and they don't get excited much beyond some high-fives and hugs and giggles.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20080117/REVIEWS/801170304</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>The best thing you can say about Mad Money is that it has a good cast. The worst thing you can say about it is that the cast is extremely ill-used.</snippet>
+         <url>http://www.csmonitor.com/2008/0118/p15s01-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>This lame comedy was adapted from a recent British TV movie, though its (quite literal) money shots of the women squealing and hurling cash in the air reminded me of 80s greed capers like "Trading Places" and "A Fish Called Wanda."</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/32658_MAD_MONEY.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>Holmes, with Alice Cooper hair and crazy Jim Carrey eyes, looks terrible and acts worse, unless this movie is unintentionally a lobotomy documentary. Whatever could have happened to her in the last couple of years to zap the talent out of her like this?</snippet>
+         <url>http://www.nypost.com/seven/01182008/entertainment/movies/dont_take_the_money__just_run_979437.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+   </reviews>
+   <US_Gross>$20,668,843</US_Gross>
+   <weekend_gross>$7,736,452</weekend_gross>
+   <number_of_screens>2,470</number_of_screens>
+   <oscar_winning_actors_present/>
+   <num_oscar_winning_actors>1</num_oscar_winning_actors>
+   <oscar_winning_actor>diane keaton</oscar_winning_actor>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

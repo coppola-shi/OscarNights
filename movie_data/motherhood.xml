@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Motherhood</name>
+   <company>Freestyle Releasing</company>
+   <genres>
+      <genre>Comedy</genre>
+   </genres>
+   <authors>
+      <author>Katherine Dieckmann</author>
+   </authors>
+   <directors>
+      <director>Katherine Dieckmann</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Uma Thurman</actor>
+      <actor>Anthony Edwards</actor>
+      <actor>Minnie Driver</actor>
+   </actors>
+   <release_date>October 23, 2009</release_date>
+   <running_time>90</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>Neither earth-shaking nor profound, but it has considerable charm, thanks to an appealing cast and some sharply witty observations about the pressures of child-rearing in Manhattan.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film-reviews/film-review-motherhood-1003933839.story</url>
+         <critic>Stephen Farber</critic>
+      </review>
+      <review>
+         <snippet>Parenthood seems only half aware of Eliza's REAL problem: that she thinks she's superior to the choices she's made.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20314425,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>Uma Thurman looks frumpy in Motherhood. This is the only pressing reason to see it.</snippet>
+         <url>http://www.csmonitor.com/2009/1023/p17s06-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>The movie's narrative tension hinges on, well, nothing.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2009/10/22/MV571A8OAL.DTL</url>
+         <critic>Amy Biancolli</critic>
+      </review>
+      <review>
+         <snippet>Though pregnant with possibility, Motherhood fails to deliver.</snippet>
+         <url>http://www.variety.com/review/VE1117939509.html?categoryid=31&amp;cs=1</url>
+         <critic>Rob Nelson</critic>
+      </review>
+      <review>
+         <snippet>When it aims for humor, it feels overwrought and clichéd.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2009-10-22-motherhood_review_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>Dieckmann nails the look of a certain niche of urban neo-middle-class living, but the film's hyper-earnest tone and reliance on "day-from-hell" New York clichés overwhelm those details.</snippet>
+         <url>http://www.villagevoice.com/2009-10-20/film/uma-thurman-does-kooky-for-motherhood/</url>
+         <critic>Michelle Orange</critic>
+      </review>
+      <review>
+         <snippet>Motherhood doesn't really need a recession to call attention to its flaws. The movie's a perfect dud on its own terms.</snippet>
+         <url>http://www.npr.org/templates/story/story.php?storyId=113927476</url>
+         <critic>Ella Taylor</critic>
+      </review>
+      <review>
+         <snippet>If Carrie Bradshaw ever trades her Manolos for sneakers and starts blogging about raising children, I pray she wouldn't be as tiresome as the heroine of Katherine Dieckmann's insufferable comedy Motherhood.</snippet>
+         <url>http://www.nypost.com/p/entertainment/movies/throw_mama_from_the_train_cEBsalz5QeFOW6h0wm3FSJ</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>Invites the kind of judgment it condemns.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-capsules23-2009oct23,0,5406263.story</url>
+         <critic>Glenn Whipp</critic>
+      </review>
+      <review>
+         <snippet>Has shockingly little to say.</snippet>
+         <url>http://movies.nytimes.com/2009/10/23/movies/23mother.html?ref=movies</url>
+         <critic>A.O. Scott</critic>
+      </review>
+      <review>
+         <snippet>Dieckmann fails to notice that Thurman doesn’t have the comic chops for the material--she comes off more like a self-pitying loser than a witty, put-upon everywoman.</snippet>
+         <url>http://www.avclub.com/articles/motherhood,34437/</url>
+         <critic>Keith Phipps</critic>
+      </review>
+      <review>
+         <snippet>Thurman is bespectacled again for Motherhood, and it saddens me to report that neither she nor this comedy turns into more than an argument against procreation.</snippet>
+         <url>http://www.boston.com/ae/movies/articles/2009/10/23/motherhood_has_a_bad_day/</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>It’s a judgmental tale whose only payoff is carpe diem drivel.</snippet>
+         <url>http://newyork.timeout.com/articles/film/79811/motherhood-film-review</url>
+         <critic>Nick Schager</critic>
+      </review>
+      <review>
+         <snippet>Motherhood's litany of complaints and trite comedy-drama comes off as thin, and targeted, as a flyer for The Children's Place.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2009/10/23/2009-10-23_short_film_reviews_motherhood_astro_boy_.html</url>
+         <critic>Joe Neumaier</critic>
+      </review>
+   </reviews>
+   <US_Gross>$93,388</US_Gross>
+   <weekend_gross>$50,081</weekend_gross>
+   <number_of_screens>48</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

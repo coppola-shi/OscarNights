@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Rails &amp; Ties</name>
+   <company>Warner Bros.</company>
+   <genres>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author>Micky Levy</author>
+   </authors>
+   <directors>
+      <director>Alison Eastwood</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Marcia Gay Harden</actor>
+      <actor>Miles Heizer</actor>
+      <actor>Kevin Bacon</actor>
+   </actors>
+   <release_date>October 26, 2007</release_date>
+   <running_time>96</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>The film's best and most carefully shaded performance belongs to Bacon.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20071025.wrails26/BNStory/Entertainment/home</url>
+         <critic>Stephen Cole</critic>
+      </review>
+      <review>
+         <snippet>I found the opening third tremendously intriguing and involving, I thought the emotions were so real they could be touched, but then the film lost its way and fell into the clutches of sentimental melodrama.</snippet>
+         <url>http://www.rogerebert.com/apps/pbcs.dll/article?AID=/20071108/REVIEWS/711080306/1023</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>Everything looks professional if undistinguished.</snippet>
+         <url>http://movies.nytimes.com/2007/10/26/movies/26rail.html?ref=movies</url>
+         <critic>Manohla Dargis</critic>
+      </review>
+      <review>
+         <snippet>Reserved, careful and largely predictable in the way it plays out its wrenching emotional crises.</snippet>
+         <url>http://www.variety.com/review/VE1117934546.html?categoryid=31&amp;cs=1&amp;p=0</url>
+         <critic>Todd McCarthy</critic>
+      </review>
+      <review>
+         <snippet>Alison Eastwood's debut feature is slow, deliberate, assured, and shot with a graceful feel for place--none of which is enough to overcome the creaky themes that tie this hackneyed domestic drama together with fearsome symmetry.</snippet>
+         <url>http://www.villagevoice.com/film/0743,taylor,78127,20.html</url>
+         <critic>Ella Taylor</critic>
+      </review>
+      <review>
+         <snippet>Rails &amp; Ties is like one bad TV movie that slammed into another.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20153905,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>Alison Eastwood, whose good looks and last name have served her well as a Hollywood actress, makes her directing debut with this mediocre cancer drama.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/capsules/32218_RAILS_AND_TIES</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>While it features three strong performance and the debut of a promising filmmaker, the story line is obvious and rather melodramatic.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2007-10-25-rails-ties_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>As lovely as some of the footage looks and as committed as are the three lead performances, they serve only to make Rails &amp; Ties play like an exceptionally well-acted and well-made Lifetime movie.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-rails26oct26,0,5047496.story?coll=cl-mreview</url>
+         <critic>Carina Chocano</critic>
+      </review>
+      <review>
+         <snippet>A heartfelt but dramatically flat portrait of a couple grappling with one tragedy whose lives are profoundly affected by the outcome of another.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?&amp;rid=10106</url>
+         <critic>Michael Rechtshaffen</critic>
+      </review>
+      <review>
+         <snippet>All the astute acting in the world can’t bring such a preposterous story into the station on time and intact.</snippet>
+         <url>http://chicago.metromix.com/movies/movie_review/movie-review-rails-and/247657/content</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>Nobody feels anything they're not explicitly told to feel. Not even the audience.</snippet>
+         <url>http://www.avclub.com/content/cinema/rails_amp_ties</url>
+         <critic>Keith Phipps</critic>
+      </review>
+      <review>
+         <snippet>The film rings so consistently false that it's more likely to induce snickers and eye-rolling.</snippet>
+         <url>http://www.tvguide.com/movies/rails-ties/review/291084</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>The only conceivable reason for Warner Bros. to (barely) release this mush is as a favor to Clint Eastwood, whose daughter Alison directed.</snippet>
+         <url>http://www.nypost.com/seven/10262007/entertainment/movies/rails__ties.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>Chock-full of holes.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2007/11/09/DDBLT89E0.DTL&amp;type=movies</url>
+         <critic>Ruthe Stein</critic>
+      </review>
+   </reviews>
+   <US_Gross>$22,136</US_Gross>
+   <weekend_gross>$11,032</weekend_gross>
+   <number_of_screens>5</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Feast</name>
+   <company>The Weinstein Company</company>
+   <genres>
+      <genre>Comedy</genre>
+      <genre>Horror</genre>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>Marcus Dunstan</author>
+      <author>Patrick Melton</author>
+   </authors>
+   <directors>
+      <director>John Gulager</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Navi Rawat</actor>
+      <actor>Krista Allen</actor>
+      <actor>Balthazar Getty</actor>
+      <actor>Henry Rollins</actor>
+      <actor>Judah Friedler</actor>
+      <actor>Josh Zuckerman</actor>
+      <actor>Jason Mewes</actor>
+      <actor>Jenny Wade</actor>
+   </actors>
+   <release_date>September 22, 2006</release_date>
+   <running_time>95</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>This is a superior horror film. It hits hard and fast, letting up only to inject some black humor and amp up the tension again before coming back for more. Feast is nasty, brutish, and short, just like Hobbes said all horror flicks should be.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=9317</url>
+         <critic>Pete Vonder Haar</critic>
+      </review>
+      <review>
+         <snippet>Feast isn't quite demented enough to reach Raimi-an heights, but Gulager uses parts of the monster-movie buffalo even the buffalo didn't know existed.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1537101_1_0_,00.html</url>
+         <critic>Scott Brown</critic>
+      </review>
+      <review>
+         <snippet>Winds up being rather fun. It's not great, but it's certainly not the worst monster movie that I've sat through -- that might be 2003's "Darkness Falls."</snippet>
+         <url>http://www.premiere.com/article.asp?section_id=2&amp;article_id=3124</url>
+         <critic>Kelly Borgeson</critic>
+      </review>
+      <review>
+         <snippet>The highlight is a meta touch: A funny on-screen résumé is posted each time we meet a new character.</snippet>
+         <url>http://www.nypost.com/entertainment/movies/beer__blood___bit_of_wit_movies_kyle_smith.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>Feast isn't the least bit artful, but it is gleefully gruesome, which may be all one can ask of a no-budget monster movie.</snippet>
+         <url>http://www.laweekly.com/film+tv/film-reviews/film-reviews/14533/</url>
+         <critic>Chuck Wilson</critic>
+      </review>
+      <review>
+         <snippet>Follows a common horror flick recipe (people under siege from hungry monsters--so much for Greenlight's search for originality), adding a dash of humor to keep things from becoming too much of a checklist.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-060922-movies-review-feast,0,2483685.story?coll=mmx-movies_top_heds</url>
+         <critic>Michael Esposito</critic>
+      </review>
+      <review>
+         <snippet>Contains no shocks. But it works as a funny and slicker-than-expected parody of the genre.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1003190142</url>
+         <critic>Richard James Havis</critic>
+      </review>
+      <review>
+         <snippet>Forgettable fun for the undiscriminating.</snippet>
+         <url>http://www.variety.com/review/VE1117931588?categoryid=31&amp;cs=1&amp;s=h&amp;p=0</url>
+         <critic>Dennis Harvey</critic>
+      </review>
+      <review>
+         <snippet>Fans of horror-comedy probably will enjoy this movie, even though chuckles outnumber scares.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-to.feast22sep22,0,3100084.story?coll=bal-artslife-movies</url>
+         <critic>Michael Esposito</critic>
+      </review>
+      <review>
+         <snippet>Gulager shows that he truly is PGL's most gifted alumnus.</snippet>
+         <url>http://www.avclub.com/content/node/53159</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>A sad farewell to the promising Project Greenlight concept, this Feast leaves viewers with nothing satisfying to tuck into.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-capsules22sep22,0,6352586.story?coll=cl-mreview</url>
+         <critic>John Anderson</critic>
+      </review>
+      <review>
+         <snippet>It's gooey fun for the first reel or two despite an abundance of close-ups that render the frantic action nearly unreadable.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/28766_FEAST.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>John Gulager's directing debut is horror at its most reductive and least resonant.</snippet>
+         <url>http://tvguide.com/detail/movie.aspx?tvobjectid=282551&amp;more=ucmoviereview</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>What's the difference between Feast and, say, "Alien" or "The Texas Chain Saw Massacre," all of which share the same plot? Patience. Feast lacks it.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1112483&amp;categories=Movies&amp;nm=1</url>
+         <critic>Dan Zak</critic>
+      </review>
+      <review>
+         <snippet>Kind of a bore.</snippet>
+         <url>http://sfgate.com/cgi-bin/article.cgi?f=/c/a/2006/09/22/DDGUAL9FMJ1.DTL#flick4</url>
+         <critic>Peter Hartlaub</critic>
+      </review>
+      <review>
+         <snippet>Zero-star movies are a rare and terrifying breed - films that warrant recommendation only as an alternative to physical distress.</snippet>
+         <url>http://www.reelviews.net/movies/f/feast.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+   </reviews>
+   <US_Gross>$56,131</US_Gross>
+   <production_budget>$3,200,000</production_budget>
+   <weekend_gross>$54,556</weekend_gross>
+   <number_of_screens>146</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

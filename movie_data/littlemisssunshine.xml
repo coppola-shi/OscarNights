@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Little Miss Sunshine</name>
+   <company>Fox Searchlight Pictures</company>
+   <genres>
+      <genre>Comedy</genre>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author>Michael Arndt</author>
+   </authors>
+   <directors>
+      <director>Jonathan Dayton</director>
+      <director>Valerie Faris</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Abigail Breslin</actor>
+      <actor>Greg Kinnear</actor>
+      <actor>Paul Dano</actor>
+      <actor>Alan Arkin</actor>
+      <actor>Toni Collette</actor>
+      <actor>Steve Carell</actor>
+      <actor>Marc Turtletaub</actor>
+      <actor>Jill Talley</actor>
+   </actors>
+   <release_date>July 26, 2006</release_date>
+   <running_time>101</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>What makes husband-and-wife directing team Jonathan Dayton and Valerie Faris' hilarious debut such a great family film isn't that it's suitable for the whole family (it's not), but that it speaks a simple truth about what it means to be part of one.</snippet>
+         <url>http://online.tvguide.com/newsearch/detail.aspx?tvobjectid=282089&amp;more=ucmoviereview</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>As ambitious, honest and subversive as any American movie since "Election."</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-little26jul26,0,4825646.story</url>
+         <critic>Carina Chocano</critic>
+      </review>
+      <review>
+         <snippet>Sly, near-perfect comedy.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2006/08/04/DDGQVKA2TU1.DTL&amp;type=movies</url>
+         <critic>Ruthe Stein</critic>
+      </review>
+      <review>
+         <snippet>You won't see a brighter, truer affirmation of the All-American messed-up improvisational family than Little Miss Sunshine.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-to.sunshine11aug11,0,787920.story?coll=bal-artslife-movies</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>While the film itself isn't perfect, who cares about perfection in the face of abundant life, authentic screwiness and lovely surprises by the busload?</snippet>
+         <url>http://online.wsj.com/article/SB115387154824217191.html</url>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>A raucously entertaining slice of slapstick dressed up as domestic satire.</snippet>
+         <url>http://www.laweekly.com/film+tv/film/hooverville/14106/</url>
+         <critic>Ella Taylor</critic>
+      </review>
+      <review>
+         <snippet>This indie, a sweet, tart and smart satire about a family of losers in a world obsessed with winning, is an authentic crowd pleaser. There's been no more satisfying American comedy this year.</snippet>
+         <url>http://www.msnbc.msn.com/id/13880170/site/newsweek/</url>
+         <critic>David Ansen</critic>
+      </review>
+      <review>
+         <snippet>It has been a while since we've seen such a consistently funny and entertaining road movie.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2006-07-25-little-miss-sunshine_x.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>Funny, and thoughtful, and deeply, viscerally satisfying.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-060805-movies-review-sunshine,0,741939.story?coll=mmx-movies_top_heds</url>
+         <critic>Jessica Reaves</critic>
+      </review>
+      <review>
+         <snippet>It looks at the all-American obsession with winning and chortles darkly. You still come out of the movie wanting to give your family a hug.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=8859</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>The irony is, this family isn't mismatched: All six bickering characters are connected by empathy as well as blood, and we wait for them to figure that out.</snippet>
+         <url>http://ae.charlotte.com/entertainment/ui/charlotte/movie.html?id=656950&amp;reviewId=21308&amp;startDate=NEXT7</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>A painful, funny and fresh comedy.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/1155162518216730.xml&amp;coll=7</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>A prime example of a dysfunctional-family comedy that also doubles as a road movie. Even the vehicle of transport is dysfunctional.</snippet>
+         <url>http://www.csmonitor.com/2006/0728/p14s02-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>In remarkably compact and quietly concise vignettes, we're introduced to each member, and immediately understand what they're all about.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/279987_sunshine04q.html</url>
+         <critic>Paula Nechak</critic>
+      </review>
+      <review>
+         <snippet>The film accomplishes a remarkable feat of creative alchemy by breathing life and depth into characters that, in lesser hands, could easily have come across as grating caricatures.</snippet>
+         <url>http://www.avclub.com/content/node/50956</url>
+         <critic>Nathan Rabin</critic>
+      </review>
+      <review>
+         <snippet>A brainy blend of farce and heart, this is one of those movies that veteran moviegoers complain they don't make anymore.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1001882944</url>
+         <critic>Duane Byrge</critic>
+      </review>
+      <review>
+         <snippet>Pic's distinguished by a flawless cast, a gentle spirit of rebellion and a smart script by first-time screenwriter Michael Arndt that knows never to push its character quirks too hard.</snippet>
+         <url>http://www.variety.com/index.asp?layout=features2006&amp;content=jump&amp;jump=review&amp;head=sundance&amp;nav=RSundance&amp;articleid=VE1117929303&amp;cs=1&amp;s=h&amp;p=0</url>
+         <critic>David Rooney</critic>
+      </review>
+      <review>
+         <snippet>Little Miss Sunshine is an enchanting anthem to loserdom -- a dark comedy that piles on setback after setback and yet never loses its helium.</snippet>
+         <url>http://newyorkmetro.com/movies/reviews/18468/index1.html</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>The recent film it most recalls is "You Can Count on Me" (2000), another small treasure about a fractured family that managed to be moving without troweling on the sap.</snippet>
+         <url>http://www.slate.com/id/2146478</url>
+         <critic>Dana Stevens</critic>
+      </review>
+      <review>
+         <snippet>Carell's physical comedy is close to genius.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2006/07/26/little_miss/index.html</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>That metaphor is pitch-perfect, but the film works a little too hard at proving the vileness of beauty pageants.</snippet>
+         <url>http://www.time.com/time/magazine/article/0,9171,1220520,00.html</url>
+         <critic>Richard Schickel</critic>
+      </review>
+      <review>
+         <snippet>Tucked in between all the hurt and the jokes, the character development and the across-the-board terrific performances is a surprisingly sharp look at contemporary America.</snippet>
+         <url>http://movies2.nytimes.com/2006/07/26/movies/26suns.html?ref=movies</url>
+         <critic>Manohla Dargis</critic>
+      </review>
+      <review>
+         <snippet>As scripted by Michael Arndt, this isn't much more than a glorified sitcom, but it deftly dramatizes our conflicting desires for individuality and an audience to applaud it.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/critic.html#30106</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>Mostly it's just funny. Really, really funny.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1120451&amp;lat=200.0&amp;lon=200.0&amp;displaySearchLocation=&amp;nm=1&amp;categories=Movies</url>
+         <critic>Jennifer Frey</critic>
+      </review>
+      <review>
+         <snippet>Sharp, very funny, surprisingly moving and rejoicing in great work from the entire cast, this sparkling little gem takes the family road movie to unhoped-for heights of hilarity and humanity.</snippet>
+         <url>http://www.empireonline.com/reviews/review.asp?FID=133622</url>
+         <critic>Angie Errigo</critic>
+      </review>
+      <review>
+         <snippet>The result is a climactic scene that is pretty near perfect: both laugh-out-loud surprising and endearingly inevitable.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A393281</url>
+         <critic>Toddy Burton</critic>
+      </review>
+      <review>
+         <snippet>It's "National Lampoon's Family Vacation" with soul.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/_/id/9144798/rid/10905058/</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>Ultimately, despite flirting with some darker subjects, Little Miss Sunshine lives up to its name.</snippet>
+         <url>http://movie-reviews.colossus.net/movies/l/little_miss.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>A charmer, a comedy with drama -- or vice versa.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/moviereviews/story/438117p-369150c.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>A smart, dark road comedy.</snippet>
+         <url>http://www.nypost.com/entertainment/movies/let_the_sunshine_in_movies_lou_lumenick.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>It's the journey that offers the most enjoyment. Well, that and the beauty pageant climax, which I won't spoil here, but is one of the funniest scenes from film in recent memory.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=8433</url>
+         <critic>Pete Vonder Haar</critic>
+      </review>
+      <review>
+         <snippet>Diverting and often funny enough, largely thanks (as is not unusual in cases like this) to its cast.</snippet>
+         <url>http://www.premiere.com/article.asp?section_id=2&amp;article_id=2951</url>
+         <critic>Glenn Kenny</critic>
+      </review>
+      <review>
+         <snippet>Family. Can't live with 'em, can't kill 'em. Little Miss Sunshine, a stormy quasi-comedy destined to polarize audiences, is a perfect specimen of this unsentimental attitude.</snippet>
+         <url>http://ae.philly.com/entertainment/ui/philly/movie.html?id=656950&amp;reviewId=21232</url>
+         <critic>Carrie Rickey</critic>
+      </review>
+      <review>
+         <snippet>Though Little Miss Sunshine is consistently contrived in its characters' too-cute misery, the conclusion, which is genuinely outrageous and uplifting, is almost worth the hype.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/LAC.20060804.LITTLE04/TPStory/TPEntertainment/Movies/</url>
+         <critic>Liam Lacey</critic>
+      </review>
+      <review>
+         <snippet>If you're going to get on the wavelength of Little Miss Sunshine, you've got to be able to enjoy a comedy in which the characters fit into hermetically cute, predetermined sitcom slots.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1219240_1_0_,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>Like the shambling VW van its hapless characters steer from Albuquerque to Redondo Beach, Little Miss Sunshine is a rickety vehicle that travels mostly downhill.</snippet>
+         <url>http://www.villagevoice.com/film/0630,ridley,73965,20.html</url>
+         <critic>Jim Ridley</critic>
+      </review>
+   </reviews>
+   <US_Gross>$59,891,098</US_Gross>
+   <production_budget>$8,000,000</production_budget>
+   <weekend_gross>$499,012</weekend_gross>
+   <number_of_screens>7</number_of_screens>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

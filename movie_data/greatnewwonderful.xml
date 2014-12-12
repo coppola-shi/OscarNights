@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Great New Wonderful, The</name>
+   <company>First Independent Pictures</company>
+   <genres>
+      <genre>Comedy</genre>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author>Sam Catlin</author>
+   </authors>
+   <directors>
+      <director>Danny Leiner</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Maggie Gyllenhaal</actor>
+      <actor>Edie Falco</actor>
+      <actor>Tony Shalhoub</actor>
+      <actor>Jim Gaffigan</actor>
+      <actor>Olympia Dukakis</actor>
+      <actor>Judy Greer</actor>
+      <actor>Thomas McCarthy</actor>
+      <actor>Naseeruddin Shah</actor>
+   </actors>
+   <release_date>June 23, 2006</release_date>
+   <running_time>87</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>The stories are eye-opening and heartwarming at the same time, but you'll be moved less by empathy for the characters than by the summoning of your own emotional memories. This movie is personal.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/moviereviews/story/429115p-361721c.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>A quieter, less melodramatic piece of work than last year's "Crash," and arguably a better one.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=9151</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>Writer Sam Catlin and director Danny Leiner have fashioned an alert, shrewdly observed portrait of a moment in time.</snippet>
+         <url>http://www.laweekly.com/film+tv/film-reviews/film-reviews/14064/</url>
+         <critic>F. X. Feeney</critic>
+      </review>
+      <review>
+         <snippet>Overall, there's a patchwork quality to the movie, as if a batch of half-finished short stories were filmed before their time.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/1155165935315271.xml&amp;coll=7</url>
+         <critic>Marc Mohan</critic>
+      </review>
+      <review>
+         <snippet>Working from a stagy script by Sam Catlin, director Danny Leiner uses a dainty palette of tristesse (untouched when he made Dude, Where's My Car?) to suggest that the shadow of 9/11 makes every discontent more pathetic.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1210277_1_0_,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>The result is a mixed bag of lozenges, some sweet, some tart and others that just melt away into nothing.</snippet>
+         <url>http://online.tvguide.com/newsearch/detail.aspx?id=47016&amp;sourcetype=m&amp;progseriesparentid=0&amp;tvobjectid=0&amp;keyword=&amp;more=ucmoviereview</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>The story lines don't intersect in that schematic, "Crash"-y way, which is refreshing. Less refreshing is the neat-and-tidiness of the individual exchanges in Sam Catlin's script.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-060818-movies-review-great,0,1954800.story?coll=mmx-movies_top_heds</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>The movie falls short of the grandeur it's reaching for, but if you're looking for balm to soothe your frazzled nerves, you may be able to scrape some from the movie's rawer edges.</snippet>
+         <url>http://www.calendarlive.com/movies/cl-et-greatnew21jul21,0,5901649.story</url>
+         <critic>Gene Seymour</critic>
+      </review>
+      <review>
+         <snippet>The new 9/11 movies aim to rekindle feelings that most of us have, by necessity, moved beyond. But there’s more than one way to move beyond, as suggested by the spottily affecting ensemble psycho-comedy The Great New Wonderful.</snippet>
+         <url>http://nymag.com/movies/reviews/17293/index.html</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>It is hard to feel much warmth toward people whose most salient feature is their disconnection from reality.</snippet>
+         <url>http://movies2.nytimes.com/2006/06/23/movies/23wond.html</url>
+         <critic>Dana Stevens</critic>
+      </review>
+      <review>
+         <snippet>Unfortunately, screenwriter Sam Catlin and director Danny Leiner make the unexpected mistake of being too subtle.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1106089&amp;lat=200.0&amp;lon=200.0&amp;displaySearchLocation=&amp;nm=1&amp;categories=Movies</url>
+         <critic>Desson Thomson</critic>
+      </review>
+      <review>
+         <snippet>Tries way too hard to be clever and shrewd.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/30156_GREAT_NEW_WONDERFUL.html</url>
+         <critic>Jonathan Rosenbaum</critic>
+      </review>
+      <review>
+         <snippet>In the future, more and more filmmakers will do exactly what The Great New Wonderful has done: conceal their lack of ideas by bringing up 9/11.</snippet>
+         <url>http://www.nypost.com/movies/conjuring_9_11_doesnt_make_a_film_wonderful_movies_kyle_smith.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>Ironically, Leiner's two monuments to pothead delirium seem vastly more coherent than this hazy attempt to mine the zeitgeist, a film every bit as pointed as its nounless title.</snippet>
+         <url>http://www.villagevoice.com/film/0625,kenigsberg,73598,20.html</url>
+         <critic>Ben Kenigsberg</critic>
+      </review>
+   </reviews>
+   <US_Gross>$150,142</US_Gross>
+   <weekend_gross>$39,712</weekend_gross>
+   <number_of_screens>8</number_of_screens>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Jumper</name>
+   <company>20th Century Fox</company>
+   <genres>
+      <genre>Adventure</genre>
+      <genre>Drama</genre>
+      <genre>Scifi</genre>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>David S. Goyer</author>
+      <author>Simon Kinberg</author>
+   </authors>
+   <directors>
+      <director>Doug Liman</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Hayden Christensen</actor>
+      <actor>Samuel L. Jackson</actor>
+      <actor>Rachel Bilson</actor>
+      <actor>Jamie Bell</actor>
+      <actor>Max Thieriot</actor>
+      <actor>Shawn Roberts</actor>
+      <actor>AnnaSophia Robb</actor>
+   </actors>
+   <release_date>February 14, 2008</release_date>
+   <running_time>88</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>It may be mindless and sexless and humorless, but Jumper jumps.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/1202954111244600.xml&amp;coll=7</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>Liman applies the same frenetic approach to action scenes that made "The Bourne Identity" such an engaging and exciting affair.</snippet>
+         <url>http://www.reelviews.net/movies/j/jumper.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>It’s Liman’s least charismatic action movie and the least developed, but it still packs some cracking action into its brief running time and lays foundations on which a great franchise could be built.</snippet>
+         <url>http://www.empireonline.com/reviews/reviewcomplete.asp?FID=135143</url>
+         <critic>Olly Richards</critic>
+      </review>
+      <review>
+         <snippet>I'll say this much for Jumper – it's got a great premise. Or at least the beginnings of a premise.</snippet>
+         <url>http://www.csmonitor.com/2008/0215/p15s02-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>It's a feature-length teaser for a never-to-be sci-fi franchise.</snippet>
+         <url>http://www.laweekly.com/film+tv/film-reviews/movie-reviews-jumper-step-up-2-the-streets/18352/</url>
+         <critic>Scott Foundas</critic>
+      </review>
+      <review>
+         <snippet>The major weakness in Jumper is the piling on of action and narrative in the last ten to twelve minutes. It's as though the editor was rushing to meet a deadline and did the best he could with too much footage.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=10767</url>
+         <critic>Stina Chyn</critic>
+      </review>
+      <review>
+         <snippet>There's enough kinetic energy in Jumper to light a thousand houses. Unfortunately, there's no one home in any of them.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/reviews/bal-li.jumper14feb14,0,1385837.story</url>
+         <critic>Chris Kaltenbach</critic>
+      </review>
+      <review>
+         <snippet>But what can you do with Hayden Christensen? He's as close as we have to an android actor. It's all a chore for him. He never looks sufficiently scared, impressed, or surprised by any of this.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=9689</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>Fast is a good quality in an action/adventure. But there is lightning-paced and then there is warp speed. Doug Liman's Jumper is the latter, a not-so-good quality in an action/adventure for the simple reason that the audience can't figure out what's going on.</snippet>
+         <url>http://www.philly.com/philly/entertainment/movies/20080214_Why_are_you_so_jumpy__David_.html</url>
+         <critic>Carrie Rickey</critic>
+      </review>
+      <review>
+         <snippet>It's difficult to know whom to root for.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1141928&amp;categories=Movies&amp;nm=1</url>
+         <critic>Ann Hornaday</critic>
+      </review>
+      <review>
+         <snippet>The whole production does reek a bit of origin story filminess, but even so, it's light sabers beyond Christensen's sad, revengeful fate in "Episode III" and does offer a nice view of the top of the Sphinx's head no less than three times.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A587899</url>
+         <critic>Marc Savlov</critic>
+      </review>
+      <review>
+         <snippet>The best thing -- maybe the only good thing -- about the expensive sci-fi movie, Jumper, is its high-concept premise, which gives its hero the power of teleporting himself anywhere on the globe in the blink of an eye: from the Coliseum of Rome to the North Pole.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/351146_jumper14q.html</url>
+         <critic>William Arnold</critic>
+      </review>
+      <review>
+         <snippet>Liman, for all his craft, doesn't have enough FUN with the premise.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20177948,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>Goes south as a sci-fi film.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2008/02/13/DDHBV0UT9.DTL&amp;type=movies</url>
+         <critic>Walter Addiego</critic>
+      </review>
+      <review>
+         <snippet>Jumper proves disappointingly inert. All the state-of-the-art visual effects in the world can't compensate for spotty plotting and bland characters that prevent an intriguing premise from going the distance.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?&amp;rid=10645</url>
+         <critic>Michael Rechtshaffen</critic>
+      </review>
+      <review>
+         <snippet>Director Doug Liman churns out a serviceable sci-fi thriller/videogame template that plays like "The Matrix Lite" and, finally, isn't nearly as cool as its trailer.</snippet>
+         <url>http://www.variety.com/review/VE1117936188.html?categoryid=31&amp;cs=1</url>
+         <critic>Brian Lowry</critic>
+      </review>
+      <review>
+         <snippet>The film LOOKS great, but at a brisk 88 minutes, there's no time to fill in back story, from the epic history of paladin persecution to the deeply personal mystery of David's mother, and the cliffhanger ending is so abrupt that the movie seems bizarrely truncated.</snippet>
+         <url>http://www.tvguide.com/movies/jumper/review/292345</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>Woefully short on script, the picture ends up disappearing down the wormhole of its own premise.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20080214.wjumper14/BNStory/Entertainment/home</url>
+         <critic>Rick Groen</critic>
+      </review>
+      <review>
+         <snippet>It doesn't help that the performances are bland (particularly those of Christensen and Bilson) and that what comes out of their mouths is uninspired. Short on imagination and anchored by a wan hero, Jumper is a flight of fancy that never fully takes off.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2008-02-13-jumper_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>Though dazzled by its ultra-modern wizardry and the high gloss of its production values, one can also feel the globalist double standard roiling underneath the adolescent-kid fantasy plot. Jumper tells us that Americans fantasize about getting rich by stealing and going everywhere they want without restrictions; that they are materialistic, disrespect foreign antiquities, and remain blind to their own and to world history.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2008/02/14/jumper/</url>
+         <critic>James Hannaham</critic>
+      </review>
+      <review>
+         <snippet>Jumper is all high concept with little invested in characters or story.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-jumper14feb14,0,6599688.story</url>
+         <critic>Kevin Crust</critic>
+      </review>
+      <review>
+         <snippet>No exciting action can cover the film's profound shallowness and repulsive attitude toward everyone but Christensen.</snippet>
+         <url>http://www.avclub.com/content/cinema/jumper</url>
+         <critic>Tasha Robinson</critic>
+      </review>
+      <review>
+         <snippet>Deep into Hollywood's Dumb Season comes one of its dumbest offerings.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2008/02/14/2008-02-14_jumper_is_quantum_leap_backward_for_scif.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>These site-shifting extravaganzas sometimes reach an exhilarating level of near-abstraction. So it's too bad that just about everything surrounding the action scenes of the picture is such unmitigated cr--.</snippet>
+         <url>http://www.premiere.com/moviereviews/4404/jumper.html</url>
+         <critic>Glenn Kenny</critic>
+      </review>
+      <review>
+         <snippet>Director Doug Liman and a trio of writers eventually forget the rules they set up and hurl combatants to places they could never have seen or even known about: Who'd willingly project himself into the middle of a Chechnyan war zone?</snippet>
+         <url>http://ae.charlotte.com/entertainment/ui/charlotte/movie.html?id=996618&amp;reviewId=22880&amp;startDate=02%2F13%2F2008</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>Jumper, the film, goes everywhere and nowhere.</snippet>
+         <url>http://chicago.metromix.com/movies/movie_review/movie-review-jumper/305292/content</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>A barely coherent genre mishmash.</snippet>
+         <url>http://movies.nytimes.com/2008/02/14/movies/14jump.html?ref=movies</url>
+         <critic>Manohla Dargis</critic>
+      </review>
+      <review>
+         <snippet>Like so many other CGI behemoths, this dull action fantasy ultimately squashes rather than inspires one's sense of wonder.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/32781_JUMPER.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>Jumper not only makes the rules up as it goes along; it neglects to tell us what those rules are, which is both unfair and unfun.</snippet>
+         <url>http://www.slate.com/id/2184483</url>
+         <critic>Dana Stevens</critic>
+      </review>
+      <review>
+         <snippet>Jumper is so in sync with the language of modern action movies that it’s possible to look past its soullessness and go with the quantum flow.</snippet>
+         <url>http://nymag.com/movies/reviews/44207/</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>The result is more or less a remake of the great scene in “Sherlock Jr.,” where a dozing Buster Keaton dreams himself through a shuffled sequence of backgrounds. Jumper is ten times as brutal, maybe a thousand times more costly, and eighty-four years late, but it’s a start.</snippet>
+         <url>http://www.newyorker.com/arts/critics/cinema/2008/02/25/080225crci_cinema_lane</url>
+         <critic>Anthony Lane</critic>
+      </review>
+      <review>
+         <snippet>Jumper is so lame -- undernourished in its characterizations, stillborn in its action scenes -- that it inevitably leads the idled mind to wondering how this movie got past the pitch stage.</snippet>
+         <url>http://www.time.com/time/arts/article/0,8599,1713836,00.html</url>
+         <critic>Richard Corliss</critic>
+      </review>
+      <review>
+         <snippet>The best stuff in Jumper comes early, while the movie is still busy explaining its scenario. It's only when all the pieces are in place and the story actually kicks in that things start to fall apart, and quickly.</snippet>
+         <url>http://www.miamiherald.com/1054/story/418764.html</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>Talk about disappointing. Director Doug Liman exuded style and cool in "Swingers," "Go" and "The Bourne Identity." He lost his way in the star bloat of "Mr. and Mrs. Smith," and now his mojo is buried in this amped-up sci-fi chase flick.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/14707009/review/18419622/jumper</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>A totally ridiculous and incoherent sci-fi adventure.</snippet>
+         <url>http://www.nypost.com/seven/02142008/entertainment/movies/take_the_subway_97538.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>Jumper, based on the novel by Steven Gould, re-defines -- downward -- the notion of dreadful. It does so by dispensing with everything a movie needs for a shot at being merely awful. Dramatic development? None. Entertaining dialogue? Ditto. Internal logic? Puhleez. Intriguing characters? No characters, thus no intrigue. Interesting performances? Essentially none, though with an asterisk.</snippet>
+         <url>http://online.wsj.com/article/SB120303058668769883.html</url>
+         <critic>Joe Morgenstern</critic>
+      </review>
+   </reviews>
+   <US_Gross>$80,172,128</US_Gross>
+   <production_budget>$82,500,000</production_budget>
+   <weekend_gross>$33,979,823</weekend_gross>
+   <number_of_screens>3,428</number_of_screens>
+   <highest_grossing_actors_present/>
+   <num_highest_grossing_actors>1</num_highest_grossing_actors>
+   <highest_grossing_actor>samuel l. jackson</highest_grossing_actor>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

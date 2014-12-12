@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Full Battle Rattle</name>
+   <company>Mile End Films</company>
+   <genres>
+      <genre>Documentary</genre>
+   </genres>
+   <authors>
+      <author/>
+   </authors>
+   <directors>
+      <director>Tony Gerber</director>
+      <director>Jesse Moss</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors/>
+   <release_date>July 9, 2008</release_date>
+   <running_time>92</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>The title, by the way, is age-old slang for a soldier's complete combat gear, which for the U.S. soldiers in Iraq -- both real and otherwise -- weighs over 50 pounds.</snippet>
+         <url>http://www.tvguide.com/movies/battle-rattle/review/294489</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>Full Battle Rattle works just fine as a two-fisted combat story, with unexpected bursts of violence peppering that old universal message that war is hell.</snippet>
+         <url>http://www.avclub.com/content/cinema/full_battle_rattle</url>
+         <critic>Noel Murray</critic>
+      </review>
+      <review>
+         <snippet>If Full Battle Rattle begins as surreal, almost goofball farce, with a bunch of beefy guys playing a fancy-dress version of laser tag in the desert -- aided by a bunch of rented Iraqis who'd rather be watching TV in suburbia -- it ends on an ambiguous and haunting note, much closer to tragedy.</snippet>
+         <url>http://www.salon.com/ent/movies/btm/feature/2008/07/09/battle_rattle/</url>
+         <critic>Andrew O&amp;#039;Hehir</critic>
+      </review>
+      <review>
+         <snippet>Gives a remarkably thorough and detailed account of the difficult conditions facing American soldiers in Iraq.</snippet>
+         <url>http://movies.nytimes.com/2008/07/09/movies/09ratt.html?ref=movies</url>
+         <critic>A.O. Scott</critic>
+      </review>
+      <review>
+         <snippet>It is up to each viewer to decide if the Mojave project is a stroke of genius or a very expensive boondoggle.</snippet>
+         <url>http://www.nypost.com/seven/07092008/entertainment/movies/war_imitates_war_119074.htm</url>
+         <critic>V.A. Musetto</critic>
+      </review>
+      <review>
+         <snippet>The film is freaky, amusing, and sickening in equal measures—part fly-on-the-wall vérité, part multiple-perspective Altmanesque tragicomedy.</snippet>
+         <url>http://nymag.com/movies/reviews/48323/</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>Set off by sprightly graphics and shimmering with over-bright colors, Full Battle Rattle has a fake transparency. The movie arouses, without gratifying, a desire to see the camera.</snippet>
+         <url>http://www.villagevoice.com/2008-07-09/film/the-art-of-war-full-battle-rattle-and-la-france/</url>
+         <critic>J. Hoberman</critic>
+      </review>
+      <review>
+         <snippet>It's all a bit bizarre. One soldier tellingly calls it "one big reality TV show," and the movie never makes clear whether such training does any good.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/imdb/reviews/article_display.jsp?rid=10642&amp;vnu_special_account_code=thrsiteimdbpro</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>A so-so pic on an incendiary subject, Full Battle Rattle follows the training regimen of one battalion during engagement and occupation in one of 13 fake "villages" comprising a massive Iraq simulation somewhere in the Mojave Desert.</snippet>
+         <url>http://www.variety.com/index.asp?layout=festivals&amp;jump=review&amp;id=2478&amp;reviewid=VE1117936383&amp;cs=1</url>
+         <critic>Eddie Cockrell</critic>
+      </review>
+   </reviews>
+   <US_Gross>$12,306</US_Gross>
+   <weekend_gross>$12,306</weekend_gross>
+   <number_of_screens>1</number_of_screens>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

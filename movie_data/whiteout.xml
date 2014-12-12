@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Whiteout</name>
+   <company>Warner Bros. Pictures</company>
+   <genres>
+      <genre>Action</genre>
+      <genre>Crime</genre>
+      <genre>Drama</genre>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>Jon Hoebe</author>
+      <author>Erich Hoeber</author>
+      <author>Chad Hayes</author>
+      <author>Carey W. Hayes</author>
+   </authors>
+   <directors>
+      <director>Dominic Sena</director>
+   </directors>
+   <origins>
+      <origin>Canada</origin>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Kate Beckinsale</actor>
+      <actor>Gabriel Macht</actor>
+      <actor>Columbus Short</actor>
+      <actor>Tom Skerritt</actor>
+      <actor>Alex O&amp;#039;Loughlin</actor>
+      <actor>Shawn Doyle</actor>
+   </actors>
+   <release_date>September 11, 2009</release_date>
+   <running_time>96</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>A conventionally jam-packed, dutifully ludicrous action thriller.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20303574,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>While the setting can be mesmerizing, little else about this movie is captivating.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2009-09-10-whiteout_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>Briefly, not knowing who has the upper hand is exciting, but as the fight wears on, it becomes irritating.</snippet>
+         <url>http://www.avclub.com/articles/whiteout,32716/</url>
+         <critic>Tasha Robinson</critic>
+      </review>
+      <review>
+         <snippet>Its stunning natural landscape notwithstanding, Antarctica-set thriller Whiteout, a frozen concoction of red herrings, incongruous plot points and thinly developed characters, will leave auds cold.</snippet>
+         <url>http://www.variety.com/review/VE1117941013.html?categoryid=31&amp;cs=1</url>
+         <critic>Lael Loewenstein</critic>
+      </review>
+      <review>
+         <snippet>No event occurs without a character telling us what we're seeing. This unwelcome commentary is so overdone that it becomes, by the end, an invitation for audience participation. All together now: It's a body! Looks like it's been shot in the head!</snippet>
+         <url>http://www.latimes.com/entertainment/news/la-et-whiteout11-2009sep11,0,2268614.story</url>
+         <critic>Glenn Whipp</critic>
+      </review>
+      <review>
+         <snippet>Instead of being sharp and stylish, the picture just meanders pointlessly toward its allegedly surprising conclusion, dragging the actors along with it. Nearly everything about it is heavy and off-balance, like an overloaded sled.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2009/09/11/whiteout_beckinsale/index.html</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>Kate Beckinsale is about as convincing a U.S. Marshal as Joan Crawford is a loving mother. But like that megastar of yesteryear, she gets a helluva terrific entrance in the Antarctica-set murder mystery Whiteout.</snippet>
+         <url>http://newyork.timeout.com/articles/film/78623/whiteout-film-review</url>
+         <critic>Keith Uhlich</critic>
+      </review>
+      <review>
+         <snippet>It could be said that Whiteout is an honest attempt to set an old-fashioned whodunit in an exotic locale, but the mystery at the film’s core is so hopelessly dull that one begins to long for a third-act cameo by the Abominable Snowman.</snippet>
+         <url>http://www.laweekly.com/2009-09-10/film-tv/movie-reviews-all-about-steve-loren-cass-ink-walt-el-grupo/4</url>
+         <critic>Chuck Wilson</critic>
+      </review>
+      <review>
+         <snippet>In a bad movie, no one can hear you scream, Kate. Or really appreciate your shower scene, for that matter.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2009/09/10/2009-09-10_whiteout_snow_place_for_kate_beckinsale_as_actress_assets_frozen_in_murky_thrill.html</url>
+         <critic>Joe Neumaier</critic>
+      </review>
+      <review>
+         <snippet>Studiously mediocre little thriller.</snippet>
+         <url>http://movies.nytimes.com/2009/09/11/movies/11whiteout.html?ref=movies</url>
+         <critic>A.O. Scott</critic>
+      </review>
+      <review>
+         <snippet>Whiteout is a ham-handed murder mystery that starts out average and heads south from there, falling apart under the pressures of graceless camerawork, leaps of illogic, and TV-movie production values.</snippet>
+         <url>http://www.boston.com/ae/movies/articles/2009/09/11/some_frozen_stiffs_but_few_chills_in_whiteout/</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>Some films feel off from the get-go. They don't hang together, despite the best intentions. Whiteout, a singularly unsuspenseful, unexciting, unthrilling Arctic thriller starring Underworld's Kate Beckinsale, isn't exactly one of these. It's even worse.</snippet>
+         <url>http://www.philly.com/philly/entertainment/movies/20090911_An__Arctic_thriller__that_ll_leave_you_cold.html</url>
+         <critic>Tirdad Derakhshani</critic>
+      </review>
+      <review>
+         <snippet>Even a bad thriller can be entertaining, and this gory murder mystery set in Antarctica has a certain dumb fascination -- up to a point. Then it is defeated by its sheer idiocy.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film-reviews/whiteout-film-review-1004011120.story</url>
+         <critic>Stephen Farber</critic>
+      </review>
+      <review>
+         <snippet>All panicky zooms and badly staged action.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2009/09/10/MVV619L7MF.DTL&amp;type=movies</url>
+         <critic>Amy Biancolli</critic>
+      </review>
+      <review>
+         <snippet>The fun is nowhere to be found in this overly dour duller.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A831873</url>
+         <critic>Kimberley Jones</critic>
+      </review>
+      <review>
+         <snippet>Even a lame aurora borealis can't brighten up the dismal, perfunctory acting.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=11889</url>
+         <critic>Elias Savada</critic>
+      </review>
+      <review>
+         <snippet>By the time this thing creaked to a close, the look on my face suggested Jack Nicholson at the end of "The Shining."</snippet>
+         <url>http://www.nypost.com/p/entertainment/movies/cold_turkey_LyS9ofL1CJ2UKoKS989aWL</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>So staggeringly bad that it achieves a kind of transcendent poetry. It's ignorant of how things are in the real world, of what makes a thriller a thriller, of why people seek out entertainment.</snippet>
+         <url>http://www.washingtonpost.com/gog/movies/whiteout,1156230/critic-review.html#reviewNum1</url>
+         <critic>Dan Zak</critic>
+      </review>
+      <review>
+         <snippet>The film's slick and expensive looking but dumber than a dead penguin, and director Dominic Sena fails worst where it counts most, in staging intelligible action sequences set in a blinding blizzard.</snippet>
+         <url>http://www.chicagoreader.com/chicago/MovieTimes?oid=978120</url>
+         <critic>Cliff Doerksen</critic>
+      </review>
+   </reviews>
+   <US_Gross>$10,275,638</US_Gross>
+   <production_budget>$35,000,000</production_budget>
+   <weekend_gross>$4,915,104</weekend_gross>
+   <number_of_screens>2,745</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

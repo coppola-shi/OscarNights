@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>X-Files: I Want to Believe, The</name>
+   <company>20th Century Fox</company>
+   <genres>
+      <genre>Mystery</genre>
+      <genre>Scifi</genre>
+   </genres>
+   <authors>
+      <author>Chris Carter</author>
+      <author>Frank Spotnitz</author>
+   </authors>
+   <directors>
+      <director>Chris Carter</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+      <origin>Canada</origin>
+   </origins>
+   <actors>
+      <actor>David Duchovny</actor>
+      <actor>Gillian Anderson</actor>
+      <actor>Xzibit</actor>
+      <actor>Ama Peet</actor>
+      <actor>Billy Connolly</actor>
+      <actor>Callum Keith Rennie</actor>
+      <actor>Adam Godley</actor>
+   </actors>
+   <release_date>July 25, 2008</release_date>
+   <running_time>minutes,</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>The movie works like thrillers used to work, before they were required to contain villains the size of buildings.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/section?category=reviews</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>Knowing nothing about "X-Files" is no impediment to appreciating this for the well-acted, adult piece of work that it is.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2008/07/24/DD5H11UGT6.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>Billy Connolly, as a scurvy priest who may or may not be a visionary, steals the acting honors.</snippet>
+         <url>http://www.csmonitor.com/2008/0726/p25s04-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>Duchovny gives a nicely shaped performance here -- he still has the ability to suggest the boyish eagerness beneath Fox's blasé demeanor. But the movie really belongs to Anderson.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2008/07/25/x_files/</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>The Carter and Spotnitz's credit, such weighty concerns aren't the stuff of most mainstream genre movies. But they're also not sufficiently gripping to transform a middling thriller into something truly provocative or haunting.</snippet>
+         <url>http://www.tvguide.com/movies/x-files-want/review/292492</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>I Want to Believe provides a welcome reminder of what made Carter's franchise a pop-culture gem.</snippet>
+         <url>http://www.miamiherald.com/entertainment/movies/reviews/story/616362.html</url>
+         <critic>Connie Ogle</critic>
+      </review>
+      <review>
+         <snippet>The truth is, the mystery pales next to the best "X-Files" plots. But fans will appreciate sly references to past episodes, an unexpected appearance from an old friend and the still-poignant bond our heroes share.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2008/07/25/2008-07-25_xfiles_i_want_to_believe_is_spooky_good.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>Please Chris Carter, bring us X-Files fans back to where we belong. If there is to be another movie, and there damn well better be, return us to our beloved mythology.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=11115</url>
+         <critic>Rory L. Aronsky</critic>
+      </review>
+      <review>
+         <snippet>An okay paranormal mystery, with solid work from the regulars – but please Mr Carter, next time, could we have liver-eating mutants or post-modern comedy like the really good episodes of The X Files?</snippet>
+         <url>http://www.empireonline.com/reviews/reviewcomplete.asp?FID=135205</url>
+         <critic>Kim Newman</critic>
+      </review>
+      <review>
+         <snippet>For the uninitiated, The X Files: I Want to Believe may seem as musty and forbidding as one of those dank secrets that Mulder and Scully were forever digging up from some backyard, or fetid swamp, or their own aching hearts.</snippet>
+         <url>http://www.time.com/time/arts/article/0,8599,1826155,00.html</url>
+         <critic>Richard Corliss</critic>
+      </review>
+      <review>
+         <snippet>Does nothing so much as stir up a pining for the show in its prime -- a darkly imaginative and wonderfully weird thing -- though it is always nice to see old friends, however mellowed by age they turn out to be.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/372073_xfiles25q.html</url>
+         <critic>Travis Nichols</critic>
+      </review>
+      <review>
+         <snippet>Older and sadder, Mulder and Scully are no longer sure they've got the energy to even ask if the truth is still out there. And it feels as if Carter is skeptical, too.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20215127,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>The problem is that only a fan would be inclined to tolerate this dunderheaded mystery.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/33356_X_FILES_I_WANT_TO_BELIEVE.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>Worst of all, not once does Mulder answer his cell phone to hear those immortal lines: "It's Scully. There's been another death."</snippet>
+         <url>http://www.oregonlive.com/movies/index.ssf/2008/07/movie_review_xfiles_mythology.html</url>
+         <critic>Marc Mohan</critic>
+      </review>
+      <review>
+         <snippet>In not knowing who it needs to please, I Want to Believe pleases no one.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/19469992/review/22025595/xfiles_i_want_to_believe</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>It feels like a wan version of the show -- one that has lost its otherworldly edge.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2008-07-24-x-files_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>The problem with the movie's semisupernatural crime plot, though, isn't that the resolution is completely outlandish; it's that the outlandishness is insufficiently grounded in pseudoscience.</snippet>
+         <url>http://www.slate.com/id/2195921/</url>
+         <critic>Dana Stevens</critic>
+      </review>
+      <review>
+         <snippet>The warming glow of nostalgia only goes so far, with one's level of forgiveness likely dictated by where they reside along the "X-Files" fan continuum.</snippet>
+         <url>http://www.variety.com/review/VE1117937809.html?categoryid=31&amp;cs=1</url>
+         <critic>Brian Lowry</critic>
+      </review>
+      <review>
+         <snippet>A taut, well-acted, not very scary, not very hard to figure out serial-killer mystery.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1144472&amp;categories=Movies&amp;nm=1</url>
+         <critic>Hank Stuever</critic>
+      </review>
+      <review>
+         <snippet>The story is both a muddle and a drag.</snippet>
+         <url>http://chicago.metromix.com/movies/movie_review/movie-review-the-x/519814/content</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>Overall, the film plays like an improbably skewed but comparatively routine criminal procedural that would have served the original show well as an extended season opener or sweeps-week contender.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?JSESSIONID=WpPHLLLLTv2nLTyJkY83fG5ph5zly1tgMvFh7hBFv2grVRv1LSnF!-1055493989&amp;&amp;rid=11455</url>
+         <critic>Justin Lowe</critic>
+      </review>
+      <review>
+         <snippet>Anderson, who's turned Brit in a number of TV series and films, including "Bleak House" and "The Last King of Scotland," is compelling in her white lab coat and surgical scrubs, and she brings some real tenderness to her tete-a-tetes with Mulder.</snippet>
+         <url>http://www.philly.com/inquirer/columnists/steven_rea/20080725_THE_SEQUEL_IS_OUT_THERE.html</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>An exercise in mediocrity. It's curious how little of the TV series' charm and appeal can be found in this uneven, plodding excuse for a reunion.</snippet>
+         <url>http://www.reelviews.net/php_review_template.php?identifier=1257</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>The story is shockingly ordinary. The movie plays like an extended mediocre episode of the X-Files TV show or, for that matter, even a contemporary crime series such as CSI.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20080725.wfiles25/BNStory/Entertainment/home</url>
+         <critic>Liam Lacey</critic>
+      </review>
+      <review>
+         <snippet>Atmospheric and moves briskly, but it's basically TV writ large.</snippet>
+         <url>http://www.nypost.com/seven/07252008/entertainment/movies/back_with_their_x_121417.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>The whole enterprise suffers from tired blood.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/reviews/bal-to.xfiles25jul25,0,3342755.story</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>Carter and his underachieving cohorts have seldom given cultists less to believe.</snippet>
+         <url>http://www.avclub.com/content/cinema/the_x_files_i_want_to_believe</url>
+         <critic>Nathan Rabin</critic>
+      </review>
+      <review>
+         <snippet>Baggy, draggy, oddly timed and strangely off the mark, The X-Files: I Want to Believe is the generally bad-news follow-up to the show’s first feature-film incarnation, "The X-Files."</snippet>
+         <url>http://movies.nytimes.com/2008/07/25/movies/25xfil.html</url>
+         <critic>Manohla Dargis</critic>
+      </review>
+      <review>
+         <snippet>The truth is, indeed, still out there. And when Carter finds it, may he heed its wisdom: Let go.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=11204</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>We waited 10 years for a sequel to the movie version of "The X-Files" – and the best Chris Carter could do is The X-Files: I Want to Believe?</snippet>
+         <url>http://www.charlotte.com/434/story/726454.html</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>The truth is still out there, like an unsold lawn chair at a garage sale, in this just plain lousy second big-screen outing for erstwhile FBI agents Fox Mulder and Dana Scully.</snippet>
+         <url>http://www.laweekly.com/film+tv/film/the-x-files-i-want-to-believe/19319/</url>
+         <critic>Scott Foundas</critic>
+      </review>
+      <review>
+         <snippet>Even at its stride, "The X-Files" was a load of malarkey. But it was thoughtful malarkey and compulsively watchable. One could say the same about the first two-thirds of The X-Files: I Want to Believe before it spins out of control and into a delirious plane of awfulness.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/la-et-xfiles25-2008jul25,0,1954644.story</url>
+         <critic>Jan Stuart</critic>
+      </review>
+      <review>
+         <snippet>They've become deadly dull, these two once-keen buckers of bureaucratic BS, and watching them interact on screen is akin to having your pleasure centers removed by knobby little aliens whose only knowledge of mankind comes from Jack Webb's stoically unvarying television incarnations.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A647305</url>
+         <critic>Marc Savlov</critic>
+      </review>
+   </reviews>
+   <US_Gross>$20,982,478</US_Gross>
+   <production_budget>$35,000,000</production_budget>
+   <weekend_gross>$10,021,753</weekend_gross>
+   <number_of_screens>3,185</number_of_screens>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

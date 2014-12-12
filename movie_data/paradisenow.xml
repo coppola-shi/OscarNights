@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Paradise Now</name>
+   <company>Warner Independent Pictures</company>
+   <genres>
+      <genre>Crime</genre>
+      <genre>Drama</genre>
+      <genre>Foreign</genre>
+   </genres>
+   <authors>
+      <author>Hany Abu-Assad</author>
+      <author>Bero Beyer</author>
+      <author>Pierre Hodgson</author>
+   </authors>
+   <directors>
+      <director>Hany Abu-Assad</director>
+   </directors>
+   <origins>
+      <origin>FranceGermanyNetherlandsIsrael</origin>
+   </origins>
+   <actors>
+      <actor>Kais Nashef</actor>
+      <actor>Ali Suliman</actor>
+      <actor>Lubna Azabal</actor>
+      <actor>Amer Hlehel</actor>
+      <actor>Hiam Abbass</actor>
+      <actor>Ashraf Barhom</actor>
+      <actor>Mohammad Bustami</actor>
+   </actors>
+   <release_date>October 28, 2005</release_date>
+   <running_time>90</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>Of all the shocks in the riveting and timely political thriller Paradise Now, the most unsettling may be the dignity bestowed on a pair of prospective Palestinian suicide bombers.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1123059_1_0_,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>It's a volatile subject and Abu-Assad's thoughtful thriller stokes the debate.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/247030_paradise04q.html</url>
+         <critic>Sean Axmaker</critic>
+      </review>
+      <review>
+         <snippet>Along the way, Paradise Now sustains a mood of breathless suspense. Politics aside, the movie is a superior thriller whose shrewdly inserted plot twists and emotional wrinkles are calculated to put your heart in your throat and keep it there.</snippet>
+         <url>http://www.nytimes.com/2005/10/28/movies/28para.html</url>
+         <critic>Stephen Holden</critic>
+      </review>
+      <review>
+         <snippet>A thoughtful, unsparing look at a controversial subject: suicide bombing.</snippet>
+         <url>http://online.tvguide.com/movies/database/showmovie.asp?MI=46425</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>The film is better than the recent "The War Within," which tried for the same things, but ultimately, and perhaps unavoidably, we are left face to face with the unknowable.</snippet>
+         <url>http://www.csmonitor.com/2005/1028/p14s01-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>A powerful, poignant, provocative drama, it gets its strength from its dispassion, from an uncompromising determination to explain rather than justify or condemn, to put a human face on incomprehensible acts.</snippet>
+         <url>http://www.calendarlive.com/movies/turan/cl-et-paradise28oct28,0,4652010.story</url>
+         <critic>Kenneth Turan</critic>
+      </review>
+      <review>
+         <snippet>Abu-Assad, who made the lovely 2002 film "Rana's Wedding," is a far more gifted observer of the everyday than he is an action director, which is why, in Paradise Now, he productively sidetracks into a persuasive and often very funny portrait of the irrationalities of life under occupation.</snippet>
+         <url>http://www.laweekly.com/film/film_results.php?showid=3625&amp;Sumbit.x=36&amp;Sumbit.y=9</url>
+         <critic>Ella Taylor</critic>
+      </review>
+      <review>
+         <snippet>Even though no reasonably well-informed viewer will learn much factual information from the picture, it grips; it even torments, because it lets us move and breathe and shiver and resolve with two particular young men.</snippet>
+         <url>http://www.tnr.com/doc.mhtml?i=20051121&amp;s=kauffmann112105</url>
+         <critic>Stanley Kauffmann</critic>
+      </review>
+      <review>
+         <snippet>The details are intriguing, but ultimately we learn little more about what's in their heads.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A310943</url>
+         <critic>Marjorie Baumgarten</critic>
+      </review>
+      <review>
+         <snippet>Riveting.</snippet>
+         <url>http://ae.miami.com/entertainment/ui/miami/movie.html?id=432202&amp;reviewId=19513</url>
+         <critic>Connie Ogle</critic>
+      </review>
+      <review>
+         <snippet>The film offers food for thought, and reminds us that, in any war, one who understands the mindset of his opponent gains an important tactical advantage.</snippet>
+         <url>http://movie-reviews.colossus.net/movies/p/paradise_now.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>A compelling, tightly made political thriller.</snippet>
+         <url>http://sfgate.com/cgi-bin/article.cgi?f=/c/a/2005/11/04/DDGOEFI2HA1.DTL&amp;type=movies</url>
+         <critic>Ruthe Stein</critic>
+      </review>
+      <review>
+         <snippet>It's an intricate, sometimes implausible ideological thriller that might be better as a smaller-scaled, less% preachy psychological drama. Still, "Paradise" catches and keeps your attention because of its daring subject, real-life backdrops and the intensity of its actors.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-0501104-movies-review-now,0,7858721.story?coll=mmx-movies_top_heds</url>
+         <critic>Michael Wilmington</critic>
+      </review>
+      <review>
+         <snippet>Paradise Now plays like Samuel Beckett's "Waiting for Godot," but with explosives.</snippet>
+         <url>http://ae.philly.com/entertainment/ui/philly/movie.html?id=432202&amp;reviewId=19443&amp;startDate=NEXT7</url>
+         <critic>Carrie Rickey</critic>
+      </review>
+      <review>
+         <snippet>Shot in the West Bank, the film radiates authenticity. Even when he plays the action like a thriller, Abu-Assad is in search of a deeper truth.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/_/id/7222800?pageid=rs.ReviewsMovieArchive&amp;pageregion=mainRegion</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>Propaganda is terror's best friend, but Paradise Now is clever enough to make that buddy work for our side for a change.</snippet>
+         <url>http://www.nypost.com/movies/56276.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>At the stunning conclusion, you feel as if the weight of the Israeli-Palestinian conflict has come down on your head.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/moviereviews/story/360028p-306590c.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>Paradise Now isn't a comfortable viewing experience, but it isn't meant to be. Inevitably, people's reactions to this subject matter -- and this filmmaker's handling of it -- are all over the map. All I can say is that I found it a tremendously compelling existential thriller that kept me up late the night I saw it, and it has resonated in my brain ever since.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2005/10/27/btm/index2.html</url>
+         <critic>Andrew O&amp;#039;Hehir</critic>
+      </review>
+      <review>
+         <snippet>A valuable film, provided one doesn't ask too much of it.</snippet>
+         <url/>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>While nothing truly new or shocking emerges, the film does bring clarity and compassion to its depiction of an act that baffles, angers and sickens people the world over.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1000799842</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>The terseness of a thriller, the clarity of a documentary, and a mixture of high drama and low humor.</snippet>
+         <url>http://newyorkmetro.com/nymetro/movies/reviews/14841/</url>
+         <critic>Ken Tucker</critic>
+      </review>
+      <review>
+         <snippet>While "War Within" takes a deeper, more personal look at its protagonist, Paradise Now is a more ambitious film that better contextualizes its central characters and their politics.</snippet>
+         <url>http://avclub.com/content/node/41974</url>
+         <critic>Tasha Robinson</critic>
+      </review>
+      <review>
+         <snippet>Paradise Now suffers from some odd continuity glitches and takes a few too many narrative curves en route to an overly convoluted ending, but the heart of the movie is as tense as the bus ride in Hitchcock's  
+"Sabotage."</snippet>
+         <url>http://www.villagevoice.com/film/0543,fhoberman,69329,20.html</url>
+         <critic>J. Hoberman</critic>
+      </review>
+      <review>
+         <snippet>Paradise may not change anyone's ideology, but it should convince some that, but for some deeply divisive views of religious morality, people are pretty much the same on either side of the holy fence.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1109995&amp;lat=200.0&amp;lon=200.0&amp;displaySearchTerm=Paradise%20Now&amp;displaySearchLocation=&amp;nm=1</url>
+         <critic>Desson Thomson</critic>
+      </review>
+      <review>
+         <snippet>What makes this an important film is the way it puts you in that landscape and in those shoes, so that you almost understand how ordinary human beings can be impelled to do inhuman things.</snippet>
+         <url>http://www.slate.com/id/2130909/?nav=fo</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>As a thriller, it's only fitfully suspenseful, and despite the ticking bomb premise, meanders a good deal in its plot convolutions. As a portrait of the absurdity and humiliation of life under occupation, the story is heartfelt but predictable.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/ArticleNews/TPStory/LAC/20051118/PARADISE18/TPEntertainment/Film</url>
+         <critic>Liam Lacey</critic>
+      </review>
+      <review>
+         <snippet>It doesn't take its ideas or its audience far enough. The result is a humanist potboiler.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=7869</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>There are effective moments of dark humour.</snippet>
+         <url>http://www.empireonline.com/incinemas/reviewcomplete.asp?FID=11336</url>
+         <critic>Staff (Not credited)</critic>
+      </review>
+      <review>
+         <snippet>Handsomely shot in widescreen, mostly on actual West Bank locations, and well-played by the cast, pic lays out the issues in an accessible but rather too over-correct way, seemingly eager to please all parties at the expense of real passion.</snippet>
+         <url>http://www.variety.com/review/VE1117926211?categoryid=1929&amp;cs=1</url>
+         <critic>Derek Elley</critic>
+      </review>
+      <review>
+         <snippet>Some won't appreciate the mix of tones, but none of the humor cheapens the film's final blow, nor is it designed to condone terrorism in any way.</snippet>
+         <url>http://listings.dallasobserver.com/gyrobase/Film/ShowFilm</url>
+         <critic>Luke Y. Thompson</critic>
+      </review>
+      <review>
+         <snippet>Watchable but not very illuminating.</snippet>
+         <url>http://spacefinder.chicagoreader.com/movies/briefs/28863_PARADISE_NOW.html</url>
+         <critic>Jonathan Rosenbaum</critic>
+      </review>
+      <review>
+         <snippet>Filmmaker Hany Abu-Assad, who helmed the excellent "Rana's Wedding," missed the boat on this one. He may have hoped to give a human voice to the suicide bombers, but instead he gave them a misfired movie.</snippet>
+         <url>http://www.filmthreat.com/Reviews.asp?Id=8030</url>
+         <critic>Phil Hall</critic>
+      </review>
+   </reviews>
+   <US_Gross>$1,452,402</US_Gross>
+   <weekend_gross>$48,023</weekend_gross>
+   <number_of_screens>4</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

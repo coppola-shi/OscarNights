@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Walk the Line</name>
+   <company>Twentieth Century Fox Film Corporation</company>
+   <genres>
+      <genre>Drama</genre>
+      <genre>Musical</genre>
+   </genres>
+   <authors>
+      <author>Gill Dennis</author>
+      <author>James Mangold</author>
+   </authors>
+   <directors>
+      <director>James Mangold</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Joaquin Phoenix</actor>
+      <actor>Reese Witherspoon</actor>
+      <actor>Ginnifer Goodwin</actor>
+      <actor>Robert Patrick</actor>
+      <actor>Dallas Roberts</actor>
+      <actor>Dan John Miller</actor>
+      <actor>Larry Bagby</actor>
+      <actor>Shelby Lynne</actor>
+   </actors>
+   <release_date>November 18, 2005</release_date>
+   <running_time>136</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>Walk the Line superbly combines music and two of the year's most riveting performances to tell one of the screen's great love stories.</snippet>
+         <url>http://www.nypost.com/movies/57685.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>What Phoenix and Witherspoon accomplish in this movie is transcendent. They act with every bone and inch of flesh and facial plane, and each tone and waver of their voice.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-to.line18nov18,1,5707737.story?coll=bal-artslife-movies</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>Breaks through the conventions of its biopic form with a pair of brilliant performances and a whole lot more.</snippet>
+         <url/>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>It's a celebration of the good times and bad times shared by a man and woman who found each other in the middle of some historic craziness, and it rocks.</snippet>
+         <url>http://ae.philly.com/entertainment/ui/philly/movie.html?id=466829&amp;reviewId=19557</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>A Johnny Cash biopic equally packed with music and frustrated love, Walk the Line goes from compelling to enthralling.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2005-11-17-walk-the-line_x.htm</url>
+         <critic>Mike Clark</critic>
+      </review>
+      <review>
+         <snippet>The film sends you home moved and in a tuneful mood.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=6912</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>Witherspoon has nailed it before, notably in "Election," but her portrayal of June is astounding in its vitality and richness.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/_/id/6131985?pageid=rs.ReviewsMovieArchive&amp;pageregion=mainRegion</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>What adds boundless energy to Walk the Line is the performance by Reese Witherspoon as June Carter Cash.</snippet>
+         <url>http://www.rogerebert.com/apps/pbcs.dll/article?AID=/20051117/REVIEWS/51107006/1023</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>A big, juicy, enjoyable wide-canvas biography with a handful of indelible moments.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1131189_1_0_,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>The movie is entertaining, reasonably true to the facts of its subject's life and full of music.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/248740_walk18q.html</url>
+         <critic>William Arnold</critic>
+      </review>
+      <review>
+         <snippet>As the star-crossed couple, Joaquin Phoenix and Reese Witherspoon contribute all their own vocals, and their soapier scenes together reminded me of no less than the 1954 "A Star Is Born."</snippet>
+         <url>http://spacefinder.chicagoreader.com/movies/critic.html#29016</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>I suspect many Cash fans will think it's too conventional. But I think its conventionality is part of its power.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2005/11/18/walk/index.html?sid=1414703</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>In spite of its standard biopic gaps and simplifications, Walk the Line gets the big things right.</snippet>
+         <url>http://www.slate.com/id/2130578/?nav=fo</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>Witherspoon's June is a pistol - a sugar-rush of screwball energy and cornball Southern sass that's meticulously earthed with grace notes of sadness.</snippet>
+         <url>http://www.empireonline.com/incinemas/ReviewComplete.asp?FID=12643</url>
+         <critic>Colin Kennedy</critic>
+      </review>
+      <review>
+         <snippet>Mangold, Phoenix, and Witherspoon, all excellent in their roles.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A310660</url>
+         <critic>Marc Savlov</critic>
+      </review>
+      <review>
+         <snippet>Cash was a true anomaly: a poseur who was also the genuine article. A better movie would have made that contradiction its core.</snippet>
+         <url>http://www.csmonitor.com/2005/1118/p14s01-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>It doesn't matter much that Phoenix and Witherspoon sound more like Phoenix and Witherspoon than Cash and Carter. The chemistry is there. The actors walk their own line, successfully.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-0501118-movies-review-line,0,4556648.story?coll=mmx-movies_top_heds</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>This movie has a driving plotline that "Ray" lacked - a love story. To me, that's what elevates this film.</snippet>
+         <url>http://movie-reviews.colossus.net/movies/w/walk_line.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>A passionate, chronicle of an extraordinary artist, and a love story that can't be beat.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2005/11/18/DDGM2FPE431.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>Thanks to the movie's very clear respect for Cash and his music, and thanks mostly to the two superb, heartfelt performances by Reese Witherspoon as Carter and Joaquin Phoenix as Cash, Walk the Line eventually earned my sympathy.</snippet>
+         <url>http://www.premiere.com/article.asp?section_id=2&amp;article_id=2114</url>
+         <critic>Glenn Kenny</critic>
+      </review>
+      <review>
+         <snippet>It's frustrating that a movie about a man so deathly serious about music has largely boiled his life down to addiction and adultery.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/1132183511318850.xml&amp;coll=7</url>
+         <critic>M. E. Russell</critic>
+      </review>
+      <review>
+         <snippet>What Walk the Line does well, it does really well. Mangold was ­wisely gen­erous with the amount of musical performance he included in the film, and the later scenes - showing Cash and Carter as partners - are so well shot and edited, they defy you to sit still.</snippet>
+         <url>http://www.nydailynews.com/11-18-2005/entertainment/col/story/366876p-312096c.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>Conventional to the core but gets a blast of pure, hard-driving energy from Joaquin Phoenix's and Reese Witherspoon's vividly realized performances.</snippet>
+         <url>http://online.tvguide.com/movies/database/ShowMovie.asp?MI=46431</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>Cash made some untamed, exhilarating sounds in its formative days. Walk the Line is strongest when it shows him in love with either his music or his muse.</snippet>
+         <url>http://ae.charlotte.com/entertainment/ui/charlotte/movie.html?id=466829&amp;reviewId=19552&amp;startDate=NEXT7</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>The best moments in Walk the Line are the plentiful musical sequences, from Cash's initial foray into the Sun Records studio in Memphis, to his nights performing in high school auditoriums alongside the likes of Elvis Presley, Carl Perkins and Jerry Lee Lewis, to his landmark concert at Folsom Prison in 1968, where his dangerous, edgy persona was cemented.</snippet>
+         <url>http://ae.miami.com/entertainment/ui/miami/movie.html?id=466829&amp;reviewId=19570</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>Walk the Line is a strongly acted, musically vibrant, conventionally satisfying biopic of country/rock/blues legend Johnny Cash and his second wife, June Carter.</snippet>
+         <url>http://www.variety.com/ac2006_review/VE1117928066?nav=reviews&amp;categoryid=1986&amp;cs=</url>
+         <critic>Todd McCarthy</critic>
+      </review>
+      <review>
+         <snippet>An engaging biopic that would totally lack surprise were it not for Reese Witherspoon, and a healthy touch of ambivalence about the populist myth that bound The Man in Black to his adoring public.</snippet>
+         <url>http://www.laweekly.com/ink/05/52/film-taylor.php</url>
+         <critic>Ella Taylor</critic>
+      </review>
+      <review>
+         <snippet>The movie is less an uncharted journey than a 2 p.m. bus tour of a music industry legend. But like an expert guide, Mangold shepherds the story with enough grace, energy and skill to make it worthwhile.</snippet>
+         <url>http://www.calendarlive.com/movies/chocano/cl-et-walk18nov18,0,6996272.story</url>
+         <critic>Carina Chocano</critic>
+      </review>
+      <review>
+         <snippet>The decision to approach Johnny's life as a love story causes Mangold to neglect the development of Johnny's music.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1001137060</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>The problem is that the movie plays down almost everything that made Cash great: the train rumble of a voice, the direct, poetic truth of his best lyrics, the invention of his outlaw image and his constant creativity.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/ArticleNews/TPStory/LAC/20051118/WALK18/TPEntertainment/Film</url>
+         <critic>Liam Lacey</critic>
+      </review>
+      <review>
+         <snippet>Cash is a legend, and deserving of a more thoughtful portrayal than what we’re offered here.</snippet>
+         <url>http://www.filmthreat.com/Reviews.asp?Id=8171</url>
+         <critic>Pete Vonder Haar</critic>
+      </review>
+      <review>
+         <snippet>This Man in Black is, frankly, a bit of a wuss. As a love story, Walk the Line can seduce. As a biopic, it treads awfully familiar Overcoming Adversity turf.</snippet>
+         <url>http://www.msnbc.msn.com/id/10118868/site/newsweek/</url>
+         <critic>David Ansen</critic>
+      </review>
+      <review>
+         <snippet>Unfortunately, for all its good music and admirable vocal impersonations, Walk the Line slides -- very, very slowly -- downhill.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1093961&amp;lat=200.0&amp;lon=200.0&amp;displaySearchLocation=&amp;nm=1&amp;categories=Movies</url>
+         <critic>Ann Hornaday</critic>
+      </review>
+      <review>
+         <snippet>There are too many musical performances in this movie, even for a country fan such as myself, to keep the city slickers engaged. This bespeaks great faith in the charisma of the stars, who merit it. They also, however, deserved a better script.</snippet>
+         <url>http://newyorkmetro.com/nymetro/movies/reviews/15028/</url>
+         <critic>Ken Tucker</critic>
+      </review>
+      <review>
+         <snippet>I couldn't imagine anyone better suited to play the role. But this movie is a lot less interesting than it might be. Though it's not bad--in fact, it's rather sweet--it's too simple a portrait of a very complicated and calculating entertainer.</snippet>
+         <url>http://www.newyorker.com/critics/cinema/?051121crci_cinema</url>
+         <critic>David Denby</critic>
+      </review>
+      <review>
+         <snippet>For all the affection Mangold feels for Cash and Carter, the movie feels oddly dispassionate.</snippet>
+         <url>http://dallasobserver.com/Issues/2005-11-17/film/film2.html</url>
+         <critic>Robert Wilonsky</critic>
+      </review>
+      <review>
+         <snippet>In no way obsessive, Walk the Line is more sincerely--which is to say, more boringly--sincere. It doesn't leave you with much to think about, except maybe the empty vibrato of effective ventriloquism.</snippet>
+         <url>http://www.villagevoice.com/film/0546,hoberman,70027,20.html</url>
+         <critic>J. Hoberman</critic>
+      </review>
+      <review>
+         <snippet>Ends up being another one of those life-of-an-entertainer films that reduces an artist to his most embarrassing moments.</snippet>
+         <url>http://avclub.com/content/node/42658</url>
+         <critic>Noel Murray</critic>
+      </review>
+      <review>
+         <snippet>There is no way a feature-length movie could do justice to such bounty, and Walk the Line settles for the minimum.</snippet>
+         <url>http://movies2.nytimes.com/2005/11/18/movies/18walk.html</url>
+         <critic>Dana Stevens</critic>
+      </review>
+   </reviews>
+   <US_Gross>$119,519,402</US_Gross>
+   <production_budget>$29,000,000</production_budget>
+   <weekend_gross>$22,347,341</weekend_gross>
+   <number_of_screens>2,961</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

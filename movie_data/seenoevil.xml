@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>See No Evil</name>
+   <company>Lions Gate Films</company>
+   <genres>
+      <genre>Horror</genre>
+   </genres>
+   <authors>
+      <author>Dan Madigan</author>
+   </authors>
+   <directors>
+      <director>Gregory Dark</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Glen Jacobs (aka Kane)</actor>
+      <actor>Christina Vidal</actor>
+      <actor>Michael J. Pagan</actor>
+      <actor>Tiffany Lamb</actor>
+      <actor>Samantha Noble</actor>
+      <actor>Matthew Okine</actor>
+      <actor>Cecily Polson</actor>
+      <actor>Zoe Ventura</actor>
+   </actors>
+   <release_date>May 19, 2006</release_date>
+   <running_time>100</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>If you like gore, this is the movie for you.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2006/05/22/DDG50IV3IV1.DTL&amp;type=movies</url>
+         <critic>Peter Hartlaub</critic>
+      </review>
+      <review>
+         <snippet>The gilt-and-grime setting is eerily atmospheric, and screenwriter Dan Madigan has a nicely sick sense of humor.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/29807_SEE_NO_EVIL_DARK.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>Throats are ripped, heads are crushed and limbs are severed with brutal efficiency throughout See No Evil, but that's not nearly enough to dispel the sense of deja vu that pervades this generic slasher thriller.</snippet>
+         <url>http://www.variety.com/review/VE1117930569?categoryid=31&amp;cs=1</url>
+         <critic>Joe Leydon</critic>
+      </review>
+      <review>
+         <snippet>The killer in this nasty yet taut slice-and-dice 'em horror flick is a collector of eyeballs, which he removes from his screaming victims with an efficient single swooping motion of his talon-like index finger. If that image makes you grin not cringe, then this movie's for you.</snippet>
+         <url>http://www.laweekly.com/film+tv/film-reviews/film-reviews/13547/</url>
+         <critic>Chuck Wilson</critic>
+      </review>
+      <review>
+         <snippet>Generic teen dice-and-slice with interior design by way of ''Saw." The movie's tight and reasonably well shot, though, and there are flashes of nasty invention between the ritual guttings.</snippet>
+         <url>http://www.boston.com/ae/movies/articles/2006/05/20/gory_see_no_evil_is_generic_but_proficient_horror_junk/</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>See No Evil devolves into an increasingly bloody and creative string of butcherings and impalings.</snippet>
+         <url>http://www.nytimes.com/2006/05/20/movies/20evil.html?_r=1&amp;oref=slogin</url>
+         <critic>Jeannette Catsoulis</critic>
+      </review>
+      <review>
+         <snippet>A flavorless snack, time filler until "Saw III" and "Hostel 2" are served up.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-evil22may22,0,3556214.story</url>
+         <critic>Robert Abele</critic>
+      </review>
+      <review>
+         <snippet>Hippolyte subsequently reinvented himself first as a director of baroque erotic thrillers and then as music-video maestro to pop tarts like Britney Spears, but stalk-and-slash horror -- for all its porn-movie rhythms -- appears to have defeated him.</snippet>
+         <url>http://online.tvguide.com/newsearch/detail.aspx?id=46892&amp;sourcetype=m&amp;progseriesparentid=0&amp;tvobjectid=279939&amp;keyword=&amp;more=ucmoviereview</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>A ridiculous messy Z grade film that should have been released straight to video.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=9006</url>
+         <critic>Felix Vasques Jr.</critic>
+      </review>
+      <review>
+         <snippet>A punishingly awful slasher film with monosyllabic banter dreadful enough to make viewers yearn for the sophisticated repartee of earlier Dark efforts like "White Bunbusters."</snippet>
+         <url>http://www.avclub.com/content/node/48827</url>
+         <critic>Nathan Rabin</critic>
+      </review>
+      <review>
+         <snippet>Grim, bloody and relentless, without even a spark of fun or intelligence, Evil is barely good enough for late-night cable.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/moviereviews/story/419255p-354052c.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>It's hard to believe that the distributors of See No Evil were so afraid of what critics would say about their movie that they refused to provide advance screenings. The movie's target viewers aren't the type who read reviews, if they read at all.</snippet>
+         <url>http://www.nypost.com/movies/63977.htm</url>
+         <critic>V.A. Musetto</critic>
+      </review>
+      <review>
+         <snippet>As the killer, who plucks out his victims' eyeballs, Kane, the seven-foot bald WWE wrestler who's like a modern Tor Johnson, is so inept he's more cuddly than terrifying.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1197656_1_0_,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>Unlike former porn auteur Gregory Dark's semenal 1985 cumshot opus "New Wave Hookers", this rote exercise in slasher-film tedium holds zero surprises and is about as arousing as Tracy Lords' singing career.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A365967</url>
+         <critic>Marc Savlov</critic>
+      </review>
+   </reviews>
+   <US_Gross>$15,032,800</US_Gross>
+   <production_budget>$8,000,000</production_budget>
+   <weekend_gross>$4,581,233</weekend_gross>
+   <number_of_screens>1,257</number_of_screens>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

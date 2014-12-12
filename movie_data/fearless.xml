@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Fearless</name>
+   <company>Rogue Pictures</company>
+   <genres>
+      <genre>Action</genre>
+      <genre>Drama</genre>
+      <genre>Foreign</genre>
+   </genres>
+   <authors>
+      <author>Chris Chow</author>
+   </authors>
+   <directors>
+      <director>Ronny Yu</director>
+   </directors>
+   <origins>
+      <origin>HongKongUSA</origin>
+   </origins>
+   <actors>
+      <actor>Jet Li</actor>
+      <actor>Nakamura Shido</actor>
+      <actor>Dong Yong</actor>
+      <actor>Betty Sun</actor>
+      <actor>Nathan Jones</actor>
+      <actor>Collin Chou</actor>
+      <actor>Bao Qijing</actor>
+      <actor>Masato Harada</actor>
+   </actors>
+   <release_date>September 22, 2006</release_date>
+   <running_time>103</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>Much of the film's virtue lies in its straight-ahead narrative and uncomplicated morality. That and the undeniable charisma and virtuosity of its star.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-to.fearless22sep22,0,539570.story?coll=bal-artslife-movies</url>
+         <critic>Chris Kaltenbach</critic>
+      </review>
+      <review>
+         <snippet>There's something grand and enveloping about Fearless.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2006/09/22/fearless/index.html</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>Li plays haughty, brilliant wushu master Huo Yuanjia, whose recklessness leads to tragedy after he becomes a champion at the end of the 19th century.</snippet>
+         <url>http://ae.charlotte.com/entertainment/ui/charlotte/movie.html;jsessionid=7184827C64203463DA36EBA30AE077A7.prodapp12_ae_02?id=701831&amp;reviewId=21505&amp;startDate=09%2F22%2F2006</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>Though it somehow manages to be a movie about inner peace with crazy, incredibly staged fight scenes every 10 minutes, it is, first and foremost, a movie about inner peace.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/1158780330213190.xml&amp;coll=7</url>
+         <critic>M. E. Russell</critic>
+      </review>
+      <review>
+         <snippet>Billed as Li's final martial arts epic (would that Jackie Chan be so thoughtful), Fearless is fittingly peripatetic, finding the Hong Kong superstar ricocheting across the screen.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A403434</url>
+         <critic>Marc Savlov</critic>
+      </review>
+      <review>
+         <snippet>With the exception of one sequence, this PG-13 movie is so youth-friendly that I thought I might take my 10-year-old. But that sequence, upsetting for those of any age, makes the movie better suited for mature 12-year-olds and older.</snippet>
+         <url>http://ae.philly.com/entertainment/ui/philly/movie.html?id=701831&amp;reviewId=21494</url>
+         <critic>Carrie Rickey</critic>
+      </review>
+      <review>
+         <snippet>Call it "Jet Li's Wushu Retirement Party."</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=8862</url>
+         <critic>Leighton Klein</critic>
+      </review>
+      <review>
+         <snippet>One of those corny, lusciously mounted, almost predictably thrill-packed action movies you can't help but like.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-060922-movies-review-fearless,0,7243782.story?coll=mmx-movies_top_heds</url>
+         <critic>Michael Wilmington</critic>
+      </review>
+      <review>
+         <snippet>Despite some amusing jabs at America's influence on traditional China, this film leaves even this American viewer feeling oddly patriotic (or maybe just wishing she lived in China.)</snippet>
+         <url>http://www.premiere.com/article.asp?section_id=2&amp;article_id=3122</url>
+         <critic>Monica A. Reyhani</critic>
+      </review>
+      <review>
+         <snippet>Li's performance is stronger here than it has been in previous films.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/moviereviews/story/454820p-382576c.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>The final scenes pack a surprising melodramatic punch.</snippet>
+         <url>http://tvguide.com/detail/movie.aspx?tvobjectid=282432&amp;more=ucmoviereview</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>Witty choreography juices the pedestrian plot of Fearless, an earnest and technically accomplished biopic in which action star Jet Li flexes his limited dramatic muscles to portray kung fu master Huo Yuanjia.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1002689270</url>
+         <critic>Megan Lehmann</critic>
+      </review>
+      <review>
+         <snippet>Manages to pack a satisfying emotional punch.</snippet>
+         <url>http://www.variety.com/review/VE1117930006?categoryid=31&amp;cs=1&amp;s=h&amp;p=0</url>
+         <critic>Derek Elley</critic>
+      </review>
+      <review>
+         <snippet>Fearless sustains the tradition of ethically inflected Chinese action movies.</snippet>
+         <url>http://movies2.nytimes.com/2006/09/22/movies/22fear.html?ref=movies</url>
+         <critic>Nathan Lee</critic>
+      </review>
+      <review>
+         <snippet>Contrary to some reports, this is not Jet Li's last action movie--he already has another in postproduction--but it represents his farewell to wushu, the martial-arts tradition that made him an international star.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/30329_JET_LIS_FEARLESS.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>The theme behind Fearless is utterly simplistic, but universal: violence begets violence. It's a never ending cycle that becomes more and more vicious, until someone decides to stop it. It's a worthy final installment.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=9318</url>
+         <critic>Felix Vasquez, Jr.</critic>
+      </review>
+      <review>
+         <snippet>It's as subtle as a spinning kick, but some films aren't built for subtlety.</snippet>
+         <url>http://www.avclub.com/content/node/53169</url>
+         <critic>Keith Phipps</critic>
+      </review>
+      <review>
+         <snippet>As the very traditional hero, Li keeps us riveted through the fisticuffs, and he also carries off the film's heavier dramatic moments well enough -- though, as always, his lack of a strong personality prevents the movie from ever genuinely catching fire.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/286014_fearless22q.html</url>
+         <critic>William Arnold</critic>
+      </review>
+      <review>
+         <snippet>A lavish biopic that gives Li one of his juiciest roles but is relatively light on the action his fans have come to expect.</snippet>
+         <url>http://www.nypost.com/entertainment/movies/wooden_legs_movies_lou_lumenick.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>Rallies in the last reel.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/LAC.20060922.FEAR22/TPStory/TPEntertainment/Movies/</url>
+         <critic>Stephen Cole</critic>
+      </review>
+      <review>
+         <snippet>It's handsome, well-populated and offers beautiful scenery and settings. But "House of Flying Daggers" it ain't; maybe "House of Fallen Arches"?</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1116680&amp;categories=Movies&amp;nm=1</url>
+         <critic>Stephen Hunter</critic>
+      </review>
+      <review>
+         <snippet>This is an action movie, and people don't come to be preached to; the "Terminator" flicks also favored world peace but didn't pause the action for nearly an hour to rub it in.</snippet>
+         <url>http://www.villagevoice.com/film/0638,thompson,74507,20.html</url>
+         <critic>Luke Y. Thompson</critic>
+      </review>
+      <review>
+         <snippet>The movie is an enjoyable but flawed attempt at an epic story, with too much of the best action concentrated in the beginning.</snippet>
+         <url>http://sfgate.com/cgi-bin/article.cgi?f=/c/a/2006/09/22/DDGUAL9CNG1.DTL&amp;type=movies</url>
+         <critic>Peter Hartlaub</critic>
+      </review>
+      <review>
+         <snippet>The truth is, Jet Li has gotten soft in his old age. While fans of the "Once Upon a Time in China" star will be pleased to learn that at least half of Fearless is action, what they may not realize is just how mushy everything else is.</snippet>
+         <url>http://ae.miami.com/entertainment/ui/miami/movie.html?id=701831&amp;reviewId=21512</url>
+         <critic>Peter Debruge</critic>
+      </review>
+   </reviews>
+   <US_Gross>$24,633,730</US_Gross>
+   <weekend_gross>$10,590,244</weekend_gross>
+   <number_of_screens>1,808</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

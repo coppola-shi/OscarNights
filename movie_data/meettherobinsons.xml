@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Meet the Robinsons</name>
+   <company>Buena Vista Pictures</company>
+   <genres>
+      <genre>Adventure</genre>
+      <genre>Animation</genre>
+      <genre>Comedy</genre>
+      <genre>FamilyKids</genre>
+      <genre>Scifi</genre>
+   </genres>
+   <authors>
+      <author>Jon Bernstein, Michelle Bochner,Robert L. Baird and Daniel Gerson,Shirley Pierceand</author>
+      <author>William Joyce</author>
+   </authors>
+   <directors>
+      <director>Stephen J. Anderson</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Angela Bassett</actor>
+      <actor>Daniel Hansen</actor>
+      <actor>Jordan Fry</actor>
+      <actor>Matthew Josten</actor>
+      <actor>John H. H. Ford</actor>
+      <actor>Dara McGarry</actor>
+      <actor>Tom Kenny</actor>
+      <actor>Laurie Metcalf</actor>
+   </actors>
+   <release_date>March 30, 2007</release_date>
+   <running_time>102</running_time>
+   <rating>G</rating>
+   <reviews>
+      <review>
+         <snippet>Simply put, it's terrific.</snippet>
+         <url>http://www.philly.com/inquirer/columnists/steven_rea/20070330_Disney_deals_a_witty_winner.html</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>Like a surprising run of recent movies, Meet the Robinsons is based on a picture book (William Joyce's "A Day With Wilbur Robinson"). Unlike most of them, it achieves liftoff.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/309538_robinsons30q.html</url>
+         <critic>Gianni Truzzi</critic>
+      </review>
+      <review>
+         <snippet>Meet The Robinsons takes a large step toward making 3D a sustainable format, the CinemaScope of tomorrow.</snippet>
+         <url>http://www.avclub.com/content/cinema/meet_the_robinsons</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>A sharp-minded, plenty entertaining toon that will keep children of all ages wide-eyed and on their toes.</snippet>
+         <url>http://www.variety.com/review/VE1117933235.html?categoryid=31&amp;cs=1</url>
+         <critic>Todd McCarthy</critic>
+      </review>
+      <review>
+         <snippet>When it enters the future, it's a new-fangled, old-fashioned jim-dandy of a show.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-070330-movies-review-robinsons,0,1957266.story?coll=mmx-movies_top_heds</url>
+         <critic>Michael Wilmington</critic>
+      </review>
+      <review>
+         <snippet>Most of Meet the Robinsons plays like a movie made by ADD adults for ADD children.</snippet>
+         <url>http://ae.miami.com/entertainment/ui/miami/movie.html?id=829299&amp;reviewId=22362</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>A visual treat with an engaging story that has an uplifting, but not maudlin, message.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2007-03-29-robinsons_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>Meet the Robinsons is a fast paced, high energy offering; it passes by in a breeze and is enjoyable enough that I'm willing to forgive the two awful songs (one near the beginning, one near the end) and recommend it.</snippet>
+         <url>http://www.reelviews.net/movies/m/meet_robinsons.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>It's hard not to like a PG-rated 'toon that works in references to "Pulp Fiction" and "Fargo," even if Meet the Robinsons, a delightful, quirk-filled riff on "Back to the Future," proceeds in fits and starts.</snippet>
+         <url>http://www.nypost.com/seven/03302007/entertainment/movies/bliss__family_robinson_movies_lou_lumenick.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>There's enough wit to keep audiences of whatever age happy.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-to.robinsons30mar30,0,1966450.story?coll=bal-artslife-movies</url>
+         <critic>Chris Kaltenbach</critic>
+      </review>
+      <review>
+         <snippet>Almost as funny as it is hyperactive, the new computer-animated family comedy is luscious to look at and as fizzy as a can of soda popped open in your face.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=8927</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>It's striking not for its originality but for its energy in juggling familiar elements.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/critic.html#31321</url>
+         <critic>Jonathan Rosenbaum</critic>
+      </review>
+      <review>
+         <snippet>An animated feature (showing in 3-D in select theaters), has a couple of clever tricks that make it worth wearing those dumb, uncomfortable glasses. But this would be as delightful and attractive a production without the gimcrackery.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1106428&amp;categories=Movies&amp;nm=1</url>
+         <critic>Ann Hornaday</critic>
+      </review>
+      <review>
+         <snippet>So cleverly executed that one forgives -- just -- the frenetic pace and absence of down time.</snippet>
+         <url>http://www.laweekly.com/film+tv/film-reviews/film-reviews-meet-the-robinsons-blades-of-glory/16008/</url>
+         <critic>Ella Taylor</critic>
+      </review>
+      <review>
+         <snippet>It takes nearly an hour before Stephen J. Anderson's 3-D, animated comedy Meet the Robinsons begins to make sense, and when it does, the film literally takes off. But unless you're familiar with the children's book by William Joyce from which it's adapted, that first hour is a cluttered, noisy, nearly unendurable mess.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2007/03/30/2007-03-30_time_travel_tale_needs_fastforward-2.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>The sounds are fine and, thanks to technology's ever-progressive march, the sights are even better. But that third S -- the story -- remains the sticking point, and ain't it always the way.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20070330.wmeet30/BNStory/Entertainment/home</url>
+         <critic>Rick Groen</critic>
+      </review>
+      <review>
+         <snippet>Frenetically paced but mostly pointless computer-animated film that will satisfy children but may give parents a headache.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2007/03/30/DDGNTOTHFR1.DTL&amp;type=movies</url>
+         <critic>Peter Hartlaub</critic>
+      </review>
+      <review>
+         <snippet>Who knows whether the project is meant to be earnest, ironic, post-ironic, made for adults, made for kids, made to teach lessons, or made to be watched in an altered state? All or none...jeez, this thing is one bumpy ride.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20016245,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>Meet the Robinsons is a mess -- a sometimes fun but mostly frustrating mess.</snippet>
+         <url>http://www.premiere.com/moviereviews/3663/meet-the-robinsons.html</url>
+         <critic>Glenn Kenny</critic>
+      </review>
+      <review>
+         <snippet>The most un-Disneylike cartoon yet from Disney animation. The thing is a hellzapoppin' of eccentric characters, zany situations and wacky gizmos, but little effort has gone into making any of this connect with an audience.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?&amp;rid=8984</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>A barrage of pop-culture jokes, time-travel high jinks and plucky orphans that's as confusing as it sounds, and riddled with plot holes to boot.</snippet>
+         <url>http://www.tvguide.com/movies/meet-robinsons/review/285340</url>
+         <critic>Angel Cohn</critic>
+      </review>
+      <review>
+         <snippet>Zippy if forgettable, Meet the Robinsons keeps the tone mildly tongue-in-cheek and ends on a dutifully inspirational note.</snippet>
+         <url>http://www.calendarlive.com/printedition/calendar/cl-et-meet30mar30,0,1984705.story</url>
+         <critic>Dennis Lim</critic>
+      </review>
+      <review>
+         <snippet>A 3-D fantasy that's lovely to look at but less than delightful to know.</snippet>
+         <url/>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>Meet the Robinsons is surely one of the worst theatrically released animated features issued under the Disney label in quite some time.</snippet>
+         <url>http://movies2.nytimes.com/2007/03/30/movies/30robi.html?ref=movies</url>
+         <critic>A.O. Scott</critic>
+      </review>
+      <review>
+         <snippet>Kids will enjoy the colourful animation and fun characters, but adults will wish it all made a bit more sense.</snippet>
+         <url>http://www.empireonline.com/reviews/review.asp?FID=133838</url>
+         <critic>Helen O&amp;#039;Hara</critic>
+      </review>
+      <review>
+         <snippet>Though the characters are unique and occasionally fun, they're paper-thin.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A460277</url>
+         <critic>Toddy Burton</critic>
+      </review>
+      <review>
+         <snippet>The characters, starting with Lewis himself, are downright obnoxious. Not counting those singing frogs or the time-traveling T. rex (with its big head and little arms), only Lewis' sad-sack roommate ''Goob'' is remotely sympathetic.</snippet>
+         <url>http://ae.miami.com/entertainment/ui/miami/movie.html?id=829299&amp;reviewId=22366&amp;startDate=03%2F29%2F2007</url>
+         <critic>Peter Debruge</critic>
+      </review>
+   </reviews>
+   <US_Gross>$97,822,171</US_Gross>
+   <weekend_gross>$25,123,781</weekend_gross>
+   <number_of_screens>3,413</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Let&amp;#039;s Go to Prison</name>
+   <company>Universal Pictures</company>
+   <genres>
+      <genre>Comedy</genre>
+   </genres>
+   <authors>
+      <author>Ben Garant</author>
+      <author>Thomas Lennon</author>
+      <author>Michael Patrick Jann</author>
+      <author>Jim Hogshire</author>
+   </authors>
+   <directors>
+      <director>Bob Odenkirk</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Dax Shepard</actor>
+      <actor>Will Arnett</actor>
+      <actor>Chi McBride</actor>
+      <actor>David Koechner</actor>
+      <actor>Dylan Baker</actor>
+      <actor>Michael Shannon</actor>
+      <actor>Miguel Nino</actor>
+      <actor>Jay Whittaker</actor>
+   </actors>
+   <release_date>November 17, 2006</release_date>
+   <running_time>84</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>It takes a while to realize that this is actually a sly, very funny comedy, one that stays admirably deadpan every time you think it’s about to veer into gross-out territory.</snippet>
+         <url>http://movies2.nytimes.com/2006/11/18/movies/18pris.html?ref=movies</url>
+         <critic>Neil Genzlinger</critic>
+      </review>
+      <review>
+         <snippet>Unlike the vast majority of rude bigscreen comedies these days, "Prison" may actually improve with repeat viewings, since its best aspects are offhand enough to be missed the first time around.</snippet>
+         <url>http://www.variety.com/review/VE1117932161.html?categoryid=31&amp;cs=1</url>
+         <critic>Dennis Harvey</critic>
+      </review>
+      <review>
+         <snippet>Much funnier and weirder than you think.</snippet>
+         <url>http://www.villagevoice.com/film/0647,thompson,75119,20.html</url>
+         <critic>Luke Y. Thompson</critic>
+      </review>
+      <review>
+         <snippet>Odenkirk is an expert at the unexpected laugh. (This must be the first prison movie in which a cafeteria put-down involves the painter Lucian Freud.)</snippet>
+         <url>http://www.nydailynews.com/08-31-2003/entertainment/movies/moviereviews/story/472470p-397562c.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>The sad thing is that Arnett, Shepard and McBride quickly establish a loose, easy camaraderie that's a real pleasure to watch. The shame is that they're working with such unrewarding material.</snippet>
+         <url>http://tvguide.com/detail/movie.aspx?tvobjectid=284147&amp;more=ucmoviereview</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>Let's Go to Prison ultimately feels as long as a stint in the big house.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?JSESSIONID=Fv13nzvJp757XD8n3J1SWy6HK2gb9C1p2pxkHFXnJt5QLS7lbQvK!-664422419&amp;&amp;rid=8260</url>
+         <critic>Frank Scheck</critic>
+      </review>
+      <review>
+         <snippet>I'm a fan of director Bob Odenkirk, but my high hopes for this comedy were dashed by screenwriters Ben Garant, Thomas Lennon, and Michael Patrick Jann, all alumi of "Reno 911"!</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/30772_LETS_GO_TO_PRISON.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>Prison makes its 84-minute running time feel like a five-year sentence with no chance for parole.</snippet>
+         <url>http://www.avclub.com/content/node/55578</url>
+         <critic>Aaron Burgess</critic>
+      </review>
+      <review>
+         <snippet>Nearly laughless.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1562130_1_0_,00.html</url>
+         <critic>Gregory Kirshling</critic>
+      </review>
+      <review>
+         <snippet>It makes "Little Man," "Scary Movie 3" and "Beerfest" look like comic masterpieces.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20061120.wxprison20/BNStory/Entertainment/home</url>
+         <critic>Jennie Punter</critic>
+      </review>
+      <review>
+         <snippet>It's a remarkably laugh-free comedy that takes on a dark subject and skitters along its surface.</snippet>
+         <url>http://www.boston.com/ae/movies/articles/2006/11/18/lets_go_to_prison_is_shackled_by_bad_jokes_silly_stereotypes/</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>A comedy that locks up Will Arnett's talent and throws away the key.</snippet>
+         <url>http://www.nypost.com/seven/11182006/entertainment/movies/a_felony_against_innocent_filmgoers_movies_kyle_smith.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>The real crime here is that Let's Go to Prison made a daring escape from direct-to-video stir into the relative freedom of your neighborhood multiplex. Consider this one disarmed and extremely pointless.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A420146</url>
+         <critic>Marc Savlov</critic>
+      </review>
+   </reviews>
+   <US_Gross>$5,525,320</US_Gross>
+   <weekend_gross>$2,220,050</weekend_gross>
+   <number_of_screens>1,495</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

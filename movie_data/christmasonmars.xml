@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Christmas on Mars: A Fantastical Film Freakout Featuring the Flaming Lips</name>
+   <company>Warner Brothers Records, Cinema Purgatorio</company>
+   <genres>
+      <genre>Adventure</genre>
+      <genre>Fantasy</genre>
+      <genre>Musical</genre>
+      <genre>Scifi</genre>
+   </genres>
+   <authors>
+      <author>Wayne Coyne</author>
+   </authors>
+   <directors>
+      <director>Wayne Coyne</director>
+      <director>George Salisbury</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Steven Drozd</actor>
+      <actor>Michael Ivins</actor>
+      <actor>Wayne Coyne</actor>
+      <actor>Kliph Scurlock</actor>
+      <actor>Scott Booker</actor>
+   </actors>
+   <release_date>September 12, 2008</release_date>
+   <running_time>82</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>Like Ed Wood with a decent budget and a vision impaired by mind-expanding drugs, Christmas on Mars is about just that.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=2978</url>
+         <critic>Chris Gore</critic>
+      </review>
+      <review>
+         <snippet>Forget plot. It’s all about textures.</snippet>
+         <url>http://www.nytimes.com/2008/09/12/movies/12mars.html?ref=movies</url>
+         <critic>Andy Webster</critic>
+      </review>
+      <review>
+         <snippet>As a Lips completist, it's at least worth enduring for its homegrown resourcefulness, all General Electric stoves and found industrial objects, but that's the thing about experimentation: Sometimes it's destined to fail.</snippet>
+         <url>http://www.villagevoice.com/2008-09-10/film/christmas-on-mars/</url>
+         <critic>Aaron Hillis</critic>
+      </review>
+   </reviews>
+   <US_Gross>$5,692</US_Gross>
+   <weekend_gross>$2,989</weekend_gross>
+   <number_of_screens>1</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

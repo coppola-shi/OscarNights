@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Joe Strummer: The Future Is Unwritten</name>
+   <company>IFC Films</company>
+   <genres>
+      <genre>Documentary</genre>
+   </genres>
+   <authors>
+      <author/>
+   </authors>
+   <directors>
+      <director>Julien Temple</director>
+   </directors>
+   <origins>
+      <origin>IrelandUK</origin>
+   </origins>
+   <actors>
+      <actor>Bono</actor>
+      <actor>Steve Buscemi</actor>
+      <actor>Terry Chimes</actor>
+      <actor>John Cooper Clarke</actor>
+      <actor>John Cusack</actor>
+      <actor>Johnny Depp</actor>
+      <actor>Matt Dillon</actor>
+      <actor>Joe Strummer</actor>
+   </actors>
+   <release_date>November 2, 2007</release_date>
+   <running_time>123</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>The most powerful documentary I've seen all year, and one of the two or three best films ever made about an artist or musician.</snippet>
+         <url>http://www.salon.com/ent/btm/2007/11/01/strummer/index.html</url>
+         <critic>Andrew O&amp;#039;Hehir</critic>
+      </review>
+      <review>
+         <snippet>That rarest of movie biographies: a warts-and-all exploration of the life and times of its subject.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/119448336036230.xml&amp;coll=7</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>By focusing on Strummer and giving a fair amount of screen time to his years in the wilderness before and after the Clash, Temple arrives at a more poignant and mature statement of what this committed band was all about.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/critic.html#32351</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>The film is much more than a biography of the Clash’s guitarist and lead singer: It’s history, criticism, philosophy and politics, played fast and loud.</snippet>
+         <url>http://movies.nytimes.com/2007/11/02/movies/02stru.html?ref=movies</url>
+         <critic>A.O. Scott</critic>
+      </review>
+      <review>
+         <snippet>The triumph of this fond, uncontainable documentary is that it lets you hear that voice again loud and clear.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=9918</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>Julian Temple, the British music-documentary director who helmed the 2000 Pistols' flick "The Filth and the Fury," has done such cinematic justice to the punk humanist born John Graham Mellor, who died of a congenital heart defect in 2002.</snippet>
+         <url>http://www.philly.com/philly/entertainment/movies/20071109_Joe_Strummer__The_Future_Is_Unwritten____1_2.html</url>
+         <critic>Dan DeLuca</critic>
+      </review>
+      <review>
+         <snippet>Captures the Joe Strummer who, in the late 1970s, just about firebombed the rock establishment with his fury.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20155725,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>Temple introduces viewers to Strummer the punster, Strummer the womanizer, and Strummer the poseur, whom his mates could only really talk to when no one else was around.</snippet>
+         <url>http://www.avclub.com/content/cinema/joe_strummer_the_future_is</url>
+         <critic>Noel Murray</critic>
+      </review>
+      <review>
+         <snippet>The film is a rigorously thorough biography and an impassioned accolade. Temple spends as much time on Strummer's life before and after the Clash as he does charting the band's powerful musical and political influence.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-strumreview2nov02,0,4997189.story?coll=cl-mreview</url>
+         <critic>Carina Chocano</critic>
+      </review>
+      <review>
+         <snippet>One artist's moving tribute to another.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1137991&amp;categories=Movies&amp;nm=1</url>
+         <critic>Desson Thomson</critic>
+      </review>
+      <review>
+         <snippet>Like an early Clash number, it's by turns lovely and ugly, loud as bombs and quiet as a revolution's first-thrown stone; it acknowledges the legend while uncovering the truth.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A567784</url>
+         <critic>Marc Savlov</critic>
+      </review>
+      <review>
+         <snippet>The movie fascinates not so much because of Strummer, whose brooding temperament and flash-and-burn career arc seems pretty routine by rock standards, but because of the way Temple organized and edited the film.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2007/11/02/2007-11-02_short_takes_more_movie_reviews.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>Its moving narrative requires little in the way of embellishment, but Temple’s documentary sometimes becomes too clever for its own good.</snippet>
+         <url>http://chicago.metromix.com/movies/movie_review/movie-review-joe-strummer/247844/content</url>
+         <critic>Greg Kot</critic>
+      </review>
+      <review>
+         <snippet>One of the most direct and personal music documentaries ever made.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2007/11/09/DDAFT88O1.DTL#flick</url>
+         <critic>Joel Selvin</critic>
+      </review>
+      <review>
+         <snippet>At its best, it throbs with immediacy, just as Strummer did.</snippet>
+         <url>http://www.premiere.com/moviereviews/4215/joe-strummer-the-future-is-unwritten.html</url>
+         <critic>Glenn Kenny</critic>
+      </review>
+      <review>
+         <snippet>Compelling viewing, even for people who don't care a bit for the punk scene.</snippet>
+         <url>http://www.nypost.com/seven/11022007/entertainment/movies/fireside_talks_at_strummer_school_679594.htm</url>
+         <critic>V.A. Musetto</critic>
+      </review>
+      <review>
+         <snippet>Temple's engrossing portrait of the Clash's late frontman uses endlessly suggestive montage to show how he kept punk's precepts alive, even after he left the music and eventually the earth itself.</snippet>
+         <url>http://www.villagevoice.com/film/0744,ridley,78182,20.html</url>
+         <critic>Jim Ridley</critic>
+      </review>
+      <review>
+         <snippet>At least the movie never bogs down. But you only get a taste of what made the Clash for a brief period the most exciting band on that side of the Atlantic.</snippet>
+         <url>http://nymag.com/movies/reviews/39946/index1.html</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>Thirty years down the line, not everyone looks as they once did, so even fans will have trouble putting names to aged faces. Newcomers, meanwhile, will feel hopelessly shut out.</snippet>
+         <url>http://www.tvguide.com/detail/movie.aspx?tvobjectid=291129&amp;more=ucmoviereview</url>
+         <critic>Ken Fox</critic>
+      </review>
+   </reviews>
+   <US_Gross>$248,182</US_Gross>
+   <weekend_gross>$20,880</weekend_gross>
+   <number_of_screens>2</number_of_screens>
+   <highest_grossing_actors_present/>
+   <num_highest_grossing_actors>1</num_highest_grossing_actors>
+   <highest_grossing_actor>johnny depp</highest_grossing_actor>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

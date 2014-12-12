@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Harold &amp; Kumar Escape from Guantanamo Bay</name>
+   <company>New Line Cinema</company>
+   <genres>
+      <genre>Adventure</genre>
+      <genre>Comedy</genre>
+   </genres>
+   <authors>
+      <author>Jon Hurwitz</author>
+      <author>Hayden Schlossberg</author>
+   </authors>
+   <directors>
+      <director>Jon Hurwitz</director>
+      <director>Hayden Schlossberg</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>John Cho</actor>
+      <actor>Kal Penn</actor>
+      <actor>Rob Corddry</actor>
+      <actor>Roger Bart</actor>
+      <actor>Neil Patrick Harris</actor>
+   </actors>
+   <release_date>April 25, 2008</release_date>
+   <running_time>102</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>Anyone can come up with jokes about incestuous rednecks or pubic hair that "looks like Osama bin Laden's beard," but it takes guts to make a comedy in which the Indian-American hero accuses an African-American TSA agent of racial profiling, all so he won't get caught smuggling weed onto a plane.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A614776</url>
+         <critic>Josh Rosenblatt</critic>
+      </review>
+      <review>
+         <snippet>The big payoff, of course, is Neil Patrick Harris reprising his role as "Neil Patrick Harris."</snippet>
+         <url>http://www.avclub.com/content/cinema/harold_kumar_escape_from</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>It's not exactly high art, but it's certainly high.</snippet>
+         <url>http://www.philly.com/inquirer/columnists/steven_rea/20080425_More_Harold___Kumar_high_jinks.html</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>At the screening I attended, someone walked in wearing a shirt that read "I HEART BONGS," so that gives you a pretty good idea of the target audience. Maybe this time they will rouse themselves from the couch and make it possible for us to follow Harold and Kumar through more adventures.</snippet>
+         <url>http://www.premiere.com/moviereviews/4543/harold-and-kumar-escape-from-guantanamo-bay.html</url>
+         <critic>Jenni Miller</critic>
+      </review>
+      <review>
+         <snippet>Precisely because their attitudes are so bluntly hedonistic and apolitical, Harold and Kumar manage to be fairly persuasive when they get around to criticizing the status quo, which the movie has the wit to acknowledge itself as part of.</snippet>
+         <url>http://movies.nytimes.com/2008/04/25/movies/25kuma.html?em&amp;ex=1209182400&amp;en=6e4f0be616e3696a&amp;ei=5087%0A&amp;8dpc</url>
+         <critic>A.O. Scott</critic>
+      </review>
+      <review>
+         <snippet>An over-the-top and beyond-PC comedy that sometimes deftly, sometimes slapdashedly infuses party-hearty anarchy with hectoring moral outrage.</snippet>
+         <url>http://www.variety.com/review/VE1117936447.html?categoryid=2850&amp;cs=1&amp;query=harold+and+kumar+escape+from+guantanamo</url>
+         <critic>Joe Leydon</critic>
+      </review>
+      <review>
+         <snippet>They are Abbott &amp; Costello with dirty mouths--indomitable, ungovernable, and possibly immortal.</snippet>
+         <url>http://www.newyorker.com/arts/critics/cinema/2008/05/19/080519crci_cinema_denby?currentPage=2</url>
+         <critic>David Denby</critic>
+      </review>
+      <review>
+         <snippet>Honestly, the most shocking thing put forth in Harold and Kumar Escape from Guantanamo Bay just might be the proposition that George W. Bush is actually a pretty cool guy.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=10934</url>
+         <critic>Pete Vonder Haar</critic>
+      </review>
+      <review>
+         <snippet>That rare sequel that builds on the movie that came before it without crushing its attributes to death. "Escape" doesn't feel belabored. Giddy, freewheeling and sweet-natured, it pulls off the effect of seeming spontaneous, a tall task by itself.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2008/04/25/harold_and_kumar/</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>Harold and Kumar are pothead patriots in the first feel-good torture film.</snippet>
+         <url>http://www.time.com/time/magazine/article/0,9171,1734812,00.html</url>
+         <critic>Richard Corliss</critic>
+      </review>
+      <review>
+         <snippet>Harold and Kumar, fortunately, never lose their verbally relentless way of delivering raunch as pure common sense.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20195587,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>If only the wit weren't overwhelmed by lame jokes about body parts, functions and fluids.</snippet>
+         <url>http://www.tvguide.com/movies/harold-kumar-escape/review/293101</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>Mostly, Harold is a guilty pleasure that retains the anarchic charms of the original.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2008-04-24-also-opening_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>The movie is unpolished, unabashedly un-PC, and takes on as many "sacred cows" as it can uncover in a slightly-too-long 105 minutes.</snippet>
+         <url>http://www.reelviews.net/movies/h/harold_kumar2.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>No political tract, but it can be surprisingly bold.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20080425.wkumar25/BNStory/Entertainment/home</url>
+         <critic>Liam Lacey</critic>
+      </review>
+      <review>
+         <snippet>The jokes all revolve around weed, stereotypes, and Neil Patrick Harris; the stereotype stuff is by far the funniest.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/33078_HAROLD_AND_KUMAR_ESCAPE_FROM_GUANTANAMO_BAY.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>Among the variations of gags from the original are a threesome involving Harold, Kumar and a giant bag of marijuana.</snippet>
+         <url>http://www.nypost.com/seven/04252008/entertainment/movies/bongs_away__107949.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>Is a truly political stoner movie even possible? The entire point of getting high is to take some of the sting out of life. The movie goes after easy targets and goes soft on the harder issues.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=10930</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>It exploits post-9/11 anxieties as fodder for goofball gooniness. "Dr. Strangelove" it's not.</snippet>
+         <url>http://www.csmonitor.com/2008/0425/p12s01-almo.html#</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>Lacks the fresh charm that made their first such an unexpected (if guilty) pleasure.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/imdb/reviews/article_display.jsp?rid=10795&amp;vnu_special_account_code=thrsiteimdbpro</url>
+         <critic>John DeFore</critic>
+      </review>
+      <review>
+         <snippet>Mostly dumb, no matter how desperately and even valiantly it aims for "thinky."</snippet>
+         <url>http://dallasobserver.com/2008-04-24/film/harold-and-kumar-get-shipped-to-gitmo-in-a-forced-act-two/</url>
+         <critic>Robert Wilonsky</critic>
+      </review>
+      <review>
+         <snippet>It can devote itself entirely to bodily functions or, having established its grossness quotient, take the high road toward satire like its 2004 predecessor, "Harold &amp; Kumar Go to White Castle." It fails mainly because it does neither.</snippet>
+         <url>http://www.charlotte.com/364/story/594581.html</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>You find yourself smiling at some of the bits, wincing through many, many others, and ultimately wondering if the pacing would've improved had either H or K developed a terrible cocaine habit.</snippet>
+         <url>http://chicago.metromix.com/movies/movie_review/movie-review-harold-and/388164/content</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>The movie is sporadically funny in an anarchistic way. But Cho and Penn don't have the needed personality or comic identity to sustain a franchise and their non-drug humor is so crude and scatological that -- to say the least -- it leaves a very bad taste in the mouth.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/360483_harold25q.html</url>
+         <critic>William Arnold</critic>
+      </review>
+      <review>
+         <snippet>It's a big fat missed opportunity.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2008/04/25/2008-04-25_harold__kumar_escape_from_guantanamo_bay.html</url>
+         <critic>Joe Neumaier</critic>
+      </review>
+      <review>
+         <snippet>It betrays the spirit of the stoner comedy, which has traditionally been subversive--when it wasn't detailing the love affair between two marginally functional young men and their stash of sweet, sweet herb.</snippet>
+         <url>http://www.slate.com/id/2189889/</url>
+         <critic>Dana Stevens</critic>
+      </review>
+      <review>
+         <snippet>A largely mind-numbing experience.</snippet>
+         <url>http://www.villagevoice.com/film/0817,get-out-of-jail-free,419618,20.html</url>
+         <critic>J. Hoberman</critic>
+      </review>
+   </reviews>
+   <US_Gross>$38,108,728</US_Gross>
+   <production_budget>$12,000,000</production_budget>
+   <weekend_gross>$14,908,404</weekend_gross>
+   <number_of_screens>2,510</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

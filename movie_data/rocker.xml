@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Rocker, The</name>
+   <company>20th Century Fox</company>
+   <genres>
+      <genre>Comedy</genre>
+   </genres>
+   <authors>
+      <author>Ryan Jaffe</author>
+      <author>Wallace Wolodarsky</author>
+      <author>Maya Forbes</author>
+   </authors>
+   <directors>
+      <director>Peter Cattaneo</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Rainn Wilson</actor>
+      <actor>Christina Applegate</actor>
+      <actor>Josh Gad</actor>
+      <actor>Teddy Geiger</actor>
+      <actor>Jane Lynch</actor>
+      <actor>Emma Stone</actor>
+      <actor>Jason Sudeikis</actor>
+      <actor>Howard Hesseman</actor>
+   </actors>
+   <release_date>August 20, 2008</release_date>
+   <running_time>102</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>Wilson is pretty much the whole show. With nobody else around to steal from, he ends up stealing scenes from himself.</snippet>
+         <url>http://www.csmonitor.com/2008/0823/p25s01-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>The most surprising thing about The Rocker is how enjoyable it is.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/375621_rocker20q.html</url>
+         <critic>Andy Spletzer</critic>
+      </review>
+      <review>
+         <snippet>The movie's is really good, clean fun that's fine for slightly older kids and a lot of fun for adults.</snippet>
+         <url>http://movies.tvguide.com/rocker/review/293503</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>It's a lot of fun. Its spirit is genuine and, even with the odd vomit gag, fundamentally sweet.</snippet>
+         <url>http://chicago.metromix.com/movies/movie_review/movie-review-the-rocker/566930/content</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>This familiar scenario works because of well-written and acted characters. The disciplined direction is by Peter Cattaneo, who tackled somewhat similar material in "The Full Monty" a decade ago.</snippet>
+         <url>http://www.nypost.com/seven/08202008/entertainment/movies/rainn_shines__125225.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>Overcomes its essential familiarity thanks to a frequently witty script, grounded direction (by Peter Cattaneo, of "Full Monty" fame) and an engaging turn by its star that proves him more than capable of carrying a comedy feature.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?rid=11463</url>
+         <critic>Frank Scheck</critic>
+      </review>
+      <review>
+         <snippet>Wilson makes the most of it in this well-crafted, feel-good satire.</snippet>
+         <url>http://www.variety.com/review/VE1117937799.html?categoryid=31&amp;cs=1</url>
+         <critic>Peter Debruge</critic>
+      </review>
+      <review>
+         <snippet>The Rocker can be amusingly dopey, with its "Spinal Tap"-ish lampooning of rock idioms - and idiots.</snippet>
+         <url>http://www.philly.com/inquirer/columnists/steven_rea/20080819_Marlon_Brando_s_famous_line__quot_I_could_have_been.html</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>A grubby little redemption comedy that in every way feels like a consignment-shop Jack Black vehicle.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=11210</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>Silly, and unashamedly second-hand, the movie is essentially a Jack Black movie without Jack Black, which is, arguably, an improvement.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20080821.wrocker21/BNStory/Entertainment/home</url>
+         <critic>Liam Lacey</critic>
+      </review>
+      <review>
+         <snippet>The Rocker has the requisite vomit, the view of some very unfortunate hind quarters and the suds. It's also got a vein of sweetness and charm.</snippet>
+         <url>http://online.wsj.com/article/SB121936317148061907.html?mod=hps_us_inside_today</url>
+         <critic>Joanne Kaufman</critic>
+      </review>
+      <review>
+         <snippet>There are plenty of funny moments, as well as a sweet subplot involving the unkempt drummer and the guitarist's no-nonsense mom (Christina Applegate).</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/33440_ROCKER.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>Lightweight but likable.</snippet>
+         <url>http://www.empireonline.com/reviews/reviewcomplete.asp?FID=135668</url>
+         <critic>Simon Crook</critic>
+      </review>
+      <review>
+         <snippet>Wilson and a loaded supporting cast are never as funny as they should be.</snippet>
+         <url>http://www.avclub.com/content/cinema/the_rocker</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>Too bad it shortchanges the music and fails to provide much evidence for Wilson's appeal.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/reviews/bal-therocker0820,0,7301333.story</url>
+         <critic>Chris Kaltenbach</critic>
+      </review>
+      <review>
+         <snippet>The movie is so tepid and inoffensive: It reminded me of a '70s Disney live-action product, with clean-scrubbed "hippies" like Johnny Whitaker chafing harmlessly under the wise ministrations of Suzanne Pleshette, whose job was to keep the kids in hand.</snippet>
+         <url>http://www.washingtonpost.com/wp-dyn/content/article/2008/08/19/AR2008081902608.html</url>
+         <critic>Stephen Hunter</critic>
+      </review>
+      <review>
+         <snippet>Most disappointingly, the music is tepid, mediocre pop pastiche.</snippet>
+         <url>http://movies.nytimes.com/2008/08/20/movies/20rock.html?ref=movies</url>
+         <critic>Stephen Holden</critic>
+      </review>
+      <review>
+         <snippet>The Rocker is more disappointing than it is outright bad. One expects something a little fresher from Wilson.</snippet>
+         <url>http://www.reelviews.net/php_review_template.php?identifier=1253</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>A pleasant but unimpressive experience.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2008/08/20/rocker/</url>
+         <critic>James Hannaham</critic>
+      </review>
+      <review>
+         <snippet>You want to like almost everyone in this film, but they're all undone by a weak script.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2008/08/20/DDDJ12C840.DTL</url>
+         <critic>David Wiegand</critic>
+      </review>
+      <review>
+         <snippet>For the most part, The Rocker is content to simply keep the beat, marking time as the summer movie season moves on.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-rocker20-2008aug20,0,7337771.story</url>
+         <critic>Sam Adams</critic>
+      </review>
+      <review>
+         <snippet>Wilson works overtime to hold Peter Cattaneo's flimsy comedy together.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2008/08/20/2008-08-20_rainn_wilson_is_off_his_rocker_to_take_t.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>It's depressing when the best thing you can say about a comedy is that its second-rateness is pleasantly in sync with its unmagnetic hero.</snippet>
+         <url>http://nymag.com/movies/reviews/49284/</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>The only brazen thing about the film is how shamelessly it rips off "School of Rock."</snippet>
+         <url>http://www.ew.com/ew/article/0,,20219201,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>Not terribly original or funny.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=11005</url>
+         <critic>Don R. Lewis</critic>
+      </review>
+      <review>
+         <snippet>Wilson is buoyed by a sporadically witty script, and while there are no surprises whatsoever in the story, his goofy, puppylike charm renders what could have been a disaster merely an unfortunate event.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A659859</url>
+         <critic>Marc Savlov</critic>
+      </review>
+      <review>
+         <snippet>This is sugary-sweet stuff--pop instead of rock.</snippet>
+         <url>http://www.villagevoice.com/2008-08-19/film/rainn-wilson-goes-metal-in-the-rocker/</url>
+         <critic>Robert Wilonsky</critic>
+      </review>
+      <review>
+         <snippet>If you're a Rainn Wilson fan, catch a rerun of "The Office."</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2008-08-19-rocker_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+   </reviews>
+   <US_Gross>$6,409,528</US_Gross>
+   <production_budget>$15,000,000</production_budget>
+   <weekend_gross>$3,686,460</weekend_gross>
+   <number_of_screens>2,784</number_of_screens>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

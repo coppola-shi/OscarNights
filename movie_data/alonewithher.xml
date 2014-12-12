@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Alone with Her</name>
+   <company>IFC First Take</company>
+   <genres>
+      <genre>Drama</genre>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>Eric Nicholas</author>
+   </authors>
+   <directors>
+      <director>Eric Nicholas</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Colin Hanks</actor>
+      <actor>Ana Claudia Talancón</actor>
+      <actor>Jordana Spiro</actor>
+      <actor>Jonathon Trent</actor>
+      <actor>Alex Boling</actor>
+      <actor>Mel Gorham</actor>
+      <actor>Ashley McCarthy</actor>
+      <actor>Christina Sauvé</actor>
+   </actors>
+   <release_date>January 17, 2007</release_date>
+   <running_time>78</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>Not always totally credible and it cheats a bit on the fixed point of view. But a terrific and brave performance by Talancon makes this far superior to the generic thrillers churned out by the big studios.</snippet>
+         <url>http://www.nypost.com/seven/01172007/entertainment/movies/look_whos_stalking_movies_lou_lumenick.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>Made for $1 million, its production values are raw and Nicholas makes at least one too many obvious choices himself. But its very rawness adds to its creepiness and keeps us in suspense in ways most studio movies don't.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/moviereviews/story/489885p-412561c.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>In 1960, British director Michael Powell made "Peeping Tom," the definitive exploration of voyeurism in the movies. The shocking thriller also practically ruined the career of the veteran filmmaker. Although the stalker-centric Alone With Her doesn't quite rank with Powell's masterpiece, it shows enough promise that one hopes writer/director Eric Nicholas doesn't share his fate.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/1169596523298730.xml&amp;coll=7</url>
+         <critic>Marc Mohan</critic>
+      </review>
+      <review>
+         <snippet>A pretty engaging tale, and it's refreshing to see a well-acted, suspenseful drama made without a bloated budget or a lot of bloodletting.</snippet>
+         <url>http://www.calendarlive.com/printedition/calendar/cl-et-alone23feb23,0,7520786.story</url>
+         <critic>Lael Loewenstein</critic>
+      </review>
+      <review>
+         <snippet>This is a truly disturbing work that makes the mind race with worry, and the heart pump with fear, though thankfully not in a way that tests a viewer's unease every minute. Gradually. Ever so gradually.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=9714</url>
+         <critic>Rory L. Aronsky</critic>
+      </review>
+      <review>
+         <snippet>Intriguing creepout.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20008790,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>While Canadian writer-director Eric Nicholas has no fresh thoughts about the voyeuristic nature of movie going, he knows enough to make sure when high-tech peeper Doug (Colin Hanks, son of Tom) conceals his camera in a bag, its lens pokes out of the zipper like the big, fat metaphor it is.</snippet>
+         <url>http://tvguide.com/detail/movie.aspx?tvobjectid=285784&amp;more=ucmoviereview</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>More interesting conceptually than dramatically, Eric Nicholas' thriller Alone With Her boasts a highly clever technological conceit, albeit one that was exploited many years ago to a lesser degree in "The Anderson Tapes."</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?&amp;rid=8640</url>
+         <critic>Frank Scheck</critic>
+      </review>
+      <review>
+         <snippet>In the end, the characters seem less archetypal than vague, and aside from its sophisticated presentation, Alone With Her doesn't differ all that much from its template: the late-’80s and early-’90s Fill-In-the-Blanks-From-Hell movies that followed in the wake of "Fatal Attraction," many of whose elements (including the heroine’s inquisitive, doomed best friend) Mr. Nicholas revives almost verbatim.</snippet>
+         <url>http://www.nytimes.com/2007/01/17/movies/17alon.html?_r=1&amp;ref=movies&amp;oref=slogin</url>
+         <critic>Matt Zoller Seitz</critic>
+      </review>
+      <review>
+         <snippet>This first feature is shot "first person" and is first and foremost a concept -- at least as interesting to think about as to actually watch.</snippet>
+         <url>http://www.villagevoice.com/film/0702,hoberman,75504,20.html</url>
+         <critic>J. Hoberman</critic>
+      </review>
+   </reviews>
+   <US_Gross>$10,787</US_Gross>
+   <weekend_gross>$6,706</weekend_gross>
+   <number_of_screens>1</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

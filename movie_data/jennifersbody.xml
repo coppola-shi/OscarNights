@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Jennifer&amp;#039;s Body</name>
+   <company>20th Century Fox</company>
+   <genres>
+      <genre>Comedy</genre>
+      <genre>Horror</genre>
+      <genre>Scifi</genre>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>Diablo Cody</author>
+   </authors>
+   <directors>
+      <director>Karyn Kusama</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Megan Fox</actor>
+      <actor>Ama Seyfried</actor>
+      <actor>Johnny Simmons</actor>
+      <actor>Adam Brody</actor>
+      <actor>J.K. Simmons</actor>
+   </actors>
+   <release_date>September 18, 2009</release_date>
+   <running_time>102</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>A wicked black comedy with unexpected emotional resonance, one of the most purely pleasurable movies of the year so far.</snippet>
+         <url>http://www.slate.com/id/2228708/</url>
+         <critic>Dana Stevens</critic>
+      </review>
+      <review>
+         <snippet>The difference between “Juno” and Jennifer’s Body, I realized, was that Diablo Cody's disgustingly smug dialogue -- supposedly so winning when spoken by Juno -- is much easier to swallow when it comes from characters who actually are disgustingly smug -- like Jennifer.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=11885</url>
+         <critic>Nick Antosca</critic>
+      </review>
+      <review>
+         <snippet>Hot! Hot! Hot!</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/29190858/review/30165951/jennifers_body</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>Bloody fun is here to be had.</snippet>
+         <url>http://www.theglobeandmail.com/news/arts/jennifers-body/article1291507/</url>
+         <critic>Rick Groen</critic>
+      </review>
+      <review>
+         <snippet>It's not art, it's not “Juno,” it's not “Girlfight,” for that matter, but as a movie about a flesh-eating cheerleader, it's better than it has to be.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20090916/REVIEWS/909169996</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>The movie deserves -- and is likely to win -- a devoted cult following, despite its flaws.</snippet>
+         <url>http://movies.nytimes.com/2009/09/18/movies/18jennifer.html?ref=movies</url>
+         <critic>A.O. Scott</critic>
+      </review>
+      <review>
+         <snippet>The “Transformers” hottie undergoes her very own transformation here, thanks to satanic possession.</snippet>
+         <url>http://www.nypost.com/p/entertainment/jennifer_hottie_Rxf9tILtblZGTUlav0RFcN</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>Not since Brian De Palma's "Carrie" has a horror movie so effectively exploited the genre as a metaphor for adolescent angst, female sexuality and the strange, sometimes corrosive bonds between girls who claim to be best friends.</snippet>
+         <url>http://www.miamiherald.com/entertainment/movies/reviews/story/1237654.html</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>As a horror movie, Jennifer's Body doesn't fully deliver. But as a comic allegory of what it's like to be an adolescent girl who comes into sexual and social power that she doesn't know what the heck to do with, it is a minor classic.</snippet>
+         <url>http://www.philly.com/philly/entertainment/movies/20090918_Horror-comedy_with_feminist_bite.html</url>
+         <critic>Carrie Rickey</critic>
+      </review>
+      <review>
+         <snippet>The movie has a centerfold sheen to it--and some lesbianic soft-core flirtation to match--as its plot dives deeply into "Twilight"-esque heavy-melo meltdown in the last act. Cody throws one too many losses at Needy; the screenwriter loses her satiric way about halfway through. But for a while, this has real fangs.</snippet>
+         <url>http://newyork.timeout.com/articles/film/78622/jennifers-body-film-review</url>
+         <critic>Joshua Rothkopf</critic>
+      </review>
+      <review>
+         <snippet>Admittedly, this is the stuff of lurid adolescent distraction, not great cinema. Jennifer's Body is strictly a niche item but provides a goofy, campy bookend to "Drag Me to Hell" on the B-movie shelf. Watch it, forget it, move on.</snippet>
+         <url>http://www.washingtonpost.com/gog/movies/jennifers-body,1156228/critic-review.html#reviewNum1</url>
+         <critic>Ann Hornaday</critic>
+      </review>
+      <review>
+         <snippet>Fox is fun as a demonic harpy, but sadly the meeting of Hollywood’s two rock’n’roll queens is closer to safe studio product than slash-and-burn envelope-pusher.</snippet>
+         <url>http://www.empireonline.com/reviews/reviewcomplete.asp?FID=135339</url>
+         <critic>Nick de Semlyen</critic>
+      </review>
+      <review>
+         <snippet>Performances are for the most part strong, especially Seyfried's, and Kusama uses Fox well, making the most of the actress' blank-eyed arrogance. It's not a performance that suggests a lot of range, but it's fun to watch.</snippet>
+         <url>http://www.oregonlive.com/movies/index.ssf/2009/09/movie_review_trying_too_hard_f.html</url>
+         <critic>M. E. Russell</critic>
+      </review>
+      <review>
+         <snippet>Enjoy the film for its witty dialogue and fun performances, but know that there isn't a single good scare. An episode of "Murder, She Wrote" has more thrills.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2009/09/17/MVM219NK8K.DTL&amp;type=movies</url>
+         <critic>Peter Hartlaub</critic>
+      </review>
+      <review>
+         <snippet>The one perfect aspect of Jennifer's Body is its title: No one is going to like this movie for its brain.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-jennifers-body-review,0,4558176.story</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>Diablo Cody's glib teen-hip dialogue mostly feels like self-conscious splatter over a sorely lackluster scare flick.</snippet>
+         <url>http://www.latimes.com/entertainment/news/reviews/la-et-capsules18-2009sep18,0,3567906.story</url>
+         <critic>Robert Abele</critic>
+      </review>
+      <review>
+         <snippet>You ought to have a movie that's both smart and sexy. But Jennifer's Body is neither. Most damning of all, it's not scary.</snippet>
+         <url>http://www.stltoday.com/stltoday/entertainment/reviews.nsf/movie/story/A7CD55344A77EECB862576330069E8A3?OpenDocument</url>
+         <critic>Joe Williams</critic>
+      </review>
+      <review>
+         <snippet>A campy pastiche of horror and high-school movie cliches, the film only rises above standard-issue scare fare by dint of Cody's sneaky sense of humor.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film-reviews/jennifer-s-body-film-review-1004011124.story</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>The movie’s partially redeemed by Seyfried, who makes her character more than a repository for audience sympathy. (Her make-out scene with Fox is handled with more suspense and care than anything else in the movie.)</snippet>
+         <url>http://featuresblogs.chicagotribune.com/talking_pictures/</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>Jennifer's Body is not as hot as you hope it would be.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2009-09-17-jennifers-body_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>Words and story are still the lifeblood of a movie, and Jennifer's Body is filled like a Twinkie with half-fleshed-out ideas.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2009/09/17/2009-09-17_jennifers_body_megan_fox_zombie_horror_satire_needs_more_fleshing_out.html</url>
+         <critic>Joe Neumaier</critic>
+      </review>
+      <review>
+         <snippet>An attempt to infuse some girl power into their mash-up of cheeky horror films and teen-angst movies. The result is more mash than smash as Jennifer’s Body squanders its initial good will by failing to deliver the goods on either score.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A853913</url>
+         <critic>Marjorie Baumgarten</critic>
+      </review>
+      <review>
+         <snippet>This high school horror romp tackles its bad-girl-gone-really-bad premise with eye-rolling obviousness and, fatally, a near-total absence of real scares.</snippet>
+         <url>http://www.variety.com/review/VE1117941001.html?categoryid=31&amp;cs=1</url>
+         <critic>Justin Chang</critic>
+      </review>
+      <review>
+         <snippet>Jennifer’s Body falls into the dispiriting category of dumb movies made by smart people, in this case a glibly clever writer and a talented director who think a few wisecracks are enough to subvert the teen horror genre.</snippet>
+         <url>http://www.boston.com/ae/movies/articles/2009/09/18/fox_cant_heat_up_body/</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>Cody’s script fails in the fundamentals.</snippet>
+         <url>http://www.avclub.com/articles/jennifers-body,33014/</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>Overall, though, the flashes of competence just emphasize the extent to which the film has no idea what it's doing.</snippet>
+         <url>http://www.chicagoreader.com/chicago/MovieTimes?oid=977835</url>
+         <critic>Noah Berlatsky</critic>
+      </review>
+      <review>
+         <snippet>Jennifer's Body mixes, matches, and crosses three popular genres: horror, comedy, and teen angst. Unfortunately, it fails at all of them - and "fails" might be too kind a term.</snippet>
+         <url>http://www.reelviews.net/php_review_template.php?identifier=1795</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>So contemptuous toward its own characters, and its audience, that it chokes off any visceral thrills it might have offered. The movie substitutes calculation for brains, and the filmmakers seem to think we'll all be too stupid to notice.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2009/09/18/jennifers_body/index.html</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>This is the sophomore production from "Juno" screenwriter Diablo Cody, similarly told through ultra-stylized slangy teen dialogue, which is cool, in theory, in the way it respects the verbal resourcefulness of idle flyover kids, but is excruciating to listen to in actual fact.</snippet>
+         <url>http://www.villagevoice.com/2009-09-15/film/jennifer-s-body-eats-men-forces-awkward-teen-dialogue/</url>
+         <critic>Nick Pinkerton</critic>
+      </review>
+   </reviews>
+   <US_Gross>$16,204,793</US_Gross>
+   <production_budget>$16,000,000</production_budget>
+   <weekend_gross>$6,868,397</weekend_gross>
+   <number_of_screens>2,702</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Children of Men</name>
+   <company>Universal Pictures</company>
+   <genres>
+      <genre>Adventure</genre>
+      <genre>Drama</genre>
+      <genre>Scifi</genre>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>Alfonso Cuarón, Timothy J. Sexton, David Arata, Mark Fergus and Hawk Ostby</author>
+      <author>P.D. James</author>
+   </authors>
+   <directors>
+      <director>Alfonso Cuarón</director>
+   </directors>
+   <origins>
+      <origin>UKUSA</origin>
+   </origins>
+   <actors>
+      <actor>Clive Owen</actor>
+      <actor>Julianne Moore</actor>
+      <actor>Michael Caine</actor>
+      <actor>Chiwetel Ejiofor</actor>
+      <actor>Charlie Hunnam</actor>
+      <actor>Claire-Hope Ashitey</actor>
+      <actor>Pam Ferris</actor>
+      <actor>Danny Huston</actor>
+   </actors>
+   <release_date>December 25, 2006</release_date>
+   <running_time>109</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>Made with palpable energy, intensity and excitement, it compellingly creates a world gone mad that is uncomfortably close to the one we live in. It is a "Blade Runner" for the 21st century, a worthy successor to that epic of dystopian decay</snippet>
+         <url>http://www.calendarlive.com/printedition/calendar/cl-et-children22dec22,0,1800835.story</url>
+         <critic>Kenneth Turan</critic>
+      </review>
+      <review>
+         <snippet>It's a heartbreaking, bullet-strewn valentine to what keeps us human.</snippet>
+         <url>http://www.avclub.com/content/node/56889</url>
+         <critic>Keith Phipps</critic>
+      </review>
+      <review>
+         <snippet>Children of Men is a nativity story for the ages, this or any other.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20061222.wmen22/BNStory/Entertainment/home</url>
+         <critic>Rick Groen</critic>
+      </review>
+      <review>
+         <snippet>I don't just mean it's one of the best movies of the past six years. Children of Men, based on the 1992 novel by P.D. James, is the movie of the millennium because it's about our millennium, with its fractured, fearful politics and random bursts of violence and terror.</snippet>
+         <url>http://www.slate.com/id/2155950</url>
+         <critic>Dana Stevens</critic>
+      </review>
+      <review>
+         <snippet>Children of Men may be something of a bummer, but it’s the kind of glorious bummer that lifts you to the rafters, transporting you with the greatness of its filmmaking.</snippet>
+         <url>http://movies2.nytimes.com/2006/12/25/movies/25chil.html?ref=movies</url>
+         <critic>Manohla Dargis</critic>
+      </review>
+      <review>
+         <snippet>Working with his longtime cinematographer Emmanuel "Chivo" Lubezki, Cuaron creates the most deeply imagined and fully realized world to be seen on screen this year, not to mention bravura sequences that bring to mind names like Orson Welles and Stanley Kubrick.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1113091&amp;categories=Movies&amp;nm=1</url>
+         <critic>Ann Hornaday</critic>
+      </review>
+      <review>
+         <snippet>This is an extraordinary artistic breakthrough from a Mexican director who was already fearlessly good to begin with.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=8197</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>Children of Men is Cuarón's run for freedom, with a riveting story, fantastic action scenes and acting so universally solid that even the dogs perform masterfully under his direction.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2006/12/25/DDGA9N4F0U1.DTL&amp;Type=movies</url>
+         <critic>Peter Hartlaub</critic>
+      </review>
+      <review>
+         <snippet>It's a work of art that deserves a space cleared for its angry, nervous beauty.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1573693_1_0_,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>At times the film is so supercharged that it glosses over the story's thematic richness and turns into a very high-grade action picture. But if that's the worst thing you can say about a movie, you're doing all right. The best thing to be said about Children of Men is that it's a fully imagined vision of dystopia.</snippet>
+         <url>http://www.csmonitor.com/2007/0105/p16s01-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>The performances are crucial, because all of these characters have so completely internalized their world that they make it palpable, and themselves utterly convincing.</snippet>
+         <url>http://www.rogerebert.com/apps/pbcs.dll/article?AID=/20071004/REVIEWS/710040307/1023</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>It's a measure of Cuarón's directorial chops that Children of Men functions equally well as fantasy and thriller. Like Spielberg's "War of the Worlds" and the Wachowski Brothers' "V for Vendetta" (and more consistently than either), the movie attempts to fuse contemporary life with pulp mythology.</snippet>
+         <url>http://www.villagevoice.com/film/0651,hoberman,75337,20.html</url>
+         <critic>J. Hoberman</critic>
+      </review>
+      <review>
+         <snippet>One of the year's most imaginative and uniquely exciting pieces of cinema.</snippet>
+         <url>http://www.laweekly.com/film+tv/film/dont-stop-thinking-about-tomorrow/15242/</url>
+         <critic>Scott Foundas</critic>
+      </review>
+      <review>
+         <snippet>It is that rare futuristic thriller: grim in its scenario, yet exhilarating in its technique.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-061225-movies-review-children,0,1083383.story?coll=mmx-movies_top_heds</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>It depicts a world close enough to our own to be terrifying, yet different enough to rouse curiosity.</snippet>
+         <url>http://ae.charlotte.com/entertainment/ui/charlotte/movie.html?id=780539&amp;reviewId=22036&amp;startDate=NEXT7</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>Children of Men is thrilling, both for its groundbreaking style (there are action sequences here unlike any filmed before) and its complex, vividly realized ideas.</snippet>
+         <url>http://ae.charlotte.com/entertainment/ui/charlotte/movie.html;jsessionid=B663D0F01B55B478F60C1041A098B30A.prodapp15_ae_02?id=780539&amp;reviewId=22052</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>A chase movie, a spy movie, a futuristic thriller full of colorfully bizarre characters and deftly choreographed stunt work, Children of Men works on multiple levels - as action and allegory.</snippet>
+         <url>http://ae.charlotte.com/entertainment/ui/charlotte/movie.html?id=780539&amp;reviewId=22044</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>It's the rare sci-fi film that transcends its genre with its ideas, able to sweep one up in its not-too-distant future and yet remain remarkably prescient about the present day.</snippet>
+         <url>http://www.premiere.com/moviereviews/3359/children-of-men.html</url>
+         <critic>Stephen Saito</critic>
+      </review>
+      <review>
+         <snippet>Cuarón has a gift only the greatest filmmakers share: He makes you believe.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/7405482/review/12987116/children_of_men</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>Children of Men is a bouillabaisse of up-to-the-minute terrors. It's a wow, though.</snippet>
+         <url>http://nymag.com/movies/reviews/26018/</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>It's a film that you need to see, not a film that you especially want to.</snippet>
+         <url>http://www.newyorker.com/critics/cinema/?070108crci_cinema</url>
+         <critic>Anthony Lane</critic>
+      </review>
+      <review>
+         <snippet>A solemn, haunting picture, but it's also a thrilling one, partly because of the sheer bravado with which it's made. It left me feeling more fortified than drained. Cuarón, the most openhearted of directors, prefers to give rather than take away.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2006/12/25/children/index.html</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>Picture more than delivers on the action front -- not in bang-for-your-buck spectacle but in the kind of gritty, doculike sequences that haul viewers out of their seats and alongside the main protags.</snippet>
+         <url>http://www.variety.com/awardcentral_review/VE1117931450.html?nav=reviews07&amp;categoryid=2352&amp;cs=1&amp;p=0</url>
+         <critic>Derek Elley</critic>
+      </review>
+      <review>
+         <snippet>Owen carries the film more in the tradition of a Jimmy Stewart or Henry Fonda than a Clint Eastwood or Harrison Ford. He has to wear flip-flops for part of the time without losing his dignity, and he never reaches for a weapon or guns anyone down. Cuaron and Owen may have created the first believable 21st-century movie hero.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/search/article_display.jsp?vnu_content_id=1003086948</url>
+         <critic>Ray Bennett</critic>
+      </review>
+      <review>
+         <snippet>A visually stunning Swiftian satire, Children Of Men may appear clumsy, but its message is simple, heartfelt and ultimately rather moving.</snippet>
+         <url>http://www.empireonline.com/reviews/review.asp?DVDID=117480</url>
+         <critic>Damon Wise</critic>
+      </review>
+      <review>
+         <snippet>As all his films have shown, Cuarón is clearly one of the most original filmmakers working today, and Children of Men should solidify his place at the top of those ranks. With a great script, there should be no stopping him.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A432924</url>
+         <critic>Marjorie Baumgarten</critic>
+      </review>
+      <review>
+         <snippet>Children of Men has some magnificent moments of moviemaking and is thoroughly infused with just the atmosphere Cuaron has aimed for. But it's so streamlined in its storytelling and unvarying in its tone that it's more deadening than transporting.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/1167875719323660.xml&amp;coll=7</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>Although imperfect, it's engaging, thought-provoking stuff.</snippet>
+         <url>http://www.reelviews.net/movies/c/children_men.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>An exhilarating sci-fi action thriller with a powerful social and political message.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2006-12-21-children-of-men_x.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>Cuarón relies on his ample visual style, and he has indeed created a film you cannot tear your eyes away from.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/moviereviews/story/483143p-406694c.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>The screenplay, which differs significantly from the novel, is uneven, but the distorted mirror it holds up to the present is disturbingly clear.</snippet>
+         <url>http://tvguide.com/detail/movie.aspx?tvobjectid=282032&amp;more=ucmoviereview</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>The problem with the film, despite the genius of craftmanship and cinematography, is that the film doesn't really have anything new to say.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=9508</url>
+         <critic>Mark Bell</critic>
+      </review>
+      <review>
+         <snippet>The film gradually devolves into action-adventure, then the equivalent of a war movie. But the filmmaking is pungent throughout, and the first half hour is so jaw-dropping in its fleshed-out extrapolation that Cuaron earns the right to coast a bit.</snippet>
+         <url>http://www.chicagoreader.com/features/stories/moviereviews/2007/070105/</url>
+         <critic>Jonathan Rosenbaum</critic>
+      </review>
+      <review>
+         <snippet>Children of Men leaves too many questions unanswered, yet it has a stunning visceral impact. You can forgive a lot in the face of filmmaking this dazzling.</snippet>
+         <url>http://www.msnbc.msn.com/id/16115744/site/newsweek/page/2/</url>
+         <critic>David Ansen</critic>
+      </review>
+      <review>
+         <snippet>As great as the film looks, the story, adapted from a novel by P.D. James, never quite comes into focus.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-to.children05jan05,0,6119307.story?coll=bal-artslife-movies</url>
+         <critic>Chris Kaltenbach</critic>
+      </review>
+      <review>
+         <snippet>As exciting and disturbing as it is in many ways, Children of Men -- based on a novel by P.D. James -- doesn't add up to a credible alternate view of the near-future: Its vision hasn't been well thought out, and, again and again, it struck me as a sloppy piece of storytelling.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/296992_children25q.html</url>
+         <critic>William Arnold</critic>
+      </review>
+      <review>
+         <snippet>Director Alfonso Cuarón has a vision so mesmerizingly terrible that it alone - at least, for those who enjoy a gorgeous nightmare - is reason enough to see the film.</snippet>
+         <url>http://www.nypost.com/seven/12222006/entertainment/movies/from_here_to_no_maternity_movies_kyle_smith.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>Bloated adaptation of P.D. James's thoughtful, compact novel.</snippet>
+         <url/>
+         <critic>Joe Morgenstern</critic>
+      </review>
+   </reviews>
+   <US_Gross>$35,552,383</US_Gross>
+   <production_budget>$76,000,000</production_budget>
+   <weekend_gross>$1,082,804</weekend_gross>
+   <number_of_screens>16</number_of_screens>
+   <highest_grossing_actors_present/>
+   <num_highest_grossing_actors>1</num_highest_grossing_actors>
+   <highest_grossing_actor>michael caine</highest_grossing_actor>
+   <summer_release>false</summer_release>
+   <christmas_release>true</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

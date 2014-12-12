@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Adventureland</name>
+   <company>Miramax Films</company>
+   <genres>
+      <genre>Comedy</genre>
+   </genres>
+   <authors>
+      <author>Greg Mottola</author>
+   </authors>
+   <directors>
+      <director>Greg Mottola</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Jesse Eisenberg</actor>
+      <actor>Ryan Reynolds</actor>
+      <actor>Kristen Stewart</actor>
+      <actor>Martin Starr</actor>
+      <actor>Paige Howard</actor>
+      <actor>Kristen Wiig</actor>
+      <actor>Bill Hader</actor>
+      <actor>Margarita Levieva</actor>
+   </actors>
+   <release_date>April 3, 2009</release_date>
+   <running_time>107</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>A sweet, sharp coming-of-age romance, Adventureland is a little warmer, a little funnier and a lot more truthful than the last 20 or 30 of its ilk. Especially its Hollywood ilk.</snippet>
+         <url>http://www.chicagotribune.com/entertainment/movies/chi-tc-mov-adventureland-review-apr01,0,2663188.story</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>Jesse Eisenberg stars as a kinder, gentler version of the insufferable faux intellectual he played in "The Squid And The Whale."</snippet>
+         <url>http://www.avclub.com/articles/adventureland,26073/</url>
+         <critic>Nathan Rabin</critic>
+      </review>
+      <review>
+         <snippet>For nostalgia junkies, it's one from the heart.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20269287,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>A young adult romantic comedy with a sweetness and delicacy that lifts it out of its genre.</snippet>
+         <url>http://www.csmonitor.com/2009/0403/p17s01-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>Has the note-perfect melancholy of a classic young adult novel.</snippet>
+         <url>http://www.slate.com/id/2215272/</url>
+         <critic>Dana Stevens</critic>
+      </review>
+      <review>
+         <snippet>Thanks to an exceptionally deft touch, Mottola manages to capture the absurdity and anguish of young adulthood, while never sacrificing meaning on the altar of crude humor.</snippet>
+         <url>http://www.washingtonpost.com/gog/movies/adventureland,1156004.html</url>
+         <critic>Ann Hornaday</critic>
+      </review>
+      <review>
+         <snippet>I've seen Mottola's movie twice, and both times, it has inspired feelings of joy, sadness, and a profound yearning for the unrecoverable past.</snippet>
+         <url>http://www.villagevoice.com/2009-04-01/film/the-summer-of-our-80s-youth-in-adventureland/</url>
+         <critic>Scott Foundas</critic>
+      </review>
+      <review>
+         <snippet>On the surface, this might look like a typical teen movie, but Adventureland’s talented cast perfectly portrays the self-loathing and strong-minded characters in that transient post-college stage of life.</snippet>
+         <url>http://www.premiere.com/Review/Movies/Adventureland</url>
+         <critic>Krista Soriano</critic>
+      </review>
+      <review>
+         <snippet>The result is a sharp, insightful, charming motion picture.</snippet>
+         <url>http://www.reelviews.net/php_review_template.php?identifier=1558</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>The details are true and funny, played brilliantly.</snippet>
+         <url>http://www.nypost.com/seven/04032009/entertainment/movies/amusement_park_lark_162689.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>A bittersweet joy. Its humor and romance are refreshing because the writer-director, Greg Mottola, realizes that maturity is a two-steps-forward, one-step-backward process.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/reviews/bal-to.adventureland03apr03,0,3918715.story</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>Infinitely charming new romantic comedy.</snippet>
+         <url>http://www.newyorker.com/arts/critics/cinema/2009/04/13/090413crci_cinema_denby</url>
+         <critic>David Denby</critic>
+      </review>
+      <review>
+         <snippet>What makes the movie such an unexpectedly potent little number is that Adventureland comes to stand for Stagnationland; the real roller coaster (i.e., life) is just outside the park.</snippet>
+         <url>http://nymag.com/movies/reviews/55663/</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>With a keen affection for his own formative years, filmmaker Greg Mottola has crafted a funny and spunky amusement</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film-reviews/film-review-adventureland-1003932191.story</url>
+         <critic>Duane Byrge</critic>
+      </review>
+      <review>
+         <snippet>Greg Mottola has taken that most overdone of contemporary genres, the coming-of-age story, and made it engaging, bittersweet and even fun.</snippet>
+         <url>http://www.latimes.com/entertainment/la-et-adventureland3-2009apr03,0,3900231.story</url>
+         <critic>Kenneth Turan</critic>
+      </review>
+      <review>
+         <snippet>Somehow the story of a young man's coming of age never gets old, at least when it is told with the kind of sweetness and intelligence Adventureland displays.</snippet>
+         <url>http://movies.nytimes.com/2009/04/03/movies/03adve.html</url>
+         <critic>A.O. Scott</critic>
+      </review>
+      <review>
+         <snippet>A confident return to the kind of teen comedy that's funny without being raunchy, youthful without being juvenile, and reflective without hitting you over the head.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A760629</url>
+         <critic>Marjorie Baumgarten</critic>
+      </review>
+      <review>
+         <snippet>Mottola also wrote the screenplay, which is most fresh and honest when dealing with supporting characters.</snippet>
+         <url>http://events.charlotteobserver.com/reviews/show/43302-review-adventureland</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>What surprised me was how much I admired Kristen Stewart, who in "Twilight," was playing below her grade level. Here is an actress ready to do important things. Together, and with the others, they make Adventureland more real and more touching than it may sound.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20090331/REVIEWS/903319997</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>Mottola softens his approach, and Adventureland turns out to be more like "Nick and Nora's Infinite Playlist" than a Judd Apatow creation.</snippet>
+         <url>http://www.miamiherald.com/entertainment/movies/reviews/story/980164.html</url>
+         <critic>Connie Ogle</critic>
+      </review>
+      <review>
+         <snippet>Mixes the intimate, indie vibe of "Daytrippers" with the absurdist screwball streak of "Superbad," to winning effect.</snippet>
+         <url>http://www.philly.com/inquirer/columnists/steven_rea/20090403_Coming_of_age_at_a_rundown_amusement_park.html</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>The laughs in Adventureland aren't as outlandish as those in "Superbad," but they seem more based in experience and truth. You could want something more raucous, I suppose, but that wouldn't necessarily be an improvement.</snippet>
+         <url>http://blog.oregonlive.com/madaboutmovies/2009/04/review_adventureland_rollercoa.html</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>This film makes you wonder why aren't there more young love movies?</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2009/04/02/MVR216RHIV.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>Delightful because it's intensely sincere.</snippet>
+         <url>http://movies.tvguide.com/adventureland/review/296964</url>
+         <critic>Cammila Albertson</critic>
+      </review>
+      <review>
+         <snippet>Yes, the delight of this movie lies in these devilish details, and it's clear that writer-director Greg Mottola knows them well.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20090402.wadventure0403/BNStory/Entertainment/home</url>
+         <critic>Rick Groen</critic>
+      </review>
+      <review>
+         <snippet>Mottola (who also wrote the script) and his actors manage to shape the movie into something whole and tangible, capturing, among other things, the shapeless listlessness of summer, especially at that age when you're technically an adult and yet you're left waiting for life to begin.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2009/04/03/adventureland/index.html</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>Funny, smart, and complacent.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/34232_ADVENTURELAND.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>A rather ordinary account of youthful summer misadventures that goes down easily thanks to a sparky cast, more than 40 pop tunes that anchor the action in the late '80s and characters who get high both on and off their jobs at a tacky amusement park.</snippet>
+         <url>http://www.variety.com/review/VE1117939406.html?categoryid=31&amp;cs=1&amp;query=adventureland</url>
+         <critic>Todd McCarthy</critic>
+      </review>
+      <review>
+         <snippet>Adventureland throws a lot at us, but not enough of it sticks.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/24470059/review/27182486/adventureland</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>Mottola, who wrote and directed 1996's "The Daytrippers," crafts smart, witty dialogue. But the movie suffers in tone. While much of the story feels like a brainier John Hughes comedy, it veers into more dramatic terrain and loses focus.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2009-04-02-adventureland_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>Adventureland has the structure of a Tilt-a-Whirl ride: It goes where you expect, and may fill you with dread.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2009/04/03/2009-04-03_advertureland_is_a_charming_tiltawhirl_o.html</url>
+         <critic>Joe Neumaier</critic>
+      </review>
+      <review>
+         <snippet>What separates Adventureland from something like "Garden State" is a commitment to realism and plausibility. In fact, at times, it is almost too realistic given the location's inherent value as a comic prop. For a film set primarily in an amusement park, it isn't terribly amusing.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=11664</url>
+         <critic>Scott Mendelson</critic>
+      </review>
+      <review>
+         <snippet>There's no shortage of felicitous lines or interesting performances, yet the movie, like the amusement park of its title, feels constructed from familiar parts.</snippet>
+         <url>http://online.wsj.com/article/SB123870443126983769.html</url>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>Harmless enough, but "indie comedy" sounds like something better seen at Urban Outfitters than at a movie theater.</snippet>
+         <url>http://www.boston.com/ae/movies/articles/2009/04/03/a_fairly_safe_ride/</url>
+         <critic>Wesley Morris</critic>
+      </review>
+   </reviews>
+   <US_Gross>$16,044,025</US_Gross>
+   <weekend_gross>$5,722,039</weekend_gross>
+   <number_of_screens>1,862</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

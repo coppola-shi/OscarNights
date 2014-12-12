@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Fred Claus</name>
+   <company>Warner Bros. Pictures</company>
+   <genres>
+      <genre>Comedy</genre>
+   </genres>
+   <authors>
+      <author>Dan Fogelman</author>
+      <author>Jessie Nelson</author>
+   </authors>
+   <directors>
+      <director>David Dobkin</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Vince Vaughn</actor>
+      <actor>Paul Giamatti</actor>
+      <actor>Mira Richardson</actor>
+      <actor>Kevin Spacey</actor>
+      <actor>Kathy Bates</actor>
+      <actor>Rachel Weisz</actor>
+      <actor>John Michael Higgins</actor>
+      <actor>Ludacris</actor>
+   </actors>
+   <release_date>November 9, 2007</release_date>
+   <running_time>116</running_time>
+   <rating>PG</rating>
+   <reviews>
+      <review>
+         <snippet>Silly, heartwarming, and fun.</snippet>
+         <url>http://www.premiere.com/moviereviews/4228/fred-claus.html</url>
+         <critic>Laura Repstad</critic>
+      </review>
+      <review>
+         <snippet>Overall the movie is a mess, with a mixed-up mythology at its core. It may not be a new holiday classic, but at least it's funny.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/338847_claus09q.html</url>
+         <critic>Andy Spletzer</critic>
+      </review>
+      <review>
+         <snippet>Fred Claus sells you something you didn't know you wanted: a Vince Vaughn Christmas movie. Vaughn is not the hook. Neither is the holiday. The script, by Dan Fogelman, is smarter than that.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=9431</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>The sweetest thing about Fred Claus is that the message about filial love feels genuine. I wouldn't have expected that watching Giamatti tell Vaughn, "You're the best big brother anyone could ask for," would make me choke up, but it did.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-claus9nov09,0,7736793.story?coll=cl-mreview</url>
+         <critic>Carina Chocano</critic>
+      </review>
+      <review>
+         <snippet>Deftly blending disrespect and good nature, Fred Claus is a gas.</snippet>
+         <url>http://www.laweekly.com/film+tv/film-reviews/film-reviews-choking-man-fred-claus-p2-steal-a-pencil-for-me/17622/</url>
+         <critic>Ella Taylor</critic>
+      </review>
+      <review>
+         <snippet>Fred Claus seems a clever installment, not a seasonal classic, a buffet whose many nibbles you sample, move on and quickly forget.</snippet>
+         <url>http://chicago.metromix.com/movies/movie_review/movie-review-fred-claus/247690/content</url>
+         <critic>Sid Smith</critic>
+      </review>
+      <review>
+         <snippet>The movie wants to be good-hearted but is somehow sort of grudging. It should have gone all the way. I think Fred Claus should have been meaner if he was going to be funnier, and Santa should have been up to something nefarious, instead of the jolly old ho-ho-ho routine.</snippet>
+         <url>http://www.rogerebert.com/apps/pbcs.dll/article?AID=/20071108/REVIEWS/711080302/1023</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>Fred Claus is less enchanting than the 2003 fairy tale, "Elf" (which was directed by Vaughn's good buddy, Jon Favreau), but no worse than the inexplicably popular Tim Allen series.</snippet>
+         <url>http://www.reelviews.net/movies/f/fred_claus.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>Leave it to Giamatti to bring gravitas to the fat guy in the red suit; he's naturally the straight man in the sibling duo, but whenever Fred Claus goes for the heartstrings, he's the only one capable of plucking in tune.</snippet>
+         <url>http://www.avclub.com/content/cinema/fred_claus</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>Yet another ho-hum family comedy hits screens this weekend -- this one in peppermint holiday flavor.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2007-11-08-fred-claus_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>Fred Claus does feature some very nicely groomed reindeer, a far cry from those patchy, depressed-looking creatures you see every holiday season at the petting zoo. They're prancing and dancing as fast as they can, but they can't pull Fred Claus from the rut it's in.</snippet>
+         <url>http://salon.com/ent/movies/review/2007/11/09/fred_claus/</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>Neither here nor there, the film is “Elf” without the goofy jokes, Will Ferrell or heart, “Bad Santa” without the smut, Billy Bob Thornton or spleen.</snippet>
+         <url>http://movies.nytimes.com/2007/11/09/movies/09fred.html?ref=movies</url>
+         <critic>Manohla Dargis</critic>
+      </review>
+      <review>
+         <snippet>Like so many secular, big-studio Christmas comedies, this isn't naughty enough to be funny or nice enough to be uplifting; it's just an ugly sweater from a distant relative, thoughtlessly sent and destined to be thrown away.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/32391_FRED_CLAUS.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>As for Vaughn, he seems exhausted by his strenuous efforts to bring a few sparks of spontaneity to such an overcalculated Christmas product.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20071108.claus09nat/BNStory/Entertainment/home</url>
+         <critic>Stephen Cole</critic>
+      </review>
+      <review>
+         <snippet>Freely mixing reality therapy, fairy tale and satire, Dobkin's film does not maintain a consistent tone. Is it a seriocomedy about brothers who need to work on unfinished business? Is it a holiday fable about a Scrooge who comes to surf the yuletide? Is it a satire in which an efficiency expert (Kevin Spacey) puts pressure on St. Nick to outsource gift allocation and distribution?</snippet>
+         <url>http://www.philly.com/philly/entertainment/movies/20071109_Big_brother_Fred__the_Claus_with_the_flaws.html</url>
+         <critic>Carrie Rickey</critic>
+      </review>
+      <review>
+         <snippet>The surprisingly puny haul comes from the jolly, usually sparkling comedy workshop of David Dobkin, who directed "Wedding Crashers," and Dan Fogelman, who wrote "Cars" -- two great movies that both make better stocking stuffers.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20158290,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>The movie has a terrible premise compounded by a lame script and the miscasting of its surfeit of talented stars. You have to wonder why Dobkin, whose last film was the hilariously raunchy "Wedding Crashers," would be attracted to this tame material.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2007/11/09/2007-11-09_no_hohoho_at_this_north_pole.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>The movie is less ho-ho-ho than uh-oh, or oh-no. Emitting a stale odor from the first reel, Fred never engaged the audience of kids and adults that I saw it with.</snippet>
+         <url>http://www.time.com/time/arts/article/0,8599,1682804,00.html</url>
+         <critic>Richard Corliss</critic>
+      </review>
+      <review>
+         <snippet>It creates a seasonal glow, but inconsistencies keep Fred Claus off the ‘Nice’ list this Christmas.</snippet>
+         <url>http://www.empireonline.com/reviews/reviewcomplete.asp?FID=133538</url>
+         <critic>William Thomas</critic>
+      </review>
+      <review>
+         <snippet>The exceptional cast--Vaughn, Giamatti, Kathy Bates, Kevin Spacey, Rachel Weisz--is an embarrassment of riches for a script this thin and this beholden to family-fare protocol, with its mushy-minded moral and slick sentimentality.</snippet>
+         <url>http://www.villagevoice.com/film/0745,halter,78259,20.html</url>
+         <critic>Michelle Orange</critic>
+      </review>
+      <review>
+         <snippet>The film isn't just not funny, it is off-putting.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?JSESSIONID=N2lLHwcVGJ1tq6nQSvnQQDJhWj9XZh9cTv16GVKQ788W4vtjys5M!-2082568135&amp;&amp;rid=10154</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>Alternates between unpleasantness and Hallmark-sweet sappiness.</snippet>
+         <url>http://www.variety.com/review/VE1117935327.html?categoryid=31&amp;cs=1</url>
+         <critic>Brian Lowry</critic>
+      </review>
+      <review>
+         <snippet>The story vacillates between broad, kid-friendly gags and a series of oddly sour riffs on the theme of adult sibling rivalry.</snippet>
+         <url>http://www.tvguide.com/movies/fred-claus/review/291104</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>A lackluster holiday-theme comedy featuring production design half a notch above a snow globe and a star who doesn't so much act as revive a well-worn persona.</snippet>
+         <url>http://www.miamiherald.com/1054/story/300079.html</url>
+         <critic>Carla Meyer</critic>
+      </review>
+      <review>
+         <snippet>Is there anything more pathetic than a movie that will do anything for a laugh or a tear that doesn't get any laughs or tears?</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-to.freddead09nov09,0,810899.story</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>Few things are more dispiriting than a holiday movie straining to become a perennial. Such is the case with Fred Claus, an insipid Christmas comedy.</snippet>
+         <url>http://www.csmonitor.com/2007/1109/p15s01-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>Vaughn's con-man jive doesn't get much play in this one; he spends most of his time as a bitter creep, and the writing (by Dan Fogelman) isn't sharp enough to make the hipster-at-the-North-Pole theme pay off in any meaningful way.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1133808&amp;categories=Movies&amp;nm=1</url>
+         <critic>Stephen Hunter</critic>
+      </review>
+      <review>
+         <snippet>Fred Claus is belligerently unfunny.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=10412</url>
+         <critic>Pete Vonder Haar</critic>
+      </review>
+      <review>
+         <snippet>This is just plain bad - and it's a surprise.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2007/11/09/DDG9T6SLM.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>Fred Claus is sadly just an early lump of coal under the tree.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A557866</url>
+         <critic>Toddy Burton</critic>
+      </review>
+      <review>
+         <snippet>Not like a lump of coal in your stocking. Coal is useful; you can burn it. This movie is more like a lump of something Blitzen left behind after eating a lot of Mexican food.</snippet>
+         <url>http://www.nypost.com/seven/11092007/entertainment/movies/claus_for_alarm_149226.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+   </reviews>
+   <US_Gross>$72,006,777</US_Gross>
+   <weekend_gross>$18,515,473</weekend_gross>
+   <number_of_screens>3,603</number_of_screens>
+   <oscar_winning_actors_present/>
+   <num_oscar_winning_actors>2</num_oscar_winning_actors>
+   <oscar_winning_actor>kevin spacey</oscar_winning_actor>
+   <oscar_winning_actor>kathy bates</oscar_winning_actor>
+   <highest_grossing_actors_present/>
+   <num_highest_grossing_actors>1</num_highest_grossing_actors>
+   <highest_grossing_actor>kathy bates</highest_grossing_actor>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

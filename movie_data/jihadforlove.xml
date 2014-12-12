@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Jihad for Love, A</name>
+   <company>First Run Features</company>
+   <genres>
+      <genre>Documentary</genre>
+   </genres>
+   <authors>
+      <author>Parvez Sharma</author>
+   </authors>
+   <directors>
+      <director>Parvez Sharma</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Muhsin Hendricks</actor>
+      <actor>A.K. Hoosen</actor>
+      <actor>Mazen</actor>
+      <actor>Abdellah Taia</actor>
+   </actors>
+   <release_date>May 21, 2008</release_date>
+   <running_time>81</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>Noble in intention but crude in execution.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20201959,00.html</url>
+         <critic>Chris Nashawaty</critic>
+      </review>
+      <review>
+         <snippet>Even though the message that people should have the right to love whomever they want is hardy groundbreaking, Parvez captures some interesting conversations about what it means to be gay and Muslim.</snippet>
+         <url>http://www.avclub.com/content/cinema/a_jihad_for_love</url>
+         <critic>Noel Murray</critic>
+      </review>
+      <review>
+         <snippet>Director Parvez Sharma, a gay Muslim himself, takes pains to show the wide range of Islam's attitudes toward homosexuality.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=11686</url>
+         <critic>Michael Hardy</critic>
+      </review>
+      <review>
+         <snippet>Often fascinating and provocative, although, as a film, it feels a bit long and somewhat repetitive.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2008/08/21/DDGV12GH2J.DTL&amp;type=movies</url>
+         <critic>David Wiegand</critic>
+      </review>
+      <review>
+         <snippet>A courageous documentary on the plight of gays in the Muslim world.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-capsules1-2008aug01,0,5038343.story</url>
+         <critic>Kevin Thomas</critic>
+      </review>
+      <review>
+         <snippet>We never learn why most of his subjects remain loyal to a faith that so explicitly rejects them.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2008/05/23/2008-05-23_short_takes_more_movies_out_this_week.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>Mr. Sharma's film emphasizes testimony over context to such a degree that it feels at first of little use to anyone except gay Muslims who might take comfort in knowing they're not alone. But the documentary gains depth of feeling as it goes and even develops something of a nail-biting narrative.</snippet>
+         <url>http://movies.nytimes.com/2008/05/21/movies/21jiha.html?ref=movies</url>
+         <critic>Nathan Lee</critic>
+      </review>
+      <review>
+         <snippet>Rich with compelling, often heartbreaking stories.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=10960</url>
+         <critic>Phil Hall</critic>
+      </review>
+      <review>
+         <snippet>Much of what is shown onscreen is atmospheric filler, while the various characters describe being made outcasts because of their sexuality while holding on to their commitment to their faith.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?&amp;rid=10617</url>
+         <critic>Ray Bennett</critic>
+      </review>
+      <review>
+         <snippet>Predicament makes the picture kin to 2001's "Trembling Before G-d," about gay Orthodox Jews. Both docs share the same fascination and limitation.</snippet>
+         <url>http://www.variety.com/index.asp?layout=festivals&amp;jump=review&amp;id=2478&amp;reviewid=VE1117934806&amp;cs=1&amp;p=0</url>
+         <critic>Dennis Harvey</critic>
+      </review>
+      <review>
+         <snippet>Muslims, Jews, and Christians may have their, oh, occasional differences, but as an Islamic scholar observes early in Parvez Sharma's documentary, there is one point on which the world's divine religions agree: Homosexuality is a crime.</snippet>
+         <url>http://www.villagevoice.com/film/0821,a-jihad-for-love,446683,20.html</url>
+         <critic>Jim Ridley</critic>
+      </review>
+      <review>
+         <snippet>Conclusions and answers are perhaps luxuries that Sharma's film can't afford.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20080718.wjihad18/BNStory/Entertainment/home</url>
+         <critic>Kamal AL-Solaylee</critic>
+      </review>
+      <review>
+         <snippet>The director raises the question that haunts the whole film: Who should feel shame: gay Muslims or the Muslims who oppress them?</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1149451&amp;categories=Movies</url>
+         <critic>Philip Kennicott</critic>
+      </review>
+      <review>
+         <snippet>Technically, Jihad's images and assemblage seem on par for a first-time filmmaker, though the film's message is a moving plaint.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A656007</url>
+         <critic>Marjorie Baumgarten</critic>
+      </review>
+   </reviews>
+   <US_Gross>$105,651</US_Gross>
+   <weekend_gross>$17,284</weekend_gross>
+   <number_of_screens>1</number_of_screens>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>true</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

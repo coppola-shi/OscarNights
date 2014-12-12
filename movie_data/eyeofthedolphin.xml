@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Eye of the Dolphin</name>
+   <company>Monterey Media</company>
+   <genres>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author>Wendell Morris</author>
+      <author>Michael D. Sellers</author>
+   </authors>
+   <directors>
+      <director>Michael D. Sellers</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Carly Schroeder</actor>
+      <actor>Jane Lynch</actor>
+      <actor>Christopher Herrod</actor>
+      <actor>Adrian Dunbar</actor>
+      <actor>George Harris</actor>
+   </actors>
+   <release_date>August 24, 2007</release_date>
+   <running_time>100</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>Eye of the Dolphin is much better than most films of this sort, and if it helps a generation of young girls want to grow up to swim with live dolphins rather than groom My Little Ponys, that's certainly not a bad thing at all.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A526575</url>
+         <critic>Marjorie Baumgarten</critic>
+      </review>
+      <review>
+         <snippet>There's real heart to be found in the story but it comes along with borderline saccharine sentimentality, a too facile ending, and clean outcomes that aren't earned.</snippet>
+         <url>http://www.reelviews.net/movies/e/eye_dolphin.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>Overly earnest and roughly constructed, the film is bearable largely thanks to the performance as the daughter by Carly Schroeder, recently seen in the girls' soccer pic, "Gracie."</snippet>
+         <url>http://www.calendarlive.com/movies/cl-et-capsules24aug24,0,4656460.story</url>
+         <critic>Staff (Not credited)</critic>
+      </review>
+      <review>
+         <snippet>There's a pleasantly dreamy quality to much of Eye of the Dolphin, and that goes a long way toward enabling audiences to ignore the formulaic plot and enjoy the laid-back charms of this innocuous indie.</snippet>
+         <url>http://www.variety.com/review/VE1117934508.html?categoryid=31&amp;cs=1</url>
+         <critic>Joe Leydon</critic>
+      </review>
+      <review>
+         <snippet>Young audiences will enjoy her journey from surly to empowered, and as countless visitors to Brookfield Zoo can attest, there's nothing like watching dolphins. So a star for Schroeder and a star for the title players.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-070824-movies-review-dolphin,0,6552748.story?coll=mmx-movies_top_heds</url>
+         <critic>Maureen M. Hart</critic>
+      </review>
+   </reviews>
+   <US_Gross>$72,210</US_Gross>
+   <weekend_gross>$37,924</weekend_gross>
+   <number_of_screens>124</number_of_screens>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

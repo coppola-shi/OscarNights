@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Producers, The</name>
+   <company>Universal Pictures</company>
+   <genres>
+      <genre>Comedy</genre>
+      <genre>Musical</genre>
+   </genres>
+   <authors>
+      <author>Mel Brooks</author>
+      <author>Thomas Meehan</author>
+   </authors>
+   <directors>
+      <director>Susan Stroman</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Nathan Lane</actor>
+      <actor>Matthew Broderick</actor>
+      <actor>Uma Thurman</actor>
+      <actor>Will Ferrell</actor>
+      <actor>Roger Bart</actor>
+      <actor>Gary Beach</actor>
+      <actor>Andrea Martin</actor>
+      <actor>Debra Monk</actor>
+   </actors>
+   <release_date>December 16, 2005</release_date>
+   <running_time>134</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>It's a classic example of how a movie can be great without, strictly speaking, being good. But when something is this funny, who wants to speak strictly?</snippet>
+         <url>http://www.csmonitor.com/2005/1216/p11s02-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>Susan Stroman directed the show on Broadway and what she has done here is photograph that show -- no more, no less. This is good news for anyone who couldn't afford a trip to New York and $100 tickets, but it's a fairly odd approach to cinema.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=7058</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>Once you drink The Producers' Kool-Aid, it's a thoroughly enjoyable descent into madness.</snippet>
+         <url>http://www.premiere.com/article.asp?section_id=2&amp;article_id=2427</url>
+         <critic>Staff (not credited)</critic>
+      </review>
+      <review>
+         <snippet>Producers hits few wrong notes on the big screen.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-ae.producers25dec25,1,1558251.story?coll=bal-artslife-movies</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>It was fun, it was funny, it was alive.</snippet>
+         <url>http://www.rogerebert.com/apps/pbcs.dll/article?AID=/20051215/REVIEWS/51213003/1023</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>It's too long to be great and it's too square to be great and it's too loud to be great and it finds homosexual effeminacy too funny to ever be called great, but I can't imagine anyone coming out sadder than they went in.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1117074&amp;lat=200.0&amp;lon=200.0&amp;displaySearchLocation=&amp;nm=1&amp;categories=Movies</url>
+         <critic>Stephen Hunter</critic>
+      </review>
+      <review>
+         <snippet>Brooks's sweetness, innocence, and boundless love of the infantile inform everything from the brassy production numbers (capped by an homage to Jailhouse Rock) to the final credits.</snippet>
+         <url>http://spacefinder.chicagoreader.com/movies/briefs/29118_PRODUCERS_2005.html</url>
+         <critic>Jonathan Rosenbaum</critic>
+      </review>
+      <review>
+         <snippet>In the end, The Producers is an enjoyable romp, and at times--as when Hitler sings "Heil Myself"--it's hilarious. But it's not transcendent.</snippet>
+         <url>http://dallasobserver.com/Issues/2005-12-22/film/film3.html</url>
+         <critic>Melissa Levine</critic>
+      </review>
+      <review>
+         <snippet>There's no attempt to address the show's endemic weak spots--a slow start and a contrived end. Mostly Stroman just lets it rip. But in some respects the movie is an improvement on the show.</snippet>
+         <url>http://www.time.com/time/magazine/article/0,9171,1139824-2,00.html</url>
+         <critic>Richard Schickel</critic>
+      </review>
+      <review>
+         <snippet>Broderick is a genuine trouper, hoofing his way through his big numbers, while Lane's antics are difficult to resist.</snippet>
+         <url>http://www.villagevoice.com/film/0550,hoberman,70940,20.html</url>
+         <critic>J. Hoberman</critic>
+      </review>
+      <review>
+         <snippet>The result is largely a giddy, goofy delight.</snippet>
+         <url>http://avclub.com/content/node/43532</url>
+         <critic>Nathan Rabin</critic>
+      </review>
+      <review>
+         <snippet>In the world of Mel Brooks, everything is fair game and anything is good for a laugh. God bless Mel Brooks.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A320941</url>
+         <critic>Steve Davis</critic>
+      </review>
+      <review>
+         <snippet>The new film is a nauseatingly unsteady medley of brilliance and foolish nonsense.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/1135117511230120.xml&amp;coll=7</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>Enough is enough. Somebody should just stop remaking The Producers.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2005-12-15-the-producers_x.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>So determinedly old-fashioned it makes a strong claim to being the best film musical of 1959.</snippet>
+         <url>http://www.variety.com/review/VE1117929080?categoryid=31&amp;cs=1</url>
+         <critic>Todd McCarthy</critic>
+      </review>
+      <review>
+         <snippet>As a chance to see the celebrated Broadway show with the original cast, this is a treat. As a re-interpretation of a classic, though, it's a disappointment.</snippet>
+         <url>http://www.empireonline.com/incinemas/ReviewComplete.asp?FID=12662</url>
+         <critic>Olly Richards</critic>
+      </review>
+      <review>
+         <snippet>Brooks gives himself the last word, appearing onscreen for the first time amid chorus girls oozing PG-13 pulchritude. "Go home!" he says. "It's over!" Could he be referring to his career?</snippet>
+         <url>http://ae.charlotte.com/entertainment/ui/charlotte/movie.html?id=502868&amp;reviewId=19781&amp;startDate=NEXT7</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>The chemistry is intact, but performances that were reaching-for-the-balcony big on Broadway haven't been scaled back a bit for a more intimate, up-close medium.</snippet>
+         <url>http://ae.charlotte.com/entertainment/ui/charlotte/movie.html?id=502868&amp;reviewId=19792</url>
+         <critic>Christine Dolan</critic>
+      </review>
+      <review>
+         <snippet>Can't find its rhythm and stride. It plays it far too safe and slick.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/253112_producers23q.html</url>
+         <critic>Paula Nechak</critic>
+      </review>
+      <review>
+         <snippet>If you have seen the play, especially if you've seen it with the original cast, treasure the memory and protect it. The movie will attack it like a virus.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/moviereviews/story/375113p-318548c.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>It's the curse of overacting and overdone shtick that does them in.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=8265</url>
+         <critic>Rory L. Aronsky</critic>
+      </review>
+      <review>
+         <snippet>The theatricality is off the charts. Lane aims for the balconies; Broderick tones it down for the camera a bit.</snippet>
+         <url>http://www.msnbc.msn.com/id/10416135/site/newsweek/</url>
+         <critic>David Ansen</critic>
+      </review>
+      <review>
+         <snippet>The best two performances belong to Uma Thurman and Will Ferrell. For the film to work, though, the two best roles should belong to Tony-winning Nathan Lane and Matthew Broderick in the title roles.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1001658225</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>The accountant in Bloom would probably approve of the new Producers: It's an efficient extension of a popular brand. In theory, what's not to like? In reality, the whole schmear.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1140759_1_0_,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>The musical film version of The Producers is, for better or worse, a faithful record of the stage production, adhering to the same if-it-ain't-broke-don't-fix-it philosophy that informed the recent "Rent."</snippet>
+         <url>http://www.laweekly.com/ink/06/04/producers-foundas.php</url>
+         <critic>Scott Foundas</critic>
+      </review>
+      <review>
+         <snippet>The Producers is a movie based on a play based on a movie about a play. And that's probably the funniest thing about it.</snippet>
+         <url>http://movie-reviews.colossus.net/movies/p/producers.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>The film falls short even as a record of Broderick and Lane's crowd-pleasing rapport: Both have done the show so many times that every scrap of life is gone.</snippet>
+         <url>http://online.tvguide.com/movies/database/ShowMovie.asp?MI=46061</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>Stroman should have studied the original Producers that Brooks directed in 1968, with Zero Mostel and Gene Wilder. It answers the question "Where did they go right?"</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/_/id/6168993/rid/8957100/</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>Most of the bits and performances have a hard time making the transition from stage to screen.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2005/12/16/DDGTUG8A9F1.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>This is the stage experience documented on film, from the perspective of someone sitting front row centre watching actors pitching for the back rows of the balcony.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/ArticleNews/TPStory/LAC/20051216/PRODUCERS16/TPEntertainment/Film</url>
+         <critic>Liam Lacey</critic>
+      </review>
+      <review>
+         <snippet>Watching The Producers is simply exhausting.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2005/12/16/producers/index.html</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>Whereas the original film is gleefully crass and energetically paced, the movie musical, weighing in at a robust two-plus hours, is bloated and self-satisfied. Whatever spectacle the stage musical possessed to make it such a box-office behemoth fails to transfer to the screen.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-producers16dec16,0,2381358.story</url>
+         <critic>Kevin Crust</critic>
+      </review>
+      <review>
+         <snippet>Ms. Thurman is the one bit of genuine radiance in this aggressively and pointlessly shiny, noisy spectacle.</snippet>
+         <url>http://movies2.nytimes.com/2005/12/16/movies/16prod.html?adxnnl=1&amp;adxnnlx=1134690252-SxOc0ZOjBj1X069CApn/Wg</url>
+         <critic>Dana Stevens</critic>
+      </review>
+      <review>
+         <snippet>The Producers on screen, as a musical, does not work. It is not very funny. It doesn't look right. It's depressing.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-0501216-movies-review-producers,0,5699707.story?coll=mmx-movies_top_heds</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>From bad to worse - Even in verse - The Producers moves like a hearse -Mildness and blandness -Mugging like madness -
+Who knew that "Rent" would win this fight? -
+Murdering a genre's just not all right!</snippet>
+         <url>http://www.nypost.com/movies/59740.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>The Producers is nightmarish, in its febrile way, a head-bangingly primitive version of an overrated Broadway show that grew out of a clumsy 1968 movie with an inflated reputation.</snippet>
+         <url/>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>There are no real people in The Producers --only actors laboring to dispel whatever magic they once were thought to possess. The director, Susan Stroman, has brought the Broadway smash to the screen (where it began, almost 40 years ago) with cataclysmic results.</snippet>
+         <url>http://www.slate.com/id/2132618/?nav=fo</url>
+         <critic>David Edelstein</critic>
+      </review>
+   </reviews>
+   <US_Gross>$19,398,532</US_Gross>
+   <production_budget>$45,000,000</production_budget>
+   <weekend_gross>$154,590</weekend_gross>
+   <number_of_screens>6</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

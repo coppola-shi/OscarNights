@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>FAQs</name>
+   <company>TLA Releasing</company>
+   <genres>
+      <genre>Drama</genre>
+      <genre>GayLesbian</genre>
+   </genres>
+   <authors>
+      <author>Everett Lewis</author>
+   </authors>
+   <directors>
+      <director>Everett Lewis</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Lance Lee Davis</actor>
+      <actor>Bryan Endress-Fox</actor>
+      <actor>Tera Greene</actor>
+      <actor>Adam Larson</actor>
+      <actor>Joe Lia</actor>
+      <actor>Allan Louis</actor>
+      <actor>Vince Parenti</actor>
+      <actor>Joshua Paul</actor>
+   </actors>
+   <release_date>February 3, 2006</release_date>
+   <running_time>95</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>The dialogue is blunter, and harder for his amateur cast to pull off, while Lewis' stridency, however justified, ultimately jars against the film's tender, all-is-love fantasia.</snippet>
+         <url>http://www.laweekly.com/index.php?option=com_lawcontent&amp;task=view&amp;id=12570&amp;Itemid=9</url>
+         <critic>Hazel-Dawn Dumpert</critic>
+      </review>
+      <review>
+         <snippet>The campier aspects of the film are not enough to make up for its lapses into melodrama and just plain silliness.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-faq3feb03,0,3655101.story</url>
+         <critic>Kevin Crust</critic>
+      </review>
+   </reviews>
+   <US_Gross>$1,407</US_Gross>
+   <weekend_gross>$1,407</weekend_gross>
+   <number_of_screens>1</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

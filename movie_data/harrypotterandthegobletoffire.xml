@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Harry Potter and the Goblet of Fire</name>
+   <company>Warner Bros.</company>
+   <genres>
+      <genre>Adventure</genre>
+      <genre>Fantasy</genre>
+      <genre>Mystery</genre>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>Steven Kloves</author>
+      <author>J.K. Rowling</author>
+   </authors>
+   <directors>
+      <director>Mike Newell</director>
+   </directors>
+   <origins>
+      <origin>UKUSA</origin>
+   </origins>
+   <actors>
+      <actor>Daniel Radcliffe</actor>
+      <actor>Emma Watson</actor>
+      <actor>Rupert Grint</actor>
+      <actor>Ralph Fiennes</actor>
+      <actor>Michael Gambon</actor>
+      <actor>Brendan Gleeson</actor>
+      <actor>Alan Rickman</actor>
+      <actor>Gary Oldman</actor>
+   </actors>
+   <release_date>November 18, 2005</release_date>
+   <running_time>157</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>The best one yet.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1001477076</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>Newell puts his own stamp on the franchise and delivers the best Potter movie yet filmed.</snippet>
+         <url>http://www.premiere.com/article.asp?section_id=2&amp;article_id=2411</url>
+         <critic>Sara Brady</critic>
+      </review>
+      <review>
+         <snippet>No, I couldn't be more pleased with what the screenwriter, Steven Kloves, and the director, Mike Newell, have wrought this time.</snippet>
+         <url>http://www.slate.com/id/2130629/?nav=fo</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>A mature, tense, frightening and altogether masterful film.</snippet>
+         <url>http://www.oregonlive.com/entertainment/oregonian/index.ssf?/base/exclude/113220513141140.xml&amp;coll=7</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>There's ample reason to stay with this series. When Harry says "I love magic," you believe it.</snippet>
+         <url>http://www.csmonitor.com/2005/1118/p11s02-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>Harry IV is an intelligent, visually seductive and mostly very satisfying fantasy epic of the first order.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/248738_harry18q.html</url>
+         <critic>William Arnold</critic>
+      </review>
+      <review>
+         <snippet>It's not until Harry Potter and the Goblet of Fire that a film has successfully re-created the sense of stirring magical adventure and engaged, edge-of-your-seat excitement that has made the books such an international phenomenon.</snippet>
+         <url>http://www.calendarlive.com/movies/turan/cl-et-harrypotter18nov18,0,410738.story</url>
+         <critic>Kenneth Turan</critic>
+      </review>
+      <review>
+         <snippet>The studio, like plucky Harry, passes with flying colors. The new one, directed by Mike Newell from another astute script by Mr. Kloves, is even richer and fuller, as well as dramatically darker. It's downright scary how good this movie is.</snippet>
+         <url/>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>Its look has the same grudging beauty that, once you get used to it, English weather does: It's so defiant in its grayness that you come to appreciate its conviction.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2005/11/17/potter/index.html?sid=1414601</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>Last year's "The Prisoner of Azkaban" seemed dark, but this excellent fourth film derived from J.K. Rowling's books is the darkest "Potter" yet, intense enough to warrant a PG-13 rating.</snippet>
+         <url>http://www.variety.com/ac2006_review/VE1117928818?nav=reviews&amp;categoryid=1986&amp;cs=1</url>
+         <critic>Todd McCarthy</critic>
+      </review>
+      <review>
+         <snippet>J.K. Rowling's Harry Potter just keeps growing up. So do the Potter movies, in size, in ambition and in visual splendor - and with increasingly stunning results.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-0501118-movies-review-potter,0,1678920.story?coll=mmx-movies_top_heds</url>
+         <critic>Michael Wilmington</critic>
+      </review>
+      <review>
+         <snippet>Death, torture, humour and even budding eroticism -- now this is more like it.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/ArticleNews/TPStory/LAC/20051117/POTTER17/TPEntertainment/Film</url>
+         <critic>Liam Lacey</critic>
+      </review>
+      <review>
+         <snippet>The darkest, most thrilling entry yet in the movie franchise.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/moviereviews/story/366595p-311840c.html</url>
+         <critic>Jami Bernard</critic>
+      </review>
+      <review>
+         <snippet>The film is more violent, less cute than the others, but the action is not the mindless destruction of a video game; it has purpose, shape and style.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20051117/REVIEWS/51114003/1023</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>Goblet of Fire is the entry in which Rowling finally took off the gloves.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=7080</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>By a pleasing irony, the parts of the film that stay with you are concerned not with the dark arts but with something far more unstoppable: teen-agers.</snippet>
+         <url>http://www.newyorker.com/critics/cinema/?051128crci_cinema</url>
+         <critic>Anthony Lane</critic>
+      </review>
+      <review>
+         <snippet>The film's quick pace and near-constant action carries you along quite nicely, and by the time Voldemort (Ralph Fiennes) makes his climactic appearance, one can't help but look forward to the remaining films.</snippet>
+         <url>http://www.filmthreat.com/Reviews.asp?Id=8170</url>
+         <critic>Pete Vonder Haar</critic>
+      </review>
+      <review>
+         <snippet>Probably the most engaging Potter film of the series thus far.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1094997&amp;lat=200.0&amp;lon=200.0&amp;displaySearchLocation=&amp;nm=1&amp;categories=Movies</url>
+         <critic>Desson Thomson</critic>
+      </review>
+      <review>
+         <snippet>His (Ralph Fiennes) Voldemort may be the greatest screen performance ever delivered without the benefit of a nose; certainly it's a performance of sublime villainy.</snippet>
+         <url>http://movies2.nytimes.com/2005/11/17/movies/17pott.html</url>
+         <critic>Manohla Dargis</critic>
+      </review>
+      <review>
+         <snippet>In the grand scheme of things, Goblet of Fire is perhaps closest to the original "Sorcerer's Stone."</snippet>
+         <url>http://dallasobserver.com/Issues/2005-11-17/film/film.html</url>
+         <critic>Luke Y. Thompson</critic>
+      </review>
+      <review>
+         <snippet>The uncontestable triumph of Goblet of Fire, however, is Brendan Gleeson's Alastor (Mad-Eye) Moody, the grizzled new Defense Against the Dark Arts professor.</snippet>
+         <url>http://www.msnbc.msn.com/id/10017715/site/newsweek/</url>
+         <critic>David Ansen</critic>
+      </review>
+      <review>
+         <snippet>Whenever it hits its stride, it's a well-acted, vividly executed, full-speed-ahead special-effects extravaganza that puts as much bang as possible into every remaining scene.</snippet>
+         <url>http://avclub.com/content/node/42631</url>
+         <critic>Tasha Robinson</critic>
+      </review>
+      <review>
+         <snippet>Qualitatively different from its cinematic forbears: It doesn't linger on the gothic curlicues of its source material, it moves straightforwardly from place to place, and it emphasizes the emotional development of its characters with dramatic interplay rather than expressionistic, atmospheric gloom.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A310652</url>
+         <critic>Marrit Ingman</critic>
+      </review>
+      <review>
+         <snippet>The best thing about the picture is Harry's new maturity: For the first time, he dominates a picture named for him.</snippet>
+         <url>http://ae.charlotte.com/entertainment/ui/charlotte/movie.html?id=144508&amp;reviewId=19548&amp;startDate=NEXT7</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>Goblet of Fire, fourth in the fantasy franchise, is the most fun and the most fraught with conflict.</snippet>
+         <url>http://ae.philly.com/entertainment/ui/philly/movie.html?id=144508&amp;reviewId=19538</url>
+         <critic>Carrie Rickey</critic>
+      </review>
+      <review>
+         <snippet>Fine for people of developing minds, but the story so often stops its forward motion to take us on long detours into the land of CGI effects that it amounts to a $150 million magic show.</snippet>
+         <url>http://www.nypost.com/movies/54197.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>Imperfect, but magical nonetheless.</snippet>
+         <url>http://movie-reviews.colossus.net/movies/h/harry_potter4.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>With the cast getting looser and the mind games kinkier, it's hard to resist.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/_/id/6169903?pageid=rs.ReviewsMovieArchive&amp;pageregion=mainRegion</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>Offers a brew of wondrous chimera combined with the wonders of human nature.</snippet>
+         <url>http://sfgate.com/cgi-bin/article.cgi?f=/c/a/2005/11/16/DDG8BFO9E11.DTL&amp;type=movies</url>
+         <critic>Ruthe Stein</critic>
+      </review>
+      <review>
+         <snippet>It's hard to beat the last movie, "Harry Potter and the Prisoner of Azkaban," and this film is not better, but it has much to recommend it.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2005-11-16-potter_x.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>Inventive visuals and funny bits abound, but the film's gritty look and unsentimental characterizations - Harry, Hermione and Ron are far from golden teens - ominously foreshadow the truly wicked shape of things to come.</snippet>
+         <url>http://online.tvguide.com/movies/database/ShowMovie.asp?MI=46510</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>It's a testament to the power of the story -- and this engaging adaptation -- that leaving Hogwarts is tough anyway.</snippet>
+         <url>http://ae.miami.com/entertainment/ui/miami/movie.html?id=144508&amp;reviewId=19569</url>
+         <critic>Connie Ogle</critic>
+      </review>
+      <review>
+         <snippet>A 157-minute holding pattern in which neither of the ongoing stories--Harry's conflict with the evil sorcerer Voldemort, the young schoolmates' coming of age at the Hogwarts School of Witchcraft--progresses much.</snippet>
+         <url>http://spacefinder.chicagoreader.com/movies/briefs/28965_HARRY_POTTER_AND_THE_GOBLET_OF_FIRE.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>Too bad the bulk of Rowling's humor goes down a black-magic drain.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-to.harry18nov18,1,2823044.story?coll=bal-artslife-movies</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>Kids may be appropriately terrified, but to this overgrown Potter fan, Voldemort, the Darth Vader of the black arts, was a heck of a lot scarier when you couldn't see him.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1131187_1_0_,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>To this viewer and reader, the decade-old juggernaut is as deeply felt as it is flawed, dense and illogical and laudably "weird."</snippet>
+         <url>http://www.villagevoice.com/film/0546,park,70030,20.html</url>
+         <critic>Ed Park</critic>
+      </review>
+      <review>
+         <snippet>Terrific effects and considerable charm, but, once again, you can't help wishing the filmmakers had been bolder with the adaptation.</snippet>
+         <url>http://www.empireonline.co.uk/incinemas/ReviewComplete.asp?FID=9772</url>
+         <critic>Angie Errigo</critic>
+      </review>
+      <review>
+         <snippet>Came alive only in the presence of a supposed dead man -- specifically, the nefarious Lord Voldemort.</snippet>
+         <url>http://www.laweekly.com/ink/05/52/film-foundas.php</url>
+         <critic>Scott Foundas</critic>
+      </review>
+   </reviews>
+   <US_Gross>$290,013,036</US_Gross>
+   <production_budget>$150,000,000</production_budget>
+   <weekend_gross>$102,335,066</weekend_gross>
+   <number_of_screens>3,858</number_of_screens>
+   <highest_grossing_actors_present/>
+   <num_highest_grossing_actors>4</num_highest_grossing_actors>
+   <highest_grossing_actor>rupert grint</highest_grossing_actor>
+   <highest_grossing_actor>gary oldman</highest_grossing_actor>
+   <highest_grossing_actor>emma watson</highest_grossing_actor>
+   <highest_grossing_actor>daniel radcliffe</highest_grossing_actor>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

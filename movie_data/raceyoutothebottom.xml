@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Race You to the Bottom</name>
+   <company>Regent Releasing</company>
+   <genres>
+      <genre>Romance</genre>
+   </genres>
+   <authors>
+      <author>Russell Brown</author>
+   </authors>
+   <directors>
+      <director>Russell Brown</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Amber Benson</actor>
+      <actor>Cole Williams</actor>
+      <actor>Jeremy Lelliott</actor>
+      <actor>Danielle Harris</actor>
+   </actors>
+   <release_date>March 30, 2007</release_date>
+   <running_time>75</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>Watching this interesting, well-acted debut feature from writer-director Russell Brown, one begins to reason that what Nathan and Maggie have in common, besides desire, is a need for a partner who's not completely kind.</snippet>
+         <url>http://www.laweekly.com/film+tv/film-reviews/film-reviews-meet-the-robinsons-blades-of-glory/16008/?page=2</url>
+         <critic>Chuck Wilson</critic>
+      </review>
+      <review>
+         <snippet>Race You to the Bottom has an ending that is rightly open yet thoroughly satisfying -- as is the entire film.</snippet>
+         <url>http://www.calendarlive.com/printedition/calendar/cl-et-race30mar30,0,1923754.story</url>
+         <critic>Kevin Thomas</critic>
+      </review>
+      <review>
+         <snippet>You want uncomfortable tales of love and woe, then Race You to the Bottom has what you're looking for. And if you believe love is a disease that is meant to send people to screaming, burning hell, then you'll have a laugh riot, a real knee slapper, like 1,000 fart jokes heard all at once.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=7690</url>
+         <critic>Eric Campos</critic>
+      </review>
+      <review>
+         <snippet>While it does take place over a weekend spent touring Northern California's wine country, writer-director Russell Brown's feature debut isn't exactly a bicurious "Sideways." The characters are less interesting and even less likable, and the only pleasure we can take is in their emotional pain.</snippet>
+         <url>http://www.tvguide.com/detail/movie.aspx?tvobjectid=287707&amp;more=ucmoviereview</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>Although more than a little familiar in its road movie-style romantic banter and bickering, the film is easy to take for a number of reasons, including the witty and frequently caustic dialogue. Modest in its aspirations, "Race You" succeeds by not trying to do too much.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?&amp;rid=9220</url>
+         <critic>Frank Scheck</critic>
+      </review>
+      <review>
+         <snippet>These people are so selfish and self-absorbed you may not want to spent even 72 minutes with them.</snippet>
+         <url>http://www.nypost.com/seven/05042007/entertainment/movies/nice_bouquet__sour_aftertaste_movies_lou_lumenick.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>Self-consciously edgy and romantically limp.</snippet>
+         <url>http://movies2.nytimes.com/2007/05/04/movies/04race.html?ref=movies</url>
+         <critic>Jeannette Catsoulis</critic>
+      </review>
+      <review>
+         <snippet>It's a bad heterosexual date movie (more a date-gone-wrong), has too limited a gay angle for that demographic, and is about characters who are not particularly likable as individuals or as a couple.</snippet>
+         <url>http://www.variety.com/review/VE1117927536.html?categoryid=31&amp;cs=1&amp;p=0</url>
+         <critic>Dennis Harvey</critic>
+      </review>
+   </reviews>
+   <US_Gross>$5,468</US_Gross>
+   <weekend_gross>$1,549</weekend_gross>
+   <number_of_screens>1</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

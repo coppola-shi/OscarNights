@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Lymelife</name>
+   <company>Screen Media Films</company>
+   <genres>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author>Derick Martini</author>
+      <author>Steven Martini</author>
+   </authors>
+   <directors>
+      <director>Derick Martini</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Alec Baldwin</actor>
+      <actor>Kieran Culkin</actor>
+      <actor>Rory Culkin</actor>
+      <actor>Jill Hennessy</actor>
+      <actor>Timothy Hutton</actor>
+      <actor>Cynthia Nixon</actor>
+      <actor>Emma Roberts</actor>
+   </actors>
+   <release_date>April 8, 2009</release_date>
+   <running_time>95</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>Lymelife, set amid marital decay and teen frustration, isn't quite the "American Beauty" of the 516 area code, but it'll do.</snippet>
+         <url>http://www.nypost.com/seven/04082009/entertainment/movies/li_back_and_enjoy_it_163489.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>Lymelife doesn't have the sheer power of "The Ice Storm," but it's not just another recycling of suburban angst. By allowing their characters complexity, the Martinis spill open those tiny model homes as thoroughly as a dropped Monopoly game.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20090429/REVIEWS/904299980</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>Intense perfs by Rory Culkin and Alec Baldwin are standouts in a movie that brims with vivid supporting turns.</snippet>
+         <url>http://www.variety.com/review/VE1117938344.html?categoryid=2863&amp;cs=1&amp;query=lymelife</url>
+         <critic>Rob Nelson</critic>
+      </review>
+      <review>
+         <snippet>Even when the drama gets overcooked, Lymelife sends off sparks.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/14705677/review/27184152/lymelife</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>It's a family drama that treads on well-worn middle-class territory but is redeemed by the complexity of the characters and the intriguing ambiguity of their actions.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2009-04-16-lymelife_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>A charming if unoriginal coming-of-age story.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2009/04/23/MV4F17754P.DTL&amp;type=movies</url>
+         <critic>Reyhan Harmanci</critic>
+      </review>
+      <review>
+         <snippet>Thanks to a strong ensemble cast, it's poignant and funny.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/34336_LYMELIFE.html</url>
+         <critic>Andrea Gronvall</critic>
+      </review>
+      <review>
+         <snippet>Directed by first-timer Derick Martini and produced by Martin Scorsese, balances grimness and levity with relative success. It stops short of quirk. It only flirts with "American Beauty"-style hyperbole. It falls somewhere in between, thanks to Martini's steady hand and a bunch of reliable actors working in good form.</snippet>
+         <url>http://www.washingtonpost.com/gog/movies/lymelife,1106230.html</url>
+         <critic>Dan Zak</critic>
+      </review>
+      <review>
+         <snippet>Lymelife offers charm and humor through its young central characters and pathos through its remarkable supporting cast, without pulling punches on its overall atmosphere of autumnal darkness and anomie.</snippet>
+         <url>http://www.salon.com/ent/movies/btm/feature/2009/04/11/lymelife/index.html</url>
+         <critic>Andrew O&amp;#039;Hehir</critic>
+      </review>
+      <review>
+         <snippet>Scott's coming-of-age bumblings form the piece's narrative rhythm. But the most affecting moments come from Mickey's midlife machinations: Baldwin, who also produced the film, has his best role since "The Cooler."</snippet>
+         <url>http://www.latimes.com/entertainment/la-et-lymelife17-2009apr17,0,5276350.story</url>
+         <critic>Michael Ordona</critic>
+      </review>
+      <review>
+         <snippet>A period suburban rites-of-passage story with a pitch-perfect cast.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?rid=11680</url>
+         <critic>Michael Rechtshaffen</critic>
+      </review>
+      <review>
+         <snippet>Despite such floundering, Lymelife keeps you hooked, mostly through Mr. Hutton, Mr. Baldwin and Kieran Culkin as Scott's older brother, Jimmy.</snippet>
+         <url>http://movies.nytimes.com/2009/04/08/movies/08lyme.html?ref=movies</url>
+         <critic>Manohla Dargis</critic>
+      </review>
+      <review>
+         <snippet>Lymelife is more shaggy character study than rewarding narrative; its fateful final moments are self-consciously ambiguous in a way that (to me) feel almost flip, given the long dramatic build that preceded those final moments.</snippet>
+         <url>http://www.oregonlive.com/movies/index.ssf/2009/05/review_living_the_lymelife.html</url>
+         <critic>M. E. Russell</critic>
+      </review>
+      <review>
+         <snippet>Funny and well-acted, but it’s just shy of being compelling enough to be remembered.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=11737</url>
+         <critic>Stina Chyn</critic>
+      </review>
+      <review>
+         <snippet>Given how steeped it is in symbolic portent, Lymelife proves surprisingly watchable from moment to moment, thanks to the uniformly fine playing (particularly of the Culkin frères), evocative production design (by Kelly McGehee), and handsome widescreen photography (by Frank Godwin).</snippet>
+         <url>http://www.villagevoice.com/2009-04-08/film/derick-martini-s-lymelife-is-long-island-s-ice-storm/</url>
+         <critic>Scott Foundas</critic>
+      </review>
+      <review>
+         <snippet>Overworked if heartfelt indie.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20270914,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>There's a whole lot of "American Beauty" and "The Ice Storm" packed into Lymelife.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20090507.wlymelife0508/BNStory/Entertainment/home</url>
+         <critic>Liam Lacey</critic>
+      </review>
+      <review>
+         <snippet>Lymelife arrives with an impressive pedigree but, unfortunately, little originality.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A772793</url>
+         <critic>Marjorie Baumgarten</critic>
+      </review>
+      <review>
+         <snippet>Like so many of these farm-raised films, this one looks polished, but takes no risks, offers no surprises, and contains a final sequence that's laughable for its lack of courage.</snippet>
+         <url>http://www.boston.com/ae/movies/articles/2009/04/24/lymelife_ticks_off_one_cliche_after_another/</url>
+         <critic>Wesley Morris</critic>
+      </review>
+   </reviews>
+   <US_Gross>$421,307</US_Gross>
+   <weekend_gross>$27,758</weekend_gross>
+   <number_of_screens>4</number_of_screens>
+   <highest_grossing_actors_present/>
+   <num_highest_grossing_actors>1</num_highest_grossing_actors>
+   <highest_grossing_actor>alec baldwin</highest_grossing_actor>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

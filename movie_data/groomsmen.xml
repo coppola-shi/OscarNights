@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Groomsmen, The</name>
+   <company>Bauer Martinez Studios</company>
+   <genres>
+      <genre>Comedy</genre>
+   </genres>
+   <authors>
+      <author>Edward Burns</author>
+   </authors>
+   <directors>
+      <director>Edward Burns</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Edward Burns</actor>
+      <actor>John Leguizamo</actor>
+      <actor>Jay Mohr</actor>
+      <actor>Brittany Murphy</actor>
+      <actor>Donal Logue</actor>
+      <actor>Matthew Lillard</actor>
+      <actor>Shari Albert</actor>
+      <actor>Jessica Capshaw</actor>
+      <actor>Heather Burns</actor>
+   </actors>
+   <release_date>July 14, 2006</release_date>
+   <running_time>98</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>As a writer-director, Edward Burns is as industrious as an occupational therapist. He makes sure each of his people is well positioned for happiness.</snippet>
+         <url>http://www.csmonitor.com/2006/0714/p11s01-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>The Groomsmen captures a single, specific moment, when responsibilities await but adulthood is still unwelcome. If their predicament strikes a chord, you may want to join Burns' boys for their final hurrah.</snippet>
+         <url>http://www.nydailynews.com/07-14-2006/entertainment/col/story/435028p-366395c.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>Every actor registers...In a film of minor ambition, they're all worthy company.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1216697_1_0_,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>The Groomsmen, while as corny as a Staten Island marriage proposal, rings true on many levels.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/279999_groomsmen04q.html</url>
+         <critic>Bill White</critic>
+      </review>
+      <review>
+         <snippet>This is like any other Edward Burns film, except for one thing. It's unmistakably better. This is the movie I believe Burns has been trying to make since "The Brothers McMullen," 11 years ago.</snippet>
+         <url>http://sfgate.com/cgi-bin/article.cgi?f=/c/a/2006/08/25/DDGBAKNVRN1.DTL</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>Edward Burns' best riff yet on guys trying to sort out their feelings about women.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1002838495</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>Leguizamo deserves real kudos for making what he does of T.C., who is the film's walking lesson in how to undermine elitist clichés about working-class Long Island.</snippet>
+         <url>http://online.tvguide.com/newsearch/detail.aspx?tvobjectid=281634&amp;more=ucmoviereview</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>Burns' always impressive sense of place lends authenticity to the pals' perambulations, and the stellar cast brings a welcome overabundance of personality to regrettably one-note roles.</snippet>
+         <url>http://www.variety.com/index.asp?layout=features2006&amp;content=jump&amp;jump=review&amp;dept=cannes&amp;nav=RCannes&amp;articleid=VE1117930405&amp;cs=1&amp;s=h&amp;p=0</url>
+         <critic>Ronnie Scheib</critic>
+      </review>
+      <review>
+         <snippet>The movie snaps sharply to life every now and then, and its unfashionable decency really gets to you.</snippet>
+         <url/>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>Fatally conventional in nearly every respect, the movie would be easy to dismiss were it not for Burns's frustrating knack for inserting unexpectedly truthful moments amid all the dross.</snippet>
+         <url>http://www.villagevoice.com/film/0628,foundas,73822,20.html</url>
+         <critic>Scott Foundas</critic>
+      </review>
+      <review>
+         <snippet>The biggest hole in a movie that falls sadly short of being another "Diner" or "Trees Lounge" is Mr. Burns's failure to make his alter-ego character anything other than the best-looking and most affluent member of the pack, standing there and discreetly gloating.</snippet>
+         <url>http://movies2.nytimes.com/2006/07/14/movies/14groo.html</url>
+         <critic>Stephen Holden</critic>
+      </review>
+      <review>
+         <snippet>Comes about five films after writer-director-star Ed Burns should have found another career.</snippet>
+         <url>http://www.nypost.com/entertainment/movies/loud_attire__with_bad_grooming_movies_kyle_smith.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>After sitting through this movie, you will want to throw something more pungent than rice at The Groomsmen.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=9150</url>
+         <critic>Phil Hall</critic>
+      </review>
+   </reviews>
+   <US_Gross>$128,585</US_Gross>
+   <weekend_gross>$26,045</weekend_gross>
+   <number_of_screens>3</number_of_screens>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

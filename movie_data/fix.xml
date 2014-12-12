@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Fix</name>
+   <company>Mangusta Productions</company>
+   <genres>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author>Tao Ruspoli</author>
+      <author>Jeremy Fels</author>
+   </authors>
+   <directors>
+      <director>Tao Ruspoli</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Shawn Andrew</actor>
+      <actor>Olivia Wilde</actor>
+      <actor>Megalyn Echikunwoke</actor>
+      <actor>Tao Ruspoli</actor>
+      <actor>Dedee Pfeiffer</actor>
+      <actor>Rodney Eastman</actor>
+      <actor>Ian Duncan</actor>
+      <actor>Jakob von Eichel</actor>
+   </actors>
+   <release_date>November 20, 2009</release_date>
+   <running_time>93</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>The diversity of visual tactics, characters, settings and incidents keep this shaggy-dog tale consistently diverting.</snippet>
+         <url>http://www.variety.com/review/VE1117935889.html?categoryid=31&amp;cs=1&amp;query=fix</url>
+         <critic>Dennis Harvey</critic>
+      </review>
+      <review>
+         <snippet>Propelled by an eccentric cast of characters and increasingly seamy locations, Fix dashes headlong through Los Angeles with a little charm and a lot of verve.</snippet>
+         <url>http://movies.nytimes.com/2009/11/20/movies/20fix.html?ref=movies</url>
+         <critic>Jeannette Catsoulis</critic>
+      </review>
+      <review>
+         <snippet>The sole redeeming factor is the presence of Olivia Wilde (Fox's "House"), who manages to keep the proceedings watchable for at least a portion of the running time.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film-reviews/fix-film-review-1004044588.story</url>
+         <critic>Frank Scheck</critic>
+      </review>
+      <review>
+         <snippet>The slathered-on visual textures aren’t quite enough, however, to distract us from the glib, leftie posturing, the lazy writing and the drug-deep existential platitudes.</snippet>
+         <url>http://www.laweekly.com/2008-11-27/film-tv/movie-reviews-four-christmases-special-transporter-3/</url>
+         <critic>David Chute</critic>
+      </review>
+      <review>
+         <snippet>Aheroin-stuffed hipster buys a dog, eats Vietnamese food and sells drugs to pay for rehab in Fix, the latest piece of cine-junk stamped out by the indie fakedocumentary factory.</snippet>
+         <url>http://www.nypost.com/p/entertainment/movies/fix_7hS7Ubq3K9l0HOphxmJ0JO</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>Never mind the unreliable Angeleno characters; it’s the director-actor who’s the flakiest, as he’s unable to decide if Fix is a real-time saga of a rebel, a loser or a victim. How many face-lifts can you give a single film?</snippet>
+         <url>http://newyork.timeout.com/articles/film/80767/fix-film-review</url>
+         <critic>S. James Snyder</critic>
+      </review>
+   </reviews>
+   <US_Gross>$5,951</US_Gross>
+   <weekend_gross>$5,951</weekend_gross>
+   <number_of_screens>1</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

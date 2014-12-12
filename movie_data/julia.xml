@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Julia</name>
+   <company>Magnolia Pictures</company>
+   <genres>
+      <genre>Drama</genre>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>Aude Py</author>
+      <author>Erick Zonca</author>
+   </authors>
+   <directors>
+      <director>Erick Zonca</director>
+   </directors>
+   <origins>
+      <origin>France</origin>
+      <origin>USA</origin>
+      <origin>Mexico</origin>
+      <origin>Belgium</origin>
+   </origins>
+   <actors>
+      <actor>Tilda Swinton</actor>
+      <actor>Saul Rubinek</actor>
+      <actor>Kate Del Castillo</actor>
+      <actor>Aidan Gould</actor>
+      <actor>Jude Ciccolella</actor>
+      <actor>Bruno Bichir</actor>
+      <actor>Horacio Garcia Rojas</actor>
+      <actor>Gaston Peterson</actor>
+   </actors>
+   <release_date>May 8, 2009</release_date>
+   <running_time>144</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>Tilda Swinton hasn't often been more fascinating than in Julia, a nerve-wracking thriller with a twisty plot and startling realism.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20090701/REVIEWS/907019991</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>In tone and plot, Julia often resembles an extended episode of the AMC series "Breaking Bad"--except that Swinton's character is never NOT bad.</snippet>
+         <url>http://www.avclub.com/articles/julia,27713/</url>
+         <critic>Noel Murray</critic>
+      </review>
+      <review>
+         <snippet>Charles Bukowski would have loved this foul-mouthed, fiery, reckless woman. Against all odds and common sense, you will, too.</snippet>
+         <url>http://www.miamiherald.com/entertainment/movies/reviews/story/1204068.html</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>Ms. Swinton demands to be seen even when her character is on a self-annihilating bender so real that you can almost smell the stink rising off her. So I sat in my seat, cursed the screen and was grateful to watch an actress at the height of her expressive power claw toward greatness.</snippet>
+         <url>http://movies.nytimes.com/2009/05/08/movies/08juli.html?ref=movies</url>
+         <critic>Manohla Dargis</critic>
+      </review>
+      <review>
+         <snippet>As Julia, Swinton belongs to that league of great cinematic alcoholics such as Jack Lemmon and Lee Remick in "Days of Wine and Roses" and Ray Milland in "The Lost Weekend." As an action character, she naturally evokes Gena Rowlands without ever trying to resemble her.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?rid=10623</url>
+         <critic>Gregory Valens</critic>
+      </review>
+      <review>
+         <snippet>The movie’s electrifying without being completely satisfying. Zonca and his star don’t play by Hollywood rules, which is both good (keeps us off-balance) and less so (at times the film doesn’t seem sure where it’s going).</snippet>
+         <url>http://www.boston.com/ae/movies/articles/2009/12/09/tilda_swinton_nearly_overpowers_julia/</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>Goes to all the places a sensitive character study might have gone, but more dramatically, convincingly and vividly.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2009/07/09/MV7A18KM04.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>This overlong, lurchy homage to John Cassavetes' 1980 film "Gloria" is a mess, but a fascinating one, given Swinton's desperately avid performance in the title role.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20276712,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>Tilda Swinton doesn't merely act the title role in French director Erick Zonca's Julia--she devours it, spits it back up, dances giddily upon it, twirls it in the air.</snippet>
+         <url>http://www.villagevoice.com/2009-05-06/film/tilda-swinton-devours-julia/</url>
+         <critic>Scott Foundas</critic>
+      </review>
+      <review>
+         <snippet>Swinton's performance, and practically everything else about Julia, seems off – tone-deaf. She plays an out-of-control wastrel who enters into a kidnapping scheme gone horribly wrong, as does the movie.</snippet>
+         <url>http://www.csmonitor.com/2009/0515/p17s03-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>The miscalculated and overlong Julia proves a startling misfire for "The Dreamlife of Angels" writer-helmer Erick Zonca and dependably fearless actress Tilda Swinton.</snippet>
+         <url>http://www.variety.com/review/VE1117936143.html?categoryid=31&amp;cs=1&amp;query=julia</url>
+         <critic>Eddie Cockrell</critic>
+      </review>
+      <review>
+         <snippet>As Julia struggles to survive her bad decisions, the film struggles to survive Julia. We never get a good look at her demons, just the havoc they wreak.</snippet>
+         <url>http://www.latimes.com/entertainment/news/la-et-julia8-2009may08,0,5743195.story</url>
+         <critic>Betsy Sharkey</critic>
+      </review>
+      <review>
+         <snippet>Picture "Fargo" played with no sense of comedy, and you'll get some idea of the absurdity of this drunken floozy, clicking and wobbling on high heels, often with bits of her anatomy hanging out, trying to pull off the perfect crime.</snippet>
+         <url>http://www.nypost.com/seven/05082009/entertainment/movies/tart_fumbles_absurd_kidnapping_168109.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>The end result is like Quentin Tarantino reworking a Charles Bukowski story.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2009/05/08/2009-05-08_short_takes_rudo_y_cursi_little_ashes_julia_outrage_brothers_at_war.html</url>
+         <critic>Joe Neumaier</critic>
+      </review>
+   </reviews>
+   <US_Gross>$65,108</US_Gross>
+   <weekend_gross>$12,524</weekend_gross>
+   <number_of_screens>3</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

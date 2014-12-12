@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Shakespeare Behind Bars</name>
+   <company>International Film Circuit</company>
+   <genres>
+      <genre>Documentary</genre>
+   </genres>
+   <authors>
+      <author/>
+   </authors>
+   <directors>
+      <director>Hank Rogerson</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors/>
+   <release_date>March 10, 2006</release_date>
+   <running_time>92</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>Shakespeare himself couldn't have written better or more complex characters, and far from strange, by the end of this extraordinary film you couldn't imagine Shakespeare performed anywhere else.</snippet>
+         <url>http://online.tvguide.com/movies/database/Movie-Review.asp?MI=46769</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>By presenting murderers as actors and then filming those actors discussing their sins, the line between performance and soul-searching blurs in unnerving ways.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/1144877106115790.xml&amp;coll=7</url>
+         <critic>M. E. Russell</critic>
+      </review>
+      <review>
+         <snippet>The power of art to redeem the pain and cruelty of life is demonstrated to enormous effect inShakespeare Behind Bars.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-060512-movies-review-shakespeare,0,7772751.story?coll=mmx-movies_top_heds</url>
+         <critic>Michael Wilmington</critic>
+      </review>
+      <review>
+         <snippet>Director Hank Rogerson casts a sympathetic eye on the proceedings.</snippet>
+         <url>http://www.csmonitor.com/2006/0519/p14s02-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>The mere fact that Shakespeare can teach hardened criminals to search their souls gives hope that forgiveness and redemption are possible.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/moviereviews/story/398474p-337573c.html</url>
+         <critic>Jami Bernard</critic>
+      </review>
+      <review>
+         <snippet>This unusual journey behind prison bars is not only a plea for the rehabilitation of incarcerated criminals, but a testament to the redemptive powers of art.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/264945_shakes31q.html</url>
+         <critic>Bill White</critic>
+      </review>
+      <review>
+         <snippet>This affecting documentary focuses on their 2004 production, a play whose themes of forgiveness and redemption certainly ought to have some resonance for the inmates.</snippet>
+         <url>http://sfgate.com/cgi-bin/article.cgi?f=/c/a/2006/04/14/DDGA2I88EO1.DTL#flick2</url>
+         <critic>Walter Addiego</critic>
+      </review>
+      <review>
+         <snippet>Rogerson has crafted an emotionally satisfying exploration of the creative process through people who, before the program started, weren't comfortable with expressing themselves at all.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=6822</url>
+         <critic>Jeremy Mathews</critic>
+      </review>
+      <review>
+         <snippet>Rogerson's structure is ingenious: He dilutes our initial skepticism by showcasing the prisoners' thoughtfulness and intelligence, and as soon as we've come to care for the men he shocks us with the details of their crimes.</snippet>
+         <url>http://www.villagevoice.com/film/0610,singer,72446,20.html</url>
+         <critic>Matt Singer</critic>
+      </review>
+      <review>
+         <snippet>The filmmakers, Hank Rogerson and Jilann Spitzmiller, encourage us to marvel at the transformative power of art. In Shakespeare Behind Bars, the most restricted people in society find freedom in performance and release in words.</snippet>
+         <url>http://www.nytimes.com/2006/03/10/movies/10shak.html</url>
+         <critic>Jeannette Catsoulis</critic>
+      </review>
+      <review>
+         <snippet>The main strength of "Shakespeare" is its ability to show the vulnerability of its subjects, neither judging nor smothering them with undeserved praise.</snippet>
+         <url>http://www.calendarlive.com/movies/cl-et-shakespeare12may12,0,4035637.story</url>
+         <critic>Kevin Crust</critic>
+      </review>
+      <review>
+         <snippet>This fascinating video documentary covers a nine-month rehearsal of Shakespeare's final play by inmates at the Luther Luckett Correctional Complex in La Grange, Kentucky.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/29789_SHAKESPEARE_BEHIND_BARS.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>Albeit a tad repetitive, Shakespeare Behind Bars succeeds in humanizing men we might too easily label as monsters, and provides a solid argument in favor of prisons that place rehabilitation above retribution.</snippet>
+         <url>http://www.laweekly.com/film+tv/film-reviews/film-reviews/13496/</url>
+         <critic>Jessica Winter</critic>
+      </review>
+      <review>
+         <snippet>A group of inmates are turned into theater people. Haven't they suffered enough?</snippet>
+         <url>http://www.nypost.com/movies/64957.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>There's no denying the pic's overall impact as a compelling study of art as a source of transcendence. And it will come as no surprise if this well-crafted doc eventually serves as source material for a dramatic feature.</snippet>
+         <url>http://www.variety.com/index.asp?layout=sundance2005&amp;nav=reviews&amp;content=reviews&amp;reviewid=VE1117925939&amp;categoryid=1865&amp;cs=</url>
+         <critic>Joe Leydon</critic>
+      </review>
+   </reviews>
+   <US_Gross>$48,594</US_Gross>
+   <weekend_gross>$2,253</weekend_gross>
+   <number_of_screens>1</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

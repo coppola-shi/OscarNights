@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Kung Fu Panda</name>
+   <company>DreamWorks Animation</company>
+   <genres>
+      <genre>Action</genre>
+      <genre>Animation</genre>
+      <genre>Comedy</genre>
+      <genre>FamilyKids</genre>
+   </genres>
+   <authors>
+      <author>Cyrus Voris</author>
+      <author>Ethan Reiff</author>
+      <author>Glenn Berger</author>
+      <author>Jonathan Aibel</author>
+   </authors>
+   <directors>
+      <director>Mark Osborne</director>
+      <director>John Stevenson</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Jack Black</actor>
+      <actor>Lucy Liu</actor>
+      <actor>Dustin Hoffman</actor>
+      <actor>Dustin Hoffman</actor>
+      <actor>Angelina Jolie</actor>
+      <actor>Ian McShane</actor>
+      <actor>Jackie Chan</actor>
+   </actors>
+   <release_date>June 6, 2008</release_date>
+   <running_time>88</running_time>
+   <rating>PG</rating>
+   <reviews>
+      <review>
+         <snippet>Light and goofy, yet the fight scenes, which are the heart of the film, are lickety-split mad fun.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20204422,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>Yet another celebrity-voiced animal adventure, but it stands out from the crowd of similar films with its lightning wit and whirlwind brio.</snippet>
+         <url>http://www.avclub.com/content/cinema/kung_fu_panda</url>
+         <critic>Tasha Robinson</critic>
+      </review>
+      <review>
+         <snippet>Infectious and inspiring, despite one's best efforts to resist its charms.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1144626&amp;categories=Movies&amp;nm=1</url>
+         <critic>John Anderson</critic>
+      </review>
+      <review>
+         <snippet>At once fuzzy-wuzzy and industrial strength, the tacky-sounding Kung Fu Panda is high concept with a heart.</snippet>
+         <url>http://movies.nytimes.com/2008/06/06/movies/06pand.html?ref=movies</url>
+         <critic>Manohla Dargis</critic>
+      </review>
+      <review>
+         <snippet>The stroke of genius is, of course, the film's hero -- the big, lovable bear that is the Chinese panda.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?JSESSIONID=nkvQLGsKN6PGvbnqkgVw825GpJSmDys3lS7rjdby8p7PcpYfcpqL!1296842865&amp;&amp;rid=11202</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>The new picture provides a master coursed in cunning visual art and ultra-satisfying entertainment.</snippet>
+         <url>http://www.time.com/time/arts/article/0,8599,1812145,00.html</url>
+         <critic>Richard Corliss</critic>
+      </review>
+      <review>
+         <snippet>The voice cast includes Angelina Jolie as a tigress, omnipresent Seth Rogen as an acupuncturist who's a praying mantis, David Cross as a nasal crane and Lucy Liu as a cheerful viper.</snippet>
+         <url>http://www.charlotte.com/434/story/655758.html</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>Everything about Kung Fu Panda is a little better, a little sharper, a little funnier than the animated run of the mill.</snippet>
+         <url>http://chicago.metromix.com/movies/movie_review/movie-review-kung-fu/444443/content</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>It's not an instant classic, but it's imaginatively drawn, full of charming characters, alive with action sequences and blissfully free of the snickering scatology and endless pop-culture references.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/365929_kungfu06q.html</url>
+         <critic>William Arnold</critic>
+      </review>
+      <review>
+         <snippet>The animation is consistently sporty and there are some choice comic riffs on martial arts movies.</snippet>
+         <url>http://www.csmonitor.com/2008/0607/p25s01-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>Rudimentary plot and merely decent gags aside, this is the finest DreamWorks Animation effort since the first Shrek, chiefly because of its astonishing visuals and kinetic kung fu sequences.</snippet>
+         <url>http://www.empireonline.com/reviews/reviewcomplete.asp?FID=134436</url>
+         <critic>Chris Hewitt</critic>
+      </review>
+      <review>
+         <snippet>Po speaks loudly and carries big shtick. Let the rest of the world cringe at our hyperconfidence, our charisma, our pure awesomeness.</snippet>
+         <url>http://www.nypost.com/seven/06062008/entertainment/movies/black_power__114153.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>The result is a genuinely pleasing kung fu movie that kids and grown-ups can enjoy.</snippet>
+         <url>http://blog.oregonlive.com/madaboutmovies/2008/06/review_kicking_out_the_jams_in.html</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>It's the overriding spirit of the movie that forms its greatest appeal: Here's a movie that isn't intent on conquering the world but simply entertaining you for a breezy 90 minutes.</snippet>
+         <url>http://www.miamiherald.com/1054/story/558858.html</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>This movie leaves 'em laughing - and gasping.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/reviews/bal-to.kung06jun06,0,2595387.story</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>Thanks to a witty script and the recognizably goofy but absolutely earnest delivery of Black, Kung Fu Panda has a human soul, too.</snippet>
+         <url>http://www.philly.com/inquirer/columnists/steven_rea/20080606_Kicky_cartoon_comedy_with_pugilistic_panda.html</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>I'm going to go out on a limb here and say that this is probably the best movie so far this year about a kung-fu fighting panda.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2008/06/05/DDOM113VRP.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>Beautifully animated, the celebrity voice performances are terrific, and the action sequences negotiate the fine line between being physically convincing and becoming too intense for the young children.</snippet>
+         <url>http://www.tvguide.com/movies/kung-fu-panda/review/293490</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>It was definitely a great idea to give Kung Fu Panda the IMAX treatment. The fight scenes, quivering whiskers and moist noses, foggy mountaintops, and fluttering peach blossoms are equally impressive on the huge, curved screen.</snippet>
+         <url>http://www.premiere.com/moviereviews/4608/kung-fu-panda.html</url>
+         <critic>Jenni Miller</critic>
+      </review>
+      <review>
+         <snippet>Not one of the great recent animated films. The story is way too predictable, and truth to tell, Po himself didn't overwhelm me with his charisma. But it's elegantly drawn, the action sequences are packed with energy, and it's short enough that older viewers will be forgiving.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20080605/REVIEWS/845765715</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>This is a solid family film material, although one suspects the children will get a little more out of it than their parents.</snippet>
+         <url>http://www.reelviews.net/php_review_template.php?identifier=1001</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>Perfectly pleasant, very good-looking, modestly funny, dispiritingly unoriginal variant on the nerd-with-a-dream recipe that's been clobbered to death in animated films for at least a decade now.</snippet>
+         <url>http://www.villagevoice.com/film/0823,kung-fu-panda,458829,20.html</url>
+         <critic>Ella Taylor</critic>
+      </review>
+      <review>
+         <snippet>The action, heavily influenced by Hong Kong martial arts films, is beautifully choreographed.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/la-et-panda6-2008jun06,0,1363628.story</url>
+         <critic>Carina Chocano</critic>
+      </review>
+      <review>
+         <snippet>The essence of the film is slapsticky, chopsocky action, rendered with great verve and accompanied by bromides having to do with the need to believe.</snippet>
+         <url>http://online.wsj.com/article/SB121271272126950681.html</url>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>Tongue-in-cheek dialogue, inventive slapstick and fight sequences, and luminous production design make this a treat.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/33233_KUNG_FU_PANDA.html</url>
+         <critic>Andrea Gronvall</critic>
+      </review>
+      <review>
+         <snippet>Po (Black) may be an animated panda bear, but make no mistake: Deep down he's really just a nerd with a pop-culture obsession.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A630605</url>
+         <critic>Josh Rosenblatt</critic>
+      </review>
+      <review>
+         <snippet>The film lacks the comic ingenuity of the best in CGI critter movies. It's not fun-for-the-whole-family, like "Shrek." Still, it's a howl and amazement for anyone under 12.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20080605.wpanda06/BNStory/Entertainment/home</url>
+         <critic>Stephen Cole</critic>
+      </review>
+      <review>
+         <snippet>Kung Fu Panda goes nowhere surprising even as its images unscroll handsomely before our eyes. The sound could go out in the theater, and you wouldn't ask for your money back.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=9696</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>This is an unashamedly old-fashioned children's movie, and a predictable message is part of the mission. But that's okay; what the movie lacks in surprises, it makes up for in whimsical fun.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2008/06/06/2008-06-06_jack_black_and_allstar_cast_get_a_kick_o.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>Though the film's simple story is squarely aimed at tots, DreamWorks' digitizers have referenced Eastern visual styles -- everything from delicate Chinese screens to flashy Japanese anime -- to enliven the look of the film.</snippet>
+         <url>http://www.npr.org/templates/story/story.php?storyId=91187992</url>
+         <critic>Bob Mondello</critic>
+      </review>
+      <review>
+         <snippet>A nice looking but heavily formulaic DreamWorks animation entry.</snippet>
+         <url>http://www.variety.com/VE1117937142.html</url>
+         <critic>Todd McCarthy</critic>
+      </review>
+      <review>
+         <snippet>Though occasionally visually inventive, Kung Fu Panda is a disappointment when it comes to matters of simple black and white: the script.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2008-06-05-kung-fu-panda_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>It's impressive enough to look at, and the voice talent – especially Black and Hoffman - doesn't disappoint, but all the CGI wankery and high-end talent only barely allows Kung Fu Panda to rise above cliché.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=10995</url>
+         <critic>Pete Vonder Haar</critic>
+      </review>
+   </reviews>
+   <US_Gross>$215,434,591</US_Gross>
+   <weekend_gross>$60,239,130</weekend_gross>
+   <number_of_screens>4,114</number_of_screens>
+   <oscar_winning_actors_present/>
+   <num_oscar_winning_actors>2</num_oscar_winning_actors>
+   <oscar_winning_actor>dustin hoffman</oscar_winning_actor>
+   <highest_grossing_actors_present/>
+   <num_highest_grossing_actors>2</num_highest_grossing_actors>
+   <highest_grossing_actor>dustin hoffman</highest_grossing_actor>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

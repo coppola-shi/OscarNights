@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Catch and Release</name>
+   <company>Columbia Pictures / Sony Pictures Entertainment</company>
+   <genres>
+      <genre>Comedy</genre>
+      <genre>Drama</genre>
+      <genre>Romance</genre>
+   </genres>
+   <authors>
+      <author>Susannah Grant</author>
+   </authors>
+   <directors>
+      <director>Susannah Grant</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Jennifer Garner</actor>
+      <actor>Timothy Olyphant</actor>
+      <actor>Sam Jaeger</actor>
+      <actor>Kevin Smith</actor>
+      <actor>Juliette Lewis</actor>
+      <actor>Joshua Friesen</actor>
+      <actor>Fiona Shaw</actor>
+      <actor>Tina Lifford</actor>
+   </actors>
+   <release_date>January 26, 2007</release_date>
+   <running_time>124</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>Rough around the edges, but once you get used to the laconic pace, the plot grooves along nicely.</snippet>
+         <url>http://sfgate.com/cgi-bin/article.cgi?f=/c/a/2007/01/26/DDG7CNODG91.DTL&amp;type=movies</url>
+         <critic>Peter Hartlaub</critic>
+      </review>
+      <review>
+         <snippet>Take away the death and revelations that follow, and Catch And Release has the makings of a weekly half-hour network comedy--call it "Four's Company."</snippet>
+         <url>http://www.avclub.com/content/node/57878</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>As soon as it pitches camp in generic romantic-comedy territory, it loses its intriguing edge and becomes one more predictable girl-meets-unsuitable-boy story.</snippet>
+         <url>http://tvguide.com/detail/movie.aspx?tvobjectid=285716&amp;more=ucmoviereview</url>
+         <critic>Angel Cohn</critic>
+      </review>
+      <review>
+         <snippet>Although I find the term "chick flick" odious, I imagine that Columbia Pictures regards Catch and Release as exactly that, although there are signs that Ms. Grant was reaching for something more layered and subtle than the usual fairy-tale formula</snippet>
+         <url>http://movies2.nytimes.com/2007/01/26/movies/26catc.html</url>
+         <critic>Stephen Holden</critic>
+      </review>
+      <review>
+         <snippet>An oddly appealing, if innocuous, movie of considerable charm.</snippet>
+         <url>http://www.calendarlive.com/printedition/calendar/cl-et-catch26jan26,0,3523096.story</url>
+         <critic>Kevin Crust</critic>
+      </review>
+      <review>
+         <snippet>One of those movies where the small pleasures stack up high enough to dwarf the disappointments.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2007/01/26/catch/index.html</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>It's not a comedy-drama, really. It's let's-all-share therapy in beautiful Boulder, Colo.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-to.catch26jan26,0,24470.story?coll=bal-artslife-movies</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>There's a funkier and more interesting movie in Maureen, a character played by Juliette Lewis. Maureen is a single mom, a massage therapist, and a dimwit California follower of every new-age theory out there. She's a nasal, needy wreck, and Catch and Release is torn between adoring her and making ruthless fun of her.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=8446</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>So superficial and formulaic that even Garner's mega-watt grin can't completely save it.</snippet>
+         <url>http://ae.miami.com/entertainment/ui/miami/movie.html?id=795020&amp;reviewId=22129</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>Grant's film plays like a two-hour episode of "Friends" intercut with "Seventh Heaven." Those sounds you hear are wisecrack, heartbreak, heartbreak, wisecrack, wisecrack.</snippet>
+         <url>http://ae.philly.com/entertainment/ui/philly/movie.html?id=795020&amp;reviewId=22114</url>
+         <critic>Carrie Rickey</critic>
+      </review>
+      <review>
+         <snippet>As his wisecracking roomie, Smith keeps this contrived chick flick afloat, managing to steer past the kind of egregious product placement that would have capsized a less agile performer.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/31040_CATCH_AND_RELEASE.html</url>
+         <critic>Andrea Gronvall</critic>
+      </review>
+      <review>
+         <snippet>Because so little of it works, the film is disposable.</snippet>
+         <url>http://www.reelviews.net/movies/c/catch_release.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>A so-so romantic dramedy.</snippet>
+         <url>http://www.variety.com/review/VE1117932554.html?categoryid=31&amp;cs=1</url>
+         <critic>Lael Loewenstein</critic>
+      </review>
+      <review>
+         <snippet>Garner is no more than serviceable as the tightly wound Gray.</snippet>
+         <url>http://www.laweekly.com/film+tv/film-reviews/film-reviews/15487/</url>
+         <critic>Ella Taylor</critic>
+      </review>
+      <review>
+         <snippet>Gray says she hates fishermen who catch and release: Getting jerked around hurts the jaw. See this movie and you'll know the feeling.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/7599178/review/13247284/catch_and_release</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>Making her feature-film directorial debut, Grant is going for an everyday conversational texture and a sense of life's curveballs. But the results wander and you never really believe them.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-070126-movies-review-catch,0,4388811.story?coll=mmx-movies_top_heds</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>I just don't know any chick who will make sense of this flick -- it's that blitheringly out of touch with present psychosexual (never mind feminist) time and space.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20009588,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>An unfunny, undramatic comedy-drama that asks us to care about lying idiots making implausible choices.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/1169690111273000.xml&amp;coll=7</url>
+         <critic>M. E. Russell</critic>
+      </review>
+      <review>
+         <snippet>Won't make anybody’s "best of" lists a year from now, but it's nowhere near as offensive as some other examples of this moldy genre.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=9695</url>
+         <critic>Pete Vonder Haar</critic>
+      </review>
+      <review>
+         <snippet>A film with a fishing metaphor for a title should have come with sharper hooks.</snippet>
+         <url>http://www.empireonline.com/reviews/review.asp?FID=133101</url>
+         <critic>Tony Horkins</critic>
+      </review>
+      <review>
+         <snippet>The film suffers from a style that settles for pleasant or touching at the cost of spontaneous or impassioned. Too bad, because Ms. Garner is a genuinely pleasing presence.</snippet>
+         <url/>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>Now it's just another romantic comedy, neither terribly bad nor truly great, buoyed along on currents of hope and post-traumatic good cheer.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A438446</url>
+         <critic>Marc Savlov</critic>
+      </review>
+      <review>
+         <snippet>Throughout, Garner retains a permanent grimace, as if persuasive acting can be achieved by contorting cheek muscles and pouting lips. It's not just depressing to watch; it's tiring. We want to tell her to relax -- for our own relief.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1106703&amp;categories=Movies&amp;nm=1</url>
+         <critic>Desson Thomson</critic>
+      </review>
+      <review>
+         <snippet>Catch and Release is not worth catching. Release yourself from boredom by giving it a miss.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2007-01-25-catch-and-release_x.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>Really, women drag their husbands and boyfriends to films like writer-director Susannah Grant's emotionally bogus Catch and Release and I feel their pain. They should get a free Boys Night Out pass every time they make the sacrifice.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/moviereviews/story/491853p-414317c.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>Time doesn't just slow down while you're watching Catch and Release -- it actually comes to a dead stop.</snippet>
+         <url>http://www.premiere.com/moviereviews/3461/catch-and-release.html</url>
+         <critic>Ethan Alter</critic>
+      </review>
+      <review>
+         <snippet>Despite their hackneyed characters, Smith and Lewis create a tiny spark and add a little humour. Without them, Catch and Release would be totally dead in the water.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20070126.wcatch26/BNStory/Entertainment/home</url>
+         <critic>Jennie Punter</critic>
+      </review>
+      <review>
+         <snippet>The chick comedy-drama Catch and Release may look bland, but it's not. It's worse. To rise to the level of blandness, it would need to have a few gallons of Tabasco dumped into it.</snippet>
+         <url>http://www.nypost.com/seven/01262007/entertainment/movies/one_trick_chick_flick_doesnt_click_movies_kyle_smith.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+   </reviews>
+   <US_Gross>$15,432,542</US_Gross>
+   <weekend_gross>$7,658,898</weekend_gross>
+   <number_of_screens>1,622</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

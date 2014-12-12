@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Adam &amp; Steve</name>
+   <company>TLA Releasing</company>
+   <genres>
+      <genre>Comedy</genre>
+      <genre>GayLesbian</genre>
+      <genre>Romance</genre>
+   </genres>
+   <authors>
+      <author>Craig Chester</author>
+   </authors>
+   <directors>
+      <director>Craig Chester</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Parker Posey</actor>
+      <actor>Chris Kattan</actor>
+      <actor>Craig Chester</actor>
+      <actor>Malcolm Gets</actor>
+      <actor>Melinda Dillon</actor>
+      <actor>Kent Fuher</actor>
+      <actor>Steve Geary</actor>
+      <actor>Julie Hagerty</actor>
+   </actors>
+   <release_date>March 31, 2006</release_date>
+   <running_time>99</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>A genuinely affecting love story with something to say about such contemporary obstacles to affection as weird families, hot exes, addictions, anonymous hookups, homophobia, irony, gay two-stepping -- and the difficulty of connecting no matter what gender you go for.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2006/04/07/DDG5UI43FV1.DTL#flick5</url>
+         <critic>Joe Brown</critic>
+      </review>
+      <review>
+         <snippet>Lighthearted and funny, it falters only in the rare moments when it takes itself too seriously.</snippet>
+         <url>http://www.villagevoice.com/film/0613,levine,72692,20.html</url>
+         <critic>Melissa Levine</critic>
+      </review>
+      <review>
+         <snippet>It's the most honest, refreshing comedy about love – gay, straight, or both – I've seen in many moons, and at the end everyone's problems are solved by a country-western dance battle with drag doyenne Jackie Beat on the mic.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A350463</url>
+         <critic>Marrit Ingman</critic>
+      </review>
+      <review>
+         <snippet>Often charming and funny, though sometimes quite gross.</snippet>
+         <url>http://www.nypost.com/movies/66300.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>It hits more often than it misses, and the best parts are always the simplest, in which the stars wing it with nothing to go on but their natural chemistry.</snippet>
+         <url>http://online.tvguide.com/movies/database/Movie-Review.asp?MI=46859</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>Gay Gotham farce written, directed and starring veteran actor Craig Chester ("Swoon," "Kiss Me Guido") delivers plenty of well-timed slapstick, a brace of oddball zanies and a couple of show-stopper musical numbers. Material is uneven, but rhythm and pacing keep action moving smartly.</snippet>
+         <url>http://www.variety.com/review/VE1117927435?categoryid=31&amp;cs=1</url>
+         <critic>Ronnie Scheib</critic>
+      </review>
+      <review>
+         <snippet>Adam &amp; Steve is uneven, but it's a relief to see a gay romance that isn't about ab-perfect 20-year-olds, and which features lovers played by two long out-of-the-closet actors. Wonder of wonders.</snippet>
+         <url>http://www.laweekly.com/film-reviews/13010/film-reviews/</url>
+         <critic>Chuck Wilson</critic>
+      </review>
+      <review>
+         <snippet>Any professional film editor watching this movie is going to suffer through one moment after another that begs to be ripped from the film and cut up into ukulele picks. Never mind the film editor: A lot of audiences, with all the best will in the world, are going to feel the same way.</snippet>
+         <url>http://www.rogerebert.com/apps/pbcs.dll/article?AID=/20060330/REVIEWS/60323006/1023</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>Much of Craig Chester's good-hearted love story Adam &amp; Steve is silly and contrived, but the film boasts four engaging actors.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-adam31mar31,0,7436605.story</url>
+         <critic>Kevin Thomas</critic>
+      </review>
+      <review>
+         <snippet>Not the knee-slapper it wants to be, but it's endearing nonetheless.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=8640</url>
+         <critic>Bobby Hankinson</critic>
+      </review>
+      <review>
+         <snippet>Co-stars Parker Posey and Chris Kattan offer minor diversions, but the humor never rises to the quality any New Yorker, regardless of sexual orientation, would expect.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/moviereviews/story/404594p-342500c.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>It wobbles between a conventionally quirky lighthearted goof and an oddball farce in which character is sacrificed for sight gags.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/269879_adamandsteve12q.html</url>
+         <critic>Sean Axmaker</critic>
+      </review>
+      <review>
+         <snippet>Strikes an unsatisfying balance between serious romantic texture and outright farce.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1114779&amp;lat=200.0&amp;lon=200.0&amp;displaySearchLocation=&amp;nm=1&amp;categories=Movies</url>
+         <critic>Desson Thomson</critic>
+      </review>
+      <review>
+         <snippet>Despite the high spirits, most of the comedy is feeble and forced; Steve's career as a therapist seems especially far-fetched.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/27996_ADAM_AND_STEVE.html</url>
+         <critic>Jonathan Rosenbaum</critic>
+      </review>
+      <review>
+         <snippet>A mostly bland, sporadically crude, by-the-numbers romantic comedy about two gay men in love.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-060331-movies-review-adam,0,3758698.story?coll=mmx-movies_top_heds</url>
+         <critic>Allison Benedikt</critic>
+      </review>
+      <review>
+         <snippet>The gay, independent comedy Adam &amp; Steve is as crude and nonsensical as any number of B-list studio equivalents, with the added disadvantages of a low budget and shaky direction by Craig Chester, who wrote and also stars.</snippet>
+         <url>http://movies2.nytimes.com/2006/03/31/movies/31adam.html</url>
+         <critic>Stephen Holden</critic>
+      </review>
+      <review>
+         <snippet>Ultimately Adam &amp; Steve mainly goes to prove that indie gay romantic comedies can be just as witless, vulgar and over the top as their straight, major studio counterparts.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1002382824</url>
+         <critic>Frank Scheck</critic>
+      </review>
+   </reviews>
+   <US_Gross>$309,404</US_Gross>
+   <weekend_gross>$66,429</weekend_gross>
+   <number_of_screens>17</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Bandslam</name>
+   <company>Summit Entertainment</company>
+   <genres>
+      <genre>Comedy</genre>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author>Josh A. Cagan</author>
+      <author>Todd Graff</author>
+   </authors>
+   <directors>
+      <director>Todd Graff</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Alyson Michalka</actor>
+      <actor>Vanessa Hudgens</actor>
+      <actor>Gaelen Connell</actor>
+      <actor>Lisa Kudrow</actor>
+   </actors>
+   <release_date>August 14, 2009</release_date>
+   <running_time>111</running_time>
+   <rating>PG</rating>
+   <reviews>
+      <review>
+         <snippet>Had Cameron Crowe and the late John Hughes collaborated on a movie populated by Disney Channel superstars, the result might have looked and sounded a lot like Todd Graff's Bandslam. And that's meant as a compliment.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film-reviews/bandslam-film-review-1004001549.story</url>
+         <critic>Michael Rechtshaffen</critic>
+      </review>
+      <review>
+         <snippet>High school musicals have their scrappiest number in Bandslam, an awkward, earnest, almost irresistible indie.</snippet>
+         <url>http://www.variety.com/review/VE1117940790.html?categoryid=31&amp;cs=1</url>
+         <critic>Rob Nelson</critic>
+      </review>
+      <review>
+         <snippet>the script's earnest intelligence and the actors' charm (Connell, Hudgens and Kudrow are especially fun to watch) make this film an entertaining ode to teenage joie de vivre.</snippet>
+         <url>http://www.washingtonpost.com/gog/movies/bandslam,1156302.html</url>
+         <critic>Ruth McCann</critic>
+      </review>
+      <review>
+         <snippet>Here’s the surprise: Bandslam may come from synthetic materials, but the characters are a little more complicated than usual.</snippet>
+         <url>http://featuresblogs.chicagotribune.com/talking_pictures/</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>Misfit teens in the process of forming a high school band learn life lessons and raise their goblets of rock. But there's enough of a strong filmmaking backbeat in Bandslam to carry the movie's light tune.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20297367,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>This isn’t a breakthrough movie, but for what it is, it’s charming, and not any more innocuous than it has to be.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20090812/REVIEWS/908129991</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>Bandslam is “Camp’’ with rock ’n’ roll instead of show tunes, but its roots go back to the Busby Berkeley backstagers and Mickey-and-Judy let’s-put-on-a-show musicals of the 1930s.</snippet>
+         <url>http://www.boston.com/ae/movies/articles/2009/08/14/as_disney_musicals_go_bandslam_rocks/</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>The late John Hughes would have liked Bandslam, an upbeat high school musical that plays like a garage-band cover of "The Breakfast Club."</snippet>
+         <url>http://www.philly.com/philly/entertainment/movies/20090814_A_boy__two_girls__music_goes_round.html</url>
+         <critic>Carrie Rickey</critic>
+      </review>
+      <review>
+         <snippet>Buoyant, gratifying and, yes, rocking.</snippet>
+         <url>http://movies.nytimes.com/2009/08/14/movies/14bandslam.html?ref=movies</url>
+         <critic>Andy Webster</critic>
+      </review>
+      <review>
+         <snippet>Best of all  is newcomer Connell, the kind of charismatic kid who would have been cast in "Freaks and Geeks" ten years ago.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2009/08/13/2009-08-13_bandslam_.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>Todd Graff's film is written with a desperate cleverness that clamors for attention over the brainless against-the-odds music-competition plot.</snippet>
+         <url>http://www.villagevoice.com/2009-08-11/film/bandslam-s-cleverness-clamors-through-brainless-plot/</url>
+         <critic>Nicholas Rapold</critic>
+      </review>
+      <review>
+         <snippet>Bandslam belongs to Connell. He has the unruly 'fro and endearing shamblingness of a young Daniel Stern, and he ably brings to life that rarest of cinematic qualities: decency.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A820625</url>
+         <critic>Kimberley Jones</critic>
+      </review>
+      <review>
+         <snippet>Throughout its first two acts, Bandslam is charming, sweet, and funny enough to merit inclusion in the upper echelon of teen comedies. Then comes a third act weighed down with arbitrary romantic conflicts, leaden melodrama, and a tiresome subplot.</snippet>
+         <url>http://www.avclub.com/articles/bandslam,31661/</url>
+         <critic>Nathan Rabin</critic>
+      </review>
+      <review>
+         <snippet>Bandslam works best when it's focused on young, adorably neurotic creative types putting on a show.</snippet>
+         <url>http://www.npr.org/templates/story/story.php?storyId=111633218</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>Fairly entertaining, if hardly surprising, results.</snippet>
+         <url>http://www.nypost.com/seven/08142009/entertainment/movies/bandslam_184417.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>Two incompatible movies duke it out in Bandslam. Although it's the wimpy teen musical that prevails, it's the misfit coming-of-age story that leaves an impression.</snippet>
+         <url>http://www.stltoday.com/stltoday/entertainment/reviews.nsf/movie/story/CF7E74F0E16CAFDE8625761100009C3D?OpenDocument</url>
+         <critic>Joe Williams</critic>
+      </review>
+      <review>
+         <snippet>Surprisingly watchable despite the formulaic teen format.</snippet>
+         <url>http://www.empireonline.com/reviews/reviewcomplete.asp?FID=136009</url>
+         <critic>Anna Smith</critic>
+      </review>
+      <review>
+         <snippet>The least offensive teen movie in ages.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2009/08/13/MVMN197MOJ.DTL&amp;type=movies</url>
+         <critic>Amy Biancolli</critic>
+      </review>
+      <review>
+         <snippet>Lack of sparkling teen chatter prevent this movie from being a slam dunk.</snippet>
+         <url>http://www.theglobeandmail.com/news/arts/bandslam/article1250774/</url>
+         <critic>Jennie Punter</critic>
+      </review>
+      <review>
+         <snippet>The performances in Bandslam are uniformly strong -- good enough to make you wish this bunch of charismatic, talented kids had been given better material.</snippet>
+         <url>http://www.miamiherald.com/entertainment/movies/reviews/story/1183911.html</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+   </reviews>
+   <US_Gross>$5,210,988</US_Gross>
+   <weekend_gross>$2,231,273</weekend_gross>
+   <number_of_screens>2,121</number_of_screens>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

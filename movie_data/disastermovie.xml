@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Disaster Movie</name>
+   <company>Lionsgate</company>
+   <genres>
+      <genre>Comedy</genre>
+   </genres>
+   <authors>
+      <author>Aaron Seltzer</author>
+      <author>Jason Friedberg</author>
+   </authors>
+   <directors>
+      <director>Aaron Seltzer</director>
+      <director>Jason Friedberg</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Matt Lanter</actor>
+      <actor>Vanessa Minnillo</actor>
+      <actor>Carmen Electra</actor>
+      <actor>Kim Kardashian</actor>
+      <actor>G-Thang</actor>
+      <actor>Nicole Parker</actor>
+      <actor>Crista Flanagan</actor>
+      <actor>Ike Barinholtz</actor>
+   </actors>
+   <release_date>August 29, 2008</release_date>
+   <running_time>90</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>The movie is merciless sending up "Juno's" self-satisfied hipster gobbledygook, and it's quite funny to see Hannah Montana still promoting her tie-in products as she lies crushed and dying under a meteor.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20222674,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>The product's not 100% giggle-free: Several songs have amusing lyrics, especially parodies of "Juno" and "High School Musical."</snippet>
+         <url>http://www.latimes.com/entertainment/news/reviews/la-et-disaster1-2008sep01,0,1546661.story</url>
+         <critic>Michael Ordona</critic>
+      </review>
+      <review>
+         <snippet>Lazy, superficially au courant and utterly forgettable.</snippet>
+         <url>http://movies.tvguide.com/disaster-movie/review/294135</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>Why would you watch a bad movie about better movies, when you could just rent the originals instead?</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2008/08/29/2008-08-29_disaster_movie_faces_moment_of_spoof.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>Does little more than congratulate its audience on recognizing the source of its riffs. "High School Musical" -- ha ha ha!</snippet>
+         <url>http://movies.nytimes.com/2008/08/30/movies/30disa.html?ref=movies</url>
+         <critic>Nathan Lee</critic>
+      </review>
+      <review>
+         <snippet>Real disaster movies have more laughs than this spoof.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?&amp;rid=11562</url>
+         <critic>Stephen Farber</critic>
+      </review>
+      <review>
+         <snippet>Seldom has a pic been more appropriately titled than Disaster Movie, yet another frantically unfunny free-form farce.</snippet>
+         <url>http://www.variety.com/review/VE1117938112.html?categoryid=31&amp;cs=1</url>
+         <critic>Joe Leydon</critic>
+      </review>
+      <review>
+         <snippet>A horrific waste of time, money and oxygen.</snippet>
+         <url>http://www.empireonline.com/reviews/reviewcomplete.asp?FID=135673</url>
+         <critic>Glen Ferris</critic>
+      </review>
+      <review>
+         <snippet>It's too easy to say Disaster Movie deserves its title, but why put more effort into trashing it than the filmmakers did into writing it?</snippet>
+         <url>http://www.avclub.com/content/cinema/disaster_movie</url>
+         <critic>Sam Adams</critic>
+      </review>
+      <review>
+         <snippet>The filmmakers are idiots.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=11962</url>
+         <critic>Michael Hardy</critic>
+      </review>
+      <review>
+         <snippet>This carpet-fouling mongrel of a movie no more deserves release than do anthrax spores.</snippet>
+         <url>http://www.laweekly.com/2008-08-28/film-tv/movie-reviews-beautiful-losers-death-note/2</url>
+         <critic>Jim Ridley</critic>
+      </review>
+      <review>
+         <snippet>There's no nice way to say this, so I'll just say it: Writer/directors Friedberg and Seltzer are a scourge.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A664798</url>
+         <critic>Josh Rosenblatt</critic>
+      </review>
+   </reviews>
+   <US_Gross>$14,190,901</US_Gross>
+   <production_budget>$20,000,000</production_budget>
+   <weekend_gross>$5,836,973</weekend_gross>
+   <number_of_screens>2,642</number_of_screens>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>true</labor_release>
+</movie>

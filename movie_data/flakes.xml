@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Flakes</name>
+   <company>IFC Films</company>
+   <genres>
+      <genre>Comedy</genre>
+   </genres>
+   <authors>
+      <author>Karey Kirkpatrick</author>
+      <author>Chris Poche</author>
+   </authors>
+   <directors>
+      <director>Michael Lehmann</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Zooey Deschanel</actor>
+      <actor>Aaron Stanford</actor>
+      <actor>Izabella Miko</actor>
+   </actors>
+   <release_date>December 19, 2007</release_date>
+   <running_time>92</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>Freakies fans will swoon.</snippet>
+         <url>http://www.tvguide.com/detail/movie.aspx?tvobjectid=291845&amp;more=ucmoviereview</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>While Stanford is more annoying than endearing as the self-righteous slacker, the charming Deschanel provides the film with its few moments of genuine fun with her offbeat turn as the wily, put-upon girlfriend.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?JSESSIONID=LzVbHwhLzz6yC06994RvJpnvJTc1f10Rm1GJQYXwXhn10CTNpv4x!1255566043&amp;&amp;rid=10379</url>
+         <critic>Frank Scheck</critic>
+      </review>
+      <review>
+         <snippet>Despite a few good one-liners, the dialogue is overwritten, and director Michael Lehmann (Heathers, The Truth About Cats &amp; Dogs) is in thrall with the hipness he tries to chronicle.</snippet>
+         <url>http://www.villagevoice.com/film/0751,wallace,78647,20.html</url>
+         <critic>Julia Wallace</critic>
+      </review>
+      <review>
+         <snippet>A business course on cutthroat capitalism disguised as a slacker comedy: That’s the kindest way to describe Michael Lehmann’s Flakes.</snippet>
+         <url>http://movies.nytimes.com/2007/12/19/movies/19flak.html?ref=movies</url>
+         <critic>Stephen Holden</critic>
+      </review>
+      <review>
+         <snippet>There are a few sweet moments as the story reaches its unsurprising conclusion. But, all in all, Flakes isn't going to bowl you over.</snippet>
+         <url>http://www.nypost.com/seven/12212007/entertainment/movies/little_is_bran_new_in_corny_cereal_comed_60623.htm</url>
+         <critic>V.A. Musetto</critic>
+      </review>
+      <review>
+         <snippet>Unless you happen to be one yourself, chances are pretty good that you'll take an immediate dislike to the self-satisfied hipsters who populate this disappointing comedy.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2007/12/21/2007-12-21_short_takes_more_movie_reviews-2.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>The characters Lehmann and company use as generational mouthpieces bear no relation to any people who have ever existed, and they barely work as parody.</snippet>
+         <url>http://www.avclub.com/content/cinema/flakes</url>
+         <critic>Noel Murray</critic>
+      </review>
+   </reviews>
+   <US_Gross>$778</US_Gross>
+   <weekend_gross>$613</weekend_gross>
+   <number_of_screens>1</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

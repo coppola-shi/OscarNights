@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Love Guru, The</name>
+   <company>Paramount Pictures</company>
+   <genres>
+      <genre>Comedy</genre>
+   </genres>
+   <authors>
+      <author>Mike Myers</author>
+      <author>Graham Gordy</author>
+   </authors>
+   <directors>
+      <director>Marco Schnabel</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Mike Myers</actor>
+      <actor>Jessica Alba</actor>
+      <actor>Justin Timberlake</actor>
+      <actor>Ben Kingsley</actor>
+      <actor>Meagan Good</actor>
+      <actor>John Oliver</actor>
+      <actor>Verne Troyer</actor>
+      <actor>Romany Malco</actor>
+   </actors>
+   <release_date>June 20, 2008</release_date>
+   <running_time>88</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>What links all these characters is Myers's gift for antic, elfin burlesque. He's like a second-best Peter Sellers.</snippet>
+         <url>http://www.csmonitor.com/2008/0621/p25s01-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>Occasional bursts of comedy keep things from becoming unbearable but whenever Myers tries to get even a little serious or advance the "plot," the desire to take a nap becomes almost overpowering.</snippet>
+         <url>http://www.reelviews.net/php_review_template.php?identifier=1078</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>To be sure, The Love Guru is incredibly funny. Side-splitting laughter only stops when the movie does, so don't expect it to linger all the way to the parking lot.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=11041</url>
+         <critic>Stina Chyn</critic>
+      </review>
+      <review>
+         <snippet>I still kind of find myself admiring the actor, and the film. Love Guru is insane and self-indulgent but also fully committed, and there's a surprising undercurrent of earnestness to its philosophy portions.</snippet>
+         <url>http://www.oregonlive.com/movies/index.ssf/2008/06/movie_review_the_love_guru_cli.html</url>
+         <critic>M. E. Russell</critic>
+      </review>
+      <review>
+         <snippet>The Love Guru is a shambling, hit-or-miss thing, like an old Laurel and Hardy two-reeler. And like the situations those comics often got into, this movie is a fine mess.</snippet>
+         <url>http://www.time.com/time/arts/article/0,8599,1816243,00.html</url>
+         <critic>Richard Corliss</critic>
+      </review>
+      <review>
+         <snippet>Piles dumb gag upon dumb gag - it's like benign pummeling. Occasionally, you just have to laugh.</snippet>
+         <url>http://www.philly.com/philly/entertainment/movies/20080620_Myers___Love_Guru__insults_only_the_I_Q_.html</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>Enraptured by bathroom humor that doesn't even reach sophomoric standards. It's more on the level of preschool.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2008-06-18-love-guru_N.htm?loc=interstitialskip</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>A disappointment, but it's not a disaster, and that's at least something.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2008/06/19/DDLL11BAA1.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>If you're a Toronto native or a big-time hockey geek, there are enough little in jokes to probably carry you through the leaden pacing and barrel-scraping gross-out humor, but it's an awfully dull ride for the rest of us.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/367677_guru20q.html</url>
+         <critic>Travis Nichols</critic>
+      </review>
+      <review>
+         <snippet>Newcomers to the Mike Myers experience will leave this love train early.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/reviews/bal-to.guru20jun20,0,7838273.story</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>The film's sunniest moments occur whenever song preempts all the fighting and smirking. Myers leads the cast in sitar-accompanied covers of such Bollywood favorites as "9 to 5" and Steve Miller's "The Joker," revealing a glimmer of the cross-cultural romp that could have been.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/la-et-guru20-2008jun20,0,4321925.story</url>
+         <critic>Jan Stuart</critic>
+      </review>
+      <review>
+         <snippet>So relentlessly juvenile as to merit a new twist on the PG-13 rating -- one that strongly cautions not only those under 13 but anyone much above it, too.</snippet>
+         <url>http://www.variety.com/review/VE1117937435.html?categoryId=31</url>
+         <critic>Brian Lowry</critic>
+      </review>
+      <review>
+         <snippet>The Love Guru”does not bring out Myer's best,  and aside from a deft early Bollywood parody, there’s nothing visually to help the fun along.</snippet>
+         <url>http://chicago.metromix.com/movies/movie_review/movie-review-the-love/463264/content</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>Myers combines his love of references, silly names, and mindless repetition by having his guru use "Mariska Hargitay" as a greeting/mantra. The first time it's employed, it's merely unfunny; by the 13th or 40th time, it's almost hypnotic in its awfulness.</snippet>
+         <url>http://www.avclub.com/content/cinema/the_love_guru</url>
+         <critic>Nathan Rabin</critic>
+      </review>
+      <review>
+         <snippet>Myers is trying for another of his endearingly hormonal imp-egomaniacs, but hidden behind a wavy beard, a wax-curled mustache, and an astoundingly ugly squashed fake nose, he's a little too grotesque.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20208093,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>The results are a wheezy, tired attempt to milk more laughs out of the '60s, by doing exactly what "Austin Powers" did.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1145214&amp;categories=Movies&amp;nm=1</url>
+         <critic>John Anderson</critic>
+      </review>
+      <review>
+         <snippet>Not only does the film stumble badly from one skit to another, the skits themselves have too much dead air.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?JSESSIONID=hNnXLYqGpq2lv8BnRZ7HpZwwFnrn4cfppqMwpvfYJTfyWk92LGQ7!-228458968&amp;&amp;rid=11259</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>Now and again some pungent writing leaks through to poke fun at the excruciating banality of guru wisdom. But mostly it’s dreary dick jokes and elephant poop, slack directing by Marco Schnabel, and, of all fatal errors, Mike Myers, shooting for cuddly.</snippet>
+         <url>http://www.villagevoice.com/film/0825,mike-myers-in-the-love-guru,471506,20.html</url>
+         <critic>Ella Taylor</critic>
+      </review>
+      <review>
+         <snippet>This Mike Myers vehicle exemplifies American comedy's continuing slide into infantilism.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/33276_LOVE_GURU.html</url>
+         <critic>Andrea Gronvall</critic>
+      </review>
+      <review>
+         <snippet>Adam Sandler can breathe a sigh of relief: Thanks to this crude, bafflingly unfunny comedy from fellow SNL alum Mike Myers, Sandler can rest assured that his "You Don't Mess With The Zohan" won't go down as the worst movie of 2008.</snippet>
+         <url>http://www.tvguide.com/movies/love-guru/review/293491</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>The Love Guru is even funnier than "Wayne's World" or "Austin Powers."  Not.</snippet>
+         <url>http://www.nypost.com/seven/06202008/entertainment/movies/stop_making_incense_116290.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>Myers has made some funny movies, but this film could have been written on toilet walls by callow adolescents.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20080619/REVIEWS/826592907</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>The Love Guru is a comedy like the Leafs are a hockey team.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/LAC.20080620.GURU20/TPStory/TPEntertainment/Movies/</url>
+         <critic>Rick Groen</critic>
+      </review>
+      <review>
+         <snippet>Insulting to anyone with a healthy sense of humor and the simple desire to laugh.</snippet>
+         <url>http://www.miamiherald.com/1054/story/575612.html</url>
+         <critic>Connie Ogle</critic>
+      </review>
+      <review>
+         <snippet>This is the first time we've seen Myers in the flesh since he committed assault and battery on Dr. Seuss, and I wish the cat had stayed in the hat.</snippet>
+         <url>newcomers to the Mike Myers experience will leave this love train early.</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>An atrocious, idiotic 88 minutes of anti-entertainment. To borrow word-shtick from the guru Pitka, it's AWFUL as in, "Anyone Watching Feels, Um, Loser-ish."</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2008/06/20/2008-06-20_for_the_love_guru_schtick_is_myered_in_s.html</url>
+         <critic>Joe Neumaier</critic>
+      </review>
+      <review>
+         <snippet>None of them -- not one, not for a moment -- is remotely funny.</snippet>
+         <url>http://www.npr.org/templates/story/story.php?storyId=91637935</url>
+         <critic>Bob Mondello</critic>
+      </review>
+      <review>
+         <snippet>It recycles gags from earlier and better Myers movies and hopes that the audience won't notice because they're too busy staring at Timberlake's bursting Speedo.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A637113</url>
+         <critic>Josh Rosenblatt</critic>
+      </review>
+      <review>
+         <snippet>Ninety minutes pass like an eternity. Verdict: Down for the count.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/18265949/review/21382937/the_love_guru</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>Offensive to Hindus. Never mind the Hindus; The Love Guru is offensive to pretty much anyone with a brain.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2008/06/20/love_guru/</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>The Love Guru is downright antifunny, an experience that makes you wonder if you will ever laugh again.</snippet>
+         <url>http://movies.nytimes.com/2008/06/20/movies/20guru.html</url>
+         <critic>A.O. Scott</critic>
+      </review>
+      <review>
+         <snippet>The road taken by The Love Guru could hardly be lower, and leads nowhere.</snippet>
+         <url>http://online.wsj.com/article/SB121391259991589875.html?mod=2_1168_1</url>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>This tale of a guru who brings joy to all who meet him is the most joy-draining 88 minutes I've ever spent outside a hospital waiting room.</snippet>
+         <url>http://www.slate.com/id/2193942/</url>
+         <critic>Dana Stevens</critic>
+      </review>
+   </reviews>
+   <US_Gross>$32,200,122</US_Gross>
+   <weekend_gross>$13,907,130</weekend_gross>
+   <number_of_screens>3,012</number_of_screens>
+   <oscar_winning_actors_present/>
+   <num_oscar_winning_actors>1</num_oscar_winning_actors>
+   <oscar_winning_actor>ben kingsley</oscar_winning_actor>
+   <highest_grossing_actors_present/>
+   <num_highest_grossing_actors>1</num_highest_grossing_actors>
+   <highest_grossing_actor>mike myers</highest_grossing_actor>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

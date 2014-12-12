@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Fireproof</name>
+   <company>Samuel Goldwyn Films</company>
+   <genres>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author>Stephen Kendrick</author>
+      <author>Alex Kendrick</author>
+   </authors>
+   <directors>
+      <director>Alex Kendrick</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Kirk Cameron</actor>
+      <actor>Erin Bethea</actor>
+      <actor>Ken Bevel</actor>
+      <actor>Harris Malcom</actor>
+      <actor>Phyllis Malcom</actor>
+      <actor>Stephen Dervan</actor>
+      <actor>Eric Young</actor>
+      <actor>Jason McLeod</actor>
+   </actors>
+   <release_date>September 26, 2008</release_date>
+   <running_time>122</running_time>
+   <rating>PG</rating>
+   <reviews>
+      <review>
+         <snippet>While hardly sophisticated in its approach and certainly not polished in its technical elements, the film does get its heartfelt message across with undeniable sincerity.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?JSESSIONID=2yjdLj5hbcLh275BTSqT0SzZPYR1QXxfYyTv7nqhnRs1T1LRM2xH!-459257539&amp;&amp;rid=11737</url>
+         <critic>Frank Scheck</critic>
+      </review>
+      <review>
+         <snippet>Cameron is genuinely compelling as Caleb.</snippet>
+         <url>http://www.variety.com/review/VE1117938520.html?categoryid=31&amp;cs=1</url>
+         <critic>Joe Leydon</critic>
+      </review>
+      <review>
+         <snippet>The filmmakers hedge their bets by making the young marrieds agnostic at the start of the movie, in order to turn Fireproof into a manual for eternal as well as marital salvation.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20229911,00.html</url>
+         <critic>Chris Willman</critic>
+      </review>
+      <review>
+         <snippet>Then the film gets all religulous, suggesting that Caleb's devotion to healing means nothing without Jesus, and so Fireproof stops becoming relatable to us all and only to the already, or easily, indoctrinated.</snippet>
+         <url>http://www.laweekly.com/2008-10-02/film-tv/movie-reviews-an-american-carol-beverly-hills-chihuahua-flash-of-genius/2</url>
+         <critic>Ed Gonzales</critic>
+      </review>
+      <review>
+         <snippet>Makes for fruitful soul-fishing but lousy drama.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A676129</url>
+         <critic>Josh Rosenblatt</critic>
+      </review>
+      <review>
+         <snippet>Cameron acts like a childish jerk, even in the reconciliation phase, and the underlying reason is that he--and the movie--hates women.</snippet>
+         <url>http://www.avclub.com/content/cinema/fireproof</url>
+         <critic>Scott Tobias</critic>
+      </review>
+   </reviews>
+   <US_Gross>$33,451,479</US_Gross>
+   <production_budget>$500,000</production_budget>
+   <weekend_gross>$6,804,764</weekend_gross>
+   <number_of_screens>839</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Awesome</name>
+   <company>ThinkFilm</company>
+   <genres>
+      <genre>Documentary</genre>
+      <genre>Musical</genre>
+   </genres>
+   <authors>
+      <author/>
+   </authors>
+   <directors>
+      <director>Nathaniel Hornblower</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Mike D</actor>
+      <actor>Adam Horovitz</actor>
+      <actor>Adam Yauch</actor>
+      <actor>Mix Master Mike</actor>
+      <actor>Money Mark</actor>
+      <actor>Doug E. Fresh</actor>
+   </actors>
+   <release_date>March 31, 2006</release_date>
+   <running_time>90</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>The Beastie Boys have delivered the ultimate gift to their fans and the title couldn't be more perfect.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=8389</url>
+         <critic>Michael Ferraro</critic>
+      </review>
+      <review>
+         <snippet>A killer concert film, an ecstatic testament to the joys of fandom and a tribute to the democratizing potential of moviemaking technology.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1118982&amp;lat=200.0&amp;lon=200.0&amp;displaySearchLocation=&amp;nm=1&amp;categories=Movies</url>
+         <critic>Ann Hornaday</critic>
+      </review>
+      <review>
+         <snippet>Obviously, if you don't like the Beasties or live music, arena-style, it's unlikely that you'll like their movie. But if you've ever even privately caught yourself nodding your head to "Brass Monkey," or you have a soft spot for the big-venue concert experience, Awesome rocks.</snippet>
+         <url>http://www.premiere.com/article.asp?section_id=2&amp;article_id=2705</url>
+         <critic>Jessica Letkemann</critic>
+      </review>
+      <review>
+         <snippet>Needless to say, anyone who's not entirely down with the beastly noise of the Beastie Boys will hate every second of it. This one's strictly for -- and, for the most part, by -- the fans.</snippet>
+         <url>http://online.tvguide.com/movies/database/Movie-Review.asp?MI=46856</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>Get ready to be shaken and stirred.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/_/id/8949070/rid/9514569/</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>Alternately hypnotic and headache-inducing.</snippet>
+         <url>http://www.avclub.com/content/node/46823</url>
+         <critic>Nathan Rabin</critic>
+      </review>
+      <review>
+         <snippet>The result: a swirling, kaleidoscopic take on a familiar concept, and a raucous, you-are-there atmosphere.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-060331-movies-review-awesome,0,3215008.story?coll=mmx-movies_top_heds</url>
+         <critic>Jessica Reaves</critic>
+      </review>
+      <review>
+         <snippet>It's raucous and loud as hell; the hyperactive editing could trigger grand mal seizures.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=8713</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>It's the next best thing to being front and center.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/moviereviews/story/404594p-342500c.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>If you're not a Beasties fan, you'll get almost nothing out of this after about two minutes. But if you like the band and want to see them rock hard in front of their oldest fans, it's a tasty treat.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/1143665706222400.xml&amp;coll=7</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>After this movie, the Beasties and their fans, camera-totin' or not, are left drenched, exhausted, delighted.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2006/03/30/btm/index.html</url>
+         <critic>Andrew O&amp;#039;Hehir</critic>
+      </review>
+      <review>
+         <snippet>The movie starts to drag near the end and feels longer than its 90 minutes - but that's cool. It's a love letter to the faithful in the first place.</snippet>
+         <url>http://www.laweekly.com/film-reviews/13010/film-reviews/</url>
+         <critic>Ernest Hardy</critic>
+      </review>
+      <review>
+         <snippet>The sense of immediacy and excitement is contagious.</snippet>
+         <url>http://www.variety.com/index.asp?layout=features2006&amp;content=jump&amp;jump=review&amp;head=sundance&amp;nav=RSundance&amp;articleid=VE1117929317&amp;cs=1&amp;s=h&amp;p=0</url>
+         <critic>Dennis Harvey</critic>
+      </review>
+      <review>
+         <snippet>With Awesome's insistence on professional sound--only a few times do we get sonically dropped into the cavernous, thumping Garden--and cuts to pristine close-ups of things like Mixmaster Mike's admittedly sick scratch detail work, it plays like a hype victory lap rather than a boundary-smashing study of fan curiosity or pathology.</snippet>
+         <url>http://www.villagevoice.com/film/0613,sinagra,72684,20.html</url>
+         <critic>Laura Sinagra</critic>
+      </review>
+      <review>
+         <snippet>Cutting to the beat of the Beasties' propulsive rap, Hörnblowér creates an experience that is simultaneously low-fi and state-of-the-art.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-capsules31mar31,0,3862210.story</url>
+         <critic>Kevin Crust</critic>
+      </review>
+      <review>
+         <snippet>Boils down to a performance film with abysmal sound in which you rarely get to see a good, revealing close-up of the stars.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1178141_1_0_,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>Awesome will please fans of the band, but expect little crossover to nonfans. No new ground is broken here. From a cinematic point of view, Awesome represents simply a monumental postproduction salvaging effort.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1002274413</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>The film quickly ceases to be of interest to anyone but dedicated fans. The novelty of the deliberate ugliness wears off after a song or two.</snippet>
+         <url>http://www.nypost.com/movies/66291.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>The result, although a great idea, doesn't translate into a great movie.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2006/03/31/DDG9AI0F5L1.DTL#flick</url>
+         <critic>Neva Chonin</critic>
+      </review>
+      <review>
+         <snippet>As for the authorial conceit - assembling the movie from giddy, spastic, amateur photography captured from every part of the arena - at best it yields energetic perspectives on the show, at worst it looks like a cellphone video camera having an epileptic seizure.</snippet>
+         <url>http://movies2.nytimes.com/2006/03/31/movies/31awes.html</url>
+         <critic>Nathan Lee</critic>
+      </review>
+      <review>
+         <snippet>Eventually the shaky, grainy visuals grow tiresome, but director Nathaniel Hornblower (aka Beastie Boy Adam Yauch) keeps things lively with a variety of editing tricks and sly humor.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/29467_AWESOME_I_FUCKIN_SHOT_THAT.html</url>
+         <critic>Bob Mehr</critic>
+      </review>
+      <review>
+         <snippet>For the most part, the film is a chaotic blur of disconnected movement that re-creates the feeling of an unforgettably bad concert experience.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/264956_awesome31q.html</url>
+         <critic>Bill White</critic>
+      </review>
+   </reviews>
+   <US_Gross>$162,538</US_Gross>
+   <weekend_gross>$144,070</weekend_gross>
+   <number_of_screens>18</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Who&amp;#039;s Your Caddy?</name>
+   <company>The Weinstein Company</company>
+   <genres>
+      <genre>Comedy</genre>
+   </genres>
+   <authors>
+      <author>Robert Henny</author>
+      <author>Bradley Allenstein</author>
+      <author>Don Michael Paul</author>
+   </authors>
+   <directors>
+      <director>Don Michael Paul</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Big Boi</actor>
+      <actor>Jeffrey Jones</actor>
+      <actor>Susan Ward</actor>
+      <actor>Sherri Shepherd</actor>
+      <actor>James Avery</actor>
+   </actors>
+   <release_date>July 27, 2007</release_date>
+   <running_time>minutes,</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>The tired racial stereotypes that Caddy inserts into the old Caddyshack-style "slobs vs. snobs" formula should probably make it much more offensive than it is.</snippet>
+         <url>http://www.avclub.com/content/cinema/whos_your_caddy</url>
+         <critic>Steven Hyden</critic>
+      </review>
+      <review>
+         <snippet>An instantly forgettable trifle.</snippet>
+         <url>http://www.variety.com/review/VE1117934281.html?categoryid=31&amp;cs=1</url>
+         <critic>Joe Leydon</critic>
+      </review>
+      <review>
+         <snippet>His C-Note is essentially a one-note character. And that note is flat.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2007/07/28/2007-07-28_caddys_subpar_for_the_course-1.html</url>
+         <critic>Staff (Not credited)</critic>
+      </review>
+      <review>
+         <snippet>There’s probably more wit and pointed social commentary in the average four-minute OutKast song than in the entirety of Who’s Your Caddy?</snippet>
+         <url>http://movies.nytimes.com/2007/07/28/movies/28cadd.html?ref=movies</url>
+         <critic>Rachel Saltz</critic>
+      </review>
+      <review>
+         <snippet>Ultimately this is utterly forgettable stuff, not even managing to fulfill its mandate of mindless summer fun.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?JSESSIONID=w23vGqsTSTZrkrGRBmQTVXgRhb5mVGjrrTLclcbYnWh5h2CryzhV!320152735&amp;&amp;rid=9555</url>
+         <critic>Frank Scheck</critic>
+      </review>
+      <review>
+         <snippet>No, it’s not Caddyshack -- just swap Jews (Rodney Dangerfield) for blacks (Big Boi) and you’ve got Who’s Your Caddy?. The movie, of course, is terrible.</snippet>
+         <url>http://www.laweekly.com/film+tv/film-reviews/film-reviews-arctic-tale-one-to-another-punks-not-dead/16903/?page=3</url>
+         <critic>Charles Petersen</critic>
+      </review>
+      <review>
+         <snippet>The players appear to be having a good time, though the situation is too sitcom-familiar to be funny.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/31860_WHOS_YOUR_CADDY.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>As it develops, Who's Your Caddy? just becomes depressing. You want to alert the United Negro College Fund: A mind has terribly gone to waste.</snippet>
+         <url>http://www.boston.com/news/globe/living/articles/2007/07/28/in_depressing_whos_your_caddy_stereotypes_are_par_for_the_course/</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>Must be counted as a forfeit.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A506347</url>
+         <critic>Marjorie Baumgarten</critic>
+      </review>
+      <review>
+         <snippet>The sport of golf has seen its fair share of vulgar comedies over the last 30 years or so.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=10188</url>
+         <critic>Michael Ferraro</critic>
+      </review>
+      <review>
+         <snippet>An offensive, comedy-free comedy.</snippet>
+         <url>http://www.washingtonpost.com/wp-dyn/content/article/2007/07/27/AR2007072702376.html</url>
+         <critic>John Maynard</critic>
+      </review>
+   </reviews>
+   <US_Gross>$5,694,308</US_Gross>
+   <weekend_gross>$2,756,661</weekend_gross>
+   <number_of_screens>1,019</number_of_screens>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

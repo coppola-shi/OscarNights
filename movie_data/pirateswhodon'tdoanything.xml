@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Pirates Who Don&amp;#039;t Do Anything: A VeggieTales Movie, The</name>
+   <company>Universal Pictures</company>
+   <genres>
+      <genre>Adventure</genre>
+      <genre>Animation</genre>
+      <genre>Comedy</genre>
+      <genre>FamilyKids</genre>
+   </genres>
+   <authors>
+      <author>Phil Vischer</author>
+   </authors>
+   <directors>
+      <director>Mike Nawrocki</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Phil Vischer</actor>
+      <actor>Mike Nawrocki</actor>
+   </actors>
+   <release_date>January 11, 2008</release_date>
+   <running_time>85</running_time>
+   <rating>G</rating>
+   <reviews>
+      <review>
+         <snippet>It's wholesome fun for the whole family.</snippet>
+         <url>http://www.tvguide.com/movies/pirates-dont/review/291999</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>Slickly made -- in the good sense -- and most entertaining.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?JSESSIONID=RQLJHHThCghKt3QJTgGhSvJyHG64JXl5v6T8y8pB8XTxq1rt2GbK!456230684&amp;&amp;rid=10440</url>
+         <critic>Luke Sader</critic>
+      </review>
+      <review>
+         <snippet>Pirates relies more on classical and pop culture-driven references to deliver its worthwhile message.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-pirates11jan11,0,1659233.story?coll=cl-mreview</url>
+         <critic>Kevin Crust</critic>
+      </review>
+      <review>
+         <snippet>Simple without being simple-minded, warm without worrying too much about being cool. It's agreeably silly fare for the very small set and not so noisy that parents can't either follow along or take a quick nap.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=10194</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>Won't do anything for adult auds, but this second bigscreen adventure from the popular VeggieTales franchise should easily win over tots with its reliable menu of silly songs, easily digestible morals and wholesome (if not always fresh) produce-based characters.</snippet>
+         <url>http://www.variety.com/review/VE1117935770.html?categoryid=31&amp;cs=1</url>
+         <critic>Justin Chang</critic>
+      </review>
+      <review>
+         <snippet>Clever enough to keep adults entertained, even if the story is something of an antique.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1145271&amp;categories=Movies&amp;nm=1</url>
+         <critic>John Anderson</critic>
+      </review>
+      <review>
+         <snippet>It’s a boilerplate plot like one you might find in any morning cartoon.</snippet>
+         <url>http://movies.nytimes.com/2008/01/11/movies/11pira.html?ref=movies</url>
+         <critic>Neil Genzlinger</critic>
+      </review>
+      <review>
+         <snippet>My 3-year-old date had a fine time, pronouncing the movie "very good" and backing up her assessment by going 90 minutes with barely a fidget. Which may actually be the highest compliment any movie can ask for.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2008/01/11/2008-01-11_tots_will_eat_up_veggietales_movie.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>Except for one memorable interlude, the film just doesn't have near enough fun blasting spitballs at "Pirates of the Caribbean."</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20080114.wveggie14/BNStory/Entertainment/home</url>
+         <critic>Stephen Cole</critic>
+      </review>
+      <review>
+         <snippet>It's all good-natured enough. It just isn't actually good.</snippet>
+         <url>http://www.avclub.com/content/cinema/the_pirates_who_dont_do_anything</url>
+         <critic>Tasha Robinson</critic>
+      </review>
+      <review>
+         <snippet>Yo-ho-ho and a bottle of … V8? That’s what you get when you cross VeggieTales characters with a pirate yarn.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A579335</url>
+         <critic>Marjorie Baumgarten</critic>
+      </review>
+      <review>
+         <snippet>Veggie Tales is a faith-based franchise that uses a blend of a religious/moral message and humor to teach about honesty and forgiveness. But Pirates lacks the humor of the videos and "A Veggie Tales Movie."</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2008-01-10-veggie-pirates_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>Humorless, incoherent, and ugly as sin, this Christian-friendly production is as tragic as the candle wax that resembles a glob of man jam and opens Pa Grape's eyes to the meaning of his adventure.</snippet>
+         <url>http://www.villagevoice.com/film/0802,gonzalez,78800,20.html</url>
+         <critic>Ed Gonzalez</critic>
+      </review>
+   </reviews>
+   <US_Gross>$12,981,269</US_Gross>
+   <weekend_gross>$4,251,320</weekend_gross>
+   <number_of_screens>1,337</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

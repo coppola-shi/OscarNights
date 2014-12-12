@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>1408</name>
+   <company>Metro-Goldwyn-Mayer</company>
+   <genres>
+      <genre>Horror</genre>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>Matt Greenberg</author>
+      <author>Scott Alexander</author>
+      <author>Larry Karaszewski</author>
+      <author>Stephen King</author>
+   </authors>
+   <directors>
+      <director>Mikael Håfström</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>John Cusack</actor>
+      <actor>Samuel L. Jackson</actor>
+      <actor>Mary McCormack</actor>
+      <actor>Jasmine Jessica Anthony</actor>
+      <actor>Tony Shalhoub</actor>
+   </actors>
+   <release_date>June 22, 2007</release_date>
+   <running_time>94</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>Swedish director Mikael Hafstrom creates a compelling ride of a movie. Every beat of the film is weighted with significance, and our mounting dread becomes almost intolerable.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1132312&amp;categories=Movies&amp;nm=1</url>
+         <critic>Desson Thomson</critic>
+      </review>
+      <review>
+         <snippet>The movie appeals to an old-fashioned sense of horror.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A493107</url>
+         <critic>Marjorie Baumgarten</critic>
+      </review>
+      <review>
+         <snippet>Swift, sharp adaptation of Stephen King's short story (from the "Everything's Eventual" collection).</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-070622-movies-review-1408,0,1675155.story?coll=mmx-movies_top_heds</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>Sharp little psychological thriller.</snippet>
+         <url>http://www.nypost.com/seven/06222007/entertainment/movies/room_with_a_boo__movies_kyle_smith.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>This is the old stuff, the good stuff, the tried-and-true stuff of shrewdly accomplished audience manipulation.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2007/06/22/DDGMVQHUUE14.DTL&amp;ytpe=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>Cusack, who is beginning to look disturbingly like Dustin Hoffman, is not only the film's center, but its orbit as well.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/320763_140822q.html</url>
+         <critic>Bill White</critic>
+      </review>
+      <review>
+         <snippet>At his best, King's most effective creatures are not the ones behind creaking doors, but inside crooked minds.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2007-06-21-1408_N.htm</url>
+         <critic>Scott Bowles</critic>
+      </review>
+      <review>
+         <snippet>A deft Stephen King freak-out.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20042409,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>This is the most mature horror movie of the year - far more adult and sophisticated than the tedious Hostel Part II. If you like to be creeped out by movies, this is one to see. It reminds us what it's like to be scared in a theater rather than overwhelmed by buckets of blood and gore.</snippet>
+         <url>http://www.reelviews.net/movies/f/1408.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>Heebie-jeebies are guaranteed.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/10365182/review/15152464/1408</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>An entertainingly hairy paranormal affair.</snippet>
+         <url>http://www.philly.com/inquirer/columnists/steven_rea/20070622_Haunted_Room_1408_has_a_scary_body_count.html</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>Even with its flaws, 1408 deserves to be appreciated by connoisseurs of acting and bravura filmmaking.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?JSESSIONID=9TdKG3rRzRpwvQDbyy4R2vK4vpBkGy2SMv1KyFnYKJqMFBVMXzns!-2000799825&amp;&amp;rid=9387</url>
+         <critic>Stephen Farber</critic>
+      </review>
+      <review>
+         <snippet>For star John Cusack, it's a perfect fit.</snippet>
+         <url>http://www.variety.com/review/VE1117933919.html?categoryid=31&amp;cs=1</url>
+         <critic>John Anderson</critic>
+      </review>
+      <review>
+         <snippet>The horror wouldn't work without Cusack, who makes what could have been a rote acting exercise--Be tough! Now angry! Now defensively funny!--a cathartic ritual instead.</snippet>
+         <url>http://www.villagevoice.com/film/0725,various,77009,20.html</url>
+         <critic>Robert Wilonsky</critic>
+      </review>
+      <review>
+         <snippet>In the grand scheme of things, the Dolphin Hotel is no Overlook, but it's no cheesy slaughter motel either.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-fourteen22jun22,0,2542309.story?coll=cl-mreview</url>
+         <critic>Carina Chocano</critic>
+      </review>
+      <review>
+         <snippet>The movie is most effective in its early scenes of prickly menace, and while the Dolphin is no Overlook (the haunted hotel in "The Shining"), its old-world creepiness is exactly right.</snippet>
+         <url>http://movies2.nytimes.com/2007/06/21/movies/22four.html?ref=movies</url>
+         <critic>Jeannette Catsoulis</critic>
+      </review>
+      <review>
+         <snippet>While 1408 is no classic, it is refreshing to see a horror picture that just wants to do its job rather than prove to its audience how ruthlessly nihilistic it is.</snippet>
+         <url>http://www.premiere.com/moviereviews/3879/1408.html</url>
+         <critic>Glenn Kenny</critic>
+      </review>
+      <review>
+         <snippet>As thrillers go, 1408 leaves too much room for fun.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=9186</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>For about an hour or so, 1408 has you thinking you're watching The Next Great Horror Movie: That's how good the first half of this adaptation of Stephen King's short story about a haunted hotel room is.</snippet>
+         <url>http://ae.miami.com/entertainment/ui/miami/movie.html?id=902919&amp;reviewId=22522</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>Really wanting to get into our heads, 1408 tries awfully hard to play both sides of logic's boundary line -- tries and fails, and then succeeds, only to ultimately fail again. On the whole, the frights are frighteningly erratic.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20070621.wfourteen0622/BNStory/Entertainment/home</url>
+         <critic>Rick Groen</critic>
+      </review>
+      <review>
+         <snippet>1408 isn’t great cinema, but does an adequate job in spite of its flaws.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=10126</url>
+         <critic>Pete Vonder Haar</critic>
+      </review>
+      <review>
+         <snippet>Not up there with the best King adaptations, but a fun Gothic yarn that, like all good ghost stories, is simple and dripping with dread.</snippet>
+         <url>http://www.empireonline.com/reviews/reviewcomplete.asp?FID=134776</url>
+         <critic>Nick De Semlyen</critic>
+      </review>
+      <review>
+         <snippet>One night in 1408 stretches out until it ends up feeling more like a routine three-day business trip. The scariest thing in it may be the way the clock radio has a way of turning itself on, loudly, of its own accord. The song is always the Carpenters' "We've Only Just Begun." Now THAT'S horror.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2007/06/22/1408/index.html</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>A curse would be a great improvement on the wishy-washy wickedness of this movie.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2007/06/22/2007-06-22_cusack_in_another_exorcize_in_futility.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>In the end, 1408 amounts to little more than a radical shock-therapy session for a man still finding his way after the loss of his daughter.</snippet>
+         <url>http://www.avclub.com/content/cinema/1408</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>It's an overblown campfire tale that doesn't know when to stop.</snippet>
+         <url>http://www.tvguide.com/movies/1408/review/288322</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>Adapted from a Stephen King story, this trite but watchable chiller plays like a scaled-down version of "The Shining," with Cusack driven over the edge by hallucinations of his abusive father and dead daughter.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/31762_FOURTEEN_OH_EIGHT_1408.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+   </reviews>
+   <US_Gross>$71,985,628</US_Gross>
+   <production_budget>$22,500,000</production_budget>
+   <weekend_gross>$20,617,667</weekend_gross>
+   <number_of_screens>2,678</number_of_screens>
+   <highest_grossing_actors_present/>
+   <num_highest_grossing_actors>1</num_highest_grossing_actors>
+   <highest_grossing_actor>samuel l. jackson</highest_grossing_actor>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

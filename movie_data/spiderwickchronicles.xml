@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Spiderwick Chronicles, The</name>
+   <company>Paramount Pictures</company>
+   <genres>
+      <genre>Adventure</genre>
+      <genre>Drama</genre>
+      <genre>FamilyKids</genre>
+      <genre>Fantasy</genre>
+   </genres>
+   <authors>
+      <author>John Sayles</author>
+   </authors>
+   <directors>
+      <director>Mark Waters</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Freddie Highmore</actor>
+      <actor>Mary-Louise Parker</actor>
+      <actor>Nick Nolte</actor>
+      <actor>Joan Plowright</actor>
+      <actor>David Strathairn</actor>
+      <actor>Seth Rogen</actor>
+      <actor>Martin Short</actor>
+   </actors>
+   <release_date>February 14, 2008</release_date>
+   <running_time>97</running_time>
+   <rating>PG</rating>
+   <reviews>
+      <review>
+         <snippet>Director Mark Waters does a fine job meshing the fantastical with the quotidian.</snippet>
+         <url>http://www.csmonitor.com/2008/0215/p15s01-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>A well-crafted family thriller that is truly scary and doesn't wimp out.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20080214/REVIEWS/869514178</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>The film underscores the power of reading, and applying what we read to problem-solving. The story suggests that we don't really see the natural world around us, and if we did our lives, like Jared's and his siblings', would be immeasurably richer.</snippet>
+         <url>http://www.philly.com/philly/entertainment/movies/20080214_Teens_in_haunted_house__They_come__they_read__they_conquer.html</url>
+         <critic>Carrie Rickey</critic>
+      </review>
+      <review>
+         <snippet>Not great fantasy, but it's on more solid ground than "The Golden Compass" and will seem less baffling to some. There's enough here to keep adults engaged, which is an important component of any motion picture that wants to be known as "family entertainment."</snippet>
+         <url>http://www.reelviews.net/movies/s/spiderwick_chronicles.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>A fast-moving adventure with more than dynamic glitz to recommend it.</snippet>
+         <url>http://chicago.metromix.com/movies/movie_review/movie-review-the-spiderwick/305270/content</url>
+         <critic>Tasha Robinson</critic>
+      </review>
+      <review>
+         <snippet>A mostly superb cast, superior special effects, a sparkling musical score and a fantasy-filled plot .</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2008/02/13/DDN6V0VO0.DTL&amp;type=movies</url>
+         <critic>David Wiegand</critic>
+      </review>
+      <review>
+         <snippet>The movie is funny and scary and touching in all the ways the best children's pictures are, but it is also fast and compact, running a perfectly paced 93 minutes (including credits).</snippet>
+         <url>http://www.miamiherald.com/1054/story/418765.html</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>A decent entertainment -- not up there with the "Harry Potter and Lord of the Rings" sagas, but a notch above "The Golden Compass" and "Narnia."</snippet>
+         <url>http://www.time.com/time/arts/article/0,8599,1713836,00.html</url>
+         <critic>Richard Corliss</critic>
+      </review>
+      <review>
+         <snippet>Meticulously rendered CGI creatures--from Arthur Rackham-esque flower sprites to a troll that could have sprung from "Jurassic Park"--spike this dark adventure, shot marvelously by Caleb Deschanel.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/32754_SPIDERWICK_CHRONICLES.html</url>
+         <critic>Andrea Gronvall</critic>
+      </review>
+      <review>
+         <snippet>The children's real world, or what passes for real in a fantasy, could hardly be more inviting, for reasons that are hardly mysterious: the strong performances, under Mark Waters's accomplished direction; the smart, bright language, much of it taken from the books; the stylish cinematography, by Caleb Deschanel.</snippet>
+         <url>http://online.wsj.com/article/SB120303058668769883.html</url>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>The movie's richly autumnal look is by swift turns cozily naturalistic and terrifyingly baroque, and director Mark Waters (Freaky Friday, Mean Girls) sustains the balance between real and surreal with mischievous brio.</snippet>
+         <url>http://www.villagevoice.com/film/0807,taylor,79097,20.html</url>
+         <critic>Ella Taylor</critic>
+      </review>
+      <review>
+         <snippet>An enjoyable adventure fantasy that pushes all the requisite buttons while still managing to throw in a pleasant surprise or two.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?JSESSIONID=J6fpHwZTb81dpnFndmLXZz1JGhxVzJrfDh7PqPwpdnLxTJtJSJF8!900300817&amp;&amp;rid=10616</url>
+         <critic>Michael Rechtshaffen</critic>
+      </review>
+      <review>
+         <snippet>A work of both modest enchantment and enchanting modesty, grounded in a classically Spielbergian realm where childlike wonderment crosses paths with the tough realities of young adulthood.</snippet>
+         <url>http://www.variety.com/review/VE1117936159.html?categoryid=31&amp;cs=1</url>
+         <critic>Justin Chang</critic>
+      </review>
+      <review>
+         <snippet>Suffers slightly from that not-so-fresh feeling.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-spiderwick14feb14,0,5366142.story</url>
+         <critic>Carina Chocano</critic>
+      </review>
+      <review>
+         <snippet>Spiderwick is set in the present, but goes for an overall design look of dainty, cozy, William Morris-y arts-andcraftiness.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20177952,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>Starts off promisingly by empathetically depicting the fear and anger children feel when their parents separate, but ultimately its human emotions are dominated by goblins, trolls, and other CGI-generated creatures running amok on the screen.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A587901</url>
+         <critic>Steve Davis</critic>
+      </review>
+      <review>
+         <snippet>Anyone looking for handsomely presented, kid-friendly thrills need look no further.</snippet>
+         <url>http://www.avclub.com/content/cinema/the_spiderwick_chronicles</url>
+         <critic>Keith Phipps</critic>
+      </review>
+      <review>
+         <snippet>Perhaps Highmore could have tried a little harder to make us doubt for a moment that, once again, Good will inevitably overcome Evil.</snippet>
+         <url>http://www.premiere.com/moviereviews/4408/the-spiderwick-chronicles.html</url>
+         <critic>Karl Rozemeyer</critic>
+      </review>
+      <review>
+         <snippet>It's a good movie for its type, but it rarely stops to let us marvel at the world it creates.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=9183</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>A world designed for children, and most of the grownups involved don't quite understand it - on or offscreen.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2008/02/14/2008-02-14_spiderwick_chronicles_fantasy_can_grow_o.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>Unlike Guillermo del Toro's "Pan's Labyrinth," which was also inspired by Rackham, The Spiderwick Chronicles is more whimsical than scary.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20080214.wspiderwick14/BNStory/Entertainment/home</url>
+         <critic>Liam Lacey</critic>
+      </review>
+      <review>
+         <snippet>We're supposed to be agog at the fantastical creatures and dazzling special effects. But the more wrenching story of disillusioned children nags in the background, distracting from any enchantment.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2008-02-13-spiderwick-chronicles_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>Once “Spiderwick” gets to the fantasy, the story gets going.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=10768</url>
+         <critic>Matthew Sorrento</critic>
+      </review>
+      <review>
+         <snippet>A late entry in a crowded field, Spiderwick works hard to set itself apart from the competition, and almost entirely succeeds - no mean feat these days.</snippet>
+         <url>http://www.empireonline.com/reviews/review.asp?FID=134419</url>
+         <critic>Sam Toy</critic>
+      </review>
+      <review>
+         <snippet>Maybe it's fantasy fatigue, but for all the pretty effects and breathless chases and goblin war battles, the sense of wonder and magic is lost in the shuffle.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/351147_spider14q.html</url>
+         <critic>Sean Axmaker</critic>
+      </review>
+      <review>
+         <snippet>The obvious product of a corporate search for the next great fantasy franchise, this adaptation of the first in a series of popular children's books by the writer-illustrator team of Holly Black and Tony DiTerlizzi is a lump of leaden whimsy.</snippet>
+         <url>http://www.tvguide.com/movies/spiderwick-chronicles/review/292321</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>Spiderwick. There’s nothing wrong with it that passion and personality couldn’t fix.</snippet>
+         <url>http://nymag.com/movies/reviews/43888/index1.html</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>Overrun with malicious goblins, a vengeance-minded pig, a fast-moving troll and a giant horned ogre, but the true source of terror is scarier than all of these combined: New York real estate prices.</snippet>
+         <url>http://www.nypost.com/seven/02142008/entertainment/movies/goblin_fable__warts_and_all__falls_short_97537.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>For the uninitiated? Man, it's a bummer.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1140869&amp;categories=Movies&amp;nm=1</url>
+         <critic>Ann Hornaday</critic>
+      </review>
+      <review>
+         <snippet>Instead of the kind of inspired imaginative synergy that distinguished the “Lord of the Rings” and later “Harry Potter” pictures, this movie, directed by Mark Waters (“Mean Girls”), feels more like a sloppy, secondhand pander.</snippet>
+         <url>http://movies.nytimes.com/2008/02/14/movies/14spid.html?ref=movies</url>
+         <critic>A.O. Scott</critic>
+      </review>
+   </reviews>
+   <US_Gross>$71,195,053</US_Gross>
+   <production_budget>$92,500,000</production_budget>
+   <weekend_gross>$21,379,938</weekend_gross>
+   <number_of_screens>3,847</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

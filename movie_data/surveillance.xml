@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Surveillance</name>
+   <company>Magnolia Pictures</company>
+   <genres>
+      <genre>Crime</genre>
+      <genre>Drama</genre>
+      <genre>Mystery</genre>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>Kent Harper</author>
+      <author>Jennifer Chambers Lynch</author>
+   </authors>
+   <directors>
+      <director>Jennifer Chambers Lynch</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+      <origin>Germany</origin>
+   </origins>
+   <actors>
+      <actor>Julia Ormond</actor>
+      <actor>Bill Pullman</actor>
+      <actor>Pell James</actor>
+      <actor>Ryan Simpkins</actor>
+      <actor>French Stewart</actor>
+      <actor>Kent Harper</actor>
+      <actor>Michael Ironside</actor>
+   </actors>
+   <release_date>June 26, 2009</release_date>
+   <running_time>97</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>A grubby, disturbing serial-killer mystery, a kind of blood-simple "Rashomon."</snippet>
+         <url>http://www.ew.com/ew/article/0,,20288864,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>Surveillance is the work of a director who has made significant strides in both storytelling  and control of the medium, deftly interweaving a grisly thriller, a sicko "Rashômon," a switcheroo, a psychotic love story, an imaginative paean to children, and an inspired resurrection of Julia Ormond.</snippet>
+         <url>http://www.villagevoice.com/2009-06-24/film/jennifer-lynch-returns-triumphant-with-surveillance/</url>
+         <critic>Melissa Anderson</critic>
+      </review>
+      <review>
+         <snippet>Surveillance will please the B-movie crowd in theaters and on into the ancillaries</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?rid=11164</url>
+         <critic>Ray Bennett</critic>
+      </review>
+      <review>
+         <snippet>Either a ludicrously bad movie or a parody of same. Either way, it's pretty funny.</snippet>
+         <url>http://www.nypost.com/seven/06262009/entertainment/movies/long_road_to_lynchian_camp_176113.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>Surveillance suggests "Jennifer Lynchian" should be used for films that aspire to David’s moody, idiosyncratic genius and fall woefully short.</snippet>
+         <url>http://www.avclub.com/articles/surveillance,29953/</url>
+         <critic>Nathan Rabin</critic>
+      </review>
+      <review>
+         <snippet>In the end, Surveillance is a puzzle box film that has nothing to offer except the various puzzle pieces. The characters do not stand out, the drama is not compelling, and the screenplay is light on even remotely interesting dialogue.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=11752</url>
+         <critic>Scott Mendelson</critic>
+      </review>
+      <review>
+         <snippet>A mildly amusing trifle with one of the genre's dafter plot twists.</snippet>
+         <url>http://www.variety.com/review/VE1117937250.html?categoryid=31&amp;cs=1</url>
+         <critic>Leslie Felperin</critic>
+      </review>
+      <review>
+         <snippet>At the end, all is horrifically explained, the body count inflates, yet hardly anything makes sense. In Papa Lynch's films, little is explained, yet because he's so gifted at mining our deepest fears and scariest desires, logic is excused.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-surveillance26-2009jun26,0,4043913.story</url>
+         <critic>Robert Abele</critic>
+      </review>
+      <review>
+         <snippet>The most enjoyable way to watch Surveillance - "enjoyable," in the relative sense - is to take its awfulness for granted and pay attention to everything Bill Pullman does.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2009/07/03/MVM918GHIO.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>Whether madcap parody – the "American Psycho" of G-man flicks – or walk on the wild side of Lynch's obsessions, the film's a failure.</snippet>
+         <url>http://www.theglobeandmail.com/news/arts/surveillance/article1228827/</url>
+         <critic>James Adams</critic>
+      </review>
+      <review>
+         <snippet>The performances are dreadful, the direction shoddy and the final twist so idiotic, your mind can’t help but drift toward all the better scripts just waiting, sadly and silently, for the chance wasted here.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2009/06/26/2009-06-26_short_takes_film_reviews_in_brief_including_afghan_star_and_surveillance_.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>It seems doubtful that Surveillance, a would-be transgression that tries to squeeze dark laughs from the spectacle of human suffering, would be taking up space in theaters if its director were not the daughter of a name filmmaker.</snippet>
+         <url>http://movies.nytimes.com/2009/06/26/movies/26surveillance.html?ref=movies</url>
+         <critic>Manohla Dargis</critic>
+      </review>
+   </reviews>
+   <US_Gross>$27,349</US_Gross>
+   <weekend_gross>$4,590</weekend_gross>
+   <number_of_screens>2</number_of_screens>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

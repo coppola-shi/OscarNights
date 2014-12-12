@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Bigger Than the Sky</name>
+   <company>MGM</company>
+   <genres>
+      <genre>Comedy</genre>
+      <genre>Drama</genre>
+      <genre>Romance</genre>
+   </genres>
+   <authors>
+      <author>Rodney Patrick Vaccaro</author>
+   </authors>
+   <directors>
+      <director>Al Corley</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Marcus Thomas</actor>
+      <actor>John Corbett</actor>
+      <actor>Amy Smart</actor>
+      <actor>Sean Astin</actor>
+      <actor>Clare Higgins</actor>
+      <actor>Patty Duke</actor>
+      <actor>Allan Corduner</actor>
+      <actor>J.W. Crawford</actor>
+   </actors>
+   <release_date>February 18, 2005</release_date>
+   <running_time>106</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>At least Sean Astin, as a scene-chewing prima donna, seems to be having a good time--and mom Patty Duke gets to call him a "turd."</snippet>
+         <url>http://www.villagevoice.com/film/0508,park2,61305,20.html</url>
+         <critic>Ed Park</critic>
+      </review>
+      <review>
+         <snippet>This tale of the theater could have used more time on the road.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1000809431</url>
+         <critic>Sheri Linden</critic>
+      </review>
+      <review>
+         <snippet>It's strictly amateur hour.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/story/281843p-241522c.html</url>
+         <critic>Jami Bernard</critic>
+      </review>
+      <review>
+         <snippet>It's like "Waiting for Guffman" without the wit or irony.</snippet>
+         <url>http://www.nypost.com/movies/39952.htm</url>
+         <critic>Debra Birnbaum</critic>
+      </review>
+      <review>
+         <snippet>Finally it becomes clear that Mr. Corley's film is meant to be a tribute to the love of theater. It has just been posing as the story of one man's finding himself.</snippet>
+         <url>http://movies2.nytimes.com/2005/02/18/movies/18bigg.html</url>
+         <critic>Anita Gates</critic>
+      </review>
+      <review>
+         <snippet>This heartfelt valentine to the stage leaves no cliché unturned. If it has anything to recommend, it is the loving portrayal of the camaraderie of those who participate in art for art's sake who, to quote Cyrano, "work without one thought of gain or fame."</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-capsules18feb18,2,5161469.story</url>
+         <critic>Kevin Thomas</critic>
+      </review>
+      <review>
+         <snippet>Unconvincing poser.</snippet>
+         <url>http://www.variety.com/review/VE1117926251?categoryid=31&amp;cs=1</url>
+         <critic>Brian Lowry</critic>
+      </review>
+      <review>
+         <snippet>The story is as predictable as it is saccharine. Apart from the presence of local landmarks, there's no reason the Rose City should be proud of this effort.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/1108645529151201.xml</url>
+         <critic>Marc Mohan</critic>
+      </review>
+      <review>
+         <snippet>Awash in the obvious and sports a patently predictable outcome. Somewhere, Stanislavsky is shrieking as well.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A258970</url>
+         <critic>Marc Savlov</critic>
+      </review>
+      <review>
+         <snippet>A huge pile of horsefeathers is being peddled as fairy dust in Bigger Than the Sky.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1030646_1_0_,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+   </reviews>
+   <US_Gross>$20,149</US_Gross>
+   <weekend_gross>$12,281</weekend_gross>
+   <number_of_screens>9</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

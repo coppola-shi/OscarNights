@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Shutter</name>
+   <company>20th Century Fox</company>
+   <genres>
+      <genre>Horror</genre>
+      <genre>Mystery</genre>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>Luke Dawson</author>
+   </authors>
+   <directors>
+      <director>Masayuki Ochiai</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Joshua Jackson</actor>
+      <actor>Rachael Taylor</actor>
+      <actor>David Denman</actor>
+      <actor>James Kyson Lee</actor>
+      <actor>John Hensley</actor>
+   </actors>
+   <release_date>March 21, 2008</release_date>
+   <running_time>minutes,</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>Surprisingly effective supernatural tale in which there's more to fear from the living than the dead.</snippet>
+         <url>http://www.tvguide.com/movies/shutter/review/292573</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>Shutter has the look and feel of a proper J-horror film. Tokyo is seen as a series of gloomy gun metal skies. And the acting is more subdued than in Hollywood horror movies.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20080324.wshutter24/BNStory/Entertainment/home</url>
+         <critic>Stephen Cole</critic>
+      </review>
+      <review>
+         <snippet>If Shutter is any indication, the reputation of professional photographers is still on the wane. Not only are photographs creepy, the film suggests, but so are photographers.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=11331</url>
+         <critic>Michael Hardy</critic>
+      </review>
+      <review>
+         <snippet>The photography hook gives Shutter the potential to be a genuinely creepy ghosts-in-the-machine story like the original "Pulse," or better still, a horror twist on "Blowup." But one effective scene lit solely by a camera flash isn't enough to rescue this from the J-horror slushpile.</snippet>
+         <url>http://www.avclub.com/content/cinema/shutter</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>Seems like a technological regression.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20186498,00.html</url>
+         <critic>Clark Collis</critic>
+      </review>
+      <review>
+         <snippet>The director, Masayuki Ochiai, conjures textbook J-horror miasma: clammy clinical interiors; overcast skies; diffuse cityscapes. He also gives Alfred Hitchcock a nod, with a sequence nakedly stolen from “Psycho,” and draws unease from Jane’s disorientation in a foreign city. Tokyo, in fact, may be the movie’s most fascinating player.</snippet>
+         <url>http://movies.nytimes.com/2008/03/22/movies/22shut.html?ref=movies</url>
+         <critic>Andy Webster</critic>
+      </review>
+      <review>
+         <snippet>Genuine scares are few and far between, and the climactic explanation for the ghost's appearances comes as something less than a revelation.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?&amp;rid=10858</url>
+         <critic>Frank Scheck</critic>
+      </review>
+      <review>
+         <snippet>A blandly cast and crafted remake of the same-titled 2004 Thai pic that itself emulated J-horror norms, which seemed a lot fresher back then.</snippet>
+         <url>http://www.variety.com/review/VE1117936585.html?categoryid=31&amp;cs=1</url>
+         <critic>Dennis Harvey</critic>
+      </review>
+      <review>
+         <snippet>Fans of J-horror (for Japan, where the genre was born; its conventions have since spread to South Korea and Thailand) will find Shutter familiar; others may just doze.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2008/03/24/DD76VOI2J.DTL</url>
+         <critic>Andy Webster</critic>
+      </review>
+      <review>
+         <snippet>Ostensibly a remake of a Thai film--by a Japanese director with a Hollywood cast--this plays more like a video copy of "The Ring" that’s been so degraded that all the good bits are no longer visible.</snippet>
+         <url>http://www.villagevoice.com/film/0812,shutter,388534,20.html</url>
+         <critic>Luke Y. Thompson</critic>
+      </review>
+      <review>
+         <snippet>Asian horror remakes are typically not screened for critics, and Shutter is no exception. The studios know what they have: watered-down, lifeless shells of motion pictures devoid of characters, drama, or anything remotely resembling horror.</snippet>
+         <url>http://www.reelviews.net/movies/s/shutter.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>The very Thai-specific charms that made the original Shutter such an unforeseen, unpredictable delight when I first saw it – and when I screened it again, last night – are almost entirely absent here, eclipsed by the annoying blonde highlights of Taylor, ex-Transformer babe and forever, as the Thai say, farang.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A602674</url>
+         <critic>Marc Savlov</critic>
+      </review>
+   </reviews>
+   <US_Gross>$25,928,550</US_Gross>
+   <weekend_gross>$10,447,559</weekend_gross>
+   <number_of_screens>2,753</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Seeker: The Dark Is Rising, The</name>
+   <company>20th Century Fox</company>
+   <genres>
+      <genre>Action</genre>
+      <genre>Adventure</genre>
+      <genre>Drama</genre>
+      <genre>Fantasy</genre>
+   </genres>
+   <authors>
+      <author>Susan Cooper</author>
+      <author>John Hodge</author>
+   </authors>
+   <directors>
+      <director>David L. Cunningham</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Christopher Eccleston</actor>
+      <actor>Ian McShane</actor>
+      <actor>Jonathan Jackson</actor>
+      <actor>Gregory Smith</actor>
+      <actor>Amelia Warner</actor>
+      <actor>Wendy Crewson</actor>
+      <actor>James Cosmo</actor>
+      <actor>Alexer Ludwig</actor>
+   </actors>
+   <release_date>October 5, 2007</release_date>
+   <running_time>94</running_time>
+   <rating>PG</rating>
+   <reviews>
+      <review>
+         <snippet>The books' magic was rooted in its ties to Arthurian legend and British folklore, grandiose elements which Cunningham and Hodge have stripped.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/334295_seek05q.html</url>
+         <critic>Gianni Truzzi</critic>
+      </review>
+      <review>
+         <snippet>The movie has a lot going for it, including wonderful sets and locations - in Bucharest, Romania! - that create a heightened-reality English hamlet with pub, church, manor and shops (make that shoppes!). And the lead actor, Ludwig, registers the growth spurts of the stripling hero with the sensitivity and precision of an emotional seismograph.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/reviews/bal-to.seeker05oct05,0,7546240.story</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>This is a reasonable choice for bored tweens - as long as they don't demand too much magic from their movies.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2007/10/05/2007-10-05_short_takes_more_movie_reviews.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>At its best, The Seeker is a pretty vivid fantasy book come-to-life; it does a decent, passable job of adding to the canon of kid-lit flicks.</snippet>
+         <url>http://chicago.metromix.com/movies/movie_review/movie-review-the-seeker/212604/content</url>
+         <critic>Kelley L. Carter</critic>
+      </review>
+      <review>
+         <snippet>Starts out with promise but staggers under the weight of trying to take on too much.
+The tone is murky: The story attempts to blend adolescent angst with fantasy adventure, and the result is rather clunky.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2007-10-04-the-seeker_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>The film plods along without a lot of excitement or inspiration.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?JSESSIONID=ChhQHFShC9WFTbQ17Sf3dJJynfp5JXBzpD2FxpHLW71pq17r7w57!-1202536372&amp;&amp;rid=9973</url>
+         <critic>Stephen Farber</critic>
+      </review>
+      <review>
+         <snippet>Slick, good-looking, cluttered pic won't please fans of novelist Susan Cooper's original "The Dark Is Rising" sequence. But then, they are mostly grown-ups by now, and this very Hollywood-style adaptation of a very English book is aimed squarely at tweens.</snippet>
+         <url>http://www.variety.com/review/VE1117934983.html?categoryid=31&amp;cs=1</url>
+         <critic>Dennis Harvey</critic>
+      </review>
+      <review>
+         <snippet>Feels passé and lacks a charismatic lead. Too bad Daniel Radcliffe is an only child.</snippet>
+         <url>http://movies.nytimes.com/2007/10/05/movies/05seek.html?ref=movies</url>
+         <critic>Jeannette Catsoulis</critic>
+      </review>
+      <review>
+         <snippet>Whether you fully embrace the Harry Potter phenomenon or simply live with it, there's no question that J. K. Rowling is an imaginative story-spinner. The trouble is that she has ruined the field for the legions of the second-rate.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20071004.wseeker1005/BNStory/Entertainment/home</url>
+         <critic>Liam Lacey</critic>
+      </review>
+      <review>
+         <snippet>Though stylishly produced, this clumsy parable will probably engender more boredom than sequels.</snippet>
+         <url>http://www.tvguide.com/movies/seeker-dark-rising/review/290749</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>A mostly entertaining movie with built-in appeal to young audiences. The good news for parents is that it won't put them to sleep.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2007/10/05/DD2USJ5U0.DTL&amp;type=movies</url>
+         <critic>Ruthe Stein</critic>
+      </review>
+      <review>
+         <snippet>A movie that should've been made shortly after its source material -- Susan Cooper's Newbery winner -- debuted in 1973. As is, it feels entirely too generic to work today.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20151658,00.html</url>
+         <critic>Gregory Kirschling</critic>
+      </review>
+      <review>
+         <snippet>This movie is a particular disappointment. Although The Seeker is in Walden's tradition of positive storytelling, John Hodge's script is guilty of downright goofy utterances on occasion.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1136200&amp;categories=Movies&amp;nm=1</url>
+         <critic>Desson Thomson</critic>
+      </review>
+      <review>
+         <snippet>From its less-than-special effects to its rushed ending, this whole endeavor is a lazy, wasted emasculation of a beloved series deserving of more thoughtful treatment. Guess they have four more books left to get it right. Oh, joy.</snippet>
+         <url>http://www.laweekly.com/film+tv/film-reviews/movie-reviews-kurt-cobain-about-a-son-michael-clayton/17417/?page=3</url>
+         <critic>Robert Wilonsky</critic>
+      </review>
+      <review>
+         <snippet>Dreary, spectacle-driven adaptation.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-seeker5oct05,0,2805515.story?coll=cl-mreview</url>
+         <critic>Kevin Crust</critic>
+      </review>
+      <review>
+         <snippet>A kid unversed in other name-brand fantasy movies might go for The Seeker, but in 2007 it's redundant, a puttering Potter without wit and whimsy.</snippet>
+         <url>http://www.nypost.com/seven/10052007/entertainment/movies/bad_harry_day.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>This film should have soared, but doesn't quite get off the ground.</snippet>
+         <url>http://www.premiere.com/moviereviews/4151/the-seeker-the-dark-is-rising.html</url>
+         <critic>Laura Repstad</critic>
+      </review>
+      <review>
+         <snippet>The producers - Fox Films and the usually reliable Walden Media - have tried to gin up the story for multiplex audiences. They've succeeded in making a movie for no audience at all.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=9687</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>Final score: Book 1, Movie 0.</snippet>
+         <url>http://www.avclub.com/content/cinema/the_seeker_the_dark_is_rising</url>
+         <critic>Tasha Robinson</critic>
+      </review>
+      <review>
+         <snippet>It's trying to fill some perceived market void created by the end of "Harry Potter."</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/1191452142251010.xml&amp;coll=7</url>
+         <critic>M. E. Russell</critic>
+      </review>
+      <review>
+         <snippet>None of this made a lick of sense to me, nor did it appear to be all that obvious to either the cast or screenwriter Hodge, whose work here feels as though he'd given up in frustration halfway through before deciding to see how far he could push the vaguely Harry Potter-esque shenanigans before getting sacked.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A545189</url>
+         <critic>Marc Savlov</critic>
+      </review>
+   </reviews>
+   <US_Gross>$8,794,452</US_Gross>
+   <weekend_gross>$3,745,315</weekend_gross>
+   <number_of_screens>3,141</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

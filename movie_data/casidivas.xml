@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Casi Divas</name>
+   <company>Maya Entertainment</company>
+   <genres>
+      <genre>Comedy</genre>
+      <genre>Musical</genre>
+   </genres>
+   <authors>
+      <author>Ignacio Darnaude</author>
+      <author>Issa López</author>
+   </authors>
+   <directors>
+      <director>Issa López</director>
+   </directors>
+   <origins>
+      <origin>Mexico</origin>
+   </origins>
+   <actors>
+      <actor>Patricia Llaca</actor>
+      <actor>Julio Bracho</actor>
+      <actor>Maya Zapata</actor>
+      <actor>Ana Layevska</actor>
+      <actor>Daniela Schmidt</actor>
+      <actor>Diana Garcia</actor>
+      <actor>Mónica Huarte</actor>
+      <actor>Darío T. Pie</actor>
+   </actors>
+   <release_date>August 21, 2009</release_date>
+   <running_time>107</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>Gloriously flamboyant comedic extravaganza, fuses soap opera and "American Idol"-type competition, following four wildly different women vying for the star role in a feature filmization of a popular telenovela.</snippet>
+         <url>http://www.variety.com/review/VE1117940856.html?categoryid=31&amp;cs=1</url>
+         <critic>Ronnie Scheib</critic>
+      </review>
+      <review>
+         <snippet>A comedy with just the right blend of satire, social comment, myriad complications, romance and heart-tugging to give it some deft shading and variety.</snippet>
+         <url>http://www.latimes.com/entertainment/news/la-et-capsules21-2009aug21,0,2221448.story</url>
+         <critic>Kevin Thomas</critic>
+      </review>
+      <review>
+         <snippet>An enjoyable spoof of Mexican soap operas and the entertainment business itself. The film doesn't ask to be taken seriously but if you absolutely insist, there is pointed commentary about the deep divisions within that society over skin color, gender politics and social backgrounds.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film-reviews/casi-divas-film-review-1004003952.story</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>The "casi" in Casi Divas translates to "almost," and it's an appropriate word for the film as a whole.</snippet>
+         <url>http://www.npr.org/templates/story/story.php?storyId=111968734</url>
+         <critic>Ian Buckwalter</critic>
+      </review>
+      <review>
+         <snippet>A shrill and gaudy comedy about the quest for celebrity.</snippet>
+         <url>http://www.miamiherald.com/entertainment/movies/reviews/story/1194064.html</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>As the film picks up speed it also accrues a socially progressive agenda. If only this were half as well developed as the female leads.</snippet>
+         <url>http://movies.nytimes.com/2009/08/21/movies/21casi.html?ref=movies</url>
+         <critic>Jeannette Catsoulis</critic>
+      </review>
+      <review>
+         <snippet>A none-too-clever but hustling-to-please Mexican comedy.</snippet>
+         <url>http://www.villagevoice.com/2009-08-18/film/casi-divas-hustles-to-please/</url>
+         <critic>Nick Pinkerton</critic>
+      </review>
+      <review>
+         <snippet>In using the urban poor and the queer community as punch lines, Casi Divas ultimately succumbs to its own criticism.</snippet>
+         <url>http://newyork.timeout.com/articles/film/77690/casi-divas-film-review</url>
+         <critic>Monika Fabian</critic>
+      </review>
+   </reviews>
+   <US_Gross>$46,612</US_Gross>
+   <weekend_gross>$27,491</weekend_gross>
+   <number_of_screens>22</number_of_screens>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

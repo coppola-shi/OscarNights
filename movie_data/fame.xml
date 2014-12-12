@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Fame</name>
+   <company>MGM</company>
+   <genres>
+      <genre>Drama</genre>
+      <genre>Musical</genre>
+   </genres>
+   <authors>
+      <author>Allison Burnett</author>
+   </authors>
+   <directors>
+      <director>Kevin Tancharoen</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Asher Book</actor>
+      <actor>Kristy Flores</actor>
+      <actor>Paul Iacono</actor>
+      <actor>Debbie Allen</actor>
+      <actor>Charles S. Dutton</actor>
+      <actor>Kelsey Grammer</actor>
+      <actor>Megan Mullally</actor>
+      <actor>Bebe Neuwirth</actor>
+   </actors>
+   <release_date>September 25, 2009</release_date>
+   <running_time>minutes,</running_time>
+   <rating>PG</rating>
+   <reviews>
+      <review>
+         <snippet>A film that’s largely a raw, uplifting love letter to creativity in every possible form.</snippet>
+         <url>http://www.avclub.com/articles/fame,33317/</url>
+         <critic>Tasha Robinson</critic>
+      </review>
+      <review>
+         <snippet>Much of the movie has a structureless, documentary feeling to it, which is good and should have been pushed further.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2009/09/24/MVGM19S36M.DTL</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>Since I sort of liked “Step Up 2: The Streets,” I’m not surprised I sort of liked the remake of Fame.</snippet>
+         <url>http://featuresblogs.chicagotribune.com/talking_pictures/</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>Whether the young ensemble attains it remains to be seen. The standouts, though, are Naughton, Pennie and Perez De Tagle.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2009/09/24/2009-09-24_fame_the_dream_lives_on_in_remake_of_.html</url>
+         <critic>Joe Neumaier</critic>
+      </review>
+      <review>
+         <snippet>It helps that Fame has been cast with performers who have the glow of possibility about them.</snippet>
+         <url>http://newyork.timeout.com/articles/film/79125/fame-film-review</url>
+         <critic>Keith Uhlich</critic>
+      </review>
+      <review>
+         <snippet>While the movie suffers from a surfeit of flash, it nonetheless offers the undeniable power of young performers pursuing art at peak dexterity.</snippet>
+         <url>http://movies.nytimes.com/2009/09/25/movies/25fame.html?ref=movies</url>
+         <critic>Andy Webster</critic>
+      </review>
+      <review>
+         <snippet>The sanitized moppets in the new Fame sing the body generic.</snippet>
+         <url>http://www.villagevoice.com/2009-09-22/film/the-new-fame-sanitized-moppets-sing-the-body-generic/</url>
+         <critic>Melissa Anderson</critic>
+      </review>
+      <review>
+         <snippet>So little time is devoted to developing characters that it's hard to share their hopes and fears.</snippet>
+         <url>http://www.philly.com/inquirer/columnists/carrie_rickey/20090925_Filmgoers_won_t_remember_this__Fame_.html</url>
+         <critic>Carrie Rickey</critic>
+      </review>
+      <review>
+         <snippet>A cheesy production with underdeveloped characters that feels more like a TV pilot than a self-contained motion picture.</snippet>
+         <url>http://www.reelviews.net/php_review_template.php?identifier=1802</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>A sad reflection of the new Hollywood, where material is sanitized and dumbed down for a hypothetical teen market that is way too sophisticated for it. It plays like a dinner theater version of the original.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20090923/REVIEWS/909249997</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>It's almost laughably bland and watered-down in its desire to appeal to the widest possible audience. It won't succeed in that goal, but it has enough pizzazz to captivate undemanding tweeners.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film-reviews/fame-film-review-1004015807.story</url>
+         <critic>Stephen Farber</critic>
+      </review>
+      <review>
+         <snippet>Perhaps the young performers are in such a good mood because they're liberated from having to play straight-as-a-ruler teen melodrama.</snippet>
+         <url>http://www.theglobeandmail.com/news/arts/fame/article1300188/</url>
+         <critic>Stephen Cole</critic>
+      </review>
+      <review>
+         <snippet>The teachers (including original cast member Debbie Allen as school principal) turn out to be the best part of the show.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20308008,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>Fame offers slick entertainment with some exuberance, but it's devoid of soul or heart.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2009-09-24-fame-review_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>It’s not a good sign when the first few minutes of a movie about singing, dancing, rapping, video-camera-wielding teenagers reminds you of a certain grimy horror franchise.</snippet>
+         <url>http://www.boston.com/ae/movies/articles/2009/09/25/not_much_to_remember_in_fame_remake/</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>This new Fame, whitewashed for the kids, leaps into a catchy rhythm at the start.</snippet>
+         <url>http://www.washingtonpost.com/gog/movies/fame,1124925/critic-review.html#reviewNum1</url>
+         <critic>Dan Zak</critic>
+      </review>
+      <review>
+         <snippet>This PG-rated offering thus dances along a fine line -- one that suggests a shelf-life well short of its "I wanna live forever" anthem.</snippet>
+         <url>http://www.variety.com/review/VE1117941216.html?categoryid=31&amp;cs=1</url>
+         <critic>Brian Lowry</critic>
+      </review>
+      <review>
+         <snippet>The opening montage is a jazzy, grabby thing, artfully layering the kids’ auditions to mimic the frenzied pace of the day. But that freneticism never really goes away, nor does the staccato timing.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A875933</url>
+         <critic>Kimberley Jones</critic>
+      </review>
+      <review>
+         <snippet>Offers about as much flava as a Dr. Pepper commercial and about as much drama as a “Sesame Street” rerun.</snippet>
+         <url>http://www.stltoday.com/stltoday/entertainment/reviews.nsf/movie/story/11AC486C1450F9698625763C0058B412?OpenDocument</url>
+         <critic>Joe Williams</critic>
+      </review>
+      <review>
+         <snippet>The high school is so sanitized that there are no drugs, cutthroat competition, or--inconceivably for a theatrical milieu--no gay students.</snippet>
+         <url>http://www.chicagoreader.com/chicago/MovieTimes?oid=977722</url>
+         <critic>Andrea Gronvall</critic>
+      </review>
+      <review>
+         <snippet>Someone has driven a stake through the heart and ripped out the soul of the 1980 original. The responsible parties, make that irresponsible parties, should be found, thrown in movie jail and not allowed within 50 feet of a set again. Ever.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-fame25-2009sep25,0,3029575.story</url>
+         <critic>Betsy Sharkey</critic>
+      </review>
+      <review>
+         <snippet>The cowardly producers have banished the grit and darkness of Parker’s original.</snippet>
+         <url>http://www.nypost.com/p/entertainment/movies/lame_zlwWug1UX76PH9v0KqEcQM</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>The new Fame is practically identical to Alan Parker's 1980 original -- I mean, it's the same damn movie -- except for all the parts with heart and humor and poignancy and soul and fun.</snippet>
+         <url>http://www.miamiherald.com/entertainment/movies/reviews/story/1249042.html</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>Sadly, everything is predictable, which is to the detriment of the mostly fine, young talent that appears in this ineffective retread.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=11905</url>
+         <critic>Elias Savada</critic>
+      </review>
+      <review>
+         <snippet>My advice to potential audiences: Find something else to do.</snippet>
+         <url>http://www.npr.org/templates/story/story.php?storyId=112809506</url>
+         <critic>Jeannette Catsoulis</critic>
+      </review>
+      <review>
+         <snippet>Fame has today's usual gritty form of slick to it, but in every other way it's an Amateur Hour and a half.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-fame-review-0924,0,7114981.story</url>
+         <critic>Michael Sragow</critic>
+      </review>
+   </reviews>
+   <US_Gross>$22,452,209</US_Gross>
+   <production_budget>$18,000,000</production_budget>
+   <weekend_gross>$10,011,682</weekend_gross>
+   <number_of_screens>3,096</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

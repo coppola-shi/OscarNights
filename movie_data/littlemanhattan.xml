@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Little Manhattan</name>
+   <company>Twentieth Century Fox Film Corp.</company>
+   <genres>
+      <genre>Adventure</genre>
+      <genre>Comedy</genre>
+      <genre>Romance</genre>
+   </genres>
+   <authors>
+      <author>Jennifer Flackett</author>
+   </authors>
+   <directors>
+      <director>Mark Levin</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Josh Hutcherson</actor>
+      <actor>Charlie Ray</actor>
+      <actor>Bradley Whitford</actor>
+      <actor>Cynthia Nixon</actor>
+      <actor>Willie Garson</actor>
+      <actor>Tonye Patano</actor>
+      <actor>J. Kyle Manzay</actor>
+      <actor>Talia Balsam</actor>
+   </actors>
+   <release_date>September 30, 2005</release_date>
+   <running_time>84</running_time>
+   <rating>PG</rating>
+   <reviews>
+      <review>
+         <snippet>Sweetly sentimental story of young love.</snippet>
+         <url>http://online.tvguide.com/movies/database/ShowMovie.asp?MI=46489</url>
+         <critic>Allison Corneau</critic>
+      </review>
+      <review>
+         <snippet>What a treasure - a funny, tart, romantic comedy about tweens suffering the pangs of first love. It makes the cityscape an essential part of the romance, like a junior, vintage Woody Allen.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/moviereviews/story/351110p-299359c.html</url>
+         <critic>Jami Bernard</critic>
+      </review>
+      <review>
+         <snippet>As in Allen's films, the extensive shooting -- mostly at locations in and around Central Park -- takes place in a whitebread world where the only person of color is Rosemary's nanny.</snippet>
+         <url>http://www.nypost.com/movies/53191.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>An endearing, affectionately humorous and even lyrical depiction of the dawning of adolescence amid the privileged, yet Jennifer Flackett's script, for all its sheen, is problematic.</snippet>
+         <url>http://www.calendarlive.com/movies/cl-et-capsules2dec02,0,1887828.story</url>
+         <critic>Kevin Thomas</critic>
+      </review>
+      <review>
+         <snippet>Not quite as nauseous as its plot might suggest, Little Manhattan is sassy as well as sweet.</snippet>
+         <url>http://www.empireonline.com/reviews/review.asp?FID=133102</url>
+         <critic>Anna Smith</critic>
+      </review>
+      <review>
+         <snippet>Small-scale, perfectly acted family film.</snippet>
+         <url>http://www.nytimes.com/2005/09/30/movies/30litt.html</url>
+         <critic>Janet Maslin</critic>
+      </review>
+      <review>
+         <snippet>While the juvenile performances are bright and engaging, and there's no shortage of genuinely humorous observations about love and life in the Big Apple, there's an inescapable small-screen dynamic to the scope and rhythm of the production.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1001219167</url>
+         <critic>Michael Rechtshaffen</critic>
+      </review>
+      <review>
+         <snippet>At its best, there's a strong (albeit live-action) echo of Charles M. Schulz's "Peanuts" in Little Manhattan. The movie's hero, Gabe, is a world-weary 10-year-old who addresses us in eloquent voice-overs. Like Charlie Brown, he's in love with a red-headed beauty.</snippet>
+         <url>http://www.laweekly.com/film/film_results.php?showid=3679&amp;Sumbit.x=65&amp;Sumbit.y=16</url>
+         <critic>F. X. Feeney</critic>
+      </review>
+      <review>
+         <snippet>Who is this movie's target audience, anyway? Preteens will be bored stupid, while adults are unlikely to want to revisit puppy love in such grueling detail. The lingering, soft-focus, slo-mo shots of Rosemary that punctuate the action suggest a constituency I'd rather not contemplate.</snippet>
+         <url>http://www.villagevoice.com/film/0539,tracking10,68257,20.html</url>
+         <critic>Mark Holcomb</critic>
+      </review>
+      <review>
+         <snippet>Resting almost entirely on the shoulders of its young leads, both they and the pic lack the sparkle to sustain what seeks to be a whimsical premise but, except for a few moments, proves ponderous instead.</snippet>
+         <url>http://www.variety.com/review/VE1117928378?categoryid=31&amp;cs=1</url>
+         <critic>Brian Lowry</critic>
+      </review>
+   </reviews>
+   <US_Gross>$385,373</US_Gross>
+   <weekend_gross>$36,397</weekend_gross>
+   <number_of_screens>2</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

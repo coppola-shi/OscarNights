@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Juno</name>
+   <company>Fox Searchlight Pictures</company>
+   <genres>
+      <genre>Comedy</genre>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author>Diablo Cody</author>
+   </authors>
+   <directors>
+      <director>Jason Reitman</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Ellen Page</actor>
+      <actor>Michael Cera</actor>
+      <actor>Allison Janney</actor>
+      <actor>J.K. Simmons</actor>
+      <actor>Olivia Thirlby</actor>
+      <actor>Rainn Wilson</actor>
+      <actor>Jason Bateman</actor>
+      <actor>Jennifer Garner</actor>
+   </actors>
+   <release_date>December 5, 2007</release_date>
+   <running_time>92</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>Hollywood's Woman of the Year is a pregnant 16-year-old, the incredibly hip, smart-mouthed and totally endearing heroine of the wise and witty Juno.</snippet>
+         <url>http://www.nypost.com/seven/12052007/entertainment/movies/_juno__how_good_this_is__114363.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>With its original performances that can't be reduced to simplistic labels, Juno is charming, honest and terrifically acted.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2007-12-04-juno_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>A fresh, quirky, unusually intelligent comedy.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20071206/REVIEWS/71206002</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>A confluence of perfection in every aspect of the film.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2007/12/14/DDKDTSSLT.DTL&amp;type=movies</url>
+         <critic>David Wiegand</critic>
+      </review>
+      <review>
+         <snippet>A witty little comic gem with a heart and a soul.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/343451_juno14q.html</url>
+         <critic>Sean Axmaker</critic>
+      </review>
+      <review>
+         <snippet>At its best, Juno is about the messy things in life that are not so easily summarized.</snippet>
+         <url>http://www.csmonitor.com/2007/1214/p12s03-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>A blithe charmer balanced somewhere between a life-should-be-so-neat fairy tale and a life's-a-real-bitch tragicomedy, leaves political debate at the ticket counter and focuses solely on what it's like for Juno MacGuff to be Juno MacGuff.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20163026,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>Juno respects the idiosyncrasies of its characters rather than exaggerating them or holding them up for ridicule.</snippet>
+         <url>http://movies.nytimes.com/2007/12/05/movies/05juno.html?ref=movies</url>
+         <critic>A.O. Scott</critic>
+      </review>
+      <review>
+         <snippet>With a charismatic lead performance from Page and a plaintive score of indie-rock songs, many of them by Kimya Dawson of the Moldy Peaches, Juno seems poised to be the season's youth-culture hit.</snippet>
+         <url>http://www.slate.com/id/2179273/fr/flyout</url>
+         <critic>Dana Stevens</critic>
+      </review>
+      <review>
+         <snippet>Juno is a coming-of-age movie made with idiosyncratic charm and not a single false note.</snippet>
+         <url>http://www.newyorker.com/arts/critics/cinema/2007/12/17/071217crci_cinema_denby?currentPage=2</url>
+         <critic>David Denby</critic>
+      </review>
+      <review>
+         <snippet>Not only gives us a superb new cast of believable characters, it transcends its own genre. Only superficially a teen comedy, the movie redounds with postmodern -- but emotionally genuine -- gravitas.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1141317&amp;categories=Movies&amp;nm=1</url>
+         <critic>Desson Thomson</critic>
+      </review>
+      <review>
+         <snippet>That smart, hip, human comedy you've been waiting for all year.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=10784</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>Like its heroine, the film's glib - and sometimes sidesplittingly funny - patter at first diverts viewers from its poignant insights. Happily, as Juno grows in experience and maturity, so does the film.</snippet>
+         <url>http://www.philly.com/philly/entertainment/movies/20071214_Many_laughs_in_spite_of_it_all.html</url>
+         <critic>Carrie Rickey</critic>
+      </review>
+      <review>
+         <snippet>Ellen Page is key to its success, as much as Cody, or director Jason Reitman.</snippet>
+         <url>http://chicago.metromix.com/movies/movie_review/movie-review-juno/268157/content</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>There's a special kick that comes in finding a new star. So step up, Ellen Page, and take your bows.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/15826128/review/17436405/juno</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>Juno has a great heroine and is blessed by a screenplay that doesn't try to do too much and finds the perfect ending.</snippet>
+         <url>http://www.reelviews.net/movies/j/juno.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>It comes off as calculatedly irreverent at times, and its Wes Anderson-isms are too precious by half, but its sweetness is genuine and next-to-impossible to resist.</snippet>
+         <url>http://www.avclub.com/content/cinema/juno</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>A funny and sincere indie about what happens when an acerbic teen finds herself "in a fat suit I can't take off."</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/1197330950163460.xml&amp;coll=7</url>
+         <critic>M. E. Russell</critic>
+      </review>
+      <review>
+         <snippet>Juno is not a great movie; it does not have aspirations in that direction. But it is, in its little way, a truthful, engaging and welcome entertainment.</snippet>
+         <url>http://www.time.com/time/arts/article/0,8599,1692446,00.html</url>
+         <critic>Richard Schickel</critic>
+      </review>
+      <review>
+         <snippet>Bateman is given all the best dialogue and delivers his hilarious one-liners and odd observations with his usual brilliant deadpan, along with Garner who gives the finest performance of her career.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=10455</url>
+         <critic>Felix Vasques Jr.</critic>
+      </review>
+      <review>
+         <snippet>It's a comedy of crisp, mordant wit and quietly radiating warmth, as well as a coming-of-age story with a lovely twist -- you can't always spot the best candidates for maturity.</snippet>
+         <url>http://online.wsj.com/article/SB119681226914313704.html</url>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>As lively and entertaining as Juno is, Reitman and Cody have also done the work of shaping the story into something emotionally direct, unsparing and generous.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2007/12/05/juno/</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>Cody's dialogue has a definite rhythm and Reitman directs his actors to deliver the words in the rapid-fire precision of a '30s screwball comedy. Indeed all scenes develop a rhythm and inner logic that bring the movie to often startling revelations and insights.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?&amp;rid=9773</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>An ultra-smart-mouthed comedy about a planned adoption that goes weirdly awry.</snippet>
+         <url>http://www.variety.com/awardcentral_review/VE1117934566.html?nav=reviews07&amp;categoryid=2352&amp;cs=1&amp;p=0</url>
+         <critic>Todd McCarthy</critic>
+      </review>
+      <review>
+         <snippet>Once it works its way through the first-timer's lookatme! snark, Juno evolves into a thing of beauty and grace. By the end, it's unexpectedly moving without ever once trolling for crocodile tears. It's a sneak attack.</snippet>
+         <url>http://www.villagevoice.com/film/0749,wilonsky,78526,20.html</url>
+         <critic>Robert Wilonsky</critic>
+      </review>
+      <review>
+         <snippet>Deceptively superficial at the outset, the movie deepens into something poignant and unexpected.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-juno5dec05,0,6109813.story?coll=cl-mreview</url>
+         <critic>Carina Chocano</critic>
+      </review>
+      <review>
+         <snippet>A sharp-edged, sweet-centred, warm-hearted coming-of-age movie that’s always just that little bit smarter than you think it is.</snippet>
+         <url>http://www.empireonline.com/reviews/reviewcomplete.asp?FID=133063</url>
+         <critic>Andrew Male</critic>
+      </review>
+      <review>
+         <snippet>As with "Sunshine," I'd call Juno a family film if only it didn't make teen pregnancy look so sporting. Instead, we'll settle for that rare bird, an indie comedy that uplifts – funny and smart, totally trying to be cool and succeeding, and heartfelt to boot.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A573372</url>
+         <critic>Kimberley Jones</critic>
+      </review>
+      <review>
+         <snippet>Comedy comes from an exaggeration of reality, not reality itself -- and on that score, Diablo Cody's first screenplay gets high marks.</snippet>
+         <url>http://ae.charlotte.com/entertainment/ui/charlotte/movie.html?id=995692&amp;reviewId=22804&amp;startDate=NEXT7</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>The film's forced quirkiness constantly threatens to derail the entire enterprise, making this another minor American indie exercise in family eccentricity. But it keeps being put back on track by the apparently effortless performance of a great young actress.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20071213.wjuno14/BNStory/Entertainment/home</url>
+         <critic>Liam Lacey</critic>
+      </review>
+      <review>
+         <snippet>It is certainly the feel-good movie of the season.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2007/12/05/2007-12-05_ellen_page_is_a_teen_who_aces_the_pregna.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>Diablo and director Jason Reitman never undercut Juno, whom Page brings to a fully rounded life (no pun intended) that verges on the frightening: Her vulnerable center doesn't belie her formidable exterior -- it just makes her more than a sitcom-patter machine.</snippet>
+         <url>http://www.tvguide.com/movies/juno/review/291113</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>If a woman had not in fact certifiably written the picture, I might have thought that Lester Bangs had come back from the dead to pen an account of the teen years of his ideal mate.</snippet>
+         <url>http://www.premiere.com/moviereviews/4293/juno.html</url>
+         <critic>Glenn Kenny</critic>
+      </review>
+      <review>
+         <snippet>Juno comes on all wisecracking and aren't-we-clever, but don't be surprised if you find yourself getting choked up -- with happy tears -- by the end.</snippet>
+         <url>http://www.miamiherald.com/1054/story/351367.html</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>What sets this engaging little movie above the pack of glib, brittle or sickly-sweet teen comedies is the clear eye it casts on the suburban American family, while stoutly defending that battered institution’s elastic ability to adapt.</snippet>
+         <url>http://www.laweekly.com/film+tv/film/juno-knocked-up-knockout/17840/</url>
+         <critic>Ella Taylor</critic>
+      </review>
+      <review>
+         <snippet>Jason Reitman follows his pitch-perfect satire "Thank You for Smoking" with another adventurous comedy, though here the cleverness can be grating; the movie is distinctive for its complicated emotions.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/critic.html?week=nextweek#32582</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>It’s the writer, Diablo Cody, and the director, Jason Reitman, who have screws loose. Or maybe they’re just desperate to make their film a chick "Rushmore" or "Garden State."</snippet>
+         <url>http://nymag.com/movies/reviews/41541/index1.html</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>The movie has been hailed and marketed as this year's Little Miss Sunshine, but it has none of that movie's empathy and comic surprise. Too much of it is like a subpar episode of Freaks and Geeks, padded out to 92 minutes with pseudo-witty dialogue.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/reviews/bal-to.juno21dec21,0,4631572.story</url>
+         <critic>Michael Sragow</critic>
+      </review>
+   </reviews>
+   <US_Gross>$143,495,265</US_Gross>
+   <production_budget>$7,000,000</production_budget>
+   <weekend_gross>$525,155</weekend_gross>
+   <number_of_screens>7</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

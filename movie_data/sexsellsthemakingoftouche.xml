@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Sex Sells: The Making of Touche</name>
+   <company>Dream Entertainment</company>
+   <genres>
+      <genre>Comedy</genre>
+      <genre>Romance</genre>
+   </genres>
+   <authors>
+      <author>Jonathan Liebert</author>
+   </authors>
+   <directors>
+      <director>Jonathan Liebert</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Jay Michael Ferguson</actor>
+      <actor>Jack Kyle</actor>
+      <actor>Mark DeCarlo</actor>
+      <actor>Priscilla Barnes</actor>
+      <actor>Lisa Jay</actor>
+      <actor>Adrian Zmed</actor>
+   </actors>
+   <release_date>February 25, 2005</release_date>
+   <running_time>96</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>Tiresome, and with no discernable edge or wit, Sex Sells is most powerful when it dawns on us we're watching Barnes, the leggy replacement for Suzanne Somers on "Three's Company," and Zmed, the beefcake cop from "T.J. Hooker," arrive at this point in their careers.</snippet>
+         <url>http://www.laweekly.com/film/film_results.php?showid=3294&amp;Sumbit.x=51&amp;Sumbit.y=3</url>
+         <critic>Kim Morgan</critic>
+      </review>
+      <review>
+         <snippet>A mildly amusing comedy about the vicissitudes of shooting porn that has little of the grit, sleaze and uncertainty that is the lot of the veteran pornographer striving for professionalism more often than not against all odds.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-capsules25feb25,2,4375033.story</url>
+         <critic>Kevin Thomas</critic>
+      </review>
+   </reviews>
+   <US_Gross>$2,386</US_Gross>
+   <weekend_gross>$2,386</weekend_gross>
+   <number_of_screens>1</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Romeo &amp; Juliet: Sealed with a Kiss</name>
+   <company>Indican Pictures</company>
+   <genres>
+      <genre>Animation</genre>
+   </genres>
+   <authors>
+      <author>Phil Nibbelink</author>
+   </authors>
+   <directors>
+      <director>Phil Nibbelink</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Chip Albers</actor>
+      <actor>Chanelle Nibbelink</actor>
+      <actor>Phil Nibbelink</actor>
+      <actor>Daniel Tippet</actor>
+      <actor>Michael Tol</actor>
+      <actor>Tricia Trippett</actor>
+   </actors>
+   <release_date>October 27, 2006</release_date>
+   <running_time>76</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>Needless to say, this is one odd concoction, which should find its primary audience among college potheads who like to watch ’70s Hanna-Barbera creations on the Cartoon Network late at night.</snippet>
+         <url>http://www.laweekly.com/film+tv/film-reviews/film-reviews/14868/</url>
+         <critic>Luke Y. Thompson</critic>
+      </review>
+      <review>
+         <snippet>Voilà! A genuine tragedy, although not in the Shakespearean sense. A comprehensive list of what's wrong with Romeo &amp; Juliet: Sealed With a Kiss would stretch farther than the unabridged works of William S.</snippet>
+         <url>http://www.calendarlive.com/printedition/calendar/cl-et-romeo27oct27,0,5475419.story</url>
+         <critic>Sam Adams</critic>
+      </review>
+   </reviews>
+   <US_Gross>$463,002</US_Gross>
+   <weekend_gross>$80,938</weekend_gross>
+   <number_of_screens>26</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

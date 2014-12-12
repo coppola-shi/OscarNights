@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>November</name>
+   <company>Sony Pictures Classics</company>
+   <genres>
+      <genre>Drama</genre>
+      <genre>Fantasy</genre>
+      <genre>Mystery</genre>
+   </genres>
+   <authors>
+      <author>Benjamin Brand</author>
+   </authors>
+   <directors>
+      <director>Greg Harrison</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Courteney Cox</actor>
+      <actor>James LeGros</actor>
+      <actor>Michael Ealy</actor>
+      <actor>Nora Dunn</actor>
+      <actor>Nick Offerman</actor>
+      <actor>Anne Archer</actor>
+      <actor>Matthew Carey</actor>
+      <actor>Robert Wu</actor>
+   </actors>
+   <release_date>July 22, 2005</release_date>
+   <running_time>73</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>An ingeniously scripted psychological thriller.</snippet>
+         <url>http://www.csmonitor.com/2005/0805/p14s01-almo.html</url>
+         <critic>David Sterritt</critic>
+      </review>
+      <review>
+         <snippet>Courteney Cox, well known from TV, rarely gets an opportunity to revise her famous image, but here she is serious, inward, coiled. She carries the film; the other characters circulate through her consciousness as possibilities and hypotheses.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20050804/REVIEWS/50726003/1001</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>Ambiguous in a satisfying, puzzling sort of way, November offers a triptych of scenarios revolving around a grim moment.</snippet>
+         <url>http://ae.philly.com/entertainment/ui/philly/movie.html?id=380839&amp;reviewId=18798</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>The depth of the story and the characters is awfully slight to bear the weight of such fancy editing. But the performances are crisp and in focus, with Cox in particular showing a photogenic feel for expressing grief.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1084824_1_0_,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>The creative and experimental use of sound and photography are a big part of what makes November an intriguing film.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/ArticleNews/TPStory/LAC/20050819/NOVEMBER19/TPEntertainment/Film</url>
+         <critic>Jennie Punter</critic>
+      </review>
+      <review>
+         <snippet>Tries to be a lot of things within its 78 minute running time, succeeding marvelously at some while crashing and burning on others.</snippet>
+         <url>http://www.filmthreat.com/Reviews.asp?Id=7649</url>
+         <critic>Greg Bellavia</critic>
+      </review>
+      <review>
+         <snippet>In the same way that a crossword puzzle tickles the mind without asking to be taken as literature, November plays games for the sake of game-playing. It also has a pretentious streak.</snippet>
+         <url>http://movies2.nytimes.com/2005/07/22/movies/22nove.html</url>
+         <critic>Stephen Holden</critic>
+      </review>
+      <review>
+         <snippet>Feels more like a clever student short that got out of hand than the Kafka-esque nightmare that director Greg Harrison (Groove) likely intended.</snippet>
+         <url>http://www.theavclub.com/review.php?review_id=8720</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>Exploring the possibilities of low-budget digital filmmaking is a worthy endeavor, but November is a little too in love with the grittiness of it all.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/1124968004177440.xml&amp;coll=7</url>
+         <critic>Marc Mohan</critic>
+      </review>
+      <review>
+         <snippet>It doesn't always succeed, and sometimes it has the egocentric obviousness of a particularly clever, grad-student thesis film, but at least Harrison is game enough to mess with your head in the first place.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A287507</url>
+         <critic>Marc Savlov</critic>
+      </review>
+      <review>
+         <snippet>Benjamin Brand's script never levels with a viewer.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=2076926</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>Like a jigsaw that's more fun to assemble before you know how all the pieces fit, Greg Harrison's brain-teasing meta-thriller November is less compelling the more apparent its solution becomes.</snippet>
+         <url>http://www.villagevoice.com/film/0529,holcomb,65986,20.html</url>
+         <critic>Mark Holcomb</critic>
+      </review>
+      <review>
+         <snippet>To their great credit, writer Benjamin Brand and director Greg Harrison weave these contradictory variations into an effective puzzle, if one that doesn't quite transcend being a puzzle - it never becomes a mystery, like, say, "Mulholland Drive," or even "The Sixth Sense."</snippet>
+         <url>http://www.laweekly.com/film/film_results.php?showid=3476&amp;Sumbit.x=56&amp;Sumbit.y=15</url>
+         <critic>F. X. Feeney</critic>
+      </review>
+      <review>
+         <snippet>Increasingly perplexing film, which is more concerned with being clever than satisfying.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-november22jul22,0,3726546.story</url>
+         <critic>Kevin Thomas</critic>
+      </review>
+      <review>
+         <snippet>The best thing about this psychological exploration is its star, Courteney Cox.</snippet>
+         <url>http://www.washingtonpost.com/wp-dyn/content/article/2005/08/11/AR2005081101157.html</url>
+         <critic>Curt Fields</critic>
+      </review>
+      <review>
+         <snippet>The fact is, neither Harrison or scriptwriter Benjamin Brand is very honest with the audience.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-050805-movies-review-november,0,7697941.story?coll=mmx-movies_top_heds</url>
+         <critic>Achy Obejas</critic>
+      </review>
+      <review>
+         <snippet>For all its good intentions in exploring the grace of death, November never creates a life outside of its all-too-obvious inspirations and the mystery becomes little more than a groaner.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/234384_november29q.html</url>
+         <critic>Sean Axmaker</critic>
+      </review>
+      <review>
+         <snippet>Lacks the finesse of other puzzle films.</snippet>
+         <url>http://sfgate.com/cgi-bin/article.cgi?f=/c/a/2005/07/29/DDGRNDUJBK1.DTL</url>
+         <critic>Walter Addiego</critic>
+      </review>
+      <review>
+         <snippet>Cox, bespectacled and deglamorized here, shows some acting ability, but by the time you get through this 78-minute bag of tricks, you could be suffering from a case of perceptual overload.</snippet>
+         <url>http://listings.dallasobserver.com/gyrobase/Film/ShowFilm</url>
+         <critic>Bill Gallo</critic>
+      </review>
+      <review>
+         <snippet>There's less than meets the eye in this tricky psychological thriller, one of a long line of mess-with-your-head brain ticklers in which all is not as it seems.</snippet>
+         <url>http://online.tvguide.com/movies/database/ShowMovie.asp?MI=46151</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>There's no real payoff - artistically or emotionally - in Gregory Harrison's gimmicky and tedious psychological thriller November, shot on ugly digital video.</snippet>
+         <url>http://www.nypost.com/movies/50158.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>Convoluted and unsatisfying psychological drama.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/moviereviews/story/330484p-282239c.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>Offers cliches instead of chills.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=5462</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>This parallel-reality shtick would be OK if the gun violence weren't so awful--but staging a murder again and again for the sake of some undergraduate head game is no more defensible than using it to pump up an action flick.</snippet>
+         <url>http://spacefinder.chicagoreader.com/movies/briefs/28092_NOVEMBER.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>Cox's morose performance could not be less interesting, Harrison's visual stylings all feel borrowed from David Fincher movies and nine inch nails music videos, and the film's elliptical mysteries, which twist onto themselves a la Mulholland Drive, aren't interesting enough to ponder.</snippet>
+         <url>http://ae.miami.com/entertainment/ui/miami/movie.html?id=380839&amp;reviewId=18856</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>Brand's script is a puzzle without a satisfying solution. Even at its supposedly heartfelt conclusion, it's more ironic than emotional, more of an art thing than a suspense movie.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-to.november23sep23,1,1484680.story?coll=bal-movies-storyutil</url>
+         <critic>Michael Sragow</critic>
+      </review>
+   </reviews>
+   <US_Gross>$191,862</US_Gross>
+   <production_budget>$250,000</production_budget>
+   <weekend_gross>$21,813</weekend_gross>
+   <number_of_screens>8</number_of_screens>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

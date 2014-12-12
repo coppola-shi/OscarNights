@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Lemming</name>
+   <company>Strand Releasing</company>
+   <genres>
+      <genre>Drama</genre>
+      <genre>Foreign</genre>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>Gilles Marchand</author>
+      <author>Dominik Moll</author>
+   </authors>
+   <directors>
+      <director>Dominik Moll</director>
+   </directors>
+   <origins>
+      <origin>France</origin>
+   </origins>
+   <actors>
+      <actor>Laurent Lucas</actor>
+      <actor>Charlotte Gainsbourg</actor>
+      <actor>Charlotte Rampling</actor>
+      <actor>André Dussollier</actor>
+      <actor>Jacques Bonnaffé</actor>
+      <actor>Véronique Affholder</actor>
+      <actor>Michel Cassagne</actor>
+      <actor>Florence Desille</actor>
+   </actors>
+   <release_date>May 19, 2006</release_date>
+   <running_time>129</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>If you're content to let dream logic take over, a lot can be gleaned from this odd, darkly funny meditation on life, death, love and revenge.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/1156978538192440.xml&amp;coll=7</url>
+         <critic>Marc Mohan</critic>
+      </review>
+      <review>
+         <snippet>The movie, which has the slightly glum perversity of early Chabrol, is a dream of betrayal, with the squirmiest attack-of-nature tableau since Willard.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1201781_1_0_,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>Brilliantly conceived and competently executed.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/critic.html#30093</url>
+         <critic>Jonathan Rosenbaum</critic>
+      </review>
+      <review>
+         <snippet>Rampling has a relatively small role in Lemming, but the 60-year-old star proves the high point of the suspenseful black comedy from France.</snippet>
+         <url>http://www.nypost.com/movies/68779.htm</url>
+         <critic>V.A. Musetto</critic>
+      </review>
+      <review>
+         <snippet>By the end, you may not know whether you've seen a ghost story or a story of delusional obsession, but you'll have had a great time.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/moviereviews/story/419131p-353782c.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>Like Michael Haneke's "Caché," this effectively creepy little customer from Dominik Moll (With a Friend Like Harry) fires yet another shot across the bows of French bourgeois complacency, while throwing in a wink and a nudge about the perils of surveillance.</snippet>
+         <url>http://www.laweekly.com/film+tv/film-reviews/film-reviews/13608/</url>
+         <critic>Ella Taylor</critic>
+      </review>
+      <review>
+         <snippet>The acting is serviceable and primarily of the stare-until-you're-uncomfortable variety, although Rampling is much more than that: She's a classic screen temptress with the aura of a melancholy spider.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-lemming26may26,0,5137253.story</url>
+         <critic>Robert Abele</critic>
+      </review>
+      <review>
+         <snippet>Spooky, intellectually titillating and darkly funny picture is definitely the kind of film where the less you know going in, the better.</snippet>
+         <url>http://www.variety.com/review/VE1117927058?categoryid=1929&amp;cs=1&amp;s=h&amp;p=0</url>
+         <critic>Lisa Nesselson</critic>
+      </review>
+      <review>
+         <snippet>Exhilaratingly anxious, Dominik Moll's new film Lemming charts familiar territory but does it with gravity and panache.</snippet>
+         <url>http://www.villagevoice.com/film/0620,atkinson,73231,20.html</url>
+         <critic>Michael Atkinson</critic>
+      </review>
+      <review>
+         <snippet>The film is much more intriguing in its dread-inducing opening half, when Moll's assured direction keeps suggesting that something horrible will be happening soon, then, when it does, that something even more horrifying may follow.</snippet>
+         <url>http://www.avclub.com/content/node/48573</url>
+         <critic>Keith Phipps</critic>
+      </review>
+      <review>
+         <snippet>Holds enough interest throughout to keep you entertained -- unless you're afraid of mice.</snippet>
+         <url>http://ae.miami.com/entertainment/ui/miami/movie.html?id=619801&amp;reviewId=21353</url>
+         <critic>Marta Barber</critic>
+      </review>
+      <review>
+         <snippet>Begins like a house afire and then fizzles out into a quasi-supernatural dead end.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-060805-movies-review-lemmings,0,4617748.story?coll=mmx-movies_top_heds</url>
+         <critic>Michael Wilmington</critic>
+      </review>
+      <review>
+         <snippet>The film's main attractions are the Charlottes, but the price of watching their eerie psychological pas de deux is to endure muddled metaphors and goofy gadgetry.</snippet>
+         <url>http://online.tvguide.com/newsearch/detail.aspx?id=46906&amp;sourcetype=m&amp;progseriesparentid=0&amp;tvobjectid=0&amp;keyword=&amp;more=ucmoviereview</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>Lemming does possess a mordant humor as it watches characters spin out of control. But the payoff is slight.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1000919283</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>The score is the most effective thing about the film. Sometimes it's a suspicious, mischie-vous distraction from the reality that not enough of this makes sense.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=9086</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>The second half of the movie squanders suspense and momentum, solving its riddles by deflating them.</snippet>
+         <url>http://movies2.nytimes.com/2006/05/19/movies/19lemm.html</url>
+         <critic>Dana Stevens</critic>
+      </review>
+   </reviews>
+   <US_Gross>$81,698</US_Gross>
+   <weekend_gross>$11,310</weekend_gross>
+   <number_of_screens>2</number_of_screens>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

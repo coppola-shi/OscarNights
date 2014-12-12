@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Jacket, The</name>
+   <company>Warner Independent Pictures</company>
+   <genres>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>Massy Tadjedin</author>
+      <author>Tom Bleecker</author>
+      <author>Marc Rocco</author>
+   </authors>
+   <directors>
+      <director>John Maybury</director>
+   </directors>
+   <origins>
+      <origin>USAUK</origin>
+   </origins>
+   <actors>
+      <actor>Adrien Brody</actor>
+      <actor>Keira Knightley</actor>
+      <actor>Kris Kristofferson</actor>
+      <actor>Jennifer Jason Leigh</actor>
+      <actor>Kelly Lynch</actor>
+      <actor>Brad Renfro</actor>
+      <actor>Daniel Craig</actor>
+      <actor>Jason Lewis</actor>
+   </actors>
+   <release_date>March 4, 2005</release_date>
+   <running_time>102</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>The first great film of 2005.</snippet>
+         <url>http://dallasobserver.com/issues/2005-03-03/film/film2.html</url>
+         <critic>Luke Y. Thompson</critic>
+      </review>
+      <review>
+         <snippet>Admittedly, The Jacket is not likely to be everyone's cup of tea, but filmmaker John Maybury has forged a mesmerizing mindblower.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1000770770</url>
+         <critic>Duane Byrge</critic>
+      </review>
+      <review>
+         <snippet>The result is what you might call a mass-audience art film. It doesn't entirely succeed, but it's certainly a change from today's standard mysteries and horror movies.</snippet>
+         <url>http://www.csmonitor.com/2005/0304/p14s02-almo.html</url>
+         <critic>David Sterritt</critic>
+      </review>
+      <review>
+         <snippet>A gripping drama that will leave thoughtful cinemagoers wrestling with basic Big Questions.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-050303-movies-review-kw-jacket.story</url>
+         <critic>Kevin Williams</critic>
+      </review>
+      <review>
+         <snippet>This movie probably falls within the purview of a "love it/hate it" subgenre of the psychological thriller.</snippet>
+         <url>http://movie-reviews.colossus.net/movies/j/jacket.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>Director John Maybury has a feel for shock rhythms, and he's skillful at keeping you guessing, but after a while you want your questions to cohere into compelling answers, and in The Jacket they don't, quite.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1033464_1_0_,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>Adrien Brody is cornering the market on roles where he's hunted, haunted and under-nourished.</snippet>
+         <url>http://www.nydailynews.com/03-04-2005/entertainment/movies/story/286564p-245360c.html</url>
+         <critic>Jami Bernard</critic>
+      </review>
+      <review>
+         <snippet>The Jacket is a confused attempt at headiness that feels like a poor man's "Memento."</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2005-03-03-jacket_x.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>A gripping, affecting, strange movie -- but oddly, it's just like too many other gripping, affecting, strange movies we've seen recently.</snippet>
+         <url>http://www.empireonline.co.uk/site/incinemas/ReviewInFull.asp?FID=10339</url>
+         <critic>Kim Newman</critic>
+      </review>
+      <review>
+         <snippet>Intermittently compelling but unavoidably improbable.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-jacket4mar04,2,6823945.story</url>
+         <critic>Kevin Thomas</critic>
+      </review>
+      <review>
+         <snippet>This kind of gloomy razzle-dazzle isn't everyone's cup of mind-altering tea, but strong performances make it worth the effort to keep the time-tripping shenanigans straight until the surprisingly satisfying payoff.</snippet>
+         <url>http://tvguide.com/movies/database/showmovie.asp?MI=45974</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>The director's work is suitably unnerving, but leaves one feeling beaten senseless by reel two. When the hero's well-earned moment of clarity finally arrives, most will likely be too numbed out to care, despite the best efforts of Brody, an actor too vividly alive to be wasting his time playing dead.</snippet>
+         <url>http://www.laweekly.com/film/film_results.php?showid=3299&amp;Sumbit.x=37&amp;Sumbit.y=10</url>
+         <critic>Chuck Wilson</critic>
+      </review>
+      <review>
+         <snippet>Maybury's attempt at a more mainstream movie is really just a simple love story cloaked in a lot of metaphysical mumbo-jumbo.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/214401_jacket04q.html</url>
+         <critic>Paula Nechak</critic>
+      </review>
+      <review>
+         <snippet>You'll either walk away with a headache,or praising filmmaker John Maybury for his unique narrative...and it is unique, but in my eyes, it's also a big giant mess.</snippet>
+         <url>http://www.filmthreat.com/Reviews.asp?Id=6866</url>
+         <critic>Eric Campos</critic>
+      </review>
+      <review>
+         <snippet>Though shot for maximum moodiness by the gifted Peter Deming ("Mulholland Drive"), the movie straps you in for a head trip that promises hallucinatory wonders but delivers the same old Hollywood formula with sugar on top.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/_/id/6155419</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>It draws you into its grim and mysterious world through the first half of the movie, then falls apart like a house of cards in a hurricane.</snippet>
+         <url>http://ae.philly.com/entertainment/ui/philly/movie.html?id=262588&amp;reviewId=17422</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>It's pretty stupid, although it's never exactly boring.</snippet>
+         <url>http://ae.philly.com/entertainment/ui/philly/movie.html?id=262588&amp;reviewId=17413</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>The Jacket is both a genre movie and a symptom, a gothic treatment of Gulf War syndrome.</snippet>
+         <url>http://ae.philly.com/entertainment/ui/philly/movie.html?id=262588&amp;reviewId=17435</url>
+         <critic>Carrie Rickey</critic>
+      </review>
+      <review>
+         <snippet>You can sense an impulse toward a better film, and Adrien Brody and Keira Knightley certainly take it seriously, but the time-travel whiplash effect sets in, and it becomes, as so many time travel movies do, an exercise in early entrances, late exits, futile regrets.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20050303/REVIEWS/50214003/1023</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>Memo to screenwriters cranking out murky existential thrillers: Do not have various characters repeat on several occasions: "I know this doesn't make any sense."</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20050304.wxjackrev0304/BNStory/Entertainment/</url>
+         <critic>Rick Groen</critic>
+      </review>
+      <review>
+         <snippet>Doesn't really go anywhere or amount to anything - a fatal flaw in a time-travel movie designed not only to keep you guessing, but to build genuine suspense as well.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-to.jacket04mar04,1,5507605.story?coll=bal-artslife-movies</url>
+         <critic>Chris Kaltenbach</critic>
+      </review>
+      <review>
+         <snippet>The acting makes the difference, and in Jacket it rises above the needs of the material.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=7235</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>Begins too cruelly and ends too sappily but holds you somewhere between the two extremes until the semisweet finale.</snippet>
+         <url>http://www.slate.com/id/2114349/</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>Visually, The Jacket has a lot of flash, but it hardly compensates for the fuzzy story.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A260669</url>
+         <critic>Marjorie Baumgarten</critic>
+      </review>
+      <review>
+         <snippet>Maybury's art-world talents don't include storytelling, and his visceral bursts of fast editing and extreme close-ups don't yield any full-blown characters, narrative, or political vision.</snippet>
+         <url>http://spacefinder.chicagoreader.com/movies/briefs/27438_JACKET_MAYBURY.html</url>
+         <critic>Jonathan Rosenbaum</critic>
+      </review>
+      <review>
+         <snippet>This movie is terribly silly, but it's not completely terrible.</snippet>
+         <url>http://movies2.nytimes.com/2005/03/04/movies/04JACK.html</url>
+         <critic>Dana Stevens</critic>
+      </review>
+      <review>
+         <snippet>Still, the central mystery remains effective and compelling for most of the film, until it becomes clear that it's all image and no intent.</snippet>
+         <url>http://www.theavclub.com/review_pop.php?review_id=8265</url>
+         <critic>Tasha Robinson</critic>
+      </review>
+      <review>
+         <snippet>A movie as lacking in personality as its amnesiac protagonist.</snippet>
+         <url>http://www.variety.com/?layout=sundance2005&amp;nav=reviews&amp;content=reviews&amp;reviewid=VE1117925967&amp;categoryid=1865&amp;cs=1</url>
+         <critic>Scott Foundas</critic>
+      </review>
+      <review>
+         <snippet>A disappointing nosedive into the mainstream for John Maybury, the Derek Jarman acolyte who transitioned successfully from experimental work to features with 1998's hallucinatory Francis Bacon biopic "Love Is the Devil."</snippet>
+         <url>http://www.villagevoice.com/film/0509,lim1,61523,20.html</url>
+         <critic>Dennis Lim</critic>
+      </review>
+      <review>
+         <snippet>The characters are so flat and the dialogue so dull you expect it to be one of those movies whose existence is justified by a big final twist. But it's three days after the screening, and still no twist. Maybe it's coming in the mail?</snippet>
+         <url>http://www.nypost.com/movies/41721.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>If claustrophobia's your style, The Jacket is a perfect fit.</snippet>
+         <url/>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>The Jacket is doing nothing but sampling elements of "Jacob's Ladder," "The Silence of the Lambs" and "Memento" without offering more than hackneyed solutions, including a rather cheesy conclusion.</snippet>
+         <url>http://www.washingtonpost.com/wp-dyn/articles/A4424-2005Mar3.html</url>
+         <critic>Desson Thomson</critic>
+      </review>
+      <review>
+         <snippet>[Brody's] mannered performance helps downgrade this picture from a middling sci-fi film to a bad, borderline-camp sci-fi film.</snippet>
+         <url>http://sfgate.com/cgi-bin/article.cgi?file=/c/a/2005/03/04/DDGE0BJGHS1.DTL</url>
+         <critic>Carla Meyer</critic>
+      </review>
+      <review>
+         <snippet>As bad movies go, The Jacket belongs to a relatively rare but extremely intriguing/irritating genus.</snippet>
+         <url>http://www.premiere.com/article.asp?section_id=2&amp;article_id=2026</url>
+         <critic>Glenn Kenny</critic>
+      </review>
+      <review>
+         <snippet>In this case, the adage would go something like "material, material, material," also known as the Nicolas Cage Rule: Good acting can't overcome bad taste.</snippet>
+         <url>http://www.washingtonpost.com/wp-dyn/articles/A5804-2005Mar3.html</url>
+         <critic>Ann Hornaday</critic>
+      </review>
+   </reviews>
+   <US_Gross>$6,301,131</US_Gross>
+   <production_budget>$28,500,000</production_budget>
+   <weekend_gross>$2,723,682</weekend_gross>
+   <number_of_screens>1,331</number_of_screens>
+   <oscar_winning_actors_present/>
+   <num_oscar_winning_actors>1</num_oscar_winning_actors>
+   <oscar_winning_actor>adrien brody</oscar_winning_actor>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

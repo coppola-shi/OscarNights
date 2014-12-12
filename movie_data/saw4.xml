@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Saw IV</name>
+   <company>Lionsgate</company>
+   <genres>
+      <genre>Crime</genre>
+      <genre>Horror</genre>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>Thomas H. Fenton</author>
+      <author>Marcus Dunstan</author>
+      <author>Patrick Melton</author>
+   </authors>
+   <directors>
+      <director>Darren Lynn Bousman</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Tobin Bell</actor>
+      <actor>Scott Patterson</actor>
+      <actor>Betsy Russell</actor>
+      <actor>Costas Mylor</actor>
+      <actor>Lyriq Bent</actor>
+      <actor>Athena Karkanis</actor>
+      <actor>Donnie Wahlberg</actor>
+      <actor>Angus Macfadyen</actor>
+   </actors>
+   <release_date>October 26, 2007</release_date>
+   <running_time>108</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>Director Darren Lynn Bousman, who also helmed the past two installments, doesn't deviate from the stylistic formula, which includes grinding industrial music, frenzied editing and a blue-gray color palette.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?&amp;rid=10102</url>
+         <critic>Frank Scheck</critic>
+      </review>
+      <review>
+         <snippet>The trouble is that if you haven't seen the other entries in the cycle, or don't have all the characters committed to memory, you'll have trouble figuring out who anybody is or, in the end, what any of it is supposed to mean.</snippet>
+         <url>http://www.tvguide.com/movies/saw-iv/review/285366</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>Even by the standards of the recent "Saws," which have enjoyed considerably larger budgets than the first pic, the new edition is more frenetically cut (by editors Kevin Greutert and Brett Sullivan), more dimly lit (by lenser David A. Armstrong), sweatier in terms of perfs by the grimly serious cast, more madly packed with micro-incidents and action, and more brazen in requiring suspension of disbelief.</snippet>
+         <url>http://www.variety.com/review/VE1117935218.html?categoryid=31&amp;cs=1</url>
+         <critic>Robert Koehler</critic>
+      </review>
+      <review>
+         <snippet>If an hour and a half of so-called "torture porn" sounds like fun, you'll find Saw IV situated somewhere between the first in the cycle (a solid original with plenty of energy in it) and the last (a gasping copycat willing to do anything to stay alive).</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2007/10/27/2007-10-27_saw_iv_is_cutrate_body_work.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>Since the thing is increasingly impatient to jump forward to the next big torture set piece, there isn't any time to establish anyone's character. Butcher shops are bloody, too, but they're not scary.</snippet>
+         <url>http://www.nypost.com/seven/10272007/entertainment/movies/we_iv_saw_what_happens.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>Saw IV is bloody proof that Jigsaw may be dead, but his well of corporeal abuses has yet to run dry.</snippet>
+         <url>http://movies.nytimes.com/2007/10/27/movies/27saw.html?ref=movies</url>
+         <critic>Jeannette Catsoulis</critic>
+      </review>
+      <review>
+         <snippet>Though the series seemed like a great concept three years ago, it's now just a repeated assault on the senses, designed strictly for the gross-out crowd, and disturbs rather than scares.</snippet>
+         <url>http://www.premiere.com/moviereviews/4204/saw-iv.html</url>
+         <critic>Darren Ratner</critic>
+      </review>
+      <review>
+         <snippet>Torture, you may recall, used to be an unparsable, unpardonable sin. Now it's porn.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A553186</url>
+         <critic>Marc Savlov</critic>
+      </review>
+      <review>
+         <snippet>Fans know exactly what they're in for, while everyone else knows to stay far away. Everyone can agree, however, that this is probably the worst date movie ever. For non-sadists, at least.</snippet>
+         <url>http://www.avclub.com/content/cinema/saw_iv</url>
+         <critic>Nathan Rabin</critic>
+      </review>
+      <review>
+         <snippet>Like the movie’s mysterious Jigsaw doppelgänger, Saw IV is itself a poor substitute for the original.</snippet>
+         <url>http://www.laweekly.com/film+tv/film-reviews/movie-reviews-bee-movie-darfur-now-primo-levis-journey/17609/?page=3</url>
+         <critic>Scott Foundas</critic>
+      </review>
+      <review>
+         <snippet>It's a depressing experience to view something like Saw IV. It's not just the soullessness that's dispiriting, but the lack of invention. When a movie does little more than repeat what its predecessors accomplished with grotesque effectiveness, it's past time to tip this corpse into its grave and bury it.</snippet>
+         <url>http://www.reelviews.net/movies/s/saw4.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>He now imparts so many life lessons via his Rube Goldberg thresher devices that he's starting to turn into the Rod Serling of severed body parts. Now that's torture.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20155949,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>There is no narrative tension in the film, however, just a variety of grisly crucifixions. And the morality tales are blood-stained window dressing.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20071029.wsaw29/BNStory/Entertainment/home</url>
+         <critic>Stephen Cole</critic>
+      </review>
+      <review>
+         <snippet>One more small thing: Every other scene in Saw IV starts and ends with a potential victim pressing "play" on a tape recorder, to the point where it's almost funny.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2007/10/29/DD4OT1N6U.DTL</url>
+         <critic>Peter Hartlaub</critic>
+      </review>
+      <review>
+         <snippet>For devotees of the series, the gore is still there and the traps are just as weird as they were in the other entries but for the rest of us, your mind will forget it the second the end credits roll.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=10385</url>
+         <critic>Michael Ferraro</critic>
+      </review>
+      <review>
+         <snippet>Getting to the true root of his evil may necessitate "Saw LX."</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=9748</url>
+         <critic>Wesley Morris</critic>
+      </review>
+   </reviews>
+   <US_Gross>$63,300,095</US_Gross>
+   <production_budget>$10,000,000</production_budget>
+   <weekend_gross>$31,756,764</weekend_gross>
+   <number_of_screens>3,183</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

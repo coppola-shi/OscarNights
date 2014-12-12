@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Last Legion, The</name>
+   <company>The Weinstein Company</company>
+   <genres>
+      <genre>Action</genre>
+      <genre>Adventure</genre>
+      <genre>War</genre>
+   </genres>
+   <authors>
+      <author>Carlo Carlei</author>
+      <author>Peter Rader</author>
+      <author>Valerio Manfredi, Tom Butterworth</author>
+      <author>Jez Butterworth</author>
+   </authors>
+   <directors>
+      <director>Doug Lefler</director>
+   </directors>
+   <origins>
+      <origin>USAUKFrance</origin>
+   </origins>
+   <actors>
+      <actor>Colin Firth</actor>
+      <actor>Ben Kingsley</actor>
+      <actor>Aishwarya Rai</actor>
+      <actor>Kevin McKidd</actor>
+      <actor>John Hannah</actor>
+      <actor>Peter Mullan</actor>
+      <actor>Rupert Friend</actor>
+      <actor>Thomas Sangster</actor>
+   </actors>
+   <release_date>August 17, 2007</release_date>
+   <running_time>110</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>While not exactly in the same league as the visually dazzling "Excalibur" and saddled with cheap looking CGI effects, this Anglo-Italian co-production has quite a bit of fun finding a direct path from the fall of Rome to the birth of Arthurian legend.</snippet>
+         <url>http://www.tvguide.com/movies/legion/review/289586</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>The film is nothing to be ashamed of (especially if you're Kingsley). But it's as if everybody involved knows what the deal is.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=9058</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>Every once in a while, though, Firth's eyebrow hints, Can you believe I'm wearing this dorky leather breastplate?</snippet>
+         <url>http://www.ew.com/ew/article/0,,20052856,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>Though it's never wise to underestimate the power or universal appeal of Rai's cleavage and lustrous hair, that's about all that sets the doggedly mediocre The Last Legion apart from every other sword-and-sandal epic about the origins of Camelot.</snippet>
+         <url>http://www.avclub.com/content/cinema/the_last_legion</url>
+         <critic>Nathan Rabin</critic>
+      </review>
+      <review>
+         <snippet>When a movie wants to be sold as a spectacle, it had better deliver something more spectacular than this.</snippet>
+         <url>http://www.reelviews.net/movies/l/last_legion.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>Not as bad as it sounds nor as good as it might have been.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-legion20aug20,0,902646.story?coll=cl-mreview</url>
+         <critic>John Anderson</critic>
+      </review>
+      <review>
+         <snippet>This might have made a good children’s film.</snippet>
+         <url>http://movies.nytimes.com/2007/08/20/movies/20legi.html?ref=movies</url>
+         <critic>Neil Genzlinger</critic>
+      </review>
+      <review>
+         <snippet>Seriously hampered by glaring inconsistencies of tone and intent, and often feels like a series of highlights carved out of a much longer epic.</snippet>
+         <url>http://www.variety.com/review/VE1117934446.html?categoryid=31&amp;cs=1</url>
+         <critic>Joe Leydon</critic>
+      </review>
+      <review>
+         <snippet>Lackluster and decidedly old-fashioned (in the worst way).</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?JSESSIONID=y8DpGGQZ3JCN4Qd3LZJpnyMvfc3pDZNX4wSmCyNy12pBPQGKLB2t!1381436809&amp;&amp;rid=9645</url>
+         <critic>Frank Scheck</critic>
+      </review>
+      <review>
+         <snippet>Second-rate sword-and-sorcery saga.</snippet>
+         <url>http://www.laweekly.com/film+tv/film-reviews/film-reviews-mr-beans-holiday-closing-escrow-the-last-legion/17092/?page=2</url>
+         <critic>Jim Ridley</critic>
+      </review>
+      <review>
+         <snippet>Distinctly humdrum, The Last Legion, a boy's adventure story that seems to have been dragged out of the vaults of some early-sixties TV series.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20070816.wlegion17/BNStory/Entertainment/home</url>
+         <critic>Liam Lacey</critic>
+      </review>
+      <review>
+         <snippet>The Last Legion offers guilty-pleasure fun in a cheesy, very De Laurentiis way (much like 1976's Mandingo rip-off Drum), but, in the end, it's just not a very inspired or well-conceived film, despite Kingsley's strangely endearing turn as the proto-Merlin.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A520266</url>
+         <critic>Marc Savlov</critic>
+      </review>
+   </reviews>
+   <US_Gross>$5,932,060</US_Gross>
+   <production_budget>$67,000,000</production_budget>
+   <weekend_gross>$2,746,312</weekend_gross>
+   <number_of_screens>2,002</number_of_screens>
+   <oscar_winning_actors_present/>
+   <num_oscar_winning_actors>1</num_oscar_winning_actors>
+   <oscar_winning_actor>ben kingsley</oscar_winning_actor>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

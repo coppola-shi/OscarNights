@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Madagascar</name>
+   <company>DreamWorks Distribution LLC</company>
+   <genres>
+      <genre>Adventure</genre>
+      <genre>Animation</genre>
+      <genre>Comedy</genre>
+      <genre>FamilyKids</genre>
+      <genre>Fantasy</genre>
+   </genres>
+   <authors>
+      <author>Mark Burton</author>
+      <author>Billy Frolick</author>
+   </authors>
+   <directors>
+      <director>Eric Darnell</director>
+      <director>Tom Mc</director>
+      <director>Grath</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Ben Stiller</actor>
+      <actor>Chris Rock</actor>
+      <actor>David Schwimmer</actor>
+      <actor>Jada Pinkett Smith</actor>
+      <actor>Sacha Baron Cohen</actor>
+      <actor>Cedric the Entertainer</actor>
+      <actor>Christopher Knights</actor>
+      <actor>Andy Richter</actor>
+   </actors>
+   <release_date>May 27, 2005</release_date>
+   <running_time>80</running_time>
+   <rating>PG</rating>
+   <reviews>
+      <review>
+         <snippet>Dishes up some very corny jokes, but the images have a brighter-than-life vivacity.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1065621_1_0_,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>The animals' personalities have been carefully calibrated: They have sufficient edge to amuse us as characters, yet they're cuddly enough to market as plush toys or action figures.</snippet>
+         <url>http://ae.charlotte.com/entertainment/ui/charlotte/movie.html?id=312717&amp;reviewId=18095&amp;startDate=05%2F27%2F2005</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>It could be more involving, but it's funny enough that you won't care.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/225959_madagascar27q.html</url>
+         <critic>Sean Axmaker</critic>
+      </review>
+      <review>
+         <snippet>Despite Madagascar's formulaic tendencies, it's a formula that works, so parents are urged to sit back, relax and enjoy -- the kids surely will.</snippet>
+         <url>http://www.washingtonpost.com/wp-dyn/content/article/2005/05/26/AR2005052601775.html?sub=AR</url>
+         <critic>Ann Hornaday</critic>
+      </review>
+      <review>
+         <snippet>It's bright and spry, giggly and bouncy, but also cuddly with occasional touches of cruelty--a movie in which best friends, when let loose in the wild, suddenly realize one's a little higher on the food chain.</snippet>
+         <url>http://www.dallasobserver.com/Issues/2005-05-26/film/film.html</url>
+         <critic>Robert Wilonsky</critic>
+      </review>
+      <review>
+         <snippet>Forget life lessons: I much prefer a lemur king doing the robot.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A271963</url>
+         <critic>Kimberley Jones</critic>
+      </review>
+      <review>
+         <snippet>The thin story, which sometimes feels like a series of one-liners strung together, is wisely kept short. But the gags are funny and the characters endearing.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2005-05-26-madagascar_x.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>Madagascar isn't deep and would have no business being deep. But that it keeps one foot in reality is enough to keep us guessing.</snippet>
+         <url>http://sfgate.com/cgi-bin/article.cgi?f=/c/a/2005/05/27/DDG2ICUDJO15.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>It's a brisk and lively getaway with genuine personality.</snippet>
+         <url>http://www.premiere.com/article.asp?section_id=2&amp;article_id=2166</url>
+         <critic>Peter Debruge</critic>
+      </review>
+      <review>
+         <snippet>Madagascar doesn't do much, except make you laugh. All hail such a minimalist approach.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-to.madagascar27may27,1,6271112.story?coll=bal-movies-utility</url>
+         <critic>Chris Kaltenbach</critic>
+      </review>
+      <review>
+         <snippet>This slight and amusing 'toon is mostly a trip designed for the kiddie crowd to take in.</snippet>
+         <url>http://ae.philly.com/entertainment/ui/philly/movie.html?id=312717&amp;reviewId=18100</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>Madagascar is a classical gas. It's a good-humored, pleasant confection that has all kinds of relaxed fun bringing computer-animated savvy to the old-fashioned world of Looney Tunes cartoons.</snippet>
+         <url>http://www.calendarlive.com/movies/turan/cl-et-madagascar27may27,0,3894379.story</url>
+         <critic>Kenneth Turan</critic>
+      </review>
+      <review>
+         <snippet>The tenor can be shrill, but there's no time to get bored. And on top of that, most of the gags actually work.</snippet>
+         <url>http://www.theavclub.com/review.php?review_id=8551</url>
+         <critic>Tasha Robinson</critic>
+      </review>
+      <review>
+         <snippet>Savvy family entertainment.</snippet>
+         <url>http://www.time.com/time/magazine/article/0,9171,1069080,00.html</url>
+         <critic>Richard Corliss</critic>
+      </review>
+      <review>
+         <snippet>Antic, cute, scattershot, it's a remarkable-looking but terribly uncertain bit of CGI fluff, with its richest humor off to the sides of the action and a whole lot of average in the middle.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=3452</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>Madagascar is funny, especially at the beginning, and good-looking in a retro cartoon way, but in a world where the stakes have been raised by "Finding Nemo," "Shrek" and "The Incredibles," it's a throwback to a more conventional kind of animated entertainment. It'll be fun for the smaller kids, but there's not much crossover appeal for their parents.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20050526/REVIEWS/50510004</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>Often feels like a cartoon that wishes it were live action.</snippet>
+         <url>http://ae.miami.com/entertainment/ui/miami/movie.html?id=312717&amp;reviewId=18094</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>Eventually, it had to happen: a computer-animated dud.</snippet>
+         <url>http://movie-reviews.colossus.net/movies/m/madagascar2005.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>It's frustrating to see this wonderful-looking, laugh-out-loud funny survival tale fall short of its potential.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1000929576</url>
+         <critic>Michael Rechtshaffen</critic>
+      </review>
+      <review>
+         <snippet>Pleasant, if mediocre family fare.</snippet>
+         <url>http://www.variety.com/review/VE1117927200?categoryid=31&amp;cs=1</url>
+         <critic>Dennis Harvey</critic>
+      </review>
+      <review>
+         <snippet>Madagascar's relaxed density is a relief given the DreamWorks tendency to overbear, overblast, and overcaricaturize.</snippet>
+         <url>http://www.villagevoice.com/film/0521,atkinson1,64228,20.html</url>
+         <critic>Michael Atkinson</critic>
+      </review>
+      <review>
+         <snippet>Slickly animated and cleverly written.</snippet>
+         <url>http://tvguide.com/movies/database/showmovie.asp?MI=46069</url>
+         <critic>Angel Cohn</critic>
+      </review>
+      <review>
+         <snippet>Spirited, amiable, featherweight summer fun.</snippet>
+         <url>http://www.empireonline.co.uk/site/incinemas/ReviewInFull.asp?FID=10350</url>
+         <critic>Ian Freer</critic>
+      </review>
+      <review>
+         <snippet>Credit Madagascar with negotiating a hopeful truce in the ongoing battle between the computer and the animation. Judged merely by appearances, its look is a lovely compromise. Too bad everything else has been compromised right out of existence.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/ArticleNews/TPStory/LAC/20050527/MADAGASCAR27/TPEntertainment/Film</url>
+         <critic>Rick Groen</critic>
+      </review>
+      <review>
+         <snippet>By and large it's formulaic and dull.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/111710170383760.xml&amp;coll=7</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>More than a few will agree with the penguins, who netted the film a PG rating with the utterance, "Well, this sucks."</snippet>
+         <url>http://www.nypost.com/movies/24461.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>Less like "Shrek," meaning hilarious and heartfelt, and more like "Shark Tale," meaning manic and exhausting, Madagascar will keep kids distracted without transporting them to wonderland.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/_/id/6169103?pageid=rs.ReviewsMovieArchive&amp;pageregion=mainRegion</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>The plot really is basic, so the bafflement of the movie lies in its combination of visual riches and dramatic -- as well as thematic -- impoverishment.</snippet>
+         <url/>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>The whole thing feels throwaway, but some of the gags are funny.</snippet>
+         <url>http://spacefinder.chicagoreader.com/movies/briefs/28087_MADAGASCAR.html</url>
+         <critic>Jonathan Rosenbaum</critic>
+      </review>
+      <review>
+         <snippet>Looks stunning, but it's an ill-conceived mess that plays like two movies awkwardly spliced together. In one movie, parents are asked to stand by while the kids are entertained with cute animal tricks and slapstick pratfalls. In the other, the kids will be hushed while the parents are treated to inside jokes.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/moviereviews/story/313543p-268030c.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>The film never gets going. It's too slow and plodding for kids--even too obvious.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-052605-movies-review-madagascar,0,1595066.story?coll=mmx-movies_top_heds</url>
+         <critic>Allison Benedikt</critic>
+      </review>
+      <review>
+         <snippet>Often quite beautiful. But Madagascar, which was directed by Eric Darnell and Tom McGrath, is mismanaged pretty much from start to finish.</snippet>
+         <url>http://www.newyorker.com/critics/cinema/?050530crci_cinema</url>
+         <critic>David Denby</critic>
+      </review>
+      <review>
+         <snippet>Anemic.</snippet>
+         <url>http://www.laweekly.com/film/film_results.php?showid=3415&amp;Sumbit.x=45&amp;Sumbit.y=10</url>
+         <critic>Ella Taylor</critic>
+      </review>
+      <review>
+         <snippet>Madagascar arouses no sense of wonder, except insofar as you wonder, as you watch it, how so much talent, technical skill and money could add up to so little.</snippet>
+         <url>http://movies2.nytimes.com/2005/05/27/movies/27mada.html?</url>
+         <critic>Dana Stevens</critic>
+      </review>
+      <review>
+         <snippet>The underwhelming, only fitfully amusing movie left me hungry for more.</snippet>
+         <url>http://www.washingtonpost.com/wp-dyn/content/article/2005/05/26/AR2005052600724.html</url>
+         <critic>Michael O&amp;#039;Sullivan</critic>
+      </review>
+      <review>
+         <snippet>The animation is deft but the screenplay is stilted, the voice-performances are unimaginative, and the whole project is surprisingly clumsy in its efforts to please young and old alike. A major disappointment.</snippet>
+         <url>http://www.csmonitor.com/2005/0527/p14s01-almo.html</url>
+         <critic>David Sterritt</critic>
+      </review>
+   </reviews>
+   <US_Gross>$193,595,521</US_Gross>
+   <production_budget>$75,000,000</production_budget>
+   <weekend_gross>$47,224,594</weekend_gross>
+   <number_of_screens>4,131</number_of_screens>
+   <highest_grossing_actors_present/>
+   <num_highest_grossing_actors>1</num_highest_grossing_actors>
+   <highest_grossing_actor>ben stiller</highest_grossing_actor>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>true</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

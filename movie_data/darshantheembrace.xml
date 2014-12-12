@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Darshan, The Embrace</name>
+   <company>IFC Films</company>
+   <genres>
+      <genre>Documentary</genre>
+   </genres>
+   <authors>
+      <author>Manuel De La Roche</author>
+      <author>Jan Kounen</author>
+   </authors>
+   <directors>
+      <director>Jan Kounen</director>
+   </directors>
+   <origins>
+      <origin>FranceGermanyJapan</origin>
+   </origins>
+   <actors>
+      <actor>Mata Amritanamayi Devi</actor>
+   </actors>
+   <release_date>July 26, 2006</release_date>
+   <running_time>93</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>Sebastien Pentecouteau's startlingly beautiful cinematography lends the film a dreamlike quality and perfectly suits Kounen's mystical subject matter.</snippet>
+         <url>http://online.tvguide.com/newsearch/detail.aspx?tvobjectid=281667&amp;more=ucmoviereview</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>Movies about gurus generally fail to capture the charisma of their subjects. French director Jan Kounen's documentary on Amma, India's hugging saint, who allegedly has given restorative embraces to more than 45 million supplicants, is no exception.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/283374_limited01.html</url>
+         <critic>Bill White</critic>
+      </review>
+      <review>
+         <snippet>Jan Kounen, the maker of Darshan, is a French director with flashy credentials, including music videos, commercials, horror shorts, violent gangster movies ("Dobermann") and offbeat westerns ("Blueberry").</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-061006-movies-review-darshan,0,5447817.story?coll=mmx-movies_top_heds</url>
+         <critic>Michael Wilmington</critic>
+      </review>
+      <review>
+         <snippet>Docu's pace will be a little too meditative for many, but the rigorous, sinewy lensing will have Hypnotic power on those so inclined.</snippet>
+         <url>http://www.variety.com/review/VE1117927186?categoryid=1929&amp;cs=1</url>
+         <critic>Lisa Nesselson</critic>
+      </review>
+      <review>
+         <snippet>Filling our heads with pretty pictures and not much else, Darshan: The Embrace is likely to leave audiences enchanted but unenlightened.</snippet>
+         <url>http://movies2.nytimes.com/2006/07/26/movies/26dars.html?ref=movies</url>
+         <critic>Jeannette Catsoulis</critic>
+      </review>
+      <review>
+         <snippet>A loving if fawning documentary.</snippet>
+         <url>http://sfgate.com/cgi-bin/article.cgi?f=/c/a/2006/08/18/DDGVUKJPQ91.DTL#flick2</url>
+         <critic>John McMurtrie</critic>
+      </review>
+      <review>
+         <snippet>According to several sojourners who speak in the film, Amma is the embodiment of love. And according to her website, it's her religion, too.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=8568</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>Scenes of pageantry and mass prayer show that thousands respond to her charisma, but Kounen gives little insight why; aside from Amma's belief that creator and creation are one, her religious tenets remain a mystery.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/30350_DARSHAN_THE_EMBRACE.html</url>
+         <critic>Andrea Gronvall</critic>
+      </review>
+      <review>
+         <snippet>Unless you're already a true believer, Amma comes across in Darshan as a perfect angel, a frustrating enigma and a rather dull cinematic subject.</snippet>
+         <url>http://www.laweekly.com/film+tv/film-reviews/film-reviews/14533/</url>
+         <critic>Tim Grierson</critic>
+      </review>
+      <review>
+         <snippet>While Amma's teachings of love, inner peace and Karma, or action, resonate in the film -- obviously, Amma is a woman called to God -- her background remains pretty much a mystery. Less National Geographic and more personal history would have added a dimension to "Darshan."</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-capsules22sep22,0,6352586.story?coll=cl-mreview</url>
+         <critic>John Anderson</critic>
+      </review>
+      <review>
+         <snippet>When it comes to magnetism, the Rolling Stones have nothing on Amma, the Indian mahatma ("spiritual guide") chronicled in Jan Kounen's handsomely photographed but one-sided documentary.</snippet>
+         <url>http://www.nypost.com/entertainment/movies/darshan__the_embrace_movies_v_a__musetto.htm</url>
+         <critic>V.A. Musetto</critic>
+      </review>
+      <review>
+         <snippet>Werner Herzog's "Wheel of Time" was, in a sense, the Buddhist equivalent of this film, as well as a more illuminating look at the power and transience of ritual.</snippet>
+         <url>http://www.villagevoice.com/film/0630,kenigsberg,73989,20.html</url>
+         <critic>Ben Kenigsberg</critic>
+      </review>
+   </reviews>
+   <US_Gross>$66,032</US_Gross>
+   <weekend_gross>$6,321</weekend_gross>
+   <number_of_screens>1</number_of_screens>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

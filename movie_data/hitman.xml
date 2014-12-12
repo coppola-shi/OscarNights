@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Hitman</name>
+   <company>20th Century Fox</company>
+   <genres>
+      <genre>Action</genre>
+      <genre>Crime</genre>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>Skip Woods</author>
+   </authors>
+   <directors>
+      <director>Xavier Gens</director>
+   </directors>
+   <origins>
+      <origin>FranceUSA</origin>
+   </origins>
+   <actors>
+      <actor>Timothy Olyphant</actor>
+      <actor>Dougray Scott</actor>
+      <actor>Olga Kurylenko</actor>
+      <actor>Robert Knepper</actor>
+      <actor>Ulrich Thomsen</actor>
+      <actor>Michael Offei</actor>
+   </actors>
+   <release_date>November 21, 2007</release_date>
+   <running_time>100</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>Hitman stands right on the threshold between video games and art. On the wrong side of the threshold, but still, give it credit.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20071120/REVIEWS/711200303</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>The best movie derived from a violent computer game we've ever seen. You can take or leave that kind of qualified high-five, but, for us, it was a thoroughly entertaining experience. Think of bargain basement "James Bond" amped up into TV den-sittin', mouse-clickin' overdrive. But with human actors.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1137811&amp;categories=Movies&amp;nm=1</url>
+         <critic>Desson Thomson</critic>
+      </review>
+      <review>
+         <snippet>In the finest tradition of adolescent identification figures, he's not only ruthless, dispatching numerous baddies with hair-trigger shots to the head, but profoundly desexualized, brushing off the insistent come-ons of a slinky prostitute (Olga Kurylenko) he's taken under his wing.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/32445_HITMAN.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>Here’s all you really need to know before the opening credits roll in Hitman: There’s going to be a lot of bloodshed. And that’s a good thing, considering there isn’t much dialogue to carry the film.</snippet>
+         <url>http://chicago.metromix.com/movies/movie_review/movie-review-hitman/255291/content</url>
+         <critic>Kelley L. Carter</critic>
+      </review>
+      <review>
+         <snippet>Essentially an episode of "24." Which may be a step up from a video game, but it's getting hard to tell.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/reviews/bal-to.hitman21nov21,0,3543954.story</url>
+         <critic>John Anderson</critic>
+      </review>
+      <review>
+         <snippet>Ultimately Hitman is about bullets, blood, and bombs. For die-hard fans of the videogame, there is much to relish in terms of cobblestone car chases, punishing fistfights, cool weaponry, impossible physical feats, and ear-popping gun battles that rage through exclusive hotels in exotic locations.</snippet>
+         <url>http://www.premiere.com/moviereviews/4267/hitman.html</url>
+         <critic>Karl Rozemeyer</critic>
+      </review>
+      <review>
+         <snippet>As a movie on its own, it's simple monotony. Olyphant, affecting Clint Eastwood's Dirty Harry voice, is about as menacing as Mr. Clean, and the action scenes - whether the weapons are fists, feet, swords or guns - fly past without any tension or suspense. Hitman is a miss.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2007/11/21/2007-11-21_hitman_is_dud_on_arrival.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>This violent action is stylish but painfully formulaic, even by the undemanding standards of video-game narratives.</snippet>
+         <url>http://www.tvguide.com/movies/hitman/review/291255</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>It's all meant, I suppose, to conjure up cold visions of Terminators and Robocops past, or, in this post-9/11 world, of bin Ladens and Bushes present. If so, conjure at will.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20071121.whitman21/BNStory/Entertainment/home</url>
+         <critic>Rick Groen</critic>
+      </review>
+      <review>
+         <snippet>Not a spectacular movie, but the action scenes are well shot, there's no shortage of R-rated gore and the plot moves along quickly enough to mask the fact that the whole endeavor is completely ridiculous.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2007/11/21/DDNNTFFCR.DTL&amp;type=movies</url>
+         <critic>Peter Hartlaub</critic>
+      </review>
+      <review>
+         <snippet>The movie's one saving grace is Olyphant ("Live Free and Die Hard," HBO's "Deadwood"), whose sociopathic elegance is gradually winning, and whose dry, monotonic, Eastwood-like delivery of one-liners is frequently, if perhaps unintentionally, very funny.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/340452_hit21q.html</url>
+         <critic>William Arnold</critic>
+      </review>
+      <review>
+         <snippet>There have been plenty of movies adapted from video games before, but Hitman may be the first one that actually feels like a computer wrote and directed it.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=10167</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>By the time Olyphant leaves an enemy in the most ridiculous deathtrap since the '60s "Batman," just because it looks kinda neat, the whole project has started to feel like "Ultraviolet 2: The Further Stupidening."</snippet>
+         <url>http://www.avclub.com/content/cinema/hitman</url>
+         <critic>Tasha Robinson</critic>
+      </review>
+      <review>
+         <snippet>While Gens can splatter gore with the best of them -- early in the film, a human body packed with C4 goes off in graphic detail -- he fails to stage so much as a single rousing action scene, even when he has four double-fisted swordsmen facing off inside an abandoned subway car. Game over. The audience loses.</snippet>
+         <url>http://www.laweekly.com/film+tv/film-reviews/movie-reviews-enchanted-august-rush-hitman-holly/17754/?page=2</url>
+         <critic>Scott Foundas</critic>
+      </review>
+      <review>
+         <snippet>All the while, the music screams and clamors like an ignored child because director Xavier Gens and writer Skip Woods can't pump suspense into this inept mess.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?&amp;rid=10230</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>Hitman exploits every action-flick cliché imaginable and still manages to be dull. It’s bang, boom, blah -- action movies for bored dummies.</snippet>
+         <url>http://movies.nytimes.com/2007/11/21/movies/21hit.html?ref=movies</url>
+         <critic>Manohla Dargis</critic>
+      </review>
+      <review>
+         <snippet>Let's start with the obvious: Olyphant just isn't that intimidating an assassin. Think of some of cinema's more memorable button men: Léon, Luca Brasi, Frank Nitti...that's right, not a pretty boy in the bunch.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=10428</url>
+         <critic>Pete Vonder Haar</critic>
+      </review>
+      <review>
+         <snippet>Based on a videogame, Hitman could be the year's dumbest movie.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20162168,00.html</url>
+         <critic>Clark Collis</critic>
+      </review>
+      <review>
+         <snippet>Seeing Hitman isn't like playing a video game or even like watching someone else play a video game. It's like watching someone stupid play a bad video game.</snippet>
+         <url>http://www.oregonlive.com/movies/index.ssf/reviews/</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>To be sure, Hitman is a lousy film, but like the video game that inspired it, it's also great fun, drawing as it does on everything from James Bondian Eurotrash panache to Vin Diesel's moribund XXX character.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A560653</url>
+         <critic>Marc Savlov</critic>
+      </review>
+      <review>
+         <snippet>If someone ran this guy through a scanner, the readout would say: “Mark down and stock in straight-to-video aisle."</snippet>
+         <url>http://www.nypost.com/seven/11212007/entertainment/movies/hitman_326563.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>A Eurotrashy vidgame knockoff that misses its target by a mile. Numbingly unthrilling as it lurches from one violent encounter to another, the pic's dark roots in an electronic, non-dramatic medium are plain to see, and unsuspecting gamers lured to theaters will soon wish they were back home participating in the action themselves.</snippet>
+         <url>http://www.variety.com/review/VE1117935480.html?categoryid=31&amp;cs=1</url>
+         <critic>Todd McCarthy</critic>
+      </review>
+   </reviews>
+   <US_Gross>$39,687,694</US_Gross>
+   <production_budget>$17,500,000</production_budget>
+   <weekend_gross>$21,094,148</weekend_gross>
+   <number_of_screens>2,458</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

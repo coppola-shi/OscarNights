@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Little Man</name>
+   <company>Revolution Studios</company>
+   <genres>
+      <genre>Comedy</genre>
+   </genres>
+   <authors>
+      <author>Keenen Ivory Wayans</author>
+      <author>Shawn Wayans</author>
+      <author>Marlon Wayans</author>
+   </authors>
+   <directors>
+      <director>Keenen Ivory Wayans</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Marlon Wayans</actor>
+      <actor>Shawn Wayans</actor>
+      <actor>Kerry Washington</actor>
+      <actor>John Witherspoon</actor>
+      <actor>Tracy Morgan</actor>
+      <actor>Lochlyn Munro</actor>
+      <actor>Chazz Palminteri</actor>
+      <actor>Molly Shannon</actor>
+   </actors>
+   <release_date>July 14, 2006</release_date>
+   <running_time>90</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>Almost in spite of itself, Little Man manages to deliver big laughs. It's not enough to make it a consistently funny movie, but this one-trick pony from the Wayans brothers has flashes of humor and sincerity that almost save it from its disastrous ending.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2006-07-13-little-man_x.htm</url>
+         <critic>Scott Bowles</critic>
+      </review>
+      <review>
+         <snippet>I laughed at the Wayanses' movie, and I don't even hate myself for it.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=8008</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>An extremely broad and sometimes crude comedy.</snippet>
+         <url>http://ae.charlotte.com/entertainment/ui/charlotte/movie.html?id=452368&amp;reviewId=21107&amp;startDate=07%2F14%2F2006</url>
+         <critic>David Hiltbrand</critic>
+      </review>
+      <review>
+         <snippet>The slapstick is funnier for the nifty CGI, and the script gets in some sly digs at racist cops and multitasking soccer moms.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/30027_LITTLE_MAN_WAYANS.html</url>
+         <critic>Andrea Gronvall</critic>
+      </review>
+      <review>
+         <snippet>There's no question, though, that the Wayanses have dialed down the outrageousness to nearly sub-PG-13 levels.</snippet>
+         <url>http://www.laweekly.com/film+tv/film-reviews/film-reviews/13998/</url>
+         <critic>Scott Foundas</critic>
+      </review>
+      <review>
+         <snippet>I'd be lying if I said I didn't laugh at some of this--though it's not as funny as Laurel and Hardy as toddlers in "Brats." But I wanted to slap myself whenever I did.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-060714-movies-review-man,0,1738559.story?coll=mmx-movies_top_heds</url>
+         <critic>Michael Wilmington</critic>
+      </review>
+      <review>
+         <snippet>Little Man only proves that some should just stick to the sketch comedy, and leave the big screen to "Big Daddys" like Adam Sandler who the critics tend to snub, but who know how to make an audience laugh.</snippet>
+         <url>http://www.premiere.com/article.asp?section_id=2&amp;article_id=2945</url>
+         <critic>Lauren Metz</critic>
+      </review>
+      <review>
+         <snippet>Little Man will probably satisfy fans of the Wayans.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/LAC.20060714.LITTLE14/TPStory/TPEntertainment/Movies/</url>
+         <critic>Jennie Punter</critic>
+      </review>
+      <review>
+         <snippet>It took a century of innovation in the field of cinematic special effects, but finally the head of Marlon Wayans could be successfully grafted onto the body of a baby.</snippet>
+         <url>http://online.tvguide.com/newsearch/detail.aspx?tvobjectid=280125&amp;more=ucmoviereview</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>At least "White Chicks" had a point behind the humor.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-to.littleman14jul14,0,4133735.story?coll=bal-artslife-movies</url>
+         <critic>Chris Kaltenbach</critic>
+      </review>
+      <review>
+         <snippet>It's seldom a good sign when a Rob Schneider cameo elevates a comedy, but Little Man aims so low and fires so often that it can't miss all the time.</snippet>
+         <url>http://www.avclub.com/content/node/50576</url>
+         <critic>Keith Phipps</critic>
+      </review>
+      <review>
+         <snippet>Yes, in this day and age, a tall man can pretend to be a very short man pretending to be a baby who uses his innocent disguise to molest women and whack men in the nuts. Isn't that funny? No, actually, not so much.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/277487_little14q.html</url>
+         <critic>Winda Benedetti</critic>
+      </review>
+      <review>
+         <snippet>Once the initial round of breast-feeding and rectal thermometer bits is fired off, the picture starts to give off the funky whiff of unattended Pampers.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1002839245</url>
+         <critic>Michael Rechtshaffen</critic>
+      </review>
+      <review>
+         <snippet>There are probably some moviegoers who can laugh at the sight of a groin-punching, breast-grabbing baby, possibly even find it cute. Everyone else should steer clear of Little Man, which welds Marlon Wayans' head to a diminutive body double, offering up the creepiest bigscreen dwarf since the last David Lynch movie.</snippet>
+         <url>http://www.variety.com/review/VE1117931077?categoryid=31&amp;cs=1</url>
+         <critic>Justin Chang</critic>
+      </review>
+      <review>
+         <snippet>Devoid of verbal wit, instead relying on a relentless stream of Looney Tunes-inspired violence.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-capsules14.1jul14,0,5533934.story</url>
+         <critic>Kevin Crust</critic>
+      </review>
+      <review>
+         <snippet>A bunch of gags, most of which you've seen in the trailer, strung together by any means necessary.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2006/07/14/DDG9KJU2BK1.DTL&amp;type=movies</url>
+         <critic>Peter Hartlaub</critic>
+      </review>
+      <review>
+         <snippet>Sexual and toilet humor plumb new depths in Keenen Ivory Wayans' Little Man, which will stink up theaters like several gross of dirty diapers.</snippet>
+         <url>http://www.nypost.com/entertainment/movies/an_infant_terrible_movies_lou_lumenick.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>Tedious.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1216703_1_0_,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>Somewhere within all the crude slapstick and crass stereotypes, Little Man operates as a vulgar burlesque on the crisis of African-American manhood, particularly the relationships, or lack thereof, between fathers and sons.</snippet>
+         <url>http://movies2.nytimes.com/2006/07/14/movies/14litt.html</url>
+         <critic>Nathan Lee</critic>
+      </review>
+      <review>
+         <snippet>Well, it was bound to happen: The Wayans brothers have made a movie that's even more two-dimensional than a cartoon.</snippet>
+         <url>http://www.nydailynews.com/07-14-2006/front/story/435084p-366399c.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>97% of the movie will make you need a shower. Possibly two.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A386106</url>
+         <critic>Marrit Ingman</critic>
+      </review>
+      <review>
+         <snippet>Little Man is putrid.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=9168</url>
+         <critic>Felix Vasques Jr.</critic>
+      </review>
+   </reviews>
+   <US_Gross>$58,636,047</US_Gross>
+   <production_budget>$64,000,000</production_budget>
+   <weekend_gross>$21,613,176</weekend_gross>
+   <number_of_screens>2,533</number_of_screens>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

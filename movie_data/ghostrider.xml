@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Ghost Rider</name>
+   <company>Sony Pictures Releasing</company>
+   <genres>
+      <genre>Action</genre>
+      <genre>Fantasy</genre>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>Mark Steven Johnson</author>
+   </authors>
+   <directors>
+      <director>Mark Steven Johnson</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Nicolas Cage</actor>
+      <actor>Eva Mendes</actor>
+      <actor>Peter Fonda</actor>
+      <actor>Wes Bentley</actor>
+      <actor>Donal Logue</actor>
+      <actor>Sam Elliott</actor>
+   </actors>
+   <release_date>February 16, 2007</release_date>
+   <running_time>114</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>This time out, writer and director Mark Steven Johnson has bounced back with a movie so full of camp spirit it should come with tents and a marshmallow roast.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/LAC.20070217.GHOST17/TPStory/TPEntertainment/Movies/</url>
+         <critic>Liam Lacey</critic>
+      </review>
+      <review>
+         <snippet>As a film on its own, Ghost Rider isn't amazing, but it is definitely a decent popcorn flick. As an entry into the superhero genre, Ghost Rider is only a couple notches above the "X-Men: The Last Stand."</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=9774</url>
+         <critic>Zach Haddad</critic>
+      </review>
+      <review>
+         <snippet>A blockbuster that offers enough quirky pleasures to feel fresh and unpredictable.</snippet>
+         <url>http://www.empireonline.com/reviews/review.asp?FID=10285</url>
+         <critic>William Thomas</critic>
+      </review>
+      <review>
+         <snippet>What sticks is a colorful, mesmerizing, at times breathtaking mess - it's like watching a bonfire on acid - and what slides to the floor is, well, you probably don't want to know.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/moviereviews/story/498247p-419977c.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>With its cheesy special effects and blasphemously imbecilic storyline, one wonders whether the celluloid version of Ghost Rider will find an audience.</snippet>
+         <url>http://www.reelviews.net/movies/g/ghost_rider.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>The story doesn't arc so much as unspool like a stretch of desert highway, but the Ghost Rider is such a powerful amalgam of hot-rod iconography that this is still fairly watchable.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/31106_GHOST_RIDER.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>iInstead of a buoyant, imaginative superhero movie on the order of Sam Raimi's "Spider-Man" films or Bryan Singer's "Superman Returns," we get a lumbering, paint-by-numbers origin story.</snippet>
+         <url>http://www.laweekly.com/film+tv/film-reviews/film-reviews-bridge-to-terabithia-daddys-little-girls-and-more/15682/?page=2</url>
+         <critic>Scott Foundas</critic>
+      </review>
+      <review>
+         <snippet>It's entertaining to watch ol' hothead do his thing with his fiery chain and his "penance stare," but for a comic book with a rebel spirit, the adaptation feels obediently conventional.</snippet>
+         <url>http://www.calendarlive.com/printedition/calendar/cl-et-ghost17feb17,0,5414460.story</url>
+         <critic>Michael Ordona</critic>
+      </review>
+      <review>
+         <snippet>So much flatter than it was on the comic-book page.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20012444,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>Johnson's a hardcore, dime-store fanboy, not a revisionist-minded fauxteur like Christopher Nolan or Bryan Singer, and his giddy, goofball affection for the material sustained my goodwill until his underdeveloped grasp of form and rhythm let it slip away.</snippet>
+         <url>http://www.villagevoice.com/film/0708,lee,75860,20.html</url>
+         <critic>Nathan Lee</critic>
+      </review>
+      <review>
+         <snippet>Ghost Rider is the kind of movie that's great stupid fun as long as someone else is buying the tickets.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=7899</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>Marvel-man Mark Steven Johnson, who wrote and directed "Daredevil" (2003) and scripted "Elektra" (2005), continues to demonstrate the wrong way to make comic book movies: Make sure special effects overwhelm the characters, let campy mannerisms go unchecked and be sure dialogue is declaimed rather than spoken.</snippet>
+         <url>http://tvguide.com/detail/movie.aspx?tvobjectid=285896&amp;more=ucmoviereview</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>Cage has some fun with the role, making Blaze a kind of Zen Elvis with a strange fixation on Carpenters songs, but the film's priorities lie with the digital effects and not the story, and even the effects aren't that hot.</snippet>
+         <url>http://www.avclub.com/content/node/58674</url>
+         <critic>Keith Phipps</critic>
+      </review>
+      <review>
+         <snippet>This dissociation leaves the supporting cast to its own devices, with no one suffering more than the appealing Eva Mendes as Johnny's true love, Roxanne. If Ms. Mendes ever finds a director willing to allow her to perform with her shirts fully buttoned, there will be no stopping her.</snippet>
+         <url>http://movies2.nytimes.com/2007/02/17/movies/17ghos.html?ref=movies</url>
+         <critic>Jeannette Catsoulis</critic>
+      </review>
+      <review>
+         <snippet>All of [Cages's] natural charisma is unable to compensate for the plodding narrative and thin characterizations.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?&amp;rid=8829</url>
+         <critic>Frank Scheck</critic>
+      </review>
+      <review>
+         <snippet>Has all the sugar-injected horsepower of a 6-year-old on a Big Wheel.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A446018</url>
+         <critic>Marc Savlov</critic>
+      </review>
+      <review>
+         <snippet>Ghost Rider has everything you don't want from your superhero movie, including lack of logic, boring action scenes, bad acting in the supporting performances, a brutally slow 114-minute running time and cringe-worthy dialogue.</snippet>
+         <url>http://sfgate.com/cgi-bin/article.cgi?f=/c/a/2007/02/16/DDGADO68L38.DTL&amp;type=movies</url>
+         <critic>Peter Hartlaub</critic>
+      </review>
+      <review>
+         <snippet>The movie's last words are "This is how legends are born." Make that stillborn, because when the makers of this one pitch the sequel, the only answer is going to be, "Ah HA HA HA!"</snippet>
+         <url>http://www.nypost.com/seven/02162007/entertainment/movies/cheesy_rider_movies_kyle_smith.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>The real evil in this flick isn't Blackheart (Wes Bentley), the devil's son, it's the soul-sucking devil of modern cinema: Hollywood formula.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/7222847/review/13527730/ghost_rider</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>Though the superhero's fans have long awaited his close-up, the Devil's bounty hunter -- complete with a burning skull for a head and a killer motorcycle in flames --materializes in a movie that never measures up to his infernal potential.</snippet>
+         <url>http://www.variety.com/review/VE1117932852.html?categoryid=31&amp;cs=1</url>
+         <critic>Robert Koehler</critic>
+      </review>
+   </reviews>
+   <US_Gross>$115,802,596</US_Gross>
+   <production_budget>$120,000,000</production_budget>
+   <weekend_gross>$45,388,836</weekend_gross>
+   <number_of_screens>3,619</number_of_screens>
+   <oscar_winning_actors_present/>
+   <num_oscar_winning_actors>1</num_oscar_winning_actors>
+   <oscar_winning_actor>nicolas cage</oscar_winning_actor>
+   <highest_grossing_actors_present/>
+   <num_highest_grossing_actors>1</num_highest_grossing_actors>
+   <highest_grossing_actor>nicolas cage</highest_grossing_actor>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Babysitters, The</name>
+   <company>Peace Arch Entertainment</company>
+   <genres>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author>David Ross</author>
+   </authors>
+   <directors>
+      <director>David Ross</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>John Leguizamo</actor>
+      <actor>Katherine Waterston</actor>
+      <actor>Cynthia Nixon</actor>
+      <actor>Andy Comeau</actor>
+      <actor>Lauren Birkell</actor>
+      <actor>Louisa Krause</actor>
+   </actors>
+   <release_date>May 9, 2008</release_date>
+   <running_time>90</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>If Leguizamo imports a hint of pathos into his performance, Waterston adds a dollop of menace to hers, delivering another of Ross's attacks on what separates girls from men. In this world, women are their own worst enemy.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20080509.wbaby09/BNStory/Entertainment/home</url>
+         <critic>Kamal AL-Solaylee</critic>
+      </review>
+      <review>
+         <snippet>There's no getting around the fact that Ross's whole cynical premise is based on the lurid male assumption that nubile, college-bound teens have few qualms about selling themselves, a fantasy as deluded as the targets of Ross's barbed arrows.</snippet>
+         <url>http://www.tvguide.com/movies/babysitters/review/293234</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>The film remains engaging in no small part because of the beguiling and enigmatic performance of Waterston, daughter of "Law &amp; Order" star Sam Waterston. It is a shame she isn't given a better context in which to thrive.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-babysitter9-2008may09,0,4604970.story</url>
+         <critic>Mark Olsen</critic>
+      </review>
+      <review>
+         <snippet>Attempting to be this generation's "Risky Business," The Babysitters is the sort of ribald morality tale that manages to feel sleazy and decorous at the same time.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?&amp;rid=11055</url>
+         <critic>Frank Scheck</critic>
+      </review>
+      <review>
+         <snippet>It ultimately fails to deliver on the audacity of its premise. Neither truly original nor a guilty-pleasure genre spin, the picture lacks a hook for general audiences who may find the subject matter distasteful as presented.</snippet>
+         <url>http://www.variety.com/review/VE1117934720.html?categoryid=31&amp;cs=1&amp;p=0</url>
+         <critic>Alissa Simon</critic>
+      </review>
+      <review>
+         <snippet>It reads like a Cinemax special event, and as good as Leguizamo and Waterston are, the skeevy, fantasy-fulfillment plot that drives David Ross' movie is uncomfortably risky business.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2008/05/09/2008-05-09_short_takes_more_movie_reviews.html</url>
+         <critic>Joe Neumaier</critic>
+      </review>
+      <review>
+         <snippet>The premise is out of '70s porn, and so is the overbroad satire and almost total lack of conviction.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20198411,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>Ultimately, the film's view of female self-loathing and girl-on-girl exploitation is  woefully reductive and painful.</snippet>
+         <url>http://www.villagevoice.com/film/0819,the-babysitters,433910,20.html</url>
+         <critic>Ed Gonzalez</critic>
+      </review>
+      <review>
+         <snippet>Shirley’s instant metamorphosis from insecure high school student to ruthless madam is ludicrous in spite of the best efforts of the talented Ms. Waterston to convince you otherwise. The Babysitters has the increasingly jerky momentum of a film that was butchered in the cutting room, sacrificing continuity and character development to whip the plot forward.</snippet>
+         <url>http://movies.nytimes.com/2008/05/09/movies/09baby.html?ref=movies</url>
+         <critic>Stephen Holden</critic>
+      </review>
+      <review>
+         <snippet>I'd call it a depressing soft-core porn flick, but that overstates its titillation factor. Mainly it's just icky.</snippet>
+         <url>http://www.nypost.com/seven/05092008/entertainment/movies/the_babysitters_110010.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>A special place in purgatory must be reserved for John Leguizamo, who produced and stars in The Babysitters, a loathsome slice of exploitation at its most cynical and crass.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1149738&amp;categories=Movies&amp;nm=1</url>
+         <critic>Ann Hornaday</critic>
+      </review>
+   </reviews>
+   <US_Gross>$44,852</US_Gross>
+   <weekend_gross>$23,519</weekend_gross>
+   <number_of_screens>22</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

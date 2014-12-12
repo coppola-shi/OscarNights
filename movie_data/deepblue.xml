@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Deep Blue</name>
+   <company>Miramax Films</company>
+   <genres>
+      <genre>Documentary</genre>
+   </genres>
+   <authors>
+      <author/>
+   </authors>
+   <directors>
+      <director>Andy Byatt</director>
+      <director>Alastair Fothergill</director>
+   </directors>
+   <origins>
+      <origin>UKGermany</origin>
+   </origins>
+   <actors>
+      <actor>Michael Gambon (narrator - UK version)</actor>
+      <actor>Pierce Brosnan (narrator - US version)</actor>
+   </actors>
+   <release_date>June 3, 2005</release_date>
+   <running_time>90</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>Deep Blue is pure bliss. This documentary about ocean life in all its forms achieves its own tidal pull with visual marvels that conjure a Darwinian delirium.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-to.blue29jul29,1,3938261.story?coll=bal-artslife-movies</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>Jaw-dropping, sumptuous visuals, a lush George Fenton score, state-of-the-art technology and some of the oddest creatures ever seen without recourse to artificial stimulants.</snippet>
+         <url>http://www.variety.com/review/VE1117921998?categoryid=31&amp;cs=1</url>
+         <critic>Jonathan Holland</critic>
+      </review>
+      <review>
+         <snippet>A riveting and sobering way to spend a Saturday afternoon.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=8012</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>Full of splendidly shot wonders.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1070035_1_0_,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>This is as good a visual treat as you and your kids can expect.</snippet>
+         <url>http://www.washingtonpost.com/wp-dyn/content/article/2005/06/16/AR2005061601124.html</url>
+         <critic>Desson Thomson</critic>
+      </review>
+      <review>
+         <snippet>For all of its turgid self-importance, its anthropocentric theater of classical music and sound effects, Deep Blue is a gorgeous film with scene after scene of incredible footage.</snippet>
+         <url>http://listings.dallasobserver.com/gyrobase/Film/ShowFilm</url>
+         <critic>Melissa Levine</critic>
+      </review>
+      <review>
+         <snippet>Numerous films have explored undersea life, but few as comprehensively and as consistently compelling as Deep Blue, by the creators of the "Blue Planet" TV series.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-capsules3jun03,0,4070340.story</url>
+         <critic>Kevin Crust</critic>
+      </review>
+      <review>
+         <snippet>In terms of pure visual scope, Deep Blue might be one of the best IMAX films never created for the IMAX screen.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-050630-movies-review-deepblue,0,4757995.story?coll=mmx-movies_top_heds</url>
+         <critic>Robert K. Elder</critic>
+      </review>
+      <review>
+         <snippet>Stunningly beautiful film.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/230789_deep01q.html</url>
+         <critic>Bill White</critic>
+      </review>
+      <review>
+         <snippet>Deep Blue is a thrilling film, but not a thoughtful one; it'd be right at home on an IMAX screen, or possibly as the pretty, polished, and vaguely empty Successories poster it closely resembles.</snippet>
+         <url>http://www.theavclub.com/review.php?review_id=8547</url>
+         <critic>Tasha Robinson</critic>
+      </review>
+      <review>
+         <snippet>Deep Blue runs just shy of 90 minutes, and this pathetic landlubber of a movie critic must confess to growing restless here and there, an example of how quickly awestruck wonder can turn to apathy.</snippet>
+         <url>http://www.laweekly.com/film/film_results.php?showid=3425&amp;Sumbit.x=21&amp;Sumbit.y=9</url>
+         <critic>Chuck Wilson</critic>
+      </review>
+      <review>
+         <snippet>Much of what the filmmakers and their team of cinematographers capture is undeniably remarkable, but their overt attachment to certain scenes can make watching a chore.</snippet>
+         <url>http://movies2.nytimes.com/2005/06/03/movies/03blue.html</url>
+         <critic>Laura Kern</critic>
+      </review>
+      <review>
+         <snippet>This stunningly photographed documentary captures extraordinary images of ocean-based life.</snippet>
+         <url>http://tvguide.com/movies/database/showmovie.asp?MI=46148</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>The episodic structure prevents any real momentum, but Byatt and Fothergill give a visceral sense of the sea's violence and vividly capture the riot of color to be found on the ocean floor.</snippet>
+         <url>http://spacefinder.chicagoreader.com/movies/briefs/28219_DEEP_BLUE.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>The documentary isn't particularly thrilling, or even very informative, but it's almost certain to lower your blood pressure for 83 minutes.</snippet>
+         <url>http://sfgate.com/cgi-bin/article.cgi?f=/c/a/2005/06/17/DDGTID9G2E1.DTL&amp;type=movies</url>
+         <critic>Peter Hartlaub</critic>
+      </review>
+      <review>
+         <snippet>A beautiful but empty-headed documentary.</snippet>
+         <url>http://www.nypost.com/movies/44810.htm</url>
+         <critic>V.A. Musetto</critic>
+      </review>
+      <review>
+         <snippet>Those looking for a refresher course on the workings of the food chain should be in heaven. All others may yearn for a sushi break.</snippet>
+         <url>http://www.villagevoice.com/film/0522,tracking1,64451,20.html</url>
+         <critic>Ben Kenigsberg</critic>
+      </review>
+   </reviews>
+   <US_Gross>$129,854</US_Gross>
+   <weekend_gross>$8,373</weekend_gross>
+   <number_of_screens>2</number_of_screens>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

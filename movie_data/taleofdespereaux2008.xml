@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Tale of Despereaux, The</name>
+   <company>Universal Pictures</company>
+   <genres>
+      <genre>Adventure</genre>
+      <genre>Animation</genre>
+      <genre>Comedy</genre>
+      <genre>FamilyKids</genre>
+      <genre>Fantasy</genre>
+   </genres>
+   <authors>
+      <author>Kate Di</author>
+      <author>Camillo</author>
+      <author>Gary Ross</author>
+   </authors>
+   <directors>
+      <director>Sam Fell</director>
+      <director>Rob Stevenhagen</director>
+   </directors>
+   <origins>
+      <origin>UK</origin>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Matthew Broderick</actor>
+      <actor>Robbie Coltrane</actor>
+      <actor>Frances Conroy</actor>
+      <actor>Tony Hale</actor>
+      <actor>Ciaran Hinds</actor>
+      <actor>Dustin Hoffman</actor>
+      <actor>Kevin Kline</actor>
+      <actor>Frank Langella</actor>
+   </actors>
+   <release_date>December 19, 2008</release_date>
+   <running_time>94</running_time>
+   <rating>G</rating>
+   <reviews>
+      <review>
+         <snippet>A perfect fairytale, adhering to The Princess Bride's standards of fighting, fencing, torture, and true love, without the ham-fisted moral element of so many of its fairy-tale predecessors.</snippet>
+         <url>http://movies.tvguide.com/tale-despereaux/review/294856</url>
+         <critic>Tracie Cooper</critic>
+      </review>
+      <review>
+         <snippet>It is a joy to look at frame by frame, and it would be worth getting the Blu-ray to do that.
+I am not quite so thrilled by the story, which at times threatens to make "Gormenghast" seem straightforward.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20081217/REVIEWS/812179983</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>A skillfully managed fairy tale about a mouse, a rat, and fairy tales in general.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=10459</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>May not be a classic, but it still has a lot of class.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2008/12/18/DD1S14PSQR.DTL&amp;type=movies</url>
+         <critic>Peter Hartlaub</critic>
+      </review>
+      <review>
+         <snippet>More like Disney's "Sleeping Beauty," somber, slow and elegant instead of frantic and dazzling.</snippet>
+         <url>http://www.nypost.com/seven/12192008/entertainment/movies/no_more_mr__mice_guy_144822.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>A rare creature, not only for the handmade look and subtlety of its computer-generated imagery but also for its irony-free embrace of once-upon-a-time storytelling.</snippet>
+         <url>http://www.latimes.com/entertainment/news/reviews/la-et-despereaux19-2008dec19,0,1722535.story</url>
+         <critic>Sheri Linden</critic>
+      </review>
+      <review>
+         <snippet>A pleasantly immersive, beautifully animated, occasionally sleepy tale.</snippet>
+         <url>http://movies.nytimes.com/2008/12/19/movies/19tale.html?ref=movies</url>
+         <critic>Manohla Dargis</critic>
+      </review>
+      <review>
+         <snippet>Despereaux at least has too much ambition rather than too little, but its curiously intellectual pleasures suggest a quaint puzzle rather than a passionately loved fairy tale.</snippet>
+         <url>http://www.avclub.com/content/cinema/the_tale_of_despereaux</url>
+         <critic>Tasha Robinson</critic>
+      </review>
+      <review>
+         <snippet>While the voice acting is fine and the story is nicely paced, the visuals are disappointing.</snippet>
+         <url>http://www.reelviews.net/php_review_template.php?identifier=1426</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>While the story does not quite come to magical life, the themes of courage, hope and decency are sweetly inspiring.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2008-12-18-tales-of-despereaux_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>I admired the craft more than I loved the results. But The Tales of Despereaux is still better-than-average animation.</snippet>
+         <url>http://www.chicagotribune.com/entertainment/movies/chi-despereaux-review-1219dec19,0,133675.story</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>The tiny, intrepid rodent is so cute it's impossible not to ooh and aww, just looking at him. Which is a good thing, because you'll need something to get you through the long stretches of fairytale pastiche that make up this overwrought yarn.</snippet>
+         <url>http://www.philly.com/inquirer/columnists/steven_rea/20081219_Good_thing_the_mouse_is_cute.html</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>The flatly generic results certainly appear at odds with the picture's stirring visual style, which pays homage to the great Flemish artists.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film-reviews/film-review-the-tale-of-despereaux-1003922577.story</url>
+         <critic>Michael Rechtshaffen</critic>
+      </review>
+      <review>
+         <snippet>While it meanders on its way to the requisite happy ending, the lush, stylised animation and courtly flourishes would win over anyone.</snippet>
+         <url>http://www.empireonline.com/reviews/review.asp?FID=135867</url>
+         <critic>Staff (Not credited)</critic>
+      </review>
+      <review>
+         <snippet>Too bad the story's such a mess.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20247553,00.html</url>
+         <critic>Adam Markovitz</critic>
+      </review>
+      <review>
+         <snippet>Many of the charms of Kate DiCamillo's best-selling children's book are lost in this British animation by Dreamworks alumni Sam Fell (Flushed Away) and Rob Stevenhagen.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/33971_TALE_OF_DESPEREAUX.html</url>
+         <critic>Andrea Gronvall</critic>
+      </review>
+      <review>
+         <snippet>A little slow for the very youngest kids -- though the messages it imparts are certainly ones you'll want them to hear.</snippet>
+         <url>http://www.npr.org/templates/story/story.php?storyId=98471014</url>
+         <critic>Bob Mondello</critic>
+      </review>
+      <review>
+         <snippet>This graphically well-rendered kidpic is less crass and mouthy than many recent feature-length toons, but also more sluggish and ungainly as it tries to approximate DiCamillo's singularly delicate tone.</snippet>
+         <url>http://www.variety.com/review/VE1117939207.html?categoryid=31&amp;cs=1</url>
+         <critic>Justin Chang</critic>
+      </review>
+      <review>
+         <snippet>As usual with these animated epics, much depends on the vocal performances, and it's a mixed bag.</snippet>
+         <url>http://www.washingtonpost.com/gog/movies/the-tale-of-despereaux,1150933.html</url>
+         <critic>John Anderson</critic>
+      </review>
+      <review>
+         <snippet>Unfortunately, the life has been sucked out of DiCamillo's story about a brave, unusual little mouse.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/392806_despereaux19q.html</url>
+         <critic>Paula Nechak</critic>
+      </review>
+      <review>
+         <snippet>The movie is a freakish creature, with lush, painterly animation inspired by Dutch and Flemish masters, attached to a convoluted, gloomy narrative punctuated with scenes of sadism that rival "The Dark Knight."</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20081219.wtale19/BNStory/Entertainment/home</url>
+         <critic>Liam Lacey</critic>
+      </review>
+      <review>
+         <snippet>As easy as it is to pass down mantras of fear and hate from parent to child or society to community (and individual), so is the imprinting of courage and compassion through conversation, emulation, books, plays, films, and the like. The Tale of Despereaux, aims to share such a message.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=11446</url>
+         <critic>Stina Chyn</critic>
+      </review>
+      <review>
+         <snippet>Clumsily wedged in like a TV commercial between deafening stunts, the emotional storytelling sinks without trace, leaving you with only one flawed character to cling to.</snippet>
+         <url>http://www.villagevoice.com/2008-12-17/film/tale-of-despereaux-features-generic-story-buried-between-deafening-stunts/</url>
+         <critic>Ella Taylor</critic>
+      </review>
+      <review>
+         <snippet>The lesson learned from The Tale of Despereaux is that an overabundance of vocal talent does not a good cartoon make.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A715735</url>
+         <critic>Marjorie Baumgarten</critic>
+      </review>
+      <review>
+         <snippet>Kids will get antsy, wondering why their favorite characters disappear for long stretches of the film, while adults will wonder just when this scattershot approach to storytelling will congeal into something resembling coherence.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/reviews/bal-to.despereaux19dec19,0,1650328.story</url>
+         <critic>Chris Kaltenbach</critic>
+      </review>
+   </reviews>
+   <US_Gross>$50,877,145</US_Gross>
+   <weekend_gross>$10,103,675</weekend_gross>
+   <number_of_screens>3,104</number_of_screens>
+   <oscar_winning_actors_present/>
+   <num_oscar_winning_actors>1</num_oscar_winning_actors>
+   <oscar_winning_actor>dustin hoffman</oscar_winning_actor>
+   <highest_grossing_actors_present/>
+   <num_highest_grossing_actors>1</num_highest_grossing_actors>
+   <highest_grossing_actor>dustin hoffman</highest_grossing_actor>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

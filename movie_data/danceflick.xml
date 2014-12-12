@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Dance Flick</name>
+   <company>Paramount Pictures</company>
+   <genres>
+      <genre>Action</genre>
+      <genre>Comedy</genre>
+   </genres>
+   <authors>
+      <author>Keenen Ivory Wayans</author>
+      <author>Shawn Wayans, Marlon Wayans</author>
+      <author>Craig Wayans</author>
+      <author>Damien Dante Wayans</author>
+   </authors>
+   <directors>
+      <director>Damien Dante Wayans</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Damon Wayans Jr.</actor>
+      <actor>Craig Wayans</actor>
+      <actor>Shoshana Bush</actor>
+      <actor>Essence Atkins</actor>
+      <actor>Affion Crockett</actor>
+   </actors>
+   <release_date>May 22, 2009</release_date>
+   <running_time>83</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>Enjoyably dirty-minded sendup of when-ballet-met-hip-hop youth musicals.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20280665,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>Its belly laughs leave you feeling liberated and not guilty; I repeat, not guilty.</snippet>
+         <url>http://movies.nytimes.com/2009/05/22/movies/22flic.html?ref=movies</url>
+         <critic>Stephen Holden</critic>
+      </review>
+      <review>
+         <snippet>The Wayans brothers manage to squeeze it all in to consistently amusing effect and in a way that just barely manages to stay within those PG-13 parameters.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film-reviews/film-review-dance-flick-1003975847.story</url>
+         <critic>Michael Rechtshaffen</critic>
+      </review>
+      <review>
+         <snippet>The more pertinent question: Can the audience stick with this flick that showed most of its funny bits in the trailer? For the most part, yeah.</snippet>
+         <url>http://www.philly.com/philly/entertainment/movies/20090522_Dance_Flick____1_2.html</url>
+         <critic>Carrie Rickey</critic>
+      </review>
+      <review>
+         <snippet>The miss-and-hit parodies score best when focusing on the Julia Stiles-styled girl next door.</snippet>
+         <url>http://www.latimes.com/entertainment/news/la-et-dance22-2009may22,0,6583618.story</url>
+         <critic>Glenn Whipp</critic>
+      </review>
+      <review>
+         <snippet>Dance Flick occasionally hits its mark with nimble execution. But too often it stumbles clumsily into bad taste.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2009-05-21-danceflick-review_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>An entertaining, moderately irreverent comedy that launches the silly movie season on a sure foot.</snippet>
+         <url>http://www.theglobeandmail.com/news/arts/dance-flick/article1147081/</url>
+         <critic>Jennie Punter</critic>
+      </review>
+      <review>
+         <snippet>The best bits in this film fall short of being inspired, but they are outrageous.</snippet>
+         <url>http://www.reelviews.net/php_review_template.php?identifier=1645</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>It would be hard to imagine a film with less going for it than Dance Flick.</snippet>
+         <url>http://www.avclub.com/articles/dance-flick,28334/?utm_source=channel_film</url>
+         <critic>Nathan Rabin</critic>
+      </review>
+      <review>
+         <snippet>A decent enough spot of silliness.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A783322</url>
+         <critic>Kimberley Jones</critic>
+      </review>
+      <review>
+         <snippet>The gags themselves only marginally work when they stick to silly non sequitur; the random movie references are forced and flat, and the takeoffs of "Dreamgirls" and "Fame" songs would make "Weird Al" groan.</snippet>
+         <url>http://www.laweekly.com/2009-05-28/film-tv/movie-reviews-burma-vj-up-what-goes-up/</url>
+         <critic>Aaron Hillis</critic>
+      </review>
+      <review>
+         <snippet>This slapstick and scatological spoof settles for obvious punchlines, delivering just enough laughs to justify its existence without coming anywhere near the bar set by "Scary Movie."</snippet>
+         <url>http://www.variety.com/review/VE1117940331.html?categoryid=31&amp;cs=1</url>
+         <critic>Peter Debruge</critic>
+      </review>
+      <review>
+         <snippet>There's an art to making a good spoof, but good luck finding it in Dance Flick, not only because the movie goes for easy toilet humor, but because it often relies on it to stay afloat.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2009/05/21/2009-05-21_the_wayans_brothers_latest_spoof_dance_flick_lacks_rhythm.html</url>
+         <critic>Joe Neumaier</critic>
+      </review>
+      <review>
+         <snippet>There are two dance-offs, multiple fat jokes and one sight gag using eye boogers, a heretofore ignored bodily fluid. These are the highlights.</snippet>
+         <url>http://www.washingtonpost.com/gog/movies/dance-flick,1156483.html</url>
+         <critic>Monica Hesse</critic>
+      </review>
+      <review>
+         <snippet>It's surprising how dated some of the humor is.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2009/05/21/MVC917OEKS.DTL&amp;type=movies</url>
+         <critic>Peter Hartlaub</critic>
+      </review>
+      <review>
+         <snippet>If you thought the world couldn't get enough of bad spoof movies, you thought wrong.</snippet>
+         <url>http://www.boston.com/ae/movies/articles/2009/05/22/tripping_along_in_dance_flick/</url>
+         <critic>Danny Deza</critic>
+      </review>
+      <review>
+         <snippet>Damonically awful.</snippet>
+         <url>http://www.nypost.com/seven/05222009/entertainment/movies/flat_footed_film_bad_in_every_wayans_170401.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+   </reviews>
+   <US_Gross>$25,662,155</US_Gross>
+   <production_budget>$25,000,000</production_budget>
+   <weekend_gross>$10,643,536</weekend_gross>
+   <number_of_screens>2,450</number_of_screens>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>true</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

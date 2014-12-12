@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Praying with Lior</name>
+   <company>First Run Features</company>
+   <genres>
+      <genre>Documentary</genre>
+   </genres>
+   <authors>
+      <author/>
+   </authors>
+   <directors>
+      <director>Ilana Trachtman</director>
+   </directors>
+   <origins>
+      <origin>UK</origin>
+   </origins>
+   <actors>
+      <actor>Lior Liebling</actor>
+   </actors>
+   <release_date>February 1, 2008</release_date>
+   <running_time>87</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>Apart from its intriguing religious implications, the film is also a compelling look at the family, community and congregational pillars that support Lior.</snippet>
+         <url>http://www.philly.com/philly/entertainment/movies/20080314_Lesson_in_faith_from_boy_with_Down_syndrome.html</url>
+         <critic>Carrie Rickey</critic>
+      </review>
+      <review>
+         <snippet>Intimate, moving documentary.</snippet>
+         <url>http://www.avclub.com/content/cinema/praying_with_lior</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>Trachtman says she made the film to illustrate the plight of disabled Americans who must contend with houses of worship that lack handicapped access, but her documentary itself isn’t always so sensitive.</snippet>
+         <url>http://chicago.metromix.com/movies/movie_review/movie-review-praying-with/520032/content</url>
+         <critic>Maureen M. Hart</critic>
+      </review>
+      <review>
+         <snippet>Though the film gets a bit repetitive, in its moving climax Lior does more than just have his bar mitzvah -- he earns it.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20178332,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>Lior is an irrepressible character as he works a room, doing exactly what a bar mitzvah boy should: challenging, instructing, and, in his own way, healing the world.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/33360_PRAYING_WITH_LIOR.html</url>
+         <critic>Andrea Gronvall</critic>
+      </review>
+      <review>
+         <snippet>Patiently and delicately, Ms. Trachtman teases out the tricky dynamics of a family dealing with a disabled child.</snippet>
+         <url>http://movies.nytimes.com/2008/02/01/movies/01lior.html?ref=movies</url>
+         <critic>Jeannette Catsoulis</critic>
+      </review>
+      <review>
+         <snippet>What makes this involving beyond its subject's slightly freakish fascination is helmer Ilana Trachtman's capturing of a complex family dynamic in which Lior isn't the only intriguing personality.</snippet>
+         <url>http://www.variety.com/review/VE1117934352.html?categoryid=31&amp;cs=1&amp;p=0</url>
+         <critic>Dennis Harvey</critic>
+      </review>
+      <review>
+         <snippet>Praying With Lior engages us on so many levels it transcends its middle-class Jewish milieu.</snippet>
+         <url>http://nymag.com/movies/reviews/43335/index1.html</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>There's an honest, unfiltered quality to what you see and hear.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=11192</url>
+         <critic>Janice Page</critic>
+      </review>
+      <review>
+         <snippet>Trachtman's gentle profile does make for touching viewing, but she leaves too many questions unanswered.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2008/02/01/2008-02-01_short_takes_more_movie_reviews-1.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>Thoroughly heartfelt. But though Trachtman alludes to the impact that Lior's special needs and local fame has had on his family, she seems uninterested in exploring the larger history of beliefs and traditions concerning mentally challenged people and their closeness to God.</snippet>
+         <url>http://www.tvguide.com/detail/movie.aspx?tvobjectid=292342&amp;more=ucmoviereview</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>Trachtman’s movie is not technically accomplished--the camerawork is run-of-the-mill, the structure is rambling--but it’s redeemed by the deliciously complex, practically Balzac-ian family at its center.</snippet>
+         <url>http://www.villagevoice.com/film/0805,wallace,78968,20.html</url>
+         <critic>Julia Wallace</critic>
+      </review>
+   </reviews>
+   <US_Gross>$82,553</US_Gross>
+   <weekend_gross>$8,401</weekend_gross>
+   <number_of_screens>1</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

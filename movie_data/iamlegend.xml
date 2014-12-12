@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>I Am Legend</name>
+   <company>Warner Bros. Pictures</company>
+   <genres>
+      <genre>Action</genre>
+      <genre>Drama</genre>
+      <genre>Fantasy</genre>
+      <genre>Horror</genre>
+      <genre>Scifi</genre>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>Joyce Hooper Corrington</author>
+      <author>John William Corrington</author>
+      <author>Richard Matheson</author>
+      <author>Akiva Goldsman, Mark Protosevich</author>
+   </authors>
+   <directors>
+      <director>Francis Lawrence</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Will Smith</actor>
+      <actor>Alice Braga</actor>
+      <actor>Salli Richardson-Whitfield</actor>
+      <actor>Willow Smith</actor>
+      <actor>Charlie Tahan</actor>
+   </actors>
+   <release_date>December 14, 2007</release_date>
+   <running_time>100</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>In what has been a pretty remarkable career up to now, it's this performance that fully affirms Smith as one of the great leading men of his generation.</snippet>
+         <url>http://www.villagevoice.com/film/0750,foundas,78573,20.html</url>
+         <critic>Scott Foundas</critic>
+      </review>
+      <review>
+         <snippet>The Manhattan movie of the year, Francis Lawrence's I Am Legend, offers a stunning glimpse into how the city - as we know it today - might look in 2012 if it were abandoned in 2009.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2007/12/14/2007-12-14_will_smith_is_singular_in_i_am_legend.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>The first two thirds and change of I Am Legend is terrific mindless fun: crackerjack action with gnashing vampires barely glimpsed (and scarier for that) and how’d-they-do-that New York locations that retroactively justify the traffic jams.</snippet>
+         <url>http://nymag.com/arts/cultureawards/2007/41824/</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>A scary, inventive, exciting and breathless adventure that combines the best elements of “Children of Men," “Escape from New York" and “The Road Warrior," but leaves out the worst stuff - such as the story-clogging despair and political allegory in “Children," a movie that made apocalypse look like kind of a downer.</snippet>
+         <url>http://www.nypost.com/seven/12132007/entertainment/movies/i_am_blockbuster_760299.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>The movie year's most expensive and ambitious sci-fi spectacular, I Am Legend, is three movies in one: a futuristic effects-o-rama, a zombie thriller and a survivalist parable. Each is better than average, and the experience is fairly gripping.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/343452_legend14q.html</url>
+         <critic>William Arnold</critic>
+      </review>
+      <review>
+         <snippet>In spirit, I Am Legend is caught in some abstractly doom-laden sci-fi past. For what it is, though, the film is well-done, a case of suspenseful competence trumping questionable relevance.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20165795,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>As Tom Hanks did in "Cast Away," Will Smith pulls off this half-insane role perfectly.</snippet>
+         <url>http://www.reelviews.net/movies/i/i_am_legend.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>The first two-thirds are classic science fiction, technologically plausible and emotionally resonant. It's only when God enters the picture that things slide downhill.</snippet>
+         <url>http://ae.charlotte.com/entertainment/ui/charlotte/movie.html?id=992884&amp;reviewId=22801&amp;startDate=NEXT7</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>Smith carries it, even after the story loses its nerve. This film is the opposite of “Transformers”: It’s all about the unsettling silence, not the noise.</snippet>
+         <url>http://chicago.metromix.com/movies/movie_review/movie-review-i-am/268176/content</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>While I Am Legend is reasonably absorbing, it can be difficult to focus on the film that actually made it to the screen, instead of the many versions that didn't.</snippet>
+         <url>http://www.avclub.com/content/cinema/i_am_legend</url>
+         <critic>Tasha Robinson</critic>
+      </review>
+      <review>
+         <snippet>If it is true that mankind has 100 years to live before we destroy our planet, it provides an enlightening vision of how Manhattan will look when it lives on without us. The movie works well while it's running, although it raises questions that later only mutate in our minds.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20071213/REVIEWS/712130305</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>Trouble enters only when the script overcomplicates things in the end. Until then, especially in a growling dogfight, director Francis Lawrence (Constantine) keeps you squirming.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/11087025/review/17652636/i_am_legend</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>It's neither a neat little allegory about faith nor a transcendently entertaining one. I Am Legend is actually about the last man on earth played by one of the last real movie stars on earth. To be honest, Smith was all I was thinking about while I sat through I Am Legend.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=9432</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>For horror fans, Halloween came a little later than usual this year, but it was worth the wait.</snippet>
+         <url>http://www.miamiherald.com/1054/story/342901.html</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>The popcorn elements are well handled, but what lingers is the sense of urban despair: watching old videotapes of the Today show, carrying on friendships with mannequins, Smith turns out to be no legend at all, just another New Yorker slowly dying of loneliness.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/critic.html?week=nextweek#32582</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>I Am Legend is a blockbuster like no other, one that finds its grandness in modesty. It's a star vehicle with a star who knows his place in the universe.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2007/12/14/legend/</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>Slick, adrenaline-fueled fun.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-legend14dec14,0,5695950.story?coll=cl-mreview</url>
+         <critic>Carina Chocano</critic>
+      </review>
+      <review>
+         <snippet>Instead of maintaining its edgy sense of constant discomfort, the movie is compelled to make Neville as fuzzily adorable and messianic as possible.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1143567&amp;categories=Movies&amp;nm=1</url>
+         <critic>Desson Thomson</critic>
+      </review>
+      <review>
+         <snippet>Smith, sporting a newly buffed physique, delivers an extraordinary performance as a man slowly coming unglued under the strain of no human contact and a constantly alternating role of hunter and prey.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?JSESSIONID=yFDPHhxc2rSgS0zGhBTkynKnPLGpDF1Xr5hQSqxSTwn9qGp8p7hX!-1895194174&amp;&amp;rid=10309</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>Remarkably eerie yet annoyingly larded with cheap horror-film shock effects, I Am Legend stands as an effective but also irksome adaptation of Richard Matheson's classic 1954 sci-fi novel.</snippet>
+         <url>http://www.variety.com/review/VE1117935602.html?categoryid=31&amp;cs=1</url>
+         <critic>Todd McCarthy</critic>
+      </review>
+      <review>
+         <snippet>There is something graceful and effortless about this performance (Mr. Smith's), which not only shows what it might feel like to be the last man on earth, but also demonstrates what it is to be a movie star.</snippet>
+         <url>http://movies.nytimes.com/2007/12/14/movies/14lege.html?ref=movies</url>
+         <critic>A.O. Scott</critic>
+      </review>
+      <review>
+         <snippet>Smith, it should be noted, has compared Neville in interviews to Job. Tone down the highfalutin references. In the end, this is a sci-fi zombie movie, folks.</snippet>
+         <url>http://www.csmonitor.com/2007/1214/p15s01-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>Matheson's bitterly ironic ending -- which pivots on the nature of Neville's legend -- is gutted and turned into formulaic pap.</snippet>
+         <url>http://www.tvguide.com/movies/legend/review/291158</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>A little more than halfway in, Legend, based on the book by Richard Matheson (which also spawned 1971's Omega Man and 1964's TheLast Man on Earth), deteriorates into a schlocky zombie horror flick and loses its steam.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2007-12-13-i-am-legend_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>I Am Legend is essentially "28 Days Later" . . ., or "28 Weeks Later" . . ., only with millions more for special effects, and with nothing approaching the heart-pounding, bloodcurdling power and smarts of the two British-made yarns.</snippet>
+         <url>http://www.philly.com/philly/entertainment/movies/20071214_Can_Will_Smith_save_us_.html</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>After its promising opening, I Am Legend devolves into a generic zombie slaughterfest.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20071213.wlegend14/BNStory/Entertainment/home</url>
+         <critic>Liam Lacey</critic>
+      </review>
+      <review>
+         <snippet>A big part of the reason for this movie's nose dive around the one-hour mark is that, seen up close, the Infected just aren't that scary.</snippet>
+         <url>http://www.slate.com/id/2179940/fr/flyout</url>
+         <critic>Dana Stevens</critic>
+      </review>
+      <review>
+         <snippet>Instead of being the science fiction masterpiece Matheson fans have been salivating for since the 80s (when Schwarzenegger was once attached), it’s just another average Hollywood popcorn flick.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=10461</url>
+         <critic>Michael Ferraro</critic>
+      </review>
+      <review>
+         <snippet>The word "mixed" isn't mixed enough to fit my response to this film.</snippet>
+         <url>http://www.time.com/time/arts/article/0,8599,1694609,00.html</url>
+         <critic>Richard Corliss</critic>
+      </review>
+      <review>
+         <snippet>I Am Legend can't seem to make up its mind just what kind of movie it wants to be.</snippet>
+         <url>http://www.newsweek.com/id/77774</url>
+         <critic>David Ansen</critic>
+      </review>
+      <review>
+         <snippet>While the sun shines, it’s a four-star thriller with a superb turn from Smith. When the moon rises, it’s a two-star horror cartoon with some of the worst FX we’ve seen all year. So, really, it has to average out at…</snippet>
+         <url>http://www.empireonline.com/reviews/reviewcomplete.asp?FID=132924</url>
+         <critic>Dan Jolin</critic>
+      </review>
+      <review>
+         <snippet>I Am Legend has one undeniably cool thing about it, namely the vision of Manhattan as a semi-feral wasteland.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/1197420910294940.xml&amp;coll=7</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>If you want lots of Will Smith and industrial-strength special effects, the movie delivers.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2007/12/14/DDCFTTNAT.DTL&amp;type=movies</url>
+         <critic>Walter Addiego</critic>
+      </review>
+      <review>
+         <snippet>The credits list a couple of dozen medical and scientific consultants. What this film really needed was a script doctor.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/reviews/bal-to.legend14dec14,0,6768968.story</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>The star, as solo practitioner, does a terrific job of holding our attention when we're not taking in surreal vistas of a deserted Manhattan that are fascinating in their own right. Still, zombies are zombies, and this nasty lot, mostly digital creations of variable quality, keep draining the distinction that the movie seeks and occasionally finds.</snippet>
+         <url>http://online.wsj.com/article/SB119759112354128281.html</url>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>Overall, I Am Legend is a wasted opportunity -- a rickety, weather-beaten framework around an otherwise strong central performance from Smith.</snippet>
+         <url>http://www.premiere.com/moviereviews/4320/i-am-legend.html</url>
+         <critic>Eric Alt</critic>
+      </review>
+      <review>
+         <snippet>Unfortunately, after those first 10 minutes it’s all downhill for I Am Legend, as the film descends into a monster-movie malaise starring a horde of balding CGI monsters that look like refugees from a video game and that will scare absolutely no one, save those who worry that green-screening is ruining the movies.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A570388</url>
+         <critic>Josh Rosenblatt</critic>
+      </review>
+   </reviews>
+   <US_Gross>$256,393,010</US_Gross>
+   <production_budget>$150,000,000</production_budget>
+   <weekend_gross>$77,211,321</weekend_gross>
+   <number_of_screens>3,606</number_of_screens>
+   <highest_grossing_actors_present/>
+   <num_highest_grossing_actors>1</num_highest_grossing_actors>
+   <highest_grossing_actor>will smith</highest_grossing_actor>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

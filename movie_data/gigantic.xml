@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Gigantic</name>
+   <company>First Independent Pictures</company>
+   <genres>
+      <genre>Comedy</genre>
+      <genre>Romance</genre>
+   </genres>
+   <authors>
+      <author>Matt Aselton</author>
+   </authors>
+   <directors>
+      <director>Matt Aselton</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Paul Dano</actor>
+      <actor>Zooey Deschanel</actor>
+      <actor>Edward Asner</actor>
+      <actor>Jane Alexer</actor>
+      <actor>John Goodman</actor>
+      <actor>Ian Roberts</actor>
+      <actor>Robert Stanton</actor>
+   </actors>
+   <release_date>April 3, 2009</release_date>
+   <running_time>98</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>The slacker comedy-drama-romance-whatever Gigantic will fulfill all your alterna-movie weirdness requirements.</snippet>
+         <url>http://www.nypost.com/seven/04032009/entertainment/movies/bedding_crashers_162581.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>First-time feature director Matt Aselton, who co-wrote the darkly funny, well-observed script with Adam Nagata, has crafted a disarming tale that's one of the better independent films in recent memory.</snippet>
+         <url>http://www.latimes.com/entertainment/la-et-capsules17-2009apr17,0,6128327.story</url>
+         <critic>Gary Goldstein</critic>
+      </review>
+      <review>
+         <snippet>On the basis of Gigantic, Matt Aselton can make a fine and original film. This isn't quite it, but it has moments so good, all you wish for is a second draft.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20090409/REVIEWS/904099995</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>An offbeat romantic comedy that almost - but not quite - works. The characters and situations are a little too quirky for their own good.</snippet>
+         <url>http://www.reelviews.net/php_review_template.php?identifier=1559</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>Gigantic plays like a Sundance movie with half the nouns removed; fetchingly cryptic for a while, it's ultimately just obscure.</snippet>
+         <url>http://www.boston.com/ae/movies/articles/2009/04/24/a_gigantic_ramble_through_sta_ndard_issue_quirkiness/</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>With its off-center dialogue and upscale industrial settings, Gigantic strains to be original. But beneath its indie affectations it is really another contemplation of generational misunderstanding.</snippet>
+         <url>http://movies.nytimes.com/2009/04/03/movies/03giga.html?ref=movies</url>
+         <critic>Stephen Holden</critic>
+      </review>
+      <review>
+         <snippet>This is loads of fun in the early stretch, as the characters are being introduced, but the story never really goes anywhere.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/34252_GIGANTIC.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>It's just not all that interesting to watch two pretty young things go through the muddled rituals of the pas de duh when I can, you know, do it just as poorly myself.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A769491</url>
+         <critic>Marc Savlov</critic>
+      </review>
+      <review>
+         <snippet>We can be grateful to a stellar cast and some discipline on the part of Matt Aselton, a commercials director making his feature debut, that Gigantic doesn't go completely overboard. Nevertheless, the film will appeal mostly to festivals and adventurous audiences.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?rid=11665</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>Any resemblance the film bears to real people and real situations is purely coincidental.</snippet>
+         <url>http://www.avclub.com/articles/gigantic,26071/</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>Dano is a talented actor who needs to aim higher, and it should go without saying that Deschanel can do - and should know - better.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2009/04/03/2009-04-03_short_takes.html?page=1</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>I don't remember ever wanting to just haul out and punch a movie before Gigantic.</snippet>
+         <url>http://www.villagevoice.com/2009-04-01/film/matt-aselton-s-gigantic-another-for-the-indie-comedy-heap/</url>
+         <critic>Nick Pinkerton</critic>
+      </review>
+      <review>
+         <snippet>Inert, incompetent and emotionally fraudulent.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2009/04/09/DDOI16TUS1.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+   </reviews>
+   <US_Gross>$102,704</US_Gross>
+   <weekend_gross>$10,294</weekend_gross>
+   <number_of_screens>1</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

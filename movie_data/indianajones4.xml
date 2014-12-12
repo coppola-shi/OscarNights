@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Indiana Jones and the Kingdom of the Crystal Skull</name>
+   <company>Paramount Pictures</company>
+   <genres>
+      <genre>Action</genre>
+      <genre>Adventure</genre>
+   </genres>
+   <authors>
+      <author>Philip Kaufman</author>
+      <author>George Lucas</author>
+      <author>Jeff Nathanson</author>
+      <author>David Koepp</author>
+   </authors>
+   <directors>
+      <director>Steven Spielberg</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Harrison Ford</actor>
+      <actor>Shia LaBeouf</actor>
+      <actor>Cate Blanchett</actor>
+      <actor>Ray Winstone</actor>
+      <actor>Karen Allen</actor>
+      <actor>John Hurt</actor>
+      <actor>Jim Broadbent</actor>
+   </actors>
+   <release_date>May 22, 2008</release_date>
+   <running_time>123</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>It's crammed full of the dash, filmmaking flair, swashbuckling magic, impossible stunts and tongue-in-cheek humor that made the series such a phenomenon of its time, and -- for those versed in its traditions -- almost every frame is enjoyable on some level.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/363890_indy21q.html</url>
+         <critic>William Arnold</critic>
+      </review>
+      <review>
+         <snippet>It miraculously pulled off the effect of feeling like a surprise: The picture both fulfilled some vague, unexpressed hopes I didn't know I had and also left me with the sense that I'd just seen something I wasn't quite prepared for -- the kind of contradiction that great showmanship can bridge.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2008/05/22/indiana_jones/</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>I can say that if you liked the other Indiana Jones movies, you will like this one, and that if you did not, there is no talking to you.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20080518/REVIEWS/969461084/1001</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>Despite the merry duo of Ford and Connery, The Last Crusade offered a familiar pursuit of the Holy Grail. The Kingdom of the Crystal Skull makes a better move: It goes back to the future. Once again, the Indiana Jones series is the rare franchise that treasures knowledge and embraces the unknown.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/reviews/bal-li.indy22may22,0,900628.story</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>Entertaining, inventive and old-fashioned in the best way.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2008/05/18/2008-05-18_crystal_skull_has_it_all.html</url>
+         <critic>Joe Neumaier</critic>
+      </review>
+      <review>
+         <snippet>Nineteen years after their last adventure, director Steven Spielberg and star Harrison Ford have no trouble getting back in the groove with a story and style very much in keeping with what has made the series so perennially popular.</snippet>
+         <url>http://www.variety.com/VE1117937176.html</url>
+         <critic>Todd McCarthy</critic>
+      </review>
+      <review>
+         <snippet>A slick, fun film that has by no means sacrificed the fast action beats of the first three.</snippet>
+         <url>http://www.empireonline.com/reviews/reviewcomplete.asp?FID=9816</url>
+         <critic>Damon Wise</critic>
+      </review>
+      <review>
+         <snippet>Though the film stars a relaxed and capable Harrison Ford as everyone's favorite intrepid archaeologist and boasts supporting players ranging from Cate Blanchett as a superb villainess to Shia LaBeouf as the inevitable youngster, the real heroes of this film are director Steven Spielberg and the veritable army of superb technicians who turn the film's numerous stunts and special effects into trains that insist on running on time.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-jones19-2008may19,0,289769.story</url>
+         <critic>Kenneth Turan</critic>
+      </review>
+      <review>
+         <snippet>Ford's Indy, who doesn't quite hang up his fedora at film's end, is still the only cinematic smartass-cum-bullwhipping scholar of antiquities I'd want by my side when push comes to shove comes to Nazis ("I hate these guys"), Russkies, or, for that matter, Al Quaeda. Go get 'em, Indy, and cue the John Williams while you''e at it.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A623678</url>
+         <critic>Marc Savlov</critic>
+      </review>
+      <review>
+         <snippet>The movie's pretty good, occasionally very good. But I also kind of hope they don't make another one.</snippet>
+         <url>http://www.oregonlive.com/movies/index.ssf/2008/05/review_indiana_jones_and_the_k.html</url>
+         <critic>M. E. Russell</critic>
+      </review>
+      <review>
+         <snippet>Both the good and bad remind us that the most special thing about "Skull" is the man wearing the fedora and the rakish grin. He has never worn out his welcome, and this valedictory – it can be nothing else – is a fitting one.</snippet>
+         <url>http://www.charlotte.com/434/story/633905.html</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>The movie moves. It has action sequences that are so enormous that they won't just wow audiences, but rock them back in their seats and make them laugh at the audacity of it all.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2008/05/21/DD3G10PSOS.DTL</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>The overall effect is either exhilarating or exhausting, depending on your emotional investment in the franchise, but credit where credit is due: Steven Spielberg and George Lucas set out to make one for the fans and delivered.</snippet>
+         <url>http://www.tvguide.com/movies/indiana-jones-kingdom/review/290748</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>Often thrilling, sometimes charming, occasionally clunky family entertainment that perhaps wisely doesn't attempt to scale the heights of "Raiders of the Lost Ark."</snippet>
+         <url>http://www.nypost.com/seven/05192008/news/columnists/yes__he_cannes__111536.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>Merely grand old-school fun - a rollicking class reunion that stands as the second best entry in the venerable series.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=10170</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>Crystal Skull is a fun ride, but if we have to wait 19 years for the next one, that's OK by me.</snippet>
+         <url>http://www.csmonitor.com/2008/0524/p25s03-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>There are scenes in the new movie that seem like stretching exercises at a retirement home; there are garrulous stretches, and even the title seems a few words too long. But once it gets going, Crystal Skull delivers smart, robust, familiar entertainment.</snippet>
+         <url>http://www.time.com/time/arts/article/0,8599,1807519,00.html</url>
+         <critic>Richard Corliss</critic>
+      </review>
+      <review>
+         <snippet>It's enough to make you forgive a great deal of this film's dumbness and appreciate it as meaningless, goodhearted and mostly non-obnoxious entertainment.</snippet>
+         <url>http://www.salon.com/ent/movies/btm/feature/2008/05/18/cannes_indy/</url>
+         <critic>Andrew O&amp;#039;Hehir</critic>
+      </review>
+      <review>
+         <snippet>The character and plot contrivances are dumber than ever, but this is basically vaudeville, not narrative, and the thrills keep coming.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/33161_INDIANA_JONES_AND_THE_KINGDOM_OF_THE_CRYSTAL_SKULL.html</url>
+         <critic>Jonathan Rosenbaum</critic>
+      </review>
+      <review>
+         <snippet>I can't deny it: I had a shit-eating grin on my face for most of the ensuing two hours. I also can't deny that many of the criticisms about to be leveled at Spielberg and Lucas over "Kingdom of the Crystal Skull" are well-deserved, but it's still good to see Indiana Jones, and Marion, back in action one last time.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=10972</url>
+         <critic>Pete Vonder Haar</critic>
+      </review>
+      <review>
+         <snippet>It's romantic manliness at its purest, almost but not quite schmaltz, ideally calculated to please true believers and ironic snorters at once.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1142314&amp;categories=Movies&amp;nm=1</url>
+         <critic>Stephen Hunter</critic>
+      </review>
+      <review>
+         <snippet>The biggest problem with Crystal Skull is one that's lately plagued Spielberg in otherwise excellent films like "Munich" and "War Of The Worlds": He fails to stick the landing. And for an entertainment with nothing much on its mind, that hurts.</snippet>
+         <url>http://www.avclub.com/content/cinema/indiana_jones_and_the_kingdom_of</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>Harrison Ford? Terrific -- and re-energized.</snippet>
+         <url>http://popwatch.ew.com/popwatch/2008/05/heres-your-hat.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>Even with the ponderous dialogue, it's hard not to have fun on this adventure, and it's good to see that Indy, though slightly weary, still has the goods.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2008-05-18-indiana-jones_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>Audiences looking for emotional resonance in Indy 4 are doomed to the temple of disappointment. Spielberg and Lucas aren't upping their creative game -- they're taking care of business.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/18263534/review/20899228/indiana_jones_and_the_kingdom_of_the_crystal_skull</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>The script was kept under unusually tight wraps during filming, but the biggest surprise in the picture is how talky the whole enterprise is. Particularly deadly is a long stretch in mid-film where the heroes walk through caves, talk about what they're seeing, get captured and talk with their captors, escape and talk some more.</snippet>
+         <url>http://www.miamiherald.com/1058/story/539773.html</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>While the production values are top-notch, and the action artfully choreographed, in the end - and quite well before the end - a sense of tedium sets in.</snippet>
+         <url>http://www.philly.com/inquirer/columnists/steven_rea/20080521_Indiana_Jones_cracks_the_bullwhip_again.html</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>Even the most enthusiastic future Indy scholar would have to concede that the movie's habit of quoting from venerable Hollywood antiquities sometimes has the unfortunate effect of reminding the viewer that those movies were better.</snippet>
+         <url>http://www.slate.com/id/2191986/</url>
+         <critic>Dana Stevens</critic>
+      </review>
+      <review>
+         <snippet>Things could be worse. At the end of the day, Indiana Jones and the Kingdom of the Crystal Skull is nothing if not consistent -- taking care of business solidly, professionally and without a lick of the genuine wonderment or inspiration that you can find in surplus in Jon Favreau's Spielberg-influenced "Iron Man."</snippet>
+         <url>http://www.laweekly.com/film+tv/film/indiana-ford-and-the-kingdom-of-lucas-and-spielberg/18961/</url>
+         <critic>Scott Foundas</critic>
+      </review>
+      <review>
+         <snippet>Like Norma Desmond in "Sunset Boulevard," Indy is still big; it's just that, in the new world of movie franchises, The Crystal Skull feels smaller.</snippet>
+         <url>http://www.newsweek.com/id/137805</url>
+         <critic>Jennie Yabroff</critic>
+      </review>
+      <review>
+         <snippet>There's plenty of frantic energy here, lots of noise and money too, but what's absent is any sense of rediscovery, the kind that's necessary whenever a filmmaker dusts off an old formula or a genre standard.</snippet>
+         <url>http://movies.nytimes.com/2008/05/22/movies/22indy.html?ref=movies</url>
+         <critic>Manohla Dargis</critic>
+      </review>
+      <review>
+         <snippet>Director Steven Spielberg seems intent on celebrating his entire early career here. Whatever the story there is, a vague journey to return a spectacular archeological find to its rightful home -- an unusual goal of the old grave-robber, you must admit -- gets swamped in a sea of stunts and CGI that are relentless as the scenes and character relationships are charmless.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?&amp;rid=11117</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>Does not know when to quit. Nor does it extract much fun from a cockamamie story provided by George Lucas.</snippet>
+         <url>http://chicago.metromix.com/movies/movie_review/movie-review-indiana-jones/424797/content</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>Simply isn't a very good motion picture.</snippet>
+         <url>http://www.reelviews.net/movies/i/indiana_jones4.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>All of it amounts to a been-there-done-that-better recapitulation of Mr. Spielberg's career.</snippet>
+         <url>http://online.wsj.com/article/SB121131447661908023.html?mod=2_1168_1</url>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>Conducting another symphony in action, Spielberg seems a bit bored – always competent but never inspired – and who can really blame him? He tries to fire his interest by swiping a few tropes from the fifties pop bin, not-so-sly allusions to teen-trash movies and those McCarthy-era horror flicks. After that, there's really nowhere to go but inwards, which is when Spielberg starts looting Spielberg.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20080522.windiana22/BNStory/Entertainment/home</url>
+         <critic>Rick Groen</critic>
+      </review>
+      <review>
+         <snippet>It's clear the creators wanted to bring our hero back but were uncertain where to put him. Sadly, Indiana Jones is not relevant amidst the atomic blasts and disillusionment of the Soviet era, and he's not even recognizable in the pixilated universe of recent cinema. To quote the great Dr. Jones, "It belongs in a museum!"</snippet>
+         <url>http://www.premiere.com/moviereviews/4596/indiana-jones-and-the-kingdom-of-the-crystal-skull.html</url>
+         <critic>Gregory Christie</critic>
+      </review>
+      <review>
+         <snippet>No mainstream filmmaker since Orson Welles can touch Steven Spielberg when it comes to camera movement and composition--or, more precisely, to composition that gets more vivid as the camera moves...It's the work of a man with film storytelling in his blood. What a bummer when the story he has to tell is a cosmic nothing.</snippet>
+         <url>http://nymag.com/movies/reviews/47217/index1.html</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>Crystal Skull isn't bad--there are a few dazzling sequences, and a couple of good performances--but the unprecedented blend of comedy and action that made the movies so much more fun than any other adventure series is mostly gone.</snippet>
+         <url>http://www.newyorker.com/arts/critics/cinema/2008/06/02/080602crci_cinema_denby</url>
+         <critic>David Denby</critic>
+      </review>
+      <review>
+         <snippet>It's hard to tell whether Spielberg and Lucas are trying too hard or trying at all--the thing's such a mess, such an unmitigated disaster, that damned is the scholar stuck with the unfortunate task of deciphering this cynical, clinical gibberish in decades to come.</snippet>
+         <url>http://www.villagevoice.com/film/0821,indiana-jones-and-the-fortress-of-sad-decline,446681,20.html</url>
+         <critic>Robert Wilonsky</critic>
+      </review>
+   </reviews>
+   <US_Gross>$317,023,851</US_Gross>
+   <production_budget>$185,000,000</production_budget>
+   <weekend_gross>$125,178,907</weekend_gross>
+   <number_of_screens>4,260</number_of_screens>
+   <oscar_winning_directors_present/>
+   <num_oscar_winning_directors>1</num_oscar_winning_directors>
+   <oscar_winning_director>steven spielberg</oscar_winning_director>
+   <highest_grossing_actors_present/>
+   <num_highest_grossing_actors>2</num_highest_grossing_actors>
+   <highest_grossing_actor>cate blanchett</highest_grossing_actor>
+   <highest_grossing_actor>harrison ford</highest_grossing_actor>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>true</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

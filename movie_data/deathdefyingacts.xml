@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Death Defying Acts</name>
+   <company>Third Rail Releasing (The Weinstein Company)</company>
+   <genres>
+      <genre>Drama</genre>
+      <genre>Romance</genre>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>Tony Grisoni</author>
+      <author>Brian Ward</author>
+   </authors>
+   <directors>
+      <director>Gillian Armstrong</director>
+   </directors>
+   <origins>
+      <origin>UK</origin>
+      <origin>Australia</origin>
+   </origins>
+   <actors>
+      <actor>Catherine Zeta-Jones</actor>
+      <actor>Guy Pearce</actor>
+      <actor>Timothy Spall</actor>
+      <actor>Saoirse Ronan</actor>
+   </actors>
+   <release_date>July 11, 2008</release_date>
+   <running_time>97</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>This won't be remembered as one of the prodigiously talented Armstrong's great films (My Brilliant Career, High Tide, Little Women), but it's still 90 percent better than everything else out there.</snippet>
+         <url>http://www.laweekly.com/film+tv/film-reviews/movie-reviews-kabluey-journey-to-the-center-of-the-earth-meet-dave/19238/?page=2</url>
+         <critic>Scott Foundas</critic>
+      </review>
+      <review>
+         <snippet>Far more diverting and well crafted than its promotion-free release campaign might suggest. Then again, for a film largely based on the notion that "nothing is what it seems," such lowered expectations may actually work in its favor.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-death11-2008jul11,0,2143144.story</url>
+         <critic>Gary Goldstein</critic>
+      </review>
+      <review>
+         <snippet>A minor but satisfying entry in the "what if" historical-fantasy genre.</snippet>
+         <url>http://www.slate.com/id/2195137/</url>
+         <critic>Dana Stevens</critic>
+      </review>
+      <review>
+         <snippet>Though all the elements are in place, there's not much magic to be found in Death Defying Acts, an intermittently entertaining but surprisingly modest romance from Gillian Armstrong.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2008/07/11/2008-07-11_houdini_romance_doesnt_do_the_trick_in_d.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>What it lacks is a villain, and magic without danger is simply a parlor trick, which is what the film becomes.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?&amp;rid=11372</url>
+         <critic>Ray Bennett</critic>
+      </review>
+      <review>
+         <snippet>A handsome contraption that's never very engaging, let alone convincing.</snippet>
+         <url>http://www.variety.com/review/VE1117934723.html?categoryid=31&amp;cs=1&amp;p=0</url>
+         <critic>Dennis Harvey</critic>
+      </review>
+      <review>
+         <snippet>The ingredients are there for a cute con game, but instead the movie turns out to be a mushy melodrama.</snippet>
+         <url>http://www.nypost.com/seven/07112008/entertainment/movies/death_defying_acts_119337.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>Ms. Zeta-Jones is too elegant for the lowlife she's supposed to be, Ms. Ronan isn't endearing enough to be a ragamuffin, and, under Gillian Armstrong's direction, never for a minute do you believe they're mother and daughter.</snippet>
+         <url>http://movies.nytimes.com/2008/07/11/movies/11defy.html?ref=movies</url>
+         <critic>Neil Genzlinger</critic>
+      </review>
+   </reviews>
+   <US_Gross>$3,561</US_Gross>
+   <weekend_gross>$3,561</weekend_gross>
+   <number_of_screens>2</number_of_screens>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

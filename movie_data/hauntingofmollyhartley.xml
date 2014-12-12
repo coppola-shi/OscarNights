@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Haunting of Molly Hartley. The</name>
+   <company>Freestyle Releasing</company>
+   <genres>
+      <genre>Horror</genre>
+   </genres>
+   <authors>
+      <author>John Travis</author>
+      <author>Rebecca Sonnenshine</author>
+   </authors>
+   <directors>
+      <director>Mickey Liddell</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Chace Crawford</actor>
+      <actor>Haley Bennett</actor>
+      <actor>Shannon Marie Woodward</actor>
+      <actor>Shanna Collins</actor>
+      <actor>AnnaLynne McCord</actor>
+   </actors>
+   <release_date>October 31, 2008</release_date>
+   <running_time>minutes,</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>This softcore thriller runs strictly by the numbers.</snippet>
+         <url>http://www.variety.com/review/VE1117938876.html?categoryid=31&amp;cs=1</url>
+         <critic>Rob Nelson</critic>
+      </review>
+      <review>
+         <snippet>Molly Hartley is dull at worst and surprisingly spooky at best.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=12022</url>
+         <critic>Chelsea Bain</critic>
+      </review>
+      <review>
+         <snippet>Tame and inoffensive, The Haunting of Molly Hartley is no more than a big-screen lasso for the "Gossip Girl" and "Supernatural" demographic.</snippet>
+         <url>http://movies.nytimes.com/2008/11/01/movies/01moll.html?ref=movies</url>
+         <critic>Jeannette Catsoulis</critic>
+      </review>
+      <review>
+         <snippet>The story's a snooze, so the filmmakers punch it up with smash cuts and thunderclaps that turn the most laughably banal items -- birds, mail, an alarm clock -- into cheap jack-in-the-box shocks.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20237288,00.html</url>
+         <critic>Adam Markovitz</critic>
+      </review>
+      <review>
+         <snippet>A dead-on-arrival thriller that resolutely fails to come to life.</snippet>
+         <url>http://www.latimes.com/entertainment/news/reviews/la-et-haunting3-2008nov03,0,6592947.story</url>
+         <critic>Sam Adams</critic>
+      </review>
+      <review>
+         <snippet>Horror of the glossiest, safest kind. It's a boring bubblegum shocker that loses its flavor faster than Fruit Stripes.</snippet>
+         <url>http://movies.tvguide.com/haunting-molly-hartley/review/294711</url>
+         <critic>Jason Buchanan</critic>
+      </review>
+      <review>
+         <snippet>It's a horror film better suited for skittish cats than humans.</snippet>
+         <url>http://www.avclub.com/content/cinema/the_haunting_of_molly_hartley</url>
+         <critic>Keith Phipps</critic>
+      </review>
+      <review>
+         <snippet>Playing somewhat like a juvenile version of "Rosemary's Baby," this inept, incoherent attempt to cash in on young girls who can't buy a ticket to the R-rated "Saw V" (or are too lazy to sneak in) will be out of theaters long before the Halloween pumpkins start to rot.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?JSESSIONID=Bm8cJLLNgPpPtnmc5hYGJGKgnpj7r6Qmg81hKnpB2NzRpvYmj2v2!946263216&amp;&amp;rid=11904</url>
+         <critic>Frank Scheck</critic>
+      </review>
+      <review>
+         <snippet>The real shocker is how hellishly yawn-inducing this utterly pointless and forgettable Haunting turns out to be. It's enough to make you scream.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A695048</url>
+         <critic>Marc Savlov</critic>
+      </review>
+      <review>
+         <snippet>From Freestyle Releasing, the self-service distributor that brought you "D-War" and "In the Name of the King: A Dungeon Siege Tale," comes a movie even worse than those two combined.</snippet>
+         <url>http://www.laweekly.com/2008-10-30/film-tv/movie-reviews-filth-and-wisdom-the-haunting-of-molly-hartley-splinter/</url>
+         <critic>Luke Y. Thompson</critic>
+      </review>
+   </reviews>
+   <US_Gross>$13,442,412</US_Gross>
+   <weekend_gross>$5,423,315</weekend_gross>
+   <number_of_screens>2,652</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Severance</name>
+   <company>Magnolia Pictures</company>
+   <genres>
+      <genre>Comedy</genre>
+      <genre>Foreign</genre>
+      <genre>Horror</genre>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>James Moran</author>
+      <author>Christopher Smith</author>
+   </authors>
+   <directors>
+      <director>Christopher Smith</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Toby Stephens</actor>
+      <actor>Claudie Blakley</actor>
+      <actor>Andy Nyman</actor>
+      <actor>Babou Ceesay</actor>
+      <actor>Tim McInnerny</actor>
+      <actor>Laura Harris</actor>
+      <actor>Danny Dyer</actor>
+      <actor>David Gilliam</actor>
+   </actors>
+   <release_date>May 18, 2007</release_date>
+   <running_time>90</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>I prefer my horror with a chaser of wit, and Severance, a modest but very lively British import, serves it up in harsh but high style.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-070601-movies-review-severance,0,777586.story?coll=mmx-movies_top_heds</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>The result is a cathartic hoot, relishing its own carefully doled out carnage.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/318021_severence01q.html</url>
+         <critic>Gianni Truzzi</critic>
+      </review>
+      <review>
+         <snippet>What's more refreshing about Severance is how the movie's humor offsets the violence, and even that is pretty restrained (at least by modern standards).</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=9840</url>
+         <critic>Pete Vonder Haar</critic>
+      </review>
+      <review>
+         <snippet>Director and co-writer Christopher Smith, mischievously blending "The Office" with "Friday the 13th," keeps things fierce and funny enough to give Steve Carell ideas.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/11077312/review/14197255/severance</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>Severance still seems a few rewrites away from living up to its potential, but it's remarkable how much just a modicum of wit can spice up the standard backwoods slice-and-dice. Scaring people with a horror film is easy; entertaining them takes a little skill.</snippet>
+         <url>http://www.avclub.com/content/cinema/severance</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>Compared with the recent spate of blockbuster sellouts, Severance is a worthy package, and fair compensation for time spent. Best to watch on the big screen, of course.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20070601.wseverance01/BNStory/Entertainment/home</url>
+         <critic>Rick Groen</critic>
+      </review>
+      <review>
+         <snippet>It's both very funny and very scary, and never descends to the level of spoof.</snippet>
+         <url>http://www.tvguide.com/movies/severance/review/287781</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>Suffice to say it's got plenty to do with corporate karma. And the word severance is more than just a double play on words - it's a triple whammy.</snippet>
+         <url>http://www.philly.com/inquirer/columnists/steven_rea/20070601_Violence__laughs__a_surprise_ending.html</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>For horror fans who crave a few laughs along with their ritual decapitations and limb severings.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/capsules/30486_SEVERANCE</url>
+         <critic>Meredith Brody</critic>
+      </review>
+      <review>
+         <snippet>Along with lots of pitch-dark humor, James Moran's often clever script is peppered with winks and nudges about the war on terror that helps distinguish the film from the recent spate of torture flicks.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-severance25may25,0,288807.story?coll=cl-mreview</url>
+         <critic>Gary Goldstein</critic>
+      </review>
+      <review>
+         <snippet>A lively romp through terrain less traveled than you might think.</snippet>
+         <url>http://movies2.nytimes.com/2007/05/18/movies/18seve.html?ref=movies</url>
+         <critic>Jeannette Catsoulis</critic>
+      </review>
+      <review>
+         <snippet>A winning combination of laughs and genuine shocks.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/imdb/reviews/article_display.jsp?rid=1002986909&amp;vnu_special_account_code=thrsiteimdbpro</url>
+         <critic>Ray Bennett</critic>
+      </review>
+      <review>
+         <snippet>Escalating blend of black humor and grisly goings-on in the wilds of Hungary fully delivers in its latter half.</snippet>
+         <url>http://www.variety.com/review/VE1117931174.html?categoryid=31&amp;cs=1&amp;p=0</url>
+         <critic>Derek Elley</critic>
+      </review>
+      <review>
+         <snippet>The chintzy characters, hair-raising deaths, and one spectacular rocket-launcher joke aren't enough to give "Hostel" a run for its blood.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20039066,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>It's modestly effective at creating a mood and at critiquing both business place mores and the evils of Western hubris. But, chiefly, it's about gory scares and sniffling laughs.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/1180565714161510.xml&amp;coll=7</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>Half hearted in its mockery of corporate culture and schlock. The filmmakers want to have it both ways -- the funny and the sadistic -- but rarely do so at the same time with any success.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=9423</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>You'll need a strong stomach, but director Christopher Smith mixes lots of laughs into the gore. Despite its predictable finish, Severance is bloody good fun.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2007/05/18/2007-05-18_short_takes.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>Manages to mix in a few good gags with the requisite gore.</snippet>
+         <url>http://www.reelviews.net/movies/s/severance.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>Definitely worth your time, if not your $9.50. In other words, wait a few months and definitely check it out as a rental.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2007/05/25/DDG6NQ0F671.DTL&amp;type=movies</url>
+         <critic>Peter Hartlaub</critic>
+      </review>
+      <review>
+         <snippet>Severance is a British horror-comedy that, from the get-go, has two distracting strikes against it.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A480933</url>
+         <critic>Marc Savlov</critic>
+      </review>
+      <review>
+         <snippet>None of the killings has any suspense, and the capital I irony -- that these people make their living selling death in small mechanical packages and munitions to the world and are now being hunted down by the same devices -- never begins to produce any results. Put it on a level with a mid-series "Halloween."</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1127218&amp;categories=Movies&amp;nm=1</url>
+         <critic>Stephen Hunter</critic>
+      </review>
+      <review>
+         <snippet>When Smith's Grand Guignol tableaux are strung together, they lack any forward momentum. Some take inspired comic flight. The rest crash to the ground and, like so much else in Severance, go splat.</snippet>
+         <url>http://www.villagevoice.com/film/0720,foundas,76633,20.html</url>
+         <critic>Scott Foundas</critic>
+      </review>
+      <review>
+         <snippet>There are a few scares, but not enough to make up for the murky script.</snippet>
+         <url>http://www.nypost.com/seven/05182007/entertainment/movies/severance_movies_v_a__musetto.htm</url>
+         <critic>V.A. Musetto</critic>
+      </review>
+   </reviews>
+   <US_Gross>$137,221</US_Gross>
+   <weekend_gross>$8,316</weekend_gross>
+   <number_of_screens>2</number_of_screens>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

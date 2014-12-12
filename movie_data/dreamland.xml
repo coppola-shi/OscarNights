@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Dreamland</name>
+   <company>Horizon Entertainment</company>
+   <genres>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author>Tom Willett</author>
+   </authors>
+   <directors>
+      <director>Jason Matzner</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Agnes Bruckner</actor>
+      <actor>Kelli Garner</actor>
+      <actor>Justin Long</actor>
+      <actor>John Corbett</actor>
+      <actor>Gina Gershon</actor>
+      <actor>Chris Mulkey</actor>
+   </actors>
+   <release_date>December 1, 2006</release_date>
+   <running_time>88</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>A great effort from first time feature filmmaker Jason Matzer.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=8447</url>
+         <critic>Eric Campos</critic>
+      </review>
+      <review>
+         <snippet>Dreamland has vitality and emotional truth underlying all its interactions. And the young women, Agnes Bruckner and Kelli Garner, are superb.</snippet>
+         <url>http://sfgate.com/cgi-bin/article.cgi?f=/c/a/2006/12/01/DDG0SMM88N1.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>Jason Matzner's woozily romantic, gorgeously lensed directorial debut about a trailer park love triangle seems to unspool in a dream of its own, and despite some sketchy story elements, much of it is pretty intoxicating -- that is, until the unambiguous life lessons bring pic down to earth with an earnest splat.</snippet>
+         <url>http://www.variety.com/review/VE1117929395.html?categoryid=31&amp;cs=1&amp;query=dreamland</url>
+         <critic>Justin Chang</critic>
+      </review>
+      <review>
+         <snippet>It's got a good creative pedigree and confident execution – as well as nifty design, down to its Hammond-organ Photek soundtrack and desert chic – but this ensemble piece set in a rural mobile-home park steps off the trail into melodrama from time to time.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A423483</url>
+         <critic>Marrit Ingman</critic>
+      </review>
+      <review>
+         <snippet>If you're young, the film may intoxicate you. If you're older, it may make you relieved you're no longer young.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=9863</url>
+         <critic>Ty Burr</critic>
+      </review>
+   </reviews>
+   <US_Gross>$6,383</US_Gross>
+   <weekend_gross>$4,350</weekend_gross>
+   <number_of_screens>5</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

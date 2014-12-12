@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Blood and Tears</name>
+   <company>Concord Media Group</company>
+   <genres>
+      <genre>Documentary</genre>
+   </genres>
+   <authors>
+      <author/>
+   </authors>
+   <directors>
+      <director>Isidore Rosmarin</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors/>
+   <release_date>June 15, 2007</release_date>
+   <running_time>73</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>Any attempt to elucidate the most vitriolic turf dispute of our time in just 73 minutes may seem insanely ambitious, but Isidore Rosmarin, the documentary filmmaker and producer, was not deterred.</snippet>
+         <url>http://movies2.nytimes.com/2007/06/14/movies/15bloo.html?ref=movies</url>
+         <critic>Jeannette Catsoulis</critic>
+      </review>
+      <review>
+         <snippet>Workmanlike at best, with a regrettable tendency toward cheap filters and effects, the film's strength lies in its remarkable list of interviews.</snippet>
+         <url>http://www.villagevoice.com/film/0724,petersen,76943,20.html</url>
+         <critic>Charles Petersen</critic>
+      </review>
+      <review>
+         <snippet>Nothing in this methodical, unimaginative documentary about the Arab-Israeli conflict will surprise, edify or, God forbid, outrage you.</snippet>
+         <url>http://www.laweekly.com/film+tv/film-reviews/film-reviews-mr-beans-holiday-closing-escrow-the-last-legion/17092/</url>
+         <critic>Ella Taylor</critic>
+      </review>
+   </reviews>
+   <US_Gross>$4,364</US_Gross>
+   <weekend_gross>$2,201</weekend_gross>
+   <number_of_screens>1</number_of_screens>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

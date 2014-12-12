@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Tideland</name>
+   <company>ThinkFilm</company>
+   <genres>
+      <genre>Drama</genre>
+      <genre>Fantasy</genre>
+   </genres>
+   <authors>
+      <author>Terry Gilliam</author>
+      <author>Tony Grisoni</author>
+      <author>Mitch Cullin</author>
+   </authors>
+   <directors>
+      <director>Terry Gilliam</director>
+   </directors>
+   <origins>
+      <origin>CanadaUK</origin>
+   </origins>
+   <actors>
+      <actor>Jeff Bridges</actor>
+      <actor>Jodelle Ferl</actor>
+      <actor>Brendan Fletcher</actor>
+      <actor>Jennifer Tilly</actor>
+      <actor>Janet McTeer</actor>
+   </actors>
+   <release_date>October 13, 2006</release_date>
+   <running_time>122</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>It's crazy, dangerous and sometimes gorgeous: a feast of nuttiness that takes you, for a while, over the edge.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-061020-movies-review-tideland,0,2202085.story?coll=mmx-movies_top_heds</url>
+         <critic>Michael Wilmington</critic>
+      </review>
+      <review>
+         <snippet>This Southern Gothic Alice in Wonderland is not for the faint-hearted, to be sure, yet amid the swaying chaff there are moments of piercing grace and beauty when we'e reminded of the lost, lonely child at the heart of this tale. If nothing else, it's liberating to see one of cinema's unrepentant fantasists going out on a limb like this and cutting loose.</snippet>
+         <url>http://www.laweekly.com/film+tv/film-reviews/film-reviews/14820/</url>
+         <critic>Tom Charity</critic>
+      </review>
+      <review>
+         <snippet>By turns fascinating and intolerable.</snippet>
+         <url>http://tvguide.com/detail/movie.aspx?tvobjectid=283817&amp;more=ucmoviereview</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>It's no "trip through the dark to appreciate the light." It's a nightmare from start to finish.</snippet>
+         <url>http://www.avclub.com/content/node/54042</url>
+         <critic>Noel Murray</critic>
+      </review>
+      <review>
+         <snippet>Tideland is equally evocative of the pastoral mystery of an Andrew Wyeth painting and the looming menace of "Psycho." The disparity is fitting, because as Tideland unfolds, it's difficult to tell if you're watching a fantasy or a horror movie, or one superimposed on the other.</snippet>
+         <url>http://www.calendarlive.com/printedition/calendar/cl-et-tideland20oct20,0,1861788.story</url>
+         <critic>Sam Adams</critic>
+      </review>
+      <review>
+         <snippet>Tideland is the easiest of Gilliam's films to follow, yet the most disturbing to watch.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/LAC.20061020.TIDELAND20/TPStory/TPEntertainment/Movies/</url>
+         <critic>Jennie Punter</critic>
+      </review>
+      <review>
+         <snippet>Gilliam has suffered more than his share of butchered projects, but with this exercise in kamikaze auteurism, he appears to have made exactly the mess he wanted.</snippet>
+         <url>http://www.villagevoice.com/film/0641,hoberman,74688,20.html</url>
+         <critic>J. Hoberman</critic>
+      </review>
+      <review>
+         <snippet>Tideland is, by turns, a complete bore and a creepy experience. And I don't mean "creepy" in a positive sense.</snippet>
+         <url>http://www.reelviews.net/movies/t/tideland.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>A murky swamp of a movie, Terry Gilliam's defiantly surreal Tideland finds every good idea drowning in an excess of indulgence.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/moviereviews/story/461076p-387907c.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>A mix of "Alice in Wonderland" and William S. Burroughs, "Psycho" and the psychotic. It's pretty much a squirmy experience all around.</snippet>
+         <url>http://ae.philly.com/entertainment/ui/philly/movie.html?id=739827&amp;reviewId=21954</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>A misconceived washout of a darkly gothic story of madness, addiction and child abuse made all the more unpleasant by Gilliam's trademark intense visual style.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1001137704</url>
+         <critic>Michael Rechtshaffen</critic>
+      </review>
+      <review>
+         <snippet>Dragged down by a sputtering script and torpid pacing. Way too disturbing for kids and too weird for most grown-ups.</snippet>
+         <url>http://www.variety.com/review/VE1117928157?categoryid=31&amp;cs=1&amp;s=h&amp;p=0</url>
+         <critic>Leslie Felperin</critic>
+      </review>
+      <review>
+         <snippet>Borderline unwatchable, although, as is true of all Gilliam movies, it certainly is different.</snippet>
+         <url>http://www.csmonitor.com/2006/1013/p14s02-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>The results are dull, of all things. The movie itself feels like an overstuffed burrito,</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=8439</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>When the little girl tells her decapititated doll, "It's not just a bad dream," she is right. It's just a bad movie.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/290888_limited03.html</url>
+         <critic>Bill White</critic>
+      </review>
+      <review>
+         <snippet>The worst that can be said of the first two-thirds of Tideland is that it is tiresome. Toward the end it becomes creepy, and not in a good way.</snippet>
+         <url>http://movies2.nytimes.com/2006/10/13/movies/13tide.html?ref=movies</url>
+         <critic>A.O. Scott</critic>
+      </review>
+      <review>
+         <snippet>When they’re used to tell a story as dreary, unfocused, and exhausting as Tideland, the director’s trademark dreamscapes and disorienting camera angles feel like so much artless window dressing.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A413780</url>
+         <critic>Josh Rosenblatt</critic>
+      </review>
+      <review>
+         <snippet>The misanthropic nadir of the director's crash-and-burn career.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2006/10/12/btm/index2.html</url>
+         <critic>Andrew O&amp;#039;Hehir</critic>
+      </review>
+      <review>
+         <snippet>Enter this diseased Lewis Carroll universe at your own risk.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/30438_TIDELAND.html</url>
+         <critic>Jonathan Rosenbaum</critic>
+      </review>
+      <review>
+         <snippet>Rarely has an act of such cinematic cruelty as Tideland been perpetrated on filmgoers.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1106510&amp;categories=Movies&amp;nm=1</url>
+         <critic>Ann Hornaday</critic>
+      </review>
+      <review>
+         <snippet>Immediately shoots to the top of the list of the year's worst movies.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2006/10/27/DDGBALVUFE1.DTL#flick</url>
+         <critic>Ruthe Stein</critic>
+      </review>
+      <review>
+         <snippet>It's trashy and disgusting - and those are the best parts. Mostly it's just an endless, pointless drone with characters like bacteria and dialogue like an untuned radio.</snippet>
+         <url>http://www.nypost.com/seven/10132006/entertainment/movies/its_a_total_washout_movies_kyle_smith.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>Dour, absurdist, gruesomely awful.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1545035_1_0_,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+   </reviews>
+   <US_Gross>$66,453</US_Gross>
+   <weekend_gross>$7,276</weekend_gross>
+   <number_of_screens>1</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

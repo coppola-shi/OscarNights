@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Slipstream</name>
+   <company>Strand Releasing</company>
+   <genres>
+      <genre>Comedy</genre>
+      <genre>Drama</genre>
+      <genre>Fantasy</genre>
+      <genre>Scifi</genre>
+   </genres>
+   <authors>
+      <author>Anthony Hopkins</author>
+   </authors>
+   <directors>
+      <director>Anthony Hopkins</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Anthony Hopkins</actor>
+      <actor>Christian Slater</actor>
+      <actor>Jeffrey Tambor</actor>
+      <actor>John Turturro</actor>
+      <actor>Camryn Manheim</actor>
+      <actor>Fionnula Flanagan</actor>
+      <actor>Michael Clarke Duncan</actor>
+   </actors>
+   <release_date>October 26, 2007</release_date>
+   <running_time>96</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>Now is Slipstream worth seeing? I think so, if you'll actively engage your sympathy with Hopkins' attempt to do something tricky and difficult. If you want to lie back and let the movie come to you, you may be lying there a long time.</snippet>
+         <url>http://www.rogerebert.com/apps/pbcs.dll/article?AID=/20071025/REVIEWS/710250307/1023</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>Slipstream is a properly bizarre journey.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=9610</url>
+         <critic>Jamie Tipps</critic>
+      </review>
+      <review>
+         <snippet>Amusing cinematic buffoonery by a man poking  fun at movie conventions and the movie business itself.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/imdb/reviews/article_display.jsp?rid=8662&amp;vnu_special_account_code=thrsiteimdbpro</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>Writer, director and star Anthony Hopkins releases his inner muse with Slipstream, and guess who shows up - David Lynch!</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2007/10/26/2007-10-26_anthony_hopkins_shows_his_surreal_side_i.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>Taking a cue from David Lynch, Hopkins fractures the narrative from the first frame, but unlike Lynch he doesn't go far enough in establishing a context from which to deviate. If the story fragments we're watching spring from the same mind, in other words, it's not obvious.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-slipstream26oct26,0,2796481.story?coll=cl-mreview</url>
+         <critic>Carina Chocano</critic>
+      </review>
+      <review>
+         <snippet>Apparently needing to release some private thoughts, musings and images to the world, Anthony Hopkins takes a leap into stunning self-indulgence with his directorial debut, Slipstream.</snippet>
+         <url>http://www.variety.com/index.asp?layout=features2007&amp;content=jump&amp;jump=review&amp;dept=berlin&amp;nav=RBerlin&amp;articleid=VE1117932506&amp;cs=1&amp;p=0</url>
+         <critic>Robert Koehler</critic>
+      </review>
+      <review>
+         <snippet>Hopkins claims it's a comedy, and perhaps John Turturro's live-action cartoon of a mogul producer suggests so, but what does it all mean? That art can be just as shallow as Hollywood?</snippet>
+         <url>http://www.villagevoice.com/film/0743,hillis,78124,20.html</url>
+         <critic>Aaron Hillis</critic>
+      </review>
+      <review>
+         <snippet>The film has moments of goofy delight, some pseudo-David Lynch spookery and a couple of comic supporting turns.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2007/10/25/btm/index2.html</url>
+         <critic>Andrew O&amp;#039;Hehir</critic>
+      </review>
+      <review>
+         <snippet>Bold, experimental, off-the-wall kicky and utterly exasperating.</snippet>
+         <url>http://chicago.metromix.com/movies/movie_review/movie-review-slipstream/238745/content</url>
+         <critic>Sid Smith</critic>
+      </review>
+      <review>
+         <snippet>If not exactly dull, Hopkins' stream-of-consciousness rant is nonetheless self-indulgent and crammed with bits of business that never add up to anything much.</snippet>
+         <url>http://www.tvguide.com/movies/slipstream/review/290702</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>Not so much ill conceived and misdirected as unconceived and undirected, this is folly on a grand scale.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/32308_SLIPSTREAM.html</url>
+         <critic>Jonathan Rosenbaum</critic>
+      </review>
+      <review>
+         <snippet>For an actor like Mr. Hopkins, disappearing into another character, especially a historical figure, must be a far more unsettling deconstruction of reality than for the casual moviegoer observing the transformation. That is a notion Slipstream might have explored more fruitfully, had it focused its wandering attention span, kept its camera steadier and figured out what it wanted to say.</snippet>
+         <url>http://movies.nytimes.com/2007/10/26/movies/26slip.html?ref=movies</url>
+         <critic>Stephen Holden</critic>
+      </review>
+      <review>
+         <snippet>The result is either one of the most self-indulgent vanity projects in the history of the Hollywood star system, or a rare revealing look at a distinguished actor who usually keeps his real self out of the spotlight.</snippet>
+         <url>http://www.avclub.com/content/cinema/slipstream</url>
+         <critic>Noel Murray</critic>
+      </review>
+      <review>
+         <snippet>At 96 minutes, this vanity/insanity project runs a bit long; five minutes would have been plenty.</snippet>
+         <url>http://www.nypost.com/seven/10262007/entertainment/movies/wont_wake_up.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+   </reviews>
+   <US_Gross>$6,273</US_Gross>
+   <weekend_gross>$6,273</weekend_gross>
+   <number_of_screens>6</number_of_screens>
+   <oscar_winning_actors_present/>
+   <num_oscar_winning_actors>1</num_oscar_winning_actors>
+   <oscar_winning_actor>anthony hopkins</oscar_winning_actor>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

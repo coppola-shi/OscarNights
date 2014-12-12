@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Strangers with Candy</name>
+   <company>ThinkFilm</company>
+   <genres>
+      <genre>Comedy</genre>
+   </genres>
+   <authors>
+      <author>Stephen Colbert</author>
+      <author>Paul Dinello</author>
+      <author>Amy Sedaris</author>
+      <author>Mitch Rouse</author>
+   </authors>
+   <directors>
+      <director>Paul Dinello</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Amy Sedaris</actor>
+      <actor>Stephen Colbert</actor>
+      <actor>Paul Dinello</actor>
+      <actor>Matthew Broderick</actor>
+      <actor>Sarah Jessica Parker</actor>
+      <actor>Philip Seymour Hoffman</actor>
+   </actors>
+   <release_date>June 28, 2006</release_date>
+   <running_time>97</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>Strangers With Candy -- a perfect title -- is filled with straight-faced loonies. It's a nutcake you actually want to eat.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-to.strangers04aug04,0,2163053.story?coll=bal-artslife-movies</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>Fans of the show will rejoice and a few newbies will become converts. In this heightened reality, there are no rules except to get the laugh. And they do, incessantly.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A388055</url>
+         <critic>Toddy Burton</critic>
+      </review>
+      <review>
+         <snippet>The aggressively over-the-top plot is sloppy and totally irrelevant. What counts are the jokes that fly so fast they're easy to miss.</snippet>
+         <url>http://ae.miami.com/entertainment/ui/miami/movie.html?id=640263&amp;reviewId=21103</url>
+         <critic>Connie Ogle</critic>
+      </review>
+      <review>
+         <snippet>A sometimes very funny movie made by very funny people.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/1151974522195780.xml&amp;coll=7</url>
+         <critic>Marc Mohan</critic>
+      </review>
+      <review>
+         <snippet>If you loved Amy Sedaris before in a golfer-lady wig and inbred chump's grin, you'll maybe love her again here, while wishing she had another TV-episode-size venue for her talents</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1206683_1_0_,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>Lives and dies on the strength of individual gags, most of which are clever, but none of which quite make up for the absence of a strong narrative drive. Sometimes being funny isn't enough.</snippet>
+         <url>http://www.avclub.com/content/node/49918</url>
+         <critic>Nathan Rabin</critic>
+      </review>
+      <review>
+         <snippet>This is one unmarked van you just might want to take a ride with.</snippet>
+         <url>http://www.premiere.com/article.asp?section_id=2&amp;article_id=2919</url>
+         <critic>Monica A. Reyhani</critic>
+      </review>
+      <review>
+         <snippet>Easily the wittiest, most ridiculous and best-written comedy of the year.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-060707-movies-review-candy,0,2352610.story?coll=mmx-movies_top_heds</url>
+         <critic>Jessica Reaves</critic>
+      </review>
+      <review>
+         <snippet>This camp farce has its moments of high hilarity, and Sedaris is a spark plug, but it's wildly uneven.</snippet>
+         <url>http://www.csmonitor.com/2006/0707/p14s01-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>Devotees of the series, admirers of Ms. Sedaris and fake-news junkies who can never get enough of Mr. Colbert will find reasons to see it and to convince themselves that it is funnier and more satisfying than it really is.
+Count me in.</snippet>
+         <url>http://movies2.nytimes.com/2006/06/28/movies/28cand.html</url>
+         <critic>Dana Stevens</critic>
+      </review>
+      <review>
+         <snippet>The "guest cast" includes Philip Seymour Hoffman, Allison Janney and Sarah Jessica Parker, but all are upstaged by Greg Hollimon's cheerfully corrupt Principal Blackman and Sedaris.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/276695_candy07q.html</url>
+         <critic>Sean Axmaker</critic>
+      </review>
+      <review>
+         <snippet>Fans of the cult TV comedy Strangers with Candy may be happy to catch any sighting of the silly escapades of Amy Sedaris' middle-aged ex-con junkie. But purists will prefer the Comedy Central episodes to this uneven film.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2006-06-29-strangers-review_x.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>When it comes right down to it, there are two kinds of people in this world: Those who despised Comedy Central's notorious series Strangers with Candy as the rudest, crudest and most offensive show ever to appear on television, and those who loved it for those very reasons.</snippet>
+         <url>http://online.tvguide.com/newsearch/detail.aspx?id=37542&amp;sourcetype=m&amp;progseriesparentid=0&amp;tvobjectid=0&amp;keyword=&amp;more=ucmoviereview</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>Still comic, but bigger isn't better.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=7654</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>When it comes to rude comedy, one person's caviar is another's smelly fish gunk. A case in point is Strangers With Candy.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/LAC.20060721.CANDY21/TPStory/TPEntertainment/Movies/</url>
+         <critic>Liam Lacey</critic>
+      </review>
+      <review>
+         <snippet>Offers more laughs than most comedies of recent vintage. But what was subversive on the tube feels muted at feature length.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1002729007</url>
+         <critic>Sheri Linden</critic>
+      </review>
+      <review>
+         <snippet>Of all ironies, "Strangers" occasionally takes a step in the direction of the after-school specials it's trying to twit; you'll catch it trying to make you feel warm and fuzzy about Jerri.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1109952&amp;lat=200.0&amp;lon=200.0&amp;displaySearchLocation=&amp;nm=1&amp;categories=Movies</url>
+         <critic>Desson Thomson</critic>
+      </review>
+      <review>
+         <snippet>A pic that will delight the previously converted, but, as film is just as hit-and-miss as the series was.</snippet>
+         <url>http://www.variety.com/review/VE1117926395?categoryid=31&amp;cs=1</url>
+         <critic>Dennis Harvey</critic>
+      </review>
+      <review>
+         <snippet>The film is never really more than a series of loosely connected riffs and set pieces. That'd be fine except much of it is slack and airless; the laughs are many but they're too spread out -- a far cry from the series' heyday of taut, rapid-fire lunacy. Still, it's worth catching the film just for Sedaris' performance.</snippet>
+         <url>http://www.laweekly.com/film+tv/film/strangers-with-candy/13946/</url>
+         <critic>Ernest Hardy</critic>
+      </review>
+      <review>
+         <snippet>The best thing about Strangers With Candy is its relentlessness. It doesn't back off on its absurd humor, doesn't try to make sense and doesn't soft-pedal the characters.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2006/07/07/DDGP1JQ0FG1.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>The jokes are so sketchy and silly it quickly passes the point of wretched excess.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/moviereviews/story/431315p-363361c.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>I liked this movie better when it was called "Rock'n'Roll High School" and starred the Ramones and Mary Woronov.</snippet>
+         <url>http://ae.philly.com/entertainment/ui/philly/movie.html?id=640263&amp;reviewId=21093</url>
+         <critic>Carrie Rickey</critic>
+      </review>
+      <review>
+         <snippet>A film that never quite manages to justify its existence.</snippet>
+         <url>http://www.calendarlive.com/tv/reviews/cl-et-strangers7jul07,0,5517783.story</url>
+         <critic>Mark Olsen</critic>
+      </review>
+      <review>
+         <snippet>Here, jokes are just as likely to end not in punch lines, but in uncomfortable silence, impenetrable irony or stomach flips.</snippet>
+         <url>http://www.dallasobserver.com/Issues/2006-07-13/film/film3.html</url>
+         <critic>Jim Ridley</critic>
+      </review>
+      <review>
+         <snippet>Chock-full of offensive stereotypes and puerile in-jokes.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=6853</url>
+         <critic>Daniel Wible</critic>
+      </review>
+      <review>
+         <snippet>Strangers With Candy regularly lampoons junkie-reparation melodramas and after-school specials, but with so little focus it's never clear what the film, or even Sedaris's vaudeville buffoon incarnation, is supposed to be parodying. That may be its fascination for some--it's a satire without a baseline, free-floating in its own self-indulgent ether.</snippet>
+         <url>http://www.villagevoice.com/film/0626,atkinson,73664,20.html</url>
+         <critic>Michael Atkinson</critic>
+      </review>
+      <review>
+         <snippet>Smirky, gum-in-your-hair humor dominates this dreadful 2005 feature.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/20345_STRANGERS_WITH_CANDY.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>The Amy Sedaris comedy based on the failed TV show isn't the least funny film of the year - but for that it should send a thank-you note to "United 93."</snippet>
+         <url>http://www.nypost.com/movies/this_candy_isnt_dandy_movies_kyle_smith.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+   </reviews>
+   <US_Gross>$2,072,645</US_Gross>
+   <production_budget>$2,000,000</production_budget>
+   <weekend_gross>$69,200</weekend_gross>
+   <number_of_screens>2</number_of_screens>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>true</independence_release>
+   <labor_release>false</labor_release>
+</movie>

@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Star Wars: The Clone Wars</name>
+   <company>Warner Bros. Pictures</company>
+   <genres>
+      <genre>Action</genre>
+      <genre>Adventure</genre>
+      <genre>Animation</genre>
+      <genre>Scifi</genre>
+   </genres>
+   <authors>
+      <author>George Lucas</author>
+      <author>Steven Melching</author>
+      <author>Scott Murphy</author>
+      <author>Henry Gilroy</author>
+   </authors>
+   <directors>
+      <director>Dave Filoni</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+      <origin>Singapore</origin>
+   </origins>
+   <actors>
+      <actor>Matt Lanter</actor>
+      <actor>Ian Abercrombie</actor>
+      <actor>Anthony Daniels</actor>
+      <actor>Samuel L. Jackson</actor>
+      <actor>Tom Kane</actor>
+      <actor>Matthew Wood</actor>
+      <actor>James Arnold Taylor</actor>
+      <actor>Christopher Lee</actor>
+   </actors>
+   <release_date>August 15, 2008</release_date>
+   <running_time>98</running_time>
+   <rating>PG</rating>
+   <reviews>
+      <review>
+         <snippet>It's not exactly thrilling, and it doesn't cover much new ground. But young audiences will lap it up like ice cream.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/reviews/bal-to.clone15aug15,0,160194.story</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>An enjoyable escapade and a great introduction to the forthcoming series - just not the seventh Star Wars film fans were hoping for.</snippet>
+         <url>http://www.empireonline.com/reviews/reviewcomplete.asp?FID=135488</url>
+         <critic>James Dyer</critic>
+      </review>
+      <review>
+         <snippet>With its simple-goal-driven plot, its wordy, cutscene-like interludes, and its stiffly modeled characters, it wouldn't even make for a particularly high-end videogame.</snippet>
+         <url>http://www.avclub.com/content/cinema/star_wars_the_clone_wars</url>
+         <critic>Tasha Robinson</critic>
+      </review>
+      <review>
+         <snippet>When George Lucas last pulled off an original idea for a feature film, Bill Clinton was still thought of by many voters as overweight and chaste.</snippet>
+         <url>http://www.charlotteobserver.com/312/story/127116.html</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>The best that can be said about the movie is that it's harmless and mostly charmless. The Clone Wars is to Star Wars what karaoke is to pop music.</snippet>
+         <url>http://www.philly.com/inquirer/columnists/carrie_rickey/20080815_Animation_adds_little_to__Clone_.html</url>
+         <critic>Carrie Rickey</critic>
+      </review>
+      <review>
+         <snippet>The largely uninspired Clone Wars feels landlocked. In the absence of any extensive innovation, the video game-ready results play more like a feature-length promo for the imminent TV series of the same name than a stand-alone event.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?JSESSIONID=G3t2LgNplJHvDHQCFJvBff3vZTXlhgfVZ125G1T71GFLmCL7TqHg!-2003048244&amp;&amp;rid=11497</url>
+         <critic>Michael Rechtshaffen</critic>
+      </review>
+      <review>
+         <snippet>This isn't the Star Wars we've always known and at least sometimes loved.</snippet>
+         <url>http://www.variety.com/review/VE1117937928.html?categoryid=31&amp;cs=1</url>
+         <critic>Todd McCarthy</critic>
+      </review>
+      <review>
+         <snippet>Looks fantastic, but the film suffers from the TV-to-feature transition.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2008/08/14/DD4412935Q.DTL&amp;type=movies</url>
+         <critic>Peter Hartlaub</critic>
+      </review>
+      <review>
+         <snippet>Gets more cluttered and confused as it moves along.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2008/08/15/clone_wars/</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>The Clone Wars is the last nail in a coffin that has been propped up ever since George Lucas sold his creative soul in the quest for a few more pieces of gold.</snippet>
+         <url>http://www.reelviews.net/php_review_template.php?identifier=1304</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>Once again, even reasonably committed fans will need a scorecard to keep track of who's fighting whom. What's the real target audience - i.e. kids - supposed to make of it all?</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=11603</url>
+         <critic>Tom Russo</critic>
+      </review>
+      <review>
+         <snippet>Lucas' films are like Cher's face. No matter how many times you rework the same material, it's never going to be new and fresh again. And so it is with his latest, Star Wars: The Clone Wars.</snippet>
+         <url>http://www.nypost.com/seven/08152008/entertainment/movies/more_like_clone_bores_124492.htm</url>
+         <critic>Linda Stasi</critic>
+      </review>
+      <review>
+         <snippet>Essentially an extended trailer for the 2008 Cartoon Network animated series.</snippet>
+         <url>http://movies.tvguide.com/star-wars-clone-wars/292483</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>As a mechanical thrill ride, The Clone Wars has an uncluttered look and furious pace that make it more or less as satisfying as its wildly overdesigned predecessors.</snippet>
+         <url>http://movies.nytimes.com/2008/08/15/movies/15clon.html?ref=movies#</url>
+         <critic>Nathan Lee</critic>
+      </review>
+      <review>
+         <snippet>It might be impressive as a made-for-DVD production, but coming from producer George Lucas, it makes for a cheap excuse for a big-screen spectacle.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/375013_starwars15q.html</url>
+         <critic>Sean Axmaker</critic>
+      </review>
+      <review>
+         <snippet>Unlike its predecessors, this one doesn't even try to aspire to myth. It aspires only to merchandising.</snippet>
+         <url>http://www.oregonlive.com/movies/index.ssf/2008/08/movie_review_the_farce_is_with.html</url>
+         <critic>M. E. Russell</critic>
+      </review>
+      <review>
+         <snippet>The Clone Wars is minor to the point of irrelevance, nothing more than a stylized direct-to-DVD shrug projected onto a big screen while Lucas launches two more TV series filling in prequel blanks better left empty.</snippet>
+         <url>http://www.laweekly.com/film+tv/film-reviews/movie-reviews-the-midnight-meat-train-mirrors-star-wars-the-clone-wars/19424/?page=2</url>
+         <critic>Robert Wilonsky</critic>
+      </review>
+      <review>
+         <snippet>Despite some absolutely gorgeous animation and adjusting expectations for what Clone Wars is meant to be, the Force is not strong with this one.</snippet>
+         <url>http://www.latimes.com/entertainment/news/reviews/la-et-starwars15-2008aug15,0,2374460.story</url>
+         <critic>Michael Ordona</critic>
+      </review>
+      <review>
+         <snippet>Don't expect the seventh Star Wars film here. Star Wars: The Clone Wars is more like a long Saturday morning cartoon.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2008-08-14-clone-wars_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>Basically just a 98-minute trailer for the autumn launch of a new series on the Cartoon Network.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20080814/REVIEWS/808140301</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>While the movie and the accompanying series are being pitched to a younger audience than most new Star Wars ventures, parents may be perturbed by the film's relentless violence.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20080815.wclone15/BNStory/Entertainment/home</url>
+         <critic>Jason Anderson</critic>
+      </review>
+      <review>
+         <snippet>The animated characters in "Clone Wars" are about as lively as the actors in the live-action movies, so I guess Lucas has achieved his goal of eliminating humans from his movies altogether.</snippet>
+         <url>http://www.csmonitor.com/2008/0816/p25s01-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>The whole thing feels like a continuation of Lucas' experiments to see how much sh-- his dwindling supporters will take before finally saying "enough" and moving on to adult pursuits.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=11144</url>
+         <critic>Pete Vonder Haar</critic>
+      </review>
+      <review>
+         <snippet>Clone Wars will appeal only to the most tolerant, galactically minded children and their parents.</snippet>
+         <url>http://online.wsj.com/article/SB121875607491642515.html?mod=2_1168_1</url>
+         <critic>Joanne Kaufman</critic>
+      </review>
+      <review>
+         <snippet>Unfolds with all the entertainment value of watching somebody else play a video game.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1147301&amp;categories=Movies</url>
+         <critic>Hank Stuever</critic>
+      </review>
+      <review>
+         <snippet>At what point might animators be arrested for doing work so ugly it causes aesthetic blindness in millions of younglings?</snippet>
+         <url>http://chicago.metromix.com/movies/movie_review/movie-review-star-wars/553252/content</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>Story is entirely insignificant in The Clone Wars.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A659878</url>
+         <critic>Josh Rosenblatt</critic>
+      </review>
+      <review>
+         <snippet>Without the grandiose narrative structure of the six live-action releases, this feels even more pointless, a mechanical attempt to milk the kids for every last dime.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/33414_STAR_WARS_THE_CLONE_WARS.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>The latest indignity.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2008/08/14/2008-08-14_clone_wars_waters_down_star_wars_empire.html</url>
+         <critic>Joe Neumaier</critic>
+      </review>
+      <review>
+         <snippet>George Lucas is turning into the enemy of fun.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20219195,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+   </reviews>
+   <US_Gross>$35,161,554</US_Gross>
+   <weekend_gross>$14,611,273</weekend_gross>
+   <number_of_screens>3,452</number_of_screens>
+   <highest_grossing_actors_present/>
+   <num_highest_grossing_actors>1</num_highest_grossing_actors>
+   <highest_grossing_actor>samuel l. jackson</highest_grossing_actor>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

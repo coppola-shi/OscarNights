@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>State of Mind, A</name>
+   <company>Kino International</company>
+   <genres>
+      <genre>Documentary</genre>
+      <genre>Foreign</genre>
+   </genres>
+   <authors>
+      <author/>
+   </authors>
+   <directors>
+      <director>Daniel Gordon</director>
+   </directors>
+   <origins>
+      <origin>NorthKoreaUK</origin>
+   </origins>
+   <actors>
+      <actor>Jong-il Kim</actor>
+   </actors>
+   <release_date>August 10, 2005</release_date>
+   <running_time>93</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>Has two especially memorable sequences: the eye-popping Mass Games and a visit by a group of schoolgirls to incredibly beautiful Mount Paekdu, which is revered by Koreans on both sides of the DMZ.</snippet>
+         <url>http://www.nypost.com/movies/51564.htm</url>
+         <critic>V.A. Musetto</critic>
+      </review>
+      <review>
+         <snippet>Despite the obvious cultural differences, what we come away with is a surprising sense of familiarity. Not even the widest political chasms, Gordon finds, can eradicate the universal pleasure of a young girl's giggle.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/moviereviews/story/336670p-287367c.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>It's a quietly wrenching eye-opener.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=8309</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>Subtly suggests it may not be all that much different from the delusions by which other cultures are structured.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/241837_limited23.html</url>
+         <critic>William Arnold</critic>
+      </review>
+      <review>
+         <snippet>Certainly should appeal to viewers with an interest in current affairs.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1001219943</url>
+         <critic>Richard James Havis</critic>
+      </review>
+      <review>
+         <snippet>The stadiums and performance halls of Pyongyang become staging grounds for massive, highly choreographed political pageants that make the Nuremberg rallies look like dinner theater. You’ve never seen anything quite like these dazzling displays of groupthink.</snippet>
+         <url>http://www.laweekly.com/film/film_results.php?showid=3532&amp;Sumbit.x=47&amp;Sumbit.y=12</url>
+         <critic>Paul Malcolm</critic>
+      </review>
+      <review>
+         <snippet>The result is a fresh, straightforward portrayal of what the film calls "the least visible ... least known ... least understood ... country in the world."</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-state2sep02,0,4193232.story</url>
+         <critic>Kevin Crust</critic>
+      </review>
+      <review>
+         <snippet>Most mystifying, however, is the bizarre hero-worship surrounding the fingure of Kim Jong Il, a nationwide personality cult that makes Joe Stalin and Chairman Mao look like D-list celebrities.</snippet>
+         <url>http://online.tvguide.com/movies/database/ShowMovie.asp?MI=46160</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>The girls' enormous appeal prevents the political subtext from overburdening the film.</snippet>
+         <url/>
+         <critic>Jim Fusilli</critic>
+      </review>
+      <review>
+         <snippet>Admirably non-judgmental docu about life in "the least visited, known, understood country in the world," per Brit director Daniel Gordon, brings a refreshing balance to the usual blind vilification of the country.</snippet>
+         <url>http://www.variety.com/review/VE1117925556?categoryid=31&amp;cs=1</url>
+         <critic>Derek Elley</critic>
+      </review>
+      <review>
+         <snippet>One leaves the film with the Twilight Zone sense that the place isn't quite the hellhole prior reports have suggested.</snippet>
+         <url>http://www.villagevoice.com/film/0532,tracking2,66685,20.html</url>
+         <critic>Ed Park</critic>
+      </review>
+      <review>
+         <snippet>Beautifully shot and crisply edited to emphasize the Mass Games' pageantry, but amid the synchronized blocks of performers, Gordon singles out the cranky coaches and giggling schoolgirls, subtly emphasizing how the individual endures even when she's trying hard not to.</snippet>
+         <url>http://avclub.com/content/node/25468</url>
+         <critic>Noel Murray</critic>
+      </review>
+      <review>
+         <snippet>A rare and often chilling glimpse into the culture of North Korea.</snippet>
+         <url>http://movies2.nytimes.com/2005/08/10/movies/10mind.html?</url>
+         <critic>Lawrence Van Gelder</critic>
+      </review>
+      <review>
+         <snippet>Although the documentary is ostensibly about these girls and their friendship, training and school life, a healthy chunk of it is a portrait of the two families.</snippet>
+         <url>http://sfgate.com/cgi-bin/article.cgi?f=/c/a/2005/08/26/DDGAKECLTL1.DTL#flick2</url>
+         <critic>G. Allen Johnson</critic>
+      </review>
+   </reviews>
+   <US_Gross>$41,468</US_Gross>
+   <weekend_gross>$8,230</weekend_gross>
+   <number_of_screens>1</number_of_screens>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

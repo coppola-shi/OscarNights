@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Hairspray</name>
+   <company>New Line Cinema</company>
+   <genres>
+      <genre>Comedy</genre>
+      <genre>Drama</genre>
+      <genre>Musical</genre>
+   </genres>
+   <authors>
+      <author>John Waters</author>
+      <author>Mark O&amp;#039;Donnell</author>
+      <author>Leslie Dixon</author>
+   </authors>
+   <directors>
+      <director>Adam Shankman</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Nikki Blonsky</actor>
+      <actor>John Travolta</actor>
+      <actor>Ama Bynes</actor>
+      <actor>Queen Latifah</actor>
+      <actor>Michelle Pfeiffer</actor>
+      <actor>Christopher Walken</actor>
+      <actor>Allison Janney</actor>
+      <actor>James Marsden</actor>
+   </actors>
+   <release_date>July 20, 2007</release_date>
+   <running_time>94</running_time>
+   <rating>PG</rating>
+   <reviews>
+      <review>
+         <snippet>The best and most entertaining movie adaptation of a stage musical so far this century - and yes, I’m including the Oscar-winning "Chicago."</snippet>
+         <url>http://www.nypost.com/seven/07172007/entertainment/movies/tons_of_fun_movies_lou_lumenick.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>A feel-good musical that, for a change, actually makes you feel good.</snippet>
+         <url>http://www.csmonitor.com/2007/0720/p13s03-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>In its entirety, Hairspray has the funny tilt that only a director-choreographer like Shankman can give to a movie.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/reviews/bal-to.hairspray20jul20,0,5157094.story</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>With its wisecracking screenplay, period-perfect pop score, and Shankman's splashy choreography, this may be the funniest, dancingest screen musical since "Singin' in the Rain."</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/critic.html#31840</url>
+         <critic>Albert Williams</critic>
+      </review>
+      <review>
+         <snippet>A great big sloppy kiss of entertainment for audiences weary of explosions, CGI effects and sequels, sequels, sequels.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2007/07/20/2007-07-20_hair_do.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>Movie magic.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2007/07/20/DDGKOR2NJK1.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>Broad and funny, its sensibility is very campy and it's out to be loved by everyone.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/324315_hairspray20q.html</url>
+         <critic>William Arnold</critic>
+      </review>
+      <review>
+         <snippet>A fizzy and delirious high-camp message-movie musical that may just turn out to be the happiest movie of the summer.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20046825,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>So good at what it does that it can exhaust you: In the later going, one big number follows on the heels of another so quickly that it feels more like an opera than a regular musical.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/1184799358163010.xml&amp;coll=7</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>The film's an irresistible time capsule of that Camelot summer, blending girrrrrl power, social consciousness and faux-'60s pop with the fizz of a soda jerk whipping up a root beer float.</snippet>
+         <url>http://ae.charlotte.com/entertainment/ui/charlotte/movie.html;jsessionid=4FE79517304ECE0CAEEEAF34C54AEF92.prodapp14_ae_02?id=910261&amp;reviewId=22578&amp;startDate=07%2F19%2F2007</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>Just plain fun. Or maybe not so plain. There's a lot of craft and slyness lurking beneath the circa-1960s goofiness.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/section?category=RT</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>If you look fast, you'll see Waters himself in a cameo (as a flasher; what else?), proof the new film is in touch with its dyed roots.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=9138</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>It's hard to resist the film's exuberance.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/10311261/review/15524424/hairspray</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>A rocking, rollicking crowd-pleaser.</snippet>
+         <url>http://www.philly.com/inquirer/columnists/carrie_rickey/20070720_Hairspray_is_one_happy_romp.html</url>
+         <critic>Carrie Rickey</critic>
+      </review>
+      <review>
+         <snippet>What it offers isn't really a nostalgic look at a "more innocent time" so much as a saucy wink at a casually vicious time that is constantly being sold to us as innocent.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-hairspray20jul20,0,6907960.story?coll=cl-mreview</url>
+         <critic>Carina Chocano</critic>
+      </review>
+      <review>
+         <snippet>The overall mood of Hairspray is so joyful, so full of unforced enthusiasm, that only the most ferocious cynic could resist it.</snippet>
+         <url>http://movies2.nytimes.com/2007/07/19/movies/19hair.html?ref=movies</url>
+         <critic>A.O. Scott</critic>
+      </review>
+      <review>
+         <snippet>It's one of the best Broadway-tuner adaptations in recent years -- yes, arguably even better than those Oscar-winning ones.</snippet>
+         <url>http://www.variety.com/review/VE1117934040.html?categoryid=31&amp;cs=1</url>
+         <critic>Dennis Harvey</critic>
+      </review>
+      <review>
+         <snippet>Offering plenty of body and a lot of lift, Hairspray gels kitsch styling with show-stopping tunes to mould a memorable musical.</snippet>
+         <url>http://www.empireonline.com/reviews/review.asp?FID=133256</url>
+         <critic>Will Lawrence</critic>
+      </review>
+      <review>
+         <snippet>Shankman and his screenwriter, Leslie Dixon, prove you can make a lightweight Broadway musical into big movie fun.</snippet>
+         <url>http://www.msnbc.msn.com/id/19762053/site/newsweek/</url>
+         <critic>David Ansen</critic>
+      </review>
+      <review>
+         <snippet>If ever there were a happy summer movie, it’s Hairspray. But for all its bubbly musical numbers and effervescent good humor, this film adaptation of the hit Broadway musical feels oddly lacquered -- it’s John Waters by way of Disney.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A503736</url>
+         <critic>Steve Davis</critic>
+      </review>
+      <review>
+         <snippet>Less polished but more fun than "Dreamgirls." Both are drag revues at heart, one funny, the other serious. I prefer the funny one.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-070720-movies-review-hairspray,0,974219.story?coll=mmx-movies_top_heds</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>The film isn't deep or thematically rich or filled with amazing characters. Instead, it's an excursion into song and dance, and works admirably on that level.</snippet>
+         <url>http://www.reelviews.net/movies/h/hairspray.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>This Hairspray really is a lot of fun -- colorful, sassy, and brisk.</snippet>
+         <url>http://www.premiere.com/moviereviews/3940/hairspray.html</url>
+         <critic>Glenn Kenny</critic>
+      </review>
+      <review>
+         <snippet>John Travolta may stand out as a plus-size laundress who is hesitant, drab and retiring, but Hairspray is a consistently flashy, rousing and rambunctious movie spectacle.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2007-07-19-hairspray_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>Delivers an even bigger sugar rush than the hit Broadway musical.</snippet>
+         <url>http://www.miamiherald.com/213/story/175222.html</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>Though the film is too slick and heavy-handed in its pro-integration sloganeering, and it's burdened by Travolta's ill-conceived star turn, its infectious high spirits and catchy tunes still pack one hell of a sugar rush.</snippet>
+         <url>http://www.avclub.com/content/cinema/hairspray</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>For all the flash and flutter, the movie overall lacks, well, HEFT.</snippet>
+         <url>http://www.tvguide.com/movies/hairspray/review/288977</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>Hairspray isn’t all that bad, frankly. The songs are catchy, most of the leads are engaging enough (Blonksy and Bynes especially), and there’s just enough low-key subversiveness to keep everything from getting too saccharine.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=10176</url>
+         <critic>Pete Vonder Haar</critic>
+      </review>
+      <review>
+         <snippet>Travolta, looking believably pretty and sweet under layers of fondant Latex, is a wholly different incarnation of Edna. And he's not bad. But that right there is the problem with Hairspray: It's all so "not bad" that it isn't nearly enough, even when Shankman and his cast work hard to send it soaring over the top.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2007/07/20/hairspray/index.html</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>In the musical numbers, where by rights Mr. Travolta should shine, he's almost out-danced and certainly out-charmed by Edna's better half, Wilbur (Christopher Walken), who is one of the movie's great assets, an oasis of calm amid the twisting and shouting.</snippet>
+         <url>http://online.wsj.com/article/SB118488195168472170.html</url>
+         <critic>Joanne Kaufman</critic>
+      </review>
+      <review>
+         <snippet>Adam Shankman's movie of the Broadway Hairspray gets better as it lumbers along, but there’s something garish about its hustle--it’s like an elephant trumpeting in your face.</snippet>
+         <url>http://nymag.com/movies/reviews/34734/</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>The movie version of the hit Broadway musical Hairspray is perfectly pleasant--I smiled to myself all the way through it--but it’s not as exhilarating as the show.</snippet>
+         <url>http://www.newyorker.com/arts/critics/cinema/2007/07/23/070723crci_cinema_denby</url>
+         <critic>David Denby</critic>
+      </review>
+      <review>
+         <snippet>When Hairspray is twisting and shouting and swiveling its hips, you can even dare to believe a great society is waiting in the wings.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1116937&amp;categories=Movies&amp;nm=1</url>
+         <critic>Peter Marks</critic>
+      </review>
+      <review>
+         <snippet>This movie-turned-stage-show-turned-movie-again is intermittently tasty, if a little too frantically eager to please.</snippet>
+         <url>http://www.slate.com/id/2170730/fr/flyout</url>
+         <critic>Dana Stevens</critic>
+      </review>
+      <review>
+         <snippet>John Travolta takes on John Waters in Hairspray, and the result is anything but a drag in this appealingly goofy, all-singing, all-dancing screen adaptation of the Broadway musical based on the 1988 film.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?&amp;rid=9451</url>
+         <critic>Michael Rechtshaffen</critic>
+      </review>
+      <review>
+         <snippet>What completely undermines that appearance is Shankman's chronic inability to shoot the damn scene. His camerawork is so stiff it should be interred in a pine box.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20070719.whairsprayreview0720/BNStory/Entertainment/home</url>
+         <critic>Rick Groen</critic>
+      </review>
+      <review>
+         <snippet>The movie is visually flat: not pasty and garish in the Waters signature style, but merely serviceable and competent in the worst tradition of Hollywood "professionalism."</snippet>
+         <url>http://www.villagevoice.com/film/0729,foundas,77243,20.html</url>
+         <critic>Scott Foundas</critic>
+      </review>
+   </reviews>
+   <US_Gross>$118,823,091</US_Gross>
+   <production_budget>$75,000,000</production_budget>
+   <weekend_gross>$27,476,745</weekend_gross>
+   <number_of_screens>3,121</number_of_screens>
+   <highest_grossing_actors_present/>
+   <num_highest_grossing_actors>2</num_highest_grossing_actors>
+   <highest_grossing_actor>christopher walken</highest_grossing_actor>
+   <highest_grossing_actor>john travolta</highest_grossing_actor>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

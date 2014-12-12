@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Woman Is the Future of Man</name>
+   <company>New Yorker Films</company>
+   <genres>
+      <genre>Drama</genre>
+      <genre>Foreign</genre>
+   </genres>
+   <authors>
+      <author>Sang-soo Hong</author>
+   </authors>
+   <directors>
+      <director>Sang-soo Hong</director>
+   </directors>
+   <origins>
+      <origin>SouthKoreaFrance</origin>
+   </origins>
+   <actors>
+      <actor>Ji-tae Yu</actor>
+      <actor>Tae-woo Kim</actor>
+      <actor>Hyeon-a Seong</actor>
+      <actor>Ho-jung Kim</actor>
+      <actor>Ji-seon Lee</actor>
+      <actor>Dal-su Oh</actor>
+   </actors>
+   <release_date>March 3, 2006</release_date>
+   <running_time>87</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>Mr. Hong is not yet the equal of Mr. Antonioni, but it has become increasingly difficult to see intellectually stimulating, aesthetically bold films like this in American theaters.</snippet>
+         <url>http://movies2.nytimes.com/2006/03/03/movies/03Woma.html</url>
+         <critic>Manohla Dargis</critic>
+      </review>
+      <review>
+         <snippet>Viewers not accustomed to Hong's style of leisurely paced filmmaking - long, static takes with lots of talking - might be tempted to leave early. If they stick around, however, they might find themselves becoming fans of the cerebral South Korean auteur.</snippet>
+         <url>http://www.nypost.com/movies/64544.htm</url>
+         <critic>V.A. Musetto</critic>
+      </review>
+      <review>
+         <snippet>Behind the dry humor is a sense of hollowness in the two men who obliviously fall back into old patterns of reckless, loveless sex without missing a beat.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/269080_limited05.html</url>
+         <critic>Sean Axmaker</critic>
+      </review>
+      <review>
+         <snippet>Taken as a film about muddling along, "Woman" never bores the viewer with indecisive filmmaking. Basically, it's an elegant jeu, played and constructed with an almost Gallic lightness heightened by Jeong Yong-jin's bursts of music, all bouncy piano and pizzicato.</snippet>
+         <url>http://www.variety.com/index.asp?layout=cannes2004&amp;content=review&amp;reviewid=VE1117923748&amp;categoryid=1724&amp;cs=</url>
+         <critic>Derek Elley</critic>
+      </review>
+      <review>
+         <snippet>We're accustomed to an omniscient understanding of what movie characters, particularly in dramas about love and loss, are thinking, but Hong distributes information with a saline drip. Often, of course, his two lonely fools don't quite know what they're thinking, either--Woman can sometimes come off like an introverted "Carnal Knowledge" with two Jack Nicholsons.</snippet>
+         <url>http://www.villagevoice.com/film/0609,atkinson,72349,20.html</url>
+         <critic>Michael Atkinson</critic>
+      </review>
+      <review>
+         <snippet>Woman Is the Future of Man is doomed to infuriate, and its scrutiny of disconnected beings, filmed in long, hold-your-breath takes, might feel like old hat to anyone reared on Antonioni, yet Hong has a grace and stealth of his own, and his scenes tend to tilt in directions that few of us would dare to predict.</snippet>
+         <url>http://www.newyorker.com/critics/cinema/?060313crci_cinema</url>
+         <critic>Anthony Lane</critic>
+      </review>
+      <review>
+         <snippet>The danger in Hong's procedure is obvious. Dramatists learned long ago that it is risky to include a static character because he may so easily bore the audience.</snippet>
+         <url>http://www.tnr.com/doc.mhtml?i=20060403&amp;s=kauffmann040306</url>
+         <critic>Stanley Kauffmann</critic>
+      </review>
+      <review>
+         <snippet>A romantic and philosophical muddle.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1000512827</url>
+         <critic>Duane Byrge</critic>
+      </review>
+   </reviews>
+   <US_Gross>$11,807</US_Gross>
+   <weekend_gross>$4,763</weekend_gross>
+   <number_of_screens>1</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

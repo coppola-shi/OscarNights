@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Boarding Gate</name>
+   <company>Magnet Films</company>
+   <genres>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>Olivier Assayas</author>
+   </authors>
+   <directors>
+      <director>Olivier Assayas</director>
+   </directors>
+   <origins>
+      <origin>France</origin>
+   </origins>
+   <actors>
+      <actor>Asia Argento</actor>
+      <actor>Michael Madsen</actor>
+      <actor>Carl Loong Ng</actor>
+      <actor>Kelly Lin</actor>
+   </actors>
+   <release_date>March 21, 2008</release_date>
+   <running_time>minutes,</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>This is very much a French intellectual cineaste's idea of a B thriller, and hence is as far from innocent in its genre as you can get. Which is not to say that Assayas deals in bad faith.</snippet>
+         <url>http://www.premiere.com/moviereviews/4463/boarding-gate.html</url>
+         <critic>Glenn Kenny</critic>
+      </review>
+      <review>
+         <snippet>Even in Boarding Gate, a modestly scaled, self-consciously tawdry exercise in genre appropriation, Mr. Assayas manages to say more about what it is to be human -- to desire, to fear, to be alone -- than most filmmakers say in a lifetime.</snippet>
+         <url>http://movies.nytimes.com/2008/03/21/movies/21gate.html?ref=movies</url>
+         <critic>Manohla Dargis</critic>
+      </review>
+      <review>
+         <snippet>Argento always gives us something to watch, and maybe even something to fear. I've never seen her in a movie where I haven't been at least a little bit scared of her.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2008/03/21/boarding_gate/</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>The plot may be murky, but actress Asia Argento is a clear and commanding force throughout.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-gate28mar28,0,3429733.story</url>
+         <critic>Kevin Thomas</critic>
+      </review>
+      <review>
+         <snippet>Boarding Gate's surfaces are often so staggeringly beautiful that its superficiality becomes forgivable, with the pleasant distractions of Assayas' multi-layered frames, Argento's sinewy allure, and snippets of Brian Eno ambience on the soundtrack. Why can't all movies this inane be this accomplished?</snippet>
+         <url>http://www.avclub.com/content/cinema/boarding_gate</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>Seriously flawed and not for every taste, the film was shot quickly and on the cheap, and is driven by Argento's slurred, scratchy voice and Bette Davis eyes.</snippet>
+         <url>http://www.tvguide.com/movies/boarding-gate/review/292995</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>The oddball cast, by the way, includes Sonic Youth's Kim Gordon, who is infinitely more convincing speaking Cantonese than she is in her (presumably native) English.</snippet>
+         <url>http://www.oregonlive.com/movies/index.ssf/2008/04/review_boarding_gate_a_portal.html</url>
+         <critic>Marc Mohan</critic>
+      </review>
+      <review>
+         <snippet>Call it a victory of conviction over substance, but when Argento is onscreen, you look at her - not because she's good, but because she's there in a way nobody else is.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2008/04/11/DD0H101UIG.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>There's basically only one reason to see Olivier Assayas's self-consciously hypermodern, meta-sleazy, English-French-Chinese-language globo-thriller Boarding Gate, and her name is Asia Argento.</snippet>
+         <url>http://www.villagevoice.com/film/0812,the-one-reason-to-see-boarding-gate,381165,20.html</url>
+         <critic>J. Hoberman</critic>
+      </review>
+      <review>
+         <snippet>This one is just murk.</snippet>
+         <url>Chiara Mastroianni charms here just as her maman, Catherine Deneuve, did in Demy&amp;#039;s 1964 classic.</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>Boarding Gate was evidently made quickly and cheaply, and parts of it are fun. It’s too bad there’s no real viewer equivalent--that you can’t WATCH a film quickly and cheaply.</snippet>
+         <url>http://nymag.com/movies/reviews/45099/index1.html</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>It’s time for this talented man (Assayas) to pull himself together. He may have something serious to say about the brutal impersonality of global capitalism, yet he’s caught somewhere between insight and exploitation.</snippet>
+         <url>http://www.newyorker.com/arts/critics/cinema/2008/03/24/080324crci_cinema_denby</url>
+         <critic>David Denby</critic>
+      </review>
+      <review>
+         <snippet>A ridiculous poseur thriller that seems to be made up of the slow moments from Hong Kong action films and Euro-flashy stuff like "Run Lola Run."</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2008/03/21/2008-03-21_not_the_time_to_see_asia_agento_in_board.html</url>
+         <critic>Joe Neumaier</critic>
+      </review>
+      <review>
+         <snippet>Draggy and incoherent.</snippet>
+         <url>http://www.nypost.com/seven/03212008/entertainment/movies/boarding_gate_102807.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>Thrills and drama are left standing on the tarmac in Boarding Gate a limp, sleazy inanity by renowned French critic cum erratic helmer Olivier Assayas.</snippet>
+         <url>http://www.variety.com/index.asp?layout=festivals&amp;jump=review&amp;reviewid=VE1117933680&amp;cs=1&amp;p=0</url>
+         <critic>Russell Edwards</critic>
+      </review>
+   </reviews>
+   <US_Gross>$50,440</US_Gross>
+   <weekend_gross>$11,440</weekend_gross>
+   <number_of_screens>1</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

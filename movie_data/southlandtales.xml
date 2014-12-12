@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Southland Tales</name>
+   <company>Samuel Goldwyn Films</company>
+   <genres>
+      <genre>Comedy</genre>
+      <genre>Drama</genre>
+      <genre>Scifi</genre>
+   </genres>
+   <authors>
+      <author>Richard Kelly</author>
+   </authors>
+   <directors>
+      <director>Richard Kelly</director>
+   </directors>
+   <origins>
+      <origin>GermanyUSA</origin>
+   </origins>
+   <actors>
+      <actor>Dwayne &amp;#034;The Rock&amp;#034; Johnson</actor>
+      <actor>Seann William Scott</actor>
+      <actor>Sarah Michelle Gellar</actor>
+      <actor>My Moore</actor>
+      <actor>Justin Timberlake</actor>
+      <actor>Bai Ling</actor>
+      <actor>Cheri Oteri</actor>
+      <actor>Mira Richardson</actor>
+   </actors>
+   <release_date>November 14, 2007</release_date>
+   <running_time>144</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>Funny, audacious, messy and feverishly inspired look at America and its discontents.</snippet>
+         <url>http://movies.nytimes.com/2007/11/14/movies/14sout.html?ref=movies</url>
+         <critic>Manohla Dargis</critic>
+      </review>
+      <review>
+         <snippet>Delivers equal parts overwrought tedium and mind-bending beauty, spiked with brilliant throwaway images that more than make up for Kelly's heavy-handed hot-button pretensions.</snippet>
+         <url>http://www.tvguide.com/movies/southland-tales/review/290785</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>If it arrives in final form as (still) a total mess, it's such a passionate and ambitious mess -- overcrowded with extraordinary images, incomprehensible ideas, literary and pop-cultural references and colliding subplots -- that it transcends its adolescent awkwardness and approaches being magnificent.</snippet>
+         <url>http://www.salon.com/ent/movies/review/btm/2007/11/15/southland/</url>
+         <critic>Andrew O&amp;#039;Hehir</critic>
+      </review>
+      <review>
+         <snippet>In its willful, self-involved eccentricity, Southland Tales is really something else. Kelly's movie may not be entirely coherent, but that's because there's so much it wants to say.</snippet>
+         <url>http://www.villagevoice.com/film/0745,hoberman,78254,20.html</url>
+         <critic>J. Hoberman</critic>
+      </review>
+      <review>
+         <snippet>Southland Tales has a mood unlike anything I've seen: dread that morphs into kitsch and then back again. It's a film that tried my patience, and one I couldn't shake off.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20158938,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>To be clear: The odds are in favor of you hating it. I hated a lot of it when I saw a barely dry work-in-progress print, 163 minutes long, at the Cannes Film Festival. It’s 19 minutes shorter and better now, though “better” is relative when you’re dealing with a whatzahoozy such as this.</snippet>
+         <url>http://chicago.metromix.com/movies/movie_review/movie-review-southland-tales/251918/content</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>Richard Kelly's Southland Tales isn't just a movie. It's an apocalyptic piñata that's been bazooka-ed open.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=10750</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>A bold and sometimes garbled take on modern American politics, this nevertheless marks an effective and surprisingly funny comeback for a film that many deemed to be DOA.</snippet>
+         <url>http://www.empireonline.com/reviews/reviewcomplete.asp?FID=11072</url>
+         <critic>Damon Wise</critic>
+      </review>
+      <review>
+         <snippet>Southland Tales pilfers large chunks of its plot and visual style from Alex Cox’s "Repo Man," Kathryn Bigelow’s "Strange Days" and Shane Carruth’s Sundance-winning "Primer," and unlike the makers of those films, Kelly hasn’t digested his influences and made them his own -- he’s more like the slacker college kid who’s just enough of an intellectual poseur to bluff his way to an A. That said, Southland Tales isn’t entirely without its pleasures, chiefly The Rock.</snippet>
+         <url/>
+         <critic>Scott Foundas</critic>
+      </review>
+      <review>
+         <snippet>You get the sense that Kelly is too angry to really find any of it funny. It's easy to empathize with his position, not so easy to remain engrossed in a film that's occasionally inspired but ultimately manic and scattered.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-southland14nov14,0,5850195.story?coll=cl-mreview</url>
+         <critic>Carina Chocano</critic>
+      </review>
+      <review>
+         <snippet>It's an ambitious film, but that doesn't mean it's good.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/339838_southland16q.html</url>
+         <critic>Andy Spletzer</critic>
+      </review>
+      <review>
+         <snippet>An ambitious hodgepodge that is all bang and bluster.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2007-11-15-southland-review_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>Love it or laugh at it, you will gaze on Southland Tales with awe.</snippet>
+         <url>http://nymag.com/movies/reviews/40643/index1.html</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>Dizzyingly incoherent and subversively surreal, this sophomore effort from the man who made the great, strange "Donnie Darko" is certain to have its fans. I'm not going to be one of them.</snippet>
+         <url>http://www.philly.com/philly/entertainment/movies/20071116_Southland_Tales___.html</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>The further Kelly bends his funhouse mirror, the more he loses sight of what it was supposed to reflect. By the end, the image has twisted beyond coherence.</snippet>
+         <url>http://www.avclub.com/content/cinema/southland_tales</url>
+         <critic>Keith Phipps</critic>
+      </review>
+      <review>
+         <snippet>The film is just too much exposition, too long, too convoluted, too many characters and ultimately a huge disappointment.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=10391</url>
+         <critic>Mark Bell</critic>
+      </review>
+      <review>
+         <snippet>There's a lot of "stuff" here, and Kelly's biggest problem -- he's got more than a few -- is that he can't tell his good material from his bad.</snippet>
+         <url>http://www.premiere.com/moviereviews/4242/southland-tales.html</url>
+         <critic>Glenn Kenny</critic>
+      </review>
+      <review>
+         <snippet>Southland Tales does have enough energy and audacity to suggest significant potential. But was it ready for public consumption? The answer is no. It's as simple as that.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2007/11/14/2007-11-14_southland_tales_is_richard_kellys_epic_f.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>You can't be both political and incoherent, and even though Kelly's models are "Kiss Me Deadly" and "Blade Runner," this vision of the near-future suggests a random blend of "Dr. No" and "Faster, Pussycat! Kill! Kill!"</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/32427_SOUTHLAND_TALES.html</url>
+         <critic>Jonathan Rosenbaum</critic>
+      </review>
+      <review>
+         <snippet>The English term "shambolic" best describes a slow-paced, bloated and self-indulgent picture that combines science fiction, sophomoric humor and grisly violence soaked in a music-video sensibility.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/imdb/reviews/article_display.jsp?rid=1002539899&amp;vnu_special_account_code=thrsiteimdbpro</url>
+         <critic>Ray Bennett</critic>
+      </review>
+      <review>
+         <snippet>Rarely has a picture been so self-consciously designed to be a culturally meaningful touchstone, and fallen so woefully short, as Southland Tales.</snippet>
+         <url>http://www.variety.com/index.asp?layout=features2006&amp;content=jump&amp;jump=review&amp;dept=cannes&amp;nav=RCannes&amp;articleid=VE1117930583&amp;cs=1&amp;p=0</url>
+         <critic>Todd McCarthy</critic>
+      </review>
+      <review>
+         <snippet>May be ambitious in its genre-defying abandon, sideswiping science fiction, satire, film noir and melodrama along the way, but it's also exasperatingly convoluted, self-amused and politically sophomoric.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1106124&amp;categories=Movies&amp;nm=1</url>
+         <critic>Desson Thomson</critic>
+      </review>
+      <review>
+         <snippet>I recommend that Kelly keep right on cutting until he whittles it down to a ukulele pick.</snippet>
+         <url>http://www.rogerebert.com/apps/pbcs.dll/article?AID=/20071115/REVIEWS/711150304/1023</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>A mess, and that's really a shame.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2007/11/16/DDSVT9JK3.DTL&amp;type=movies</url>
+         <critic>Ruthe Stein</critic>
+      </review>
+      <review>
+         <snippet>It appears that Kelly spent the intervening years (since "Donnie Darko") taking hallucinogenic drugs, reading Philip K. Dick novels upside down, and – most disastrously – believing his own hype.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A560399</url>
+         <critic>Josh Rosenblatt</critic>
+      </review>
+      <review>
+         <snippet>If a more incoherent and self-indulgent movie has been released so far this century, I'm not aware of it.</snippet>
+         <url>http://www.nypost.com/seven/11142007/entertainment/movies/lets_not_do_the_time_warp_203080.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+   </reviews>
+   <US_Gross>$275,380</US_Gross>
+   <production_budget>$17,000,000</production_budget>
+   <weekend_gross>$140,773</weekend_gross>
+   <number_of_screens>63</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

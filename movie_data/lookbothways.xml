@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Look Both Ways</name>
+   <company>Kino International</company>
+   <genres>
+      <genre>Drama</genre>
+      <genre>Foreign</genre>
+   </genres>
+   <authors>
+      <author>Sarah Watt</author>
+   </authors>
+   <directors>
+      <director>Sarah Watt</director>
+   </directors>
+   <origins>
+      <origin>Australia</origin>
+   </origins>
+   <actors>
+      <actor>Justine Clarke</actor>
+      <actor>William McInnes</actor>
+      <actor>Anthony Hayes</actor>
+      <actor>Lisa Flanagan</actor>
+      <actor>Andrew S. Gilbert</actor>
+      <actor>Daniella Farinacci</actor>
+      <actor>Maggie Dence</actor>
+      <actor>Edwin Hodgeman</actor>
+   </actors>
+   <release_date>April 14, 2006</release_date>
+   <running_time>100</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>It is poetic and unforgiving, romantic and stark. Death is the subject we edge around.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20060427/REVIEWS/60421005/1001</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>Ineffably Australian and intriguingly (rather than annoyingly) artsy, Look Both Ways introduces a handful of people gobsmacked by life-changing crises, all of them trying to make sense of responsibility, mortality, and connection.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1182918_1_0_,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>If Look Both Ways has a familiar form, this sort of emphasis on humanity, with which the film refreshingly pulses, is rare.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/1152143738120450.xml&amp;coll=7</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>The best Australian film to hit local screens in more than a year. Although lacking any internationally renowned actors to win more than limited release, the film's energy and stylistic daring mark it as a true original.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1000988720</url>
+         <critic>Erin Free</critic>
+      </review>
+      <review>
+         <snippet>A fearless movie about a fearful subject, an unusually empathetic and quite funny film that deals with death and dying in the most offbeat and casually life-affirming way. Exceptionally smart, playful and perceptive, Look Both Ways confronts things that people would rather avoid.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-look28apr28,0,405898.story</url>
+         <critic>Kenneth Turan</critic>
+      </review>
+      <review>
+         <snippet>Though Watt's emphasis on coincidence and fate seems strained at times, Look Both Ways is rich in dreamy summer atmosphere and deadpan wit.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1119631&amp;lat=200.0&amp;lon=200.0&amp;displaySearchLocation=&amp;nm=1&amp;categories=Movies</url>
+         <critic>Ann Hornaday</critic>
+      </review>
+      <review>
+         <snippet>It's a tricky tonal dance that Watt, minor missteps aside, glides through with feeling.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/274119_limited16.html</url>
+         <critic>Sean Axmaker</critic>
+      </review>
+      <review>
+         <snippet>There's something optimistic in the filmmaker's clear-eyed, straightforward storytelling style.</snippet>
+         <url>http://ae.philly.com/entertainment/ui/philly/movie.html?id=597806&amp;reviewId=20733</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>The morbid theme notwithstanding, this is by no means a downbeat film, and it ends with the rather hopeful thought that for every disaster there's also a chance for survival.</snippet>
+         <url>http://online.tvguide.com/movies/database/Movie-Review.asp?MI=46850</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>Watt's direction is stylish, and her choices feel sure-handed.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-060428-movies-review-ways,0,5715632.story?coll=mmx-movies_top_heds</url>
+         <critic>Jessica Reaves</critic>
+      </review>
+      <review>
+         <snippet>An imaginative, humorous and truthful contemplation of human reaction to the inexplicable.</snippet>
+         <url>http://www.variety.com/ac2006_review/VE1117926291?nav=reviews&amp;categoryid=1986&amp;cs=</url>
+         <critic>Richard Kuipers</critic>
+      </review>
+      <review>
+         <snippet>An unassuming, unadventurous, but likable dramedy about dying and grief.</snippet>
+         <url>http://www.villagevoice.com/film/0615,atkinson,72827,20.html</url>
+         <critic>Michael Atkinson</critic>
+      </review>
+      <review>
+         <snippet>The best parts of the movie are its occasional animated sequences.</snippet>
+         <url>http://www.csmonitor.com/2006/0414/p14s03-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>Best of all is newcomer Justine Clarke playing a dour illustrator. Clarke's fascinating features register emotions at war, but always governed by a sense of self-deprecating humor.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/moviereviews/story/408852p-345871c.html</url>
+         <critic>Jami Bernard</critic>
+      </review>
+      <review>
+         <snippet>The debut live-action feature of Australian animator Sarah Watt has several other things to recommend it as well, including a black-humored screenplay, realistic performances, eye-catching artwork, and a few creative turns on some well-worn themes.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=8802</url>
+         <critic>Janice Page</critic>
+      </review>
+      <review>
+         <snippet>A dreamy but tough ensemble indie that delivers its existential angst with a straight-up Aussie drawl.</snippet>
+         <url>http://www.empireonline.com/reviews/review.asp?FID=134421</url>
+         <critic>Simon Crook</critic>
+      </review>
+      <review>
+         <snippet>Watt's script is a bit overstuffed, and by the end the roiling animated sequences (drawn by Emma Kelly and inked by Watt and Clare Callinan) are wearing out their welcome. But the convincing characters and hearty examination of mortality make this fresh and oddly uplifting.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/capsules/28753_LOOK_BOTH_WAYS</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>Even when it spreads itself too thin, Look Both Ways enlarges your perception of the here-and-now--and what movies can do to transcend it.</snippet>
+         <url>http://newyorkmetro.com/movies/reviews/16631/</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>After the first hour, it's clear the movie isn't going to offer any surprising new insights into messed-up modernity.</snippet>
+         <url>http://www.avclub.com/content/node/47542</url>
+         <critic>Noel Murray</critic>
+      </review>
+      <review>
+         <snippet>Watt seems to want to say something about the role of fate and happenstance in creating connections between people, but she never quite brings the strands of her ideas together.</snippet>
+         <url>http://www.laweekly.com/film+tv/film-reviews/film-reviews/13307/</url>
+         <critic>Mark Olsen</critic>
+      </review>
+      <review>
+         <snippet>This sincere but ultimately empty indie film plays like Australia’s answer to ensemble pieces like "Magnolia" and "Short Cuts."</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A380404</url>
+         <critic>Brian Clark</critic>
+      </review>
+      <review>
+         <snippet>Bogged down by the stylistic gimmickry of bustling montages and jarring animated segments, Look Both Ways aims for existential drama but succeeds only in reminding us that misery loves company.</snippet>
+         <url>http://movies2.nytimes.com/2006/04/14/movies/14look.html</url>
+         <critic>Jeannette Catsoulis</critic>
+      </review>
+      <review>
+         <snippet>Works its way to an improbably cheerful ending, but getting there is a slow trip.</snippet>
+         <url>http://www.nypost.com/movies/66992.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>An endearingly quirky independent film from Australia, with very likable characters and an intriguing premise.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2006/07/14/DDG9KJU2BI1.DTL#flick3</url>
+         <critic>G. Allen Johnson</critic>
+      </review>
+   </reviews>
+   <US_Gross>$105,067</US_Gross>
+   <weekend_gross>$4,430</weekend_gross>
+   <number_of_screens>2</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

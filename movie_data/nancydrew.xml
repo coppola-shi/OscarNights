@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Nancy Drew</name>
+   <company>Warner Bros. Pictures</company>
+   <genres>
+      <genre>Action</genre>
+      <genre>Crime</genre>
+      <genre>Drama</genre>
+      <genre>FamilyKids</genre>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>Andrew Fleming</author>
+      <author>Tiffany Paulsen</author>
+      <author>Mildred Wirt Benson</author>
+   </authors>
+   <directors>
+      <director>Andrew Fleming</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Emma Roberts</actor>
+      <actor>Josh Flitter</actor>
+      <actor>Craig Gellis</actor>
+      <actor>Rich Cooper</actor>
+      <actor>Max Thieriot</actor>
+      <actor>Rachael Leigh Cook</actor>
+      <actor>Amy Bruckner</actor>
+      <actor>Tate Donovan</actor>
+      <actor>Barry Bostwick</actor>
+      <actor>Kay Panabaker</actor>
+   </actors>
+   <release_date>June 15, 2007</release_date>
+   <running_time>99</running_time>
+   <rating>PG</rating>
+   <reviews>
+      <review>
+         <snippet>Bright semi-adult entertainment.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-to.nancy15jun15,0,1850314.story?coll=bal-movies-utility</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>Parents who want smart, harmless movies that don't condescend for their school-age kids -- a rare thing these days -- should be grateful for Nancy Drew.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/1181604321320820.xml&amp;coll=7</url>
+         <critic>Marc Mohan</critic>
+      </review>
+      <review>
+         <snippet>A very clever update of the 16-year-old heroine, managing to make her seem both as square as the Bobbsey Twins and as contemporary as MySpace.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2007/06/15/2007-06-15_drews_a_draw.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>What's not to like about a girl detective who is a good citizen and better student, a leader rather than a follower, a resourceful seamstress who won't cut her clothes to fit this year's fashions?</snippet>
+         <url>http://www.philly.com/inquirer/columnists/carrie_rickey/20070615_This_Nancys_got_game_and_good_manners_too.html</url>
+         <critic>Carrie Rickey</critic>
+      </review>
+      <review>
+         <snippet>The movie's refusal to treat young girls like silly tramps-in-training is almost radical: It's just good, clean fun and actually offers children of a certain age a role model even adults can feel good about.</snippet>
+         <url>http://www.tvguide.com/movies/nancy-drew/review/288098</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>Hopefully, the girls who see Nancy Drew this summer will take their cues from the smart, engaged, intellectually curious character Roberts so charmingly portrays.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-nancydrew15jun15,0,4483130.story?coll=cl-mreview</url>
+         <critic>Carina Chocano</critic>
+      </review>
+      <review>
+         <snippet>The postmodernist evocations of the past (roughly the 50s through the 80s) are a charming mishmash, delivered with wit and style.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/31734_NANCY_DREW.html</url>
+         <critic>Jonathan Rosenbaum</critic>
+      </review>
+      <review>
+         <snippet>Fleming's movie is, at the very least, a tribute to Nancy Drew's longevity -- and a valentine to all of us who, even as we strive to live in the present, just like old things.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2007/06/15/nancy_drew/index.html</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>Manages to navigate the era of cellphones and Mean Girls with retro nostalgia and wholesomeness, making it a rare girl-powered outing for tweens in an otherwise guy-centric summer.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1133587&amp;categories=Movies&amp;nm=1</url>
+         <critic>Ann Hornaday</critic>
+      </review>
+      <review>
+         <snippet>It's one of the few tween movies that isn't in your face; its limpness becomes appealing.</snippet>
+         <url>http://nymag.com/movies/reviews/33521/index1.html</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>Overall, I found myself not hating the film. There's just one thing that troubles me about the way Nancy Drew is depicted. She is determined, a perfectionist, uber-organized, and efficient. Those qualities can be associated to geekdom, but they’re also symptoms of someone with a propensity for disordered eating or obsessive-compulsive disorder. Hmmm.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=10106</url>
+         <critic>Stina Chyn</critic>
+      </review>
+      <review>
+         <snippet>Once the rote mystery elements take over, the film devolves into a second-rate whodunit for kids, but even then, Roberts' irrepressible cheeriness and curiosity in the face of danger proves too adorable to resist.</snippet>
+         <url>http://www.avclub.com/content/cinema/nancy_drew</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>Nice. The film itself is more nice than good, but nice isn't the worst trait.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-070615-movies-review-nancy,0,4646379.story?coll=mmx-movies_top_heds</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>A well-written and in many ways pleasing update of a character who has endured in print for 78 years. Too bad it's sadly slow-paced.</snippet>
+         <url>http://www.nypost.com/seven/06152007/entertainment/movies/sweet_sleuth_movies_lou_lumenick.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>The culprit, I'd say, is the uninteresting casting of Miss Roberts in the title role. She's a pleasant enough performer, but her made-for-teen-TV acting style, a perky blandness, doesn't supply a clue as to the appeal of Nancy Drew after all these years.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20042380,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>The movie's fodder for tweener girls with indiscriminate Nick TV addictions, but there's just enough wit on display to make you realize it could have been worse.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=9003</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>The mystery of Nancy Drew' is how a movie can get so many things right -- particularly the inspired casting of Emma Roberts as the spunky teenage sleuth -- yet ultimately disappoint.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2007/06/15/DDGIPQF22F1.DTL&amp;type=movies</url>
+         <critic>Ruthe Stein</critic>
+      </review>
+      <review>
+         <snippet>The teen parties and sidekick silliness are time filler, and not very good filler either -- why even Bruce Willis shows up in a scene that has nothing to do with the story.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/319865_nancy15q.html</url>
+         <critic>Paula Nechak</critic>
+      </review>
+      <review>
+         <snippet>Nancy Drew is 16, dresses like she's 12 and acts like she's about 45. And therein lies the problem with this adaptation of the beloved book series. The movie can't quite decide how old it wants to be -- or who it's for.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2007-06-14-nancy-drew_N.htm</url>
+         <critic>Scott Bowles</critic>
+      </review>
+      <review>
+         <snippet>The culture-clash procedural, which brings the small-town teen to big bad Hollywood, feels more perfunctory than inspired.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?&amp;rid=9343</url>
+         <critic>Sheri Linden</critic>
+      </review>
+      <review>
+         <snippet>This tweener goddess--a virtual Batcave of handy accessories packed in her shoulder bag--may prove too annoying for general audiences, particularly as Roberts plays her comically straight.</snippet>
+         <url>http://www.villagevoice.com/film/0724,hoberman,76917,20.html</url>
+         <critic>J. Hoberman</critic>
+      </review>
+      <review>
+         <snippet>An effective translation of the source material, but that's not necessarily a good thing.</snippet>
+         <url>http://www.reelviews.net/movies/n/nancy_drew.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>Emma Roberts is squeaky-clean to a fault and so is the movie.</snippet>
+         <url>http://www.csmonitor.com/2007/0615/p14s01-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>As it is, Nancy Drew stands as an example of how to take a foolproof, time-tested formula -- a young detective using smarts and determination to solve a case -- and mess it up with superficial cleverness and pandering hackwork. How this happened is hardly a mystery; botched adaptations are as common as BlackBerries in Hollywood. But it is nonetheless something of a crime.</snippet>
+         <url>http://movies2.nytimes.com/2007/06/15/movies/15nanc.html?em&amp;ex=1181966400&amp;en=b457ce2d78ceace4&amp;ei=5087%0A</url>
+         <critic>A.O. Scott</critic>
+      </review>
+      <review>
+         <snippet>That this is just about passable as a divorced parent’s weekend treat is down to Roberts’ charm and the timeless appeal of Nancy herself.</snippet>
+         <url>http://www.empireonline.com/reviews/reviewcomplete.asp?FID=15108</url>
+         <critic>Kim Newman</critic>
+      </review>
+      <review>
+         <snippet>No rose-colored memories can improve this tedious interpretation of the famous girl detective's adventures. Nancy Drew falls somewhere between "The Haunted Mansion" and the live-action "Scooby Doo" movies in terms of quality but is more irritating than either.</snippet>
+         <url>http://ae.miami.com/entertainment/ui/miami/movie.html?id=887684&amp;reviewId=22505</url>
+         <critic>Connie Ogle</critic>
+      </review>
+      <review>
+         <snippet>It's marginally possible that Nancy Drew is spoofing high school adventure movies, and I almost hope so. Otherwise, it's unwatchable on every level.</snippet>
+         <url>http://ae.charlotte.com/entertainment/ui/charlotte/movie.html;jsessionid=A075AB0CB7E521FD6E0AA9177D514F57.prodapp15_ae_02?id=887684&amp;reviewId=22498&amp;startDate=06%2F20%2F2007</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>At the end of the movie, the only mystery left unsolved is where your time and money have gone.</snippet>
+         <url>http://www.premiere.com/moviereviews/3877/nancy-drew.html</url>
+         <critic>Chris Willard</critic>
+      </review>
+      <review>
+         <snippet>Call it Nancy Drew and the Case of the Confused Adaptation.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20070614.wdrew15/BNStory/Entertainment/home</url>
+         <critic>Liam Lacey</critic>
+      </review>
+      <review>
+         <snippet>Purportedly an attempt to modernize the young detective's adventures for a new generation of tweens, the pic instead serves up stale mystery-movie cliches and overcooked red herrings in a thoroughly wooden adaptation.</snippet>
+         <url>http://www.variety.com/review/VE1117933855.html?categoryid=31&amp;cs=1</url>
+         <critic>Lael Loewenstein</critic>
+      </review>
+      <review>
+         <snippet>It's not really a matter of Nancy's retro look and grounding in the fundamentals of sleuthing that separates the women from the girls but, rather, this film's lack of gaiety and surprise that makes it dud for old and new generations of the books' fans.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A490083</url>
+         <critic>Marjorie Baumgarten</critic>
+      </review>
+   </reviews>
+   <US_Gross>$25,584,685</US_Gross>
+   <weekend_gross>$6,832,318</weekend_gross>
+   <number_of_screens>2,612</number_of_screens>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Idiocracy</name>
+   <company>Twentieth Century-Fox Film Corporation</company>
+   <genres>
+      <genre>Comedy</genre>
+   </genres>
+   <authors>
+      <author>Mike Judge</author>
+      <author>Etan Cohen</author>
+   </authors>
+   <directors>
+      <director>Mike Judge</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Luke Wilson</actor>
+      <actor>Maya Rudolph</actor>
+      <actor>Dax Shepard</actor>
+      <actor>Sara Rue</actor>
+      <actor>Terry Crews</actor>
+   </actors>
+   <release_date>September 1, 2006</release_date>
+   <running_time>84</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>There's a good chance that Judge's smartly lowbrow Idiocracy will be mistaken for what it's satirizing, but good satire always runs the risk --  of being misunderestimated.</snippet>
+         <url>http://www.avclub.com/content/node/52408</url>
+         <critic>Nathan Rabin</critic>
+      </review>
+      <review>
+         <snippet>It elicits so many laughs, in fact, that you have to wonder just what Judge did to piss off the suits at Fox so much that they would willingly torpedo one of the only genuinely hilarious movies to come out this year.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=9299</url>
+         <critic>Pete Vonder Haar</critic>
+      </review>
+      <review>
+         <snippet>The plot, naturally, is silly and not exactly bound by logic. But it's Judge's gimlet-eyed knack for nightmarish extrapolation that makes Idiocracy a cathartic delight.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-idiocracy4sep04,0,3328767.story?coll=cl-mreview</url>
+         <critic>Carina Chocano</critic>
+      </review>
+      <review>
+         <snippet>Idiocracy, is often stingingly funny -- and an undeserving resident of the summer's-end movie dumping ground.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1003087491</url>
+         <critic>Sheri Linden</critic>
+      </review>
+      <review>
+         <snippet>The delivery in Idiocracy is frequently flat, but it's vision is dead-on.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A398683</url>
+         <critic>Marjorie Baumgarten</critic>
+      </review>
+      <review>
+         <snippet>A satire for its time. What Judge is less sure of here than in his previous, perfectly pitched live-action comedy "Office Space," is how to build a complete movie around his key ideas.</snippet>
+         <url>http://www.variety.com/review/VE1117931441?categoryid=31&amp;cs=1</url>
+         <critic>Robert Koehler</critic>
+      </review>
+      <review>
+         <snippet>If you crave a lively and funny trek through the farcical possibilities of unchecked dimwit power, Judge is still your guy. Just go rent "Beavis and Butt-Head Do America" instead.</snippet>
+         <url>http://www.laweekly.com/film+tv/film-reviews/film-reviews/14370/</url>
+         <critic>Robert Abele</critic>
+      </review>
+      <review>
+         <snippet>Judge races through some of his most provocative ideas in the opening minutes and ignores his story's many logical inconsistencies; the movie is bracing for its bile but ultimately more frustrating than funny.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/30250_IDIOCRACY.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+   </reviews>
+   <US_Gross>$444,093</US_Gross>
+   <weekend_gross>$124,367</weekend_gross>
+   <number_of_screens>130</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>true</labor_release>
+</movie>

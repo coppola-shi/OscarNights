@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Without the King</name>
+   <company>First Run Features</company>
+   <genres>
+      <genre>Documentary</genre>
+   </genres>
+   <authors>
+      <author/>
+   </authors>
+   <directors>
+      <director>Michael Skolnik</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>King Mswati III</actor>
+   </actors>
+   <release_date>April 25, 2008</release_date>
+   <running_time>83</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>The film, fluidly shot by James Adolphus, remains deeply sensitive to the complexities of a culture whose attachment to monarchy contravenes its best interests. This dilemma is gradually becoming clear to Princess Sikhanyiso, the oldest of the king's 22 children and a student in California. Intelligent, articulate, caring and strong-willed, she could be her country's best hope.</snippet>
+         <url>http://movies.nytimes.com/2008/04/25/movies/25king.html?ref=movies</url>
+         <critic>Jeannette Catsoulis</critic>
+      </review>
+      <review>
+         <snippet>By far the film's most interesting subject is the king's eldest daughter, 18-year-old Princess Sikhanyiso, who likes to be known as Pashu. She's a self-styled rapper who goes to a Catholic college in California and acts like the spoiled rich kid that she is.</snippet>
+         <url>http://www.nypost.com/seven/04252008/entertainment/movies/without_the_king_107945.htm</url>
+         <critic>V.A. Musetto</critic>
+      </review>
+      <review>
+         <snippet>Intelligent but incomplete-feeling documentary.</snippet>
+         <url>http://www.tvguide.com/movies/king/review/293068</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>A cut above the average Quad-bound video agit-prop doc, Michael Skolnik's Without the King succeeds mostly through negative virtues.</snippet>
+         <url>http://www.villagevoice.com/film/0817,without-the-king,419624,20.html</url>
+         <critic>Vadim Rizov</critic>
+      </review>
+      <review>
+         <snippet>With Swaziland providing this mother lode of material, helmer Michael Skolnik extracts only the most pedestrian of films.</snippet>
+         <url>http://www.variety.com/review/VE1117936887.html?categoryid=31&amp;cs=1</url>
+         <critic>Ronnie Scheib</critic>
+      </review>
+      <review>
+         <snippet>A curious mixture of banality and revelation.</snippet>
+         <url>http://www.laweekly.com/film+tv/film-reviews/film-reviews-get-smart-guy-maddins-my-winnipeg/19123/?page=2</url>
+         <critic>Ernest Hardy</critic>
+      </review>
+      <review>
+         <snippet>It is a shame the film doesn't cast a wider net into deeper political waters – the outrage is barely scratched in this production.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=10930</url>
+         <critic>Phil Hall</critic>
+      </review>
+   </reviews>
+   <US_Gross>$8,663</US_Gross>
+   <weekend_gross>$4,237</weekend_gross>
+   <number_of_screens>1</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Breakfast with Scot</name>
+   <company>Here! Films, Regent Releasing</company>
+   <genres>
+      <genre>Drama</genre>
+      <genre>Romance</genre>
+   </genres>
+   <authors>
+      <author>Sean Reycraft</author>
+      <author>Michael Downing</author>
+   </authors>
+   <directors>
+      <director>Laurie Lynd</director>
+   </directors>
+   <origins>
+      <origin>Canada</origin>
+   </origins>
+   <actors>
+      <actor>Tom Cavanagh</actor>
+      <actor>Ben Shenkman</actor>
+      <actor>Noah Bernett</actor>
+      <actor>Colin Cunningham</actor>
+   </actors>
+   <release_date>October 10, 2008</release_date>
+   <running_time>90</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>Has a sitcom format, but complex emotions and perceptions keep breaking through the surface in an engaging, thoughtful manner.</snippet>
+         <url>http://www.latimes.com/entertainment/news/reviews/la-et-capsules10-2008oct10,0,3834632.story</url>
+         <critic>Kevin Thomas</critic>
+      </review>
+      <review>
+         <snippet>Cavanagh, best known for the TV show "Ed," is terrific--as is young Bernett, who steals the show without hogging it.</snippet>
+         <url>http://www.villagevoice.com/2008-10-08/film/breakfast-with-scot-a-funny-adaptation-of-michael-downing-s-1999-novel/</url>
+         <critic>Chuck Wilson</critic>
+      </review>
+      <review>
+         <snippet>A crowd-pleasing comedy that makes up for its formulaic, sitcom-ready premise with likable performances and an inviting sense of humor.</snippet>
+         <url>http://www.miamiherald.com/entertainment/movies/reviews/story/798398.html</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>With witty throwaway bits and Cavanagh's fast delivery, "Scot" gets away with a third-act dip into hearts and platitudes. Otherwise, it's refreshingly snarky and quick.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2008/10/09/2008-10-09_short_takes_more_movie_reviews_for_the_w.html</url>
+         <critic>Joe Neumaier</critic>
+      </review>
+      <review>
+         <snippet>Deserves sympathetic attention, if only for the family-values specifics loaded into the story, and the way mildmannered stars Ben Shenkman (Angels in America) and Tom Cavanagh (Ed) embrace their instructional roles.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20231573,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>This is territory previously covered in the French film "Ma Vie en Rose," which took a relatively more sophisticated view of both a child's self-expression and adults' discomfort over it.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=12151</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>For its courage to address a ticklish subject with warmhearted humor, Breakfast With Scot, adapted from a novel by Michael Downing, deserves a light round of applause.</snippet>
+         <url>http://movies.nytimes.com/2008/10/10/movies/10scot.html?ref=movies</url>
+         <critic>Stephen Holden</critic>
+      </review>
+      <review>
+         <snippet>Why is Breakfast With Scot in theaters instead of set for broadcast on the Lifetime, Hallmark or ABC Family channels?</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2008/10/09/DD3913DQAM.DTL&amp;type=movies</url>
+         <critic>David Wiegand</critic>
+      </review>
+      <review>
+         <snippet>A feel-good tale with undeniably good intentions, this Canadian comedy-drama doesn't really manage to convince on any level.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?JSESSIONID=dQhDLnnWHsQ4W5wQSDnrRm9lT88n8DyPbft9ThfqRKzL2tRxp1Tz!1819155073&amp;&amp;rid=11800</url>
+         <critic>Frank Scheck</critic>
+      </review>
+      <review>
+         <snippet>Bland and timid.</snippet>
+         <url>http://www.nypost.com/seven/10102008/entertainment/movies/out_of_the_locker_room__back_in_the_clos_132907.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>It would be churlish to parse the logic of the underlying situation too closely when all the filmmakers are really after is a heartwarming little object lesson in tolerance.</snippet>
+         <url>http://www.npr.org/templates/story/story.php?storyId=95576468</url>
+         <critic>Bob Mondello</critic>
+      </review>
+      <review>
+         <snippet>Suffused with the bargain-basement blandness of an Afterschool Special, Breakfast with Scot is the kind of gay-themed pic that won't ruffle the feathers of a granny in Manitoba, though it's bound to make more discerning auds groan.</snippet>
+         <url>http://www.variety.com/review/VE1117936937.html?categoryid=31&amp;cs=1&amp;query=breakfast+with+scot</url>
+         <critic>Jay Weissberg</critic>
+      </review>
+   </reviews>
+   <US_Gross>$45,583</US_Gross>
+   <weekend_gross>$11,455</weekend_gross>
+   <number_of_screens>5</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

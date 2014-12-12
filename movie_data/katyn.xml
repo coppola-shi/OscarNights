@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Katyn</name>
+   <company>Artificial Eye</company>
+   <genres>
+      <genre>Drama</genre>
+      <genre>War</genre>
+   </genres>
+   <authors>
+      <author>Andrzej Mularczyk</author>
+      <author>Przemyslaw Nowakowski</author>
+      <author>Wladyslaw Pasikowski</author>
+      <author>Andrzej Wajda</author>
+   </authors>
+   <directors>
+      <director>Andrzej Wajda</director>
+   </directors>
+   <origins>
+      <origin>Poland</origin>
+   </origins>
+   <actors>
+      <actor>Maja Ostaszewska</actor>
+      <actor>Artur Zmijewski</actor>
+      <actor>Andrzej Chyra</actor>
+      <actor>Jan Englert</actor>
+   </actors>
+   <release_date>February 18, 2009</release_date>
+   <running_time>118</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>A great movie.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2009/06/18/MVRG187429.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>There's no redemption here. Indeed, if anything is redemptive about Katyn , it's the fact of the film itself.</snippet>
+         <url>http://www.theglobeandmail.com/news/arts/katyn/article1221410/</url>
+         <critic>James Adams</critic>
+      </review>
+      <review>
+         <snippet>The great Polish director Andrzej Wajda  musters the power of classical filmmaking and personal emotional investment to dramatize a stunning atrocity long covered up.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20259701,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>This plays almost like an academic master class, meticulously exploring the event's ramifications but only catching full fire at the end.</snippet>
+         <url>http://www.variety.com/index.asp?layout=festivals&amp;jump=review&amp;id=2478&amp;reviewid=VE1117936224&amp;cs=1</url>
+         <critic>Leslie Felperin</critic>
+      </review>
+      <review>
+         <snippet>This tenacious artist has now given his father a proper memorial and has reasserted, with power and grace, the history and identity of his nearly effaced country.</snippet>
+         <url>http://www.newyorker.com/arts/critics/cinema/2009/03/02/090302crci_cinema_denby</url>
+         <critic>David Denby</critic>
+      </review>
+      <review>
+         <snippet>A history lesson for a country and a people forced to forget at gunpoint.</snippet>
+         <url>http://www.boston.com/ae/movies/articles/2009/05/29/katyn_brings_a_wwii_massacre_to_light/</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>An unrelentingly powerful and seamless indictment of two brutal political systems.</snippet>
+         <url>http://movies.tvguide.com/katyn/review/292309</url>
+         <critic>Bruce Eder</critic>
+      </review>
+      <review>
+         <snippet>Now Wajda has brought some small measure of rest to their names, to Poland, and to history.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20090722/REVIEWS/907229987</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>Wajda makes the murders look horrific and jangled, like something out of "Hostel," then ends Katyn with extended darkness and silence, allowing the audience to mourn for the death of a nation.</snippet>
+         <url>http://www.avclub.com/articles/katyn,24085/</url>
+         <critic>Noel Murray</critic>
+      </review>
+      <review>
+         <snippet>The period sets, costumes and cinematography all superbly recreate the brutal era, grand illusions and everyday suffering of the Poles under both the Nazis and the Soviets.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/imdb/reviews/article_display.jsp?rid=10682&amp;vnu_special_account_code=thrsiteimdbpro</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>It is filmed with simplicity, a purity of intent, and I wanted to watch the faces of these men in their last seconds of life--not for the sake of history, but because of Wajda's imperative to put his father's death onscreen. He needed to do this. And somehow, sanity is restored.</snippet>
+         <url>http://nymag.com/movies/reviews/54329/</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>The result is a film with a stately, deliberate quality that insulates it against sentimentality and makes it all the more devastating.</snippet>
+         <url>http://movies.nytimes.com/2009/02/18/movies/18katy.html?ref=movies</url>
+         <critic>A.O. Scott</critic>
+      </review>
+      <review>
+         <snippet>Wajda, who lost his father in the purge, gives the film an awful silence and mystery at its core.</snippet>
+         <url>http://www.nypost.com/seven/02202009/entertainment/movies/truths_buried_in_polish_soil_155989.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>While never less than fascinating, Katyn alternates between scenes of tremendous power and sequences most kindly described as dutiful. It's as if the artist is never certain whether he is making this movie for himself, his father, or the entire nation.</snippet>
+         <url>http://www.villagevoice.com/2009-02-18/film/katyn-s-true-lies/</url>
+         <critic>J. Hoberman</critic>
+      </review>
+      <review>
+         <snippet>Andrzej Wajda has spent much of his long career dramatizing major events in Polish history, and this poignant feature depicts the circumstances surrounding the Soviet Union's massacre of thousands of Polish officers in the spring of 1940.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/capsules/33779_KATYN</url>
+         <critic>Joshua Katzman</critic>
+      </review>
+      <review>
+         <snippet>Katyn will not join Wajda's list of masterworks. In its final flashback, however, when we're taken back to the forest and the details of what really happened, we see what we must see, the clear-eyed way we should see it.</snippet>
+         <url>http://www.chicagotribune.com/entertainment/movies/chi-0724-katyn-reviewjul24,0,6421717.story</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>A pensive and searching drama that explores how deep into the national psyche these murders in the Katyn forest went.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2009/02/19/2009-02-19_short_takes_must_read_after_my_death_kat.html</url>
+         <critic>Joe Neumaier</critic>
+      </review>
+   </reviews>
+   <US_Gross>$118,095</US_Gross>
+   <weekend_gross>$35,285</weekend_gross>
+   <number_of_screens>1</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

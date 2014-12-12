@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Trucker</name>
+   <company>Monterey Media</company>
+   <genres>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author>James Mottern</author>
+   </authors>
+   <directors>
+      <director>James Mottern</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Michelle Monaghan</actor>
+      <actor>Nathan Fillion</actor>
+      <actor>Benjamin Bratt</actor>
+      <actor>Joey Lauren Adams</actor>
+      <actor>Jimmy Bennett</actor>
+   </actors>
+   <release_date>October 9, 2009</release_date>
+   <running_time>90</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>Trucker sets out on a difficult and tricky path, and doesn't put a foot wrong.</snippet>
+         <url>http://www.rogerebert.com/apps/pbcs.dll/article?AID=/20091007/REVIEWS/910079995/1023</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>There are so many wonderfully unconventional things to like about this tiny independent film, Monaghan's earthy and uncompromising performance chief among them, its depth surprising you at every turn.</snippet>
+         <url>http://www.latimes.com/entertainment/news/la-et-trucker16-2009oct16,0,4592329.story</url>
+         <critic>Betsy Sharkey</critic>
+      </review>
+      <review>
+         <snippet>Written and directed by James Mottern with more attention to character than to plot, Trucker is a simple, unadorned study of a loner forced by circumstance to embrace the world again -- but only on her terms.</snippet>
+         <url>http://www.miamiherald.com/entertainment/movies/news/story/1294361.html</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>It's a smooth ride thanks to Monaghan, and an impressive ensemble.</snippet>
+         <url>http://www.villagevoice.com/2009-10-06/film/trucker-sports-an-impressive-ensemble/</url>
+         <critic>Aaron Hillis</critic>
+      </review>
+      <review>
+         <snippet>You sense the Demme-esque working-class comedy that might have been.</snippet>
+         <url>http://newyork.timeout.com/articles/film/79336/trucker-film-review</url>
+         <critic>Joshua Rothkopf</critic>
+      </review>
+      <review>
+         <snippet>Although Trucker doesn't have the social import that made "Norma Rae" a hit, it's an affecting, small film that could catch on with sophisticated audiences as well as more down-home types.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?rid=11036</url>
+         <critic>Stephen Farber</critic>
+      </review>
+      <review>
+         <snippet>Trucker sometimes feels like a performance in search of a movie.</snippet>
+         <url>http://movies.nytimes.com/2009/10/09/movies/09trucker.html?ref=movies</url>
+         <critic>Stephen Holden</critic>
+      </review>
+      <review>
+         <snippet>Writer-director James Mottern's drama has a lived-in feel, but is notable mainly for Michelle Monaghan's glam-less turn as Diane.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2009/10/09/2009-10-09_short_film_reviews_.html?page=1</url>
+         <critic>Joe Neumaier</critic>
+      </review>
+      <review>
+         <snippet>Fiercely acted but made with indifferent craft and no palpable feel for its subject matter, Trucker takes you on a ride from intrigue to indifference.</snippet>
+         <url>http://blog.oregonlive.com/madaboutmovies/2009/10/review_--_trucker_cant_get_out.html</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>Strip away the alt-country soundtrack, though, and you've got a Bette Davis fallen-woman-redeemed picture from 1937.</snippet>
+         <url>http://www.nypost.com/p/entertainment/movies/for_boy_his_mom_the_truck_stops_fmJS2KKnIbDRDizuBp61TJ</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>Writer-director James Mottern has a reasonably good feel for the textures of blue-collar life, but he pounds home the life lessons, underscoring them with poignant country-western songs.</snippet>
+         <url>http://www.chicagoreader.com/chicago/MovieTimes?film=1124158</url>
+         <critic>Cliff Doerksen</critic>
+      </review>
+      <review>
+         <snippet>Playing a negligent mother isn't usually the way to get ahead in the acting biz, but the elfin Michelle Monaghan must have seen Trucker as her vehicle out of the ingenue parking lot of sidekicks and potential hostages.</snippet>
+         <url>http://www.variety.com/review/VE1117936934.html?categoryid=31&amp;cs=1&amp;query=trucker</url>
+         <critic>John Anderson</critic>
+      </review>
+      <review>
+         <snippet>Whenever an actress takes on a gritty working-class role, the audience does a gut check of authenticity. Either the actress gets it, like Melissa Leo did in "Frozen River," or she doesn't, like Michelle Monaghan as the spoilin'-for-a-fight truck-driver heroine of the inert indie dud Trucker</snippet>
+         <url>http://www.ew.com/ew/article/0,,20312188,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+   </reviews>
+   <US_Gross>$52,166</US_Gross>
+   <weekend_gross>$12,418</weekend_gross>
+   <number_of_screens>10</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

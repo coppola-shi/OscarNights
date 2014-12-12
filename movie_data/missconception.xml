@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Miss Conception</name>
+   <company>First Look Studios</company>
+   <genres>
+      <genre>Comedy</genre>
+   </genres>
+   <authors>
+      <author>Camilla Leslie</author>
+      <author>Katherine Chandler</author>
+   </authors>
+   <directors>
+      <director>Eric Styles</director>
+   </directors>
+   <origins>
+      <origin>Germany</origin>
+   </origins>
+   <actors>
+      <actor>Heather Graham</actor>
+      <actor>Mia Kirshner</actor>
+      <actor>Tom Ellis</actor>
+      <actor>Will Mellor</actor>
+      <actor>Orlo Seale</actor>
+   </actors>
+   <release_date>June 6, 2008</release_date>
+   <running_time>94</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>A light touch keeps the film from being an ordeal, but the story's trajectory is as predictable as the setup is contrived.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?JSESSIONID=6GR8LLbDRxKhFgLwTq4Mq4PL4bv3p7sdF7rGJtNd8vmhLvgx1vtQ!-1330354719&amp;&amp;rid=11232</url>
+         <critic>Sheri Linden</critic>
+      </review>
+      <review>
+         <snippet>Graham is charming, but Miss Conception is a cloddish biological-clock bedroom farce.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20204733,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>Isn't so much a movie as an extended sitcom -- it looks like one, it acts like one, it reduces everything to the lowest common denominator like one.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-conception6-2008jun06,0,82979.story</url>
+         <critic>Carina Chocano</critic>
+      </review>
+      <review>
+         <snippet>Miscast and miscalculated, Miss Conception hopes to collect on Hollywood's recent baby-on-board craze, delivering instead the least credible take on human pregnancy since Arnold Schwarzenegger gave birth in "Junior."</snippet>
+         <url>http://www.variety.com/review/VE1117937333.html?categoryid=31&amp;cs=1</url>
+         <critic>Peter Debruge</critic>
+      </review>
+      <review>
+         <snippet>Miss Conception's dim view of women soon transcends unexamined and goes straight to offensive.</snippet>
+         <url>http://www.laweekly.com/film+tv/film-reviews/movie-reviews-kung-fu-panda-mongol-mother-of-tears/19048/</url>
+         <critic>Tim Grierson</critic>
+      </review>
+   </reviews>
+   <US_Gross>$1,503</US_Gross>
+   <weekend_gross>$1,342</weekend_gross>
+   <number_of_screens>3</number_of_screens>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

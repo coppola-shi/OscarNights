@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Eating Out</name>
+   <company>Ariztical Entertainment Inc.</company>
+   <genres>
+      <genre>Comedy</genre>
+      <genre>GayLesbian</genre>
+   </genres>
+   <authors>
+      <author>Q. Allan Brocka</author>
+   </authors>
+   <directors>
+      <director>Q. Allan Brocka</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Scott Lunsford</actor>
+      <actor>Jim Verraros</actor>
+      <actor>Emily Brooke Hs</actor>
+      <actor>Ryan Carnes</actor>
+      <actor>Rebekah Kochan</actor>
+      <actor>Jillian Nusbaum</actor>
+      <actor>Billy Shepard</actor>
+   </actors>
+   <release_date>April 8, 2005</release_date>
+   <running_time>90</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>A sweet and funny take on the crossed-wire romantic couplings of 'A Midsummer Night's Dream.'</snippet>
+         <url>http://www.washingtonpost.com/wp-dyn/content/article/2005/06/09/AR2005060901276.html</url>
+         <critic>Michael O&amp;#039;Sullivan</critic>
+      </review>
+      <review>
+         <snippet>The explicit encounters and dirty talk in Eating Out suggest a new genre -- call it porncom -- that seeks to amuse and arouse at the same time.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=8116</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>May be predictable and silly, but it's never dull.</snippet>
+         <url>http://www.nypost.com/movies/42297.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>The story doesn't make any real sense, and the production values are home movie-cheap. But the cast seems to be having fun.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/moviereviews/story/297733p-254819c.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>Plays like a feature-length sitcom with gay double entendres.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/224024_eating13q.html</url>
+         <critic>Sean Axmaker</critic>
+      </review>
+      <review>
+         <snippet>Ultimately a less-than-satisfying cinematic meal.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1000902606</url>
+         <critic>Frank Scheck</critic>
+      </review>
+      <review>
+         <snippet>Rude, heavily contrived, pretty funny, just remotely connected to real-world youth life.</snippet>
+         <url>http://www.variety.com/review/VE1117924243?categoryid=31&amp;cs=1</url>
+         <critic>Dennis Harvey</critic>
+      </review>
+      <review>
+         <snippet>The best straight-plays-gay, straight-goes-gay flick since "Harry Potter and the Chamber of Secrets."</snippet>
+         <url>http://www.villagevoice.com/film/0514,tracking2,62712,20.html</url>
+         <critic>Nick Sylvester</critic>
+      </review>
+      <review>
+         <snippet>Think of it as a modern-day variant on a Shakespearean comedy, only without the verbal felicity or dramatic structure.</snippet>
+         <url>http://movies2.nytimes.com/2005/04/08/movies/08eati.html?adxnnl=1&amp;adxnnlx=1112919408-anF4M8PwsOmwH4BNnqyQpg</url>
+         <critic>Lawrence Van Gelder</critic>
+      </review>
+      <review>
+         <snippet>With its porno plot, Undressed production values and ersatz "Will &amp; Grace" banter that manages to be crude without being the least bit funny, Q. Allan Brocka's debut is a tasteless comedy that nevertheless leaves a nasty flavor on the tongue.</snippet>
+         <url>http://tvguide.com/movies/database/showmovie.asp?MI=46038</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>Eating Out might just make it as an amusing trifle, but on the big screen it's merely tedious and silly.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-capsule8apr08,2,100242.story</url>
+         <critic>Kevin Thomas</critic>
+      </review>
+      <review>
+         <snippet>Wacky mix-ups and a stunningly unfunny climax.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/capsules/27051_EATING_OUT</url>
+         <critic>Hank Sartin</critic>
+      </review>
+      <review>
+         <snippet>Director Q. Allan Brocka loads up the screen with eye-candy for every preference -- no one keeps a shirt on for long. Think Skinemax with a gay twist. But his script overdoses on pop culture references and bitchy wisecracks that his trying-too-hard cast can't quite pull off.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2005/03/18/DDGD5BQH1H1.DTL</url>
+         <critic>Joe Brown</critic>
+      </review>
+      <review>
+         <snippet>Deadening comedy.</snippet>
+         <url>http://www.laweekly.com/film/film_results.php?showid=3355&amp;Sumbit.x=57&amp;Sumbit.y=21</url>
+         <critic>Chuck Wilson</critic>
+      </review>
+      <review>
+         <snippet>A small, tacky non-comedy.</snippet>
+         <url>http://www.filmthreat.com/Reviews.asp?Id=7338</url>
+         <critic>Phil Hall</critic>
+      </review>
+      <review>
+         <snippet>Here's hoping someone breaks down and buys Brocka some more toys, if only to distract him from embarking on another flesh-and-blood production.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A271938</url>
+         <critic>Marc Savlov</critic>
+      </review>
+   </reviews>
+   <US_Gross>$155,212</US_Gross>
+   <weekend_gross>$17,510</weekend_gross>
+   <number_of_screens>1</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Leatherheads</name>
+   <company>Universal Pictures</company>
+   <genres>
+      <genre>Comedy</genre>
+      <genre>Drama</genre>
+      <genre>Romance</genre>
+   </genres>
+   <authors>
+      <author>Duncan Brantley</author>
+      <author>Rick Reilly</author>
+   </authors>
+   <directors>
+      <director>George Clooney</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>George Clooney</actor>
+      <actor>Renée Zellweger</actor>
+      <actor>John Krasinski</actor>
+      <actor>Jonathan Pryce</actor>
+      <actor>Stephen Root</actor>
+      <actor>Ezra Buzzington</actor>
+      <actor>John Vance</actor>
+      <actor>Dan John Miller</actor>
+   </actors>
+   <release_date>April 4, 2008</release_date>
+   <running_time>minutes,</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>Football, they say, is a game of inches, and so can be moviemaking, and Leatherheads is a completely charming film that comes a few inches from being a great one.</snippet>
+         <url>http://blog.oregonlive.com/madaboutmovies/2008/04/leatherheads.html</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>Feisty and good-humored, and if it doesn't have deep characters, it is chock-full of personality.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/reviews/bal-to.leather04apr04,0,2541361.story</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>It's a pleasant time-killer, nothing more. But nothing less, either.</snippet>
+         <url>http://www.csmonitor.com/2008/0404/p12s02-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>Clooney and Zellweger play off each other perfectly, delivering their dialogue with the rhythm of a well-choreographed dance and falling in love in the time-honored tradition of '40s romantic comedies.</snippet>
+         <url>http://www.reelviews.net/movies/l/leatherheads.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>Leatherheads is most on its game when it's in the game, and in the zone of Clooney's no-bull affection for the faces of his actors.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/15256062/review/20001841/leatherheads</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>In the end, Leatherheads recalls the gloriously dated sentiments of Grantland Rice, one of that era's beloved sportswriters, expressed 17 years earlier in the poem "Alumnus Football."</snippet>
+         <url>http://www.charlotte.com/434/story/564688.html</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>More amiable than witty and relying heavily on the likability and charm of its lead actors, Leatherheads scores more points as a retro romantic comedy than a football saga.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2008-04-03-leatherheads_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>Leatherheads proceeds agreeably, hitting occasional high notes when it isn't getting bogged down in forced slapstick hi-jinks.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-leatherheads4apr04,0,7948570.story</url>
+         <critic>Carina Chocano</critic>
+      </review>
+      <review>
+         <snippet>Maybe the film loses a little steam as it rolls along, but it is still puffing and tooting as Clooney and Zellweger ride off into the sunset -- on a comically raffish period motorcycle, free as the wind.</snippet>
+         <url>http://www.time.com/time/arts/article/0,8599,1727871,00.html</url>
+         <critic>Richard Schickel</critic>
+      </review>
+      <review>
+         <snippet>For all its other virtues, the supporting casting is lackluster, the script never quite kicks into place as a sports movie and Clooney the director seems to lack the touch that might have set the proceedings on fire as a zany ensemble comedy.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/357625_leather04q.html</url>
+         <critic>William Arnold</critic>
+      </review>
+      <review>
+         <snippet>Too much of Leatherheads feels like studied motions, and its charms never plaster over a story that takes forever to get going, and doesn't go too far once it does.</snippet>
+         <url>http://www.avclub.com/content/cinema/leatherheads</url>
+         <critic>Keith Phipps</critic>
+      </review>
+      <review>
+         <snippet>You can’t read one of Clooney’s endless People profiles without hearing the Cary Grant comparison, but here, he’s all Gable – same rakishness and stubble and tanned-leather basso profundo.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A607273</url>
+         <critic>Kimberley Jones</critic>
+      </review>
+      <review>
+         <snippet>A larky throwback to the breakneck screwballs of Frank Capra and Preston Sturges. Problem is, it isn't breakneck enough.</snippet>
+         <url>http://www.philly.com/inquirer/columnists/steven_rea/20080404_Retro_football_comedy_drops_the_ball.html</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>Far from a touchdown, but you gotta give points to any movie where a character describes its climactic game as a "muddy snoozefest."</snippet>
+         <url>http://www.nypost.com/seven/04042008/entertainment/movies/there_will_be_mud_104883.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>The film moves slowly and steadily, but it's never exactly dull, just mild.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=10171</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>If the raison d'être of Leatherheads was not to add something to the football movie canon but to have Clooney and Zellweger engage in a screwball banter-fest, then there's no excusing the paltry number of zinger missiles fired over the course of the film.</snippet>
+         <url>http://www.premiere.com/moviereviews/4500/leatherheads.html</url>
+         <critic>Ryan Stewart</critic>
+      </review>
+      <review>
+         <snippet>Leatherheads goes on a good 20 minutes too long, and there's very little in it that makes a lasting impression, but it's easy to watch while it's unspooling -- much like, you know, a lot of Cary Grant comedies.</snippet>
+         <url>http://www.miamiherald.com/224/story/481066.html</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>Leatherheads is as trifling as Clooney’s second movie (“Good Night and Good Luck”) was significant, but that’s okay. It succeeds where so many other romantic comedies fail because of a superior script and because everyone involved has the good sense not to take themselves too seriously.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=10892</url>
+         <critic>Pete Vonder Haar</critic>
+      </review>
+      <review>
+         <snippet>Better than a finger in your eye. It's a perfectly passable, if instantly forgettable, date movie, lushly shot by Newton Thomas Sigel and with a script intelligently versed in American classics like "His Girl Friday" and "Hail the Conquering Hero."</snippet>
+         <url>http://www.slate.com/id/2188137/</url>
+         <critic>Dana Stevens</critic>
+      </review>
+      <review>
+         <snippet>Reproducing a period-piece screwball comedy for a modern audience turns out to be one playful, self-deprecating wink too many for the star, who also directed Leatherheads.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20187598,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>Clooney, the film's director and star, can't make up his mind how to approach the story. One minute it's a romantic comedy. Then it switches to slapstick, then to screwball comedy before sliding into Frank Capra territory.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?JSESSIONID=ZkpTHwZJ96G4lypBGyhczRLwY89PJj6TfGM3m38WNXvJGv2m6Gs6!-1769720716&amp;&amp;rid=10882</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>Arch and funny in equal measure, this looks like a theatrical non-starter that Clooney fans and football devotees might be tempted to check out down the line on DVD or on the tube.</snippet>
+         <url>http://www.variety.com/review/VE1117936645.html?categoryid=31&amp;cs=1</url>
+         <critic>Todd McCarthy</critic>
+      </review>
+      <review>
+         <snippet>For its entire two hours, Leatherheads is rarely less than very promising--and also rarely more.</snippet>
+         <url>http://www.villagevoice.com/film/0814,fourth-and-inches,396114,20.html</url>
+         <critic>Scott Foundas</critic>
+      </review>
+      <review>
+         <snippet>Sidelined by a script that plays like an imitation of another era’s artifacts. It’s an oxymoron: a mild screwball romance.</snippet>
+         <url>http://chicago.metromix.com/movies/movie_review/movie-review-leatherheads/363861/content</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>There's a flatness about the whole enterprise -- like drinking champagne, but from an old house slipper. Re: his performance, Clooney is terrific. His comparison to old movie stars is not just hype. He really does possess the combination of supreme confidence and humility that has been the hallmark of the biggest male Hollywood stars.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1143252&amp;categories=Movies&amp;nm=1</url>
+         <critic>John Anderson</critic>
+      </review>
+      <review>
+         <snippet>A screwball comedy without a charismatic, smart-talking dame is no screwball comedy at all.</snippet>
+         <url>http://www.tvguide.com/movies/leatherheads/review/293067</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>Leatherhead's a comedy of stock setups and kooky digressions in which nothing really comes to a head, and running at close to two hours, it lacks the essential brevity of the form.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20080404.wleather04/BNStory/Entertainment/home</url>
+         <critic>Liam Lacey</critic>
+      </review>
+      <review>
+         <snippet>There's a jaunty score by Randy Newman, and Clooney, as always, has charm to burn, but here, he's off his game.</snippet>
+         <url>http://online.wsj.com/article/SB120728209874389083.html</url>
+         <critic>Joanne Kaufman</critic>
+      </review>
+      <review>
+         <snippet>Frankly, Zellweger shouldn't have to compete with the ghosts of Rosalind Russell and Carole Lombard, as Clooney forces her to do. It's one thing to evoke the Champagne sophistication of the screwball era; it's another to try to emulate it. Inevitably, the harder you work at capturing madcap fizz, the flatter things are going to feel.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2008/04/04/2008-04-04_leatherheads_misses_the_snap.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>The great '30s comedies had edge, bite and relentless forward momentum. Leatherheads is laid-back, amiable and terminally tepid.</snippet>
+         <url>http://www.newsweek.com/id/129581</url>
+         <critic>David Ansen</critic>
+      </review>
+      <review>
+         <snippet>You have to give Leatherheads this much: It's like no other comedy, or movie, out there these days. Clooney, one of our few old-style Hollywood movie stars himself, obviously loves old-fashioned moviemaking.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2008/04/04/leatherheads/</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>It exudes goodwill and high spirits, occasionally makes you feel really good, and yet here and there and in some definite ways, it kinda sorta stinks.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2008/04/03/DDDTVUNEQ.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>On paper it looks like a gem – roaring 20s setting, verbal fireworks and a silly sport in its rude infancy. In practice, it's way off the pace, far too slow for its screwball pretensions and the kind of film that confuses pastiche with period detail.</snippet>
+         <url>http://www.empireonline.com/reviews/reviewcomplete.asp?FID=135253</url>
+         <critic>Simon Braund</critic>
+      </review>
+      <review>
+         <snippet>What is harder to comprehend is how Mr. Clooney turned out such a sloppy, haphazard and tonally incoherent piece of work. Leatherheads lurches hectically between Coen brothers-style pastiche and John Saylesian didacticism, while Mr. Clooney works his brow and his jaw and waits in vain for his charm to kick in and save the day.</snippet>
+         <url>http://movies.nytimes.com/2008/04/04/movies/04leat.html?ref=movies</url>
+         <critic>A.O. Scott</critic>
+      </review>
+   </reviews>
+   <US_Gross>$31,373,938</US_Gross>
+   <production_budget>$58,000,000</production_budget>
+   <weekend_gross>$12,682,595</weekend_gross>
+   <number_of_screens>2,769</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

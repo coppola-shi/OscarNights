@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Big Man Japan</name>
+   <company>Magnet Releasing (Magnolia Pictures)</company>
+   <genres>
+      <genre>Comedy</genre>
+   </genres>
+   <authors>
+      <author>Hitoshi Matsumoto</author>
+      <author>Mitsuyoshi Takasu</author>
+   </authors>
+   <directors>
+      <director>Hitoshi Matsumoto</director>
+   </directors>
+   <origins>
+      <origin>Japan</origin>
+   </origins>
+   <actors>
+      <actor>Hitoshi Matsumoto</actor>
+      <actor>Riki Takeuchi</actor>
+      <actor>Ua</actor>
+      <actor>Ryunosuke Kamiki</actor>
+      <actor>Haruka Unabara</actor>
+      <actor>Tomoji Hasegawa</actor>
+      <actor>Itsuji Itao</actor>
+      <actor>Hiroyuki Miyasako</actor>
+   </actors>
+   <release_date>May 15, 2009</release_date>
+   <running_time>113</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>Decidedly odd, even by Japanese standards, this mockumentary about an electrically charged, skyscraper-high superhero saddled with misfortune, bad press and even worse TV ratings is tears-down-the-face funny and a genuine, jaw-dropping oddity.</snippet>
+         <url>http://www.variety.com/index.asp?layout=festivals&amp;jump=review&amp;reviewid=VE1117933854&amp;cs=1&amp;p=0</url>
+         <critic>Russell Edwards</critic>
+      </review>
+      <review>
+         <snippet>I hurt myself laughing at this amazingly inventive mockumentary, and because it's so good, I refuse to give away much more than an insistent recommendation.</snippet>
+         <url>http://www.villagevoice.com/2008-06-17/film/life-beyond-j-horror-at-asian-film-fest/</url>
+         <critic>Aaron Hillis</critic>
+      </review>
+      <review>
+         <snippet>Very funny in an insidious way.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20090624/REVIEWS/906249984</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>Hysterically funny CGI fight sequences, which pit the chubby superhero against a series of creatures so bizarre they'd keep Hieronymus Bosch awake at night.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/34497_BIG_MAN_JAPAN.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>The most impressive special effect here is Mr. Matsumoto's hilariously restrained performance, a tour de force of comedic concision in a movie bloated by increasingly surreal developments.</snippet>
+         <url>http://movies.nytimes.com/2009/05/15/movies/15bigm.html?ref=movies</url>
+         <critic>Nathan Lee</critic>
+      </review>
+      <review>
+         <snippet>The film has slow sections that test the viewer's patience. But it also touches on themes of family, heroism and nationalism, and the finale, which has plenty of surprises and rewarding references for fans of the genre, is worth the wait.</snippet>
+         <url>http://www.latimes.com/entertainment/news/la-et-capsules15-2009may15,0,6677912.story</url>
+         <critic>Michael Ordona</critic>
+      </review>
+      <review>
+         <snippet>Awfully funny, with surprisingly potent social commentary just underneath the quirkiness.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=11742</url>
+         <critic>Scott Mendelson</critic>
+      </review>
+      <review>
+         <snippet>The effects are reasonably well-created, though hardly transparent. The last 15 minutes of the film spins out into unimaginable realms. Fans of this kind of stuff will leave smitten; those accompanying them to the theatre will have a pretty good time too.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A612367</url>
+         <critic>Marjorie Baumgarten</critic>
+      </review>
+      <review>
+         <snippet>At nearly two hours, Big Man Japan is clever (in a sick sort of way) but overlong. It needs judicious editing -- more mockumentary, fewer superhero antics.</snippet>
+         <url>http://www.nypost.com/seven/05152009/entertainment/movies/big_man_japan_169323.htm</url>
+         <critic>V.A. Musetto</critic>
+      </review>
+      <review>
+         <snippet>When a movie is this strange, it's gotta count for something.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2009/05/15/2009-05-15_short_takes_.html</url>
+         <critic>Joe Neumaier</critic>
+      </review>
+      <review>
+         <snippet>Matsumoto isn't the first Japanese director to go all meta on the superhero tradition (consider also Takashi Miike's 2004 "Zebraman"), but this work of improbable lunacy may well max out the genre.</snippet>
+         <url>http://www.salon.com/ent/movies/btm/feature/2009/05/16/roundup/index.html</url>
+         <critic>Andrew O&amp;#039;Hehir</critic>
+      </review>
+      <review>
+         <snippet>Between such shots of inspiration, Matsumoto’s mock-doc framework seems a lazy stock device, interviews playing more dead than deadpan and failing to exceed an over-familiar comic-pathetic attitude toward the lives of functionaries.</snippet>
+         <url>http://www.laweekly.com/2009-05-14/film-tv/movie-reviews-big-man-japan-management-not-forgetten/</url>
+         <critic>Nick Pinkerton</critic>
+      </review>
+      <review>
+         <snippet>But the film written, directed and starring stand-up comic Hitoshi Matsumoto has, like most superheroes, a tragic flaw: It isn't funny.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2009/05/28/MVE417ROE1.DTL&amp;type=movies</url>
+         <critic>G. Allen Johnson</critic>
+      </review>
+   </reviews>
+   <US_Gross>$40,796</US_Gross>
+   <weekend_gross>$23,945</weekend_gross>
+   <number_of_screens>1</number_of_screens>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

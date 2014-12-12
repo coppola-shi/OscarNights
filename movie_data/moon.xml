@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Moon</name>
+   <company>Sony Pictures Classics</company>
+   <genres>
+      <genre>Scifi</genre>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>Duncan Jones</author>
+      <author>Nathan Parker</author>
+   </authors>
+   <directors>
+      <director>Duncan Jones</director>
+   </directors>
+   <origins>
+      <origin>UK</origin>
+   </origins>
+   <actors>
+      <actor>Sam Rockwell</actor>
+      <actor>Kevin Spacey</actor>
+      <actor>Dominique McElligott</actor>
+      <actor>Rosie Shaw</actor>
+      <actor>Kaya Scodelario</actor>
+      <actor>Benedict Wong</actor>
+   </actors>
+   <release_date>June 12, 2009</release_date>
+   <running_time>97</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>More than anything this is an intelligent film, a satisfying bit of old-school sci-fi suspense.</snippet>
+         <url>http://www.nola.com/movies/index.ssf/2009/07/oldschool_scifi_yarn_from_davi.html</url>
+         <critic>Mike Scott</critic>
+      </review>
+      <review>
+         <snippet>Moon doesn't belabor anything, really, so confidently measured and philosophically nuanced it all plays out (aided by a striking, under-the-skin original score by Clint Mansell).</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A806622</url>
+         <critic>Kimberley Jones</critic>
+      </review>
+      <review>
+         <snippet>After the chaos of "Transformers: Revenge of the Fallen," it's refreshing to encounter a science fiction film that respects the intelligence and attention span of an adult.</snippet>
+         <url>http://www.reelviews.net/php_review_template.php?identifier=1704</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>Moon is a potent provocation that relies on ideas instead of computer tricks to stir up excitement.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/25457791/review/28631101/moon</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>Moon is a superior example of that threatened genre, hard science-fiction, which is often about the interface between humans and alien intelligence of one kind of or other, including digital.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20090617/REVIEWS/906179987</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>Moon is enjoyable as much for its small scale and solid execution as for its crazy twists and creeping existential dread.</snippet>
+         <url>http://www.avclub.com/articles/moon,29096/</url>
+         <critic>Noel Murray</critic>
+      </review>
+      <review>
+         <snippet>Moon doesn't arrive with a train of ballyhoo, but its quiet charms easily drowns out the clatter of bigger, dumber pictures.</snippet>
+         <url>http://blog.oregonlive.com/madaboutmovies/2009/07/a_moon_with_a_few_faces_too_ma.html</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>This eerie drama harks back to sci-fi movies of the late 60s and early 70s that explored inner as well as outer space (2001, Solaris, and particularly Silent Running).</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/critic.html#34491</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>They do make ’em like they used to -- a fresh blast of old-school sci-fi, bursting with ideas and a stellar turn from Rockwell.</snippet>
+         <url>http://www.empireonline.com/reviews/reviewcomplete.asp?FID=136284</url>
+         <critic>Simon Crook</critic>
+      </review>
+      <review>
+         <snippet>Moon is one of those rare gems of the sci-fi genre that takes its acting as seriously as it treats its special effects.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=11506</url>
+         <critic>Whitney Borup</critic>
+      </review>
+      <review>
+         <snippet>Under Duncan Jones' kinetic direction, Moon also shines on the production front: Cinematographer Gary Shaw's shaded shots intensify the drama, and Clint Mansell's music heightens the psycho-scape.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film-reviews/film-review-moon-1003934260.story</url>
+         <critic>Duane Byrge</critic>
+      </review>
+      <review>
+         <snippet>Moon, a superb first feature directed by Duncan Jones (David Bowie's son) and starring an impressive Sam Rockwell, is an intelligent, evocative and deceptively low-key sci-fi adventure.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2009-06-11-moon_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>Moon is a small-scale film, but, thanks in no small part to Rockwell, its mix of thematic grandeur and human drama makes it a worthy successor to those 1970s science fiction films that inspired it.</snippet>
+         <url>http://movies.tvguide.com/moon/review/297742</url>
+         <critic>Josh Ralske</critic>
+      </review>
+      <review>
+         <snippet>Moon is a deceptively simple study of alienation, paranoia, and loneliness.</snippet>
+         <url>http://www.philly.com/philly/entertainment/movies/20090703_Man_on_the_moon__all_alone.html</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>Watching Moon is kind of like seeing a booster rocket thrust seventies' sci-fi films deeper into orbit.</snippet>
+         <url>http://www.theglobeandmail.com/news/arts/moon/article1204490/</url>
+         <critic>Stephen Cole</critic>
+      </review>
+      <review>
+         <snippet>Most contemporary sci-fi movies come on with all CGI-guns blazing, trying to blow the roof off the theater. Moon settles for trying to blow your mind instead.</snippet>
+         <url>http://www.miamiherald.com/entertainment/movies/reviews/story/1133707.html</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>The film's ideas are interesting, but don't feel entirely worked out, and Mr. Rockwell's intriguingly strange performance (or performances) is left suspended, without the context that would give Sam's plight its full emotional and philosophical impact. The smallness of this movie is decidedly a virtue, but also, in the end, something of a limitation.</snippet>
+         <url>http://movies.nytimes.com/2009/06/12/movies/12moon.html?ref=movies</url>
+         <critic>A.O. Scott</critic>
+      </review>
+      <review>
+         <snippet>I won't pretend to understand the movie's deep meaning--if it has one--but I can say three things for sure: Mr. Rockwell gives a brilliant performance, the physical production is impressive and Moon made me think. Four things: It made me smile.</snippet>
+         <url>http://online.wsj.com/article/film_review.html</url>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>Despite its handsome look and good thesping workout for Sam Rockwell, the story stretches a bit thin over feature length.</snippet>
+         <url>http://www.variety.com/index.asp?layout=festivals&amp;jump=review&amp;reviewid=VE1117939363&amp;cs=1&amp;query=moon</url>
+         <critic>Dennis Harvey</critic>
+      </review>
+      <review>
+         <snippet>The double role suits Rockwell perfectly -- in fact, it suits him a little too well.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20284265,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>The actor proves capable of embodying all sorts of contradictory impulses as his character becomes tragically self-aware. But he can't overcome a plot that goes slack at precisely the moment it should be soaring, or a corporate-villainy premise that practically begs not to be looked at too closely.</snippet>
+         <url>http://www.npr.org/templates/story/story.php?storyId=105201326</url>
+         <critic>Bob Mondello</critic>
+      </review>
+      <review>
+         <snippet>Freaked-out funky weirdness starts to happen all around him (Rockwell).</snippet>
+         <url>http://www.nypost.com/seven/06122009/entertainment/movies/scratch_a_lunar_surface_and_oddities_abo_173783.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>Moon might be a once-in-a-lifetime experience for fans of Sam Rockwell. Will there ever be more of him in one movie than there is here?</snippet>
+         <url>http://www.boston.com/ae/movies/articles/2009/06/19/moon_stars_sam_rockwell_as_an_astronaut_sadly_finishing_three_years_in_space/</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>Kevin Spacey delivers his least-mannered, most effective big-screen performance in years as the voice of the nearly omniscient computer-robot, GERTY, whose silky ambiguity resembles HAL's in Stanley Kubrick's "2001: A Space Odyssey."</snippet>
+         <url>http://www.baltimoresun.com/entertainment/bal-ae.mo.moon10jul10,0,6238744.story</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>Storywise, Moon fails to live up to the promise of its premise. There's plenty of atmosphere, but little gravity.</snippet>
+         <url>http://www.washingtonpost.com/gog/movies/moon,1156495/critic-review.html#reviewNum1</url>
+         <critic>Dan Zak</critic>
+      </review>
+      <review>
+         <snippet>Impressively pulled together on a modest budget, Moon has a strong lead and a valid philosophical premise but, despite Bell's fissured psyche, the drama is inert.</snippet>
+         <url>http://www.villagevoice.com/2009-06-10/film/bowie-s-kid-makes-moon-a-space-oddity/</url>
+         <critic>J. Hoberman</critic>
+      </review>
+      <review>
+         <snippet>Try as they might, the filmmakers never hit the outer reaches of imagination that both Kubrick and Bowie did. Which is not to say the film completely implodes into a black hole either.</snippet>
+         <url>http://www.latimes.com/entertainment/news/la-et-moon12-2009jun12,0,1763855.story</url>
+         <critic>Betsy Sharkey</critic>
+      </review>
+      <review>
+         <snippet>Moon is boring. Agonizingly, deadeningly, coma-inducingly, they-could-bury-you-alive-accidentally boring.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2009/06/18/MVKE188CIH.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>It just may be the most boring movie ever made – period.</snippet>
+         <url>http://www.csmonitor.com/2009/0612/p17s03-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+   </reviews>
+   <US_Gross>$5,009,677</US_Gross>
+   <production_budget>$5,000,000</production_budget>
+   <weekend_gross>$136,046</weekend_gross>
+   <number_of_screens>8</number_of_screens>
+   <oscar_winning_actors_present/>
+   <num_oscar_winning_actors>1</num_oscar_winning_actors>
+   <oscar_winning_actor>kevin spacey</oscar_winning_actor>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Watchmen</name>
+   <company>Warner Bros. Pictures</company>
+   <genres>
+      <genre>Action</genre>
+      <genre>Adventure</genre>
+      <genre>Fantasy</genre>
+      <genre>Scifi</genre>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>Alan Moore</author>
+      <author>Dave Gibbons</author>
+      <author>Alex Tse</author>
+      <author>David Hayter</author>
+   </authors>
+   <directors>
+      <director>Zack Snyder</director>
+   </directors>
+   <origins>
+      <origin>UK</origin>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Jackie Earle Haley</actor>
+      <actor>Patrick Wilson</actor>
+      <actor>Matthew Goode</actor>
+      <actor>Billy Crudup</actor>
+      <actor>Jeffrey Dean Morgan</actor>
+      <actor>Malin Akerman</actor>
+      <actor>Carla Gugino</actor>
+      <actor>Stephen McHattie</actor>
+      <actor>Matt Frewer</actor>
+   </actors>
+   <release_date>March 6, 2009</release_date>
+   <running_time>163</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>Director Zack Snyder's cerebral, scintillating follow-up to "300" seems, to even a weary filmgoer's eye, as fresh and magnificent in sound and vision as "2001" must have seemed in 1968, yet in its eagerness to argue with itself, it resembles "A Clockwork Orange."</snippet>
+         <url>http://www.nypost.com/seven/03042009/entertainment/movies/watch_it__157975.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>The whole thing works, especially for the non-comic audience. Plus, the music is perfect, especially the opening montage set to Bob Dylan's, "The Times They Are a-Changin."</snippet>
+         <url>http://www.premiere.com/Review/Movies/Watchmen-Imax</url>
+         <critic>Patrick Parker</critic>
+      </review>
+      <review>
+         <snippet>It's a compelling visceral film -- sound, images and characters combined into a decidedly odd visual experience that evokes the feel of a graphic novel. It seems charged from within by its power as a fable; we sense it’s not interested in a plot so much as with the dilemma of functioning in a world losing hope.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20090304/REVIEWS/903049997</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>Part conscious and part unconscious, Watchmen tells us of a world without hope and then makes us wonder if we're already living in it.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2009/03/05/BA5M16993S.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>A terrific comic-book movie, the most completely satisfying and unsettling one I've ever seen.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2009/03/06/watchmen/index.html</url>
+         <critic>Andrew O&amp;#039;Hehir</critic>
+      </review>
+      <review>
+         <snippet>The casting clicks; the visuals have leaped right out of Dave Gibbons' original panels; the action is brutal, stylish and well-staged, and -- with most of the major characters, themes and symbolism are retained in an abbreviated form -- the 2 1/2-hour film makes an enjoyably esoteric Cliff's Notes version of the book.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/402375_watchmen06q.html</url>
+         <critic>William Arnold</critic>
+      </review>
+      <review>
+         <snippet>Okay, it isn't the graphic novel, but Zack Snyder clearly gives a toss, creating a smart, stylish, decent adaptation, if low on accessibility for the non-convert.</snippet>
+         <url>http://www.empireonline.com/reviews/reviewcomplete.asp?FID=11018</url>
+         <critic>Ian Nathan</critic>
+      </review>
+      <review>
+         <snippet>Watchmen has moments of greatness. It proves again that the action movie is where the best young Hollywood brains have gone to bring flesh to their fantasies.</snippet>
+         <url>http://www.time.com/time/arts/article/0,8599,1883200,00.html</url>
+         <critic>Richard Corliss</critic>
+      </review>
+      <review>
+         <snippet>It may not include every nuance of the graphic novel, but it captures as much as any adaptation could -- which may not satisfy the fanboys, but it's probably more than enough for everyone else.</snippet>
+         <url>http://movies.tvguide.com/watchmen/review/290784</url>
+         <critic>Cammila Albertson</critic>
+      </review>
+      <review>
+         <snippet>Watchmen is a fitting tribute to Alan Moore's fascinating graphic novel, even if he refused to let his name be used in the credits.</snippet>
+         <url>http://events.charlotteobserver.com/reviews/show/41342-review-watchmen</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>Watchmen is a spectacularly violent movie.</snippet>
+         <url>http://www.miamiherald.com/entertainment/movies/reviews/story/933300.html</url>
+         <critic>Connie Ogle</critic>
+      </review>
+      <review>
+         <snippet>This movie will shake your windows and rattle your walls.</snippet>
+         <url>http://www.philly.com/inquirer/columnists/steven_rea/20090305_Skewed_superheroes.html</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>Snyder's Watchmen keeps moving so assuredly, it's nearly impossible not to get swept along.</snippet>
+         <url>http://www.avclub.com/articles/watchmen,24707/</url>
+         <critic>Keith Phipps</critic>
+      </review>
+      <review>
+         <snippet>Like the writings of William Burroughs or Quentin Tarantino's "Pulp Fiction," Watchmen falls into the category of what might be called meta-pulp, a multilayered fiction that serves as a parody and commentary on our collective bottom-feeding fantasies.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20090305.wwatchmen0306/BNStory/Entertainment/home</url>
+         <critic>Liam Lacey</critic>
+      </review>
+      <review>
+         <snippet>The 155 minutes of Watchmen are studded with inspired spectacles: fights and flights and imaginary creatures and reworked bits of history.</snippet>
+         <url>http://blog.oregonlive.com/madaboutmovies/2009/03/review_watching_watchmen_a_mix.html</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>Even Watchmen fanatics may be doomed to a disappointment that results from trying to stay THIS faithful to a comic book.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20262574,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>For the Watchmen fan, this may be as close to the Holy Grail as a motion picture could come. For everyone else, a sense of frustration and disappointment is not unwarranted. Watchmen is many things but it is not the Next Great Comic Book Movie or the film that will advance graphic novel adaptations to the next level.</snippet>
+         <url>http://www.reelviews.net/php_review_template.php?identifier=1496</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>Stumbles and sometimes falls on its top-heavy ambitions. But there are also flashes of visual brilliance and performances, especially from Haley and Crudup, that drill deep into the novel's haunted soul.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/18926518/review/26479536/watchmen</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>The best moments in Watchmen, then, work as delirious music-videos.</snippet>
+         <url>http://www.boston.com/ae/movies/articles/2009/03/06/masked_madmen/</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>Snyder stands revealed here as more of a beginner than a visionary in his uncertain approach to making an on-screen world come alive.</snippet>
+         <url>http://www.latimes.com/entertainment/news/reviews/la-et-watchmen5-2009mar05,0,7515031.story</url>
+         <critic>Kenneth Turan</critic>
+      </review>
+      <review>
+         <snippet>The most pleasant surprise in the movie adaptation of "Watchmen" is the pop-art fusion set off by placing superheroes in a "real" world. The film's biggest challenge – and accomplishment – was making that plausible.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2009/03/05/2009-03-05_zack_snyders_watchmen_has_a_great_popart.html</url>
+         <critic>Joe Neumaier</critic>
+      </review>
+      <review>
+         <snippet>In the canon of comic-book movies, it's not as campy bad as the "Batman" starring George Clooney, but nowhere near the caliber of the Spider-Man movies or "The Dark Knight." It may have more style, but it's only a jot more entertaining than "Catwoman."</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2009-03-04-watchmen_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>Watchmen is neither desecratory disaster nor total triumph. In filming David Hayter and Alex Tse's adaptation of the most ambitious superhero comic book ever written, director Zack Snyder has managed to address the cult while pandering to the masses.</snippet>
+         <url>http://www.villagevoice.com/2009-03-04/film/zack-snyder-didn-t-ruin-watchmen/</url>
+         <critic>J. Hoberman</critic>
+      </review>
+      <review>
+         <snippet>The movie is ultimately undone by its own reverence; there's simply no room for these characters and stories to breathe of their own accord, and even the most fastidiously replicated scenes can feel glib and truncated.</snippet>
+         <url>http://www.variety.com/review/VE1117939777.html?categoryid=31&amp;cs=1</url>
+         <critic>Justin Chang</critic>
+      </review>
+      <review>
+         <snippet>Watchmen is a bore. Sad to say, after a wait of more than two decades, the much-anticipated adaptation of the world's most celebrated graphic novel is long, dull and subject to what might be called the "Lord of the Rings" problem: It sinks under the weight of its reverence for the original.</snippet>
+         <url>http://www.washingtonpost.com/wp-dyn/content/article/2009/03/04/AR2009030403970.html</url>
+         <critic>Philip Kennicott</critic>
+      </review>
+      <review>
+         <snippet>Watchmen fans wondering whether their graphic novel has been ruined will be thrilled to see its key scenes reproduced with storyboardlike fidelity, but those who've never read it will be unlikely to understand what the big deal was in the first place.</snippet>
+         <url>http://www.slate.com/id/2212973/</url>
+         <critic>Dana Stevens</critic>
+      </review>
+      <review>
+         <snippet>Watchmen is worth seeing, fan or no, for Haley's squirmy presence alone, and all the other characters are also well-served.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A750327</url>
+         <critic>Marc Savlov</critic>
+      </review>
+      <review>
+         <snippet>Watchmen is indeed gorgeous, with Gibbons' original work reproduced and – in some cases – improved upon by detailed F/X, but even at a healthy two hours and 41 minutes the story feels truncated. Even abrupt.</snippet>
+         <url>http://www.filmthreat.com/</url>
+         <critic>Pete Vonder Haar</critic>
+      </review>
+      <review>
+         <snippet>Although the film's visuals are a cut above, say, "Sin City," another serioso graphic novel-turned-movie, it has the same mood: a film-noir-ish soddenness punctuated by megaviolence. Watchmen is the anti-"Incredibles."</snippet>
+         <url>http://www.csmonitor.com/2009/0307/p25s02-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>The director recycles some of the better effects from his gladiator epic "300"...and he's being so faithful to the work of comics artist Dave Gibbons that he might as well have used the graphic novel's illustrations as a storyboard.</snippet>
+         <url>http://www.npr.org/templates/story/story.php?storyId=101378251</url>
+         <critic>Bob Mondello</critic>
+      </review>
+      <review>
+         <snippet>Director Zack Snyder races through the story, faithfully reproducing this bit of dialogue from Moore and that bit of imagery from Gibbons but never pausing to develop a vision of his own. The result is oddly hollow and disjointed; the actors moving stiffly from one overdetermined tableau to another.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/34160_WATCHMEN.html</url>
+         <critic>Noah Berlatsky</critic>
+      </review>
+      <review>
+         <snippet>Speaking as an admirer, but not an apostle, of the graphic novel, I thought the Watchmen movie was confusing, maddeningly inconsistent and fighting a long, losing battle to establish an identity of its own.</snippet>
+         <url>http://www.newsweek.com/id/186958</url>
+         <critic>Devin Gordon</critic>
+      </review>
+      <review>
+         <snippet>As it is, the film is more curiosity than provocation, an artifact of a faded world brought to zombie half-life by the cinematic technology of the present.</snippet>
+         <url>http://movies.nytimes.com/2009/03/06/movies/06Watc.html?ref=movies</url>
+         <critic>A.O. Scott</critic>
+      </review>
+      <review>
+         <snippet>The appeal of the film version, such as it is, relates almost entirely to eye-for-an-eye, severed-limb-for-a-limb vengeance, two hours and 41 minutes of it, with just enough solemnity to make anyone who thought "The Dark Knight" was a little gassy think twice about which superhero myth THEY'RE calling gassy.</snippet>
+         <url>http://www.chicagotribune.com/entertainment/movies/chi-0306-watchmen-reviewmar06,0,4293543.story</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>The film's storytelling and image-making lack originality and vitality. Nothing sticks to your memory unless you come in with recollections of the book.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/dining/reviews/bal-watchmen-review-0304,0,7576087.story</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>This kind of reverence kills what it seeks to preserve. The movie is embalmed.</snippet>
+         <url>http://nymag.com/movies/reviews/55005/</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>The problem is that Snyder, following Moore, is so insanely aroused by the look of vengeance, and by the stylized application of physical power, that the film ends up twice as fascistic as the forces it wishes to lampoon.</snippet>
+         <url>http://www.newyorker.com/arts/critics/cinema/2009/03/09/090309crci_cinema_lane</url>
+         <critic>Anthony Lane</critic>
+      </review>
+      <review>
+         <snippet>Snyder and writers David Hayter and Alex Tse never find a reason for those unfamiliar with the graphic novel to care about any of this nonsense. And it is nonsense.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film-reviews/film-review-watchmen-1003945726.story</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>Elegance isn't Zack Snyder's bag; a certain sort of impact is. Watchmen establishes him as Hollywood's reigning master of psychic suffocation.</snippet>
+         <url>http://online.wsj.com/article/SB123629428724445423.html</url>
+         <critic>Joe Morgenstern</critic>
+      </review>
+   </reviews>
+   <US_Gross>$107,509,799</US_Gross>
+   <production_budget>$138,000,000</production_budget>
+   <weekend_gross>$55,214,334</weekend_gross>
+   <number_of_screens>3,611</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

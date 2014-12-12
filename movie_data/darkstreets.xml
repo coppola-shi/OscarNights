@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Dark Streets</name>
+   <company>Samuel Goldwyn Films</company>
+   <genres>
+      <genre>Drama</genre>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>Wallace King</author>
+   </authors>
+   <directors>
+      <director>Rachel Samuels</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Gabriel Mann</actor>
+      <actor>Bijou Phillips</actor>
+      <actor>Izabella Miko</actor>
+      <actor>Elias Koteas</actor>
+      <actor>Michael Fairman</actor>
+      <actor>Toledo Diamond</actor>
+   </actors>
+   <release_date>December 12, 2008</release_date>
+   <running_time>minutes,</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>Alas, the flimsy plot -- less a whodunit than an isn't-it-screamingly-obvious-that-that-guy-done-it! -- will have thriller fans singing the blues.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20245346,00.html</url>
+         <critic>Clark Collis</critic>
+      </review>
+      <review>
+         <snippet>The kind of film you can appreciate as an object, but not as a story. It's a lovingly souped-up incarnation of the film-noir look, contains well-staged and performed musical numbers, and has a lot of cigarettes, tough tootsies, bad guys and shadows. What it doesn't have is a story that pulls us along, or a hero who seems as compelling as some of the supporting characters.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20081210/REVIEWS/812109995</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>The movie, drawn from Wallace King's adaptation of Glenn Stewart's play, drips with style, but it's all flourish and no reveal.</snippet>
+         <url>http://www.latimes.com/entertainment/news/reviews/la-et-darkstreets12-2008dec12,0,799194.story</url>
+         <critic>Sam Adams</critic>
+      </review>
+      <review>
+         <snippet>The type of film I would call eternally frustrating. Boasting a solid cast and an amazing look, the film is a mishmash of film noir, mystery and bluesy big band song and dance numbers that on a surface level play brilliantly.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=11023</url>
+         <critic>Don R. Lewis</critic>
+      </review>
+      <review>
+         <snippet>I love musicals, but I'd be hard-pressed to recommend this curiosity, sort of a shoestring version of Francis Ford Coppola's "The Cotton Club."</snippet>
+         <url>http://www.nypost.com/seven/12122008/entertainment/movies/dark_streets_143818.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>The script is just all kinds of terrible. The characters are hollow mannequins telling a thin, depressing story that's less of a noir and more of a simple-minded bummer full of barely connected scenes and stunningly empty dialogue.</snippet>
+         <url>http://www.oregonlive.com/movies/index.ssf/2008/12/movie_review_dark_streets_brin.html</url>
+         <critic>M. E. Russell</critic>
+      </review>
+      <review>
+         <snippet>The main pitfall of modern noirs is that filmmakers get so caught up in the chiaroscuro lighting schemes and florid twists of dialogue and voiceover that they forget noir was about expressing more than just attitude and style.</snippet>
+         <url>http://www.avclub.com/content/cinema/dark_streets</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>The film has its shallow pleasures, but once it becomes obvious that that's all Dark Streets has going for it, the affected performances and forced tough-guy speak stop feeling playful and start to become oppressive.</snippet>
+         <url>http://www.villagevoice.com/2008-12-10/film/dark-streets-looks-like-moulin-rouge-and-chicago-but-cheaper/</url>
+         <critic>Tim Grierson</critic>
+      </review>
+      <review>
+         <snippet>As a dancing chanteuse, Bijou Phillips gives it her all, which isn't enough, and a wooden Mann doesn't help, although Izabella Miko brings a modicum of unaffected charm to her role as the Other Woman.</snippet>
+         <url>http://www.variety.com/review/VE1117939194.html?categoryid=31&amp;cs=1</url>
+         <critic>Rob Nelson</critic>
+      </review>
+      <review>
+         <snippet>Diverting enough as a series of music videos, Dark Streets strikes postures in place of drama.</snippet>
+         <url>http://movies.nytimes.com/2008/12/12/movies/12dark.html?ref=movies</url>
+         <critic>Nathan Lee</critic>
+      </review>
+      <review>
+         <snippet>Let no one ever say that Dark Streets doesn't have the perfect title. It may not be much more than a stylized regurgitation of creaky film-noir clichés and crime-fiction conventions … but its streets are undeniably dark.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A712962</url>
+         <critic>Josh Rosenblatt</critic>
+      </review>
+      <review>
+         <snippet>Pretentious mess of a movie.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/391702_dark12q.html</url>
+         <critic>Travis Nichols</critic>
+      </review>
+      <review>
+         <snippet>Dark Streets lost me early, real early, like still-adjusting-my-eyes-in-a-dark-theater early.</snippet>
+         <url>http://www.chicagotribune.com/entertainment/movies/chi-dark-streets-review-1212_dec12,0,963673.story</url>
+         <critic>Christopher Borrelli</critic>
+      </review>
+   </reviews>
+   <US_Gross>$10,958</US_Gross>
+   <weekend_gross>$10,958</weekend_gross>
+   <number_of_screens>18</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

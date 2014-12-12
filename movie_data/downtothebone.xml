@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Down to the Bone</name>
+   <company>Laemmle/Zeller Films</company>
+   <genres>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author>Debra Granik</author>
+      <author>Richard Lieske</author>
+   </authors>
+   <directors>
+      <director>Debra Granik</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Vera Farmiga</actor>
+      <actor>Hugh Dillon</actor>
+      <actor>Clint Jordan</actor>
+      <actor>Caridad &amp;#039;La Bruja&amp;#039; De La Luz</actor>
+      <actor>Jasper Daniels</actor>
+      <actor>Taylor Foxhall</actor>
+   </actors>
+   <release_date>November 25, 2005</release_date>
+   <running_time>104</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>Down to the Bone achieves what only the best independent films have: making life, at its most unvarnished, a journey.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1136103_1_0_,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>The film is so pitch perfect and realistic, it seems you are there with these people, watching their lives unfold before you as it happens.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2005/12/16/DDG79G88O11.DTL&amp;type=movies</url>
+         <critic>G. Allen Johnson</critic>
+      </review>
+      <review>
+         <snippet>Down to the Bone emerges with an aura of authenticity so strong as to be mesmerizing, thanks to a superior script brought to life with infallibly natural performances.</snippet>
+         <url>http://www.calendarlive.com/movies/cl-et-bone25nov25,0,687298.story</url>
+         <critic>Kevin Thomas</critic>
+      </review>
+      <review>
+         <snippet>Quietly devastating.</snippet>
+         <url>http://www.laweekly.com/film/film_results.php?showid=3671&amp;Sumbit.x=36&amp;Sumbit.y=14</url>
+         <critic>Ella Taylor</critic>
+      </review>
+      <review>
+         <snippet>Writer-director Debra Granik has found a star, and wisely builds every scene around Farmiga's character.</snippet>
+         <url>http://www.nypost.com/movies/58246.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>If there were an ounce of taste left in Hollywood, the magnificent Vera Farmiga would be a front-runner for the Best Actress Oscar.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/_/id/6642109/rid/9118185/</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>A quietly harrowing chronicle of addiction and fragile recovery anchored by Vera Farmiga's intense performance.</snippet>
+         <url>http://online.tvguide.com/movies/database/ShowMovie.asp?MI=46583</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>The kind of movie most independent films strive in vain to be: a small, beautifully faceted gem.</snippet>
+         <url>http://movies2.nytimes.com/2005/11/24/movies/25bone.html</url>
+         <critic>Lawrence Van Gelder</critic>
+      </review>
+      <review>
+         <snippet>Strong performances from Vera Farmiga and Hugh Dillon keep things from becoming overdramatic.</snippet>
+         <url>http://www.filmthreat.com/Reviews.asp?Id=5364</url>
+         <critic>Pete Vonder Haar</critic>
+      </review>
+      <review>
+         <snippet>This is a performance without the histrionics and emotional outbursts that accompany most portrayals of addiction. This feels closer to the truth.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=2072542</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>First-time feature director's disciplined objectivity is coupled with humanism in this collaboration with a gifted cast and cinematographer. The artistic success, though, may be a bit too cool.</snippet>
+         <url>http://www.variety.com/review/VE1117922892?categoryid=31&amp;cs=1</url>
+         <critic>Robert Koehler</critic>
+      </review>
+      <review>
+         <snippet>Like Catherine Hardwicke's "Thirteen," this film has an ear for the way moms talk to kids, a sensitivity to drug-sweetened intimacies, and an appreciation of the urgent nuance, not just the comedy, of recovery-speak.</snippet>
+         <url>http://www.villagevoice.com/film/0547,sinagra,70230,20.html</url>
+         <critic>Laura Sinagra</critic>
+      </review>
+      <review>
+         <snippet>Farmiga is excellent as a woman who is like the mouse she feeds to her son's pet snake - trapped and about to be eaten alive by ordinary circumstance.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/moviereviews/story/368909p-313719c.html</url>
+         <critic>Jami Bernard</critic>
+      </review>
+   </reviews>
+   <US_Gross>$29,823</US_Gross>
+   <weekend_gross>$7,352</weekend_gross>
+   <number_of_screens>2</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

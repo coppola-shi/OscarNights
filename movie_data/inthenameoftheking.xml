@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>In the Name of the King: A Dungeon Siege Tale</name>
+   <company>Freestyle Releasing</company>
+   <genres>
+      <genre>Action</genre>
+      <genre>Adventure</genre>
+      <genre>Fantasy</genre>
+   </genres>
+   <authors>
+      <author>Chris Taylor</author>
+      <author>Doug Taylor</author>
+      <author>Dan Stroncak</author>
+      <author>Jason Rappaport</author>
+   </authors>
+   <directors>
+      <director>Uwe Boll</director>
+   </directors>
+   <origins>
+      <origin>GermanyCanadaUSA</origin>
+   </origins>
+   <actors>
+      <actor>Jason Statham</actor>
+      <actor>Leelee Sobieski</actor>
+      <actor>John Rhys-Davies</actor>
+      <actor>Ray Liotta</actor>
+      <actor>Matthew Lillard</actor>
+      <actor>Burt Reynolds</actor>
+      <actor>Will Serson</actor>
+      <actor>Ron Perlman</actor>
+      <actor>Claire Forlani</actor>
+      <actor>Brian J. White</actor>
+      <actor>Kristanna Loken</actor>
+      <actor>Gabrielle Rose</actor>
+      <actor>Burt Reynolds</actor>
+      <actor>Ron Perlman</actor>
+   </actors>
+   <release_date>January 11, 2008</release_date>
+   <running_time>124</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>A second-rate regurgitation of "The Lord of the Rings." Everything about it, down to the set and costume design, apes Peter Jackson's epic trilogy. However, while "The Lord of the Rings" was a grand story of scope and power, In the Name of the King feels small in more ways than one.</snippet>
+         <url>http://www.reelviews.net/movies/i/in_king.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>Its convictionless competence is merely dull, denying the pleasures of an outright howler without providing much else.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-king14jan14,0,4871516.story?coll=cl-mreview</url>
+         <critic>Sam Adams</critic>
+      </review>
+      <review>
+         <snippet>Cultists will be happy to discover that In The Name Of The King bears all the so-bad-it's-good hallmarks of a classic Boll production.</snippet>
+         <url>http://www.avclub.com/content/cinema/in_the_name_of_the_king_a</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>Director Uwe Boll sticks with what he knows -- how to turn video games into dull, cheap-looking movies.</snippet>
+         <url>http://www.tvguide.com/movies/the-king-dungeon/review/291998</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>Is this movie so god-awful bad that it's hilariously good? Can't be bothered deciding. Figure that's an answer in itself.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20080110.wking11/BNStory/Entertainment/home</url>
+         <critic>Rick Groen</critic>
+      </review>
+      <review>
+         <snippet>This is the sort of movie where men stand blankly over dead loved ones, then start digging. Masculine stoicism or emotional botox? You decide.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=10475</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>An awkward “Lord of the Rings” knockoff, it features both elaborate battles and bumbling humor, though it’s never quite clear when you should be laughing.</snippet>
+         <url>http://movies.nytimes.com/2008/01/12/movies/12king.html?ref=movies</url>
+         <critic>Laura Kern</critic>
+      </review>
+      <review>
+         <snippet>As numbing and depressing to watch as suits hammering out a film-packaging deal one venal clause at a time.</snippet>
+         <url>http://www.laweekly.com/film+tv/film-reviews/movie-reviews-teeth-the-taste-of-tea-in-the-name-of-the-king/18172/</url>
+         <critic>Jim Ridley</critic>
+      </review>
+      <review>
+         <snippet>Who among us can explain the enigma wrapped in a riddle surrounded by fierce, ravening, razor-toothed conundrums that is German director Uwe Boll?</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A579224</url>
+         <critic>Marc Savlov</critic>
+      </review>
+      <review>
+         <snippet>It's completely undone by its terrible screenplay, inept direction, oppressive musical score and muddy visual palette.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?JSESSIONID=vrgVHLPDZ3T2XXYyL5hyhv1Rh3gjXfLhVFmZC02GjQds8N8qy8Yq!3588094&amp;&amp;rid=10447</url>
+         <critic>Frank Scheck</critic>
+      </review>
+      <review>
+         <snippet>A plodding patchwork of derivative fantasy-adventure, medieval production design, risible dialogue, unimpressive CGI trickery and haphazardly edited action sequences.</snippet>
+         <url>http://www.variety.com/review/VE1117935777.html?categoryid=31&amp;cs=1</url>
+         <critic>Joe Leydon</critic>
+      </review>
+   </reviews>
+   <US_Gross>$4,775,656</US_Gross>
+   <weekend_gross>$2,984,524</weekend_gross>
+   <number_of_screens>1,632</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

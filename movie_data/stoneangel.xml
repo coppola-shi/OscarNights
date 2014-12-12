@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Stone Angel, The</name>
+   <company>Vivendi Entertainment</company>
+   <genres>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author>Kari Skogland</author>
+      <author>Margaret Laurence</author>
+   </authors>
+   <directors>
+      <director>Kari Skogland</director>
+   </directors>
+   <origins>
+      <origin>Canada</origin>
+   </origins>
+   <actors>
+      <actor>Ellen Burstyn</actor>
+      <actor>Christine Horne</actor>
+      <actor>Cole Hauser</actor>
+      <actor>Kevin Zegers</actor>
+      <actor>Ellen Page</actor>
+      <actor>Dylan Baker</actor>
+      <actor>Wings Hauser</actor>
+   </actors>
+   <release_date>July 11, 2008</release_date>
+   <running_time>119</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>Prolific helmer Kari Skogland draws a fiery performance from vet Burstyn and a beguiling one from Christine Horne as the young Hagar. Yet the book's sheer "Giant"-like scope necessitates generational cross-cutting that's both rushed and cluttered; pic would have have been better served as a more leisurely miniseries.</snippet>
+         <url>http://www.variety.com/review/VE1117934976.html?categoryid=31&amp;cs=1&amp;p=0</url>
+         <critic>Eddie Cockrell</critic>
+      </review>
+      <review>
+         <snippet>Despite its cutesy comic-relief digressions and overdone solemnity, The Stone Angel finds its way past tonal inconsistencies to a moving conclusion that doesn't romanticize death.</snippet>
+         <url>http://www.villagevoice.com/2008-07-09/film/the-stone-angel/</url>
+         <critic>Tim Grierson</critic>
+      </review>
+      <review>
+         <snippet>This multigenerational family history has enough gripping moments to hold your attention, but ultimately it leaves you frustrated by its failure to braid subplots and characters into a gripping narrative.</snippet>
+         <url>http://movies.nytimes.com/2008/07/11/movies/11ston.html?ref=movies</url>
+         <critic>Stephen Holden</critic>
+      </review>
+      <review>
+         <snippet>Burstyn gets to use her full bag of tricks to bring this crabby, hard-knocks survivor to life. 
+Though she's aged 15 unflattering years, forced into awful old lady clothes and her character teeters on unsympathetic, the actress manages a rich, vanity-free performance, perhaps her best since "Requiem for a Dream."</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-capsules11-2008jul11,0,4030005.story</url>
+         <critic>Gary Goldstein</critic>
+      </review>
+      <review>
+         <snippet>Writer-director Kari Skogland adapts a beloved Canadian novel gracefully and with plenty of spunk, the same way its main character moves through the world from cradle to grave.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2008/07/11/2008-07-11_short_takes_roman_polanski_wanted_and_de.html</url>
+         <critic>Joe Neumaier</critic>
+      </review>
+      <review>
+         <snippet>A lesson in the perils of trying to cram a hefty Canadian novel that spans decades into a movie running just under two hours.</snippet>
+         <url>http://www.nypost.com/seven/07112008/entertainment/movies/marathon_manitoba_119340.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+   </reviews>
+   <US_Gross>$75,139</US_Gross>
+   <weekend_gross>$75,139</weekend_gross>
+   <number_of_screens>4</number_of_screens>
+   <oscar_winning_actors_present/>
+   <num_oscar_winning_actors>1</num_oscar_winning_actors>
+   <oscar_winning_actor>ellen burstyn</oscar_winning_actor>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Rachel Getting Married</name>
+   <company>Sony Pictures Classics</company>
+   <genres>
+      <genre>Drama</genre>
+      <genre>Romance</genre>
+   </genres>
+   <authors>
+      <author>Jenny Lumet</author>
+   </authors>
+   <directors>
+      <director>Jonathan Demme</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Anne Hathaway</actor>
+      <actor>Bill Irwin</actor>
+      <actor>Anna Deavere Smith</actor>
+      <actor>Debra Winger</actor>
+   </actors>
+   <release_date>October 3, 2008</release_date>
+   <running_time>114</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>A triumph -- Demme's finest work since "The Silence of the Lambs," and a movie that tingles with life.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20230125,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>It may be painful at times, but Rachel Getting Married sure is one heck of a party.</snippet>
+         <url>http://www.avclub.com/content/cinema/rachel_getting_married</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>Intriguing, disturbing, uplifting evocation. In fact, to watch this film is to engage in participatory art -- for better and for worse, through sickness and in health, we're drawn deeply in.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20081003.wrachel03/BNStory/Entertainment/home</url>
+         <critic>Rick Groen</critic>
+      </review>
+      <review>
+         <snippet>A film that is both deceptively modest and deeply resonant.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2008/10/02/2008-10-02_rachel_getting_married_could_mean_anne_h.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>I've never seen a movie with this mixture of fullness and desolation. Rachel Getting Married is a masterpiece.</snippet>
+         <url>http://nymag.com/movies/reviews/50998/</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>A friend asked: "Wouldn't you love to attend a wedding like that?" In a way, I felt I had. Yes, I began to feel absorbed in the experience. A few movies can do that, can slip you out of your mind and into theirs.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20081008/REVIEWS/810089989</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>True to the characters and their conflicts, the resolution is neither neat nor expected. True to Demme, it's honest and generous and very human.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/382553_rachel10q.html</url>
+         <critic>Sean Axmaker</critic>
+      </review>
+      <review>
+         <snippet>Hathaway carries you on an emotional whirligig that can be horrifying and funny, hopeful and devastating.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/reviews/bal-to.rachel31oct31,0,4929383.story</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>As successful as this family drama is, Demme proves himself to be quite a multitasker. With the skill of an ethnographer and the passion of a sentimentalist, he celebrates the traditions of marriage in a handful of tender set pieces.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=11380</url>
+         <critic>Matthew Sorrento</critic>
+      </review>
+      <review>
+         <snippet>Most of the time, Demme's deliberately unstable mixture of moods and genres produces electric results. Rachel Getting Married takes a familiar subject--the raw nerves of American family life with--and draws fresh blood.</snippet>
+         <url>http://www.newsweek.com/id/162032</url>
+         <critic>David Ansen</critic>
+      </review>
+      <review>
+         <snippet>Best and most unexpected of all, Rachel Getting Married dares to mix the bitter with the sweet. It understands that life-altering situations like weddings not only bring out the worst in human behavior but also the finest.</snippet>
+         <url>http://www.latimes.com/entertainment/news/reviews/la-et-rachel3-2008oct03,0,7974900.story</url>
+         <critic>Kenneth Turan</critic>
+      </review>
+      <review>
+         <snippet>It’s a small movie, and in some ways a very sad one, but it has an undeniable and authentic vitality, an exuberance of spirit, that feels welcome and rare.</snippet>
+         <url>http://movies.nytimes.com/2008/10/03/movies/03rach.html</url>
+         <critic>A.O. Scott</critic>
+      </review>
+      <review>
+         <snippet>Brimming with energy, elan and the unpredictability of his "Something Wild," Jonathan Demme's triumphant Rachel Getting Married may just lay the wedding film to rest, being such a hard act to follow.</snippet>
+         <url>http://www.variety.com/review/VE1117938175.html?categoryid=31&amp;cs=1&amp;query=rachel+getting+married</url>
+         <critic>Ronnie Scheib</critic>
+      </review>
+      <review>
+         <snippet>The acting is of the highest caliber. Winger, magnificent and too long between films, is a volcano of repressed anger.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/21918896/review/23178133/rachel_getting_married</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>Jonathan Demme's superb rule-bending, heartrending and family-mending drama - ends with a wedding, it resists conventions as brazenly as does the bride's sister.</snippet>
+         <url>http://www.philly.com/inquirer/columnists/carrie_rickey/20081017_Trio_of_actresses_powers_Demme_s_family_drama.html</url>
+         <critic>Carrie Rickey</critic>
+      </review>
+      <review>
+         <snippet>A portrait of a family reeling with pain and resentment -- and rising to the challenge of dealing with it head-on.</snippet>
+         <url>http://www.miamiherald.com/entertainment/movies/reviews/story/727963.html</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>As Kym, Hathaway runs an astonishing gamut of emotions, from anger to fragility and from hurt to regret - without ever seeming actress-y, like Nicole Kidman. Start clearing that mantelpiece, Anne.</snippet>
+         <url>http://www.nypost.com/seven/10032008/entertainment/movies/anne_for_all_seasons_131874.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>A triumph of ambience, Rachel Getting Married  is the first narrative feature since the 1980s from director Jonathan Demme  that feels like a party--bittersweet, but a party nonetheless.</snippet>
+         <url>http://chicago.metromix.com/movies/movie_review/movie-review-rachel-getting/664638/content</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>The longer it goes on, the more you're swept up into the jet stream of good feeling.</snippet>
+         <url>http://www.oregonlive.com/movies/index.ssf/2008/10/movie_review_rachel_getting_ma.html</url>
+         <critic>Marc Mohan</critic>
+      </review>
+      <review>
+         <snippet>The sprawling cast, the naturalistic, overlapping dialogue (here by screenwriter Jenny Lumet, daughter of director Sidney) and the swirling action: it seemed pure Robert Altman.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=%20%20%201153095&amp;categories=Movies</url>
+         <critic>Michael O&amp;#039;Sullivan</critic>
+      </review>
+      <review>
+         <snippet>One of Hollywood's forgotten masters and one of its brightest new actresses team for what could well be an Oscar wild card.</snippet>
+         <url>http://www.empireonline.com/reviews/review.asp?FID=135766</url>
+         <critic>Nick De Semlyen</critic>
+      </review>
+      <review>
+         <snippet>It's not a terribly disciplined exercise--the rehearsal dinner and wedding ceremony go on so long I felt like I was watching "The Deer Hunter"--but the performances are outstanding, especially Hathaway's and Debra Winger's in a small but devastating turn as her chilly, resentful mother.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/critic.html#33654</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>Hathaway transcends her usual complacency in this role and resists the temptation of using Kym's (and her own) wounded-bird appeal to let the character off the hook.</snippet>
+         <url>http://www.slate.com/id/2201438/</url>
+         <critic>Dana Stevens</critic>
+      </review>
+      <review>
+         <snippet>A film whose lightness of touch rides a wave of family conflict to perfectly balance smiles and tears.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?rid=11588</url>
+         <critic>Deborah Young</critic>
+      </review>
+      <review>
+         <snippet>The life that swirls around Kym before, during and after her sister's densely populated, wonderfully detailed wedding seems to have been caught on the fly in all its sweetness, sadness and joy. (In its free-form style the film constitutes an elaborate homage to Robert Altman.)</snippet>
+         <url>http://online.wsj.com/article/SB122298339529899629.html</url>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>The upshot to a ticking bomb is that it only explodes the once, but Rachel's sister, Kym (Hathaway), goes off again and again.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A695757</url>
+         <critic>Kimberley Jones</critic>
+      </review>
+      <review>
+         <snippet>The movie's few false notes come from Lumet's script, which can be overly explanatory. Because Demme is opting for present-tense realism, the characters are forced to fill us in on who did what when to whom, why, and how.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=12392</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>At times, the movie gets bogged down in minutia but the emotions evoked and captured are as honest and brutal as one is likely to find on film.</snippet>
+         <url>http://www.reelviews.net/php_review_template.php?identifier=1351</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>At its best in scenes featuring Hathaway's mercurial character. It's a triumphant and darkly nuanced role for her and a departure from the more lighthearted comedic performances she has given.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2008-10-02-rachel-getting-married_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>With a minimum of actorly fuss, Winger shows us the rage and hurt inside this overcontrolled woman. It's a great piece of acting – high drama at the service of the highest talent.</snippet>
+         <url>http://www.csmonitor.com/2008/1004/p25s03-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>The picture may end a little too breezily, but Demme knows we have to be left with some hope for these wandering souls. Someday, they'll find their way home; it just may not be the same thing as going home.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2008/10/03/rachel/</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>Alfred Hitchcock once said, "Drama is life with the dull bits left out." Well, Rachel Getting Married is drama with the dull bits left in.</snippet>
+         <url>http://events.charlotteobserver.com/reviews/show/33883-review-rachel-getting-married</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>A middlebrow domestic drama beating its wings against an experimental frame.</snippet>
+         <url>http://www.villagevoice.com/2008-10-01/film/anne-hathaway-makes-a-compelling-bad-girl-in-jonathan-demme-s-pedestrian-rachel-getting-married/</url>
+         <critic>Ella Taylor</critic>
+      </review>
+      <review>
+         <snippet>A minor work, but so menaced by distress that the characters take every opportunity to dance the dark away.</snippet>
+         <url>http://www.newyorker.com/arts/critics/cinema/2008/10/06/081006crci_cinema_lane</url>
+         <critic>Anthony Lane</critic>
+      </review>
+      <review>
+         <snippet>A fine ensemble piece, but a maddening and unjustified length.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2008/10/09/DD0H13DL5M.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>The result is a mess. Kym, in Hathaway's unsympathetic performance, is an annoyingly sour observer of the proceedings, a time bomb everyone hopes will not explode before the marriage is completed.</snippet>
+         <url>http://www.time.com/time/arts/article/0,8599,1846818,00.html</url>
+         <critic>Richard Schickel</critic>
+      </review>
+   </reviews>
+   <US_Gross>$12,796,277</US_Gross>
+   <production_budget>$12,000,000</production_budget>
+   <weekend_gross>$293,369</weekend_gross>
+   <number_of_screens>9</number_of_screens>
+   <oscar_winning_directors_present/>
+   <num_oscar_winning_directors>1</num_oscar_winning_directors>
+   <oscar_winning_director>jonathan demme</oscar_winning_director>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

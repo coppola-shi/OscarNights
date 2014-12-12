@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>X-Men Origins: Wolverine</name>
+   <company>20th Century Fox</company>
+   <genres>
+      <genre>Action</genre>
+      <genre>Fantasy</genre>
+      <genre>Scifi</genre>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>David Beniof</author>
+      <author>Skip Woods</author>
+   </authors>
+   <directors>
+      <director>Gavin Hood</director>
+   </directors>
+   <origins>
+      <origin>Australia</origin>
+      <origin>USA</origin>
+      <origin>Canada</origin>
+   </origins>
+   <actors>
+      <actor>Hugh Jackman</actor>
+      <actor>Liev Schreiber</actor>
+      <actor>Ryan Reynolds</actor>
+      <actor>Taylor Kitsch</actor>
+      <actor>Will.i.am</actor>
+      <actor>Danny Huston</actor>
+      <actor>Dominic Monaghan</actor>
+      <actor>Daniel Henney</actor>
+   </actors>
+   <release_date>May 1, 2009</release_date>
+   <running_time>107</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>Fortunately, Jackman is well-matched with Schreiber, who can sneer with the best of them and wears fangs well. The two have three spectacular battles together before squaring off against a formidable enemy atop a nuclear reactor.</snippet>
+         <url>http://www.nypost.com/seven/04292009/entertainment/movies/hugh_gotta_believe__166736.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>Although it's a quintessential popcorn movie, Wolverine is not mindless. Hood and Jackman bring depth to a comic-book tale of anti-heroes with anger issues.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2009-04-29-wolverine_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>Hugh Jackman demonstrates that you can segue effortlessly from a tuxedoed song-and-dance man at the Oscars to a feral gent with adamantium claws and "berserker rage."</snippet>
+         <url>http://www.csmonitor.com/2009/0501/p17s01-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>Jackman has a wily, crowd-pleasing knack for playing Wolverine as if he were a more emotive and even more snarly Clint Eastwood.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-to.wolverine01may01,0,454522.story</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>Things explode, jerks get stabbed and all the boxes on the action-movie honey-do list get checks.</snippet>
+         <url>http://www.premiere.com/Review/Movies/X-Men-Origins-Wolverine</url>
+         <critic>Jordan Burchette</critic>
+      </review>
+      <review>
+         <snippet>When it comes to superhero tales, the two least appealing types are origin stories and prequels. Wolverine has the double disadvantage of being both.</snippet>
+         <url>http://www.reelviews.net/php_review_template.php?identifier=1616</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>Ends up being a relatively sharp way to start the summer movie season. The familiarity of the story just declaws it a bit.</snippet>
+         <url>http://events.charlotteobserver.com/reviews/show/45281-review-xmen-origins-wolverine</url>
+         <critic>Rick Bentley</critic>
+      </review>
+      <review>
+         <snippet>Whether this journey to the past was necessary is definitely up for debate: Wolverine's history turns out to be only moderately interesting and not terribly surprising.</snippet>
+         <url>http://www.miamiherald.com/entertainment/movies/reviews/story/1024887.html</url>
+         <critic>Connie Ogle</critic>
+      </review>
+      <review>
+         <snippet>It's a solid, efficient comic book movie that is content to provide comic book satisfactions of the action and violence variety. If it doesn't rise to the heights of Christopher Nolan's "Batman" films, it doesn't stray into "Daredevil" territory either.</snippet>
+         <url>http://www.latimes.com/entertainment/news/la-et-wolverine30-2009apr30,0,952153.story</url>
+         <critic>Kenneth Turan</critic>
+      </review>
+      <review>
+         <snippet>The effect-laden showdowns feel more dutiful than daring, and the rare moments of fun are parceled out frugally, like precious nuggets of adamantium.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20275619,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>Noisy and impersonal, X-Men Origins: Wolverine bears all the marks of a work for hire, conceived and executed with a big budget but little imagination.</snippet>
+         <url>http://www.variety.com/review/VE1117940156.html?categoryid=31&amp;cs=1</url>
+         <critic>Justin Chang</critic>
+      </review>
+      <review>
+         <snippet>It is Hugh Jackman's misfortune that when they were handing out superheroes, he got Wolverine, who is for my money low on the charisma list. He never says anything witty, insightful or very intelligent; his utterances are limited to the vocalization of primitive forces: anger, hurt, vengeance, love, hate, determination.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20090429/REVIEWS/904299978</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>A chaotic headbanger, X-Men Origins: Wolverine is saved from pure flat-footed blockbuster franchise adequacy by six things, three of them on Hugh Jackman's left hand, three on his right.</snippet>
+         <url>http://www.chicagotribune.com/entertainment/movies/chi-tc-mov-wolverine-0429-0501apr29,0,5038225.story</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>Wolverine feels enslaved to its many masters - Marvel Comics, Hollywood, and the young men who devour their products - never sidestepping the déjà vu it inspires.</snippet>
+         <url>http://www.boston.com/ae/movies/articles/2009/05/01/animal_magnetism/</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>There's little of the seen-it-all, wise-guy acerbity that made his character in the X-Men trilogy stand apart from his fellow mutants. Here, he just glowers.</snippet>
+         <url>http://www.philly.com/philly/entertainment/movies/20090501__X-Men_Origins__Wolverine__stars_Hugh_Jackman.html</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>O.K., not great.</snippet>
+         <url>http://www.time.com/time/arts/article/0,8599,1894905,00.html</url>
+         <critic>Richard Corliss</critic>
+      </review>
+      <review>
+         <snippet>Wolverine is full of angst, and yet it has virtually all the humanity wrung out of it in an effort to create a live-action cartoon.</snippet>
+         <url>http://www.washingtonpost.com/gog/movies/x-men-origins-wolverine,1143870.html</url>
+         <critic>John Anderson</critic>
+      </review>
+      <review>
+         <snippet>It is the latest evidence that the superhero movie is suffering from serious imaginative fatigue.</snippet>
+         <url>http://movies.nytimes.com/2009/05/01/movies/01wolv.html?ref=movies</url>
+         <critic>A.O. Scott</critic>
+      </review>
+      <review>
+         <snippet>It's all a jumble and, worse, a damned impersonal one.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/21491325/review/27918901/xmen_origins_wolverine</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>Unfortunately, the talented cast is saddled with some mercilessly flat dialogue, a definite point of vulnerability for any mutant movie.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20090430.wwolverine30art1631/BNStory/Entertainment/home</url>
+         <critic>Liam Lacey</critic>
+      </review>
+      <review>
+         <snippet>Simultaneously overstuffed and undernourished and just plain sloppy.</snippet>
+         <url>http://www.oregonlive.com/movies/index.ssf/2009/04/review_nails_xmen_origins_wolv.html</url>
+         <critic>Marc Mohan</critic>
+      </review>
+      <review>
+         <snippet>From a non-fanboy perspective, it has some exciting action and colorful characters; unfortunately, the special effects vary from impressive to embarrassing.</snippet>
+         <url>http://movies.tvguide.com/x-men-origins-wolverine/review/297311</url>
+         <critic>Jason Buchanan</critic>
+      </review>
+      <review>
+         <snippet>The most terrifying thing about the movie, really, is that plural: Originsssss. So many mutants, so much time. Thank God we can leave that for another summer.</snippet>
+         <url>http://www.npr.org/templates/story/story.php?storyId=103689223&amp;live=1</url>
+         <critic>Bob Mondello</critic>
+      </review>
+      <review>
+         <snippet>Jackman's committed performance keeps the movie on track, though Huston and Schreiber are strictly on autopilot.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/34320_X_MEN_ORIGINS_WOLVERINE.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>In the noisy X-Men Origins: Wolverine, two warring mutant brothers, Liev Schreiber, a morose sadist with fangs, and Hugh Jackman, unhappy but ripped, fly at each other again and again, grappling, punching, slashing. Alas, there’s nothing quite memorable here: much of the combat is just a whirl of movement photographed up close.</snippet>
+         <url>http://www.newyorker.com/arts/critics/cinema/2009/05/11/090511crci_cinema_denby</url>
+         <critic>David Denby</critic>
+      </review>
+      <review>
+         <snippet>Even the final fight, between the united brothers and the end result of Stryker's amusing attempts to combine teleportation, accelerated healing, adamantium, and optic blasts into a super mutant, is as ridiculous and half-assed as the rest of the movie.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=11708</url>
+         <critic>Pete Vonder Haar</critic>
+      </review>
+      <review>
+         <snippet>Wolverine purports to tell us more and yet gives us less: It's so cluttered and action-packed that the action ceases to mean anything -- virtually nothing the characters do or say results in consequences that stick.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2009/05/01/wolverine/index.html</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>Remarkably lame.</snippet>
+         <url>http://www.slate.com/id/2217348/</url>
+         <critic>Dana Stevens</critic>
+      </review>
+      <review>
+         <snippet>Everything gets scarified on the altar of speed. You hardly get any chance to take the measure of any mutant, least of all Wolverine.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film-reviews/film-review-x-men-origins-wolverine-1003967426.story</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>Can everyone stop making moody origin stories now, please? While not a disaster, this isn't the claws-out, rampaging adventure we hoped for. No-one cares where Wolverine found his jacket -- a spin-off with him kicking ass in Japan would have been way more fun.</snippet>
+         <url>http://www.empireonline.com/reviews/reviewcomplete.asp?FID=135356</url>
+         <critic>Nick De Semlyen</critic>
+      </review>
+      <review>
+         <snippet>Altogether unfathomable, if not unbearable.</snippet>
+         <url>http://www.dallasobserver.com/2009-04-30/film/x-men-origins-wolverine/</url>
+         <critic>Robert Wilonsky</critic>
+      </review>
+      <review>
+         <snippet>Wolverine is a noisy mess, an origin/prequel that's nicely full of Jackman's ace glare as Wolverine and seriously killer snarl – The Boy From Aaarrrgh! – but utterly devoid of any of the borderline subversive smarts that made Bryan Singer's "X-Men" outings so contemporarily resonant.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A772126</url>
+         <critic>Marc Savlov</critic>
+      </review>
+      <review>
+         <snippet>Supposedly a comic book movie, and yet it violates one of the tenets of comic books: It doesn't delineate and particularize Wolverine's special powers.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2009/04/30/MV0F17BO2V.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>A couple of halfway decent action scenes do little to distract from the story’s mounting ludicrousness--two words: adamantium bullets--or a conclusion that’s only a little more satisfying than a projector breakdown. Maybe.</snippet>
+         <url>http://www.avclub.com/articles/xmen-origins-wolverine,27393/</url>
+         <critic>Keith Phipps</critic>
+      </review>
+      <review>
+         <snippet>Slice-and-dice superhero fiasco.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2009/04/29/2009-04-29_xmen_origins_wolverine_is_a_.html</url>
+         <critic>Joe Neumaier</critic>
+      </review>
+      <review>
+         <snippet>My brain glazed over and my heart turned adamantine while the stupidities of this action thriller played themselves out.</snippet>
+         <url>http://online.wsj.com/article/film_review.html</url>
+         <critic>Joe Morgenstern</critic>
+      </review>
+   </reviews>
+   <US_Gross>$179,883,157</US_Gross>
+   <production_budget>$150,000,000</production_budget>
+   <weekend_gross>$85,058,003</weekend_gross>
+   <number_of_screens>4,099</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

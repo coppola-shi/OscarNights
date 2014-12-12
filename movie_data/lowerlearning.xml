@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Lower Learning</name>
+   <company>Anchor Bay Entertainment</company>
+   <genres>
+      <genre/>
+   </genres>
+   <authors>
+      <author>Mark Lafferty</author>
+      <author>Shahin Chandrasoma</author>
+   </authors>
+   <directors>
+      <director>Mark Lafferty</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Eva Longoria</actor>
+      <actor>Jason Biggs</actor>
+      <actor>Rob Corddry</actor>
+      <actor>Will Sasso</actor>
+      <actor>Ed Helms</actor>
+      <actor>Kyle Gass</actor>
+      <actor>Monica Potter</actor>
+   </actors>
+   <release_date>October 10, 2008</release_date>
+   <running_time>minutes,</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>Too raunchy for kids, too sophomoric for adults, this underachiever comedy targets the narrow demographic of disgruntled educators.</snippet>
+         <url>http://www.variety.com/review/VE1117938668.html?categoryid=31&amp;cs=1</url>
+         <critic>Peter Debruge</critic>
+      </review>
+      <review>
+         <snippet>Mostly, Lafferty is all about expletives and sexual innuendo of the frankest kind, some of it so raunchy (and unfunny) as to make one wonder if the parents of the film's many child actors bothered to read the script.</snippet>
+         <url>http://www.laweekly.com/2008-10-09/film-tv/movie-reviews-city-of-ember-the-express-rocknrolla/3</url>
+         <critic>Chuck Wilson</critic>
+      </review>
+   </reviews>
+   <US_Gross>$2,804</US_Gross>
+   <weekend_gross>$2,550</weekend_gross>
+   <number_of_screens>1</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

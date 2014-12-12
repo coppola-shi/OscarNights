@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Max Payne</name>
+   <company>20th Century Fox</company>
+   <genres>
+      <genre>Action</genre>
+      <genre>Crime</genre>
+      <genre>Drama</genre>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>Beau Thorne</author>
+      <author>Sam Lake</author>
+   </authors>
+   <directors>
+      <director>John Moore</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Mark Wahlberg</actor>
+      <actor>Mila Kunis</actor>
+      <actor>Beau Bridges</actor>
+      <actor>Chris &amp;#034;Ludacris&amp;#034; Bridges</actor>
+      <actor>Olga Kurylenko</actor>
+   </actors>
+   <release_date>October 17, 2008</release_date>
+   <running_time>99</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>A dumb film with a great conceptual hook from a director who visualizes better than he dramatizes.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/383642_payne17q.html</url>
+         <critic>Sean Axmaker</critic>
+      </review>
+      <review>
+         <snippet>For a movie of its type, Max Payne is a little short on excitement and heavy on pathos.</snippet>
+         <url>http://movies.tvguide.com/max-payne/review/295664</url>
+         <critic>Cammila Albertson</critic>
+      </review>
+      <review>
+         <snippet>Simple, it is as by-the-books formulaic as can be, and there's not a surprise around that the corner that isn't obvious immediately.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=11279</url>
+         <critic>Mark Bell</critic>
+      </review>
+      <review>
+         <snippet>Max Payne, game or movie, has precious little to say.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20081016.wMax17/BNStory/Entertainment/home</url>
+         <critic>Rick Groen</critic>
+      </review>
+      <review>
+         <snippet>The attempts to out-Matrix "The Matrix," with bullet-time super-slo mo, are staged with such theatrics that they're unintentionally funny. This movie also has "Blade Runner" on its mind, and Raymond Chandler, but mostly it's a weak little sister to "Sin City."</snippet>
+         <url>http://www.nypost.com/seven/10172008/entertainment/movies/its_high_on_guns_and_poses__but_little_e_133915.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>The film provides ample opportunity to attack the MPAA's hypocrisy. Max Payne is a bloodbath, yet it manages a PG-13 rating by keeping the explicitness of the killings just a whisker shy of what would be necessary for an R.</snippet>
+         <url>http://www.reelviews.net/php_review_template.php?identifier=1374</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>At least in a video game the player decides who needs to be killed, and what trail to take in the labyrinth. The Max Payne moviegoers are passive hostages on a long ride they've taken so many times before.</snippet>
+         <url>http://www.time.com/time/arts/article/0,8599,1851337,00.html</url>
+         <critic>Richard Corliss</critic>
+      </review>
+      <review>
+         <snippet>In a post-Matrix, post-John Woo world, a handful of slow-motion shootouts shouldn't be all that's on offer.</snippet>
+         <url>http://www.avclub.com/content/cinema/max_payne</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>Max’s righteous anger finds various allies and targets, though it is not always clear who is which. They are played by Mila Kunis, Beau Bridges and Ludacris with just enough panache and expressiveness to uphold the (increasingly irrelevant) distinction between a movie and a video game.</snippet>
+         <url>http://movies.nytimes.com/2008/10/17/movies/17payn.html?ref=movies</url>
+         <critic>A.O. Scott</critic>
+      </review>
+      <review>
+         <snippet>A film that feels far too familiar for the likes of Wahlberg to juice up, hallucinatory valkyries or no.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A687123</url>
+         <critic>Marc Savlov</critic>
+      </review>
+      <review>
+         <snippet>This tired, neutered action thriller won't cause you max pain, but you might wince every now and again.</snippet>
+         <url>http://www.empireonline.com/reviews/reviewcomplete.asp?FID=11237</url>
+         <critic>Staff (Not credited)</critic>
+      </review>
+      <review>
+         <snippet>The best way to sit through Max Payne is by using minimal brain.</snippet>
+         <url>http://events.charlotteobserver.com/reviews/show/32270-review-max-payne</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>What kills Max Payne is that the characters think and feel in slow motion. Half the time, mentally, they're just running in place.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/reviews/bal-to.max17oct17,0,447623.story</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>Max Payne couldn't be more appropriately named. Sitting through this stylish-looking but derivative, vacuous and bullet-riddled movie inflicts maximum pain.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2008-10-16-max-payne_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>A banal revenge melodrama-cum-detective story, but fans of the video game on which it is based should not be alarmed.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?JSESSIONID=nvyQL3rJG9J8Jf1FcG3TD1Vkp1cTDZyT6pdN59qZ6y4v8vZ2GnRC!1627635326&amp;&amp;rid=11826</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>Stylishly made, armed to the teeth and ludicrous in the extreme.</snippet>
+         <url>http://www.variety.com/review/VE1117938722.html?categoryid=31&amp;cs=1</url>
+         <critic>Justin Chang</critic>
+      </review>
+      <review>
+         <snippet>The role requires Wahlberg to run the gamut of emotions from A to A.</snippet>
+         <url>http://www.laweekly.com/2008-10-16/film-tv/movie-reviews-max-payne-sex-drive-what-just-happened/2</url>
+         <critic>Jim Ridley</critic>
+      </review>
+      <review>
+         <snippet>This highly stylized adaptation of the popular Max Payne video game is 70 percent dark, snowy atmospherics and 30 percent loud, violent action.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1150103&amp;categories=Movies</url>
+         <critic>Mike Mayo</critic>
+      </review>
+      <review>
+         <snippet>With its flat story, numbed-out protagonist, and faux artistic lighting and set design - everything is dark or moody or darkishly moody or moodily dark - Max Payne seems a good half hour longer than its running time.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2008/10/16/DDLI13HHAP.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>If you stay and watch the endless end credits, there's a short scene that hints a sequel is coming. That's what I call real pain.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/20727344/review/23653638/max_payne</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>This is not a movie that has great passion for pleasures of the flesh. Its sexiest scenes involve bullets cutting through the air in the slowest motion possible.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=11584</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>Max Payne offers max pain along with min invention, and the only thing that keeps it out of the bottom of the Dumpster--it’s more of a top-of-the-Dumpster movie--is the presence of Mark Wahlberg.</snippet>
+         <url>http://chicago.metromix.com/movies/movie_review/movie-review-max-payne/687652/content</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>It's just a grindingly inert death-wish thriller.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20233868,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>Turning video games into movies may be one way for studios to coax teenagers away from their laptops, but this time around, the results are miserable, in every sense of the word.</snippet>
+         <url>http://www.latimes.com/entertainment/news/reviews/la-et-max17-2008oct17,0,2583653.story</url>
+         <critic>Sam Adams</critic>
+      </review>
+      <review>
+         <snippet>The story has more holes than a shot-up metal door, the acting feels bored at best, and the intermittent action, while passable, hardly makes up for the downtime.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2008/10/16/2008-10-16_mark_wahlbergs_max_payne_is_painful_to_w.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+   </reviews>
+   <US_Gross>$40,687,294</US_Gross>
+   <production_budget>$35,000,000</production_budget>
+   <weekend_gross>$17,639,849</weekend_gross>
+   <number_of_screens>3,376</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Not Forgotten</name>
+   <company>Anchor Bay Entertainment</company>
+   <genres>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>Tomas Romero</author>
+      <author>Dror Soref</author>
+   </authors>
+   <directors>
+      <director>Dror Soref</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Simon Baker</actor>
+      <actor>Paz Vega</actor>
+      <actor>Chloe Moretz</actor>
+      <actor>Claire Forlani</actor>
+   </actors>
+   <release_date>September 11, 2009</release_date>
+   <running_time>100</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>The cast sparkles especially Simon Baker, a sturdy leading-man type, who is primed to break through any day now, and Paz Vega, already a star in Latin market.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?rid=11932</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>Despite teasing hints of supernatural influences throughout much of the storyline, Not Forgotten satisfies as a solidly crafted and persuasively acted thriller that relies more on dark secrets than black magic.</snippet>
+         <url>http://www.variety.com/review/VE1117939374.html?categoryid=31&amp;cs=1&amp;query=not+forgotten</url>
+         <critic>Joe Leydon</critic>
+      </review>
+      <review>
+         <snippet>The film moves swiftly and vividly, but in retrospect, numerous plot holes come to mind. Not Forgotten presents a fascinating microcosm but ultimately loses believability when placed in a larger context.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A772210</url>
+         <critic>Marjorie Baumgarten</critic>
+      </review>
+      <review>
+         <snippet>A lurid yet plodding thriller, bobs to the surface in theaters, most likely to the chagrin of the now very hot Simon Baker.</snippet>
+         <url>http://movies.nytimes.com/2009/09/11/movies/11notforgotten.html?ref=movies</url>
+         <critic>Mike Hale</critic>
+      </review>
+      <review>
+         <snippet>If the film's first two-thirds are dreary and preposterous, give Soref credit for a truly -- what's the proper cinematic terminology? -- batshit-crazy finale involving demented religious sects, ridiculously bloody face-offs and a gaggle of cross-dressing Mexican prostitutes.</snippet>
+         <url>http://www.laweekly.com/2009-05-14/film-tv/movie-reviews-big-man-japan-management-not-forgetten/2</url>
+         <critic>Tim Grierson</critic>
+      </review>
+      <review>
+         <snippet>A movie that's more convoluted than satisfying.</snippet>
+         <url>http://www.latimes.com/entertainment/news/la-et-capsules15-2009may15,0,7684053,full.story</url>
+         <critic>Gary Goldstein</critic>
+      </review>
+      <review>
+         <snippet>A film that could have been memorably haunting is, sadly, all too forgettable</snippet>
+         <url>http://newyork.timeout.com/articles/film/78419/not-forgotten-film-review</url>
+         <critic>Stephen Garrett</critic>
+      </review>
+      <review>
+         <snippet>If the film's first two-thirds are dreary and preposterous, give Soref credit for a truly--what's the proper cinematic terminology?--batshit-crazy finale.</snippet>
+         <url>http://www.villagevoice.com/2009-09-08/film/over-cooked-not-forgotten-hard-to-take-seriously/</url>
+         <critic>Tim Grierson</critic>
+      </review>
+      <review>
+         <snippet>None of it makes any sense, but it is just nutty enough to provide a few (entirely unintended) laughs.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2009/09/11/2009-09-11_short_film_reviews_9_.html?page=1</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+   </reviews>
+   <US_Gross>$53,723</US_Gross>
+   <weekend_gross>$33,576</weekend_gross>
+   <number_of_screens>3</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

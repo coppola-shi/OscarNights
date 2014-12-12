@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Twilight</name>
+   <company>Summit Entertainment</company>
+   <genres>
+      <genre>Action</genre>
+      <genre>Horror</genre>
+      <genre>Romance</genre>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>Melissa Rosenberg</author>
+      <author>Stephenie Meyer</author>
+   </authors>
+   <directors>
+      <director>Catherine Hardwicke</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Kristen Stewart</actor>
+      <actor>Robert Pattinson</actor>
+      <actor>Billy Burke</actor>
+      <actor>Peter Facinelli</actor>
+      <actor>Elizabeth Reaser</actor>
+      <actor>Cam Ciget</actor>
+      <actor>Nikki Reed</actor>
+      <actor>Jackson Rathbone</actor>
+   </actors>
+   <release_date>November 21, 2008</release_date>
+   <running_time>120</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>A sometimes girlie swirl of obsession that will delight fans, this faithful adaptation is after teenage blood, and will most likely hit a box office artery.</snippet>
+         <url>http://www.empireonline.com/reviews/reviewcomplete.asp?FID=135600</url>
+         <critic>Will Lawrence</critic>
+      </review>
+      <review>
+         <snippet>A genuine love story might be difficult for a young audience to handle, but this fantasy is blissful madness--an abstinence fable sexier than sex.</snippet>
+         <url>http://www.newyorker.com/arts/critics/cinema/2008/12/01/081201crci_cinema_denby?currentPage=2</url>
+         <critic>David Denby</critic>
+      </review>
+      <review>
+         <snippet>Pattison grows on us as he grows on Bella: His weird mannerisms and nervous delivery stop seeming like quirks and acquire an intensity that's hard to resist by the end.</snippet>
+         <url>http://events.charlotteobserver.com/reviews/show/34949-review-twilight</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>Twilight has a few gory plot turns - mostly offscreen - and one near-sex scene that may offend a few Amish people, but the rest is maybe 33 percent less wholesome than "High School Musical." It's almost certainly less risque than what you were watching when you were 14. (Cue the soundtrack to "Risky Business.")</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2008/11/20/DDC8147DP2.DTL</url>
+         <critic>Peter Hartlaub</critic>
+      </review>
+      <review>
+         <snippet>Actually, the movie's a better movie than the book was a book, in part because Meyer struggled to put her characters' galloping emotions into print whereas director Catherine Hardwicke just visualizes them in all their inarticulate purpleness.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=11203</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>On screen, Twilight is repetitive and a tad sodden, too prosaic to really soar. But Hardwicke stirs this teen pulp to a pleasing simmer.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20241357,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>Twilight - directed with savvy humor by Catherine Hardwicke - turns vampirism into a metaphor for teen lust.</snippet>
+         <url>http://www.philly.com/inquirer/columnists/steven_rea/20081120_A_touching_teen-vampire_tale.html</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>In terms of bringing the book to life, Twilight is a complete success, so much so that most of the film's flaws work within the context of the story.</snippet>
+         <url>http://movies.tvguide.com/twilight/review/295116</url>
+         <critic>Tracie Cooper</critic>
+      </review>
+      <review>
+         <snippet>On the whole, Twilight works as both love story and vampire story, thanks mainly to the performances of its principals, Pattinson and Stewart.</snippet>
+         <url>http://www.washingtonpost.com/wp-dyn/content/article/2008/11/19/AR2008111904369.html</url>
+         <critic>Michael O&amp;#039;Sullivan</critic>
+      </review>
+      <review>
+         <snippet>So Twilight isn't a masterpiece -- no matter. It rekindles the warmth of great Hollywood romances, where foreplay was the climax and a kiss was never just a kiss.</snippet>
+         <url>http://www.time.com/time/arts/article/0,8599,1860716,00.html</url>
+         <critic>Richard Corliss</critic>
+      </review>
+      <review>
+         <snippet>Hardwicke still manages to find the sweet spot where Gothic literature and the iPod meet and make goo-goo eyes at each other. Without embarrassment, she and screenwriter Melissa Rosenberg dig right into the almost generic simplicity of the story.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2008/11/21/twilight/</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>Hardwicke has connected so intensely to the Meyer novel that it's hard to imagine anyone else making a better version.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-twilight21-2008nov21,0,2377824.story</url>
+         <critic>Kenneth Turan</critic>
+      </review>
+      <review>
+         <snippet>The best thing in the movie is Stewart. She was the leggy hobo-camp teen in love with Emile Hirsch in "Into the Wild," and she's better at conveying physical longing than any of the actors playing vampires.</snippet>
+         <url>http://nymag.com/movies/reviews/52432/</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>Bummer. The vampires have no fangs. The humans are humdrum. The special effects and makeup define cheeseball. And the movie crowds in so many characters from Stephenie Meyer’s book that Catherine Hardwicke (Thirteen) is less a director than a traffic cop. But there’s a reason that Twilight has already become the movie equivalent of a bestseller: The love story has teeth.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/20590709/review/24512418/twilight</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>None of the movie's flaws will matter. Teenage girls are going to love Twilight,and many are sure to see it more than once.</snippet>
+         <url>http://www.miamiherald.com/entertainment/movies/reviews/story/779643.html</url>
+         <critic>Sara Frederick</critic>
+      </review>
+      <review>
+         <snippet>Twilight isn't an especially good movie, but neither is it an abomination. At times, the dialogue is laugh-aloud bad - almost to the point of being hilarious.</snippet>
+         <url>http://www.reelviews.net/php_review_template.php?identifier=1394</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>The superfast running effects, with Edward dashing up mountains, or rival, evil vampires swooping here and there at amazing speed, look genuinely cheesy, like the guy running the race in the smart-phone ad. I'm surprised Hardwicke and her colleagues couldn't solve this one more effectively. Set pieces such as a vampire baseball game fall flat as well.</snippet>
+         <url>http://chicago.metromix.com/movies/movie_review/movie-review-twilight/780961/content</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>Twilight will mesmerize its target audience, 16-year-old girls and their grandmothers. Their mothers know all too much about boys like this.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20081119/REVIEWS/811199997</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>As a life lesson for teenage girls, Twilight (excuse the pun) sucks. As a parable for the dark side of female desire, it's weirdly powerful.</snippet>
+         <url>http://www.slate.com/id/2205013/</url>
+         <critic>Dana Stevens</critic>
+      </review>
+      <review>
+         <snippet>It's disappointing when a big-screen romance can't match up to the one in your imagination, at any age.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2008/11/20/2008-11-20_casting_for_vampire_movie_twilight_may_d.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>An underwhelming vampire romance long on camp but short on emotional insight</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?&amp;rid=11981</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>Though Edward and Bella reach certain heights in Twilight, notably during a charming scene that finds them leaping from piney treetop to treetop against the spectacular wilderness backdrop, the story’s moral undertow keeps dragging them down.</snippet>
+         <url>http://movies.nytimes.com/2008/11/21/movies/21twil.html?ref=movies</url>
+         <critic>Manohla Dargis</critic>
+      </review>
+      <review>
+         <snippet>Every generation gets the cinematic vampires it deserves...The current decade, judging from the bloodsuckers on display in Twilight, will be remembered as one of guilt, restraint and denial. It's just not that fun to be undead anymore.</snippet>
+         <url>http://www.oregonlive.com/movies/index.ssf/2008/11/movie_review_twilight_golden_o.html</url>
+         <critic>Marc Mohan</critic>
+      </review>
+      <review>
+         <snippet>This adaptation of the best-selling novel by Stephenie Meyer never rises above the level of a teen soaper on the CW, and its pale, sulky boy toys (Kellan Lutz, Peter Facinelli, Jackson Rathbone) are more silly than scary.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/33869_TWILIGHT.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>The movie is mainly geared to putting new twists on what John Hughes comedies used to call "sucking face." It will satisfy Meyer's devotees.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/reviews/bal-to.twilight21nov21,0,1707833.story</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>Edward's a remarkable young gentleman when you consider the hell he's been through: It turns out he's always 17, his fate to keep repeating high school, forever and ever. If that's my only option, kindly burn me at the stake.</snippet>
+         <url>http://www.nypost.com/seven/11212008/entertainment/movies/no_positive_139912.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>The religious symbolism couldn't be more obvious (or disturbing). Keep your religion out of our vampires, Hollywood!</snippet>
+         <url>http://www.premiere.com/moviereviews/4838/twilight.html</url>
+         <critic>Jenni Miller</critic>
+      </review>
+      <review>
+         <snippet>Sometimes sensitive and often silly but really, essentially, beneath his pallor and her panting and their intertwined frustrations, it's just two long hours of coitus interruptus.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20081120.wtwilight21/BNStory/Entertainment/home</url>
+         <critic>Rick Groen</critic>
+      </review>
+      <review>
+         <snippet>Despite questionable casting, wooden acting, laughable dialogue and truly awful makeup, nothing is likely to stop young girls from swarming to this kitschy adaptation of Stephenie Meyer's popular novel.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2008-11-19-twilight_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>Those who want something to really sink their teeth into should head home on a rainy day, put on some goth anthems and reread the books.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/388515_twilight20q.html</url>
+         <critic>Travis Nichols</critic>
+      </review>
+      <review>
+         <snippet>A disappointingly anemic tale of forbidden love that should satiate the pre-converted but will bewilder and underwhelm viewers who haven't devoured Stephenie Meyer's bestselling juvie chick-lit franchise.</snippet>
+         <url>http://www.variety.com/VE1117939072.html</url>
+         <critic>Justin Chang</critic>
+      </review>
+      <review>
+         <snippet>In the 17-million-copy land of "Twilight," the calling card isn't blood and fangs, but the exquisite, shimmering quiver of unconsummated first love. By that measure, the movie version gives really good swoon.</snippet>
+         <url>http://www.villagevoice.com/2008-11-19/film/twilight-pares-the-book-down-to-essential-unconsummated-love-story/</url>
+         <critic>Chuck Wilson</critic>
+      </review>
+      <review>
+         <snippet>While the movie attempts to find an compelling middle ground between gothic supernaturalism and teenage romance, it usually winds up stumbling into the inane territory implied by both descriptions.</snippet>
+         <url>http://www.avclub.com/content/cinema/twilight</url>
+         <critic>Genevieve Koski</critic>
+      </review>
+      <review>
+         <snippet>A young and as-yet-unformed actor, Stewart is cast in a role she's simply not ready for, and her effort to work hard – exactly what any actor must hide from the audience – is painfully visible in every scene. By contrast, Pattinson is smooth as glass, a born movie star who only needs to slant his eyes to grab attention.</snippet>
+         <url>http://www.csmonitor.com/2008/1122/p25s08-almo.html</url>
+         <critic>Robert Koehler</critic>
+      </review>
+      <review>
+         <snippet>In a film that has the courage of its absurdity but not much else, Mr. Pattinson gets the best of what passes for style.</snippet>
+         <url>http://online.wsj.com/article/SB122722557296045953.html?mod=article-outset-box</url>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>I've had mosquito bites that were more passionate than this undead, unrequited, and altogether unfun pseudo-romantic riff on Romeo and Juliet.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A703654</url>
+         <critic>Marc Savlov</critic>
+      </review>
+      <review>
+         <snippet>Q: When is a vampire not a vampire?
+A: When it goes out in daylight, sees itself in a mirror, doesn’t drink human blood, and still manages to suck.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=11361</url>
+         <critic>Pete Vonder Haar</critic>
+      </review>
+   </reviews>
+   <US_Gross>$192,769,854</US_Gross>
+   <production_budget>$37,000,000</production_budget>
+   <weekend_gross>$69,637,740</weekend_gross>
+   <number_of_screens>3,419</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Michael Clayton</name>
+   <company>Warner Bros. Pictures</company>
+   <genres>
+      <genre>Drama</genre>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>Tony Gilroy</author>
+   </authors>
+   <directors>
+      <director>Tony Gilroy</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>George Clooney</actor>
+      <actor>Tom Wilkinson</actor>
+      <actor>Tilda Swinton</actor>
+      <actor>Sean Cullen</actor>
+      <actor>Michael O&amp;#039;Keefe</actor>
+      <actor>Sydney Pollack</actor>
+   </actors>
+   <release_date>October 5, 2007</release_date>
+   <running_time>119</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>It's better than good; it's such a crackling and mature and accomplished movie that it just about restores your faith.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20131837,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>It's a rare film that can challenge our minds and rattle our nerves so profoundly. This is unequivocally a thriller for adults. A deftly written, tautly suspenseful and intellectually demanding morality tale.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2007-10-04-michael-clayton_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>I don't know what vast significance Michael Clayton has (it involves deadly pollution but isn't a message movie). But I know it is just about perfect as an exercise in the genre.</snippet>
+         <url>http://www.rogerebert.com/apps/pbcs.dll/article?AID=/20071004/REVIEWS/710040302/1023</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>At once spare and dense, chilly and thrilling, literate and visceral, it feeds in gray areas, teasing ambiguities and conundrums out of shadows and making strengths of inconclusiveness and uncertainty.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/1191963302215800.xml&amp;coll=7</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>This uncommonly intelligent thriller evokes the great films of the 1970s ("All the President's Men," "Klute," "Three Days of the Condor") that managed to elicit gritty urban realism while maintaining a suave sense of style and moral complexity.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1133807&amp;categories=Movies&amp;nm=1</url>
+         <critic>Ann Hornaday</critic>
+      </review>
+      <review>
+         <snippet>This loving throwback to the paranoid thrillers of the ’70s is a beauty.</snippet>
+         <url>http://www.laweekly.com/film+tv/film/movie-reviews/17417/?page=2</url>
+         <critic>Ella Taylor</critic>
+      </review>
+      <review>
+         <snippet>Like Spencer Tracy, Gene Hackman, and others who have made acting on the big screen seem so easy while taking us on a journey that is far from simple, Clooney is the real thing.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A548410</url>
+         <critic>Steve Davis</critic>
+      </review>
+      <review>
+         <snippet>Careful casting adds to verisimilitude. Nobody carries off a chilly authority figure like Tilda Swinton, who represents the chemical company; Pollack, who has more or less stopped directing, now embodies urbane amorality as an actor; Wilkinson, whose career has mostly been devoted to repressed or depressed characters, enjoys his turn as a bright-eyed fanatic.</snippet>
+         <url>http://ae.charlotte.com/entertainment/ui/charlotte/movie.html?id=961158&amp;reviewId=22697&amp;startDate=NEXT7</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>Michael Clayton is about the gap between predatory professionalism and the sins of real life - about how those sins can corrode the hardest business suit of armor.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=9662</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>An excellent legal thriller elevated to superb drama by the actor's (Clooney) central performance.</snippet>
+         <url>http://www.miamiherald.com/1054/story/259803.html</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>Tony Gilroy, co-author of the superb Jason Bourne film trilogy, makes a stunning directorial debut with Michael Clayton, an out-of-courtroom drama that helps solidify George Clooney's acting bona fides.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2007/10/05/2007-10-05_george_clooney_delivers_powerful_case_in.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>There are more than ample rewards for discerning adults: Some of the best dialogue in a recent movie and a gallery of unforgettable performances.</snippet>
+         <url>http://www.nypost.com/seven/10052007/entertainment/movies/in_george_we_trust.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>Michael Clayton is a here’s-how-it-happened drama, cleverly but not over-elaborately structured.</snippet>
+         <url>http://chicago.metromix.com/movies/movie_review/movie-review-michael-clayton/212614/content</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>Deliberate, demanding and character-driven, Michael Clayton flies in the face of what sells at the multiplex. I couldn't have liked it more.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/12004145/review/16681563/michael_clayton</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>After Clooney, who gives a sterling performance as a tarnished figure, the standout performance belongs to Wilkinson, a geyser of manic eloquence. Also quite fine are Swinton and Sydney Pollack.</snippet>
+         <url>http://www.philly.com/philly/entertainment/movies/20071005_Yes__thats_Clooney_as_the_bad_guy.html</url>
+         <critic>Carrie Rickey</critic>
+      </review>
+      <review>
+         <snippet>In a heartbreaking, scene-stealing performance, Wilkinson plays his bipolar character's manic delirium as a heightened form of awareness, a life-affirming source of moral clarity in a cloudy and corrupt world.</snippet>
+         <url>http://www.avclub.com/content/cinema/michael_clayton</url>
+         <critic>Nathan Rabin</critic>
+      </review>
+      <review>
+         <snippet>A spellbinding action-drama, skillfully built upon a scary corporate conspiracy, chock-full of enjoyable downbeat performances.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/334287_clayton05q.html</url>
+         <critic>William Arnold</critic>
+      </review>
+      <review>
+         <snippet>A smart and suspenseful legal thriller that comes completely alive on-screen.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-clayton5oct05,0,355444.story?coll=cl-mreview</url>
+         <critic>Kenneth Turan</critic>
+      </review>
+      <review>
+         <snippet>Gilroy's up to the challenge, as is his uniformly astounding cast--Clooney, especially, as the charmed and charming man stripped of his superpowers, but also Wilkinson and Swinton as the mirror images of each other.</snippet>
+         <url>http://www.villagevoice.com/film/0740,wilonsky,77946,20.html</url>
+         <critic>Robert Wilonsky</critic>
+      </review>
+      <review>
+         <snippet>As with the Bourne films, Gilroy has a knack for creating strong characters and situations that resonate with tension. It may be formula, but the guy is a solid chemist as he crafts excellent set-ups and payoffs.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/imdb/reviews/article_display.jsp?rid=9708&amp;vnu_special_account_code=thrsiteimdbpro</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>It’s all fascinating. Gilroy is an entertainer.</snippet>
+         <url>http://www.newyorker.com/arts/critics/cinema/2007/10/08/071008crci_cinema_denby</url>
+         <critic>David Denby</critic>
+      </review>
+      <review>
+         <snippet>Mr. Gilroy hasn’t reinvented the legal thriller here, but I doubt that was his intention; at its best and most ambitious, the film plays less like a variation on a Hollywood standard than a reappraisal. It’s a modest reappraisal, adult, sincere, intelligent, absorbing; it entertains without shame.</snippet>
+         <url>http://movies.nytimes.com/2007/10/05/movies/05clay.html?ref=movies</url>
+         <critic>Manohla Dargis</critic>
+      </review>
+      <review>
+         <snippet>The great strength of Michael Clayton is that it's no "Erin Brockovich." Rather than a populist tale of class-action triumph, the movie is a grim vision of legal and ethical compromise at the top.</snippet>
+         <url>http://www.slate.com/id/2175306/fr/flyout</url>
+         <critic>Dana Stevens</critic>
+      </review>
+      <review>
+         <snippet>Instead of taking control of the movie in any overt way, Clooney commands our attention by swimming just beneath its surface. He's a disappearing act with staying power.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2007/10/05/michael_clayton/</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>Michael Clayton is not an exercise in high-tension energy; you'll never confuse its eponymous protagonist with Jason Bourne. But it does have enough of a melodramatic pulse to keep you engaged in its story and, better than that, it is full of plausible characters who are capable of surprising -- and surpassing -- your expectations.</snippet>
+         <url>http://www.time.com/time/arts/article/0,8599,1668337,00.html</url>
+         <critic>Richard Schickel</critic>
+      </review>
+      <review>
+         <snippet>Quite possibly Clooney’s best effort to date.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=10331</url>
+         <critic>Pete Vonder Haar</critic>
+      </review>
+      <review>
+         <snippet>Has a slow build and a strong payoff, but George Clooney is the element that holds it together.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2007/10/05/DD8VSILS8.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>Instead of the typical John Grisham-style connect-the-dots legal thriller, we get a film that's idiosyncratic, with a time-shifting structure, a surfeit of subplots and characters.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20071004.wclayton1005/BNStory/Entertainment/home</url>
+         <critic>Liam Lacey</critic>
+      </review>
+      <review>
+         <snippet>While Gilroy deploys the occasional exploding car, the film's climax is all words -- angry, carefully sharpened words -- with the stopping power of large-caliber bullets.</snippet>
+         <url>http://www.tvguide.com/movies/michael-clayton/review/290662</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>There is an audience out there for slower, more intellectual thrillers. This is a motion picture for them to discover.</snippet>
+         <url>http://www.reelviews.net/movies/m/michael_clayton.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>Michal Clayton shares a number of affinities with Paddy Chayefsky and Sidney Lumet's "Network." Wilkinson's got the so-mad-he's-sane Peter Finch position; while Swinton embodies a sexless, neurotic, overstressed variant of Faye Dunaway's character. Which leaves Clooney as the (considerably younger) William Holden of the piece. And, yes, he makes the most of it.</snippet>
+         <url>http://www.premiere.com/moviereviews/4143/michael-clayton.html</url>
+         <critic>Glenn Kenny</critic>
+      </review>
+      <review>
+         <snippet>Clooney is as good as he has ever been.</snippet>
+         <url>http://nymag.com/movies/reviews/38366/</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>George Clooney's film noir sensibility in the title role feels authentic, and admirably solid.</snippet>
+         <url>http://online.wsj.com/article/SB119153793828549497.html?mod=2_1168_1</url>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>Features strong performances and a solid story, drawn from the familiar well of faceless corporations grinding ordinary people through their profit-making machinery. Yet Gilroy's fidelity to his script comes at the expense of the pacing.</snippet>
+         <url>http://www.variety.com/review/VE1117934536.html?categoryid=31&amp;cs=1&amp;p=0</url>
+         <critic>Brian Lowry</critic>
+      </review>
+      <review>
+         <snippet>Like "The Verdict," this is a big, crowd-pleasing Hollywood redemption drama in which the lonely hero not only thwarts the corporate villains in the end but silences them with a killer riposte.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/32150_MICHAEL_CLAYTON.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>Without the steadfast intelligence of Clooney's performance, Michael Clayton wouldn't work half as well as it does.</snippet>
+         <url>http://www.csmonitor.com/2007/1005/p11s03-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+   </reviews>
+   <US_Gross>$49,033,882</US_Gross>
+   <production_budget>$21,500,000</production_budget>
+   <weekend_gross>$719,910</weekend_gross>
+   <number_of_screens>15</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Full of It</name>
+   <company>New Line Cinema</company>
+   <genres>
+      <genre>Comedy</genre>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author>Jon Lucas</author>
+      <author>Scott Moore</author>
+      <author>Yoni Berkovits &amp; Tony Dreannan and Tom Gammill &amp; Max Pross</author>
+   </authors>
+   <directors>
+      <director>Christian Charles</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Ryan Pinkston</actor>
+      <actor>Kate Mara</actor>
+      <actor>Teri Polo</actor>
+      <actor>Craig Kilborn</actor>
+      <actor>John Carroll Lynch</actor>
+      <actor>Cynthia Stevenson</actor>
+      <actor>Ama Walsh</actor>
+      <actor>Derek McGrath</actor>
+   </actors>
+   <release_date>March 2, 2007</release_date>
+   <running_time>93</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>Better than a lot of teen comedies.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2007/03/02/DDGOAOD1LB1.DTL&amp;type=movies</url>
+         <critic>Peter Hartlaub</critic>
+      </review>
+      <review>
+         <snippet>Despite a novel premise and an appealing, energetic cast, Full Of It seldom finds magic in its supernatural whimsy.</snippet>
+         <url>http://www.avclub.com/content/node/59228</url>
+         <critic>Nathan Rabin</critic>
+      </review>
+      <review>
+         <snippet>A new teen fantasy movie, is indeed loaded -- with things you've seen many times before.</snippet>
+         <url>http://www.calendarlive.com/printedition/calendar/cl-et-full2mar02,0,2398640.story</url>
+         <critic>Michael Ordona</critic>
+      </review>
+      <review>
+         <snippet>Hormonally charged comedy is bound to make parents uncomfortable, as writers Jon Lucas and Scott Moore add a sexual dimension to the kind of after-school-special premise that might appeal to 10-year-olds (but is here twisted to suit older teens).</snippet>
+         <url>http://www.variety.com/review/VE1117932967.html?categoryid=31&amp;cs=1</url>
+         <critic>Peter Debruge</critic>
+      </review>
+      <review>
+         <snippet>Filmmakers have long recognized that high school makes a terrific arena for social satire and comedy in films ranging from "Heathers" to "Mean Girls" and "Election." There is a glimmer of such a comedy in Full of It, but this is quickly swamped in overextended gags and broad caricatures.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?JSESSIONID=2lVPFqdNyhpT93myHNC9jJVjVL6jkcyB3b5TBdSGCKnSPlnvp0yr!713820485&amp;&amp;rid=8869</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>Full of It abandons the de rigueur hot pastels of the average high school caper in favor of distressed browns and greens, but in the end, all the funky style masks little more than a Pinocchio retread for the adolescent grunge set.</snippet>
+         <url>http://www.laweekly.com/film+tv/film-reviews/film-reviews-black-snake-moan-wild-hogs-and-more/15806/</url>
+         <critic>Ella Taylor</critic>
+      </review>
+      <review>
+         <snippet>A wish fulfillment fantasy of staggering silliness, both smirkingly cutesy and gratingly offensive, this is one for the movie ash heap.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-070302-movies-review-full,0,542864.story?coll=mmx-movies_top_heds</url>
+         <critic>Michael Wilmington</critic>
+      </review>
+      <review>
+         <snippet>Full of It's message is directed straight at 9-year-olds -- lying is bad! -- and yet there's plenty of sexual content. Unfortunately there isn't much else.</snippet>
+         <url>http://ae.miami.com/entertainment/ui/miami/movie.html?id=824219&amp;reviewId=22307</url>
+         <critic>Connie Ogle</critic>
+      </review>
+   </reviews>
+   <US_Gross>$14,273</US_Gross>
+   <weekend_gross>$11,431</weekend_gross>
+   <number_of_screens>15</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

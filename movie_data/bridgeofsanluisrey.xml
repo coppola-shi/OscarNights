@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Bridge of San Luis Rey, The</name>
+   <company>Fine Line Featues</company>
+   <genres>
+      <genre>Drama</genre>
+      <genre>Foreign</genre>
+   </genres>
+   <authors>
+      <author>Mary Mc</author>
+      <author>Guckian</author>
+      <author>Thornton Wilder</author>
+   </authors>
+   <directors>
+      <director>Mary Mc</director>
+      <director>Guckian</director>
+   </directors>
+   <origins>
+      <origin>SpainUKFrance</origin>
+   </origins>
+   <actors>
+      <actor>Robert De Niro</actor>
+      <actor>Kathy Bates</actor>
+      <actor>Harvey Keitel</actor>
+      <actor>Gabriel Byrne</actor>
+      <actor>Pilar López de Ayala</actor>
+      <actor>Geraldine Chaplin</actor>
+      <actor>F. Murray Abraham</actor>
+   </actors>
+   <release_date>June 10, 2005</release_date>
+   <running_time>124</running_time>
+   <rating>PG</rating>
+   <reviews>
+      <review>
+         <snippet>Wilder's created world is alive with his erudition, his sympathy for his characters in their loneliness and flawed goodness. This film doesn't do him justice but it's a gesture in the right direction.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/ArticleNews/TPStory/LAC/20050729/BRIDGE29RVT/TPEntertainment/Film</url>
+         <critic>Liam Lacey</critic>
+      </review>
+      <review>
+         <snippet>Ultimately comes across as a soporific costume drama featuring a gallery of miscast stars.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1000954519</url>
+         <critic>Frank Scheck</critic>
+      </review>
+      <review>
+         <snippet>Though handsomely mounted, this parable of intersecting destinies and implacable tragedy is as lifeless as a wax tableau.</snippet>
+         <url>http://tvguide.com/movies/database/showmovie.asp?MI=46155</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>The stellar cast can do little to paper over the cracks in an awkward, unevenly-paced script that is composed of a series of sometimes-attractive scenes with little emotional undertow.</snippet>
+         <url>http://www.variety.com/review/VE1117925868?categoryid=31&amp;cs=1</url>
+         <critic>Jonathan Holland</critic>
+      </review>
+      <review>
+         <snippet>An honorable but dull attempt to translate a neglected literary source to the screen.</snippet>
+         <url>http://www.villagevoice.com/film/0524,tracking2,64926,20.html</url>
+         <critic>Ben Kenigsberg</critic>
+      </review>
+      <review>
+         <snippet>May be the opposite of trash, but it is something just as disposable: dead literary meat. Dragged down by a stuffy screenplay clotted with generic period oratory, overdressed to the point that the actors seem physically impeded by their ornate costumes, and hopelessly muddled in its storytelling, the movie is edited with a haphazardness that leaves many dots unconnected.</snippet>
+         <url>http://movies2.nytimes.com/mem/movies/review.html?title1=Bridge%20of%20San%20Luis%20Rey%2c%20The%20%28Movie%29&amp;title2=Bridge%20of%20San%20Luis%20Rey%2c%20The%20%28Movie%29&amp;reviewer=Stephen%20Holden&amp;pdate=20050610&amp;v_id=317628</url>
+         <critic>Stephen Holden</critic>
+      </review>
+      <review>
+         <snippet>The script and direction by Irish filmmaker Mary McGuckian is just deadly.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/227855_bridge10q.html</url>
+         <critic>William Arnold</critic>
+      </review>
+      <review>
+         <snippet>Rates an inquisition of its own. It may not be heresy to fill out an ensemble cast of Peruvian and Spanish characters almost exclusively with non-Hispanic actors, but it certainly destroys any sense of authenticity.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/moviereviews/story/317660p-271500c.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>After watching this movie, which stars Robert De Niro, Harvey Keitel, Kathy Bates and Gabriel Byrne, I was moved only to find my own bridge to leap from.</snippet>
+         <url>http://www.washingtonpost.com/wp-dyn/content/article/2005/06/09/AR2005060901270.html</url>
+         <critic>Desson Thomson</critic>
+      </review>
+      <review>
+         <snippet>This all-star Euro-indie is stultifyingly torturous.</snippet>
+         <url>http://listings.dallasobserver.com/gyrobase/Film/ShowFilm</url>
+         <critic>Robert Wilonsky</critic>
+      </review>
+      <review>
+         <snippet>"I am surrounded by oceans of boredom," the campy Abraham complains at one point. It's a sentiment audiences are bound to share.</snippet>
+         <url>http://www.nypost.com/movies/24957.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+   </reviews>
+   <US_Gross>$49,981</US_Gross>
+   <production_budget>$24,000,000</production_budget>
+   <weekend_gross>$21,281</weekend_gross>
+   <number_of_screens>6</number_of_screens>
+   <oscar_winning_actors_present/>
+   <num_oscar_winning_actors>2</num_oscar_winning_actors>
+   <oscar_winning_actor>kathy bates</oscar_winning_actor>
+   <oscar_winning_actor>f. murray abraham</oscar_winning_actor>
+   <highest_grossing_actors_present/>
+   <num_highest_grossing_actors>1</num_highest_grossing_actors>
+   <highest_grossing_actor>kathy bates</highest_grossing_actor>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

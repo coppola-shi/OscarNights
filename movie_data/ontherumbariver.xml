@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>On the Rumba River</name>
+   <company>First Run Features</company>
+   <genres>
+      <genre>Documentary</genre>
+   </genres>
+   <authors>
+      <author/>
+   </authors>
+   <directors>
+      <director>Jacques Sarasin</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Wendo Kolosoy</actor>
+   </actors>
+   <release_date>June 6, 2008</release_date>
+   <running_time>82</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>Works best when it sticks to the musical performances, which Sarin films in lengthy scenes built from extreme close-ups of lips, fingers and sweaty skin.</snippet>
+         <url>http://www.avclub.com/content/cinema/on_the_rumba_river</url>
+         <critic>Noel Murray</critic>
+      </review>
+      <review>
+         <snippet>You don't have to be a fan of African tunes to appreciate On the Rumba River, Jacques Sarasin's heartfelt ode to Congolese music and its resilient practitioners.</snippet>
+         <url>http://movies.nytimes.com/2008/06/06/movies/06rumba.html?ref=movies</url>
+         <critic>Jeannette Catsoulis</critic>
+      </review>
+      <review>
+         <snippet>The film's great strength is its performance footage.</snippet>
+         <url>http://www.tvguide.com/movies/rumba-river/review/293754</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>As a filmmaker, Sarasin has an extraordinarily light touch--a good thing for those who want to sit back and enjoy the music (the toe-tappingly spirited rendition of Wendo's biggest hit, "Marie-Louise," is a highlight), a bad thing for viewers unfamiliar with Congolese history and in need of a little context with their rumba.</snippet>
+         <url>http://www.villagevoice.com/film/0823,on-the-rumba-river,458830,20.html</url>
+         <critic>Julia Wallace</critic>
+      </review>
+      <review>
+         <snippet>Delightful music alternates with too-brief interviews with Wendo and his colleagues. On the Rumba River cries out for narration to help viewers understand the tragic context of his life.</snippet>
+         <url>http://www.nypost.com/seven/06062008/entertainment/movies/on_the_rumba_river_114155.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+   </reviews>
+   <US_Gross>$1,698</US_Gross>
+   <weekend_gross>$1,156</weekend_gross>
+   <number_of_screens>1</number_of_screens>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

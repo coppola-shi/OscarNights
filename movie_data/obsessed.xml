@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Obsessed</name>
+   <company>Screen Gems (Sony)</company>
+   <genres>
+      <genre>Drama</genre>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>David Loughery</author>
+   </authors>
+   <directors>
+      <director>Steve Shill</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Idris Elba</actor>
+      <actor>Beyonce Knowles</actor>
+      <actor>Ali Larter</actor>
+      <actor>Bruce McGill</actor>
+      <actor>Jerry O&amp;#039;Connell</actor>
+      <actor>Christine Lahti</actor>
+   </actors>
+   <release_date>April 24, 2009</release_date>
+   <running_time>101</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>Don't expect a pot full of boiling bunnies, because nothing so creatively crazy ever happens in Obsessed, a "Fatal Attraction"-inspired predatory-female domestic thriller that spends much time spinning its wheels and making auds practically beg for an explanation to all the madness and obsession.</snippet>
+         <url>http://www.variety.com/review/VE1117940119.html?categoryid=31&amp;cs=1</url>
+         <critic>John Anderson</critic>
+      </review>
+      <review>
+         <snippet>Obsessed has little plausibility, but at moments it's an entertaining bad movie, and the performers are vivid.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20274698,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>Isn't half as dramatic as what probably went down after she (Beyoncé Knowles) kicked LaTavia and LaToya out of Destiny's Child.</snippet>
+         <url>http://www.laweekly.com/2009-04-23/film-tv/movie-reviews-earth-the-garden-obsessed/3</url>
+         <critic>Melissa Anderson</critic>
+      </review>
+      <review>
+         <snippet>The singer-actress' saucy, glamorously wry performance makes up for some of the film's inherent predictability.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-obsessed27-2009apr27,0,3898932.story</url>
+         <critic>Gary Goldstein</critic>
+      </review>
+      <review>
+         <snippet>The film may seem a bit undercooked until it gets to the staging of the ultimate battle, but Obsessed is swinging from the chandeliers by the end.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A768843</url>
+         <critic>Marjorie Baumgarten</critic>
+      </review>
+      <review>
+         <snippet>Takes far too long to get cooking, and it works so hard at NOT being exploitation that it loses sight of its reasons for existing in the first place.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2009/04/25/obsessed/index.html</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>Every move is telegraphed well in advance thanks to desultory writing, routine direction and ample musical cues.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film-reviews/film-review-obsessed-1003966455.story</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>Larter just doesn't have the same bite as the bunny-killing stalkers of years gone by.</snippet>
+         <url>http://movies.tvguide.com/obsessed/review/297217</url>
+         <critic>Tracie Cooper</critic>
+      </review>
+      <review>
+         <snippet>Doing his best to class up the joint, "The Wire's" Idris Elba stars as the perfect man.</snippet>
+         <url>http://www.avclub.com/articles/obsessed,27155/</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>Unfortunately, the whole movie seems constructed just to get the singer/actress into a knock-down catfight, shoehorning one of show business's sexiest entertainers into a scorned-woman role. And even then, the pay-off feels cheap.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2009/04/24/2009-04-24_obssessed.html</url>
+         <critic>Joe Neumaier</critic>
+      </review>
+      <review>
+         <snippet>The movie’s most disturbing aspect, of which the filmmakers could not have been unaware, is the physical resemblance between Mr. Elba and Ms. Larter to O. J. and Nicole Brown Simpson. It lends Obsessed a distasteful taint of exploitation.</snippet>
+         <url>http://movies.nytimes.com/2009/04/25/movies/25obse.html?ref=movies</url>
+         <critic>Stephen Holden</critic>
+      </review>
+      <review>
+         <snippet>Memo to Beyoncé Knowles: You were so good as Etta James in "Cadillac Records," so why'd you go spoil everything with a rank cheeseball thriller that buries you in clichés and won't even help you dig yourself out?</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/21799128/review/27780324/obsessed</url>
+         <critic>Peter Travers</critic>
+      </review>
+   </reviews>
+   <US_Gross>$68,261,644</US_Gross>
+   <weekend_gross>$28,612,730</weekend_gross>
+   <number_of_screens>2,541</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

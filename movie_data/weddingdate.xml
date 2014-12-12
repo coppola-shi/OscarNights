@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Wedding Date, The</name>
+   <company>Universal Studios Inc.</company>
+   <genres>
+      <genre>Comedy</genre>
+      <genre>Romance</genre>
+   </genres>
+   <authors>
+      <author>Dana Fox</author>
+   </authors>
+   <directors>
+      <director>Clare Kilner</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Debra Messing</actor>
+      <actor>Dermot Mulroney</actor>
+      <actor>Amy Adams</actor>
+      <actor>Jack Davenport</actor>
+      <actor>Sarah Parish</actor>
+      <actor>Jeremy Sheffield</actor>
+      <actor>Peter Egan</actor>
+      <actor>Holl Taylor</actor>
+   </actors>
+   <release_date>February 4, 2005</release_date>
+   <running_time>90</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>The curious case of two appealing performances surviving a bombardment of schlock.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20050203/REVIEWS/50131001/1023</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>Familiar but never overly broad, this well-cast, crowd-pleasing comedy benefits from a low-key emphasis on character over high jinks.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1000787918</url>
+         <critic>Sheri Linden</critic>
+      </review>
+      <review>
+         <snippet>A decent film, but not a great romantic comedy.</snippet>
+         <url>http://www.filmthreat.com/Reviews.asp?Id=7063</url>
+         <critic>Stina Chyn</critic>
+      </review>
+      <review>
+         <snippet>Kilner's light touch keeps the romantic pair dancing around their romance without tripping, but as the film reaches the inevitable happy ending, the steps look all too familiar.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/210612_wedding04q.html</url>
+         <critic>Sean Axmaker</critic>
+      </review>
+      <review>
+         <snippet>A vaguely creepy and mildly diverting rom-com.</snippet>
+         <url>http://ae.philly.com/entertainment/ui/philly/movie.html?id=237957&amp;reviewId=17234</url>
+         <critic>Carrie Rickey</critic>
+      </review>
+      <review>
+         <snippet>The lucky Mulroney gets to play the kind of sensitive hunk that women want and men want to be, but he's the only one who can be heard over the tired wheezing of the romantic-comedy machinery.</snippet>
+         <url>http://www.theavclub.com/review_pop.php?review_id=8213</url>
+         <critic>Nathan Rabin</critic>
+      </review>
+      <review>
+         <snippet>It seems like a slam-dunk pitch -- "Pretty Woman" with the genders reversed -- but there's one major problem: The whole hooker-fantasy bit is much more of a guy thing.</snippet>
+         <url>http://dallasobserver.com/listings/film/1046/index.html</url>
+         <critic>Luke Y. Thompson</critic>
+      </review>
+      <review>
+         <snippet>A fairly mediocre film, not nearly as funny as it should be, nor as heartfelt. On the plus side, it's only 85 minutes long and isn't boring. On the downside, it has an intrusive pop soundtrack and a screenplay full of fake conflicts.</snippet>
+         <url>http://sfgate.com/cgi-bin/article.cgi?file=/c/a/2005/02/04/DDGHQB4JG71.DTL</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>This is a charmless, lifeless affair that had me leaving the theater in a mood more appropriate to a funeral than a wedding.</snippet>
+         <url>http://movie-reviews.colossus.net/movies/w/wedding_date.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>So many body parts from other engineered romantic comedies have been crudely harvested and stitched together in the making of this weird robotic lark that "Maid of Honor of Frankenstein" might be more useful a nickname.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1023950_1_0_,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>Anemic.</snippet>
+         <url>http://www.laweekly.com/film/film_results.php?showid=3268&amp;Sumbit.x=59&amp;Sumbit.y=15</url>
+         <critic>Chuck Wilson</critic>
+      </review>
+      <review>
+         <snippet>An intriguingly racy premise -- plays out to listless, unsatisfying effect.</snippet>
+         <url>http://www.variety.com/review/VE1117926067?categoryid=31&amp;cs=1</url>
+         <critic>Justin Chang</critic>
+      </review>
+      <review>
+         <snippet>Struggles from beginning to end to capture the charm and ebullience of "Four Weddings."  The new movie's effort is mostly unsuccessful, but there are bright spots.</snippet>
+         <url>http://movies2.nytimes.com/2005/02/04/movies/04date.html</url>
+         <critic>Anita Gates</critic>
+      </review>
+      <review>
+         <snippet>Nicely paced but so fluffy it threatens to waft away.</snippet>
+         <url>http://spacefinder.chicagoreader.com/movies/briefs/27358_WEDDING_DATE.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>Dermot Mulroney is the movie's only genuinely romantic lead. And he's so good that he nearly carries The Wedding Date single-handedly.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2005/02/04/wedding_date/index.html</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>This is a leaden mess that offers only brief moments of respite.</snippet>
+         <url>http://www.empireonline.co.uk/site/incinemas/ReviewInFull.asp?FID=11042</url>
+         <critic>Caroline Westbrook</critic>
+      </review>
+      <review>
+         <snippet>Clare Kilner's cast frolics in the countryside in an appropriately British-romantic-comedy fashion, and at times the characters trade silly snaps, but Dana Fox's screenplay is structurally shaky.</snippet>
+         <url>http://www.villagevoice.com/film/0506,snow,60924,20.html</url>
+         <critic>Jennifer Snow</critic>
+      </review>
+      <review>
+         <snippet>There's nothing about The Wedding Date that isn't forced or labored; there's only a stubborn determination to embrace every cliche and make sure the stars photograph well.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-to.wedding04feb04,1,2814886.story?coll=bal-artslife-movies</url>
+         <critic>Chris Kaltenbach</critic>
+      </review>
+      <review>
+         <snippet>It's an hour longer than the average sitcom, but The Wedding Date isn't much different from what you see crammed into any TV comedy lineup, minus the laugh track.</snippet>
+         <url>http://www.miami.com/mld/miamiherald/entertainment/movies/10803918.htm</url>
+         <critic>Connie Ogle</critic>
+      </review>
+      <review>
+         <snippet>A relatively harmless (and thankfully, not entirely laughless) trifle.</snippet>
+         <url>http://www.premiere.com/article.asp?section_id=2&amp;article_id=1963</url>
+         <critic>Peter Debruge</critic>
+      </review>
+      <review>
+         <snippet>Oddly enough, though, only the finale is predictable in a movie that appears to have been edited in an early-model blender. Not a single scene connects smoothly with the next.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/moviereviews/story/277771p-237718c.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>The movie goes wrong from the start.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2005-02-03-wedding-date_x.htm</url>
+         <critic>Mike Clark</critic>
+      </review>
+      <review>
+         <snippet>Wedding Date is neither good art, good entertainment nor even good trash.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-050202-movies-review-mw-wedding.story</url>
+         <critic>Michael Wilmington</critic>
+      </review>
+      <review>
+         <snippet>A movie of utter inconsequence -- a cinematic Listerine Strip that evaporates from the brain before you even get your popcorn tub to the trash.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/1107435739112970.xml</url>
+         <critic>M. E. Russell</critic>
+      </review>
+      <review>
+         <snippet>Amusing premise, not-so-amusing execution.</snippet>
+         <url>http://www.washingtonpost.com/wp-dyn/articles/A62314-2005Feb3.html</url>
+         <critic>Teresa Wiltz</critic>
+      </review>
+      <review>
+         <snippet>This movie is all pretty faces and six-pack abs, but no characters. All surface and no soul. Come to think of it, the surface isn't so darned hot either.</snippet>
+         <url>http://www.washingtonpost.com/wp-dyn/articles/A60480-2005Feb3.html</url>
+         <critic>Desson Thomson</critic>
+      </review>
+      <review>
+         <snippet>It might be best to discreetly misplace your invitation to these strained festivities.</snippet>
+         <url>http://tvguide.com/movies/database/showmovie.asp?MI=45857</url>
+         <critic>Angel Cohn</critic>
+      </review>
+      <review>
+         <snippet>Winds up an oddly depressing, lost, little movie that eventually caves in on itself.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-wedding4feb04,2,6466395.story</url>
+         <critic>Carina Chocano</critic>
+      </review>
+      <review>
+         <snippet>Imagine, if you dare, the outtakes from all those merely bad romantic comedies. Now further imagine that these discarded bits, the stuff that failed to make even the failures, found their way out of the waste bin and into a splicing machine and onto a projector. Do that and you're inching toward a full appreciation of this particular barrel, and the bottom it so brazenly scrapes.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/ArticleNews/movie/MOVIEREVIEWS/20050204/WEDDING04</url>
+         <critic>Rick Groen</critic>
+      </review>
+      <review>
+         <snippet>Suffers from a lack of chemistry.</snippet>
+         <url>http://www.csmonitor.com/2005/0204/p14s01-almo.html</url>
+         <critic>David Sterritt</critic>
+      </review>
+      <review>
+         <snippet>Messing may simply be one of those actresses who's the right size for TV and the wrong size for the big screen.</snippet>
+         <url>http://ae.philly.com/entertainment/ui/philly/movie.html?id=237957&amp;reviewId=17230</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>Messing should know this is precisely the kind of movie Grace would ridicule Will for dragging her to see.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=7293</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>Inexplicable Fantasy Romances for the Harried Modern Gal 101 is a more fitting title for this shameless mediocrity.</snippet>
+         <url>http://www.austinchronicle.com/gbase/Calendar/Film?Film=oid%3A256860</url>
+         <critic>Marc Savlov</critic>
+      </review>
+      <review>
+         <snippet>A witless, stale and half-hearted rehash of cliches borrowed from the likes of "The Wedding Planner," "The Wedding Singer" and "Four Weddings and a Funeral," this pathetic, alleged comedy certainly wasn't improved by clueless direction by Clare Kilner.</snippet>
+         <url>http://www.nypost.com/movies/39848.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+   </reviews>
+   <US_Gross>$31,726,995</US_Gross>
+   <production_budget>$15,000,000</production_budget>
+   <weekend_gross>$11,129,580</weekend_gross>
+   <number_of_screens>1,695</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Henry Poole is Here</name>
+   <company>Overture Films</company>
+   <genres>
+      <genre>Comedy</genre>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author>Albert Torres</author>
+   </authors>
+   <directors>
+      <director>Mark Pellington</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Luke Wilson</actor>
+      <actor>Radha Mitchell</actor>
+      <actor>Adriana Barraza</actor>
+      <actor>George Lopez</actor>
+      <actor>Cheryl Hines</actor>
+      <actor>Rachel Seiferth</actor>
+      <actor>Morgan Lily</actor>
+   </actors>
+   <release_date>August 15, 2008</release_date>
+   <running_time>minutes,</running_time>
+   <rating>PG</rating>
+   <reviews>
+      <review>
+         <snippet>Achieves something that is uncommonly difficult. It is a spiritual movie with the power to emotionally touch believers, agnostics and atheists -- in that descending order, I suspect.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20080814/REVIEWS/808140303</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>The biggest hole in this picture is not so much whether an audience will buy its miracles but whether an audience will care about Henry Poole. Wilson hits the same notes in virtually every scene without any change to his physical rhythms or moods.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/imdb/reviews/article_display.jsp?rid=10503&amp;vnu_special_account_code=thrsiteimdbpro</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>This may sound like a satiric comedy, and its intriguing setup carries a faintly comedic tone, but the movie becomes more straight-faced as it moves along and ends up being a fairly serious examination on the nature of, and necessity for, faith.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/375021_henrypoole15q.html</url>
+         <critic>William Arnold</critic>
+      </review>
+      <review>
+         <snippet>Sappy and corny, but there are a few lovely moments.</snippet>
+         <url>http://www.nypost.com/seven/08152008/entertainment/movies/henry_the_faith_124499.htm</url>
+         <critic>Linda Stasi</critic>
+      </review>
+      <review>
+         <snippet>A large part of the movie's appeal can be attributed to Wilson, more dour than he's been in ages and yet more interesting, too.</snippet>
+         <url>http://www.miamiherald.com/entertainment/movies/reviews/story/641465.html</url>
+         <critic>Connie Ogle</critic>
+      </review>
+      <review>
+         <snippet>If inciting boredom is the worst sin a filmmaker can commit, being timid is right behind it. Whether I agree with your point of view or not, I want to hear it.</snippet>
+         <url>http://www.charlotteobserver.com/161/story/127093.html</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>To Pellington's credit, the performers eschew sentimentality.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/reviews/bal-to.henry15aug15,0,3235806.story</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>A strange and thoughtful little movie.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2008/08/14/DDEF12943K.DTL&amp;type=movies</url>
+         <critic>Reyhan Harmanci</critic>
+      </review>
+      <review>
+         <snippet>It's less a tale of religious rebirth than a faith-based Hallmark card.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20219196,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>This contrived situation leads to a debate over the power of faith.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/33433_HENRY_POOLE_IS_HERE.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>While his sincerity is admirable, Pellington is reluctant to offer any ideas that are more theologically complex than 'Faith is valuable' and 'Life is for living.'</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20080821.wpoole22/BNStory/Entertainment/home</url>
+         <critic>Jason Anderson</critic>
+      </review>
+      <review>
+         <snippet>Handsomely photographed by Eric Schmidt and nicely underplayed by the actors, the film relies too much on its jukebox soundtrack to convey mood.</snippet>
+         <url>http://www.philly.com/inquirer/columnists/carrie_rickey/20080815_Henry_Poole_Is_Here____.html</url>
+         <critic>Carrie Rickey</critic>
+      </review>
+      <review>
+         <snippet>Henry Poole cycles through so many indie film clichés--that it continually skirts self-parody.</snippet>
+         <url>http://www.avclub.com/content/cinema/henry_poole_is_here</url>
+         <critic>Nathan Rabin</critic>
+      </review>
+      <review>
+         <snippet>Picture's tendency to lecture on the power of faith and religion and on the demerits of science seems to assume an almost childlike audience that needs to be spoon-fed Pablum.</snippet>
+         <url>http://www.variety.com/index.asp?layout=festivals&amp;jump=review&amp;id=2471&amp;reviewid=VE1117935898&amp;cs=1</url>
+         <critic>Robert Koehler</critic>
+      </review>
+      <review>
+         <snippet>A film that could have used some of the genuine intrigue of Pellington's thrillers to help offset the increasingly doe-eyed narrative.</snippet>
+         <url>http://www.villagevoice.com/2008-08-12/film/henry-poole-is-here/</url>
+         <critic>Tim Grierson</critic>
+      </review>
+      <review>
+         <snippet>Unfortunately it’s all a bit dull.</snippet>
+         <url>http://chicago.metromix.com/movies/movie_review/movie-review-henry-poole/553247/content</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>Some touching moments, but too blandly inspirational.</snippet>
+         <url>http://www.csmonitor.com/2008/0816/p25s04-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>The film has some amusing moments and can be intriguing when it focuses on the slow transformation of a hopeless, faithless man.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2008-08-14-henry-poole_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>Though not strictly a religious tract, Henry Poole Is Here is undeniably selling spiritual reawakening. If only its makers believed that aesthetically useful adage: God is in the details.</snippet>
+         <url>http://www.latimes.com/entertainment/news/reviews/la-et-henry15-2008aug15,0,6935498.story</url>
+         <critic>Robert Abele</critic>
+      </review>
+      <review>
+         <snippet>It's easy to see how a film so unafraid of religious touchstones could become a phenomenon among the faithful. Nonbelievers, however, need not apply.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2008/08/15/2008-08-15_short_takes_for_the_weekend_of_august_15.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>Every so often there's a tabloid news story about the Virgin Mary seen in a piece of toast or Mother Teresa on a tortilla, and most of us equate them with Elvis sightings. This film is for the rest.</snippet>
+         <url>http://www.oregonlive.com/movies/index.ssf/2008/08/movie_review_waiting_for_a_mir.html</url>
+         <critic>Marc Mohan</critic>
+      </review>
+      <review>
+         <snippet>The film's spiritual deck is stacked. In the mawkish tradition of movies like "Simon Birch," "Wide Awake," "August Rush" and "Hearts in Atlantis," Henry Poole Is Here is insufferable hokum that takes itself very, very seriously.</snippet>
+         <url>http://movies.nytimes.com/2008/08/15/movies/15pool.html?ref=movies</url>
+         <critic>Stephen Holden</critic>
+      </review>
+      <review>
+         <snippet>A not-quite-funny comedy that devolves into a tedious discussion of miracles and redemption.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1142506&amp;categories=Movies</url>
+         <critic>Philip Kennicott</critic>
+      </review>
+      <review>
+         <snippet>All that's missing from the director's new vision of the world is the pipe organ and the choir of angels.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A660520</url>
+         <critic>Josh Rosenblatt</critic>
+      </review>
+      <review>
+         <snippet>Manages a fairly rare trick: It's a movie that's both deeply felt and completely phony.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=10776</url>
+         <critic>Ty Burr</critic>
+      </review>
+   </reviews>
+   <US_Gross>$1,835,293</US_Gross>
+   <weekend_gross>$805,219</weekend_gross>
+   <number_of_screens>527</number_of_screens>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

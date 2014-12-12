@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Coastlines</name>
+   <company>IFC First Take</company>
+   <genres>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author>Victor Nunez</author>
+   </authors>
+   <directors>
+      <director>Victor Nunez</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Timothy Olyphant</actor>
+      <actor>Josh Brolin</actor>
+      <actor>Sarah Wynter</actor>
+      <actor>Scott Wilson</actor>
+      <actor>Angela Bettis</actor>
+      <actor>Josh Lucas</actor>
+      <actor>Robert Wisdom</actor>
+      <actor>Daniel von Bargen</actor>
+   </actors>
+   <release_date>May 31, 2006</release_date>
+   <running_time>119</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>It's a heartfelt movie that could have used a zigzaggier undercurrent, though Olyphant, in the sort of role that Paul Newman used to swagger through, has a star's easy command.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1199595_1_0_,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>That this deceptively quiet crime thriller about an ex con's troubled homecoming sat on the shelf for four years before finding commercial distribution speaks volumes about both the voracious appetite for sand/surf/summer-break cliches and Hollywood's willingness to pander to it.</snippet>
+         <url>http://online.tvguide.com/newsearch/detail.aspx?id=46964&amp;sourcetype=m&amp;progseriesparentid=0&amp;tvobjectid=0&amp;keyword=&amp;more=ucmoviereview</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>It's only a mild disappointment. The talent is still there, the film better than most. It just needs less crime, more love.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-060714-movies-review-coastlines,0,2896633.story?coll=mmx-movies_top_heds</url>
+         <critic>Michael Wilmington</critic>
+      </review>
+      <review>
+         <snippet>The messy emotions and illogic of human nature defines this drama.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/279114_limited28.html</url>
+         <critic>Sean Axmaker</critic>
+      </review>
+      <review>
+         <snippet>Lacks the subtle power of the previous two efforts, although boasting effective performances from its terrific cast.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1002839248</url>
+         <critic>Frank Scheck</critic>
+      </review>
+      <review>
+         <snippet>Much like the good westerns, Coastlines keeps you entertained throughout its two hours, which says a lot about Nunez's storytelling.</snippet>
+         <url>http://www.miami.com/mld/miamiherald/entertainment/movies/14870939.htm</url>
+         <critic>Marta Barber</critic>
+      </review>
+      <review>
+         <snippet>Nunez's dialogue, and the paces he puts this threesome through, just don't ring true. Coastlines is the stuff of pulp, seriously at odds with what the writer-director has always done best. That is, show the inner workings of people, their needs, their fears, their small dreams.</snippet>
+         <url>http://ae.philly.com/entertainment/ui/philly/movie.html?id=628707&amp;reviewId=20955</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>There is energy to this film that is somewhat different from Nunez's others. Along with a terrific cast, Nunez keeps the action driving forward: dangerous, sexy, and conflicted.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=2632</url>
+         <critic>Chris Gore</critic>
+      </review>
+      <review>
+         <snippet>A melodramatic step backward for writer-director Victor Nunez after his last two pictures, the first-rate "Ruby in Paradise" and "Ulee's Gold."</snippet>
+         <url>http://www.variety.com/review/VE1117916862?categoryid=31&amp;cs=1</url>
+         <critic>Todd McCarthy</critic>
+      </review>
+      <review>
+         <snippet>A larger problem is the film's attempt to piece together a hard-boiled crime drama with a soft-boiled soap opera, ultimately giving precedence to the suds and adding a sickly lemon scent.</snippet>
+         <url>http://movies2.nytimes.com/2006/05/31/movies/31coas.html</url>
+         <critic>Stephen Holden</critic>
+      </review>
+      <review>
+         <snippet>That love triangle is Coastlines' center. Trouble is, it plays more like canned heat than blazing inferno.</snippet>
+         <url>http://www.avclub.com/content/node/48988</url>
+         <critic>Keith Phipps</critic>
+      </review>
+      <review>
+         <snippet>Nunez gets nice performances from his cast, but his narrative is cluttered.</snippet>
+         <url>http://www.nypost.com/movies/66771.htm</url>
+         <critic>V.A. Musetto</critic>
+      </review>
+      <review>
+         <snippet>Nunez's fans will appreciate his ability to evoke a palpable atmosphere. But there's just not enough spark in his scorched setting.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/moviereviews/story/422900p-356873c.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>A tired, generic crime story.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/30019_COASTLINES.html</url>
+         <critic>Andrea Gronvall</critic>
+      </review>
+      <review>
+         <snippet>For fans of Nunez's previous work, it's almost as if he put in all the clichés he would normally avoid and left out the wonderfully textured internal moments that made "Ruby" and "Ulee's Gold" unique.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-coast16jun16,0,4064460.story</url>
+         <critic>Kevin Crust</critic>
+      </review>
+      <review>
+         <snippet>For some fans, the taste of on-location color matters most, but Nuñez's idea of the characters' ordinariness translates to flavorlessness.</snippet>
+         <url>http://www.villagevoice.com/film/0622,atkinson,73377,20.html</url>
+         <critic>Michael Atkinson</critic>
+      </review>
+   </reviews>
+   <US_Gross>$7,883</US_Gross>
+   <weekend_gross>$1,021</weekend_gross>
+   <number_of_screens>1</number_of_screens>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

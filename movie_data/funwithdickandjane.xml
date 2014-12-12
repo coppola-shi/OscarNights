@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Fun with Dick and Jane</name>
+   <company>Columbia Pictures / Sony Pictures Entertainment</company>
+   <genres>
+      <genre>Comedy</genre>
+      <genre>Crime</genre>
+   </genres>
+   <authors>
+      <author>Judd Apatow</author>
+      <author>Nicholas Stoller</author>
+      <author>Peter Tolan</author>
+   </authors>
+   <directors>
+      <director>Dean Parisot</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Jim Carrey</actor>
+      <actor>Téa Leoni</actor>
+      <actor>Alec Baldwin</actor>
+      <actor>Richard Jenkins</actor>
+      <actor>Gloria Garayua</actor>
+      <actor>Angie Harmon</actor>
+   </actors>
+   <release_date>December 21, 2005</release_date>
+   <running_time>90</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>Writers Nicholas Stoller and Judd Apatow remake is more devilish, hitting its targets with the reckless glee required for a round of Whac-A-Mole.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=5717</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>A pitch-perfect farce for the post-Enron era.</snippet>
+         <url>http://newyorkmetro.com/nymetro/movies/reviews/15435/</url>
+         <critic>Logan Hill</critic>
+      </review>
+      <review>
+         <snippet>There's something quietly but unmistakably angry underneath all the slapstick.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/living/1135115710202030.xml&amp;coll=7</url>
+         <critic>M. E. Russell</critic>
+      </review>
+      <review>
+         <snippet>Carrey rolls his eyes and waggles his arms, and Leoni keeps up with him while pushing less hard. He externalizes, she internalizes, and the balance works as it might in a good marriage.</snippet>
+         <url>http://ae.charlotte.com/entertainment/ui/charlotte/movie.html?id=497232&amp;reviewId=null&amp;startDate=NEXT7</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>It's a consistently funny script, tastefully packaged by super-producer Brian Grazer and directed with just the right touch by Dean Parisot.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/252766_dickjane21q.html</url>
+         <critic>William Arnold</critic>
+      </review>
+      <review>
+         <snippet>The rare Hollywood remake that, by daring to reinterpret its source material within a fresh political context, actually has a reason to exist.</snippet>
+         <url>http://www.variety.com/review/VE1117929146?categoryid=31&amp;cs=1</url>
+         <critic>Justin Chang</critic>
+      </review>
+      <review>
+         <snippet>Fun With Dick and Jane has lived up to its title: It's fun, and that's fine.</snippet>
+         <url>http://www.washingtonpost.com/wp-dyn/content/article/2005/12/20/AR2005122001736.html</url>
+         <critic>Ann Hornaday</critic>
+      </review>
+      <review>
+         <snippet>Recycles the 1977 comedy right down to repeating the same mistakes.</snippet>
+         <url>http://www.rogerebert.com/apps/pbcs.dll/article?AID=/20051220/REVIEWS/51214003/1023</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>Mr. Carrey is such an attention hog that most actresses have a hard time holding on to their corner of the screen when he's onboard, especially in broader comedies. But Ms. Leoni never cedes her ground. Both performers exude such acute neediness - there's a touch of Jerry Lewis and Lucille Ball in their mutual frenzy - that not to love them even a little would seem cruel.</snippet>
+         <url>http://movies2.nytimes.com/2005/12/21/movies/21jane.html</url>
+         <critic>Manohla Dargis</critic>
+      </review>
+      <review>
+         <snippet>Plays like the setup for a movie that never materializes. It has all the elements for a successful comedy, but once the premise is presented, the film doesn't know how to deliver on its promise. That doesn't mean there is no fun in "Fun."</snippet>
+         <url>http://www.calendarlive.com/movies/turan/cl-et-fun21dec21,0,5253172.story</url>
+         <critic>Kenneth Turan</critic>
+      </review>
+      <review>
+         <snippet>Carrey's back on top slapstick form and brews up great chemistry with Leoni.</snippet>
+         <url>http://www.empireonline.com/incinemas/ReviewComplete.asp?FID=10251</url>
+         <critic>Simon Braund</critic>
+      </review>
+      <review>
+         <snippet>Carrey's brand of exhausting physical comedy is a far cry from Segal's useful bewilderment, so this ride is both rougher and loonier.</snippet>
+         <url>http://dallasobserver.com/Issues/2005-12-22/film/film4.html</url>
+         <critic>Bill Gallo</critic>
+      </review>
+      <review>
+         <snippet>Most of it plays out as sub-medium-grade farce, but Carrey has some funny calisthenic bits where he appears to have the pliability of a rubber toy.</snippet>
+         <url>http://www.csmonitor.com/2005/1222/p17s01-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>As social commentary, Fun With Dick and Jane wears Leno-thin. As a big-screen sitcom, it's a procession of hit-or-miss touches that cancel each other out.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-to.fun21dec21,1,1964072.story?coll=bal-artslife-movies</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>Unfortunately, the remake is as toothless as the original and gets bogged down in the humiliations of the Harpers' down-slipping life.</snippet>
+         <url>http://online.tvguide.com/movies/database/ShowMovie.asp?MI=46526</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>The new film's social message comes through loud and clear, but something in the comedy seems constrained -- effortful, yet muffled. It might be a matter of the right tone never having been found.</snippet>
+         <url>http://sfgate.com/cgi-bin/article.cgi?f=/c/a/2005/12/21/DDG4SGAJGU1.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>While the 1977 Fun With Dick and Jane was a reasonably diverting sendup of conspicuous consumption with a subversive if not always razor-sharp comic edge, the new version... replaces smart performances with tired shtick.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1001701282</url>
+         <critic>Sheri Linden</critic>
+      </review>
+      <review>
+         <snippet>There's really not much fun to be had with Dick and Jane - or anyone else in this anemic comedy.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2005-12-20-dick-and-jane_x.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>This is familiar clowning territory for our actors -- hypothetically well-matched here, with Carrey a far more sophisticated and energetic comic partner for Leoni than Adam Sandler was in "Spanglish."</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-0501221-movies-review-fun,0,6744598.story?coll=mmx-movies_top_heds</url>
+         <critic>Allison Benedikt</critic>
+      </review>
+      <review>
+         <snippet>A sharply comic critique of corporate greed might have added to the national dialogue, but this is a series of hit-&amp;-miss sketches.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/moviereviews/story/376577p-319778c.html</url>
+         <critic>Jami Bernard</critic>
+      </review>
+      <review>
+         <snippet>Much of the film's comedy feels muted; Fun with Dick and Jane isn't a lot of fun.</snippet>
+         <url>http://movie-reviews.colossus.net/movies/f/fun_dick.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>Wearing a brush cut that never fits the role, Carrey doesn't do a lot here besides flash those vampire-nerd teeth, and I grew weary of seeing them.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1143983_1_0_,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>In mood and in content is just SO 20th century.</snippet>
+         <url>http://www.philly.com/mld/philly/entertainment/movies/13452870.htm</url>
+         <critic>David Hiltbrand</critic>
+      </review>
+      <review>
+         <snippet>So how can a project that began with such promise end up such a slick, pandering misfire?  The answer, unsurprisingly, has a lot to do with Jim Carrey.</snippet>
+         <url>http://avclub.com/content/node/43760</url>
+         <critic>Nathan Rabin</critic>
+      </review>
+      <review>
+         <snippet>It's the angriest comedy I've encountered all year, though it's pretty well spoiled by Carrey, who insists on turning it into a star vehicle with his slapstick and spazz attacks.</snippet>
+         <url>http://spacefinder.chicagoreader.com/movies/briefs/29115_FUN_WITH_DICK_AND_JANE.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>This is satire made from the inside of the ivory tower, and when, late in the third act, Fun With Dick and Jane decides to come on strong with platitudes about how the petit bourgeois really can stick it to the haute bourgeois, it goes from bad to worse.</snippet>
+         <url>http://www.laweekly.com/film/film_results.php?showid=3709&amp;Sumbit.x=49&amp;Sumbit.y=15</url>
+         <critic>Scott Foundas</critic>
+      </review>
+      <review>
+         <snippet>It's all well and good to run a scroll of corporate evil-doers at the end of the film as in Dick and Jane, but if these robber barons were skewered properly along the way, such heavy-handed, last-minute tactics wouldn't be necessary.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A319958</url>
+         <critic>Marjorie Baumgarten</critic>
+      </review>
+      <review>
+         <snippet>None of this is funny enough to justify stealing 90 minutes of your viewing time.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/ArticleNews/TPStory/LAC/20051221/FUN21/TPEntertainment/Film</url>
+         <critic>Liam Lacey</critic>
+      </review>
+      <review>
+         <snippet>Has all the depth of an episode of "Joey."</snippet>
+         <url>http://ae.miami.com/entertainment/ui/miami/movie.html?id=497232&amp;reviewId=19752</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>Build a comedy around Jim Carrey in manic mode and they will come. Case in point: Fun With Dick and Jane, a pointless, painfully unfunny and yet inexplicably popular remake of the 1977 fizzle with Jane Fonda and George Segal.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/_/id/6164248/rid/9118147/</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>This Dick &amp; Jane is precisely the kind of social-problem comedy you'd expect from well-intentioned millionaires unaccustomed to putting their money where their mouths are.</snippet>
+         <url>http://www.villagevoice.com/film/0551,holcomb,71164,20.html</url>
+         <critic>Mark Holcomb</critic>
+      </review>
+      <review>
+         <snippet>A typical end-of-the-year dump film, in that there's almost no reason to see it.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=8290</url>
+         <critic>Pete Vonder Haar</critic>
+      </review>
+      <review>
+         <snippet>The material has been dumbed down for contemporary tastes and Carrey's frantic comic style.</snippet>
+         <url>http://www.nypost.com/movies/59206.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+   </reviews>
+   <US_Gross>$110,550,000</US_Gross>
+   <production_budget>$140,000,000</production_budget>
+   <weekend_gross>$21,959,271</weekend_gross>
+   <number_of_screens>3,056</number_of_screens>
+   <highest_grossing_actors_present/>
+   <num_highest_grossing_actors>2</num_highest_grossing_actors>
+   <highest_grossing_actor>alec baldwin</highest_grossing_actor>
+   <highest_grossing_actor>jim carrey</highest_grossing_actor>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Dare</name>
+   <company>Gigantic Pictures</company>
+   <genres>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author>David Brind</author>
+   </authors>
+   <directors>
+      <director>Adam Salky</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Emmy Rossum</actor>
+      <actor>Ashley Springer</actor>
+      <actor>Ana Gasteyer</actor>
+      <actor>Alan Cumming</actor>
+      <actor>Sra Bernhardt</actor>
+      <actor>Tricia Mara</actor>
+      <actor>Cady Huffman</actor>
+      <actor>Zach Gilford</actor>
+   </actors>
+   <release_date>November 13, 2009</release_date>
+   <running_time>100</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>A smart and well-observed entry in the genre, is a cut above the usual hijinks.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film-reviews/film-review-dare-1003934507.story</url>
+         <critic>James Greenberg</critic>
+      </review>
+      <review>
+         <snippet>As it develops, Dare lays out some interesting psychological puzzles, though the filmmakers lack the technique to explore them as thoroughly as you might wish.</snippet>
+         <url>http://movies.nytimes.com/2009/11/13/movies/13dare.html?ref=movies</url>
+         <critic>A.O. Scott</critic>
+      </review>
+      <review>
+         <snippet>A high school coming-of-age film that dares to push the envelope. It doesn't always succeed, but that's not for lack of trying.</snippet>
+         <url>http://www.nypost.com/p/entertainment/movies/dare_say_it_takes_risks_7WGFzzFK4f0vn59Z1hjWZM</url>
+         <critic>V.A. Musetto</critic>
+      </review>
+      <review>
+         <snippet>Think of the film from director Adam Salky and screenwriter David Brind as "Pretty in Pink" crossed with "Cruel Intentions."</snippet>
+         <url>http://www.philly.com/inquirer/columnists/carrie_rickey/20091204_Steamy_teens_on_Main_Line.html</url>
+         <critic>Carrie Rickey</critic>
+      </review>
+      <review>
+         <snippet>The film lacks the comedic charm of "American Pie," but with its dark, hyper-sexualization of teens, it offers an engrossing if not soap opera-esque tale of self-discovery.</snippet>
+         <url>http://www.latimes.com/entertainment/news/la-et-capsules13-2009nov13,0,512935.story</url>
+         <critic>Gerrick Kennedy</critic>
+      </review>
+      <review>
+         <snippet>Dare, a sweetly sexed-up high school triangle movie, is like a John Hughes comedy trying to pass itself off as ''transgressive.''</snippet>
+         <url>http://www.ew.com/ew/article/0,,20319040,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>This "Cruel Intentions"-style cesspool of teenage hanky-panky may be more scandalous than its chaste Disney counterpart, but that doesn't necessarily make it any more authentic.</snippet>
+         <url>http://www.variety.com/review/VE1117939482.html?categoryid=31&amp;cs=1&amp;query=dare</url>
+         <critic>Peter Debruge</critic>
+      </review>
+      <review>
+         <snippet>Zach Gilford's game performance is still no match for the film's catalog of easy ironies, awkward framings, and advice on how to play Blanche DuBois.</snippet>
+         <url>http://www.villagevoice.com/2009-11-10/film/dare-contrives-unlikely-high-school-character-arcs/</url>
+         <critic>Andrew Schenker</critic>
+      </review>
+      <review>
+         <snippet>There’s one bright spot amid all the awkward groping and abundant onscreen texting, and his name is Zach Gilford.</snippet>
+         <url>http://newyork.timeout.com/articles/film/80533/dare-film-review</url>
+         <critic>David Fear</critic>
+      </review>
+   </reviews>
+   <US_Gross>$18,087</US_Gross>
+   <weekend_gross>$13,200</weekend_gross>
+   <number_of_screens>2</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Ping Pong Playa</name>
+   <company>IFC Films</company>
+   <genres>
+      <genre>Comedy</genre>
+   </genres>
+   <authors>
+      <author>Jimmy Tsai</author>
+      <author>Jessica Yu</author>
+   </authors>
+   <directors>
+      <director>Jessica Yu</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Jimmy Tsai</actor>
+      <actor>Roger Fan</actor>
+      <actor>Shelley Malil</actor>
+      <actor>Smith Cho</actor>
+   </actors>
+   <release_date>September 5, 2008</release_date>
+   <running_time>96</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>A mostly amusing, appealing family comedy about going from pretender to contender, in life as well as pingpong.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2008/09/04/DDP912NI5Q.DTL&amp;type=movies</url>
+         <critic>G. Allen Johnson</critic>
+      </review>
+      <review>
+         <snippet>Yu has a good time making fun of white people, in particular a pair of rival ping-pong teachers who seem inspired by the gay villains in the Bond film "Diamonds Are Forever."</snippet>
+         <url>http://seattlepi.nwsource.com/movies/378748_pingpongplaya12q.html</url>
+         <critic>Bill White</critic>
+      </review>
+      <review>
+         <snippet>A bright, nimble diversion, a quick-witted picture that's fast on its feet.</snippet>
+         <url>http://movies.nytimes.com/2008/09/05/movies/05play.html?ref=movies</url>
+         <critic>Nathan Lee</critic>
+      </review>
+      <review>
+         <snippet>Tsai, who co-wrote the script with Yu, pulls out all the stops with his C-dub role, brimming with witty send-ups of Chinese-American cultural values and Asian stereotypes.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?rid=11013</url>
+         <critic>Justin Lowe</critic>
+      </review>
+      <review>
+         <snippet>A good, clean, fun comedy that uses a table tennis championship to crack inside jokes about Los Angeles' Chinese-American community.</snippet>
+         <url>http://www.variety.com/review/VE1117934808.html?categoryid=31&amp;cs=1&amp;p=0</url>
+         <critic>Peter Debruge</critic>
+      </review>
+      <review>
+         <snippet>Has a certain silly, kid-friendly charm.</snippet>
+         <url>http://movies.tvguide.com/detail/movie.aspx?tvobjectid=295224&amp;more=ucmoviereview</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>Even the championship showdown feels polite.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20223402,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>He's a mishmash of cultural opposites, and his motormouth swagger is fitfully amusing. So is his backhand.</snippet>
+         <url>http://www.csmonitor.com/2008/0906/p25s01-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>Frantically paced, littered with cute kids, and overstuffed with split screens and a rap score, Ping Pong Playa angles a little too hard for tween attention, but there's no resisting the movie's antic affability or its irreverence.</snippet>
+         <url>http://www.villagevoice.com/2008-09-03/film/ping-pong-playa/</url>
+         <critic>Ella Taylor</critic>
+      </review>
+      <review>
+         <snippet>Something is missing here.</snippet>
+         <url>http://www.avclub.com/content/cinema/ping_pong_playa</url>
+         <critic>Noel Murray</critic>
+      </review>
+      <review>
+         <snippet>Breathes fresh life into the tired, bloated sports-comedy formula -- while remaining utterly formulaic.</snippet>
+         <url>http://www.latimes.com/entertainment/news/reviews/la-et-capsules5-2008sep05,0,4954542.story</url>
+         <critic>Sheri Linden</critic>
+      </review>
+      <review>
+         <snippet>This thin premise can't sustain a feature, and the racial and gay jokes are jarring, but the child actors are cute, especially Andrew.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/capsules/33035_PING_PONG_PLAYA</url>
+         <critic>Andrea Gronvall</critic>
+      </review>
+      <review>
+         <snippet>A decidedly lightweight amusement.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2008/09/04/2008-09-04_short_takes_more_movie_reviews_for_week_.html?page=0</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+   </reviews>
+   <US_Gross>$77,907</US_Gross>
+   <weekend_gross>$30,797</weekend_gross>
+   <number_of_screens>9</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

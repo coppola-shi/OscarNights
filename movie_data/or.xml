@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Or (My Treasure)</name>
+   <company>Kino International</company>
+   <genres>
+      <genre>Drama</genre>
+      <genre>Foreign</genre>
+   </genres>
+   <authors>
+      <author>Sari Ezouz</author>
+      <author>Keren Yedaya</author>
+   </authors>
+   <directors>
+      <director>Keren Yedaya</director>
+   </directors>
+   <origins>
+      <origin>FranceIsrael</origin>
+   </origins>
+   <actors>
+      <actor>Ronit Elkabetz</actor>
+      <actor>Dana Ivgi</actor>
+      <actor>Meshar Cohen</actor>
+      <actor>Katia Zinbris</actor>
+      <actor>Shmuel Edelman</actor>
+      <actor>Siyalit Tamir</actor>
+      <actor>Sarit Vino-Elad</actor>
+   </actors>
+   <release_date>June 1, 2005</release_date>
+   <running_time>100</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>Yedaya's prizewinning debut film is acted and directed with uncommon psychological realism.</snippet>
+         <url>http://www.csmonitor.com/2005/0603/p14s01-almo.html</url>
+         <critic>David Sterritt</critic>
+      </review>
+      <review>
+         <snippet>Like mother, like daughter best sums up Or (My Treasure), a raw drama.</snippet>
+         <url>http://www.nypost.com/movies/44818.htm</url>
+         <critic>V.A. Musetto</critic>
+      </review>
+      <review>
+         <snippet>Yedaya is respectful and sensitive of everyone in Or's life and creates a beautiful, complex and rich relationship between mother and daughter, loving and protective of each other, but not of themselves.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/240887_limited16.html</url>
+         <critic>Sean Axmaker</critic>
+      </review>
+      <review>
+         <snippet>Consistently engaging, non-judgmental and cumulatively powerful two-hander marks a noteworthy feature debut for Israeli helmer Keren Yedaya.</snippet>
+         <url>http://www.variety.com/index.asp?layout=cannes2004&amp;content=review&amp;reviewid=VE1117923893&amp;categoryid=1724&amp;cs=</url>
+         <critic>Lisa Nesselson</critic>
+      </review>
+      <review>
+         <snippet>Israeli director Keren Yedaya's remarkable debut feature, which won the 2004 Cannes Film Festival Camera d'Or, is a powerful study of a teenager's willingness to do anything to save her mother, a Tel Aviv prostitute who may be well beyond salvation.</snippet>
+         <url>http://tvguide.com/movies/database/showmovie.asp?MI=46139</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>For long stretches, Or is a dialogue-heavy kitchen-sink drama, but its naturalistic style and unselfconscious performances give it an intensity that only builds as it progresses.</snippet>
+         <url>http://www.theavclub.com/review.php?review_id=8632</url>
+         <critic>Keith Phipps</critic>
+      </review>
+      <review>
+         <snippet>Insofar as they're implicitly the spoils of war, this movie seems to be meditating on the whys and hows of the spoiling process -- raising more questions than can possibly be answered, and in this sense, at least, far from dogmatic.</snippet>
+         <url>http://www.chicagoreader.com/movies/archives/2005/0605/050624.html</url>
+         <critic>Jonathan Rosenbaum</critic>
+      </review>
+      <review>
+         <snippet>A work of exceptional subtlety and is all the more captivating and heart-rending for being so.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-or15jul15,0,5035955.story</url>
+         <critic>Kevin Thomas</critic>
+      </review>
+      <review>
+         <snippet>The scoreless Or (My Treasure) consists solely of stationary shots that, while sometimes awkwardly composed, build in organic momentum and bracing detail.</snippet>
+         <url>http://www.villagevoice.com/film/0522,tracking1,64451,20.html</url>
+         <critic>Jessica Winter</critic>
+      </review>
+      <review>
+         <snippet>This well-meaning but irritatingly naïve feature delves into the horrors of prostitution, or more accurately, the filmmaker's horror about the subject.</snippet>
+         <url>http://movies2.nytimes.com/2005/06/01/movies/01trea.html</url>
+         <critic>Manohla Dargis</critic>
+      </review>
+      <review>
+         <snippet>Suffers from long takes, no music score, naturalistic acting and an agenda so stifling it doesn't allow its characters to breathe.</snippet>
+         <url>http://sfgate.com/cgi-bin/article.cgi?f=/c/a/2005/08/05/DDGJ8E2JR51.DTL#flick2</url>
+         <critic>G. Allen Johnson</critic>
+      </review>
+      <review>
+         <snippet>Doggedly refusing artifice as if cinematic beauty were a filthy capitalist plot, Yedaya drowns her characters in realist grit, a colorless screenplay and no score to speak of, rendering this open book of a movie alienating in all the wrong ways.</snippet>
+         <url>http://www.laweekly.com/film/film_results.php?showid=3469&amp;Sumbit.x=32&amp;Sumbit.y=10</url>
+         <critic>Ella Taylor</critic>
+      </review>
+   </reviews>
+   <US_Gross>$28,894</US_Gross>
+   <weekend_gross>$5,733</weekend_gross>
+   <number_of_screens>2</number_of_screens>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

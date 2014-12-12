@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Death of a President</name>
+   <company>Newmarket Films</company>
+   <genres>
+      <genre>Crime</genre>
+      <genre>Drama</genre>
+      <genre>Mystery</genre>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>Simon Finch</author>
+      <author>Gabriel Range</author>
+   </authors>
+   <directors>
+      <director>Gabriel Range</director>
+   </directors>
+   <origins>
+      <origin>UK</origin>
+   </origins>
+   <actors>
+      <actor>Hend Ayoub</actor>
+      <actor>Brian Bol</actor>
+      <actor>Becky Ann Baker</actor>
+      <actor>Robert Mangiardi</actor>
+      <actor>Jay Patterson</actor>
+      <actor>Jay Whittaker</actor>
+      <actor>Michael Reilly Burke</actor>
+      <actor>James Urbaniak</actor>
+   </actors>
+   <release_date>October 27, 2006</release_date>
+   <running_time>93</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>The movie IS a provocation, but not a glib or ideologically myopic one.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1550535_1_0_,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>Many of its fiercest detractors may be surprised to find that it's a far more sobering piece of speculative fiction than they might have imagined.</snippet>
+         <url>http://www.avclub.com/content/node/54546</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>It's more than simply a well-crafted piece of fake history.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/290117_president27q.html</url>
+         <critic>Sean Axmaker</critic>
+      </review>
+      <review>
+         <snippet>Given the controversy, which strongly suggested that the filmmakers had it in for President Bush, the film's biggest shocker may be how kind Range and coscreenwriter Simon Finch are to him.</snippet>
+         <url>http://tvguide.com/detail/movie.aspx?tvobjectid=283662&amp;more=ucmoviereview</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>The excitingly well-made Death of a President imagines the assassination of President Bush as a way of analyzing political violence. And Sen. Hillary Rodham Clinton, sight unseen, has labeled it despicable.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-to.president27oct27,0,5509998.story?coll=bal-artslife-movies</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>Is it a worthwhile movie? Yes, for the most part.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/1161818715162160.xml&amp;coll=7</url>
+         <critic>Marc Mohan</critic>
+      </review>
+      <review>
+         <snippet>A masterly piece of documentary chicanery that kills George W. Bush without once pandering to his legions of ill-wishers.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/LAC.20061027.DOAP27FILM/TPStory/TPEntertainment/Movies/</url>
+         <critic>Rick Groen</critic>
+      </review>
+      <review>
+         <snippet>Range has a marvelous feel for the clichés and conventions of TV-news documentary, and the tone of mournful elegy he strikes here is both convincing and -- believe me, I'm shocked to be writing this -- moving.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2006/10/26/btm/index.html</url>
+         <critic>Andrew O&amp;#039;Hehir</critic>
+      </review>
+      <review>
+         <snippet>There's something foul about staging the assassination of a sitting president in order to push a political agenda that could just as easily have been put forward without resorting to such sensationalism.</snippet>
+         <url>http://www.csmonitor.com/2006/1027/p16s02-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>The film is cannily made.</snippet>
+         <url>http://www.philly.com/mld/philly/entertainment/movies/15857780.htm</url>
+         <critic>Carrie Rickey</critic>
+      </review>
+      <review>
+         <snippet>The flaw in Death of a President isn't one of morality. It's one of dramatic interest.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-061027-movies-review-president,0,4578694.story?coll=mmx-movies_top_heds</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>Politically noncommittal and dull. But that's exactly the problem with this 90-minute piece of cinematic trompe l'oeil.</snippet>
+         <url>http://www.slate.com/id/2152271</url>
+         <critic>Dana Stevens</critic>
+      </review>
+      <review>
+         <snippet>Turns out to be rather less than the sum of its headlines.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=9674</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>Aside from satisfying some kind of ghoulish curiosity about how such an incident could possibly happen, there's precious little in Death of a President to justify the extremity of its central conceit.</snippet>
+         <url>http://ae.miami.com/entertainment/ui/miami/movie.html?id=739626&amp;reviewId=21703</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>By the end, there's nothing to admire except Range's technical virtuosity.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A413300</url>
+         <critic>Marjorie Baumgarten</critic>
+      </review>
+      <review>
+         <snippet>As skillful an artist as Range clearly is, he has gone to an awful lot of trouble to make a painfully obvious point about threats to civil liberties in a post-9/11 world.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1091956&amp;categories=Movies&amp;nm=1</url>
+         <critic>Ann Hornaday</critic>
+      </review>
+      <review>
+         <snippet>A technically inventive, thoughtful, but otherwise not particularly earth-shattering movie.</snippet>
+         <url>http://www.calendarlive.com/printedition/calendar/cl-et-death27oct27,0,569393.story</url>
+         <critic>Carina Chocano</critic>
+      </review>
+      <review>
+         <snippet>Though the blending of archival footage into a faux documentary is occasionally clever, ultimately it's banal and unconvincing.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2006-10-26-review-babel_x.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>D.O.A.P. would be more effective, and more entertaining, if it took a cue from "Dr. Strangelove" and used Sterling Hayden's paranoid, quick-triggered Brig. Gen. Jack D. Ripper as the model for Cheney to get more outlandish behavior from him.</snippet>
+         <url>http://www.nydailynews.com/10-27-2006/entertainment/col/story/465583p-391688c.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>Death of a President wants to function as a mindless thriller that eventually makes us think -- and only after the film is over question the form that encouraged us to be mindless. These are incompatible agendas, and in the end neither is fully successful.</snippet>
+         <url>http://www.chicagoreader.com/features/stories/moviereviews/061027/</url>
+         <critic>Jonathan Rosenbaum</critic>
+      </review>
+      <review>
+         <snippet>There's no question that Death of a President fulfills its objective as a conversation starter, but as a movie, it's sketchy at best.</snippet>
+         <url>http://www.premiere.com/moviereviews/3212/death-of-a-president.html</url>
+         <critic>Ethan Alter</critic>
+      </review>
+      <review>
+         <snippet>Death of a President is celluloid mediocrity. It's neither interesting nor convincing.</snippet>
+         <url>http://www.reelviews.net/movies/d/death_president.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>As convincing as the manipulated footage of the President's death in Chicago in October 2007 is, the movie itself cannot be more unconvincing in its approach.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?&amp;rid=931</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>Disappointingly, Death of a President shrinks from its promise as a piece of genuinely radical or adventurous speculative fiction.</snippet>
+         <url>http://www.variety.com/review/VE1117931537.html?categoryid=31&amp;cs=1&amp;p=0</url>
+         <critic>Todd McCarthy</critic>
+      </review>
+      <review>
+         <snippet>Dramatically inert but a minor techno-miracle, Range's movie is a faux documentary with fake talking heads and seamless digital effects.</snippet>
+         <url>http://www.villagevoice.com/film/0643,hoberman,74819,20.html</url>
+         <critic>J. Hoberman</critic>
+      </review>
+      <review>
+         <snippet>Some will find profundity in the film's reversals and revelations, but its provocations are not particularly insightful or original. The Death of a President is, in the end, neither terribly outrageous nor especially heroic; it’s a thought experiment that traffics in received ideas.</snippet>
+         <url>http://movies2.nytimes.com/2006/10/27/movies/27deat.html?ref=movies</url>
+         <critic>A.O. Scott</critic>
+      </review>
+      <review>
+         <snippet>Shopworn propaganda.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/12031913/review/12221827/death_of_a_president</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>Is Death of a President plausible? As political prognostication, perhaps. As a TV documentary, no way in hell. What's missing is shapeliness, suspense, narrative cunning, visual flair--in short, art. Are we really to believe that a network of the future would broadcast such a barbiturate?</snippet>
+         <url>http://newyorkmetro.com/movies/reviews/23468/</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>Depictions of an aide talking about her hospital vigil and her words of comfort to a distraught Laura Bush are creepy and exploitative -- and borderline disgusting.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2006/10/27/DDGBALVTIU1.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>The only thing that's shocking about Death of a President is how boring it is.</snippet>
+         <url>http://www.nypost.com/seven/10262006/entertainment/movies/hollow_point_movies_kyle_smith.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+   </reviews>
+   <US_Gross>$519,086</US_Gross>
+   <weekend_gross>$281,778</weekend_gross>
+   <number_of_screens>143</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

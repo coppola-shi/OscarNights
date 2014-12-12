@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Doomsday</name>
+   <company>Universal Pictures</company>
+   <genres>
+      <genre>Action</genre>
+      <genre>Drama</genre>
+      <genre>Scifi</genre>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>Neil Marshall</author>
+   </authors>
+   <directors>
+      <director>Neil Marshall</director>
+   </directors>
+   <origins>
+      <origin>UK</origin>
+   </origins>
+   <actors>
+      <actor>Rhona Mitra</actor>
+      <actor>Bob Hoskins</actor>
+      <actor>Adrian Lester</actor>
+      <actor>Alexer Siddig</actor>
+      <actor>Malcolm McDowell</actor>
+   </actors>
+   <release_date>March 14, 2008</release_date>
+   <running_time>105</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>Marshall reveals himself to be a terrific showman of chaos and comic savagery. This is Baz Luhrmann's "Mad Max."</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=11437</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>One caveat: The film has more blood-splatter than a dozen zombie movies. If you can handle that, Doomsday's drunken mash-up of futuristic and feudal is surprisingly satisfying.</snippet>
+         <url>http://www.philly.com/philly/entertainment/movies/20080315_Odd_but_slick_sci-fi_mix_of_the_future_and_past.html</url>
+         <critic>David Hiltbrand</critic>
+      </review>
+      <review>
+         <snippet>Neil Marshall's flair for visceral action more than compensates for his script's lack of conceptual novelty in Doomsday. Principally South Africa-shot tale of a post-apocalyptic Great Britain cobbles together large chunks of "Escape From New York," "The Road Warrior," "28 Days Later" and "Resident Evil," but those with a taste for revved-up, splattery fantasy thrills won't be complaining.</snippet>
+         <url>http://www.variety.com/review/VE1117936510.html?categoryid=31&amp;cs=1</url>
+         <critic>Dennis Harvey</critic>
+      </review>
+      <review>
+         <snippet>Marshall delivers what he promises and Mitri makes for a cool, kick-arse heroine in the Ellen Ripley mold.</snippet>
+         <url>http://www.tvguide.com/movies/doomsday/review/292747</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>Marshall’s fixation on John Carpenter and early James Cameron is all too apparent, but his own distinctive cinematic style isn’t, making Doomsday a likeably rambling but generic shoot-’em-up.</snippet>
+         <url>http://www.avclub.com/content/cinema/doomsday</url>
+         <critic>Steven Hyden</critic>
+      </review>
+      <review>
+         <snippet>Marshall cribs whole sections from other movies (Aliens and The Road Warrior, most blatantly) so baldly that you have to wonder how he'd like it if someone ripped off "The Descent" this egregiously.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20185176,00.html</url>
+         <critic>Gregory Kirschling</critic>
+      </review>
+      <review>
+         <snippet>Marshall, like his characters, does not mess around: Good people do bad things to not-entirely bad people while the Man (in this case No. 10 Downing St.) seeks ways to screw everyone.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A600930</url>
+         <critic>Marc Savlov</critic>
+      </review>
+      <review>
+         <snippet>Doomsday tries to cram so much into its limited 105 minutes that aspects end up feeling rushed and confused (especially the political situation in England) and the ending is perfunctory.</snippet>
+         <url>http://www.reelviews.net/movies/d/doomsday.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>As a guilty pleasure, it’s spectacularly entertaining</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=10837</url>
+         <critic>Stina Chyn</critic>
+      </review>
+      <review>
+         <snippet>Just to shake things up a little, I guess, the creators of the laughably over-the-top Doomsday thought it might be fun to turn the survivors of a deadly epidemic, rather than its victims, into maniacal murderers.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-doomsday17mar17,0,7794378.story</url>
+         <critic>Jan Stuart</critic>
+      </review>
+      <review>
+         <snippet>Mitra, clad in the requisite tight, sexy outfits, conveys a suitable toughness but little in the way of personality, while such distinguished British actors as Bob Hoskins and Adrian Lester dutifully show up to collect their paychecks.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?JSESSIONID=qyQRHp7XHQFk9wlgQvqbbnFwGn7Cnz22jS6bbz13XNcJn1Xx20sV!-1316020661&amp;&amp;rid=10837</url>
+         <critic>Frank Scheck</critic>
+      </review>
+      <review>
+         <snippet>I still believe with all my heart that no movie with real car stunts, a tough-chick hero, and a severed head that thunks directly into the camera can be all bad. But this is pushing it.</snippet>
+         <url>http://www.laweekly.com/film+tv/film-reviews/movie-reviews-beaufort-horton-hears-a-who-the-unforeseen/18524/</url>
+         <critic>Jim Ridley</critic>
+      </review>
+      <review>
+         <snippet>Marshall's film is crammed full of good ideas but doesn't have the cohesion to pull them all together. Less effective than "Dog Soldiers," never mind "The Descent."</snippet>
+         <url>http://www.empireonline.com/reviews/reviewcomplete.asp?FID=17098</url>
+         <critic>Helen O&amp;#039;Hara</critic>
+      </review>
+      <review>
+         <snippet>In terms of story, “The Descent” and Doomsday are as different as two genre films can be, but the falloff in artistic quality is still quantifiable. Where “The Descent” was a slow, quiet, exquisitely modulated, startlingly original film, Doomsday is frenetic, loud, wildly imprecise and so derivative that it doesn’t so much seem to reference its antecedents as try on their famous images like a child playing dress-up. Homage without innovation isn’t homage, it’s karaoke.</snippet>
+         <url>http://movies.nytimes.com/2008/03/15/movies/15doom.html?ref=movies</url>
+         <critic>Matt Zoller Seitz</critic>
+      </review>
+   </reviews>
+   <US_Gross>$11,008,770</US_Gross>
+   <production_budget>$33,000,000</production_budget>
+   <weekend_gross>$4,926,565</weekend_gross>
+   <number_of_screens>1,936</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

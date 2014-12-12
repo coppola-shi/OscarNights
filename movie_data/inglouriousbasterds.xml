@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Inglourious Basterds</name>
+   <company>Universal Pictures, The Weinstein Company</company>
+   <genres>
+      <genre>Adventure</genre>
+      <genre>Drama</genre>
+      <genre>War</genre>
+   </genres>
+   <authors>
+      <author>Quentin Tarantino</author>
+   </authors>
+   <directors>
+      <director>Quentin Tarantino</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+      <origin>Germany</origin>
+      <origin>France</origin>
+   </origins>
+   <actors>
+      <actor>Brad Pitt</actor>
+      <actor>Diane Kruger</actor>
+      <actor>Til Schweiger</actor>
+      <actor>Eli Roth</actor>
+      <actor>Michael Fassbender</actor>
+      <actor>Mike Myers</actor>
+      <actor>Cloris Leachman</actor>
+      <actor>Samuel L. Jackson</actor>
+   </actors>
+   <release_date>August 21, 2009</release_date>
+   <running_time>153</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>With Inglourious Basterds, Quentin Tarantino has made his best movie since "Pulp Fiction." He has also made what could arguably be considered the most audacious World War II movie of all-time.</snippet>
+         <url>http://www.reelviews.net/php_review_template.php?identifier=1774</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>A big, bold, audacious war movie that will annoy some, startle others and demonstrate once again that he’s (Tarantino) the real thing, a director of quixotic delights.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20090819/REVIEWS/908199995</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>Basterds isn't so revolutionary or so finely crafted as "Pulp Fiction" was, but it crackles with the same energy and imagination and chutzpah.</snippet>
+         <url>http://www.miamiherald.com/entertainment/movies/reviews/story/1192777.html</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>It's just possible that Tarantino, having played a trick on history, is also fooling his fans. They think they're in for a Hollywood-style war movie starring Brad Pitt. What they're really getting is the cagiest, craziest, grandest European film of the year.</snippet>
+         <url>http://www.time.com/time/arts/article/0,8599,1917595,00.html</url>
+         <critic>Richard Corliss</critic>
+      </review>
+      <review>
+         <snippet>It's not enough to say that Inglourious Basterds is Quentin Tarantino's best movie. It's the first movie of his artistic maturity, the film his talent has been promising for more than 15 years.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2009/08/20/DDQU19AT6G.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>Energetic, inventive, swaggering fun, Quentin Tarantino's Inglourious Basterds is a consummate Hollywood entertainment--rich in fantasy and blithely amoral.</snippet>
+         <url>http://www.villagevoice.com/2009-08-18/film/quentin-tarantino-s-inglourious-basterds-makes-holocaust-revisionism-fun/</url>
+         <critic>J. Hoberman</critic>
+      </review>
+      <review>
+         <snippet>With its exploded notions of heroism, torture-rack dramatics and kamikaze gusto, it's a fiendishly entertaining flick.</snippet>
+         <url>http://www.stltoday.com/stltoday/entertainment/reviews.nsf/movie/story/43994ED588BA6F5C8625761700650BC2?OpenDocument</url>
+         <critic>Joe Williams</critic>
+      </review>
+      <review>
+         <snippet>May be the most fun you'll have at the movies this summer.</snippet>
+         <url>http://www.nypost.com/seven/08202009/entertainment/movies/mensch_warfare_185502.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>Tarantino exercises both his obsession with vengeance and his fascination with the movies.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2009-08-20-inglourious-basterds_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>Spelling may not be Quentin Tarantino’s forte, but his grasp of language (both verbal and visual) is peerless.</snippet>
+         <url>http://newyork.timeout.com/articles/film/77669/inglourious-basterds-film-review</url>
+         <critic>Keith Uhlich</critic>
+      </review>
+      <review>
+         <snippet>A fairy tale about the infinite power of film, it boasts all his swaggering trademarks: rapid-fire dialogue, gleeful violence, endless cultural references. But it's the sharp-eyed deliberation that makes the greatest impact.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2009/08/20/2009-08-20_inglourious_basterds_quentin_tarantino_grows_up_in_bloody_movie_with_more_humani.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>A violent fairy tale, an increasingly entertaining fantasia in which the history of World War II is wildly reimagined so that the cinema can play the decisive role in destroying the Third Reich.</snippet>
+         <url>http://www.variety.com/review/VE1117940323.html?categoryid=31&amp;cs=1&amp;query=inglourious+bastards</url>
+         <critic>Todd McCarthy</critic>
+      </review>
+      <review>
+         <snippet>With a confidence typical of its director, the last line of Inglourious Basterds is, "This might just be my masterpiece." While that may not be true, this is an often dazzling movie that sees QT back on exhilarating form.</snippet>
+         <url>http://www.empireonline.com/reviews/reviewcomplete.asp?FID=10392</url>
+         <critic>Chris Hewitt</critic>
+      </review>
+      <review>
+         <snippet>Even more than his other genre mash-ups, this is a switchback journey through Tarantino’s twisted inner landscape, where cinema and history, misogyny and feminism, sadism and romanticism collide and split and re-bond in bizarre new hybrids. The movie is an ungainly pastiche, yet on some wacked-out Jungian level it’s all of a piece.</snippet>
+         <url>http://nymag.com/movies/reviews/58313/</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>In Tarantino's besotted historical reverie, real-life villains Adolf Hitler and Joseph Goebbels are played as grotesque jokes. The Basterds are played as exaggeratedly tough Jews. The women are femmes fatales.&#8232;</snippet>
+         <url>http://www.ew.com/ew/article/0,,20297351,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>It's a film with many strengths, but it's not a knockout. And that's Tarantino's own fault, though not in the first way you might imagine.</snippet>
+         <url>http://blog.oregonlive.com/madaboutmovies/2009/08/a_fever_dream_of_world_war_ii.html</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>For anyone professing true movie love, there's no resisting it.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/27810109/review/29774751/inglourious_basterds</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>Tarantino's radical rewriting of the war's ending is audacious and perversely enthralling. But if Inglorious Basterds were about something more than the cinematic thrill of watching Nazis suffer, it could have been a revelation.</snippet>
+         <url>http://www.slate.com/id/2225818/</url>
+         <critic>Dana Stevens</critic>
+      </review>
+      <review>
+         <snippet>The biggest, weirdest, ugliest cartoon in Inglourious Basterds is Aldo Raine, the Nazi-killing American Lieutenant played by Brad Pitt.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=11845</url>
+         <critic>Nick Antosca</critic>
+      </review>
+      <review>
+         <snippet>Tarantino has already caught some flack for daring to use the Holocaust as material for another of his bloody live-action cartoons, but of course the generation that experienced it for real has mostly faded away. In that sense Inglourious Basterds is a social marker as startling as "Easy Rider" was in its day.</snippet>
+         <url>http://www.chicagoreader.com/chicago/MovieTimes?film=977818</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>For all its stylistic flourishes and interlocking storylines, Inglourious Basterds is, at its bullet-riddled core, a bloody good war movie, twisting and twisted and full of wordy shrapnel but no less kickass for it.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A822654</url>
+         <critic>Marc Savlov</critic>
+      </review>
+      <review>
+         <snippet>The film on the whole feels unusually labored and conventional by Tarantino standards. Reducing World War II to juvenilia isn't the problem; the problem is that juvenilia needs to pop.</snippet>
+         <url>http://www.npr.org/templates/story/story.php?storyId=111948473</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>No one else in Inglourious Basterds comes close to Landa for sheer charisma.</snippet>
+         <url>http://www.csmonitor.com/2009/0821/p17s02-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>its moments of greatness--and there are more than a couple--feel weirdly disconnected, stuck in a movie that doesn’t know how to put them together, or find a good way to move from one to the next.</snippet>
+         <url>http://www.avclub.com/articles/inglourious-basterds,31969/</url>
+         <critic>Keith Phipps</critic>
+      </review>
+      <review>
+         <snippet>A manically playful revenge fantasia made from the spare parts of Sergio Leone spaghetti westerns and strapping World War II action flicks.</snippet>
+         <url>http://www.boston.com/ae/movies/articles/2009/08/21/tarantino_makes_a_maniacal_mockery_of_the_holocaust/</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>The result is a Jewish “Death Wish,” to borrow Pauline Kael’s description of “Marathon Man,” amped up to epoch-changing proportions, made by a gentile writer-director with an unlimited appetite for celluloid, right down to its highly flammable properties.</snippet>
+         <url>http://featuresblogs.chicagotribune.com/talking_pictures/2009/08/inglourious-basterds-2-12-stars.html</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>The film is by no means terrible -- its two hours and 32 minutes running time races by -- but those things we think of as being Tarantino-esque, the long stretches of wickedly funny dialogue, the humor in the violence and outsized characters strutting across the screen, are largely missing.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film-reviews/inglourious-basterds-film-review-1003974829.story</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>Unwieldy, long-winded, self-indulgently nutso and, in places, very, very boring. It also caps off its two-and-a-half-hour run time with an extended finale – partially orchestrated to David Bowie's "Cat People" theme song, no less – that I could watch again and again with pleasure</snippet>
+         <url>http://www.salon.com/ent/movies/review/2009/08/21/inglourious_basterds/index.html</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>Isn't about history or war, or people and their problems, or anything of substance or meaning. It's a movie about other movies. For all its visual bravura and occasional bursts of antic inspiration, it feels trivial, the work of a kid who can't stop grabbing his favorite shiny plaything.</snippet>
+         <url>http://www.washingtonpost.com/wp-dyn/content/article/2009/08/20/AR2009082003131.html</url>
+         <critic>Ann Hornaday</critic>
+      </review>
+      <review>
+         <snippet>Let's start with this certainty: No one but Quentin Tarantino could possibly have made Inglourious Basterds . Now add another: No one but his most ardent fans will be entirely glad that Quentin Tarantino did make Inglourious Basterds .</snippet>
+         <url>http://www.theglobeandmail.com/news/arts/inglourious-basterds/article1258714/</url>
+         <critic>Rick Groen</critic>
+      </review>
+      <review>
+         <snippet>Clocking in at 2 hours and 32 minutes, it is unforgivably leisurely, almost glacial, a film that loses its way in the thickets of alternative history and manages to be violent without the start-to-finish energy that violence on screen usually guarantees.</snippet>
+         <url>http://www.latimes.com/entertainment/news/la-et-basterds21-2009aug21,0,1767289.story</url>
+         <critic>Kenneth Turan</critic>
+      </review>
+      <review>
+         <snippet>Nothing about the emotionally unmoored Inglourious Basterds adds up. Whether it's parody, farce or a fever dream is anyone's guess.</snippet>
+         <url>http://online.wsj.com/article/film_review.html</url>
+         <critic>Joanne Kaufman</critic>
+      </review>
+      <review>
+         <snippet>Mostly, though, there is Landa, whose unctuous charm, beautifully modulated by Mr. Waltz, gives this unwieldy, dragging movie a much-needed periodic jolt.</snippet>
+         <url>http://movies.nytimes.com/2009/08/21/movies/21inglourious.html?ref=movies</url>
+         <critic>Manohla Dargis</critic>
+      </review>
+      <review>
+         <snippet>Inglourious Basterds is not boring, but it’s ridiculous and appallingly insensitive.</snippet>
+         <url>http://www.newyorker.com/arts/critics/cinema/2009/08/24/090824crci_cinema_denby</url>
+         <critic>David Denby</critic>
+      </review>
+      <review>
+         <snippet>Less a Holocaust retribution fantasy than a messy homage to war movies, and to movies, period.</snippet>
+         <url>http://www.philly.com/philly/entertainment/movies/20090821_Ungainly_tale_of_Holocaust_revenge.html</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>The only hope for Inglourious Basterds is that audiences will embrace it the way the Broadway crowd did "Springtime for Hitler": because it's so bad they think it's good.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-inglourious-basterds-review-0820,0,7766886.story</url>
+         <critic>Michael Sragow</critic>
+      </review>
+   </reviews>
+   <US_Gross>$120,831,050</US_Gross>
+   <production_budget>$70,000,000</production_budget>
+   <weekend_gross>$38,070,437</weekend_gross>
+   <number_of_screens>3,165</number_of_screens>
+   <highest_grossing_actors_present/>
+   <num_highest_grossing_actors>3</num_highest_grossing_actors>
+   <highest_grossing_actor>mike myers</highest_grossing_actor>
+   <highest_grossing_actor>brad pitt</highest_grossing_actor>
+   <highest_grossing_actor>samuel l. jackson</highest_grossing_actor>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

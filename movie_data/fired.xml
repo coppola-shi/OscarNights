@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Fired!</name>
+   <company>Shout! Factory</company>
+   <genres>
+      <genre>Comedy</genre>
+      <genre>Documentary</genre>
+   </genres>
+   <authors>
+      <author>Annabelle Gurwitch</author>
+   </authors>
+   <directors>
+      <director>Chris Bradley</director>
+      <director>Kyle La</director>
+      <director>Brache</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Sarah Silverman</actor>
+      <actor>Tim Allen</actor>
+      <actor>Fred Willard</actor>
+      <actor>David Cross</actor>
+      <actor>Andy Dick</actor>
+      <actor>Harry Shearer</actor>
+      <actor>Tate Donovan</actor>
+      <actor>Fisher Stevens</actor>
+   </actors>
+   <release_date>February 2, 2007</release_date>
+   <running_time>71</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>Just when the film seems to be getting bogged down in "before I made it big" anecdotes -- around the time she and Andy Dick, who was once dismissed from a food-service gig, spend a day operating a mobile lunch stand -- Gurwitch wisely broadens her focus, interviewing ordinary victims of corporate "right-sizing," plant closings.</snippet>
+         <url>http://tvguide.com/detail/movie.aspx?tvobjectid=286120&amp;more=ucmoviereview</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>A pleasant, leisurely 71 minutes, frequently beguiling thanks to Gurwitch's soft-sell version of the urbane, Second City-esque female noodge.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-070209-movies-review-fired,0,1828315.story?coll=mmx-movies_top_heds</url>
+         <critic>Sid Smith</critic>
+      </review>
+      <review>
+         <snippet>While unlikely to set the documentary market afire, is entertaining enough.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?&amp;rid=316</url>
+         <critic>John DeFore</critic>
+      </review>
+      <review>
+         <snippet>Modestly amusing in fits and starts, Fired! proves most potent when on-screen interviewees are playing for keeps, not for laughs.</snippet>
+         <url>http://www.variety.com/review/VE1117930139.html?categoryid=31&amp;cs=1&amp;p=0</url>
+         <critic>Joe Leydon</critic>
+      </review>
+      <review>
+         <snippet>While "maybe it's for the best" proved happily prophetic for her actor pals, those words of comfort sound more like a clueless bromide when you consider the 30,000 people laid off in Lansing after the film wrapped.</snippet>
+         <url>http://www.villagevoice.com/film/0705,orange,75697,20.html</url>
+         <critic>Michelle Orange</critic>
+      </review>
+      <review>
+         <snippet>Having written a book about being fired, Annabelle Gurwitch has now made a documentary as well, and it's something of a mess.</snippet>
+         <url>http://www.csmonitor.com/2007/0202/p16s01-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>Fired! is missing the one thing it could have used most: a career objective.</snippet>
+         <url>http://www.calendarlive.com/printedition/calendar/cl-et-fired16mar16,0,2601003.story</url>
+         <critic>Lael Loewenstein</critic>
+      </review>
+      <review>
+         <snippet>At one point, David Cross tells Gurwitch to enjoy being unemployed, because "When you're fired, you're interesting." But as Fired! proves, that ain't necessarily so.</snippet>
+         <url>http://www.avclub.com/content/node/58391</url>
+         <critic>Noel Murray</critic>
+      </review>
+      <review>
+         <snippet>The video is heavy on actors and other showbiz types, and the self-centered Gurwitch doesn't distinguish between a factory worker laid off after decades on the job and an actor getting rejected during tryouts.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/31007_FIRED.html</url>
+         <critic>Fred Camper</critic>
+      </review>
+      <review>
+         <snippet>Feels like a desperate attempt to stretch a flimsy half-hour made-for-cable concept into a feature film.</snippet>
+         <url>http://www.nytimes.com/2007/02/01/movies/02fire.html?ref=movies</url>
+         <critic>Stephen Holden</critic>
+      </review>
+      <review>
+         <snippet>Would that somebody had fired Gurwitch before she could have finished Fired!</snippet>
+         <url>http://www.nypost.com/seven/02022007/entertainment/movies/apprentice_filmmakers_pink_slip_is_showing_movies_v_a__musetto.htm</url>
+         <critic>V.A. Musetto</critic>
+      </review>
+      <review>
+         <snippet>It's a shame Allen fired her from that play. After all, then she might not have had the time to make this documentary.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1123839&amp;categories=Movies&amp;nm=1</url>
+         <critic>John Maynard</critic>
+      </review>
+   </reviews>
+   <US_Gross>$5,661</US_Gross>
+   <weekend_gross>$2,158</weekend_gross>
+   <number_of_screens>4</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

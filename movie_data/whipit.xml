@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Whip It</name>
+   <company>Fox Searchlight Pictures</company>
+   <genres>
+      <genre>Action</genre>
+      <genre>Comedy</genre>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author>Shauna Cross</author>
+   </authors>
+   <directors>
+      <director>Drew Barrymore</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Ellen Page</actor>
+      <actor>Marcia Gay Harden</actor>
+      <actor>Kristen Wiig</actor>
+      <actor>Juliette Lewis</actor>
+      <actor>Eve</actor>
+      <actor>Jimmy Fallon</actor>
+      <actor>Daniel Stern</actor>
+      <actor>Drew Barrymore</actor>
+   </actors>
+   <release_date>October 2, 2009</release_date>
+   <running_time>111</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>An unreasonably entertaining movie, causing you perhaps to revise your notions about women's Roller Derby, assuming you have any.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20090930/REVIEWS/909309992</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>Sweet without being sticky and funny without getting silly, Whip It introduces Barrymore as a director with a keen eye, a good ear for tone and an inspired touch with actors.</snippet>
+         <url>http://www.nypost.com/p/entertainment/movies/girl_power_on_wheels_KhgkW6463PjJzGaiy95KVJ</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>Barrymore is terrific with her actors, finding moments for even the smallest supporting players.</snippet>
+         <url>http://www.oregonlive.com/movies/index.ssf/2009/10/movie_review_forceful_funny_wh.html</url>
+         <critic>M. E. Russell</critic>
+      </review>
+      <review>
+         <snippet>It's that happiest of surprises: a multiplex movie that genuinely respects its young audience.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2009/10/01/2009-10-01_whip_it_.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>What makes Whip It a blast is the action in the rink. What gives Whip It heart is the pathos, pain and mettle-testing elements that accompany any serious athletic competition. It doesn't hurt that its diminutive star is surprisingly athletic and agile on the track.</snippet>
+         <url>http://www.latimes.com/entertainment/news/la-et-whipit2-2009oct02,0,1351163.story</url>
+         <critic>Betsy Sharkey</critic>
+      </review>
+      <review>
+         <snippet>Clicks on so many levels -- heartwarming family story, rough-and-tumble display of grrrl power and a secondary but tender and convincing romance.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film-reviews/whip-it-film-review-1004011879.story</url>
+         <critic>Peter Brunette</critic>
+      </review>
+      <review>
+         <snippet>Laced with good-natured hipster kitsch and endearingly goofy girl power, director Drew Barrymore's roller-derby dramedy, Whip It, is a gas.</snippet>
+         <url>http://www.variety.com/review/VE1117941005.html?categoryid=31&amp;cs=1&amp;query=whip+it</url>
+         <critic>Rob Nelson</critic>
+      </review>
+      <review>
+         <snippet>Marcia Gay Harden is the picture’s treasure; watching her swell with concern at her daughter’s choices, you understand how hard it is to let go.</snippet>
+         <url>http://newyork.timeout.com/articles/film/79120/whip-it-film-review</url>
+         <critic>Joshua Rothkopf</critic>
+      </review>
+      <review>
+         <snippet>Barrymore’s casting choices are intrinsic to the success of the film. Lewis, under her rink name, Iron Maven, hasn’t had this meaty a role in maybe 15 years, while Wilson as the team’s shaggy male coach is a hoot to watch. Harden and Stern, as Bliss’ parents, create fleshed-out characters instead of lazy depictions of the paper tigers that grown-ups usually are in teens’ stories.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A880047</url>
+         <critic>Marjorie Baumgarten</critic>
+      </review>
+      <review>
+         <snippet>What Barrymore brings is good-natured, girl-powered subversion, a sense of when to flaunt clichés and when to flip them over the rails.</snippet>
+         <url>http://www.stltoday.com/stltoday/entertainment/reviews.nsf/movie/story/DF59341F2215AA8B86257641006DB1B0?OpenDocument</url>
+         <critic>Joe Williams</critic>
+      </review>
+      <review>
+         <snippet>Whip It (which takes its name from a play in which skaters hold hands and form a human whip to propel the last skater forward) is heaven on wheels.</snippet>
+         <url>http://www.philly.com/inquirer/columnists/carrie_rickey/20091002_Roller-derby_romp_celebrates_women.html</url>
+         <critic>Carrie Rickey</critic>
+      </review>
+      <review>
+         <snippet>Most crucially, Barrymore encourages Page to just let herself go. The sight of her making her way up residential streets in a pair of Barbie roller skates or screaming “Marco’’ in a game of Marco Polo is simply joyful.</snippet>
+         <url>http://www.boston.com/ae/movies/articles/2009/10/02/barrymore_delivers_fun_on_wheels/</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>Barrymore’s direction is generous to a fault, and there are times when you wish Whip It simply moved faster, on and off the track. It succeeds because of the emotional rather than comic payoffs.</snippet>
+         <url>http://featuresblogs.chicagotribune.com/talking_pictures/</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>Whip It is completely predictable from the first frame. It also is ridiculously, utterly entertaining.</snippet>
+         <url>http://www.miamiherald.com/entertainment/movies/reviews/story/1260504.html</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>Boisterous, cloying, simultaneously raunchy and innocent, hip and klutzy.</snippet>
+         <url>http://www.theglobeandmail.com/news/arts/whip-it/article1308497/</url>
+         <critic>Liam Lacey</critic>
+      </review>
+      <review>
+         <snippet>For all the hip checks and bloody noses, it doesn't have a mean bone in its body.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2009/10/01/MV3L19UKTC.DTL</url>
+         <critic>Amy Biancolli</critic>
+      </review>
+      <review>
+         <snippet>Arriving on the nastier heels of the horror comedy "Jennifer's Body," Whip It plays like that movie's more wholesome twin, delivering the same jolt of anarchic guerrilla-girl empowerment, only with a far less threatening disposition.</snippet>
+         <url>http://www.washingtonpost.com/gog/movies/whip-it,1158480/critic-review.html#reviewNum1</url>
+         <critic>Ann Hornaday</critic>
+      </review>
+      <review>
+         <snippet>You might, nonetheless, want to see this movie, even -- or maybe especially -- if you have seen “Billy Elliot” or “Bend It Like Beckham.” Familiarity is not always a bad thing, and if the script, by Shauna Cross, piles sports movie and coming-of-age touchstones into a veritable cairn of clichés, the cast shows enough agility and conviction to make them seem almost fresh.</snippet>
+         <url>http://movies.nytimes.com/2009/10/02/movies/02whip.html?ref=movies</url>
+         <critic>A.O. Scott</critic>
+      </review>
+      <review>
+         <snippet>A surprisingly credible coming-of-age story.</snippet>
+         <url>http://www.chicagoreader.com/chicago/MovieTimes?film=1016756</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>Page is softer than in "Hard Candy" and "Juno." Without Diablo Cody comebacks, she’s even more marvelous.</snippet>
+         <url>http://nymag.com/movies/reviews/59466/index1.html</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>At moments, especially in the conflicted intimacy between Marcia Gay Harden and Daniel Stern as Bliss' parents, Barrymore shows real directing chops. But in Whip It she's painting inside the box.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/30307971/review/30307972/whip_it</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>The movie ended just in time. Any more of it, and I'd have been crying uncle. Or maybe, given the grrrl-power of it all, crying aunt. This is one supposedly contrarian film that rouses the counter-contrarian in you.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-whip-it-review-1001,0,5074116.story</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>The result is a film that is equal parts fluff and tough.</snippet>
+         <url>http://www.nola.com/movies/index.ssf/2009/10/drew_barrymores_whip_it_good_i.html</url>
+         <critic>Mike Scott</critic>
+      </review>
+      <review>
+         <snippet>Whip It doesn’t just refer to whipping around the track or whipping ass. It’s about a girl who must whip herself into shape and grow up.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=11912</url>
+         <critic>Jessica Baxter</critic>
+      </review>
+      <review>
+         <snippet>The derby sequences are just OK, and the conflict between Bliss and her uncomprehending parents, played by Marcia Gay Harden and (a fine) Daniel Stern, is so predictable that you wish someone had rolled onto the set to whip it into shape.</snippet>
+         <url>http://www.csmonitor.com/2009/1002/p17s01-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>It’s virtually impossible to hate the film, but Barrymore’s presence behind the camera suggests more calculation than vision; like a lot of actors who direct, she tends to the performances, but her style never rises above bland proficiency.</snippet>
+         <url>http://www.avclub.com/articles/whip-it,33596/</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>The movie is Drew Barrymore's directorial debut (she also plays fellow Hurl Scout Smashley Simpson), and it's clear she's more attuned to grrrlishness than real athletic power.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20309081,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>Highlights: Andrew Wilson as the roller girls' coach (ah, so there's the Wilson brother who can act) and the roller-derby vets (played especially well by Juliette Lewis and Kristen Wiig) about whom we learn just enough to wish the movie was focused on them instead.</snippet>
+         <url>http://www.villagevoice.com/2009-09-29/film/drew-barrymore-s-directorial-debut-whip-it/</url>
+         <critic>Robert Wilonsky</critic>
+      </review>
+      <review>
+         <snippet>At its best, this could have been a passable distraction and at its worst, it could have been unwatchable. Barrymore manages to bring it in somewhere in between those extremes.</snippet>
+         <url>http://www.reelviews.net/php_review_template.php?identifier=1808</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>Has such a sweet spirit that it's easy enough to let its flaws sail by.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2009/10/02/whip_it/index.html</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>To paraphrase Devo: Whip It, not so good.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2009-10-01-whip-it_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+   </reviews>
+   <US_Gross>$13,034,417</US_Gross>
+   <production_budget>$15,000,000</production_budget>
+   <weekend_gross>$4,650,812</weekend_gross>
+   <number_of_screens>1,721</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

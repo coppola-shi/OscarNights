@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Kill Your Idols</name>
+   <company>Palm Pictures</company>
+   <genres>
+      <genre>Documentary</genre>
+      <genre>Musical</genre>
+   </genres>
+   <authors>
+      <author/>
+   </authors>
+   <directors>
+      <director>Scott Crary</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Suicide</actor>
+      <actor>Teenage Jesus</actor>
+      <actor>The Jerks</actor>
+      <actor>Theoretical Girls</actor>
+      <actor>DNA</actor>
+      <actor>Sonic Youth</actor>
+      <actor>Swans</actor>
+      <actor>The Yeah Yeah Yeahs</actor>
+   </actors>
+   <release_date>July 7, 2006</release_date>
+   <running_time>75</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>Taking its title from a key track by the NYC noise band Sonic Youth, S.A. Crary's documentary about No Wave music and its paradoxical influence is both a history of music that sought to defy history and a sharp look at the crisis of innovation in an age of commodified nostalgia.</snippet>
+         <url>http://online.tvguide.com/newsearch/detail.aspx?tvobjectid=281257&amp;more=ucmoviereview</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>One of the film's oddest aspects is the way the 2002 footage appears more dated than the scenes from 1978.</snippet>
+         <url>http://www.avclub.com/content/node/50160</url>
+         <critic>Keith Phipps</critic>
+      </review>
+      <review>
+         <snippet>Most interesting are the founding mothers and fathers of this movement, who first appear amusingly nostalgic and eventually grow exceptionally bitter as they complain about the packaged and ambitious nature of artists today.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/moviereviews/story/433109p-364852c.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>Doesn't have the crossover appeal of recent music-themed docus like "Metallica: Some Kind of Monster," but could find worshippers as a micro-niche release.</snippet>
+         <url>http://www.variety.com/review/VE1117925468?categoryid=31&amp;cs=1</url>
+         <critic>Leslie Felperin</critic>
+      </review>
+      <review>
+         <snippet>As it stands, this is little more than a sketchy portrait of two fascinating cultural moments with only geography and 70-ish minutes of celluloid connecting them.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/1156978503192440.xml&amp;coll=7</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>Crary struggles to explain the eruption and influence of the extreme rock underground that began with the late-70s "no wave" scene and eventually generated acts like Swans and Sonic Youth.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/capsules/28483_KILL_YOUR_IDOLS</url>
+         <critic>Peter Margasak</critic>
+      </review>
+      <review>
+         <snippet>Kill Your Idols pulls a few punches, tempering its respect for No Wave values like extremity and contentiousness with a more 2006 concern for not actually offending anyone in particular.</snippet>
+         <url>http://www.villagevoice.com/film/0627,land,73757,20.html</url>
+         <critic>Joshua Land</critic>
+      </review>
+      <review>
+         <snippet>Takes a misguided swerve into the current downtown New York rock scene, so that it can spend more time preaching about the anarchy of the good old days than it does revealing them.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1213013_1_0_,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>As Lydia Lunch of Teenage Jesus &amp; the Jerks puts it, "They seem so desperate to be liked, desperate to have their music used in the next car commercial."</snippet>
+         <url>http://www.nypost.com/entertainment/movies/kill_your_idols_is_often_off_key_movies_lou_lumenick.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>Despite his access to both No Wave luminaries and atmospherically battered footage of various bands wreaking havoc at various venues, Mr. Crary never figures out what story he wants to tell.</snippet>
+         <url>http://movies2.nytimes.com/2006/07/07/movies/07idol.html</url>
+         <critic>Manohla Dargis</critic>
+      </review>
+   </reviews>
+   <US_Gross>$7,753</US_Gross>
+   <weekend_gross>$3,274</weekend_gross>
+   <number_of_screens>1</number_of_screens>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

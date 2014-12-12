@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Sin City</name>
+   <company>Dimension Films</company>
+   <genres>
+      <genre>Action</genre>
+      <genre>Crime</genre>
+      <genre>Drama</genre>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>Frank Miller</author>
+   </authors>
+   <directors>
+      <director>Frank Miller</director>
+      <director>Robert Rodriguez</director>
+      <director>Quentin Tarantino</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Jessica Alba</actor>
+      <actor>Rosario Dawson</actor>
+      <actor>Elijah Wood</actor>
+      <actor>Bruce Willis</actor>
+      <actor>Benicio Del Toro</actor>
+      <actor>Michael Clarke Duncan</actor>
+      <actor>Carla Gugino</actor>
+      <actor>Josh Hartnett</actor>
+      <actor>Michael Madsen</actor>
+      <actor>Jaime King</actor>
+      <actor>Brittany Murphy</actor>
+   </actors>
+   <release_date>April 1, 2005</release_date>
+   <running_time>126</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>The visually stunning Sin City has grit to spare and a thrilling undercurrent of morality.</snippet>
+         <url>http://newyorkmetro.com/nymetro/movies/reviews/111577/</url>
+         <critic>Ken Tucker</critic>
+      </review>
+      <review>
+         <snippet>Sin City is brazenly, thrillingly alive.</snippet>
+         <url>http://www.time.com/time/magazine/article/0,9171,1042479,00.html</url>
+         <critic>Richard Corliss</critic>
+      </review>
+      <review>
+         <snippet>I loved it. Or, to put it another way, I loved it, I loved it, I loved it. I loved every gorgeous sick disgusting ravishing overbaked blood-spurting artificial frame of it.</snippet>
+         <url>http://www.slate.com/id/2115999/</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>This isn't an adaptation of a comic book, it's like a comic book brought to life and pumped with steroids.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20050330/REVIEWS/50322001</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>It's a guaranteed must-see for its generation. Sin City has a long, long shelf life ahead.</snippet>
+         <url>http://www.washingtonpost.com/wp-dyn/articles/A15795-2005Mar31.html</url>
+         <critic>Desson Thomson</critic>
+      </review>
+      <review>
+         <snippet>A movie unlike any other.</snippet>
+         <url>http://sfgate.com/cgi-bin/article.cgi?f=/c/a/2005/04/01/DDGQ8C0SRR1.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>Two hours and six minutes has never seemed so much like two and six-tenths seconds. It's pure pulp metafiction.</snippet>
+         <url>http://www.washingtonpost.com/wp-dyn/articles/A17515-2005Mar31.html</url>
+         <critic>Stephen Hunter</critic>
+      </review>
+      <review>
+         <snippet>Some things in Sin City are almost too much to watch: the violence, the cruelty, the irredeemable evil. But it's irresistibly magnetic because it serves as a barely distorted mirror to our world.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/111218016312940.xml</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>Sin City is the first mainstream American picture I've seen this year that feels even remotely brash or original. It's a hard, viciously funny little movie, one with all the subtlety of a billy club. But there's artistry here.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2005/04/01/sin_city/index.html</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>Honestly, this ultra-noir adaptation of Frank Miller's black-and-white cult comic series is a visual feast ripped straight from the original medium's blood-soaked pages.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A264406</url>
+         <critic>Marc Savlov</critic>
+      </review>
+      <review>
+         <snippet>Tarantino may have nicked the title first, but this is the real ''Pulp Fiction," with all the drama and the dead ends that implies.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=7170</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>Occasionally very funny, the picture tends to coast on its cosmetics. A first-rate script might have made it a twisted masterpiece.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2005-03-31-sin-city-review_x.htm</url>
+         <critic>Mike Clark</critic>
+      </review>
+      <review>
+         <snippet>Sin City is an evil place, full of awful people, an obsessive movie full of monomaniacal tough guys. Yet when Miller and Rodriguez move it into gear, noir lives.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-050331-movies-review-mw-sin.story</url>
+         <critic>Michael Wilmington</critic>
+      </review>
+      <review>
+         <snippet>The worst thing I can say about this savage, sexy and ferociously funny screen translation of three stories from Frank Miller's Sin City series of graphic novels is that it's too much of a good thing.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/_/id/6824548?pageid=rs.ReviewsMovieArchive&amp;pageregion=mainRegion</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>The most visually inventive comic book adaptation to make its way to a movie screen.</snippet>
+         <url>http://movie-reviews.colossus.net/movies/s/sin_city.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>A rough-and-tumble magnum opus of digital filmmaking that thrillingly basks in the sick, slick, sexy and quick-witted excesses of its imaginatively mutant stylizations.</snippet>
+         <url>http://www.premiere.com/article.asp?section_id=2&amp;article_id=2070</url>
+         <critic>Aaron Hillis</critic>
+      </review>
+      <review>
+         <snippet>For the guys it's Rodriguez's best film by far and a treat for fans of good-looking girls in black-and-white, of classic film noir and of imaginative ultra-violence.</snippet>
+         <url>http://www.empireonline.co.uk/site/incinemas/ReviewInFull.asp?FID=9989</url>
+         <critic>Kim Newman</critic>
+      </review>
+      <review>
+         <snippet>It's gory stuff, but it's also a visually arresting blitzkrieg with action so bare-knuckled you'll leave the theater spitting out teeth.</snippet>
+         <url>http://www.msnbc.msn.com/id/7241781/site/newsweek/</url>
+         <critic>Devin Gordon</critic>
+      </review>
+      <review>
+         <snippet>Sin City draws on the cumulative history of both mediums, creating a pastiche that would have been technologically impossible even three years ago. Its creators invent a queasily intoxicating new world.</snippet>
+         <url>http://www.theonionavclub.com/review_pop.php?review_id=8350</url>
+         <critic>Keith Phipps</critic>
+      </review>
+      <review>
+         <snippet>Rodriguez clearly assumes Sin City to be his "Pulp Fiction," his rambling portmanteau--a blending of disparate tales to form a complete, overwhelming epic.</snippet>
+         <url>http://dallasobserver.com/issues/2005-03-31/film/film.html</url>
+         <critic>Robert Wilonsky</critic>
+      </review>
+      <review>
+         <snippet>For geeks, action freaks and sensation-seeking teenage boys of all ages, the price of admission will provide a one-way ticket to hard-boiled heaven.</snippet>
+         <url>http://www.variety.com/review/VE1117926644?categoryid=31&amp;cs=1</url>
+         <critic>Todd McCarthy</critic>
+      </review>
+      <review>
+         <snippet>Rodriguez slams down the sledgehammer with so much brutal, punishing force, there's no room to breathe.</snippet>
+         <url>http://www.filmthreat.com/Reviews.asp?Id=7309</url>
+         <critic>KJ Doughton</critic>
+      </review>
+      <review>
+         <snippet>Sin City snaps, crackles and pops like no graphic novel ever brought to the screen. Mixing live-action with computer-generated images, it looks like the novels, talks and bleeds like the novels, is as muscular and voluptuous as the novels - and it leaves you breathless as only a movie can.</snippet>
+         <url>http://www.nydailynews.com/04-01-2005/front/story/295496p-252812c.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>This is noir on steroids, cartoonishly ultra-violent and drawing inspiration from Mickey Spillane novels and E.C. comics of the '50s.</snippet>
+         <url>http://www.nypost.com/movies/22924.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>Sin City gives sin a great name -- it's never been more plentiful or looked so gorgeous.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/ArticleNews/TPStory/LAC/20050401/SIN01/TPEntertainment/Film</url>
+         <critic>Rick Groen</critic>
+      </review>
+      <review>
+         <snippet>Rodriguez's evident delight in the form make this a worthwhile piece of eye candy.</snippet>
+         <url>http://spacefinder.chicagoreader.com/movies/briefs/27627_SIN_CITY_FRANK_MILLERS_SIN_CITY.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>Sin City has been made with such scrupulous care and obvious love for its genre influences that it's a shame the movie is kind of a bore.</snippet>
+         <url>http://movies2.nytimes.com/2005/04/01/movies/01sin.html</url>
+         <critic>Manohla Dargis</critic>
+      </review>
+      <review>
+         <snippet>But once you're good and drunk on the look, details like the tin-eared tough-guy dialogue (which sounds especially stilted issuing from flesh-and-blood mouths) don't seem so important.</snippet>
+         <url>http://tvguide.com/movies/database/showmovie.asp?MI=45930</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>Sin City is always moving on to the next thing, and despite surprisingly good work from its large cast (especially Rourke and Owen, who are both outstanding), the picture feels synthetic and artificial.</snippet>
+         <url>http://ae.miami.com/entertainment/ui/miami/movie.html?id=279520&amp;reviewId=17694</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>To say that Sin City is a guy movie - and an often brutally misogynist one, at that - would be an understatement.</snippet>
+         <url>http://ae.philly.com/entertainment/ui/philly/movie.html?id=279520&amp;reviewId=17696</url>
+         <critic>Dan DeLuca</critic>
+      </review>
+      <review>
+         <snippet>Glued tightly from page to screen, Sin City is so seduced by the visual possibilities of sin that style becomes its own vice.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1043390_1_0_,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>After half an hour spent drooling over its visual splendors, I found the movie every bit as sickening as its creators intended it to be, minus the kicks they so palpably got out of making it.</snippet>
+         <url>http://www.laweekly.com/ink/05/19/film-taylor.php</url>
+         <critic>Ella Taylor</critic>
+      </review>
+      <review>
+         <snippet>For a relentlessly violent and exploitive noir knockoff, Sin City is mystifyingly flat and static - cartoonish, even, if you want to get tautological about it.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-sincity1apr01,2,3175841.story</url>
+         <critic>Carina Chocano</critic>
+      </review>
+      <review>
+         <snippet>Mr. Rourke's performance is quite phenomenal, a case of unquenchable talent bursting the bonds of dehumanized artifice.</snippet>
+         <url/>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>Sin City is a seedy tribute to rugged masculinity disguised as a rogue's gallery, all the better to please college boys who like their sentimentality slicked with grunge.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-to.sin01apr01,1,7075900.story?coll=bal-artslife-movies</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>What binds and clads the new movie most thoroughly, however, is not storytelling but the high pressure of atmosphere.</snippet>
+         <url>http://www.newyorker.com/critics/cinema/?050411crci_cinema</url>
+         <critic>Anthony Lane</critic>
+      </review>
+      <review>
+         <snippet>Sin City lacks the human interest, not to be confused with humanism, that "Pulp Fiction" had in abundance. As if to underscore the fact, Tarantino guest-directed a scene. It's readily recognizable as the only one in which the dialogue has the slightest conviction.</snippet>
+         <url>http://www.villagevoice.com/film/0513,hoberman,62513,20.html</url>
+         <critic>J. Hoberman</critic>
+      </review>
+      <review>
+         <snippet>Eye-popping yet ultimately thin and shallow as a page in a graphic novel.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1000855750</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>Everything here has been done better in other books, other movies. The lone remarkable thing is the level of violence, which exposes the cowardice and hypocrisy of the Motion Picture Association of America's ratings system.</snippet>
+         <url>http://ae.charlotte.com/entertainment/ui/charlotte/movie.html?id=279520&amp;reviewId=17690&amp;startDate=03%2F31%2F2005</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>The attainment it achieves is in the depths of pointless, mean-spirited exploitation.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/218296_sincity01q.html</url>
+         <critic>William Arnold</critic>
+      </review>
+   </reviews>
+   <US_Gross>$74,103,820</US_Gross>
+   <production_budget>$40,000,000</production_budget>
+   <weekend_gross>$29,120,273</weekend_gross>
+   <number_of_screens>3,230</number_of_screens>
+   <highest_grossing_actors_present/>
+   <num_highest_grossing_actors>2</num_highest_grossing_actors>
+   <highest_grossing_actor>elijah wood</highest_grossing_actor>
+   <highest_grossing_actor>bruce willis</highest_grossing_actor>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

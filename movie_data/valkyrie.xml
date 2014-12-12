@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Valkyrie</name>
+   <company>United Artists</company>
+   <genres>
+      <genre>Drama</genre>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>Nathan Alexander</author>
+      <author>Christopher Mc</author>
+      <author>Quarrie</author>
+   </authors>
+   <directors>
+      <director>Bryan Singer</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+      <origin>Germany</origin>
+   </origins>
+   <actors>
+      <actor>Tom Cruise</actor>
+      <actor>Kenneth Branagh</actor>
+      <actor>Bill Nighy</actor>
+      <actor>Tom Wilkinson</actor>
+      <actor>Carice van Houten</actor>
+      <actor>Thomas Kretschmann</actor>
+      <actor>Eddie Izzard</actor>
+      <actor>Terence Stamp</actor>
+   </actors>
+   <release_date>December 25, 2008</release_date>
+   <running_time>120</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>The movie works like a clock. A few minor quibbles aside (the casting of Hitler, for instance), Valkyrie is a highly intelligent and deeply engrossing historical drama and, frame for frame, the year's most suspenseful nail-biter.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/393378_valkyrie25q.html</url>
+         <critic>William Arnold</critic>
+      </review>
+      <review>
+         <snippet>The film is a minor Christmas miracle: It succeeds on its own terms, despite the gossip hounds' best blood-sniffing efforts, and dares to be an entertainment rather than a statement.</snippet>
+         <url>http://www.oregonlive.com/movies/index.ssf/2008/12/review_where_mavericks_dare_va.html</url>
+         <critic>M. E. Russell</critic>
+      </review>
+      <review>
+         <snippet>The result is a fairly co-ordinated effort that, despite a few miscues, yields a consistently watchable film.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20081223.wvalkyrie1224/BNStory/Entertainment/home</url>
+         <critic>Rick Groen</critic>
+      </review>
+      <review>
+         <snippet>A taut suspense flick for grown-ups.</snippet>
+         <url>http://www.nypost.com/seven/12232008/entertainment/movies/the_reich_stuff_145462.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>Tom Cruise is perfectly satisfactory, if not electrifying, in the leading role.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20081222/REVIEWS/812229989</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>The mechanics of the actual plot are pretty amazing. Singer has assembled a top-notch international cast.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20248902,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>Valkyrie, despite being a more straightforward thriller, is less gripping than "Downfall," the most recent film in which Hitler had significant screen time.</snippet>
+         <url>http://www.reelviews.net/php_review_template.php?identifier=1435</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>Singer has crafted a fine film. One just wishes for greater details -- and a different ending.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film-reviews/film-review-valkyrie-1003921619.story</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>Has visual splendor galore, but is a cold work lacking in the requisite tension and suspense.</snippet>
+         <url>http://www.variety.com/review/VE1117939192.html?categoryid=31&amp;cs=1</url>
+         <critic>Todd McCarthy</critic>
+      </review>
+      <review>
+         <snippet>Valkyrie just misses out on being a great film (it’s no Black Book), but it easily merits mention as a good one.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=11431</url>
+         <critic>Scott Mendelson</critic>
+      </review>
+      <review>
+         <snippet>Once Singer dispenses with the introductory pathos and gets to the nuts and bolts of Stauffenberg's plan, Valkyrie becomes an admirably modest and compact suspense thriller.</snippet>
+         <url>http://www.slate.com/id/2207404/</url>
+         <critic>Dana Stevens</critic>
+      </review>
+      <review>
+         <snippet>A perfectly acceptable motion picture. The only thing that keeps it from even greater accomplishments may be inherent in the story itself.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-valkyrie25-2008dec25,0,5270574.story</url>
+         <critic>Kenneth Turan</critic>
+      </review>
+      <review>
+         <snippet>As a suspense movie, this works pretty well: director Bryan Singer (X-Men, The Usual Suspects) maintains a crisp pace as the plotters set out to kill the fuhrer with a briefcase bomb, and the historical details of the botched coup, which exploited one of Hitler's own contingency plans to mobilize the army reserves and disarm the SS, are inherently interesting.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/33974_VALKYRIE.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>A brutally efficient bit of storytelling, and it makes no unforced errors. It is admirably free of any Spielbergian effort to squeeze sentimentality or inspirational lessons out of what is a complicated and morally complex story.</snippet>
+         <url>http://www.washingtonpost.com/gog/movies/valkyrie,1145216.html</url>
+         <critic>Philip Kennicott</critic>
+      </review>
+      <review>
+         <snippet>Once the plotters plunge into action, though, Valkyrie becomes both an exciting thriller and a useful history lesson.</snippet>
+         <url>http://online.wsj.com/article/SB123015087021633387.html</url>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>It's a procedural, often absorbing, rarely surprising, about a briefcase bomb and a near-miss. Yet there's no question the film feels dodgy and vague when it comes to the personalities and ideology of the men onscreen.</snippet>
+         <url>http://www.chicagotribune.com/entertainment/movies/chi-valkyrie-review-1224_dec24,0,7062080.story</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>It's a smooth, compelling, almost suspenseful (more on that in a bit), and slightly hollow Hollywood period piece.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=10741</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>Marketed as a combination of a popcorn-munching actioner, but that's somewhat misleading -- it's also a well-researched historical thriller. Unfortunately, it ends up not succeeding as either.</snippet>
+         <url>http://www.premiere.com/Review/Movies/Valkyrie</url>
+         <critic>Jenni Miller</critic>
+      </review>
+      <review>
+         <snippet>Tom Cruise starring in the fact-based story of a plot to kill Hitler by Nazi Col. Claus von Stauffenberg sounds like Oscar bait. It isn't. And the sooner you accept it, the more fun you'll have at this satisfying B movie.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/17539138/review/24991182/valkyrie</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>A film more concerned with 'how' than 'why' or 'who', Valkyrie would have benefited from more scrutiny and complexity. Still, once the bomb goes off, the thrills come in spades.</snippet>
+         <url>http://www.empireonline.com/reviews/review.asp?FID=135057</url>
+         <critic>Dan Jolin</critic>
+      </review>
+      <review>
+         <snippet>A World War II thriller without enough thrills.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2008-12-23-valkyrie_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>Valkyrie feels like another installment in the never-ending franchise -- not just the action-movie one, but the Tom Cruise one. Like the operation itself, it's a good idea -- just not well-executed.</snippet>
+         <url>http://www.villagevoice.com/2008-12-24/film/valkyrie-is-tom-cruise-s-latest-impossible-mission/</url>
+         <critic>Robert Wilonsky</critic>
+      </review>
+      <review>
+         <snippet>The film improves once the assassination attempt goes awry, but the audience is never truly invested in the actions of these heroic men.</snippet>
+         <url>http://www.miamiherald.com/entertainment/movies/reviews/story/824514.html</url>
+         <critic>Connie Ogle</critic>
+      </review>
+      <review>
+         <snippet>The history itself is the main appeal here.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2008/12/24/DDLO14U652.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>As action movies go, Valkyrie is pretty short on action.</snippet>
+         <url>http://www.npr.org/templates/story/story.php?storyId=98699832</url>
+         <critic>Bob Mondello</critic>
+      </review>
+      <review>
+         <snippet>Directed by Bryan Singer in a break from his gayish superhero movies, it's a low-key procedural with a dollop of suspense--although perhaps not enough to make up for the foregone conclusion.</snippet>
+         <url>http://nymag.com/movies/reviews/53143/</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>What makes Valkyrie more depressing than exciting is that it forces you to ask, against your judgment, what, exactly, he achieved.</snippet>
+         <url>http://www.newyorker.com/arts/critics/cinema/2009/01/05/090105crci_cinema_lane</url>
+         <critic>Anthony Lane</critic>
+      </review>
+      <review>
+         <snippet>The notorious action star keeps his bombastic persona remarkably reeled in, and the resulting film is earnest, somber, and extremely modest -- almost to a fault.</snippet>
+         <url>http://movies.tvguide.com/valkyrie/review/291857</url>
+         <critic>Cammila Albertson</critic>
+      </review>
+      <review>
+         <snippet>If Mr. Cruise doesn't work in Valkyrie, it's partly because he's too modern, too American and way too Tom Cruise to make sense in the role, but also because what passes for movie realism keeps changing, sometimes faster than even a star can change his brand.</snippet>
+         <url>http://movies.nytimes.com/2008/12/25/movies/25valk.html?ref=movies</url>
+         <critic>Manohla Dargis</critic>
+      </review>
+      <review>
+         <snippet>Valkyrie's political and military subjects may have sounded like sure-fire thriller material. Wilkinson alone proves that a suspense film thrives on intriguing characters struggling to survive. Nothing in Valkyrie is as compelling as watching tides of calculation crash across Wilkinson's face.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/reviews/bal-li.valkyrie25dec25,0,4806379.story</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>Neither a masterpiece nor an embarrassment, but a workmanlike picture that sits, inoffensively, in the middling space between.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2008/12/25/valkyrie/</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>Bryan Singer’s solid direction and some flavorful supporting performances from the dependable likes of Bill Nighy, Eddie Izzard, and Tom Wilkinson keep Valkyrie within the realm of handsome mediocrity.</snippet>
+         <url>http://www.avclub.com/content/cinema/valkyrie</url>
+         <critic>Nathan Rabin</critic>
+      </review>
+      <review>
+         <snippet>It's slickly executed, handsomely acted for the most part and utterly easy to forget.</snippet>
+         <url>http://events.charlotteobserver.com/reviews/show/36903-review-valkyrie</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>Sadly, it lacks the classic awfulness that might have lifted it into the pantheon of Truly Bad Movies. Instead, what we have here is a garden variety bad movie, of which there have been all too many lately.</snippet>
+         <url>http://www.csmonitor.com/2009/0102/p25s02-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>We all know how it ends, and that foreknowledge dooms Singer's hotly anticipated and much troubled account of the attempt on Adolf Hitler's life.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A715754</url>
+         <critic>Marc Savlov</critic>
+      </review>
+      <review>
+         <snippet>If there are Nazis fighting other Nazis in a movie and it's still boring, something's gone wrong. Valkyrie has a coterie of problems, and represents a whole new front in Tom Cruise's public relations war, but first and foremost there's the tedium.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2008/12/23/2008-12-23_tom_cruises_boring_valkyrie_never_delive.html</url>
+         <critic>Joe Neumaier</critic>
+      </review>
+   </reviews>
+   <US_Gross>$83,077,470</US_Gross>
+   <production_budget>$75,000,000</production_budget>
+   <weekend_gross>$29,520,979</weekend_gross>
+   <number_of_screens>2,711</number_of_screens>
+   <highest_grossing_actors_present/>
+   <num_highest_grossing_actors>1</num_highest_grossing_actors>
+   <highest_grossing_actor>tom cruise</highest_grossing_actor>
+   <summer_release>false</summer_release>
+   <christmas_release>true</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

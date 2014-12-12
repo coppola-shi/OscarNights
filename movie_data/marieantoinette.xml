@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Marie Antoinette</name>
+   <company>Columbia Pictures / Sony Pictures Entertainment</company>
+   <genres>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author>Sofia Coppola</author>
+   </authors>
+   <directors>
+      <director>Sofia Coppola</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Kirsten Dunst</actor>
+      <actor>Jason Schwartzman</actor>
+      <actor>Judy Davis</actor>
+      <actor>Rip Torn</actor>
+      <actor>Rose Byrne</actor>
+      <actor>Asia Argento</actor>
+      <actor>Molly Shannon</actor>
+      <actor>Shirley Henderson</actor>
+      <actor>Danny Huston</actor>
+      <actor>Steve Coogan</actor>
+   </actors>
+   <release_date>October 20, 2006</release_date>
+   <running_time>123</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>Coppola brilliantly conjures the young queen's insular world, in which she was both isolated and claustrophobically scrutinized.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1106436&amp;categories=Movies&amp;nm=1</url>
+         <critic>Ann Hornaday</critic>
+      </review>
+      <review>
+         <snippet>Kristen Dunst is pitch-perfect in the title role.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20061019/REVIEWS/610190303/1023</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>Marie Antoinette gives a wide berth to the conventions of period dramas, especially their time-capsule remove, and instead tries to mainline the singular personal experience of the arch-villainess of French history (and freedom history, for that matter). The result is a startlingly original and beautiful pop reverie that comes very close to being transcendent.</snippet>
+         <url>http://www.calendarlive.com/printedition/calendar/cl-et-marie20oct20,0,4632619.story</url>
+         <critic>Carina Chocano</critic>
+      </review>
+      <review>
+         <snippet>A gorgeous confection, packed with gargantuan gowns and pornographic displays of pastrystuffs, Sofia Coppola's Marie Antoinette is also a sharp, smart look at the isolation, ennui and supercilious affairs of the rich, famous and famously pampered.</snippet>
+         <url>http://ae.philly.com/entertainment/ui/philly/movie.html?id=726548&amp;reviewId=21665</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>With lyrical intelligence and scrappy wit, Coppola creates a luscious world to get lost in. It's a pleasure.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/7590715/review/12087170/marie_antoinette</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>Coppola works in weird ways, but the real Versailles was so much weirder.</snippet>
+         <url>http://www.nypost.com/seven/10132006/entertainment/movies/we_love_the_80s__the_1780s__movies_kyle_smith.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>Destined to become this year's love-it-or-hate-it movie. Is it OK to say I merely liked it a lot?</snippet>
+         <url>http://www.csmonitor.com/2006/1020/p14s02-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>Coppola's stranded royal suggests that at heart, Marie Antoinette was just a simple girl who wanted to have fun, and got her head handed to her.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1547540_1_0_,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>A thoroughly modern confection, blending insouciance and sophistication, heartfelt longing and self-conscious posing with the guileless self-assurance of a great pop song. What to do for pleasure? Go see this movie, for starters.</snippet>
+         <url>http://movies2.nytimes.com/2006/10/13/movies/13mari.html?ref=movies</url>
+         <critic>A.O. Scott</critic>
+      </review>
+      <review>
+         <snippet>Marie Antoinette is gorgeous, giddy, gilded filmmaking.</snippet>
+         <url>http://www.empireonline.com/reviews/review.asp?FID=10236</url>
+         <critic>Ian Freer</critic>
+      </review>
+      <review>
+         <snippet>Coppola captures the luxe insularity of Marie Antoinette's world in a way that leaves no doubt why the revolution had to happen. The picture's final image is a moment of devastating stillness that wouldn't be out of place in Luchino Visconti's end-of-an-era masterpiece "The Leopard."</snippet>
+         <url>http://www.salon.com/ent/movies/review/2006/10/13/marie_antoinette/index.html</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>In the revisionist Marie Antoinette, writer-director Sofia Coppola and actress Kirsten Dunst take a remote and no doubt misunderstood historical figure, the controversial and often despised Queen of France at the time of the French Revolution, and brings her into sharp focus as a living, breathing human being with flaws, foibles, passions, intelligence and warm affections.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1002574613</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>In casting an all-American Jersey girl and surrounding her with Manolo Blahniks and the Strokes, Coppola draws a connection between her audience (domestically, at least) and the doomed dauphine, who is likewise insulated and distracted from her country's pointless involvement in a disastrous foreign war that is bankrupting its government and starving its people – and all the while she spends, spends, spends.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A411614</url>
+         <critic>Marrit Ingman</critic>
+      </review>
+      <review>
+         <snippet>It's true that this sugarcoated romp doesn't take itself, or its source material, particularly seriously, but if you're confident your grasp of European history can withstand the assault of two hours of bubbly entertainment, Marie Antoinette guarantees you a good time.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-061020-movies-review-marie,0,6031816.story?coll=mmx-movies_top_heds</url>
+         <critic>Jessica Reaves</critic>
+      </review>
+      <review>
+         <snippet>Marie Antoinette churns a symphony out of a single note, too light and hermetically sealed in the minds of Coppola and her queen to transcend its artfully cared-for fluffiness.</snippet>
+         <url>http://www.premiere.com/feature/3147/new-york-film-festival-update-1.html</url>
+         <critic>Aaron Hillis</critic>
+      </review>
+      <review>
+         <snippet>Ultimately, Coppola's pastel-colored take on Marie's life is beguiling and annoying in equal measure.</snippet>
+         <url>http://tvguide.com/detail/movie.aspx?tvobjectid=283895&amp;more=ucmoviereview</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>As art, the movie is neither shallow nor profound, just inconsequential. Yet Coppola is too clever a filmmaker to dismiss the movie out of hand. If her film is mostly surface then she skims with style.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=8429</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>Coppola and her crew were allowed to shoot at Versailles -- family pedigree does pay dividends, apparently -- which gives the film a needed whiff of reality.</snippet>
+         <url>http://ae.miami.com/entertainment/ui/miami/movie.html?id=726548&amp;reviewId=21644</url>
+         <critic>Connie Ogle</critic>
+      </review>
+      <review>
+         <snippet>This is one of the most immediate, personal costume dramas ever made, and so it's not unseemly to consider how the writer-director and her heroine overlap.</snippet>
+         <url>http://newyorkmetro.com/movies/reviews/22318/index.html</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>The cast is uniformly non-French, and restrained to the point of rigor mortis. Dunst is the movie's strongest and weakest element. Her natural charm carries us through the scenery, at the same time her distinct Americanness rings false in every scene.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/289290_marie20q.html</url>
+         <critic>William Arnold</critic>
+      </review>
+      <review>
+         <snippet>For all the technical beauty of Marie Antoinette, there's nobody at home at Versailles.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/116121033482020.xml&amp;coll=7</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>Coppola won't win any Oscars, but the movie is a contender for cinematography, costumes and production design, and it's a lock for Prettiest Pastries.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/moviereviews/story/463526p-389825c.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>Precious little history of any kind shows its face in Marie Antoinette. The omission is strategic.</snippet>
+         <url>http://www.laweekly.com/film+tv/film/off-with-her-manolo-blahniks/14817/</url>
+         <critic>Ella Taylor</critic>
+      </review>
+      <review>
+         <snippet>A graceful, charming, and sometimes witty confection -- at least for its first hour.</snippet>
+         <url>http://www.villagevoice.com/film/0641,hoberman,74687,20.html</url>
+         <critic>J. Hoberman</critic>
+      </review>
+      <review>
+         <snippet>It is far from unpleasant to watch an attractive cast led by Kirsten Dunst parading around Versailles accoutered in Milena Canonero's luxuriant costumes to the accompaniment of catchy pop tunes. But the writer-director's follow-up to her breakthrough second feature, "Lost in Translation," is no more nourishing than a bonbon.</snippet>
+         <url>http://www.variety.com/index.asp?layout=features2006&amp;content=jump&amp;jump=review&amp;dept=cannes&amp;nav=RCannes&amp;articleid=VE1117930629&amp;cs=1&amp;s=h&amp;p=0</url>
+         <critic>Todd McCarthy</critic>
+      </review>
+      <review>
+         <snippet>The one, transfixing virtue of Marie Antoinette is its unembarrassed devotion to the superficial. There is no morality at play here, no agony other than boredom, and, until the last half hour, not a shred of political sense. The fun dies out of the film--in fact, the film itself expires--when Coppola suddenly starts dragging in discussions of the American Revolution.</snippet>
+         <url>http://www.newyorker.com/critics/cinema/?061023crci_cinema</url>
+         <critic>Anthony Lane</critic>
+      </review>
+      <review>
+         <snippet>Despite the dominant air of foolishness, the filmmaking is lush, lively and intelligent, but the gap between the direction and the script is appalling.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-to.marie20oct20,0,1133993.story?coll=bal-movies-utility</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>Here's one thing about Marie Antoinette: It sure is easy to watch. And here's another: It's even easier to forget.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/LAC.20061020.MARIE20/TPStory/TPEntertainment/Movies/</url>
+         <critic>Rick Groen</critic>
+      </review>
+      <review>
+         <snippet>Viewed through a contemporary lens and set mostly to a score of '80s pop tunes, this highly stylized, self-conscious enterprise -- really, a music video -- posits the misunderstood and vilified Marie, née Maria Antonia Josepha Johanna, as a figure in the mold of Diana, Princess of Wales.</snippet>
+         <url/>
+         <critic>Joanne Kaufman</critic>
+      </review>
+      <review>
+         <snippet>With its ho-hum performances, muddled point of view, inert plot and pedestrian writing, all that's left to appreciate are the sumptuous costumes, elaborate hairstyles and rococo production design, which are not enough to sustain any movie, even one set in the gilded splendor of Versailles.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2006-10-19-review-marie-antoinette_x.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>It's a daring move, focusing on the isolated splendor and interior dramas, and letting the politics remain at most a distant rumble; Coppola deserves credit for offering a different, and probably truer, perspective on life as a royal. But the perspective rarely lends itself to compelling filmmaking.</snippet>
+         <url>http://www.avclub.com/content/node/54274</url>
+         <critic>Keith Phipps</critic>
+      </review>
+      <review>
+         <snippet>Coppola based her script on a revisionist biography by Antonia Fraser, though the film reads most poignantly as a personal statement; like Marie, the director was born to a life of privilege and carries the burden of a proud family legacy.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/30472_MARIE_ANTOINETTE_COPPOLA.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>Writer-director Coppola and her production team have gotten the look of the late 18th century right...But they've gotten almost everything else wrong.</snippet>
+         <url>http://ae.charlotte.com/entertainment/ui/charlotte/movie.html?id=726548&amp;reviewId=21648&amp;startDate=NEXT7</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>Three adjectives spring to mind when describing Marie Antoinette: odd, irritating, and tedious.</snippet>
+         <url>http://www.reelviews.net/movies/m/marie_antoinette.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>Like licorice, Marie Antoinette is a confection you either love or hate, and both affects seem tied to your feeling about the director herself and her apparent identification with Louis XVI's bride. For my part, I can definitely say that I love licorice and hate Marie Antoinette. But I'm still wrestling with the enigma of Sofia Coppola.</snippet>
+         <url>http://www.slate.com/id/2151855</url>
+         <critic>Dana Stevens</critic>
+      </review>
+      <review>
+         <snippet>Coppola has no trouble convincing viewers that Marie Antoinette is an interesting historical subject, but there's a big distance between that and creating a fascinating personality or fashioning a compelling narrative.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2006/10/20/DDGFPLQET711.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>Reports of boos at the film's debut at Cannes are more understandable now, not because Marie Antoinette is an inaccurate or indifferent look at French history (it is), but because it's self-indulgent shit. Booing - and beheading - are too good for it.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=9379</url>
+         <critic>Pete Vonder Haar</critic>
+      </review>
+   </reviews>
+   <US_Gross>$15,962,471</US_Gross>
+   <production_budget>$40,000,000</production_budget>
+   <weekend_gross>$5,361,050</weekend_gross>
+   <number_of_screens>859</number_of_screens>
+   <highest_grossing_actors_present/>
+   <num_highest_grossing_actors>1</num_highest_grossing_actors>
+   <highest_grossing_actor>kirsten dunst</highest_grossing_actor>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

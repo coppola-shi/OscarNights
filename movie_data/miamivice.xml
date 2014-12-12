@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Miami Vice</name>
+   <company>Universal Pictures</company>
+   <genres>
+      <genre>Action</genre>
+      <genre>Crime</genre>
+      <genre>Drama</genre>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>Michael Mann</author>
+      <author>Anthony Yerkovich</author>
+   </authors>
+   <directors>
+      <director>Michael Mann</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Colin Farrell</actor>
+      <actor>Jamie Foxx</actor>
+      <actor>Gong Li</actor>
+      <actor>Luis Tosar</actor>
+      <actor>Naomie Harris</actor>
+      <actor>John Ortiz</actor>
+      <actor>Ilan Krigsfeld</actor>
+      <actor>Chris Astoyan</actor>
+   </actors>
+   <release_date>July 28, 2006</release_date>
+   <running_time>146</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>It sheds the series' famous and influential pastel look and plunges its cast of villains and warriors into the 21st century.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-to.vice28jul28,0,3869254.story?coll=bal-artslife-movies</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>Mann has done something transformative with Farrell: The Irish actor has never had this much charisma and natural authority in a role, and as he navigates that gray area between Crockett's real identity and his fabricated one, revealing subtle fissures in the character's cocksure facade, he's fascinating to watch.</snippet>
+         <url>http://www.villagevoice.com/film/0630,foundas,73971,20.html</url>
+         <critic>Scott Foundas</critic>
+      </review>
+      <review>
+         <snippet>If you're looking for a crime story that sizzles with action, sex and the visceral jolt of life on the edge, Miami Vice is the one.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/_/id/7222793/rid/10905108/</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>Miami Vice isn't an action flick but a neo-noir: tough, quiet, moody and hard.</snippet>
+         <url>http://www.nypost.com/entertainment/movies/blow_your_socks_off_movies_kyle_smith.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>Sensual and scary, the movie is so visually textured you feel as though you're brushing against the screen.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/LAC.20060728.VICE28/TPStory/TPEntertainment/Movies/</url>
+         <critic>Liam Lacey</critic>
+      </review>
+      <review>
+         <snippet>Right away in Miami Vice you know you're waist-deep in movieland.</snippet>
+         <url>http://www.csmonitor.com/2006/0728/p11s03-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>While it never approaches the richness and gravity of a great Mann film like "Heat," Miami Vice blurs the thin blue line to similar effect, and he features a couple of bravura setpieces, including a tense raid on an enemy hideout and a shootout with chaotic, you-are-there immediacy. If only all summer movies were this majestically slight.</snippet>
+         <url>http://www.avclub.com/content/node/51077</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>It's a sensational trip -- gorgeous, gaga.</snippet>
+         <url>http://nymag.com/movies/reviews/18468/index.html</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>Mixing pop savvy with startling formal ambition, Mr. Mann transforms what is essentially a long, fairly predictable cop-show episode into a dazzling (and sometimes daft) Wagnerian spectacle.</snippet>
+         <url>http://movies2.nytimes.com/2006/07/28/movies/28vice.html?ref=movies</url>
+         <critic>Dana Stevens</critic>
+      </review>
+      <review>
+         <snippet>Bearing all the Mann hallmarks, this is visually enthralling, relentlessly stylish crime drama. A little too languorous for its own good at times, but still vastly superior entertainment.</snippet>
+         <url>http://www.empireonline.com/reviews/review.asp?FID=10448#Scene_1</url>
+         <critic>Simon Braund</critic>
+      </review>
+      <review>
+         <snippet>It's the set pieces that mark the film as something special: swirling crowds at a casino in the opening sequence, Trudy's ordeal by trailer trash, a climactic firefight that puts lightning in the shade. Very impure, and very impressive.</snippet>
+         <url/>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>The world according to Mann is loud, dangerous, morally ambiguous, and more than a little greasy, but during the hours you spend there, there's nowhere you'd rather be.</snippet>
+         <url>http://www.slate.com/id/2146624</url>
+         <critic>Dana Stevens</critic>
+      </review>
+      <review>
+         <snippet>The movie is seriously sexy and seriously entertaining.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=7788</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>This is more of a thinking man's action flick -- a small, intense film made on a giant canvas that finds Mann experimenting with and pushing at the boundaries of mainstream filmmaking.</snippet>
+         <url>http://ae.miami.com/entertainment/ui/miami/movie.html;jsessionid=E11D6DD48FD3E479A17C853C5258CCD3.prodapp15_ae_02?id=272190&amp;reviewId=21179&amp;startDate=07%2F27%2F2006</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>The two best words to describe the 2006 motion picture Miami Vice are "stylish" and "intense."</snippet>
+         <url>http://movie-reviews.colossus.net/movies/m/miami_vice.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>As entertaining as some of it is, is so cool that it's almost too cool. It takes the sin, and much of the juice, out of vice.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1219232_1_0_,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>Unlike most TV-to-movie transitions, Mann returns to his roots and delivers what amounts to a slightly overblown episode, brimming with style and characteristically short on substance.</snippet>
+         <url>http://www.variety.com/review/VE1117931152?categoryid=31&amp;cs=1</url>
+         <critic>Brian Lowry</critic>
+      </review>
+      <review>
+         <snippet>Mann turns Miami Vice into an exploration of tone and mood, and he makes that enough.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2006/07/28/miami_vice/index.html</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>Without the ability to move off the mythic, without the emotional texture that "Heat" created, it is a film easier to admire than to get passionately involved with.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-vice28jul28,0,4539261.story</url>
+         <critic>Kenneth Turan</critic>
+      </review>
+      <review>
+         <snippet>As it turns out, the movie is still very much about two well-dressed undercover cops who strike sexy poses, express plenty of attitude and drive expensive cars and fast boats as pop music plays on the soundtrack and palm trees sway gently in the tropical night.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/279130_vice28q.html</url>
+         <critic>William Arnold</critic>
+      </review>
+      <review>
+         <snippet>It's got some great action sequences and is peppered with genuinely dazzling images. It's also subtly infused with Mann's favored themes of men-at-work and the high price of loyalty to duty. But it hasn't got sufficient meat to warrant its draggy length.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/115394373761450.xml&amp;coll=7</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>A combination of muddy sound mix and players with heavy accents (particularly Chinese superstar Gong, who seems to have learned her lines phonetically) renders large swaths of dialogue incomprehensible, but the details of what's being said and done don't really matter.</snippet>
+         <url>http://online.tvguide.com/newsearch/detail.aspx?tvobjectid=279943&amp;more=ucmoviereview</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>It's refreshing to hear some old-fashioned percussive tension in service of a director who knows what he's doing. Even when the screenwriter is losing his way.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-060728-movies-review-vice,0,7550614.story?coll=mmx-movies_top_heds</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>Just when the plot should start coming together, the pacing goes slack and the narrative gets bogged down in routine cop-movie clichés.</snippet>
+         <url>http://www.premiere.com/article.asp?section_id=2&amp;article_id=2985</url>
+         <critic>Ethan Alter</critic>
+      </review>
+      <review>
+         <snippet>Miami Vice is the last of the predicted summer blockbusters, and it delivers a
+reasonable amount of popcorn excitement. But if nostalgia for the TV show is the
+source of your interest, expect some disappointment.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/moviereviews/story/438724p-369495c.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>Dark, detailed and only really gets going when the gunplay starts.</snippet>
+         <url>http://www.time.com/time/magazine/article/0,9171,1218052,00.html</url>
+         <critic>Richard Schickel</critic>
+      </review>
+      <review>
+         <snippet>It's about guns and sex and fast boats, and, baffling as it is at times, it's still the kind of brutal fantasy that many of us relish a great deal more than yet another aerated digital dream.</snippet>
+         <url>http://www.newyorker.com/critics/cinema/?060731crci_cinema</url>
+         <critic>David Denby</critic>
+      </review>
+      <review>
+         <snippet>A darker, grittier creature that, while benefiting considerably from Dion Beebe's HD cinematography, is a frustratingly inert affair -- a long and talky excursion that fails to engage the viewer from the outset.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1002877799</url>
+         <critic>Michael Rechtshaffen</critic>
+      </review>
+      <review>
+         <snippet>It's filled with Mann's signature macho verisimilitude, but essentially it's the stuff of what, in saner fiscal times, would have been a B movie. Miami Vice delivers the thrills, atmosphere and romance it promises, but it doesn't resonate like major Mann.</snippet>
+         <url>http://www.msnbc.msn.com/id/13989042/site/newsweek/</url>
+         <critic>David Ansen</critic>
+      </review>
+      <review>
+         <snippet>Miami Vice, the movie, is an atmospheric muddle, as gorgeous and unintelligible as raven-haired stunner Gong Li.</snippet>
+         <url>http://ae.charlotte.com/entertainment/ui/charlotte/movie.html;jsessionid=8975C3B07AEB379211116C26F8424CD6.prodapp12_ae_01?id=272190&amp;reviewId=21182</url>
+         <critic>Carrie Rickey</critic>
+      </review>
+      <review>
+         <snippet>Apart from a few sleek shots involving boats or helicopters, the action eventually devolves into a standard war-movie shootout.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/30056_MIAMI_VICE.html</url>
+         <critic>Jonathan Rosenbaum</critic>
+      </review>
+      <review>
+         <snippet>Farrell appears to be a rarity in undercover culture, a vice cop who goes on the lowdown as an Irish beatnik. Oh, that's a good disguise for South Beach. As for Foxx, he's still channeling Ray Charles through squinty eyes and a kind of shaky head. They have zero chemistry.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1109038&amp;lat=200.0&amp;lon=200.0&amp;displaySearchLocation=&amp;nm=1&amp;categories=Movies</url>
+         <critic>Stephen Hunter</critic>
+      </review>
+      <review>
+         <snippet>It's the supporting players who stand out.</snippet>
+         <url>http://sfgate.com/cgi-bin/article.cgi?f=/c/a/2006/07/28/DDG2PK62G21.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>Far from a disaster, but doesn't rank with Mann's best work.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=9200</url>
+         <critic>Pete Vonder Haar</critic>
+      </review>
+      <review>
+         <snippet>All this movie has in common with its ancestor are speedboats, shotguns and drug-dealing Colombians.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2006-07-27-miami-vice_x.htm</url>
+         <critic>Scott Bowles</critic>
+      </review>
+      <review>
+         <snippet>If you really must see Miami Vice (and you mustn't), buy a ticket to something better, then slip into "Vice" at the 95-minute mark and watch the last third of the movie. No one involved will profit by your curiosity, and you won't miss a thing of importance.</snippet>
+         <url>http://ae.charlotte.com/entertainment/ui/charlotte/movie.html?id=272190&amp;reviewId=21178&amp;startDate=NEXT7</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>Perhaps vice isn't what it used to be, or maybe Crockett and Tubbs just aren't all that interesting when removed from their appropriate time slot, but this may well be the dreariest and most monochromatic time you'll have at the movies all summer.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A389799</url>
+         <critic>Marc Savlov</critic>
+      </review>
+   </reviews>
+   <US_Gross>$63,478,838</US_Gross>
+   <production_budget>$135,000,000</production_budget>
+   <weekend_gross>$25,723,815</weekend_gross>
+   <number_of_screens>3,021</number_of_screens>
+   <oscar_winning_actors_present/>
+   <num_oscar_winning_actors>1</num_oscar_winning_actors>
+   <oscar_winning_actor>jamie foxx</oscar_winning_actor>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

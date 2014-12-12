@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Forever Strong</name>
+   <company>Crane Movie Company</company>
+   <genres>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author>David Pliler</author>
+   </authors>
+   <directors>
+      <director>Ryan Little</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Gary Cole</actor>
+      <actor>Sean Faris</actor>
+      <actor>Neal McDonough</actor>
+      <actor>Sean Astin</actor>
+      <actor>Arielle Kebbel</actor>
+   </actors>
+   <release_date>September 26, 2008</release_date>
+   <running_time>minutes,</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>There's something disheartening about seeing real-life stories and their inevitable complexities put through the Hollywood sausage machine and transformed into bland parables about a privileged, wayward young bucks redeemed by wise, infinitely patient mentors and the self-abnegating spirit of team sports.</snippet>
+         <url>http://movies.tvguide.com/forever-strong/review/294903</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>Despite all the macho posturing, the corny story is just as sappy as anything on Lifetime.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20228546,00.html</url>
+         <critic>Adam Markovitz</critic>
+      </review>
+      <review>
+         <snippet>Though director Ryan Little puts together a clean, professional package, at bottom this is a nearly-two-hour scrum of therapeutic direct encounters.</snippet>
+         <url>http://www.villagevoice.com/2008-09-23/film/forever-strong-should-play-well-to-church-groups-niche-sports-enthusiasts/</url>
+         <critic>Nick Pinkerton</critic>
+      </review>
+      <review>
+         <snippet>The movie is well shot and edited, the rugby scenes are enjoyable (if likely puzzling to the uninitiated) and "Strong's" earnestness excuses at least some of its predictability.</snippet>
+         <url>http://www.latimes.com/entertainment/news/reviews/la-et-capsules26-2008sep26,0,2519327.story?page=2</url>
+         <critic>Michael Ordona</critic>
+      </review>
+      <review>
+         <snippet>This inspirational sports drama unfolds in such generic fashion that it feels contrived more often than it rings true.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?rid=11691</url>
+         <critic>Sheri Linden</critic>
+      </review>
+      <review>
+         <snippet>The performances are credible across the board, excessive sentimentality is largely avoided, and the sequences devoted to rough-and-tumble rugby match-ups are expertly shot and edited.</snippet>
+         <url>http://www.variety.com/review/VE1117938533.html?categoryid=31&amp;cs=1</url>
+         <critic>Joe Leydon</critic>
+      </review>
+      <review>
+         <snippet>Forever Strong is generic faith-and-redemption fare, devoid of nuance.</snippet>
+         <url>http://www.avclub.com/content/cinema/forever_strong</url>
+         <critic>Noel Murray</critic>
+      </review>
+      <review>
+         <snippet>A mawkish drama hobbled by a thoroughly unpleasant and uncharismatic lead performance.</snippet>
+         <url>http://movies.nytimes.com/2008/09/26/movies/26stro.html?ref=movies</url>
+         <critic>Jeannette Catsoulis</critic>
+      </review>
+      <review>
+         <snippet>If the script serves any purpose at all, it is to allow jocks to show off their buff bodies. They're hot, but not worth 12 bucks at the box office.</snippet>
+         <url>http://www.nypost.com/seven/09262008/entertainment/movies/forever_strong_130750.htm</url>
+         <critic>V.A. Musetto</critic>
+      </review>
+   </reviews>
+   <US_Gross>$719,556</US_Gross>
+   <weekend_gross>$319,642</weekend_gross>
+   <number_of_screens>66</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

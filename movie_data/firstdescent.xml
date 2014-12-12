@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>First Descent</name>
+   <company>Universal Pictures</company>
+   <genres>
+      <genre>Documentary</genre>
+   </genres>
+   <authors>
+      <author/>
+   </authors>
+   <directors>
+      <director>Kemp Curly</director>
+      <director>Kevin Harrison</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Shawn Farmer</actor>
+      <actor>Terje Haakonsen</actor>
+      <actor>Nick Peralta</actor>
+      <actor>Hannah Teter</actor>
+      <actor>Shaun White</actor>
+   </actors>
+   <release_date>December 2, 2005</release_date>
+   <running_time>110</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>First Descent is not as eloquent, and thus not as electrifying, as Stacy Peralta's "Dogtown and Z-Boys" or "Riding Giants," the two jock docs it's clearly modeled after. No matter: Visually, MD Films offers up a sugar rush.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1136110_1_0_,00.html</url>
+         <critic>Gregory Kirschling</critic>
+      </review>
+      <review>
+         <snippet>Awesome.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A315025</url>
+         <critic>Marc Savlov</critic>
+      </review>
+      <review>
+         <snippet>Vastly entertaining, slightly overlong.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/1133393108228180.xml&amp;coll=7</url>
+         <critic>M. E. Russell</critic>
+      </review>
+      <review>
+         <snippet>Succeeds as both education and amusement.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2005/12/02/DDGJUG0PRS1.DTL&amp;type=movies</url>
+         <critic>Peter Hartlaub</critic>
+      </review>
+      <review>
+         <snippet>The hardy fools - I mean, visionary pioneers - in this movie are so gravity-defying that I had to look at the press notes afterward just to make sure no computerized special effects were used.</snippet>
+         <url>http://www.csmonitor.com/2005/1202/p14s01-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>Visually, this is one of the most arresting sports documentaries in years, and it doesn't skimp on the visceral thrills, either.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-0501201-movies-review-first,0,3421896.story?coll=mmx-movies_top_heds</url>
+         <critic>Jessica Reaves</critic>
+      </review>
+      <review>
+         <snippet>As a result, what should have been a thrilling 90-minute sport adventure runs on for 20 more repetitive minutes. First Descent is exciting, but less would surely have been more.</snippet>
+         <url>http://www.calendarlive.com/movies/cl-et-capsules2dec02,0,1887828.story</url>
+         <critic>Kevin Thomas</critic>
+      </review>
+      <review>
+         <snippet>Entertainingly captures the camaraderie and spirit of competition among the affable boarders as they battle nature in the form of imposing mountains, regular avalanches, and jagged rock formations.</snippet>
+         <url>http://avclub.com/content/node/43274</url>
+         <critic>Nathan Rabin</critic>
+      </review>
+      <review>
+         <snippet>While snowboarding enthusiasts will eat up every minute of its two-hour running time, it's thin stuff for the unconverted.</snippet>
+         <url>http://online.tvguide.com/movies/database/ShowMovie.asp?MI=46589</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>Because snowboarding is younger than skateboarding and surfing, Descent lacks the poignancy of past surfer/skateboarder portraits that have shown participants reaching middle age.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2005-12-01-first-descent_x.htm</url>
+         <critic>Mike Clark</critic>
+      </review>
+      <review>
+         <snippet>Snowboarders are given their Dew in this nicely shot but lengthy exercise in corporate branding.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1001613230</url>
+         <critic>Michael Rechtshaffen</critic>
+      </review>
+      <review>
+         <snippet>We've seen this story before, and the thrill is gone.</snippet>
+         <url>http://www.nydailynews.com/12-02-2005/entertainment/col/story/370949p-315369c.html</url>
+         <critic>Jami Bernard</critic>
+      </review>
+      <review>
+         <snippet>The Alaskan runs are often spectacular, resembling nothing so much as a controlled plummet down an avalanche. All of which is worth the price of admission if "stoked" is a regular part of your vocabulary.</snippet>
+         <url>http://movies2.nytimes.com/2005/12/01/movies/02first.html</url>
+         <critic>Nathan Lee</critic>
+      </review>
+      <review>
+         <snippet>Less a documentary than a PR package with a chip on its shoulder.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=8400</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>Some of the footage is exceptional, yet several of the more impressive stunts are shot from so far away on digital cameras that the resulting onscreen resolution is just a shade above god-awful.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=8224</url>
+         <critic>Pete Vonder Haar</critic>
+      </review>
+      <review>
+         <snippet>It's dull enough to make a Mormon fidget.</snippet>
+         <url>http://dallasobserver.com/Issues/2005-12-01/film/film3.html</url>
+         <critic>Luke Y. Thompson</critic>
+      </review>
+      <review>
+         <snippet>Pic displays filmmakers Kevin Harrison's and Kemp Curley's love of snowboarding, but suffers from an unjustifiably long running time, considerable repetition and a generally awkward structure.</snippet>
+         <url>http://www.variety.com/review/VE1117929017?categoryid=31&amp;cs=1</url>
+         <critic>Robert Koehler</critic>
+      </review>
+      <review>
+         <snippet>Boring, repetitive and maddening about a subject you'd think would be fairly interesting: snowboarding down a mountain.</snippet>
+         <url>http://www.rogerebert.com/apps/pbcs.dll/article?AID=/20051201/REVIEWS/51128002/1023</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>an overlong and surprisingly dull documentary.</snippet>
+         <url>http://www.nypost.com/movies/58733.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>Comes off as an overlong, overstuffed promo for an "industry" that hasn't needed promoting since the movie's target audience was in diapers.</snippet>
+         <url>http://www.villagevoice.com/film/0549,holcomb,70720,20.html</url>
+         <critic>Mark Holcomb</critic>
+      </review>
+      <review>
+         <snippet>The stars of First Descent aren't particularly memorable, or even likable. At their worst, they come off as cocky, self-absorbed Peter Pans; at their best, they're sweet but shallow.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1114732&amp;lat=200.0&amp;lon=200.0&amp;displaySearchLocation=&amp;nm=1&amp;categories=Movies</url>
+         <critic>Ann Hornaday</critic>
+      </review>
+      <review>
+         <snippet>Hardcore fans will appreciate the handful of genuinely gnarly aerial sequences, but these gravity-defying stunts, which can be thrilling as part of a five-minute James Bond pre-credit sequence, grow very tedious when repeated over almost two hours.</snippet>
+         <url>http://www.laweekly.com/film/film_results.php?showid=3677&amp;Sumbit.x=34&amp;Sumbit.y=11</url>
+         <critic>James C. Taylor</critic>
+      </review>
+   </reviews>
+   <US_Gross>$739,690</US_Gross>
+   <weekend_gross>$438,615</weekend_gross>
+   <number_of_screens>243</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

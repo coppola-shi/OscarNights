@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Burning Plain, The</name>
+   <company>Magnolia Pictures</company>
+   <genres>
+      <genre>Drama</genre>
+      <genre>Romance</genre>
+   </genres>
+   <authors>
+      <author>Guillermo Arriaga</author>
+   </authors>
+   <directors>
+      <director>Guillermo Arriaga</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+      <origin>Argentina</origin>
+   </origins>
+   <actors>
+      <actor>Charlize Theron</actor>
+      <actor>Kim Basinger</actor>
+      <actor>Tessa Ia</actor>
+      <actor>Jennifer Lawrence</actor>
+      <actor>JD Pardo</actor>
+   </actors>
+   <release_date>September 18, 2009</release_date>
+   <running_time>111</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>Powerful, profound and beautifully rendered.</snippet>
+         <url>http://www.latimes.com/entertainment/news/la-et-burning18-2009sep18,0,1451197.story</url>
+         <critic>Gary Goldstein</critic>
+      </review>
+      <review>
+         <snippet>In The Burning Plain, another directorial debut, sensationalism is on order, but it's buttressed by fear, suffering, and desire – the schizo-blend that makes Arriaga's scripts so unique.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=11675</url>
+         <critic>Matthew Sorrento</critic>
+      </review>
+      <review>
+         <snippet>For a film that strives so hard to show the sheer messiness of real people's lives, Burning Plain does have an impossibly neat ending.</snippet>
+         <url>http://www.philly.com/philly/entertainment/movies/20090402_A_novice_director_makes_the_pieces_fit.html</url>
+         <critic>Tirdad Derakhshani</critic>
+      </review>
+      <review>
+         <snippet>Told chronologically, it might have accumulated considerable power. Told as a labyrinthine tangle of intercut timelines and locations, it is a frustrating exercise in self-indulgence by writer-director Guillermo Arriaga.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20090916/REVIEWS/909169994</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>The best performance here comes from a Mexican child actress, Tessa Ia, as half of one of the fraught mother-daughter relationships.</snippet>
+         <url>http://www.boston.com/ae/movies/articles/2009/09/18/the_burning_plain_has_charged_relationships_at_its_heart/</url>
+         <critic>Mark Feeney</critic>
+      </review>
+      <review>
+         <snippet>Portland's dreary climate is used to good effect, but it's not enough to make up for the director's needlessly convoluted approach.</snippet>
+         <url>http://www.oregonlive.com/movies/index.ssf/2009/09/movie_review_the_reign_of_pain.html</url>
+         <critic>Marc Mohan</critic>
+      </review>
+      <review>
+         <snippet>The main drawbacks of The Burning Plain are its intentionally coy narrative and a zero-hour revelation that's ill-thought-out and generates some pretty chintzy psychobabble. It's the wobbliest element in an admirable, complex and frustrating movie.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2009/09/24/MVCU19RPT6.DTL</url>
+         <critic>Amy Biancolli</critic>
+      </review>
+      <review>
+         <snippet>It's possible to admire the performances of stars Charlize Theron and Kim Basinger in The Burning Plain , even as you backpedal from the film, hoping the ponderous megasoap will just go away.</snippet>
+         <url>http://www.theglobeandmail.com/news/arts/the-burning-plain/article1324902/</url>
+         <critic>Stephen Cole</critic>
+      </review>
+      <review>
+         <snippet>Initially, the puzzle structure and a pair of Oscar-winning actresses distract us from the dark vacuum at the center of this enterprise, but when it implodes, it doesn't reverberate.</snippet>
+         <url>http://www.stltoday.com/stltoday/entertainment/reviews.nsf/movie/story/61C0EFF50091BB4A8625763A007A0E81?OpenDocument</url>
+         <critic>Joe Williams</critic>
+      </review>
+      <review>
+         <snippet>An ambitious, visually handsome production which fails to ignite.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?rid=11565</url>
+         <critic>Deborah Young</critic>
+      </review>
+      <review>
+         <snippet>Many of the weaknesses and few of the strengths of Guillermo Arriaga as a scripter are evident in his directing debut, The Burning Plain.</snippet>
+         <url>http://www.variety.com/review/VE1117938111.html?categoryid=2863&amp;cs=1&amp;query=burning+plain</url>
+         <critic>Derek Elley</critic>
+      </review>
+      <review>
+         <snippet>All the actresses, especially Theron, are appropriately haunted, but let's hope Arriaga's love of echoes, fate and coincidence has run its mopey course.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2009/09/18/2009-09-18_short_movie_reviews_bright_star_the_burning_plain_paris_and_more.html</url>
+         <critic>Joe Neumaier</critic>
+      </review>
+      <review>
+         <snippet>Here the characters aren't compelling enough to ask viewers to give their brains a workout to determine exactly what's going on.</snippet>
+         <url>http://www.nypost.com/p/entertainment/seeing_this_isn_burning_issue_fgjNJKbvb65jH0AzRbymxJ</url>
+         <critic>V.A. Musetto</critic>
+      </review>
+      <review>
+         <snippet>The scenery (prettily captured by There Will Be Blood cinematographer Robert Elswit) is littered with heavy symbolism (fire! rain! dead birds!); the performances are merely heavy.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20307609,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>The characters in The Burning Plain are so narrowly defined by tragedy that they reveal no other facets of humanity.</snippet>
+         <url>http://www.avclub.com/articles/the-burning-plain,33017/</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>Like his scripts for “21 Grams” and “Babel,” this one makes heavy use of happenstance and temporal displacement, and like them, too, it depends on ideas about human behavior that can only be called preposterous.</snippet>
+         <url>http://movies.nytimes.com/2009/09/18/movies/18burning.html?ref=movies</url>
+         <critic>A.O. Scott</critic>
+      </review>
+      <review>
+         <snippet>The writer's most successful works--"The Three Burials of Melquiades Estrada" and "Amores Perros"--were bolstered by directors who brought genuine emotion to the screen, but The Burning Plain marks Arriaga's behind-the-camera debut, and his obviousness is staggering.</snippet>
+         <url>http://www.villagevoice.com/2009-09-15/film/obviousness-staggering-in-the-burning-plain/</url>
+         <critic>Aaron Hillis</critic>
+      </review>
+      <review>
+         <snippet>This film’s greatest accomplishment is that its theatrical gestures manage to feel preposterous, pretentious and routine at the same time.</snippet>
+         <url>http://newyork.timeout.com/articles/film/78617/the-burning-plain-film-review</url>
+         <critic>Nicolas Rapold</critic>
+      </review>
+   </reviews>
+   <US_Gross>$200,399</US_Gross>
+   <weekend_gross>$58,749</weekend_gross>
+   <number_of_screens>21</number_of_screens>
+   <oscar_winning_actors_present/>
+   <num_oscar_winning_actors>1</num_oscar_winning_actors>
+   <oscar_winning_actor>charlize theron</oscar_winning_actor>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

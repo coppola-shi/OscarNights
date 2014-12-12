@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Calvaire (The Ordeal)</name>
+   <company>Palm Pictures</company>
+   <genres>
+      <genre>Drama</genre>
+      <genre>Foreign</genre>
+      <genre>Horror</genre>
+   </genres>
+   <authors>
+      <author>Fabrice Du Welz</author>
+      <author>Romain Protat</author>
+   </authors>
+   <directors>
+      <director>Fabrice Du Welz</director>
+   </directors>
+   <origins>
+      <origin>BelgiumFranceLuxembourg</origin>
+   </origins>
+   <actors>
+      <actor>Laurent Lucas</actor>
+      <actor>Jackie Berroyer</actor>
+      <actor>Philippe Nahon</actor>
+      <actor>Jean-Luc Couchard</actor>
+      <actor>Brigitte Lahaie</actor>
+      <actor>Gigi Coursigni</actor>
+      <actor>Philippe Gr&amp;#039;Henry</actor>
+      <actor>Jo Prestia</actor>
+   </actors>
+   <release_date>August 11, 2006</release_date>
+   <running_time>94</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>It's an intensely crafted and genuinely memorable horror film from a striking new talent.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2006/08/10/btm/index2.html</url>
+         <critic>Andrew O&amp;#039;Hehir</critic>
+      </review>
+      <review>
+         <snippet>Director-co-writer Fabrice du Welz has taken a clichéd premise and infused it with a stylish perversity that should have horror fans squealing with delight.</snippet>
+         <url>http://www.nypost.com/entertainment/movies/belgian_brew_of_twists_movies_v_a__musetto.htm</url>
+         <critic>V.A. Musetto</critic>
+      </review>
+      <review>
+         <snippet>What sells this movie is the realistic attention to detail and the bravura direction of Fabrice Du Welz, who draws a gut-wrenching performance from Lucas, who cries, squeals and screams with the best of them.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?file=/c/a/2006/10/06/DDGURLIC811.DTL&amp;type=movies</url>
+         <critic>G. Allen Johnson</critic>
+      </review>
+      <review>
+         <snippet>A stylish, nasty, very well-done Belgian horror movie.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-061027-movies-review-calvaire,0,624629.story?coll=mmx-movies_top_heds</url>
+         <critic>Michael Wilmington</critic>
+      </review>
+      <review>
+         <snippet>This French variation on the backwoods horror movie proves that even a little thematic complexity in the early scenes can yield a substantial payoff when things get going.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/30582_CALVAIRE_THE_ORDEAL.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>By the time it reaches its final act, the film rivals its American counterparts in intensity if not quite in explicit violence.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1002986337</url>
+         <critic>Frank Scheck</critic>
+      </review>
+      <review>
+         <snippet>A black comedy with flashes of genius, but let down by a sharp slide into chaos.</snippet>
+         <url>http://www.empireonline.com/incinemas/ReviewComplete.asp?FID=132979</url>
+         <critic>Damon Wise</critic>
+      </review>
+      <review>
+         <snippet>Calvaire is pompous, but not without talent or shivers.</snippet>
+         <url>http://movies2.nytimes.com/2006/08/11/movies/11calv.html?ref=movies</url>
+         <critic>Manohla Dargis</critic>
+      </review>
+      <review>
+         <snippet>An odd blend of recycled American exploitation movie tropes and snarky Euro-art film attitude.</snippet>
+         <url>http://online.tvguide.com/newsearch/detail.aspx?tvobjectid=281760&amp;more=ucmoviereview</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>A Belgian "Deliverance," Calvaire (The Ordeal) not only treats us to a few good scares, it also teaches us that Europe has its own rednecks.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/moviereviews/story/442615p-372586c.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>The movie hardly has enough beef on its bones to make a meal. The very notion that movies about torture are considered "horror," and are more profitable now per foot of celluloid than any other type of independent film, is what's qualmy.</snippet>
+         <url>http://www.villagevoice.com/film/0632,atkinson,74142,20.html</url>
+         <critic>Michael Atkinson</critic>
+      </review>
+      <review>
+         <snippet>It takes so long to get going and fails to generate the necessary suspense to keep viewers engaged, that the horrific final act is too little, too late, while at the same time nearly being much too much.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A400894</url>
+         <critic>Marc Savlov</critic>
+      </review>
+   </reviews>
+   <US_Gross>$2,623</US_Gross>
+   <weekend_gross>$2,623</weekend_gross>
+   <number_of_screens>1</number_of_screens>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

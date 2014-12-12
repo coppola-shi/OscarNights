@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Kontroll</name>
+   <company>ThinkFilm Inc.</company>
+   <genres>
+      <genre>Foreign</genre>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>Jim Adler</author>
+      <author>Nimród Antal</author>
+   </authors>
+   <directors>
+      <director>Nimród Antal</director>
+   </directors>
+   <origins>
+      <origin>Hungary</origin>
+   </origins>
+   <actors>
+      <actor>Sándor Csányi</actor>
+      <actor>Zoltán Mucsi</actor>
+      <actor>Csaba Pindroch</actor>
+      <actor>Sándor Badár</actor>
+      <actor>Zsolt Nagy</actor>
+      <actor>Bence Mátyási</actor>
+      <actor>Gyözö Szabó</actor>
+      <actor>Eszter Balla</actor>
+   </actors>
+   <release_date>April 1, 2005</release_date>
+   <running_time>105</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>If it weren't so smartly filmed and acted, this might add up to an over-the-top mess. But watch how inventively Mr. Antal keeps the action moving and you'll see why his picture has won a passel of prizes.</snippet>
+         <url>http://www.csmonitor.com/2005/0401/p14s02-almo.html</url>
+         <critic>David Sterritt</critic>
+      </review>
+      <review>
+         <snippet>This meandering tale of a pack of ticket inspectors working the Hungarian subway system delights in misleading viewers.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/111710177983760.xml&amp;coll=7</url>
+         <critic>M. E. Russell</critic>
+      </review>
+      <review>
+         <snippet>I'm not going to tell you this is the best European film of the year, but it's definitely the hottest -- it's the one you want to run out and see as soon as you possibly can.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2005/03/31/btm/index.html</url>
+         <critic>Andrew O&amp;#039;Hehir</critic>
+      </review>
+      <review>
+         <snippet>Kontroll is in fact an allegory, but one that oozes a gritty, dynamic realism.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-kontroll22apr22,2,3443763.story</url>
+         <critic>Kevin Thomas</critic>
+      </review>
+      <review>
+         <snippet>Though the story is thinly conceived, Antal throws a fantastic curveball in the second act. Kontroll is a hot ticket.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A278270</url>
+         <critic>Marrit Ingman</critic>
+      </review>
+      <review>
+         <snippet>A highly exciting, visually alive thriller.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-050526-movies-review-mw-kontroll,0,7253062.story?coll=mmx-movies_top_heds</url>
+         <critic>Michael Wilmington</critic>
+      </review>
+      <review>
+         <snippet>Antal's visuals create a haunted house where the lights are off in most of the rooms and there may, indeed, be a monster in the closet.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20050526/REVIEWS/50510005/1001</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>Antal has concocted a phantasmagoria-outlandish and jumpy-but, at the same time, the movie is three-dimensional and weighted, with a melancholy soulfulness that becomes surprisingly touching.</snippet>
+         <url>http://www.newyorker.com/critics/cinema/?050418crci_cinema</url>
+         <critic>David Denby</critic>
+      </review>
+      <review>
+         <snippet>Visually stylish surrealist drama.</snippet>
+         <url>http://www.washingtonpost.com/wp-dyn/content/article/2005/05/12/AR2005051201469.html</url>
+         <critic>Michael O&amp;#039;Sullivan</critic>
+      </review>
+      <review>
+         <snippet>Make what you will of the story and its symbolism, but Mr. Antal has made a remarkable feature debut with this visionary film, chockablock with memorable images.</snippet>
+         <url/>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>Nimród Antal's terrific feature debut Kontroll takes some time to get up to speed--but once it's fully underway, it develops a heady momentum and a devastating impact.</snippet>
+         <url>http://www.theavclub.com/review.php?review_id=8459</url>
+         <critic>Tasha Robinson</critic>
+      </review>
+      <review>
+         <snippet>Darkly funny and metaphorically potent.</snippet>
+         <url>http://spacefinder.chicagoreader.com/movies/critic.html#26886</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>Crowd-pleasing, darkly comic joyride.</snippet>
+         <url>http://www.variety.com/index.asp?layout=cannes2004&amp;content=review&amp;reviewid=VE1117923009&amp;categoryid=1724&amp;cs=</url>
+         <critic>Eddie Cockrell</critic>
+      </review>
+      <review>
+         <snippet>It's the whooshing terror that fries your nerves to a frazzle. Antal's control never falters.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/_/id/6355492?pageid=rs.ReviewsMovieArchive&amp;pageregion=mainRegion</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>A Hungarian film -- an existential thriller, one might call it -- about an intelligent man who happens to have this lowly nuisance of a job.</snippet>
+         <url>http://sfgate.com/cgi-bin/article.cgi?f=/c/a/2005/05/27/DDGSBCUNL91.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>Antal's debut is a sharp, blackly comic hugely entertaining thriller.</snippet>
+         <url>http://tvguide.com/movies/database/ShowMovie.asp?MI=46008</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>Grungy and uneven, but it has a rollicking pace and clearly intends to be good fun so that audiences may overlook its unsteady rhythms, pretensions and inconsistencies and take it for the fast and very furious ride it wants to be.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1000512303</url>
+         <critic>Ray Bennett</critic>
+      </review>
+      <review>
+         <snippet>A tour de force of grime, fluorescence and destinationless velocity, is more concerned with atmosphere than meaning.</snippet>
+         <url>http://movies2.nytimes.com/2005/03/30/movies/30anta.html</url>
+         <critic>Dana Stevens</critic>
+      </review>
+      <review>
+         <snippet>Smart, imaginative - and nearly ­impossible to watch.</snippet>
+         <url>http://www.nydailynews.com/04-01-2005/entertainment/movies/story/295336p-252820c.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>Takes your angriest thoughts about urban public transportation and magnifies them into a grubby and rousingly antisocial fantasia on post-communist breakdown and bureaucracy.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=7422</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>I'm not sure what Kontroll adds up to, but if you're looking for a rackety journey into the bowels of urban life, this is your movie.</snippet>
+         <url>http://www.slate.com/id/2116186/</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>Bulcsú never surfaces from the underworld. Neither does the movie-literally or figuratively.</snippet>
+         <url>http://www.villagevoice.com/film/0513,hoberman2,62514,20.html</url>
+         <critic>J. Hoberman</critic>
+      </review>
+      <review>
+         <snippet>What the movie lacks is a point.</snippet>
+         <url>http://www.laweekly.com/ink/05/22/film-taylor.php</url>
+         <critic>Ella Taylor</critic>
+      </review>
+      <review>
+         <snippet>Kontroll calls itself a thriller, and you will agree if you are excited by scenes of bored inspectors arguing with sullen straphangers.</snippet>
+         <url>http://www.nypost.com/movies/22958.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>Antal has assembled what may be the single most colorless group of mangy lowlifes I have ever seen.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1043382_1_0_,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+   </reviews>
+   <US_Gross>$237,183</US_Gross>
+   <weekend_gross>$10,098</weekend_gross>
+   <number_of_screens>2</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

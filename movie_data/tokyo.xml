@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Tokyo!</name>
+   <company>Liberation Entertainment</company>
+   <genres>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author>Michel Gondry</author>
+      <author>Leos Carax</author>
+      <author>Joon-ho Bong</author>
+   </authors>
+   <directors>
+      <director>Michel Gondry</director>
+      <director>Leos Carax</director>
+      <director>Joon-ho Bong</director>
+   </directors>
+   <origins>
+      <origin>France</origin>
+      <origin>Japan</origin>
+      <origin>Germany</origin>
+      <origin>SouthKorea</origin>
+   </origins>
+   <actors>
+      <actor>Jean-François Balmer</actor>
+      <actor>Ayako Fujitani</actor>
+      <actor>Julie Dreyfus</actor>
+      <actor>Nao Omori</actor>
+   </actors>
+   <release_date>March 6, 2009</release_date>
+   <running_time>112</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>The entries aren't equally strong, of course, but each comes from a sharp outsider's perspective, approaching Tokyo as a strange, mysterious organism that infects the populace.</snippet>
+         <url>http://www.avclub.com/articles/tokyo,24713/</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>Carax, who hadn't made a movie since "Pola X" in 1999 comes off best.</snippet>
+         <url>http://www.nypost.com/seven/03062009/entertainment/movies/a_3_story_tome_around_the_city_158226.htm</url>
+         <critic>V.A. Musetto</critic>
+      </review>
+      <review>
+         <snippet>An experiment that rarely works this well.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2009/03/19/DDJD16IQBG.DTL&amp;type=movies</url>
+         <critic>Reyhan Harmanci</critic>
+      </review>
+      <review>
+         <snippet>Tokyo! is a must-see for the Gondry segment, and a strange, diverting pleasure for the rest.</snippet>
+         <url>http://www.philly.com/philly/entertainment/movies/20090410_Three_foreign_views_of_life_on_the_streets_of_Tokyo.html</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>Perhaps it is inevitable as three foreign directors train their lenses on that unique island culture of the East that all three are propelled by fantasy or science fiction, and suggest more alienation from Tokyo than affection for the great city.</snippet>
+         <url>http://www.theglobeandmail.com/news/arts/tokyo/article1168747/</url>
+         <critic>Kate Taylor</critic>
+      </review>
+      <review>
+         <snippet>Mutants abound as each episode trips the light fantastic.</snippet>
+         <url>http://www.villagevoice.com/2009-03-04/film/tokyo-triptych-from-gondry-carax-and-bong/</url>
+         <critic>J. Hoberman</critic>
+      </review>
+      <review>
+         <snippet>A fun jaunt around the city and a quick tour of the preoccupations of three leading directors? Now there's a bargain.</snippet>
+         <url>http://www.latimes.com/entertainment/la-et-capsules20-2009mar20,0,1540792.story</url>
+         <critic>Mark Olsen</critic>
+      </review>
+      <review>
+         <snippet>Both in its parts and in the sum of them Tokyo! is playfully and sometimes disorientingly apocalyptic.</snippet>
+         <url>http://movies.nytimes.com/2009/03/06/movies/06toky.html?ref=movies</url>
+         <critic>Stephen Holden</critic>
+      </review>
+      <review>
+         <snippet>Though these vignettes appear frivolous and inconsequential when set beside the directors' features, they will tickle the funny bones of a general audience. A safe choice for fantastic fests, worldwide cinemas will open to the kind of audiences who bought tickets to see "Paris J'taime" or "To Each His Own Cinema."</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?rid=11096</url>
+         <critic>Maggie Lee</critic>
+      </review>
+      <review>
+         <snippet>Falling somewhere between the horrors of Three … Extremes and the beauties of Eros, this triptych of short films set in and underscored by the titular megalopolis is a gorgeous, sprawling mess.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A763825</url>
+         <critic>Marc Savlov</critic>
+      </review>
+      <review>
+         <snippet>If you've seen "Paris, je t'aime" or "New York Stories," you know the rate of return on these urban omnibuses is variable, and so it is here. Go in expecting minor pleasures and you'll be fine.</snippet>
+         <url>http://www.boston.com/ae/movies/articles/2009/04/10/tokyo/</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>Do these films reflect actual aspects of modern Tokyo? The hikikomori epidemic is apparently real enough, but the other two segments seem more deliberately fantastical. The entertainment value? Medium to high: "Merde." Tokyo? Still standing.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20090311/REVIEWS/903119980</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>Anyone looking for something original or unexpected should check out the trio of short films that comprise this entertaining ode to the titular city.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2009/03/06/2009-03-06_short_takes_tokyo_explicit_ills.html?page=0</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>An uneven but enjoyable trio of films that take affectionate (and sometimes literal) aim at the Japanese capital.</snippet>
+         <url>http://www.variety.com/review/VE1117937147.html?categoryid=31&amp;cs=1&amp;query=tokyo%21</url>
+         <critic>Justin Chang</critic>
+      </review>
+      <review>
+         <snippet>This isn't an art house crowd pleaser along the lines of the 2006 "Paris, je t'aime," a freewheeling mixed bag of shorts made by the likes of Olivier Assayas, Wes Craven and Alfonso Cuarón. Tokyo! demands more patience, patience that it sometimes doesn't deserve.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2009/03/06/tokyo_movie/index.html</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>Despite the stories' brief running times, they don't manage to generate much interest or make much sense.</snippet>
+         <url>http://blog.oregonlive.com/madaboutmovies/2009/04/review_tokyo_noway_ticket.html</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>Tokyo, if anything, becomes more of a mystery after Tokyo! than it was before.
+That's the strength and curse of the film. If you can't find real connections between its disparate stories, you can always make them up yourself. But if that kind of film frustrates you, think twice before booking a ticket to Tokyo!</snippet>
+         <url>http://www.washingtonpost.com/gog/movies/tokyo,1156214.html</url>
+         <critic>Philip Kennicott</critic>
+      </review>
+      <review>
+         <snippet>The best, Shaking Tokyo, stars the versatile Teruyuki Kagawa.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/34181_TOKYO.html</url>
+         <critic>Andrea Gronvall</critic>
+      </review>
+   </reviews>
+   <US_Gross>$351,059</US_Gross>
+   <weekend_gross>$23,460</weekend_gross>
+   <number_of_screens>1</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Women, The</name>
+   <company>Picturehouse</company>
+   <genres>
+      <genre>Comedy</genre>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author>Clare Boothe Luce</author>
+      <author>Anita Loos</author>
+      <author>Jane Murfin</author>
+      <author>Diane English</author>
+   </authors>
+   <directors>
+      <director>Diane English</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Meg Ryan</actor>
+      <actor>Annette Bening</actor>
+      <actor>Debra Messing</actor>
+      <actor>Jada Pinkett Smith</actor>
+      <actor>Eva Mendes</actor>
+      <actor>Cloris Leachman</actor>
+      <actor>Cice Bergen</actor>
+      <actor>Bette Midler</actor>
+   </actors>
+   <release_date>September 12, 2008</release_date>
+   <running_time>114</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>As a well-crafted, well-written and well-acted entertainment, it drew me in and got its job done.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20080911/REVIEWS/809119989</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>It's intermittently amusing, and Bening actually gives a performance instead of a star turn, but the claws should have been sharper.</snippet>
+         <url>http://www.csmonitor.com/2008/0913/p25s03-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>English wrangles her talent like a virtuoso. Best is Murphy Brown herself, Candice Bergen.</snippet>
+         <url>http://www.philly.com/inquirer/columnists/carrie_rickey/20080912__The_Women__of_today__Softer.html</url>
+         <critic>Carrie Rickey</critic>
+      </review>
+      <review>
+         <snippet>This is Diane English's directing debut, and it shows. Also in evidence is her familiarity with television. The movie is shot like a TV show, with frequent intercut close-ups.</snippet>
+         <url>http://www.reelviews.net/php_review_template.php?identifier=1330</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>Very earnest, often engaging, but not quite as much of a pleasure as the original.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2008/09/11/DDRK12Q7IR.DTL&amp;type=movies</url>
+         <critic>David Wiegand</critic>
+      </review>
+      <review>
+         <snippet>Feels the scratches of too much time and tinkling and is as disjointed as a dislocated shoulder.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/378751_women12q.html</url>
+         <critic>Paula Nechak</critic>
+      </review>
+      <review>
+         <snippet>It's fascinating trying to separate the thirties material from the mostly maladroit additions.</snippet>
+         <url>http://nymag.com/movies/reviews/49943/index1.html</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>The film repeatedly sacrifices dramatic punch for political correctness.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?JSESSIONID=QB4rLHGFsf25r2MpzNtnscSQbQGGKtvplnCj1PMZCzS0syNnjMYp!2135715977&amp;&amp;rid=11651</url>
+         <critic>Stephen Farber</critic>
+      </review>
+      <review>
+         <snippet>The movie is a feminist lesson instead of what it should have been (and once was): a tough, synthetic, high-gloss entertainment that wears its heart on its lacquered fingernails.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20224743,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>For all its current political incorrectness, the original film at least attacked hypocrisy; this one practises it.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20080911.wwomen12/BNStory/Entertainment/home</url>
+         <critic>Rick Groen</critic>
+      </review>
+      <review>
+         <snippet>Becomes unfocused as it stumbles over all the points it wants to make.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-women12-2008sep12,0,5270499.story</url>
+         <critic>Kenneth Turan</critic>
+      </review>
+      <review>
+         <snippet>The Women is less about getting even than about inspiring that same mushy sense of female empowerment you might find in a Tyler Perry meller, complete with manic mood swings and full-blown diva moments.</snippet>
+         <url>http://www.variety.com/review/VE1117938274.html?categoryid=31&amp;cs=1</url>
+         <critic>Peter Debruge</critic>
+      </review>
+      <review>
+         <snippet>It's a high-powered cast, but it has painfully little to work with, apart from widely varying humor.</snippet>
+         <url>http://chicago.metromix.com/movies/movie_review/movie-review-the-women/605107/content</url>
+         <critic>Tasha Robinson</critic>
+      </review>
+      <review>
+         <snippet>It would be sad if Tinseltown used this poorly executed remake as proof that there's no audience for female-driven films, because that's not the case at all.</snippet>
+         <url>http://www.premiere.com/moviereviews/4722/the-women.html</url>
+         <critic>Emily Rems</critic>
+      </review>
+      <review>
+         <snippet>Defanged and drippy, the remake of 1939's The Women seems to have been made for the dullard granddaughters of the sassy, sharp society matrons in George Cukor's campy original.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2008-09-11-the-women_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>This Women doesn't take place in reality or even in a glamorous urban fantasyland. It's strictly TV Land.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/reviews/bal-to.women12sep12,0,2248170.story</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>The movie is a work of ambivalence. Is English making fun of these women? Or is she making a pilot for Lifetime?</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=11385</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>The original was a tart dipped in acid; this one's a biscuit sprinkled in Splenda.</snippet>
+         <url>http://www.avclub.com/content/cinema/the_women</url>
+         <critic>Keith Phipps</critic>
+      </review>
+      <review>
+         <snippet>Ryan, barely refining her "When Harry Met Sally" persona, is a dud; Annette Bening, playing the best friend who sells her out to a tabloid, is better in the scenes she doesn't share with her.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/33535_WOMEN_ENGLISH.html</url>
+         <critic>Andrea Gronvall</critic>
+      </review>
+      <review>
+         <snippet>Falls flat at every turn.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1059812&amp;categories=Movies</url>
+         <critic>Philip Kennicott</critic>
+      </review>
+      <review>
+         <snippet>A total disaster.</snippet>
+         <url>http://www.nypost.com/seven/09122008/entertainment/movies/defaming_of_the_shrews_128658.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>It's not every movie that makes you wish Vin Diesel would run in and start blowing up stuff.</snippet>
+         <url>http://www.miamiherald.com/entertainment/movies/reviews/story/681450.html</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>It's a major dud.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/22790868/review/22790877/the_women</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>So consistently, outrageously wrongheaded in every way it's hard to know where to start.</snippet>
+         <url>http://movies.tvguide.com/women/review/294291</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>Is there anything more depressing than when middlebrow filmmakers decide to remake bona fide classics that did not, under any circumstances, need to be remade?</snippet>
+         <url>http://www.oregonlive.com/movies/index.ssf/2008/09/movie_review_the_women_revived.html</url>
+         <critic>M. E. Russell</critic>
+      </review>
+      <review>
+         <snippet>The whole vibe is so shrill and frantic that the truly accomplished actresses, like Bening and Bergen, are left to flounder. The less nuanced ones -- that would be you, Debra Messing -- are, to use the idiom of the movie, as pleasant to watch as a bikini wax is to feel.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2008/09/12/the_women/</url>
+         <critic>Mary Elizabeth Williams</critic>
+      </review>
+      <review>
+         <snippet>Isn't so much incompetent as it is hopelessly tame and muddled.</snippet>
+         <url>http://www.villagevoice.com/2008-09-10/film/the-women/</url>
+         <critic>Ella Taylor</critic>
+      </review>
+      <review>
+         <snippet>Is it an exaggeration to call The Women the worst movie of the year? Well, yeah, probably. But it may be the most disappointing, given all the effort that went into it.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2008/09/11/2008-09-11_these_women_are_not_worth_watching.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>The funniest thing about The Women is that Mick Jagger is one of the producers.</snippet>
+         <url>http://www.newyorker.com/arts/critics/cinema/2008/09/22/080922crci_cinema_lane</url>
+         <critic>Anthony Lane</critic>
+      </review>
+      <review>
+         <snippet>A witless, straining mess.</snippet>
+         <url>http://movies.nytimes.com/2008/09/12/movies/12wome.html?ref=movies</url>
+         <critic>A.O. Scott</critic>
+      </review>
+      <review>
+         <snippet>One of the worst movies I've ever seen.</snippet>
+         <url>http://www.time.com/time/arts/article/0,8599,1840522,00.html</url>
+         <critic>Richard Schickel</critic>
+      </review>
+      <review>
+         <snippet>It's not particularly fun, or funny, for starters.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A671275</url>
+         <critic>Kimberley Jones</critic>
+      </review>
+   </reviews>
+   <US_Gross>$26,902,075</US_Gross>
+   <production_budget>$16,000,000</production_budget>
+   <weekend_gross>$10,155,121</weekend_gross>
+   <number_of_screens>2,962</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

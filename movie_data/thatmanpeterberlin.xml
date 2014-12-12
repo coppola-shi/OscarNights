@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>That Man: Peter Berlin</name>
+   <company>Gorilla Factory Productions</company>
+   <genres>
+      <genre>Documentary</genre>
+   </genres>
+   <authors>
+      <author/>
+   </authors>
+   <directors>
+      <director>Jim Tushinski</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Peter Berlin</actor>
+      <actor>Robert Boulanger</actor>
+      <actor>Rick Castro</actor>
+      <actor>Guy Clark</actor>
+      <actor>Lawrence Helman</actor>
+      <actor>John F. Karr</actor>
+      <actor>Armistead Maupin</actor>
+      <actor>Daniel Nicoletta</actor>
+      <actor>Wakefield Poole</actor>
+      <actor>Robert W. Richards</actor>
+      <actor>John Waters</actor>
+      <actor>Jack Wrangler</actor>
+   </actors>
+   <release_date>January 13, 2006</release_date>
+   <running_time>80</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>One of the enduring icons of gay male eroticism, the phenomenon known as Peter Berlin is explored, explained, ogled and interviewed in the superb documentary That Man: Peter Berlin.</snippet>
+         <url>http://movies2.nytimes.com/2006/01/13/movies/13berl.html</url>
+         <critic>Nathan Lee</critic>
+      </review>
+      <review>
+         <snippet>Among those who are on hand to offer their own feelings about the man known as Peter Berlin and his art are fellow porn legend Jack Wrangler, groundbreaking gay writer Armistead Maupin, pornographer Wakefield Poole and director John Waters, who remembers Peter from his days in San Francisco, and still doesn't quite get what he's all about.</snippet>
+         <url>http://online.tvguide.com/movies/database/ShowMovie.asp?MI=46668</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>Meet Peter Berlin - the man whose eccentric life style has earned him the title the Garbo of gay porn.</snippet>
+         <url>http://www.nypost.com/movies/61519.htm</url>
+         <critic>V.A. Musetto</critic>
+      </review>
+      <review>
+         <snippet>Berlin is still a subject very much worth exploring on film, and his observations as an aged man are even more fascinating than the statements he made as an artist in his prime.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2006/02/17/DDGT9H9ALJ1.DTL#flick2</url>
+         <critic>Peter Hartlaub</critic>
+      </review>
+      <review>
+         <snippet>Fortunately, Tushinski strikes the right balance throughout, interspersing old erotic photos and stills from Berlin's adult films with entertaining, current-day sound bites.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/moviereviews/story/382324p-324557c.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>Despite Berlin's frankness about his personal love life and his preference for being watched when he's not having sex, the Garbo of gay porn remains elusive, largely because Tushinski doesn't seem to see the ironies and contradictions in his subject's life. He's much better when exploring Berlin's aesthetic and working methods.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/capsules/28751_THAT_MAN_PETER_BERLIN</url>
+         <critic>Jim Healy</critic>
+      </review>
+      <review>
+         <snippet>Pic offers standard mix of digitally shot interview material with the elusive main subject himself, with archive footage and talking heads to assess Berlin's impact on gay culture.</snippet>
+         <url>http://www.variety.com/review/VE1117926678?categoryid=31&amp;cs=1</url>
+         <critic>Leslie Felperin</critic>
+      </review>
+      <review>
+         <snippet>Tushinski must spin Berlin's self-portrait photography and well-documented peacocking as more than predictable narcissism.</snippet>
+         <url>http://www.villagevoice.com/film/0602,sylvester,71665,20.html</url>
+         <critic>Nick Sylvester</critic>
+      </review>
+   </reviews>
+   <US_Gross>$55,398</US_Gross>
+   <weekend_gross>$19,523</weekend_gross>
+   <number_of_screens>1</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

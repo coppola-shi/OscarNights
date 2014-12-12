@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>War</name>
+   <company>Lions Gate Films</company>
+   <genres>
+      <genre>Action</genre>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>Lee Anthony Smith</author>
+      <author>Gregory J. Bradley</author>
+   </authors>
+   <directors>
+      <director>Philip G. Atwell</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Jet Li</actor>
+      <actor>Jason Statham</actor>
+      <actor>John Lone</actor>
+      <actor>Steph Song</actor>
+      <actor>Nadine Velazquez</actor>
+      <actor>Kane Kosugi</actor>
+      <actor>Andrea Roth</actor>
+      <actor>Devon Aoki</actor>
+   </actors>
+   <release_date>August 24, 2007</release_date>
+   <running_time>103</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>There are few cinematic crimes more heinous than making a boring action movie. Sadly, that's what the first hour of Triads-versus-Yakuza thriller War is.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20053794,00.html</url>
+         <critic>Marc Bernardin</critic>
+      </review>
+      <review>
+         <snippet>War is like Statham's other actioners "The Transporter" and "Crash" -- fun, but not big or dumb enough to be glorious.</snippet>
+         <url>http://www.premiere.com/moviereviews/4024/war.html</url>
+         <critic>Paul Semel</critic>
+      </review>
+      <review>
+         <snippet>It's a complicated plot, but one that leaves plenty of room for everything a fan could want: gunplay, swordfights, brutal mano a mano fisticuffs, motorcycle races, car chases, Japanese gangsters eating sushi off of topless women, and that old standby, a decapitated head in a box.</snippet>
+         <url>http://www.tvguide.com/movies/war/review/285619</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>Quickly devolves into a standard-issue crime drama laced with routine martial artistry.</snippet>
+         <url>http://www.variety.com/review/VE1117934489.html?categoryid=31&amp;cs=1</url>
+         <critic>Joe Leydon</critic>
+      </review>
+      <review>
+         <snippet>In spite of a late-game adrenaline surge, the hoped-for fireworks between Li and Statham never quite materialize.</snippet>
+         <url>http://www.avclub.com/content/cinema/war</url>
+         <critic>Nathan Rabin</critic>
+      </review>
+      <review>
+         <snippet>The action sequences are shot in close-ups and with such rapid editing, it’s nearly impossible to find a sense of rhythm let alone follow what’s happening.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A525814</url>
+         <critic>Toddy Burton</critic>
+      </review>
+      <review>
+         <snippet>Routine crime thriller.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/32000_WAR_JET_LI.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>Lacking even the galvanizing action sequences that would have compensated for suffering through its formulaic plot, this is a thoroughly forgettable exploitationer that will not enhance its stars' resumes.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?&amp;rid=9676</url>
+         <critic>Frank Scheck</critic>
+      </review>
+      <review>
+         <snippet>Most regrettably, War squanders the considerable merits of its leads.</snippet>
+         <url>http://movies.nytimes.com/2007/08/25/movies/25WAR.html?ref=movies</url>
+         <critic>Andy Webster</critic>
+      </review>
+      <review>
+         <snippet>Perhaps this movie would have been better off if it starred Steven Seagal and Tom Arnold.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=10243</url>
+         <critic>Michael Ferraro</critic>
+      </review>
+      <review>
+         <snippet>War ties itself in knots trying to bring something new to a stale formula. It's never painful to watch, but that's only because it provokes no feeling at all.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-war27aug27,0,6123575.story?coll=cl-mreview</url>
+         <critic>Sam Adams</critic>
+      </review>
+      <review>
+         <snippet>A kind of dumbed-down, souped-up action thriller in a quasi-"Lethal Weapon" mode.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20070824.wwar24/BNStory/Entertainment/home</url>
+         <critic>Jason McBride</critic>
+      </review>
+      <review>
+         <snippet>If you want to see Li and Statham in an underwhelming martial arts film, rent "The One" instead. Li talks considerably more in that movie, but at least he punches a lot of people out.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?file=/c/a/2007/08/27/DD85RP2NK.DTL&amp;type=movies</url>
+         <critic>Peter Hartlaub</critic>
+      </review>
+      <review>
+         <snippet>Fun here is fleeting.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=10173</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>What is it good for? Absolutely nothing. Offering neither the enjoyably preposterous auto-heroics of the Transporter movies nor the lithe, legible athleticism of even second-tier Hong Kong thrillers.</snippet>
+         <url>http://www.laweekly.com/film+tv/film-reviews/film-reviews-war-mr-beans-holiday-closing-escrow-the-last-legion/17092/?page=3</url>
+         <critic>Jim Ridley</critic>
+      </review>
+   </reviews>
+   <US_Gross>$22,466,994</US_Gross>
+   <production_budget>$25,000,000</production_budget>
+   <weekend_gross>$9,820,089</weekend_gross>
+   <number_of_screens>2,277</number_of_screens>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

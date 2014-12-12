@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Hannah Montana/Miley Cyrus: Best of Both Worlds Concert Tour</name>
+   <company>Walt Disney Pictures</company>
+   <genres>
+      <genre>Musical</genre>
+   </genres>
+   <authors>
+      <author/>
+   </authors>
+   <directors>
+      <director>Bruce Hendricks</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Miley Cyrus</actor>
+      <actor>Jonas Brothers</actor>
+      <actor>Kenny Ortega</actor>
+      <actor>Billy Ray Cyrus</actor>
+   </actors>
+   <release_date>February 1, 2008</release_date>
+   <running_time>74</running_time>
+   <rating>G</rating>
+   <reviews>
+      <review>
+         <snippet>Note:  We're giving this one 4 stars if you're under 12; 2-1/2 stars if you're not...That unwieldy name should give you some sense of Disney's intentions: this is, plain and simple, a consolation prize for all the frustrated fans who couldn't get tickets to Cyrus' sold-out stadium tour last year.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2008/02/01/2008-02-01_hannah_from_heaven.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>The Irish-pretty Cyrus exudes a goofball vitality and sunny work ethic that ultimately wins you over, despite the slickness of her vehicle. The 3-D camera throws drumsticks and confetti in our faces, but the technical effects seem superfluous to the star's bona-fide energy.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-hannah1feb01,0,455371.story</url>
+         <critic>Jan Stuart</critic>
+      </review>
+      <review>
+         <snippet>Comes as a godsend to those hordes of desperate parents unable to secure tickets for their heartsick tweens during the teen star's sellout tour last year.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?&amp;rid=10577</url>
+         <critic>Frank Scheck</critic>
+      </review>
+      <review>
+         <snippet>What you do see are diverting 3-D effects and lots of playing to the camera by Ms. Cyrus, who performs as both herself and as her television alter ego, Hannah Montana. To her credit her attire isn’t tawdry, and it appears that she can sing.</snippet>
+         <url>http://movies.nytimes.com/2008/02/01/movies/01hann.html?ref=movies</url>
+         <critic>Andy Webster</critic>
+      </review>
+      <review>
+         <snippet>Cyrus, an apple-cheeked dumpling, resembles Pia Zadora, but when she exhorts the crowd, it's with the martial efficiency of Hillary Clinton.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20175074,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>Bouncy tunes such as "Nobody's Perfect" and "Girls' Night Out" are delivered with a glib flirtatiousness that offsets their generically sensitive and empowering messages.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2008-01-31-hannah-miley_N.htm</url>
+         <critic>Elysa Gardner</critic>
+      </review>
+      <review>
+         <snippet>For parents who were unable to secure tickets for the young fans in their households, it's nothing short of a godsend.</snippet>
+         <url>http://www.tvguide.com/detail/movie.aspx?tvobjectid=292291&amp;more=ucmoviereview</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>She has boundless energy, a wardrobe that won't quit, and enough real teenager in her to come across as more than a mere Disney creation.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=11130</url>
+         <critic>Joseph P. Kahn</critic>
+      </review>
+      <review>
+         <snippet>She makes a perfectly fine role model, if you rate cheerful, sensible and chaste under the skinny tights and glow-in-the-dark tank tops.</snippet>
+         <url>http://www.laweekly.com/film+tv/film-reviews/caramel-over-her-dead-body-tre-and-more/18261/?page=1</url>
+         <critic>Ella Taylor</critic>
+      </review>
+      <review>
+         <snippet>Movie picks up momentum midway through, when Cyrus is joined by the three Jonas Brothers, who know exactly how to play the crowd and the cameras. As 3-D goes, watching them criss-cross in space proves more engaging than observing one strutting performer.</snippet>
+         <url>http://www.variety.com/review/VE1117936004.html?categoryid=31&amp;cs=1</url>
+         <critic>Peter Debruge</critic>
+      </review>
+      <review>
+         <snippet>Playing for only one week. Parents of tweens, you've been warned.</snippet>
+         <url>http://www.nypost.com/seven/02012008/entertainment/movies/miley_face_for_tween_queen_802067.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>If it wasn't for the stellar 3-D effects, there wouldn't be much to stop this hastily produced film from heading straight to DVD. But the scene at the end where all the confetti comes flying out and the pyrotechnics go off? Even I was willing to let out a little scream for that.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2008/02/04/DD95URFQ4.DTL</url>
+         <critic>Aidin Vaziri</critic>
+      </review>
+      <review>
+         <snippet>The show delivers with its corps of dancers, backup singers, elaborate runways, and a couple tunes by boy group, the Jonas Brothers, who do their thing while the fictional Hannah makes the backstage transition into the flesh-and-blood Miley.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A585457</url>
+         <critic>Marjorie Baumgarten</critic>
+      </review>
+   </reviews>
+   <US_Gross>$65,281,781</US_Gross>
+   <production_budget>$6,500,000</production_budget>
+   <weekend_gross>$31,117,834</weekend_gross>
+   <number_of_screens>683</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Domino</name>
+   <company>New Line Cinema</company>
+   <genres>
+      <genre>Action</genre>
+      <genre>Adventure</genre>
+      <genre>Comedy</genre>
+      <genre>Drama</genre>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>Richard Kelly</author>
+      <author>Steve Barancik</author>
+   </authors>
+   <directors>
+      <director>Tony Scott</director>
+   </directors>
+   <origins>
+      <origin>FranceUSA</origin>
+   </origins>
+   <actors>
+      <actor>Keira Knightley</actor>
+      <actor>Mickey Rourke</actor>
+      <actor>Edgar Ramirez</actor>
+      <actor>Lucy Liu</actor>
+      <actor>Mena Suvari</actor>
+      <actor>Christopher Walken</actor>
+      <actor>Jacqueline Bisset</actor>
+      <actor>Delroy Lindo</actor>
+   </actors>
+   <release_date>October 14, 2005</release_date>
+   <running_time>128</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>It's fractured and maddening, but it's alive.</snippet>
+         <url>http://www.rogerebert.com/apps/pbcs.dll/article?AID=/20051013/REVIEWS/51005001/1023</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>A lollapalooza of delectable cheap thrills.</snippet>
+         <url>http://movies2.nytimes.com/2005/10/14/movies/14domi.html</url>
+         <critic>Manohla Dargis</critic>
+      </review>
+      <review>
+         <snippet>The movie is full of possibilities. Frustratingly, only a few of them are realized.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/_/id/6149269?pageid=rs.ReviewsMovieArchive&amp;pageregion=mainRegion</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>It now seems that style has completely replaced substance in Scott's films, and he leaves gaping holes in his heroine's character.</snippet>
+         <url>http://online.tvguide.com/movies/database/showmovie.asp?MI=46452</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>Among the year's ultraviolent pulp movies, "Sin City" was prettier and "The Devil's Rejects" more focused.</snippet>
+         <url>http://www.nypost.com/movies/55343.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>It's good sleazy fun for a while, jacked up with an assortment of edgy visuals, but the greenish yellow tint favored by action director Tony Scott is a good metaphor for the movie's jaundiced sensibility.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/28680_DOMINO.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>Individual sequences are all impeccably assembled, Rourke's grizzled vet chips in some memorable deadpan dialogue.</snippet>
+         <url>http://www.empireonline.co.uk/incinemas/ReviewComplete.asp?FID=10363</url>
+         <critic>Sam Toy</critic>
+      </review>
+      <review>
+         <snippet>Thanks to dynamic performances by Keira Knightley, Mickey Rourke, Edgar Ramirez and a strong cast -- sometimes all but buried beneath irksome stylistic flourishes -- this dark and absurd melodrama certainly has raw energy.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1001262229</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>Sure, it's amusing, but it isn't much more.</snippet>
+         <url>http://dallasobserver.com/Issues/2005-10-13/film/film6.html</url>
+         <critic>Luke Y. Thompson</critic>
+      </review>
+      <review>
+         <snippet>Yes, the film is interesting, but it doesn't work.</snippet>
+         <url>http://movie-reviews.colossus.net/movies/d/domino.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>When a film is more conducive to a scholarly dissection than a consumerist examination, the film is incredibly clever, pragmatic, or pretentious. In the case of Domino, it's all of the above.</snippet>
+         <url>http://www.filmthreat.com/Reviews.asp?Id=8057</url>
+         <critic>Stina Chyn</critic>
+      </review>
+      <review>
+         <snippet>Features one of the more pointless cameos ever when Tom Waits shows up abruptly in the desert to spout mystical nonsense about Domino trading her life for somebody else's. The scene has absolutely no place in this jarring, violent movie; Waits is just another of Scott's distractions.</snippet>
+         <url>http://ae.miami.com/entertainment/ui/miami/movie.html?id=441230&amp;reviewId=19277&amp;startDate=10%2F13%2F2005</url>
+         <critic>Connie Ogle</critic>
+      </review>
+      <review>
+         <snippet>Domino should have been a terrific anti-heroine, but the movie never gets deep enough inside this walking time bomb to reveal what makes her tick.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-to.domino14oct14,1,6153791.story?coll=bal-movies-utility</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>The picture is an exercise in exploitation joi de vivre, and your enjoyment of it will depend on your tolerance for shameless, reckless, unredemptive violence with relatively little artistic or spiritual value. After all, there's a time and a place for everything.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2005/10/14/domino/index.html?sid=1401003</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>It's not so important to follow plot twists--I couldn't--but the emotional thrust Kelly and Scott want to drive home is plain: Once Domino is asked to use guns and knives and nunchucks for a purpose outside the law, she's alarmed, appalled, aghast.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-0501014-movies-review-domino,0,2605597.story?coll=mmx-movies_top_heds</url>
+         <critic>Allison Benedikt</critic>
+      </review>
+      <review>
+         <snippet>Given the decibel level of this movie, it's a miracle that these guys were able to give creditable performances. To give you an idea of the magnitude of the achievement: Imagine delivering a stirring rendition of the Gettysburg Address while standing under Niagara Falls.</snippet>
+         <url>http://www.csmonitor.com/2005/1014/p13s03-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>So over-plotted that it's borderline incomprehensible.</snippet>
+         <url>http://www.calendarlive.com/movies/turan/cl-et-domino14oct14,0,157540.story</url>
+         <critic>Kenneth Turan</critic>
+      </review>
+      <review>
+         <snippet>Scott's lack of faith in the script is all too evident -- in most scenes, the lines are so dull, he has to up the ante of his already-infamous attention-deficit style.</snippet>
+         <url>http://www.laweekly.com/film/film_results.php?showid=3598&amp;Sumbit.x=37&amp;Sumbit.y=13</url>
+         <critic>James C. Taylor</critic>
+      </review>
+      <review>
+         <snippet>Satisfying neither as character study nor as straight-ahead actioner.</snippet>
+         <url>http://www.variety.com/review/VE1117928438?categoryid=31&amp;cs=1</url>
+         <critic>Todd McCarthy</critic>
+      </review>
+      <review>
+         <snippet>It's like a ferret on crystal meth that belatedly discovers ecstasy, and it's a tiresome trip either way.</snippet>
+         <url>http://www.washingtonpost.com/wp-dyn/content/article/2005/10/13/AR2005101302125.html</url>
+         <critic>Ann Hornaday</critic>
+      </review>
+      <review>
+         <snippet>The reality-show producer played by Walken is described by his assistant (Suvari) as having the attention span of a "ferret on speed." I'm sure he would love Domino.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A298691</url>
+         <critic>Marjorie Baumgarten</critic>
+      </review>
+      <review>
+         <snippet>I suspect Scott sees Domino as the ultimate provocation, his way of grabbing Hollywood by the throat and shouting, "You want reality??! I'll give you REALITY!!!" Sort of.</snippet>
+         <url>http://www.premiere.com/article.asp?section_id=2&amp;article_id=2361</url>
+         <critic>Peter Debruge</critic>
+      </review>
+      <review>
+         <snippet>Scott means for his entertainment package to be hip, hysterical fun. But his stylistic embellishments and indiscriminate appetite for sensation crowds his title character right out of the film.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/ArticleNews/TPStory/LAC/20051014/DOMINO14/TPEntertainment/Film</url>
+         <critic>Stephen Cole</critic>
+      </review>
+      <review>
+         <snippet>Domino is less a movie than a hyperkinetic slide show - presented during a nuclear attack.</snippet>
+         <url>http://ae.philly.com/entertainment/ui/philly/movie.html?id=441230&amp;reviewId=19264</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>The truly appalling thing, though, is the stupidity of the screenplay by Richard Kelly.</snippet>
+         <url>http://ae.charlotte.com/entertainment/ui/charlotte/movie.html?id=441230&amp;reviewId=19253&amp;startDate=10%2F14%2F2005</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>You can't accuse this film of bogging down in cheap psychology, yet you come out dissatisfied and without a clue about what made this person tick.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2005-10-13-domino_x.htm</url>
+         <critic>Mike Clark</critic>
+      </review>
+      <review>
+         <snippet>The movie is quite off its rocker: Jerry Springer, Chrisopher Walken, Tom Waits as a roadside prophet, a miscast, nervous Lucy Liu as an FBI agent -- it's a feverish, violent jumble that's shot as if high on mescaline -- the drug, not the salad.</snippet>
+         <url>http://www.nydailynews.com/10-14-2005/entertainment/col/story/355643p-302901c.html</url>
+         <critic>Jami Bernard</critic>
+      </review>
+      <review>
+         <snippet>The script, allegedly by "Donnie Darko's" Richard Kelly, throws together tangentially related plots like cats in a sack.</snippet>
+         <url>http://www.villagevoice.com/film/0541,winter,68741,20.html</url>
+         <critic>Jessica Winter</critic>
+      </review>
+      <review>
+         <snippet>Domino de-emphasizes the human element--not to mention such niceties as plot and clarity--to such a degree that only those who show up purely to watch combustibles go "boom" won't feel insulted.</snippet>
+         <url>http://avclub.com/content/node/41498</url>
+         <critic>Keith Phipps</critic>
+      </review>
+      <review>
+         <snippet>The movie is trash shot to look like art imitating trash.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1116752_1_0_,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>His [Director Tony Scott's] pornographic lust for bloodletting, gunplay, and out-of-control camerawork far exceeds his abilities to tell a story.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=7814</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>In small doses, this looks kind of cool. For two hours, it's excruciating.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/1129201063284690.xml&amp;coll=7</url>
+         <critic>M. E. Russell</critic>
+      </review>
+      <review>
+         <snippet>Two hours of senselessness and overkill, decked out in lurid, bad-trip colors.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2005/10/14/DDG7VF7DPK1.DTL&amp;type=movies</url>
+         <critic>Walter Addiego</critic>
+      </review>
+      <review>
+         <snippet>Staggeringly awful.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/244501_domino14q.html</url>
+         <critic>William Arnold</critic>
+      </review>
+      <review>
+         <snippet>Domino seemed to me the end of the world for movies--a glimpse of a future so excruciating that I'd prefer to take my chances with Hitchcock's eye-gouging avians.</snippet>
+         <url>http://www.slate.com/id/2127990/?nav=fo</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>Domino is a new definition of a snuff movie. It snuffs out every vestige of feeling.</snippet>
+         <url/>
+         <critic>Joe Morgenstern</critic>
+      </review>
+   </reviews>
+   <US_Gross>$10,169,202</US_Gross>
+   <production_budget>$50,000,000</production_budget>
+   <weekend_gross>$4,670,120</weekend_gross>
+   <number_of_screens>2,223</number_of_screens>
+   <highest_grossing_actors_present/>
+   <num_highest_grossing_actors>1</num_highest_grossing_actors>
+   <highest_grossing_actor>christopher walken</highest_grossing_actor>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

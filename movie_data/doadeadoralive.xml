@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>DOA: Dead or Alive</name>
+   <company>The Weinstein Company</company>
+   <genres>
+      <genre>Action</genre>
+      <genre>Adventure</genre>
+   </genres>
+   <authors>
+      <author>J.F. Lawton</author>
+      <author>Adam Gross</author>
+      <author>Seth Gross</author>
+   </authors>
+   <directors>
+      <director>Corey Yuen</director>
+   </directors>
+   <origins>
+      <origin>USAGermanyUK</origin>
+   </origins>
+   <actors>
+      <actor>Jaime Pressly</actor>
+      <actor>Holly Valance</actor>
+      <actor>Sarah Carter</actor>
+      <actor>Devon Aoki</actor>
+      <actor>Natassia Malthe</actor>
+      <actor>Eric Roberts</actor>
+      <actor>Matthew Marsden</actor>
+      <actor>Brian J. White</actor>
+   </actors>
+   <release_date>June 15, 2007</release_date>
+   <running_time>87</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>Praise be to director Corey Yuen (The Transporter) for delivering one of the year's purest entertainments -- the best butt-kicking PG-13 bikini jiggle fest since the first Charlie's Angels flick.</snippet>
+         <url>http://www.laweekly.com/film+tv/film-reviews/film-reviews-fantastic-four-fido-amu/16623/</url>
+         <critic>Luke Y. Thompson</critic>
+      </review>
+      <review>
+         <snippet>If you only ever see one bad movie about warrior chicks who meet on a tropical isle for a fight contest, make it DOA: Dead or Alive.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20043127,00.html</url>
+         <critic>Gregory Kirschling</critic>
+      </review>
+      <review>
+         <snippet>Sure, the dialogue is absolutely atrocious, the acting sucks, Eric Roberts is a co-star, the action is lame and the fighting is boring. But all of this makes for one hilarious viewing experience. DOA is the sort of film you’ll want to watch with a drunken crowd of your friends.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=10125</url>
+         <critic>Michael Ferraro</critic>
+      </review>
+      <review>
+         <snippet>Free of blood, bruises and visible trauma, DOA revels in its fakery. And though the film presents more exuberant female flesh than hiring day at Hooters, it's strictly for titillation.</snippet>
+         <url>http://movies2.nytimes.com/2007/06/16/movies/16dead.html?adxnnl=1&amp;ref=movies&amp;adxnnlx=1182020520-N9Bpi/dKLK8teZw6hV9czg</url>
+         <critic>Jeannette Catsoulis</critic>
+      </review>
+      <review>
+         <snippet>The action has more to do with digital effects than true martial artistry, and is targeted squarely at adolescent boys too young to rent porn and gamers too lazy to yank their own joysticks.</snippet>
+         <url>http://www.tvguide.com/movies/doa-dead-alive/review/283577</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>So insubstantial that it practically evaporates on screen.</snippet>
+         <url>http://www.variety.com/review/VE1117933922.html?categoryid=31&amp;cs=1</url>
+         <critic>Joe Leydon</critic>
+      </review>
+      <review>
+         <snippet>"Charlie's Angels," "Survivor," "American Gladiators" and "Girls Gone Wild" are just some of the bad influences on Hong Kong action director Corey Yuen's laughably silly adaptation of the video game DOA: Dead or Alive.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2007/06/16/2007-06-16_theyre_armed__frivolous.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>A piece of garbage and the best argument for reading books since the first pop-up appeared.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A491519</url>
+         <critic>Josh Rosenblatt</critic>
+      </review>
+   </reviews>
+   <US_Gross>$480,314</US_Gross>
+   <production_budget>$30,000,000</production_budget>
+   <weekend_gross>$260,713</weekend_gross>
+   <number_of_screens>505</number_of_screens>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

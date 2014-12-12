@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>He Was a Quiet Man</name>
+   <company>Quiet Man Productions</company>
+   <genres>
+      <genre>Comedy</genre>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author>Frank A. Cappello</author>
+   </authors>
+   <directors>
+      <director>Frank A. Cappello</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Christian Slater</actor>
+      <actor>Elisha Cuthbert</actor>
+      <actor>William H. Macy</actor>
+      <actor>Sascha Knopf</actor>
+      <actor>Jamison Jones</actor>
+   </actors>
+   <release_date>November 30, 2007</release_date>
+   <running_time>99</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>With his Jack Nicholson mannerisms extinguished and his boyish features made up to look worn and aged, Slater also makes us believe and care about this guy. A movie this marginal isn't likely to get much notice, but it's one of the very best things he has done.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/345932_quiet04q.html</url>
+         <critic>William Arnold</critic>
+      </review>
+      <review>
+         <snippet>He Was a Quiet Man casts its own perversely funny spell thanks in large part to Slater, whose wonderfully shifty, beaten-down performance is easily his best in the 17 years.</snippet>
+         <url>http://www.laweekly.com/film+tv/film-reviews/movie-reviews-badland-divine-intervention-forfeit-he-was-a-quiet-man/17797/</url>
+         <critic>Scott Foundas</critic>
+      </review>
+      <review>
+         <snippet>An enjoyable satire is let down by a third act that juggles too many ideas for its own good.</snippet>
+         <url>http://www.empireonline.com/reviews/reviewcomplete.asp?FID=135329</url>
+         <critic>Kat Brown</critic>
+      </review>
+      <review>
+         <snippet>Initially shows promise, but filmmaker Frank Cappello (the early Russell Crowe vehicle "No Way Back") gets bogged down when Slater becomes involved with Elisa Cuthbert, a paraplegic survivor of the shooting who wants him to kill her.</snippet>
+         <url>http://www.nypost.com/seven/11232007/entertainment/movies/he_was_a_quiet_man_940658.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>By the time it reaches a weak, ambiguous conclusion, the movie has gone everywhere and nowhere, much like its psychotic main character, Bob Maconel (Christian Slater).</snippet>
+         <url>http://movies.nytimes.com/2007/11/23/movies/23quie.html</url>
+         <critic>Stephen Holden</critic>
+      </review>
+   </reviews>
+   <US_Gross>$2,431</US_Gross>
+   <weekend_gross>$2,431</weekend_gross>
+   <number_of_screens>3</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

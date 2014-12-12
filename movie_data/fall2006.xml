@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Fall, The</name>
+   <company>Roadside Attractions</company>
+   <genres>
+      <genre>Adventure</genre>
+      <genre>Drama</genre>
+      <genre>Fantasy</genre>
+   </genres>
+   <authors>
+      <author>Valeri Petrov</author>
+      <author>Tarsem Singh</author>
+      <author>Nico Soultanakis</author>
+      <author>Dan Gilroy</author>
+   </authors>
+   <directors>
+      <director>Tarsem Singh</director>
+   </directors>
+   <origins>
+      <origin>India</origin>
+      <origin>UK</origin>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Lee Pace</actor>
+      <actor>Catinca Untaru</actor>
+      <actor>Justine Waddell</actor>
+      <actor>Julian Bleach</actor>
+   </actors>
+   <release_date>May 9, 2008</release_date>
+   <running_time>117</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>A movie that you might want to see for no other reason than because it exists. There will never be another like it.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20080529/REVIEWS/805290301</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>It's the most glorious, wonderful mess put onscreen since Terry Gilliam's "Brazil."</snippet>
+         <url>http://www.avclub.com/content/cinema/the_fall</url>
+         <critic>Tasha Robinson</critic>
+      </review>
+      <review>
+         <snippet>A deliciously vivid adventure fantasy.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/365075_fall30q.html</url>
+         <critic>Sean Axmaker</critic>
+      </review>
+      <review>
+         <snippet>The Fall is a movie whose every frame pulsates with the desire to be a transportive, transcendent work of cinema. And each one of said frames is full of visual bedazzlement and wonder. So full that one is loathe to sum up with the phrase "Close, but no cigar." But there is something, finally, kind of pushy about the film's desire to be a masterpiece.</snippet>
+         <url>http://www.premiere.com/moviereviews/4575/the-fall.html</url>
+         <critic>Glenn Kenny</critic>
+      </review>
+      <review>
+         <snippet>Dazzling and delirious, The Fall is a celebration of cinema, of old-fashioned storytelling and globe-hopping spectacle.</snippet>
+         <url>http://www.philly.com/philly/entertainment/movies/20080530_A_child_s_story_told_as_cinematic_spectacle.html</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>The Fall is often an affectionate caricature itself, but one of astonishing beauty, featuring two heartfelt performances from Untaru and the tender, often mordantly funny Pace. They're perfect foils for Tarsem's gorgeous tone poem to cinema as a medium of magic and miracles, stories and lies.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1126100&amp;categories=Movies&amp;nm=1</url>
+         <critic>Ann Hornaday</critic>
+      </review>
+      <review>
+         <snippet>The Fall lives and dies on the strength of Pace and Untaru's remarkable performances. It's there that the pulsing heart of this magical-real film beats most true.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A628978</url>
+         <critic>Marc Savlov</critic>
+      </review>
+      <review>
+         <snippet>It's an achingly beautiful movie and a triumph of location scouting, with more cosmopolitan spectacle than the past three Indiana Jones and James Bond movies combined.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2008/05/29/DDIV10TJ80.DTL&amp;type=movies</url>
+         <critic>Peter Hartlaub</critic>
+      </review>
+      <review>
+         <snippet>Although the film revolves around a child, it's not a children's movie: A cruel and bitter undertone runs through the fanciful adventures, and Walker's depression is no mere plot contrivance to be cured by Alexandria's childish enthusiasm.</snippet>
+         <url>http://www.tvguide.com/movies/fall/review/293431</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>The Fall is aptly named not only because it pertains to a tragic descent but because viewers will feel as if they have plunged headlong into an alternate universe with this dazzling adult fairy tale.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2008-05-08-the-fall_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>Director Tarsem (The Cell) reworks the 1981 Bulgarian film "Yo Ho Ho" for this stylish fantasy.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/33206_FALL_DHANDWAR.html</url>
+         <critic>Bill Stamets</critic>
+      </review>
+      <review>
+         <snippet>Some of the set pieces are ravishing, more often they're ravishingly clunky.</snippet>
+         <url>http://www.csmonitor.com/2008/0509/p25s06-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>The Fall is what you'd get if you told a fiendishly gifted graphic illustrator the plot of "The Princess Bride" and sent him off to come up with his own version.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=11683</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>If the human details are often problematic, the IMAX-grade bombast, ceremonial camera, and Jodorowsky-esque eclecticism still combine for a singular spectacle.</snippet>
+         <url>http://www.villagevoice.com/film/0819,the-fall,433929,20.html</url>
+         <critic>Nick Pinkerton</critic>
+      </review>
+      <review>
+         <snippet>There's no doubt that Tarsem's a visionary director. Now he needs to envision a worthwhile script for himself.</snippet>
+         <url>http://blog.oregonlive.com/madaboutmovies/2008/05/review_the_fall_is_gorgeous_an.html</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>Pretty pictures - thats what The Fall has to offer.</snippet>
+         <url>http://www.reelviews.net/movies/f/fall.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>It has a rich premise and no lack of amazements. What it lacks in any sort of dramatic shape.</snippet>
+         <url>http://chicago.metromix.com/movies/movie_review/movie-review-the-fall/434905/content</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>It's the kind of movie for which the phrase ''you've never seen anything like it before'' was invented. The question is whether anyone would want to.</snippet>
+         <url>http://www.miamiherald.com/1054/story/550835.html</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>Tarsem and his screenwriting collaborators aren't able to come up with enough interesting justifications for their sudden shifts, and soon the shape-shifting yarn just feels like lazy storytelling.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?&amp;rid=2317</url>
+         <critic>John DeFore</critic>
+      </review>
+      <review>
+         <snippet>This convoluted, arbitrary, overlong whimsy will strike most grown-ups as childish, and is far too violent and pretentious for kids.</snippet>
+         <url>http://www.variety.com/index.asp?layout=festivals&amp;jump=review&amp;id=2478&amp;reviewid=VE1117931644&amp;cs=1&amp;p=0</url>
+         <critic>Dennis Harvey</critic>
+      </review>
+      <review>
+         <snippet>It's basically a Middle Eastern version of "The Princess Bride" with an assisted-suicide subplot.</snippet>
+         <url>http://www.nypost.com/seven/05092008/entertainment/movies/pretty_pictures__little_else__in_vanity__110004.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>There is never a sense that The Fall exists for any reason besides simply being something nice to look at. Yet no matter how good-looking a film may be, if it's as sleep-inducing as this, there's simply no point.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-fall9-2008may09,0,3031892.story</url>
+         <critic>Mark Olsen</critic>
+      </review>
+      <review>
+         <snippet>A genuine labor of love -- and a real bore.</snippet>
+         <url>http://movies.nytimes.com/2008/05/09/movies/09fall.html?ref=movies</url>
+         <critic>Nathan Lee</critic>
+      </review>
+   </reviews>
+   <US_Gross>$2,280,348</US_Gross>
+   <weekend_gross>$79,611</weekend_gross>
+   <number_of_screens>9</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

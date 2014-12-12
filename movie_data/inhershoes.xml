@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>In Her Shoes</name>
+   <company>Twentieth Century Fox Film Corp.</company>
+   <genres>
+      <genre>Comedy</genre>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author>Susannah Grant</author>
+      <author>Jennifer Weiner</author>
+   </authors>
+   <directors>
+      <director>Curtis Hanson</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Cameron Diaz</actor>
+      <actor>Toni Collette</actor>
+      <actor>Shirley MacLaine</actor>
+      <actor>Mark Feuerstein</actor>
+      <actor>Brooke Smith</actor>
+      <actor>Richard Burgi</actor>
+      <actor>Anson Mount</actor>
+      <actor>Cice Azzara</actor>
+   </actors>
+   <release_date>October 7, 2005</release_date>
+   <running_time>130</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>The movie is so well-cast, sympathetically acted and delicately directed -- and so genuinely touching and funny -- that it leaps right out of the narrow confines of the family bonding formula.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/243643_inhershoes07q.html</url>
+         <critic>William Arnold</critic>
+      </review>
+      <review>
+         <snippet>This is the most enjoyable film of its type in recent memory.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2005-10-06-in-her-shoes_x.htm</url>
+         <critic>Mike Clark</critic>
+      </review>
+      <review>
+         <snippet>It's wonderfully satisfying: Collette, MacLaine and Diaz are exceptional, and the mix of humor and heartbreak is perfectly calibrated.</snippet>
+         <url>http://online.tvguide.com/Movies/database/ShowMovie.asp?MI=46451</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>Starts out with the materials of an ordinary movie and becomes a rather special one.</snippet>
+         <url>http://www.rogerebert.com/apps/pbcs.dll/article?AID=/20051006/REVIEWS/50928001/1023</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>No great claims should be made for In Her Shoes. If the aim here was to show how chick lit can become just plain lit, the effort failed. But there is something to be said for froth when it's expertly whipped.</snippet>
+         <url>http://www.csmonitor.com/2005/1007/p11s02-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>Manipulative, but confidently so, and improbably but consistently affecting.</snippet>
+         <url/>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>While on the surface very much a girls' film, this ruefully honest picture has something to say to everyone.</snippet>
+         <url>http://www.empireonline.co.uk/incinemas/ReviewComplete.asp?FID=10504</url>
+         <critic>Staff (Not credited)</critic>
+      </review>
+      <review>
+         <snippet>When superb craftsmanship, discipline, and risk-taking (toning down Diaz and MacLaine; treating Collette as a desirous leading lady) are applied to accessible, even frivolous material, the results can be deeply pleasurable. In Her Shoes isn’t a masterpiece, but it’s the best Saturday-night movie millions of people are going to go to.</snippet>
+         <url>http://newyorkmetro.com/nymetro/movies/reviews/14615/</url>
+         <critic>Ken Tucker</critic>
+      </review>
+      <review>
+         <snippet>Maintains a breezy charm throughout and contains many extremely funny sequences.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A295562</url>
+         <critic>Marjorie Baumgarten</critic>
+      </review>
+      <review>
+         <snippet>It's Hanson's astute directing that makes the film's life lessons go down painlessly, turning the smartly entertaining In Her Shoes into a comfy fit for both sexes.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/_/id/6824330?pageid=rs.ReviewsMovieArchive&amp;pageregion=mainRegion</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>It's an earnest, contemporary drama about adults -- OK, women -- that has no use for irony or cynicism, no room for cutting-edge, clever hipness.</snippet>
+         <url>http://ae.miami.com/entertainment/ui/miami/movie.html?id=426192&amp;reviewId=19225</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>A rollicking, mascara-smearing, intergenerational coed crowd-pleaser. Imagine "Sex and the City" negotiating "Terms of Endearment" with "The Golden Girls."</snippet>
+         <url>http://ae.philly.com/entertainment/ui/philly/movie.html?id=426192&amp;reviewId=19217</url>
+         <critic>Carrie Rickey</critic>
+      </review>
+      <review>
+         <snippet>Simply clicks on every level. From the surprising depth of the story, to the smooth and sometimes brilliant performances, to Hanson’s clear mastery of form.</snippet>
+         <url>http://www.premiere.com/article.asp?section_id=2&amp;article_id=2315</url>
+         <critic>Ryan Devlin</critic>
+      </review>
+      <review>
+         <snippet>The joy of this unassuming, generous film is that it never sells out its characters' desires or ours.</snippet>
+         <url>http://www.nytimes.com/2005/10/07/movies/07shoe.html</url>
+         <critic>Manohla Dargis</critic>
+      </review>
+      <review>
+         <snippet>Director Curtis Hanson has made a chick flick with substance as well as style.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1001137705</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>While the director's avid fans may be disappointed, upscalish mainstream auds, particularly women, will eat up this well-acted, emotionally focused adaptation of Jennifer Weiner's popular novel.</snippet>
+         <url>http://www.variety.com/review/VE1117928199?categoryid=31&amp;cs=1</url>
+         <critic>Todd McCarthy</critic>
+      </review>
+      <review>
+         <snippet>The best moments belong to Shirley MacLaine, who makes the clipped script sing as Ella.</snippet>
+         <url>http://www.villagevoice.com/film/0540,sinagra,68563,20.html</url>
+         <critic>Laura Sinagra</critic>
+      </review>
+      <review>
+         <snippet>Could it be that the director of "L.A. Confidential," "Wonder Boys," and "8 Mile" has been defeated by characters on a first-name basis with brisket, by women who, in Susannah Grant's screenplay, represent avatars of joyless workaholism and joyless sexaholism?</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1114282_1_0_,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>A great big wad of chick-lit gum, In Her Shoes gets by on the skill of its players.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-0501007-movies-review-shoes,0,2172109.story?coll=mmx-movies_top_heds</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>Cameron Diaz redeems her reputation somewhat in In Her Shoes, Curtis Hanson's schmaltzy, but reasonably entertaining dramedy about mismatched sisters.</snippet>
+         <url>http://www.nypost.com/movies/53385.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>Entertaining enough, but it's more pat than provocative -- this is what makes it a bona fide audience pleaser while keeping it from drawing real blood.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=7259</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>Not once does this ruffled sweetness seem like Hanson’s natural terrain. "Wonder Boys" took emotional risks, daring to suggest that with age comes not wisdom but confusion and crummy robes, whereas everything in the new film is designed to slot together with an optimistic click.</snippet>
+         <url>http://www.newyorker.com/critics/cinema/?051017crci_cinema</url>
+         <critic>Anthony Lane</critic>
+      </review>
+      <review>
+         <snippet>It's absolutely the classiest big-screen version of chick lit we're ever likely to see. But it still has all the lasting flavor of a Chiclet.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-to.shoes07oct07,1,7480680.story?coll=bal-movies-utility</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>The people who made this film -- particularly the ones responsible for the story and the dialogue -- should look no further when trying to understand why In Her Shoes lands with such little impact. The characters seem authentic -- until the chick-flick template distorts them.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2005/10/07/DDGRNF31LM1.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>Although much of the bloat can be traced to the script, via the Jennifer Weiner novel, let's not absolve director Curtis Hanson from his fat share of the blame.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/ArticleNews/TPStory/LAC/20051007/SHOES07/TPEntertainment/Film</url>
+         <critic>Rick Groen</critic>
+      </review>
+      <review>
+         <snippet>Overlong, undercooked drama.</snippet>
+         <url>http://spacefinder.chicagoreader.com/movies/briefs/28613_IN_HER_SHOES.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>For you guys out there stuck with a lady-friend looking for that "Beaches" replacement, here it is.</snippet>
+         <url>http://www.filmthreat.com/Reviews.asp?Id=8046</url>
+         <critic>Michael Ferraro</critic>
+      </review>
+      <review>
+         <snippet>Emotions too often get ladled unconvincingly.</snippet>
+         <url>http://ae.charlotte.com/entertainment/ui/charlotte/movie.html?id=426192&amp;reviewId=19190&amp;startDate=10%2F07%2F2005</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>Diaz and Collette are believable as sisters, but their performances rarely surprise -- in a more interesting movie world, they'd have switched roles.</snippet>
+         <url>http://www.laweekly.com/film/film_results.php?showid=3591&amp;Sumbit.x=52&amp;Sumbit.y=18</url>
+         <critic>Chuck Wilson</critic>
+      </review>
+      <review>
+         <snippet>A bungled mess that spends an hour creating two characters whose lives are about as believable as a successful ambush set by
+Wile E. Coyote for the Roadrunner.</snippet>
+         <url>http://www.nydailynews.com/10-07-2005/entertainment/col/story/353351p-301098c.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>Artificial in both its dialogue and its construction, the film only works - on those occasions when it works - because of the sincere performance by the underrated Toni Collette.</snippet>
+         <url>http://movie-reviews.colossus.net/movies/i/in_shoes.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>The movie's a bust in myriad ways, especially because almost every scene possesses the oily feel of manipulation and condescension.</snippet>
+         <url>http://dallasobserver.com/Issues/2005-10-06/film/film.html</url>
+         <critic>Robert Wilonsky</critic>
+      </review>
+      <review>
+         <snippet>The whole exercise feels hopelessly shallow and artificial. In Her Shoes is basically a double-date romantic comedy, in which not one but two women find themselves and learn to live and love again, etc. etc., and while it's well-acted on most counts, it's also as plodding as it is obvious.</snippet>
+         <url>http://avclub.com/content/node/41297</url>
+         <critic>Tasha Robinson</critic>
+      </review>
+      <review>
+         <snippet>There'd be nothing wrong with this if the film 'fessed up to its kitschy soul. Instead, it pretends to be the high-minded drama it's not.</snippet>
+         <url>http://www.washingtonpost.com/wp-dyn/content/article/2005/10/06/AR2005100601905.html</url>
+         <critic>Desson Thomson</critic>
+      </review>
+      <review>
+         <snippet>Ultimately, it's too self-conscious of its role in the marketplace and too hamstrung by its source material to risk being honest at the expense of being liked.</snippet>
+         <url>http://www.calendarlive.com/movies/chocano/cl-et-shoes7oct07,0,1800574.story</url>
+         <critic>Carina Chocano</critic>
+      </review>
+      <review>
+         <snippet>The movie works neither as a comedy nor as a lame melodrama -- its entertainment value is embarrassingly feeble.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2005/10/07/in_her_shoes/index.html?sid=1398805</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+   </reviews>
+   <US_Gross>$32,880,591</US_Gross>
+   <weekend_gross>$10,017,575</weekend_gross>
+   <number_of_screens>2,808</number_of_screens>
+   <oscar_winning_actors_present/>
+   <num_oscar_winning_actors>1</num_oscar_winning_actors>
+   <oscar_winning_actor>shirley maclaine</oscar_winning_actor>
+   <highest_grossing_actors_present/>
+   <num_highest_grossing_actors>1</num_highest_grossing_actors>
+   <highest_grossing_actor>cameron diaz</highest_grossing_actor>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Nomad</name>
+   <company>The Weinstein Company</company>
+   <genres>
+      <genre>Drama</genre>
+      <genre>Foreign</genre>
+      <genre>War</genre>
+   </genres>
+   <authors>
+      <author>Rustam Ibragimbekov</author>
+      <author>Ivan Passer</author>
+      <author>Talgat Temenov</author>
+   </authors>
+   <directors>
+      <director>Sergei Bodrov</director>
+   </directors>
+   <origins>
+      <origin>Kazakhstan</origin>
+   </origins>
+   <actors>
+      <actor>Jay Hernez</actor>
+      <actor>Kuno Becker</actor>
+      <actor>Mark Dacascos</actor>
+      <actor>Jason Scott Lee</actor>
+      <actor>Doskhan Zholzhaksynov</actor>
+   </actors>
+   <release_date>March 16, 2007</release_date>
+   <running_time>111</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>Though it has a familiar inevitability, the journey is generally compelling, thanks to fierce battles, a gorgeous landscape and heartfelt performances.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2007/03/16/2007-03-16_short_takes.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>Picture fits seamlessly together although it is somewhat generic in flavor, with an off-the-shelf narrative arch and characterizations drawn using broad brushstrokes.</snippet>
+         <url>http://www.variety.com/review/VE1117931257.html?categoryid=31&amp;cs=1&amp;p=0</url>
+         <critic>Leslie Felperin</critic>
+      </review>
+      <review>
+         <snippet>With commendable sincerity but also an unfortunate Hollywood veneer, Nomad is a poor man's "Gladiator."</snippet>
+         <url>http://www.villagevoice.com/film/0711,oppenheimer,76070,20.html</url>
+         <critic>Jean Oppenheimer</critic>
+      </review>
+      <review>
+         <snippet>The filmmakers don't appear to know what's important, let alone how to pace an epic for big drama and maximum thrills.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=9885</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>While the film has impressive 18th-century trappings and vivid battle scenes, the plotting and acting are rudimentary.</snippet>
+         <url>http://www.nypost.com/seven/03162007/entertainment/movies/i_am_kazakh__i_am_an_island_movies_lou_lumenick.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>It took the combined directorial talents of Ivan Passer and Sergei Bodrov to complete this historical epic about the 18th-century attempt to unify the contentious Kazakh tribes into what would become Kazakhstan (no Borat jokes, please), but the result is really little more than an intermittently entertaining.</snippet>
+         <url>http://tvguide.com/detail/movie.aspx?tvobjectid=286869&amp;more=ucmoviereview</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>Not very good.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2007/03/30/DDGNTOTHL71.DTL#flick</url>
+         <critic>G. Allen Johnson</critic>
+      </review>
+   </reviews>
+   <US_Gross>$79,123</US_Gross>
+   <production_budget>$40,000,000</production_budget>
+   <weekend_gross>$14,250</weekend_gross>
+   <number_of_screens>30</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

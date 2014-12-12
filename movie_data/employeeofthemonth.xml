@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Employee of the Month</name>
+   <company>Lions Gate Films</company>
+   <genres>
+      <genre>Comedy</genre>
+   </genres>
+   <authors>
+      <author>Don Calame</author>
+      <author>Chris Conroy</author>
+      <author>Greg Coolidge</author>
+   </authors>
+   <directors>
+      <director>Greg Coolidge</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Dane Cook</actor>
+      <actor>Jessica Simpson</actor>
+      <actor>Dax Shepard</actor>
+      <actor>Andy Dick</actor>
+      <actor>Tim Bagley</actor>
+      <actor>Brian George</actor>
+      <actor>Efren Ramirez</actor>
+      <actor>Marcello Thedford</actor>
+   </actors>
+   <release_date>October 6, 2006</release_date>
+   <running_time>103</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>It's an agreeable comedy that makes its priorities clear: It wants to be funny at the expense of almost everything else.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/287691_employee06q.html</url>
+         <critic>Manny Lewis</critic>
+      </review>
+      <review>
+         <snippet>It's hard to fault a script that keeps finding new dilemmas for characters and rewards attentive viewers with in-jokes.</snippet>
+         <url>http://ae.charlotte.com/entertainment/ui/charlotte/movie.html;jsessionid=D823C7165E71F1AFACDBE117374960C0.prodapp12_ae_01?id=713302&amp;reviewId=21562</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>Falling short of being truly memorable but sharper than the general slagheap of comedies.</snippet>
+         <url>http://www.variety.com/review/VE1117931746?categoryid=31&amp;cs=1</url>
+         <critic>Robert Koehler</critic>
+      </review>
+      <review>
+         <snippet>For short stretches, the movie has a touch of surreal "Office Space" brilliance, but it's broadly acted, its characters are thin, and the production values are ragged. Still, it's hard to resist its goofy hostility: "You're like the drummer from REO Speedwagon. Nobody knows who you are."</snippet>
+         <url>http://www.nypost.com/seven/10062006/entertainment/movies/dont_discount_it_movies_kyle_smith.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>Don Calame and Chris Conroy's script is witty and peppered with good laughs, but cops out a bit at the end with an overly conventional resolution. As for Jessica Simpson... her character is virtually irrelevant, as is her acting ability.</snippet>
+         <url>http://www.laweekly.com/film+tv/film-reviews/film-reviews/14706/</url>
+         <critic>Luke Y. Thompson</critic>
+      </review>
+      <review>
+         <snippet>Manages to retain a certain goofy appeal thanks to the stand-up efforts of its comically adept cast members.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1003188439</url>
+         <critic>Michael Rechtshaffen</critic>
+      </review>
+      <review>
+         <snippet>Ultimately, we're looking at a discount "Office Space."</snippet>
+         <url>http://www.nydailynews.com/10-06-2006/entertainment/col/story/459038p-386063c.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>This may be a just-for-fun comedy, but that shouldn't mean that it must entirely disconnect from the world.</snippet>
+         <url>http://www.calendarlive.com/printedition/calendar/cl-et-employee6oct06,0,4971930.story</url>
+         <critic>Mark Olsen</critic>
+      </review>
+      <review>
+         <snippet>Coolidge knows he's not making "Death of a Salesman" here (he names the store managers Glen Gary and Glen Ross in tribute to David Mamet's elegy to the American Dream), but he's got the same eye for detail that made "Office Space" great. What he lacks is Arthur Miller's (or even Mike Judge's) sense for character.</snippet>
+         <url>http://ae.miami.com/entertainment/ui/miami/movie.html?id=713302&amp;reviewId=21569</url>
+         <critic>Peter Debruge</critic>
+      </review>
+      <review>
+         <snippet>This will never be the movie of the month, but you could do a lot worse at the multiplex.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?file=/c/a/2006/10/06/DDGURLIBS81.DTL&amp;type=movies</url>
+         <critic>Ruthe Stein</critic>
+      </review>
+      <review>
+         <snippet>The less said about Simpson the better; whatever her talents, she can't sell a simple reaction shot, and, perhaps sensing this, Coolidge's camera tends to drift south of her face.</snippet>
+         <url>http://tvguide.com/detail/movie.aspx?tvobjectid=283569&amp;more=ucmoviereview</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>Employee of the Month is more tired than a Wal-Mart greeter at the end of a Saturday shift. One can only hope its halfhearted suggestion that winning isn't everything is some comfort if the movie's grosses are as disappointing as its jokes.</snippet>
+         <url>http://movies2.nytimes.com/2006/10/06/movies/06empl.html?ref=movies</url>
+         <critic>Jeannette Catsoulis</critic>
+      </review>
+      <review>
+         <snippet>You're bound to have more fun working overtime than watching Employee of the Month.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2006-10-05-review-employee_x.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>So achingly empty, it's nearly existential.</snippet>
+         <url>http://ae.philly.com/entertainment/ui/philly/movie.html?id=713302&amp;reviewId=21565</url>
+         <critic>David Hiltbrand</critic>
+      </review>
+      <review>
+         <snippet>Perhaps Employee of the Month, which was typed then directed by Greg Coolidge, is unfolding in the key of satire. But you'd have to be a dog to hear it.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=9036</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>The results in Employee of the Month are toothless.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1545085_1_0_,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>Co-writers Don Calame and Chris Conroy utterly fail to notice the wealth of black-comedy gold inherent in the very notion of sprawling supercenters and instead go for the dumbest gags they can find.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A407104</url>
+         <critic>Marc Savlov</critic>
+      </review>
+      <review>
+         <snippet>There's a great "Office Space"-style satire to be made about big-box stores screwing their working-poor employees, but Hollywood studios covet DVD rack space at those same stores, so instead we're supposed to get excited about which of these two idiots earns more gold stars.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/30404_EMPLOYEE_OF_THE_MONTH.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>Rarely has an actress exuded such blank nothingness as Simpson, a one-woman vapid delivery system who sucks the energy and joy out of every scene she's in, like some freakishly well-endowed black hole.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1105979&amp;categories=Movies&amp;nm=1</url>
+         <critic>Ann Hornaday</critic>
+      </review>
+      <review>
+         <snippet>I laughed once or twice during this flat and fatuous farce, mainly because director and co-writer Greg Coolidge lifted a lot of it from "Office Space."</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/9740259/review/11983156/employee_of_the_month</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>A symptom of cinematic de-evolution run amok.</snippet>
+         <url>http://www.avclub.com/content/node/53764</url>
+         <critic>Nathan Rabin</critic>
+      </review>
+      <review>
+         <snippet>The only two onscreen items with any star quality belong to Simpson, and they're barely contained in shirts that seem to be holding on for dear life. Comedy fans, beware; breast fans, rejoice!</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-061006-movies-review-employee-pais,0,2559781.story</url>
+         <critic>Matt Pais</critic>
+      </review>
+      <review>
+         <snippet>It tries to toe the line between romantic comedy and vulgar pseudo-satire and fails at both.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=9349</url>
+         <critic>Pete Vonder Haar</critic>
+      </review>
+      <review>
+         <snippet>How bad does a film have to be to get the death doughnut? Disgracefully bad.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/LAC.20061006.MONTH06/TPStory/TPEntertainment/Movies/</url>
+         <critic>David Gilmour</critic>
+      </review>
+   </reviews>
+   <US_Gross>$28,444,855</US_Gross>
+   <production_budget>$10,000,000</production_budget>
+   <weekend_gross>$11,407,751</weekend_gross>
+   <number_of_screens>2,579</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Examined Life</name>
+   <company>Zeitgeist Films</company>
+   <genres>
+      <genre>Documentary</genre>
+   </genres>
+   <authors>
+      <author>Astra Taylor</author>
+   </authors>
+   <directors>
+      <director>Astra Taylor</director>
+   </directors>
+   <origins>
+      <origin>Canada</origin>
+   </origins>
+   <actors>
+      <actor>K. Anthony Appiah</actor>
+      <actor>Judith Butler</actor>
+   </actors>
+   <release_date>February 25, 2009</release_date>
+   <running_time>87</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>Slovenian-born writer-teacher Slavoj Zizek, narrator of the movie "A Pervert's Guide to the Cinema," provides the most entertainment.</snippet>
+         <url>http://www.nypost.com/seven/02252009/entertainment/movies/public_displays_of_reflection_156837.htm</url>
+         <critic>V.A. Musetto</critic>
+      </review>
+      <review>
+         <snippet>By conducting her conversations in public spaces, and removing her interlocutors from desks and offices and book-lined studies and other appurtenances of intellectual authority, Taylor introduces a degree of playfulness and unpredictability that becomes the movie's M.O.</snippet>
+         <url>http://www.salon.com/ent/movies/btm/feature/2009/02/26/examined_life/index.html</url>
+         <critic>Andrew O&amp;#039;Hehir</critic>
+      </review>
+      <review>
+         <snippet>Stimulating film, enlivened by creative location shooting.</snippet>
+         <url>http://www.variety.com/review/VE1117938619.html?categoryid=2863&amp;cs=1&amp;query=examined+life</url>
+         <critic>Rob Nelson</critic>
+      </review>
+      <review>
+         <snippet>Ideas beam out from Astra Taylor's engaging new philoso-doc Examined Life; the viewer basks in the intelligence on-screen and, occasionally, soaks up the rays.</snippet>
+         <url>http://www.villagevoice.com/2009-02-25/film/examined-life-according-to-slavoj-142-i-158-ek-and-crew/</url>
+         <critic>J. Hoberman</critic>
+      </review>
+      <review>
+         <snippet>Over the course of the film's 88-minutes, Taylor cuts away to what's happening around her subjects (the unexamined life, I suppose). Perhaps she's attempting to make connections the thinkers don't.</snippet>
+         <url>http://www.boston.com/ae/movies/articles/2009/04/03/from_lost_in_thought_to_true_dialogue/</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>It won't be everybody's idea of entertainment but the heady documentary "Examined Life" provides a sound forum for an influential cross-section of professional thinkers to theorize on such weighty topics as life and death, politics, the environment and disabilities.</snippet>
+         <url>http://www.latimes.com/entertainment/news/la-et-capsules1-2009may01,0,3398915.story</url>
+         <critic>Gary Goldstein</critic>
+      </review>
+      <review>
+         <snippet>A modest, intermittently engaging film.</snippet>
+         <url>http://movies.nytimes.com/2009/02/25/movies/25exam.html?ref=movies</url>
+         <critic>A.O. Scott</critic>
+      </review>
+   </reviews>
+   <US_Gross>$120,712</US_Gross>
+   <weekend_gross>$17,288</weekend_gross>
+   <number_of_screens>1</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

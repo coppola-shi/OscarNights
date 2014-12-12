@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Happily Ever After</name>
+   <company>Kino International</company>
+   <genres>
+      <genre>Comedy</genre>
+      <genre>Drama</genre>
+      <genre>Foreign</genre>
+   </genres>
+   <authors>
+      <author>Yvan Attal</author>
+   </authors>
+   <directors>
+      <director>Yvan Attal</director>
+   </directors>
+   <origins>
+      <origin>France</origin>
+   </origins>
+   <actors>
+      <actor>Charlotte Gainsbourg</actor>
+      <actor>Yvan Attal</actor>
+      <actor>Alain Chabat</actor>
+      <actor>Alain Cohen</actor>
+      <actor>Emmanuelle Seigner</actor>
+      <actor>Angie David</actor>
+      <actor>Anouk Aimée</actor>
+      <actor>Claude Berri</actor>
+   </actors>
+   <release_date>April 8, 2005</release_date>
+   <running_time>100</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>Gives moviegoers a funny, observant, evanescent approach to the mysteries of human desire.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/moviereviews/story/297733p-254819c.html</url>
+         <critic>Jami Bernard</critic>
+      </review>
+      <review>
+         <snippet>Stylish and only superficially superficial, Happily Ever After plunks us down with three male friends as they dance on the edge of their 40s.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=8159</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>With husband and wife starring, you can't help but wonder which details here are autobiographical. No matter: This is obviously a deeply personal work for Attal, whose comic timing and passion can only serve him well both on screen and off.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-050728-movies-review-happily,0,6356150.story?coll=mmx-movies_top_heds</url>
+         <critic>Allison Benedikt</critic>
+      </review>
+      <review>
+         <snippet>Happily Ever After is an exhilarating, joyous picture, but it's sometimes terrifying, too. It offers a vision of marriage as an adventure we embark on together, alone. If you didn't cry, you'd laugh.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2005/04/08/happily/index.html</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>A marital comedy as perceptive as it is delectable.</snippet>
+         <url>http://sfgate.com/cgi-bin/article.cgi?f=/c/a/2005/06/17/DDGTID9GG01.DTL&amp;type=movies</url>
+         <critic>Ruthe Stein</critic>
+      </review>
+      <review>
+         <snippet>It's French. It's sexy. It's got a killer soundtrack.</snippet>
+         <url>http://www.washingtonpost.com/wp-dyn/content/article/2005/06/16/AR2005061600704.html</url>
+         <critic>Michael O&amp;#039;Sullivan</critic>
+      </review>
+      <review>
+         <snippet>If this strikes some as some kind of gallingly blasé, ostentatious Parisian sophistication, it's far from it.</snippet>
+         <url>http://www.calendarlive.com/movies/chocano/cl-et-happily6may06,2,4855610.story</url>
+         <critic>Carina Chocano</critic>
+      </review>
+      <review>
+         <snippet>The most important aspect of the stories about all five characters is the way they are told. Attal and his editor Jennifer Augé have found an attractive playful style: they never let the stories rest, almost juggling them, and keep them gamboling before us.</snippet>
+         <url>http://www.tnr.com/doc.mhtml?i=20050425&amp;s=kauffmann042505</url>
+         <critic>Stanley Kauffmann</critic>
+      </review>
+      <review>
+         <snippet>Nobody does adultery in movies with more style and zest than the French, especially when the mode is frivolous. And anyone who watches Happily Ever After can identify with the grass-is-always-greener daydreams that haunt its characters.</snippet>
+         <url>http://movies2.nytimes.com/2005/04/08/movies/08happ.html</url>
+         <critic>Stephen Holden</critic>
+      </review>
+      <review>
+         <snippet>You need a scorecard to keep track of who's bedding whom in Happily Ever After, a tres French take on sex and love, in that order.</snippet>
+         <url>http://www.nypost.com/movies/42259.htm</url>
+         <critic>V.A. Musetto</critic>
+      </review>
+      <review>
+         <snippet>Where My Wife was offbeat and original, Happily Ever After gets bogged down in midlife-crisis cliches.</snippet>
+         <url>http://ae.philly.com/entertainment/ui/philly/movie.html?id=346136&amp;reviewId=18941</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>Manages to be a diverting and funny character study, at least most of the time.</snippet>
+         <url>http://www.washingtonpost.com/wp-dyn/content/article/2005/06/16/AR2005061601340.html</url>
+         <critic>Ann Hornaday</critic>
+      </review>
+      <review>
+         <snippet>On the whole, the film is a shallow, shrill, and all-too-familiar marital roundelay.</snippet>
+         <url>http://redesign.theonion.com/avclub/node/25084</url>
+         <critic>Keith Phipps</critic>
+      </review>
+      <review>
+         <snippet>Gainsbourg has some cute scenes with Johnny Depp, a debonair stranger she meets in a Virgin Megastore, but otherwise this is a fairly banal installment in the battle of the sexes.</snippet>
+         <url>http://spacefinder.chicagoreader.com/movies/briefs/28322_HAPPILY_EVER_AFTER_ATTAL.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>There's nothing much wrong with the film; my complaint is that there's nothing much right about it.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20050728/REVIEWS/50713004</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>Attal's characters are one-note position statements, which forces the unsubtle soundtrack - mostly American pop songs that range from the Velvet Underground's "Sunday Morning" to Radiohead's "Creep" - to bear the brunt of clarifying their thoughts and feelings. Without it, you'd be entirely in the dark.</snippet>
+         <url>http://tvguide.com/movies/database/showmovie.asp?MI=46006</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>This is an affair to forget.</snippet>
+         <url>http://ae.miami.com/entertainment/ui/miami/movie.html?id=346136&amp;reviewId=18994</url>
+         <critic>Marta Barber</critic>
+      </review>
+      <review>
+         <snippet>The movie is kind of a mess – all over the place tonally, hastily paced, and overly reliant on the ostensible truisms of romantic comedy.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A293619</url>
+         <critic>Marrit Ingman</critic>
+      </review>
+      <review>
+         <snippet>Repetitive and needlessly prolonged tale does build to an inspired final scene, but it's too little, too late.</snippet>
+         <url>http://www.variety.com/review/VE1117924701?categoryid=31&amp;cs=1</url>
+         <critic>Lisa Nesselson</critic>
+      </review>
+      <review>
+         <snippet>This look at the assorted struggles of modern hetero coupledom gives off a distinctly moldy aroma.</snippet>
+         <url>http://www.laweekly.com/film/film_results.php?showid=3386&amp;Sumbit.x=37&amp;Sumbit.y=14</url>
+         <critic>Ernest Hardy</critic>
+      </review>
+      <review>
+         <snippet>This would-be comedy about a thirtysomething family man (Attal) and his foray into infidelity is probably the worst in the putrid bushel of recent Gallic imports.</snippet>
+         <url>http://www.villagevoice.com/film/0514,tracking2,62712,20.html</url>
+         <critic>David Ng</critic>
+      </review>
+   </reviews>
+   <US_Gross>$252,341</US_Gross>
+   <weekend_gross>$9,695</weekend_gross>
+   <number_of_screens>1</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

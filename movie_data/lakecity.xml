@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Lake City</name>
+   <company>Screen Media Films</company>
+   <genres>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author>Hunter Hill</author>
+      <author>Perry Moore</author>
+   </authors>
+   <directors>
+      <director>Hunter Hill</director>
+      <director>Perry Moore</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Sissy Spacek</actor>
+      <actor>Troy Garity</actor>
+      <actor>Rebecca Romijn</actor>
+      <actor>David Matthews</actor>
+      <actor>Keith Carradine</actor>
+      <actor>Allison Sarofim</actor>
+      <actor>Colin Ford</actor>
+      <actor>Drea De Matteo</actor>
+   </actors>
+   <release_date>November 21, 2008</release_date>
+   <running_time>92</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>The film is effective in its intimate moments as well as its violent set pieces, and it could attract audiences, primarily because of Spacek's superb performance.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?rid=11038</url>
+         <critic>Stephen Farber</critic>
+      </review>
+      <review>
+         <snippet>Garity, son of Jane Fonda and Tom Hayden, gives the kind of performance rarely seen in today's movies.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/391705_lakecity12q.html</url>
+         <critic>Bill White</critic>
+      </review>
+      <review>
+         <snippet>A respectable and fairly decent movie.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2008/12/05/DD5G14GRG8.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>The astonishingly inept finish could serve as a primer in screenwriting classes on how not to wind up a family drama.</snippet>
+         <url>http://www.csmonitor.com/2008/1122/p25s09-almo.html</url>
+         <critic>Robert Koehler</critic>
+      </review>
+      <review>
+         <snippet>The story is as impersonal as it is labored.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20241379,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>All the performers are fine--even the miscast Romijn--but they're still too much like actors playing dress-up.</snippet>
+         <url>http://www.avclub.com/content/cinema/lake_city</url>
+         <critic>Noel Murray</critic>
+      </review>
+      <review>
+         <snippet>The only thing saving Lake City from total ridiculousness is Spacek.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A708563</url>
+         <critic>Josh Rosenblatt</critic>
+      </review>
+      <review>
+         <snippet>Added to the general torpidity and twangy tropes of this Southern family drama is the discomfort of watching a natural actor (Garity) force it.</snippet>
+         <url>http://www.villagevoice.com/2008-11-19/film/lake-city-flooded-with-twangy-tropes-and-torpidity/</url>
+         <critic>Michelle Orange</critic>
+      </review>
+      <review>
+         <snippet>One of those Deep Dark Secret movies, the dull indie Lake City combines a wholly uninteresting family mystery with a wholly unconvincing crime drama.</snippet>
+         <url>http://www.nypost.com/seven/11212008/entertainment/movies/lake_city_139923.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>Only natural spitfire Spacek, as the pickup-driving mom of the land, feels fresh. There's even a mouthy kid Garity is "taking care of" - guess whose son he is?</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2008/11/21/2008-11-21_movies_opening_this_weekend_special_lake.html</url>
+         <critic>Joe Neumaier</critic>
+      </review>
+      <review>
+         <snippet>Feels like a movie whose story was slapped together during filming. Its three phases -- Southern pastorale, Sudsville and Kablooie -- don’t really connect.</snippet>
+         <url>http://movies.nytimes.com/2008/11/21/movies/21lake.html?ref=movies</url>
+         <critic>Stephen Holden</critic>
+      </review>
+      <review>
+         <snippet>Moore and Hill's script plunges Spacek in a mawkish stew of banality and improbability composed of bits and pieces of earlier roles.</snippet>
+         <url>http://www.variety.com/review/VE1117937202.html?categoryid=31&amp;cs=1&amp;query=lake+city</url>
+         <critic>Ronnie Scheib</critic>
+      </review>
+   </reviews>
+   <US_Gross>$12,686</US_Gross>
+   <weekend_gross>$9,355</weekend_gross>
+   <number_of_screens>1</number_of_screens>
+   <oscar_winning_actors_present/>
+   <num_oscar_winning_actors>1</num_oscar_winning_actors>
+   <oscar_winning_actor>sissy spacek</oscar_winning_actor>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

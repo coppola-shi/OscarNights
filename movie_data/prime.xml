@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Prime</name>
+   <company>Universal Pictures</company>
+   <genres>
+      <genre>Comedy</genre>
+      <genre>Drama</genre>
+      <genre>Romance</genre>
+   </genres>
+   <authors>
+      <author>Ben Younger</author>
+   </authors>
+   <directors>
+      <director>Ben Younger</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Uma Thurman</actor>
+      <actor>Meryl Streep</actor>
+      <actor>Bryan Greenberg</actor>
+      <actor>Jon Abrahams</actor>
+      <actor>Adriana Biasi</actor>
+      <actor>David Younger</actor>
+      <actor>Palmer Brown</actor>
+      <actor>Zak Orth</actor>
+   </actors>
+   <release_date>October 28, 2005</release_date>
+   <running_time>106</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>A prime example of a solid romantic comedy.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1001264596</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>You don't have to be Jewish to enjoy this light romantic comedy, but it helps.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A303138</url>
+         <critic>Marc Savlov</critic>
+      </review>
+      <review>
+         <snippet>Younger knows it's fun to watch Rafi and David cross lines of age, culture and religion. He also knows it's painful. That's what makes his movie hilarious and heartfelt.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/_/id/7371430?pageid=rs.ReviewsMovieArchive&amp;pageregion=mainRegion</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>There are some one-liners that zing not only with humor but truth. On the whole I was satisfied.</snippet>
+         <url>http://www.rogerebert.com/apps/pbcs.dll/article?AID=/20051027/REVIEWS/510270305/1023</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>Prime serves as yet another showcase for Streep; to prove how expertly she plays a Jewish mother with a Ph.D. in psychology, just imagine Barbra Streisand in the role -- you'd have a farce only a step above slapstick. With Streep, you get a smartly observant comedy that never overplays its hand.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-to.prime28oct28,1,7415145.story?coll=bal-movies-utility</url>
+         <critic>Chris Kaltenbach</critic>
+      </review>
+      <review>
+         <snippet>Yes, Younger has made an update of the ''shiksa who changed my life" story in ''Annie Hall." But Prime is missing the psychological acuity and scabrous cultural wit of Woody Allen at his best. These lovers meet standing in line to see Antonioni's ''Blow-Up" and never mention the movie.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=8145</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>Prime may have its unlikely moments, but overall its heart is winningly untraditional and in exactly the right place.</snippet>
+         <url>http://ae.miami.com/entertainment/ui/miami/movie.html?id=441353&amp;reviewId=19267&amp;startDate=10%2F28%2F2005</url>
+         <critic>Connie Ogle</critic>
+      </review>
+      <review>
+         <snippet>This may sound like Woody Allen - in fact, it often feels like Woody Allen (minus the expected helpings of angst) - but it's not. Prime is from writer/director Ben Younger and, while it's not up to the level of Allen's great romantic comedies ("Annie Hall," "Manhattan"), it's better than anything the acclaimed New York auteur has brought to the screen in recent years.</snippet>
+         <url>http://movie-reviews.colossus.net/movies/p/prime.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>The real revelation here is Streep, who spends every moment comically negotiating her conflicted impulses.</snippet>
+         <url>http://spacefinder.chicagoreader.com/movies/critic.html#28837</url>
+         <critic>Jonathan Rosenbaum</critic>
+      </review>
+      <review>
+         <snippet>Despite the snappy brilliance of the setup, Prime doesn't entirely deliver on its promise -- something about the way it ends feels like a cop-out, and the opportunities for humor aren't exploited quite as well as they could be.</snippet>
+         <url>http://www.calendarlive.com/movies/chocano/cl-et-prime28oct28,0,4555379.story</url>
+         <critic>Carina Chocano</critic>
+      </review>
+      <review>
+         <snippet>Prime is neither deep nor as shallow as it first threatens to be, but surprisingly good fun.</snippet>
+         <url/>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>Sure, this romance, starring Meryl Streep, Uma Thurman and Bryan Greenberg, follows a familiar boy-meets-girl scenario, but Younger turns the routine into combustible fun.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1106099</url>
+         <critic>Desson Thomson</critic>
+      </review>
+      <review>
+         <snippet>Frankly, the most disturbing thing about Prime is that Uma Thurman is now officially an Older Woman.</snippet>
+         <url>http://www.csmonitor.com/2005/1028/p14s02-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>The sort of movie where all of the best jokes are in the trailer, but these days a romantic comedy with anything worth quoting at all is something of an accomplishment.</snippet>
+         <url>http://www.nypost.com/movies/56280.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>Despite its title, Prime is not a cut above. This romantic comedy's predictability and rather dull love story make it the cinematic equivalent of a slightly stale hamburger.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2005-10-27-prime_x.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>All of this makes the movie pleasant, but not very memorable - a pale mirror image of "Shopgirl," which touches on some similar themes.</snippet>
+         <url>http://movies2.nytimes.com/2005/10/28/movies/28prim.html</url>
+         <critic>Dana Stevens</critic>
+      </review>
+      <review>
+         <snippet>Despite a comic Yiddishe mama turn by Meryl Streep and a sensitively nuanced performance by Uma Thurman in a convincing changeup from her recent kickass action roles, Prime remains an oddly juiceless older woman-younger man romance, with a Freudian twist.</snippet>
+         <url>http://www.variety.com/review/VE1117928502?categoryid=31&amp;cs=1</url>
+         <critic>Ronnie Scheib</critic>
+      </review>
+      <review>
+         <snippet>Now that Woody Allen is no longer making acceptable Woody Allen movies, it's surprising we're not seeing more comedies like Prime, a slight but well-meaning picture that strives for the same kind of pleasurably neurotic sophistication that Allen, at his best, used to give us.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2005/10/28/prime/index.html</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>Unfortunately, this rich story about actual adults takes up maybe a third of Prime. The rest of the time, we're hanging with David and Rafi as they act out relationship cliches.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/1130405275233461.xml&amp;coll=7</url>
+         <critic>Mike Russell</critic>
+      </review>
+      <review>
+         <snippet>Not one bit of the story tracks. But with these women in these roles, you're asking for truth?</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1123045_1_0_,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>Younger, for whatever reason, simply can't abide their happiness, and so he destructs the relationship from time to time for no reason, using plot devices that wouldn't have been out of place in episodes of "Three's Company."</snippet>
+         <url>http://dallasobserver.com/Issues/2005-10-27/film/film3.html</url>
+         <critic>Robert Wilonsky</critic>
+      </review>
+      <review>
+         <snippet>On and on drags this amour fou, with its one-liners, ripostes, elaborate misunderstandings and chastened reaction shots, all courtesy of writer-director Ben Younger, straining to let out his inner femme after the testosterone excesses of "Boiler Room."</snippet>
+         <url>http://www.laweekly.com/film/film_results.php?showid=3632&amp;Sumbit.x=62&amp;Sumbit.y=14</url>
+         <critic>Ella Taylor</critic>
+      </review>
+      <review>
+         <snippet>Greenberg and Thurman are both engaging, but they can't quite compensate for their characters' shallowness. Streep, on the other hand, just can't stop compensating. Her oy-vey-can-you-believe-the-kid-and-his-shiksa performance is all studied mannerisms with no real heart.</snippet>
+         <url>http://avclub.com/content/node/41977</url>
+         <critic>Tasha Robinson</critic>
+      </review>
+      <review>
+         <snippet>I found nothing likable or funny about either of these characters, who both deserve a pie in the face. (One of them even gets it.)</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-0501028-movies-review-prime,0,7021771.story?coll=mmx-movies_top_heds</url>
+         <critic>Michael Wilmington</critic>
+      </review>
+      <review>
+         <snippet>A romantic saga that dares to ask realistic questions.</snippet>
+         <url>http://sfgate.com/cgi-bin/article.cgi?f=/c/a/2005/10/28/DDG17FEJ631.DTL&amp;type=movies</url>
+         <critic>Ruthe Stein</critic>
+      </review>
+      <review>
+         <snippet>Prime seems aimed at prime-time television, with endless iterations on the same theme of "frustrated relationship" that will finally get resolved during sweeps week in the season before cancellation. Call it: My Mama, the Shrink.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/ArticleNews/TPStory/LAC/20051028/PRIME28/TPEntertainment/Film</url>
+         <critic>Liam Lacey</critic>
+      </review>
+      <review>
+         <snippet>The occasionally amusing, generally fatuous romantic comedy about a dazzling divorcee, a smitten Jewish boy and a controlling Jewish mom who also happens to be the divorcee's psychotherapist, is a high-concept movie with a Yiddish accent.</snippet>
+         <url>http://www.nydailynews.com/10-28-2005/entertainment/col/story/360066p-306587c.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>The film's greatest asset, however, is its unusually authentic use of Manhattan locations: Younger clearly knows New York much better than the topography of the human heart.</snippet>
+         <url>http://online.tvguide.com/movies/database/ShowMovie.asp?MI=46063</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>This has the raw material for a decent rom-com, but the aimless structure and ambiguous tone undermine both humour and romance.</snippet>
+         <url>http://www.empireonline.com/incinemas/reviewcomplete.asp?FID=132956</url>
+         <critic>Anna Smith</critic>
+      </review>
+      <review>
+         <snippet>Not quite a romance by numbers, Prime is nevertheless a movie we need like a hole in the head.</snippet>
+         <url>http://www.villagevoice.com/film/0543,tracking7,69417,20.html</url>
+         <critic>Ben Kenigsberg</critic>
+      </review>
+      <review>
+         <snippet>The sheer absurdity of the presented relationship is redeemed by a sort of surprise ending, but by the time it arrives, you wish it had come sooner, as the pain of viewing has already been interminably long.</snippet>
+         <url>http://www.premiere.com/article.asp?section_id=2&amp;article_id=2355</url>
+         <critic>Ryan Devlin</critic>
+      </review>
+      <review>
+         <snippet>It has the low-budget look and feel of an indie dating comedy -- and not a very good one at that.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/246188_prime28q.html</url>
+         <critic>William Arnold</critic>
+      </review>
+   </reviews>
+   <US_Gross>$22,827,153</US_Gross>
+   <weekend_gross>$6,220,935</weekend_gross>
+   <number_of_screens>1,827</number_of_screens>
+   <oscar_winning_actors_present/>
+   <num_oscar_winning_actors>1</num_oscar_winning_actors>
+   <oscar_winning_actor>meryl streep</oscar_winning_actor>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

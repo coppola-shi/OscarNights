@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Forty Shades of Blue</name>
+   <company>First Look Pictures</company>
+   <genres>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author>Michael Rohatyn</author>
+      <author>Ira Sachs</author>
+   </authors>
+   <directors>
+      <director>Ira Sachs</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Rip Torn</actor>
+      <actor>Dina Korzun</actor>
+      <actor>Darren E. Burrows</actor>
+      <actor>Paprika Steen</actor>
+      <actor>Red West</actor>
+   </actors>
+   <release_date>September 28, 2005</release_date>
+   <running_time>108</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>Delicate, intelligent and honest.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/ArticleNews/TPStory/LAC/20060127/REPWATCH27/TPEntertainment/Film</url>
+         <critic>Kate Taylor</critic>
+      </review>
+      <review>
+         <snippet>A compelling family melodrama somewhat in the manner of late John Cassavetes or early Robert Altman…the film combines high production values, terrific acting and a distinctively American lyricism in a combination you hardly ever see these days.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2005/09/22/btm/index3.html?CP=IMD&amp;DN=110</url>
+         <critic>Andrew O&amp;#039;Hehir</critic>
+      </review>
+      <review>
+         <snippet>Alan, who Mr. Sachs has said was based on his own father, is a great character - passionate, complicated, bursting with life. Those words also describe Mr. Torn's performance.</snippet>
+         <url>http://www.nytimes.com/2005/09/28/movies/28blue.html</url>
+         <critic>Dana Stevens</critic>
+      </review>
+      <review>
+         <snippet>Director Ira Sachs moves to the rhythms of his native Memphis, teasing emotional resonance out of geography.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1116760_1_0_,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>The song may be somewhat familiar, but Sach gets understated performances from his entire cast and finds interesting harmonies as they play out their clashing duets.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/249510_limited25.html</url>
+         <critic>Sean Axmaker</critic>
+      </review>
+      <review>
+         <snippet>Investing a lot of time on each corner of his three-sided character piece, director Ira Sachs (who co-wrote the film with Michael Rohatyn) has created a film as dramatically intense as it is opaque.</snippet>
+         <url>http://avclub.com/content/node/41291</url>
+         <critic>Keith Phipps</critic>
+      </review>
+      <review>
+         <snippet>This is still powerful, undiluted stuff -- a jolt of backwoods moonshine whiskey injected into the veins of the atrophied American relationship drama.</snippet>
+         <url>http://www.laweekly.com/film/film_results.php?showid=3596&amp;Sumbit.x=52&amp;Sumbit.y=13</url>
+         <critic>Scott Foundas</critic>
+      </review>
+      <review>
+         <snippet>Sachs has pulled off a film of inferences and intimations, thanks largely to the casting of accomplished actors.</snippet>
+         <url>http://www.calendarlive.com/printedition/calendar/cl-et-forty7oct07,0,7663435.story</url>
+         <critic>Kevin Thomas</critic>
+      </review>
+      <review>
+         <snippet>Rip Torn gives his best performance in years.</snippet>
+         <url>http://www.nypost.com/movies/54251.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>A slow seduction.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2005/10/14/DDG7VF7E1K1.DTL&amp;type=movies</url>
+         <critic>Ruthe Stein</critic>
+      </review>
+      <review>
+         <snippet>I despised the character of Alan James so sincerely that I had to haul back at one point to remind myself that, hey, I've met Rip Torn and he's a nice guy and he's only acting.</snippet>
+         <url>http://www.rogerebert.com/apps/pbcs.dll/article?AID=/20051103/REVIEWS/51013001/1023</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>A muted but nicely observed study of a Russian woman's gradual estrangement from her domineering Memphis music-legend husband.</snippet>
+         <url>http://www.variety.com/index.asp?layout=sundance2005&amp;nav=reviews&amp;content=reviews&amp;reviewid=VE1117925951&amp;categoryid=1865&amp;cs=</url>
+         <critic>Todd McCarthy</critic>
+      </review>
+      <review>
+         <snippet>It's Korzun's film, and she is in complete control of her character, never divulging too much of the haunted woman under the studied facade of American hotsiness.</snippet>
+         <url>http://www.villagevoice.com/film/0539,atkinson1,68227,20.html</url>
+         <critic>Michael Atkinson</critic>
+      </review>
+      <review>
+         <snippet>A drab, minor-key melodrama.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1000770804</url>
+         <critic>Duane Byrge</critic>
+      </review>
+      <review>
+         <snippet>Repetitive interaction between characters in an aimless story can't hold up the film's weight, and it eventually collapses on its noble attempt to capture life's frustrations and compromises.</snippet>
+         <url>http://www.filmthreat.com/Reviews.asp?Id=6830</url>
+         <critic>Jeremy Mathews</critic>
+      </review>
+      <review>
+         <snippet>Rip Torn and Darren Burrows respectively over- and underplay their hands in this archly restrained Memphis melodrama.</snippet>
+         <url>http://www.empireonline.com/reviews/review.asp?FID=133823</url>
+         <critic>Patrick Peters</critic>
+      </review>
+   </reviews>
+   <US_Gross>$75,828</US_Gross>
+   <production_budget>$1,500,000</production_budget>
+   <weekend_gross>$11,940</weekend_gross>
+   <number_of_screens>3</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

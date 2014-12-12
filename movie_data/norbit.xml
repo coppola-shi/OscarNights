@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Norbit</name>
+   <company>DreamWorks SKG</company>
+   <genres>
+      <genre>Comedy</genre>
+      <genre>Romance</genre>
+   </genres>
+   <authors>
+      <author>Jay Scherick</author>
+      <author>David Ronn</author>
+      <author>Eddie Murphy</author>
+      <author>Charles Q. Murphy</author>
+   </authors>
+   <directors>
+      <director>Brian Robbins</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Eddie Murphy</actor>
+      <actor>Thie Newton</actor>
+      <actor>Terry Crews</actor>
+      <actor>Clifton Powell</actor>
+      <actor>Mighty Rasta</actor>
+      <actor>Cuba Gooding Jr.</actor>
+      <actor>Eddie Griffin</actor>
+      <actor>Katt Williams</actor>
+   </actors>
+   <release_date>February 9, 2007</release_date>
+   <running_time>95</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>If Eddie Murphy gets an Oscar for "Dreamgirls" later this month, the deciding factor with voters may be his performance in Norbit. It's much more impressive than anything he does in "Dreamgirls."</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2007/02/09/DDGNPO0HON1.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>Although there's no denying the threadbare nature of the script, watching Murphy riff can be a formidable entertainment on its own.</snippet>
+         <url>http://ae.miami.com/entertainment/ui/miami/movie.html;jsessionid=1BE31E7211C09FC5349AB131DAE5CA1F.prodapp14_ae_01?id=802528&amp;reviewId=22173&amp;startDate=02%2F09%2F2007</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>The question is not whether Murphy can do anything. He can. The question is why he would want to make a movie as squirmingly unfunny as Norbit.</snippet>
+         <url>http://ae.philly.com/entertainment/ui/philly/movie.html?id=802528&amp;reviewId=22175</url>
+         <critic>Carrie Rickey</critic>
+      </review>
+      <review>
+         <snippet>The fun in Norbit is watching Murphy at work – the guy has a knack for bringing the physicality of his comic characters to life.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A443314</url>
+         <critic>Steve Davis</critic>
+      </review>
+      <review>
+         <snippet>With his brazen gifts for mimicry, Eddie Murphy may now be the Peter Sellers of blockbuster toilet comedy movies.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-070209-movies-review-norbit,0,2191700.story?coll=mmx-movies_top_heds</url>
+         <critic>Michael Wilmington</critic>
+      </review>
+      <review>
+         <snippet>Norbit might have worked if it had fully committed to being over the top or made Rasputia the lead character and found the human inside the cartoon. Instead, the movie doesn't give us anyone to care about.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/117089791997730.xml&amp;coll=7</url>
+         <critic>M. E. Russell</critic>
+      </review>
+      <review>
+         <snippet>Now we get a lazy Eddie in Norbit, a lackluster attempt to make a gross-out romantic comedy.  When I say lazy Eddie, I mean imaginatively lazy.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-to.norbit09feb09,0,1465156.story?coll=bal-artslife-movies</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>There are so many problems with Norbit that when you try to pin one down, another one splooges out elsewhere.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2007/02/09/norbit/index.html</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>Not exactly uproarious. But Mr. Murphy, going back at least to his Gumby and Buckwheat days on "Saturday Night Live," has always had the ability to turn broad caricature into something stranger and more inventive.</snippet>
+         <url>http://www.nytimes.com/2007/02/09/movies/09norb.html?ref=movies</url>
+         <critic>A.O. Scott</critic>
+      </review>
+      <review>
+         <snippet>Norbit is pretty much a bad-taste sinkhole.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20070208.wnorbit09/BNStory/Entertainment/home</url>
+         <critic>Liam Lacey</critic>
+      </review>
+      <review>
+         <snippet>The only recommendable thing about Norbit is that he's not as bad as every other person in this movie.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=9380</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>Much of the movie -- which Murphy wrote with a small posse of collaborators -- is taken up with the torturously dull, not to mention unbelievable, romance between Norbit and Kate (a disappointingly lackluster Newton) and the tedious agenda of Cuba Gooding Jr. as a schemer-manipulator.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1126279&amp;categories=Movies&amp;nm=1</url>
+         <critic>Desson Thomson</critic>
+      </review>
+      <review>
+         <snippet>Murphy's story lacks even the basic form that held most of "The Nutty Professor" together.</snippet>
+         <url>http://www.variety.com/review/VE1117932718.html?categoryid=31&amp;cs=1</url>
+         <critic>Robert Koehler</critic>
+      </review>
+      <review>
+         <snippet>This dismal comedy joins a growing pile of Murphy disasters.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/31081_NORBIT.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>While there are some scattered laughs, the flimsy and nonsensical script - combined with the sledgehammer direction by Brian Robbins, make the similarly themed "Big Momma's House" look like Noel Coward.</snippet>
+         <url>http://www.nypost.com/seven/02092007/entertainment/movies/oscar__fat_chance_movies_lou_lumenick.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>Murphy speaks in a breathy lisp, as if his mouth had been partially buttoned shut, and he doesn't give himself the nerd's traditional redeeming feature of a geeky, slide-rule intellect. Norbit, all frozen gawk, is just a very dim bulb.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20010657,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>It's hard to know who is the intended audience for this misguided mess.</snippet>
+         <url>http://www.nydailynews.com/02-09-2007/entertainment/movies/story/495870p-417849c.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>Mean-spirited and depressing, this horror movie in comedy disguise delights in the twin spectacles of morbid obesity and domestic abuse, of which children are often the target.</snippet>
+         <url>http://tvguide.com/detail/movie.aspx?tvobjectid=285795&amp;more=ucmoviereview</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>It's crass, cruel, and borderline offensive, but the laughs that could redeem all of that are missing. Material as bad as the tripe that comprises Norbit can be endured only if there's a payoff. In this case, the point seems to be that some actors will do anything for a buck.</snippet>
+         <url>http://www.reelviews.net/movies/n/norbit.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>Stereotype-based comedy from Eddie Murphy in a variety of fat suits is just not enough to make a decent film.</snippet>
+         <url>http://www.empireonline.com/reviews/review.asp?FID=11146</url>
+         <critic>Tony Horkins</critic>
+      </review>
+      <review>
+         <snippet>Murphy and his brother Charlie, who collaborated on the screenplay, seem to have drawn the wrong lesson from the latter's stint on "Chappelle's Show." Where Dave Chappelle used stereotypes to confront prejudice, the Murphys (and their co-screenwriters Jay Scherick and David Ronn) merely squeeze a few grudging drops from caricatures that were wrung dry in the age of vaudeville.</snippet>
+         <url>http://www.calendarlive.com/printedition/calendar/cl-et-norbit9feb09,0,1660563.story</url>
+         <critic>Sam Adams</critic>
+      </review>
+      <review>
+         <snippet>Racially insensitive, politically incorrect and beyond crude.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?JSESSIONID=FL2V4HrTyT34fwL21XkDb4rp886TtQ20RLY4y5Jf9xySyzwXnd6W!138060150&amp;&amp;rid=8775</url>
+         <critic>Luke Sader</critic>
+      </review>
+      <review>
+         <snippet>It's an astonishingly crass and vulgar film, crudely directed on a cut-rate budget by Brian Robbins, never more than almost funny or less than disturbing.</snippet>
+         <url>http://www.laweekly.com/film+tv/film-reviews/film-reviews/15634/</url>
+         <critic>Rob Nelson</critic>
+      </review>
+      <review>
+         <snippet>It's recidivist Murphy: bad-skit comedy populated by caricatures in search of a movie.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/302960_norbit09q.html</url>
+         <critic>Sean Axmaker</critic>
+      </review>
+      <review>
+         <snippet>There's enough material here to add another hour to Spike Lee's "reel of shame" in "Bamboozled," but hideously offensive black stereotypes are merely the tip of the iceberg.</snippet>
+         <url>http://www.avclub.com/content/node/58387</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>Compared to Norbit, “Date Movie” is "Casablanca." If I thought hijacking a plane carrying prints of the film and crashing it into Murphy’s house would put a stop to it, I’d go out and buy a box cutter right now.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=9740</url>
+         <critic>Pete Vonder Haar</critic>
+      </review>
+   </reviews>
+   <US_Gross>$95,673,607</US_Gross>
+   <weekend_gross>$34,195,434</weekend_gross>
+   <number_of_screens>3,136</number_of_screens>
+   <highest_grossing_actors_present/>
+   <num_highest_grossing_actors>1</num_highest_grossing_actors>
+   <highest_grossing_actor>eddie murphy</highest_grossing_actor>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

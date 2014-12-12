@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Explicit Ills</name>
+   <company>PeaceArch Entertainment</company>
+   <genres>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author>Mark Webber</author>
+   </authors>
+   <directors>
+      <director>Mark Webber</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Rosario Dawson</actor>
+      <actor>Paul Dano</actor>
+      <actor>Naomie Harris</actor>
+      <actor>Lou Taylor Pucci</actor>
+      <actor>Frankie Shaw</actor>
+      <actor>Tariq Trotter</actor>
+      <actor>Francisco Burgos</actor>
+   </actors>
+   <release_date>March 6, 2009</release_date>
+   <running_time>minutes,</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>Webber's way with his young cast is as unforced as the movie itself, which easily could have been overwrought and maudlin but is instead oddly affirming.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?rid=10877</url>
+         <critic>John DeFore</critic>
+      </review>
+      <review>
+         <snippet>Webber has a knack for bringing out actors at their showiest, but he palms off too much first-draft sketchiness as ''ambiguity.''</snippet>
+         <url>http://www.ew.com/ew/article/0,,20262889,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>There's a lot of rambling and shambling going on in these overlapping stories, often to the point where Explicit Ills no longer feels like it has a point.</snippet>
+         <url>http://www.philly.com/philly/entertainment/movies/20090313_An_indie_on_poverty_in_Philadelphia.html</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>As a look at the disenfranchised of America, Explicit Ills could use some work. As a debut, however, it's quite promising. I'm looking forward to seeing what Webber comes up with next.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=10827</url>
+         <critic>Pete Vonder Haar</critic>
+      </review>
+      <review>
+         <snippet>The lack of subtlety indicates that this is a first film, but the passion and insights are strong enough to make you wonder what he'll (Webber) do next.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2009/03/06/2009-03-06_short_takes_tokyo_explicit_ills.html?page=0</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>A tender ensemble slice of inner-city Philly life.</snippet>
+         <url>http://www.villagevoice.com/2009-03-04/film/explicit-ills-more-sweet-tempered-than-preachy/</url>
+         <critic>Aaron Hillis</critic>
+      </review>
+      <review>
+         <snippet>It's a beautiful message: surely there's no arguing with "Hey, hey, ho, ho, poverty has got to go!" But there is much to argue with, and much to regret, about a film whose director thinks he needs to drop an anvil on our heads when art would suffice.</snippet>
+         <url>http://movies.nytimes.com/2009/03/06/movies/06expl.html?ref=movies</url>
+         <critic>Manohla Dargis</critic>
+      </review>
+      <review>
+         <snippet>Undone by a deadly twofer: lack of trust in characterization coupled with single-minded faith in spelled-out messages.</snippet>
+         <url>http://www.latimes.com/entertainment/la-et-capsules20-2009mar20,0,1540792.story</url>
+         <critic>Robert Abele</critic>
+      </review>
+   </reviews>
+   <US_Gross>$28,564</US_Gross>
+   <weekend_gross>$9,125</weekend_gross>
+   <number_of_screens>1</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

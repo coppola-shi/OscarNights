@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Coraline</name>
+   <company>Focus Features</company>
+   <genres>
+      <genre>Animation</genre>
+      <genre>FamilyKids</genre>
+      <genre>Fantasy</genre>
+   </genres>
+   <authors>
+      <author>Henry Selick</author>
+   </authors>
+   <directors>
+      <director>Henry Selick</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Dakota Fanning</actor>
+      <actor>Teri Hatcher</actor>
+      <actor>Dawn French</actor>
+      <actor>Jennifer Saunders</actor>
+      <actor>Ian McShane</actor>
+   </actors>
+   <release_date>February 6, 2009</release_date>
+   <running_time>100</running_time>
+   <rating>PG</rating>
+   <reviews>
+      <review>
+         <snippet>This thrilling stop-motion animated adventure is a high point in Selick's career of creating handcrafted wonderlands of beauty blended with deep, disconcerting creepiness.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20256793,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>Selick's fantastical adaptation of Neil Gaiman's novel will be too dazzlingly rich for many; it'll be like "caviare to the general," as Hamlet said of a complex play enacted for a public with lazy minds.</snippet>
+         <url>http://events.charlotteobserver.com/reviews/show/39655-review-coraline</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>A classic fairy tale with a contemporary sensibility and a spooky horror under the candy-house fantasy.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/398960_coraline06q.html</url>
+         <critic>Sean Axmaker</critic>
+      </review>
+      <review>
+         <snippet>The results are nothing short of magical.</snippet>
+         <url>http://www.avclub.com/articles/coraline,23467/</url>
+         <critic>Tasha Robinson</critic>
+      </review>
+      <review>
+         <snippet>A remarkable feat of imagination, a magical tale with a genuinely sinister edge.</snippet>
+         <url>http://www.latimes.com/entertainment/news/reviews/la-et-coraline6-2009feb06,0,48501.story</url>
+         <critic>Kenneth Turan</critic>
+      </review>
+      <review>
+         <snippet>Thankfully, Coraline is appropriately dark, and like its inspiration, is only a children's movie by the thinnest of margins.</snippet>
+         <url>http://movies.tvguide.com/coraline/review/296459</url>
+         <critic>Tracie Cooper</critic>
+      </review>
+      <review>
+         <snippet>What a shrewd achievement for writer-director Henry Selick ("The Nightmare Before Christmas"), to have made a movie that everyone will acclaim as beautiful, when perhaps the most beautiful thing about it is the sheer ugliness of it all.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2009/02/05/DD9915MEGE.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>Terrifying and beautiful, believable and fantastical, this is one of the best children's films in years and Selick's finest -- better even than "The Nightmare Before Christmas."</snippet>
+         <url>http://www.empireonline.com/reviews/reviewcomplete.asp?FID=135815</url>
+         <critic>Helen O&amp;#039;Hara</critic>
+      </review>
+      <review>
+         <snippet>Coraline lingers in an atmosphere that is creepy, wonderfully strange and full of feeling.</snippet>
+         <url>http://movies.nytimes.com/2009/02/06/movies/06cora.html?ref=movies</url>
+         <critic>A.O. Scott</critic>
+      </review>
+      <review>
+         <snippet>This is a marvelous family story, tapping into all sorts of childhood dreams and nightmares involving Mommy, monsters and heroic youngsters. Selick's imaginative sets and puppets are in perfect pitch with Gaiman's fantasy.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film-reviews/film-review-coraline-1003936823.story</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>It pulls audiences into a meticulously detailed universe, familiar in many respects, wacked and menacing in many others.</snippet>
+         <url>http://www.chicagotribune.com/entertainment/movies/chi-0206-coraline-reviewfeb06,0,1812347.story</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>A macabre mystery for children and a cautionary tale for their folks, Coraline is a yarn - twisty, knotty, taut - about a perennially bored girl whose parents are too preoccupied with work to pay her much mind.</snippet>
+         <url>http://www.philly.com/inquirer/columnists/carrie_rickey/20090206_The_dream_parents__A_scary_notion_indeed.html</url>
+         <critic>Carrie Rickey</critic>
+      </review>
+      <review>
+         <snippet>This is perhaps the most effective 3-D movie I have ever seen, with a sophisticated, involving story that will appeal to many adults. The only reservation I have is with the PG rating, which seems too lenient for a story that may give very young children - particularly if they are sensitive - nightmares.</snippet>
+         <url>http://www.nypost.com/seven/02062009/entertainment/movies/darkness__delight_153736.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>The combination of 3-D photography and puppet-animation - centered on actual figures designed by hand and manipulated frame by frame - creates a world that's dense, active and fluid: a sensory Jacuzzi.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/reviews/bal-to.coraline06feb06,0,7760087.story</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>The story is creepy fun and 100-percent different than whatever other crap is flooding the February market.</snippet>
+         <url>http://www.premiere.com/Review/Movies/Coraline</url>
+         <critic>Jenni Miller</critic>
+      </review>
+      <review>
+         <snippet>Selick puts his real faith not in the gimmickry that Coraline's audiences will think they've shown up for, but in the stronger virtues that they'd likely view as old-fashioned: character, and story, and handmade figures, handmade milkshakes, handmade blades of grass, each one moving utterly persuasively as he and his animators tweak it, frame by frame.</snippet>
+         <url>http://www.npr.org/templates/story/story.php?storyId=100241705</url>
+         <critic>Bob Mondello</critic>
+      </review>
+      <review>
+         <snippet>For its sheer visual gusto alone, Coraline is a wonder.</snippet>
+         <url>http://blog.oregonlive.com/madaboutmovies/2009/02/coraline_locally_made_stopacti.html</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>Coraline is essentially faithful to the spirit of its source material. But it's also so visually inventive, and so elaborately tactile, that it stands apart as its own creation.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2009/02/06/coraline/</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>At the finale of this visual delight, every hired hand and technician also deserve acclaim.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=11557</url>
+         <critic>Matthew Sorrento</critic>
+      </review>
+      <review>
+         <snippet>Coraline is a beautifully designed, rather scary answered-prayer story.</snippet>
+         <url>http://www.newyorker.com/arts/critics/cinema/2009/03/02/090302crci_cinema_denby</url>
+         <critic>David Denby</critic>
+      </review>
+      <review>
+         <snippet>This eccentric and deliriously inventive fantasy finds stop-motion auteur Henry Selick scaling new heights of ghoulish whimsy, buoyed by a haunting score that works its own macabre magic.</snippet>
+         <url>http://www.variety.com/review/VE1117939524.html?categoryid=31&amp;cs=1</url>
+         <critic>Justin Chang</critic>
+      </review>
+      <review>
+         <snippet>Coraline Jones isn't the pluckiest or most ingratiating sprite ever to take center stage in a children's film, and her (mis)adventures aren't especially novel, but Coraline is still a consistent splendor to behold.</snippet>
+         <url>http://www.villagevoice.com/2009-02-04/film/coraline-in-wonderland/</url>
+         <critic>Scott Foundas</critic>
+      </review>
+      <review>
+         <snippet>Stays remarkably true to a kid's-eye perspective and dormant fears.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A735081</url>
+         <critic>Marjorie Baumgarten</critic>
+      </review>
+      <review>
+         <snippet>"The Corpse Bride" with teeth, Bruno Bettelheim retooled for the multiplex,
+a nightmare of daft and creative consequence. I really liked it.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=13059</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>This is a gloomy film with weird characters doing nasty things. I've heard of eating chocolate-covered insects, but not when they're alive.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20090204/REVIEWS/902049989</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>OK, sensitive tykes may be scared shitless. But those who tough it out with this twisted, trippy adventure in impure imagination will only be the better for it.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/18161203/review/25566260/coraline</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>Essentially a horror movie for kids, but it is also gentle and funny and whimsical, and even in its darkest moments, Selick never forgets who his target audience is. Still, some young children might have a nightmare or two after seeing it.</snippet>
+         <url>http://www.miamiherald.com/entertainment/movies/reviews/story/888848.html</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>The film has been crafted with a consideration that the best family movies appeal not only to a young target audience but to the parents who accompany their offspring to theaters.</snippet>
+         <url>http://www.reelviews.net/php_review_template.php?identifier=1472</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>Presented the usual way, the film would be enchanting. In 3-D, however, Coraline is completely engrossing. Selick uses the technique brilliantly to enhance the comedy and horror that mingle in his more "family-friendly" version of Gaiman's dark story.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20090205.wcoraline0206/BNStory/Entertainment/home</url>
+         <critic>Jennie Punter</critic>
+      </review>
+      <review>
+         <snippet>It's the first stop-motion feature filmed entirely in stereoscopic 3-D, and the technique makes Selick's artwork even more wondrously creepy. The problem is Gaiman's story, which keeps accumulating otherworldly mythology but doesn't establish a clear line of action in the home stretch.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/34095_CORALINE.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>Moment by moment, the film is a font of pleasures, yet there's something about it that keeps the audience at an aesthetic remove. Like Coraline in the doppelgänger world, we swoon over all the neat stuff without ever making ourselves at home.</snippet>
+         <url>http://www.slate.com/id/2210629/</url>
+         <critic>Dana Stevens</critic>
+      </review>
+      <review>
+         <snippet>An extraordinary achievement that nevertheless falls short of its full potential, Coraline is absolutely worth seeing, for older children and adults alike. But the connection will be entirely through your eyes; if you want it to touch your heart, you'll have to go to the book on which it's based.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2009/02/05/2009-02-05_coraline_is_stunning_stopmotion_but_need-1.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>This is the animated film as art film. Coraline doesn't try to ingratiate; it just looms, like a cemetery gate, daring curious souls to tiptoe in and fend for themselves.</snippet>
+         <url>http://www.time.com/time/arts/article/0,8599,1877435,00.html</url>
+         <critic>Richard Corliss</critic>
+      </review>
+      <review>
+         <snippet>Director Henry Selick is all too effective at conjuring grody ghastliness. He's less effective at giving that ghastliness a human dimension, a resonance, a reason for being beyond cheap thrills.</snippet>
+         <url>http://www.csmonitor.com/2009/0207/p25s04-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>Coraline is a plucky heroine, and director Selig's imagination is indisputable. But the story falters in parts, and its dark tone could be off-putting for children.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2009-02-05-coraline_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>Selick has a great fantasy filmmaker's artistry, but he lacks that overflowing Geppetto-esque love that brings puppets to life. In Coraline, he's woozy with his own lyricism.</snippet>
+         <url>http://nymag.com/movies/reviews/53785/</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>For all its visual delights, however, Coraline remains more an engaging spectacle than a connective drama. That is chiefly because of the writing. Director-writer Henry Selick doesn't reach for the kind of universality that would enrich the movie.</snippet>
+         <url>http://www.washingtonpost.com/gog/movies/coraline,1146165.html</url>
+         <critic>Desson Thomson</critic>
+      </review>
+      <review>
+         <snippet>Coraline is distinguished, if you can call it that, by a creepiness so deep as to seem perverse, and the film finally succumbs to terminal deficits in dramatic energy, narrative coherence and plain old heart.</snippet>
+         <url>http://online.wsj.com/article/SB123387493001354305.html</url>
+         <critic>Joe Morgenstern</critic>
+      </review>
+   </reviews>
+   <US_Gross>$75,286,229</US_Gross>
+   <production_budget>$60,000,000</production_budget>
+   <weekend_gross>$16,849,640</weekend_gross>
+   <number_of_screens>2,299</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

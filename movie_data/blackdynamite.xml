@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Black Dynamite</name>
+   <company>Sony Pictures</company>
+   <genres>
+      <genre>Action</genre>
+      <genre>Comedy</genre>
+   </genres>
+   <authors>
+      <author>Scott Sanders</author>
+      <author>Byron Minns</author>
+      <author>Michael Jai White</author>
+   </authors>
+   <directors>
+      <director>Scott Sanders</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Michael Jai White</actor>
+      <actor>Arsenio Hall</actor>
+      <actor>Tommy Davidson</actor>
+      <actor>Kevin Chapman</actor>
+      <actor>Richard Edson</actor>
+      <actor>Darrel Heath</actor>
+      <actor>Buddy Lewis</actor>
+   </actors>
+   <release_date>September 4, 2009</release_date>
+   <running_time>minutes,</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>Along the way, Black Dynamite blends satire, nostalgia, and cinema deconstruction into a one-of-a-kind comedy high.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20312174,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>An enjoyable celebratory ode to a fiercely entertaining counterculture-inspired genre.</snippet>
+         <url>http://www.latimes.com/entertainment/news/la-et-capsules16-2009oct16,0,7660953.story?page=2</url>
+         <critic>Robert Abele</critic>
+      </review>
+      <review>
+         <snippet>You could argue, I suppose, that this film, a Sundance hit, is essentially a funny sketch padded out to feature length. And what of it, my man?</snippet>
+         <url>http://www.csmonitor.com/2009/1016/p17s06-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>Sometimes feels like an all-time classic short film stretched to feature length, but it’s blissfully short, and it peaks at the end with a groovy cartoon during the closing credits.</snippet>
+         <url>http://www.avclub.com/articles/black-dynamite,34165/</url>
+         <critic>Nathan Rabin</critic>
+      </review>
+      <review>
+         <snippet>This film will delight both discriminating fans of the blaxploitation tradition and ordinary lovers of goofy, in-ya-face thrills.</snippet>
+         <url>http://www.variety.com/review/VE1117939405.html?categoryid=31&amp;cs=1&amp;query=black+dynamite</url>
+         <critic>Rob Nelson</critic>
+      </review>
+      <review>
+         <snippet>It's one of those loving modern retreads of older genre movies.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20091014/REVIEWS/910149998</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>Before an hour has passed tedium overtakes Black Dynamite - one corny martial-arts sequence turns out to be plenty - and all the good jokes dry up.</snippet>
+         <url>http://www.boston.com/ae/movies/articles/2009/11/20/black_dynamite_is_mostly_a_blast/</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>Just like the movies it parodies, this one feels over long before it's actually done.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2009/10/16/2009-10-16_untitled__shorts16.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>The movie gets old fast--mostly because it’s bringing up the rear after "Undercover Brother" (2002) And "I’m Gonna Git You Sucka" (1988). But the kung-fu climax at 1600 Pennsylvania Avenue (“the Honky House”) is nearly worth the wait, and Adrian Younge’s score, with its moody horns, is a perfect snapshot of early 70s soul.</snippet>
+         <url>http://www.chicagoreader.com/chicago/MovieTimes?oid=1188980</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>Even if it's a one-joke movie that runs out of steam, director Scott Sanders manages to keep the gag going for 90 minutes.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film-reviews/film-review-black-dynamite-1003933830.story</url>
+         <critic>James Greenberg</critic>
+      </review>
+      <review>
+         <snippet>Less deadpan spoof than loving act of possession, Black Dynamite near-fully channels the look and feel of its blaxploitation ancestors, warts and all.</snippet>
+         <url>http://newyork.timeout.com/articles/film/79578/black-dynamite-film-review</url>
+         <critic>Keith Uhlich</critic>
+      </review>
+      <review>
+         <snippet>No matter how many trips to Kung Fu Island our hero makes, nothing in Black Dynamite captures the exhilarating absurdity of Pam Grier hiding razors in her Afro in "Coffy"--or the loony genre experimentation in "Pootie Tang."</snippet>
+         <url>http://www.villagevoice.com/2009-10-13/film/a-fetishist-s-devotion-marks-black-dynamite/</url>
+         <critic>Melissa Anderson</critic>
+      </review>
+      <review>
+         <snippet>While White plays it supercool, Tommy Davidson and Arsenio Hall (as Cream Corn and Tasty Freeze, respectively) swing for the fences, without much in the way of a bat.</snippet>
+         <url>http://featuresblogs.chicagotribune.com/talking_pictures/</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>As a five-minute clip on YouTube, this spoof might be a small masterpiece. As a feature film, it’s both too much and not nearly enough.</snippet>
+         <url>http://movies.nytimes.com/2009/10/16/movies/16black.html?ref=movies</url>
+         <critic>A.O. Scott</critic>
+      </review>
+   </reviews>
+   <US_Gross>$228,477</US_Gross>
+   <weekend_gross>$131,862</weekend_gross>
+   <number_of_screens>70</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>true</labor_release>
+</movie>

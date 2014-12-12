@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Jarhead</name>
+   <company>Universal Pictures</company>
+   <genres>
+      <genre>Action</genre>
+      <genre>Comedy</genre>
+      <genre>Drama</genre>
+      <genre>War</genre>
+   </genres>
+   <authors>
+      <author>William Broyles Jr.Anthony Swofford</author>
+   </authors>
+   <directors>
+      <director>Sam Mendes</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Jake Gyllenhaal</actor>
+      <actor>Jamie Foxx</actor>
+      <actor>Peter Sarsgaard</actor>
+      <actor>Skyler Stone</actor>
+      <actor>Wade Williams</actor>
+      <actor>Katherine Rolph</actor>
+      <actor>Chris Cooper</actor>
+      <actor>Lucas Black</actor>
+   </actors>
+   <release_date>November 4, 2005</release_date>
+   <running_time>115</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>The sum of the movie is devastating. One takes out of it a sense that the human cost of our endless adventure in Iraq is going to be incalculable, perhaps catastrophic -- a psychological time bomb that will be exploding for decades to come.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/247017_jarhead04q.html</url>
+         <critic>William Arnold</critic>
+      </review>
+      <review>
+         <snippet>It's a unique vision of war from the point of view of a Marine who never pulled a trigger against a foe.</snippet>
+         <url>http://ae.charlotte.com/entertainment/ui/charlotte/movie.html?id=448082&amp;reviewId=19428&amp;startDate=NEXT7</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>Jarhead is about how the experience of being in the military fundamentally changes an individual. In this case, the focus isn't about the madness of slaughter in the jungle, but the madness of inaction in the desert.</snippet>
+         <url>http://movie-reviews.colossus.net/movies/j/jarhead.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>It is not often that a movie catches exactly what it was like to be this person in this place at this time, but Jarhead does.</snippet>
+         <url>http://www.rogerebert.com/apps/pbcs.dll/article?AID=/20051103/REVIEWS/51019007/1023</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>Jarhead isn't overtly political, yet by evoking the almost surreal futility of men whose lust for victory through action is dashed, at every turn, by the tactics, terrain, and morality of the war they're in, it sets up a powerfully resonant echo of the one we're in today.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1125289_1_0_,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>The daring achievement of Jarhead is that it is not a film about war, about combat: it is about being a soldier.</snippet>
+         <url>http://www.tnr.com/doc.mhtml?i=20051128&amp;s=kauffmann112805</url>
+         <critic>Stanley Kauffmann</critic>
+      </review>
+      <review>
+         <snippet>A harsh and thoroughly unromantic examination of the scarring effects of war.</snippet>
+         <url>http://sfgate.com/cgi-bin/article.cgi?f=/c/a/2005/11/04/DDG2JFI1FP1.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>Even when the script slips into sermonizing -- a Swoff voice-over informs us that we're all still "in the desert" -- Mendes keeps invading us with emotions. The jolt of Jarhead is undeniable, and it comes when you least expect it.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/_/id/6824323?pageid=rs.ReviewsMovieArchive&amp;pageregion=mainRegion</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>They're all dressed up to kill, with no place to go.</snippet>
+         <url>http://ae.philly.com/entertainment/ui/philly/movie.html?id=448082&amp;reviewId=19440</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>What we're left with is solid if not exceptional, though it's good to see Mendes expanding as a filmmaker.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2005-11-03-jarhead_x.htm</url>
+         <critic>Mike Clark</critic>
+      </review>
+      <review>
+         <snippet>The result is typical Mendes: accomplished, calculated and uncommitted. Maybe it's because his talent comes to him too easily, but I've yet to sense his heart and soul in a film.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/113087674294470.xml&amp;coll=7</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>Jarhead does feature stunning visuals. Mendes and cinematographer Roger Deakins have created some fantastic imagery.</snippet>
+         <url>http://www.filmthreat.com/Reviews.asp?Id=8141</url>
+         <critic>Pete Vonder Haar</critic>
+      </review>
+      <review>
+         <snippet>Screenwriter William Broyles, Jr., a former Vietnam pilot and "Newsweek" editor, connects reasonably well with the material, but "American Beauty" director Sam Mendes has a tendency to smooth out the rough edges, and the film goes flat as month-old soda.</snippet>
+         <url>http://avclub.com/content/node/42283</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>It may feel familiar, but it's a bleak and profound piece of work.</snippet>
+         <url>http://dallasobserver.com/Issues/2005-11-03/film/film.html</url>
+         <critic>Robert Wilonsky</critic>
+      </review>
+      <review>
+         <snippet>Despite all the heavy artistic artillery Mendes has brought to bear, his movie isn't all that far removed conceptually from "Top Gun" - which was also about military men itching for a chance to rock 'n' roll. The only difference is, "Top Gun" was unabashedly a popcorn movie while Jarhead is a box of unpopped kernels passing itself off as a full meal.</snippet>
+         <url>http://www.csmonitor.com/2005/1104/p11s02-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>This is a war film with precious little war, which was also the crux of Swofford's book.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A305913</url>
+         <critic>Marc Savlov</critic>
+      </review>
+      <review>
+         <snippet>Viewers hoping for a brutal, pitch-black war comedy along the lines of M*A*S*H are in for a major disappointment.</snippet>
+         <url>http://online.tvguide.com/movies/database/ShowMovie.asp?MI=46059</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>All writers are entitled to tell the story of their own war, whether it's on the battlefield, in their head, or -- as is usually the case -- somewhere in between. Like it or not, Anthony Swofford did just that. Mendes, by contrast, tells the story of a Hollywood war, and it's simply not the news we can use.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=7236</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>Inner dialogue is a hard sell on screen.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-0501104-movies-review-jarhead,0,2641243.story?coll=mmx-movies_top_heds</url>
+         <critic>Allison Benedikt</critic>
+      </review>
+      <review>
+         <snippet>The result is a war picture that, trying to pass off fidelity to the book as objectivity, sacrifices any voice of its own, and ends up not knowing what to think.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/Page/document/v4/sub/MarketingPage?user_URL=http://www.theglobeandmail.com%2Fservlet%2FArticleNews%2FTPStory%2FLAC%2F20051104%2FJARHEAD04%2FTPEntertainment%2FFilm&amp;ord=1131121591972&amp;brand=theglobeandmail&amp;force_login=true</url>
+         <critic>Rick Groen</critic>
+      </review>
+      <review>
+         <snippet>It's an expertly made film that, scene by scene, holds your attention. But both emotionally and intellectually, it doesn't add up.</snippet>
+         <url>http://www.msnbc.msn.com/id/9916380/site/newsweek/</url>
+         <critic>David Ansen</critic>
+      </review>
+      <review>
+         <snippet>While not quite the war movie that many of us were hoping to see right now, Mendes’ dispassionate take on the first Gulf War has many merits, and it does bring vividly to life the peculiar dilemma of the modern soldier.</snippet>
+         <url>http://www.empireonline.com/incinemas/ReviewComplete.asp?FID=11142</url>
+         <critic>Colin Kennedy</critic>
+      </review>
+      <review>
+         <snippet>What's so good about the movie is Gyllenhaal's refusal to show off; he doesn't seem jealous of the camera's attention when it goes to others and is content, for long stretches, to serve simply as a prism though which other young men can be observed.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1096785&amp;lat=200.0&amp;lon=200.0&amp;displaySearchTerm=Jarhead&amp;displaySearchLocation=&amp;nm=1</url>
+         <critic>Stephen Hunter</critic>
+      </review>
+      <review>
+         <snippet>Jarhead refuses to engage in its own point of view toward events it depicts. So the film feels empty and tentative, uncertain of what if anything these events add up to.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1001391321</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>Part absurdist drama, part personal observational commentary and part hormonal explosion, all seen through the filter of previous war pics, Sam Mendes' third feature has numerous arresting moments but never achieves a confident, consistent or sufficiently audacious tone.</snippet>
+         <url>http://www.variety.com/ac2006_review/VE1117928699?nav=reviews&amp;categoryid=1986&amp;cs=1</url>
+         <critic>Todd McCarthy</critic>
+      </review>
+      <review>
+         <snippet>As a result, Jarhead is utterly predictable (boys endure tough training; boys encounter another culture and are baffled), studded with first-rate performances.</snippet>
+         <url>http://newyorkmetro.com/nymetro/movies/reviews/14895/</url>
+         <critic>Ken Tucker</critic>
+      </review>
+      <review>
+         <snippet>Caught up in its own macho symbolism, Jarhead fights a losing battle to show the human cost of warfare.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-to.jarhead04nov04,1,6686130.story?coll=bal-artslife-movies</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>After an hour of being stranded among these restless soldiers and their increasingly aggressive locker-room antics, you, too, will be longing for combat -- for anything -- to happen.</snippet>
+         <url>http://ae.miami.com/entertainment/ui/miami/movie.html?id=448082&amp;reviewId=19445</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>Mendes doesn't care about people -- he's too busy making his art. And with Jarhead he pulls off, effortlessly, what so many pro-and antiwar individuals since Vietnam have tried so conscientiously to avoid: His movie is antiwar and anti-soldier.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2005/11/04/jarhead/index.html?sid=1410412</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>An exercise in inertia about an exercise in futility.</snippet>
+         <url/>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>"Three Kings" is fictional, obviously, and Mendes and Broyles were bound by the facts of Swofford's life. But the violence in "Three Kings" was visceral, whereas Jarhead's never penetrates the blood-brain barrier. It's locked away in its narrator's jarhead.</snippet>
+         <url>http://www.slate.com/id/2129381/?nav=fo</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>That Jarhead is an impressive technical achievement is a given, but ultimately this picture is the last thing any war movie should be: innocuous.</snippet>
+         <url>http://www.premiere.com/article.asp?section_id=2&amp;article_id=2391</url>
+         <critic>Glenn Kenny</critic>
+      </review>
+      <review>
+         <snippet>Has an oddly amorphous and inconclusive feeling to it. We never do find out who Tony (Jake Gyllenhaal) is, and his best friend, Troy (Peter Sarsgaard), who shifts back and forth between sanity and hysteria, is a mystery, too.</snippet>
+         <url>http://www.newyorker.com/critics/cinema/?051107crci_cinema</url>
+         <critic>David Denby</critic>
+      </review>
+      <review>
+         <snippet>Curiously, Jarhead transforms Swofford himself (played by Jake Gyllenhaal) from the book’s duty-bound youth, desperate to live up to his father's military legacy, into an enigmatic voyeur whose feelings and motivations are rarely made clear.</snippet>
+         <url>http://www.laweekly.com/film/film_results.php?showid=3637&amp;Sumbit.x=50&amp;Sumbit.y=16</url>
+         <critic>Scott Foundas</critic>
+      </review>
+      <review>
+         <snippet>Mr. Swofford's book has earned a place alongside the classics of military literature, but Mr. Mendes's film is more like a footnote - a minor movie about a minor war, and a film that feels, at the moment, remarkably irrelevant.</snippet>
+         <url>http://movies2.nytimes.com/2005/11/04/movies/04jarh.html</url>
+         <critic>Dana Stevens</critic>
+      </review>
+      <review>
+         <snippet>As much as we intellectually admire Jarhead, it's a cold film that only sporadically makes the kind of emotional connection it's after.</snippet>
+         <url>http://www.calendarlive.com/movies/turan/cl-et-jarhead4nov04,0,3036559.story</url>
+         <critic>Kenneth Turan</critic>
+      </review>
+      <review>
+         <snippet>One of the few Hollywood movies to ever acknowledge the Desert Storm "experience," Sam Mendes's Jarhead is both fastidiously grueling and perversely withholding.</snippet>
+         <url>http://www.villagevoice.com/film/0544,hoberman1,69554,20.html</url>
+         <critic>J. Hoberman</critic>
+      </review>
+      <review>
+         <snippet>The movie has some of the washed-out look of David O. Russell's excellent "Three Kings," but none of the edge. That's part of the point - that nothing leads to anything, at least not in this particular war.</snippet>
+         <url>http://www.nydailynews.com/11-04-2005/front/story/362374p-308405c.html</url>
+         <critic>Jami Bernard</critic>
+      </review>
+      <review>
+         <snippet>Marines did not play football in full anti-chemical suits in 112-degree weather; men would have been collapsing and perhaps dying because it was so hard to breathe in the gas masks. Do I quibble over details? Details are all the movie offers. There isn't a story.</snippet>
+         <url>http://www.nypost.com/movies/56831.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>Jarhead virtually begins with a rip-off of the basic-training sequence that opens Stanley Kubrick's "Full Metal Jacket."</snippet>
+         <url>http://www.chicagoreader.com/movies/archives/2005/1105/051104.html</url>
+         <critic>Jonathan Rosenbaum</critic>
+      </review>
+   </reviews>
+   <US_Gross>$62,647,540</US_Gross>
+   <production_budget>$72,000,000</production_budget>
+   <weekend_gross>$27,726,210</weekend_gross>
+   <number_of_screens>2,411</number_of_screens>
+   <oscar_winning_actors_present/>
+   <num_oscar_winning_actors>1</num_oscar_winning_actors>
+   <oscar_winning_actor>jamie foxx</oscar_winning_actor>
+   <oscar_winning_directors_present/>
+   <num_oscar_winning_directors>1</num_oscar_winning_directors>
+   <oscar_winning_director>sam mendes</oscar_winning_director>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

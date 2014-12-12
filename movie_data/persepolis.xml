@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Persepolis</name>
+   <company>Sony Pictures Classics</company>
+   <genres>
+      <genre>Animation</genre>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author>Marjane Satrapi</author>
+      <author>Vincent Paronnaud</author>
+   </authors>
+   <directors>
+      <director>Vincent Paronnaud</director>
+      <director>Marjane Satrapi</director>
+   </directors>
+   <origins>
+      <origin>FranceUSA</origin>
+   </origins>
+   <actors>
+      <actor>Catherine Deneuve</actor>
+      <actor>Chiara Mastroianni</actor>
+   </actors>
+   <release_date>December 25, 2007</release_date>
+   <running_time>95</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>It's not to be missed in any language. In a year that has given us such marvelous animated movies as "Ratatouille" and "Paprika," this vibrant, sly and moving personal odyssey takes pride of place.</snippet>
+         <url>http://www.newsweek.com/id/74405</url>
+         <critic>David Ansen</critic>
+      </review>
+      <review>
+         <snippet>Cinematic poetry in black and white. It also is a deeply affecting tale of the power of resilience and an unflagging sense of humor through the worst of situations</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2007-12-23-persepolis_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>A completely different kind of animated movie that, even more than "Ratatouille," reimagines what the medium can do.</snippet>
+         <url>http://www.slate.com/id/2180467</url>
+         <critic>Dana Stevens</critic>
+      </review>
+      <review>
+         <snippet>While avoiding specious bromides about universality, Persepolis insists on communicating with its audience, and insists that communication and empathy are the keys to our survival.</snippet>
+         <url>http://www.premiere.com/moviereviews/4336/persepolis.html</url>
+         <critic>Glenn Kenny</critic>
+      </review>
+      <review>
+         <snippet>The movie sparkles with witty self-awareness.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20170206,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>If "Ratatouille" taught the world that rats have feelings too, Persepolis teaches the same thing about the people of Iran, who in the current political climate are probably in greater danger of being eradicated.</snippet>
+         <url>http://www.chicagoreader.com/features/stories/moviereviews/080110/</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>While so many films about coming of age involve manufactured dilemmas, here is one about a woman who indeed does come of age, and magnificently.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20080117/REVIEWS/801170305</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>Persepolis, the superb film based on Satrapi's graphic memoirs of the same name, is a riveting odyssey in pictures and words. It's unlike any journal you've read or any animated movie you've seen.</snippet>
+         <url>http://www.philly.com/philly/entertainment/movies/20080118_An_Iranians_memoir_in_pen_and_ink.html</url>
+         <critic>Carrie Rickey</critic>
+      </review>
+      <review>
+         <snippet>Fascinating memoir of coming of age in Iran.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/348643_persepolis25q.html</url>
+         <critic>Sean Axmaker</critic>
+      </review>
+      <review>
+         <snippet>In a stroke of voice-casting genius, the voices of Marjane and her mother are provided by real-life mother and daughter Chiara Mastroianni and Catherine Deneuve, respectively, both of whom bring heft and measured emotion to the characters.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/reviews/bal-to.persepolis01feb01,0,133797.story</url>
+         <critic>Chris Kaltenbach</critic>
+      </review>
+      <review>
+         <snippet>The two main points Persepolis makes are that strife is relative, and all politics are personal.</snippet>
+         <url>http://www.avclub.com/content/cinema/persepolis</url>
+         <critic>Noel Murray</critic>
+      </review>
+      <review>
+         <snippet>Persepolis, austere as it may look, is full of warmth and surprise, alive with humor and a fierce independence of spirit.</snippet>
+         <url>http://movies.nytimes.com/2007/12/25/movies/25pers.html?ref=movies</url>
+         <critic>A.O. Scott</critic>
+      </review>
+      <review>
+         <snippet>Satrapi’s parents ship her off to a French school in Vienna, but she’s rudderless, ungrounded. She’s drawn back to a devastated Tehran, where she can’t design a life, either. This great film, by Satrapi and Vincent Paronnaud, is that life, designed. It freed her mind; it frees ours.</snippet>
+         <url>http://nymag.com/movies/reviews/42087/index1.html</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>The filmmakers were right to believe that a live-action version of this story would have failed to achieve the universality Persepolis does.</snippet>
+         <url>ttp://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?JSESSIONID=LzVbHwhLzz6yC06994RvJpnvJTc1f10Rm1GJQYXwXhn10CTNpv4x!1255566043&amp;&amp;rid=10382</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>This autobiographical tour de force is completely accessible and art of a very high order.</snippet>
+         <url>http://www.variety.com/index.asp?layout=festivals&amp;jump=review&amp;reviewid=VE1117933744&amp;cs=1&amp;p=0</url>
+         <critic>Lisa Nesselson</critic>
+      </review>
+      <review>
+         <snippet>Persepolis is a small landmark in feature animation. Not because of technical innovation--though it moves fluidly enough, and its drawings have a handcrafted charm forgotten in the era of the cross-promoted-to-saturation CGI-'toon juggernauts--but because it translates a sensitive, introspective, true-to-life, "adult" comic story into moving pictures.</snippet>
+         <url>http://www.villagevoice.com/film/0751,pinkerton,78642,20.html</url>
+         <critic>Nick Pinkerton</critic>
+      </review>
+      <review>
+         <snippet>A dazzlingly smart and entertaining animated feature by Marjane Satrapi and Vincent Paronnaud, looks like a black-and-white graphic novel come to life.</snippet>
+         <url>http://online.wsj.com/article/SB119880937547154683.html</url>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>Though you might have a hard time discussing some of the film’s verbal descriptions of torture with young ones, Persepolis will prove a worthwhile movie for thoughtful teens.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A585727</url>
+         <critic>Marjorie Baumgarten</critic>
+      </review>
+      <review>
+         <snippet>They're both tales of growing up in the shadow of Islamic fundamentalism, but Persepolis is everything "The Kite Runner" is not. It's a personal memoir rather than fiction, coolly observant instead of melodramatic, female rather than male in sensibility and sense of humor - it has a sense of humor.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=10554</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>Without significantly changing the books’ content, they bring in a wealth of emotional tones--particularly a playful, wry humor.</snippet>
+         <url>http://chicago.metromix.com/movies/movie_review/movie-review-persepolis/286248/content</url>
+         <critic>Tasha Robinson</critic>
+      </review>
+      <review>
+         <snippet>Persepolis is as modern as tomorrow's headlines and as classic as an ancient myth.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20080110.wpersepolis11/BNStory/Entertainment/home</url>
+         <critic>Rick Groen</critic>
+      </review>
+      <review>
+         <snippet>The black-and-white animation won't dazzle your eyes, but everything else about Marjane Satrapi and Vincent Paronnaud's adaptation of Satrapi's graphic comic book series Persepolis will hold you in its thrall.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2007/12/25/2007-12-25_persepolis_is_bold_escape_from_tehranica.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>The French-language voice cast is first-rate, although the film will also be released in the U.S. in an English-language version featuring Sean Penn, Iggy Pop and Gena Rowlands in addition to Deneuve and Mastroianni.</snippet>
+         <url>http://www.tvguide.com/movies/persepolis/review/291772</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>You can learn about the grand shifts of history from Persepolis, but you learn about a handful of lives as well.</snippet>
+         <url>http://blog.oregonlive.com/madaboutmovies/2008/01/movie_review_persepolis_engagi.html</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>The movie, while no fun, faces hard truths and asks hard questions.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1142410&amp;categories=Movies&amp;nm=1</url>
+         <critic>Stephen Hunter</critic>
+      </review>
+      <review>
+         <snippet>The combination of pen, ink and geopolitical strife have yet to yield anything quite like it.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=10764</url>
+         <critic>Rick Kisonak</critic>
+      </review>
+      <review>
+         <snippet>The monochrome animation is stark and beautiful, and Marjane’s an appealing narrator. Often hilarious, sometimes tragic, this may be low-tech, but it’s high-class.</snippet>
+         <url>http://www.empireonline.com/reviews/reviewcomplete.asp?FID=135513</url>
+         <critic>Helen O&amp;#039;Hara</critic>
+      </review>
+      <review>
+         <snippet>A familiar story set in an unfamiliar context, it's a paean to the universality of human experience, a testament to the endurance of individuality during great political and fanatical upheaval, and a reminder that even the most complex situations, identities and stories are heartbreakingly simple.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-persepolis25dec25,0,48544.story?coll=cl-mreview</url>
+         <critic>Carina Chocano</critic>
+      </review>
+      <review>
+         <snippet>It is a vivid, at times heartbreaking, portrait of a life and a nation in crisis.</snippet>
+         <url>http://www.nypost.com/seven/12252007/entertainment/movies/its_easy_to_be_drawn_into_persian_tale_14634.htm</url>
+         <critic>V.A. Musetto</critic>
+      </review>
+      <review>
+         <snippet>It's striking how much emotion Satrapi is able to convey through blocky drawings.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2008/01/11/DDA8UC3DM.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>There is no denying the boldness of Persepolis, both in design and in moral complaint, but there must surely be moments, in Marjane’s life as in ours, that cry out for cross-hatching and the grown-up grayness of doubt.</snippet>
+         <url>http://www.newyorker.com/arts/critics/cinema/2007/12/24/071224crci_cinema_lane?currentPage=2</url>
+         <critic>Anthony Lane</critic>
+      </review>
+   </reviews>
+   <US_Gross>$4,443,403</US_Gross>
+   <weekend_gross>$163,372</weekend_gross>
+   <number_of_screens>7</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>true</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

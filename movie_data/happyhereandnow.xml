@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Happy Here and Now</name>
+   <company>IFC Films</company>
+   <genres>
+      <genre>Drama</genre>
+      <genre>Noir</genre>
+      <genre>Scifi</genre>
+   </genres>
+   <authors>
+      <author>Michael Almereyda</author>
+   </authors>
+   <directors>
+      <director>Michael Almereyda</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Karl Geary</actor>
+      <actor>Shalom Harlow</actor>
+      <actor>Clarence Williams III</actor>
+      <actor>Ally Sheedy</actor>
+      <actor>Josephine Martin</actor>
+      <actor>Gloria Reuben</actor>
+      <actor>Liane Balaban</actor>
+      <actor>David Arquette</actor>
+   </actors>
+   <release_date>December 14, 2005</release_date>
+   <running_time>89</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>Since premiering on the festival circuit in 2002, this small masterpiece has been one of the best films around not to secure a proper theatrical release, and while one week on a single L.A. screen at the height of the crowded holiday season may not exactly qualify as proper, it's nevertheless a joyous happening.</snippet>
+         <url>http://www.laweekly.com/film/film_results.php?showid=3692&amp;Sumbit.x=34&amp;Sumbit.y=14</url>
+         <critic>Scott Foundas</critic>
+      </review>
+      <review>
+         <snippet>This is a droll, laid-back film noir steeped in Crescent City atmosphere and music that culminates in the colliding worlds of genuine and virtual reality.</snippet>
+         <url>http://www.calendarlive.com/movies/cl-et-capsules16dec16,0,986429.story</url>
+         <critic>Kevin Thomas</critic>
+      </review>
+      <review>
+         <snippet>Isn't for everyone. It seems certain to confound as many viewers as it will inspire. But pic will foster a core critical contingent that will find itself transfixed and, ultimately, deeply moved by the film's ravishing power.</snippet>
+         <url>http://www.variety.com/review/VE1117917968?categoryid=31&amp;cs=1</url>
+         <critic>Scott Foundas</critic>
+      </review>
+      <review>
+         <snippet>When Amelia takes the full multimedia plunge in the movie's final moments, Happy becomes something inexplicably (and metaphysically) beautiful.</snippet>
+         <url>http://www.villagevoice.com/film/0550,ng,70910,20.html</url>
+         <critic>David Ng</critic>
+      </review>
+      <review>
+         <snippet>Beautifully acted and filmed, with the Internet imagery rendered in Pixelvision.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1537890</url>
+         <critic>David Hunter</critic>
+      </review>
+      <review>
+         <snippet>It's perhaps most remarkable as a sweet, mysterious portrait of pre-flood New Orleans, which Almereyda not incorrectly portrays as a land of wandering, uncertain souls.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2005/12/15/btm/index3.html</url>
+         <critic>Andrew O&amp;#039;Hehir</critic>
+      </review>
+      <review>
+         <snippet>The soundtrack includes great songs by Andre Williams and Shirley Ellis, and music by local R'n'B legend Ernie K-Doe and electronic organ freakazoid Quintron, who both appear in the film.</snippet>
+         <url>http://online.tvguide.com/movies/database/ShowMovie.asp?MI=46640</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>Like some other contemporary films that try to stitch together a small army of characters into a community of sorts, Happy Here and Now feels like a symptom in search of a cure.</snippet>
+         <url>http://movies2.nytimes.com/2005/12/14/movies/14happ.html</url>
+         <critic>Manohla Dargis</critic>
+      </review>
+      <review>
+         <snippet>Rarely interesting, always confounding.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=4315</url>
+         <critic>Tim Merrill</critic>
+      </review>
+      <review>
+         <snippet>A few relevant themes do bubble up from this visually intriguing swamp of self-indulgence, but Arquette's pseudo-philosopher seems to speak for Almereyda when he says, "If there was a point, there wouldn't be a story."</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/moviereviews/story/375249p-318782c.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>Almereyda's muddled Happy Here and Now should have stayed on the shelf - where it's been gathering dust for several years.</snippet>
+         <url>http://www.nypost.com/movies/59743.htm</url>
+         <critic>V.A. Musetto</critic>
+      </review>
+   </reviews>
+   <US_Gross>$2,443</US_Gross>
+   <weekend_gross>$2,443</weekend_gross>
+   <number_of_screens>2</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

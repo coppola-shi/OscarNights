@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Zoo</name>
+   <company>THINKFilm</company>
+   <genres>
+      <genre>Documentary</genre>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author>Robinson Devor</author>
+      <author>Charles Mudede</author>
+   </authors>
+   <directors>
+      <director>Robinson Devor</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>John Paulsen</actor>
+      <actor>Ken Kreps</actor>
+      <actor>Richard Carmen</actor>
+      <actor>James Chu</actor>
+      <actor>Paul Eenhoorn</actor>
+      <actor>Forest Fousel</actor>
+      <actor>Conor Gormally</actor>
+      <actor>Malayka Gormally</actor>
+   </actors>
+   <release_date>April 25, 2007</release_date>
+   <running_time>80</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>Bold and unforgettable meditation on a truly bizarre incident that pokes at the very heart of one of our culture's biggest taboos.</snippet>
+         <url>http://tvguide.com/detail/movie.aspx?tvobjectid=287600&amp;more=ucmoviereview</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>A breathtakingly original nonfiction work by Seattle-based filmmaker Robinson Devor (whose "Police Beat" was among the highlights of Sundance's 2005 dramatic competition).</snippet>
+         <url>http://www.variety.com/index.asp?layout=features2007&amp;content=jump&amp;jump=review&amp;dept=berlin&amp;nav=RBerlin&amp;articleid=VE1117932505&amp;cs=1&amp;p=0</url>
+         <critic>Scott Foundas</critic>
+      </review>
+      <review>
+         <snippet>The beautiful and beguiling new film by Robinson Devor meditates on the Enumclaw incident through a hypnotic blend of original reporting, staged reenactment, testimony of involved parties (both zoophiles and local law enforcement), and pervasive, somewhat precious lyricism.</snippet>
+         <url>http://www.villagevoice.com/film/0717,lee,76449,20.html</url>
+         <critic>Nathan Lee</critic>
+      </review>
+      <review>
+         <snippet>The result is an immersive experience that never forgets the basic facts of the story but attempts with a level head and open mind to understand how in the world it might happen.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/1178657726267690.xml&amp;coll=7</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>Whether meaning to or not, Devor and his accomplished crew expand our concept of the documentary film, which relegates this documentary to art houses, not porn theaters.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/imdb/reviews/article_display.jsp?rid=8697&amp;vnu_special_account_code=thrsiteimdbpro</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>The surprise of this locally produced, stylized documentary is that it could leave you wishing it had told a little bit more.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/315188_zoo11q.html</url>
+         <critic>Gianni Truzzi</critic>
+      </review>
+      <review>
+         <snippet>Devor's sympathy for both the men and the animals is humane, yet his movie is palpably sad. A sense of shame cuts through all the ambiguity. You know less about what you've watched when Zoo is over than you did when it started. And that's what makes the movie so hard to shake.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=9949</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>Compelling.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2007/05/25/DDG6NQ0FH01.DTL#flick</url>
+         <critic>Neva Chonin</critic>
+      </review>
+      <review>
+         <snippet>It would have been easy to focus on the eroticism of horses, who, let's face it, are beautiful creatures to look at even for the nonzoophilically inclined, but Devor shows the animals only sparingly. For him, what's most interesting is what the horses represent to the men who (gulp) love them: the wildness and purity of nature itself.</snippet>
+         <url>http://www.slate.com/id/2164656/fr/flyout</url>
+         <critic>Dana Stevens</critic>
+      </review>
+      <review>
+         <snippet>Zoo is a cool sensibility married to a hot topic, a poetic film about a forbidden, unsettling subject. Elegantly made and eerily lyrical, it deals with what director Robinson Devor has accurately called "the last taboo, the boundary of something comprehensible."</snippet>
+         <url>http://www.calendarlive.com/printedition/calendar/cl-et-zoo4may04,0,6164075.story</url>
+         <critic>Kenneth Turan</critic>
+      </review>
+      <review>
+         <snippet>Quiet, sensitive, resolutely unsensational documentary about virtually the most sensational subject you can imagine.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2007/01/22/sundance_2/index1.html?CP=IMD&amp;DN=110</url>
+         <critic>Andrew O&amp;#039;Hehir</critic>
+      </review>
+      <review>
+         <snippet>To what degree does Zoo test our limits of tolerance? In the end, not much, which is why Devor's strange, carefully composed objet d'art is a limited achievement.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-070511-movies-review-zoo,0,1214295.story?coll=mmx-movies_top_heds</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>Devor doesn't endorse horse-on-man sex, but he does attempt--with sympathy--to account for the appeal.</snippet>
+         <url>http://nymag.com/movies/reviews/30922/</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>Zoo avoids any taint of exploitation, but it errs on the opposite extreme. I came away from it wanting a little less Art and a lot more simple reportage.</snippet>
+         <url>http://www.msnbc.msn.com/id/18108847/site/newsweek/</url>
+         <critic>David Ansen</critic>
+      </review>
+      <review>
+         <snippet>Paradoxically, it is precisely because Mr. Devor refuses to acknowledge the murkiness that clings to every frame in his film, because he refuses to engage with the world beyond that of the zoophiles, that they seem like creatures from some never-ending night.</snippet>
+         <url>http://movies2.nytimes.com/2007/04/25/movies/25zoo.html?ref=movies</url>
+         <critic>Manohla Dargis</critic>
+      </review>
+      <review>
+         <snippet>Constructing the narrative (made up mostly of dramatic reenactments, although given the static nature of many of the scenes, the word "dramatic" is pushing it) obliquely, Devor and co-writer Charles Mudede weave in the thread concerning the individual referred to as "Mr. Hands" into the film almost casually.</snippet>
+         <url>http://www.premiere.com/moviereviews/3756/zoo.html</url>
+         <critic>Glenn Kenny</critic>
+      </review>
+      <review>
+         <snippet>You could wander into this poetic documentary willing to be sympathetic toward its subject -- men who have sex with horses -- and still find Zoo cryptic and borderline bogus.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20037652,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>Interviewees are too busy excusing themselves to offer much illumination into their desires, and Devor's moody style (silhouettes, reenactments, an ominously throbbing score) only heightens the sleazy Dateline NBC feel.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/31604_ZOO.html</url>
+         <critic>Staff (Not credited)</critic>
+      </review>
+      <review>
+         <snippet>Time and again, Devor sabotages his own attempt to bring "zoos," literally and figuratively, into the light.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A477104</url>
+         <critic>Marjorie Baumgarten</critic>
+      </review>
+      <review>
+         <snippet>A bizarre quasi-documentary that more or less tries to rationalize bestiality as a harmless quirk.</snippet>
+         <url>http://www.nypost.com/seven/04252007/entertainment/movies/zoo_movies_lou_lumenick.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+   </reviews>
+   <US_Gross>$69,770</US_Gross>
+   <weekend_gross>$9,920</weekend_gross>
+   <number_of_screens>1</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

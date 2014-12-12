@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Chronicle of an Escape</name>
+   <company>IFC First Take</company>
+   <genres>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>Adrián Caetano</author>
+      <author>Esteban Student</author>
+      <author>Julian Loyola</author>
+   </authors>
+   <directors>
+      <director>Adrián Caetano</director>
+   </directors>
+   <origins>
+      <origin>Argentina</origin>
+   </origins>
+   <actors>
+      <actor>Rodrigo De la Serna</actor>
+      <actor>Pablo Echarri</actor>
+      <actor>Nazareno Casero</actor>
+      <actor>Lautaro Delgado</actor>
+      <actor>Matías Marmorato</actor>
+      <actor>Martín Urruty</actor>
+      <actor>César Albarracín</actor>
+      <actor>Diego Alonso</actor>
+   </actors>
+   <release_date>November 28, 2007</release_date>
+   <running_time>Spanish</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>The result is blessed with great performances; director Israel Adrián Caetano lets events speak -- and plead and weep -- for themselves.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20163028,00.html</url>
+         <critic>Clark Collis</critic>
+      </review>
+      <review>
+         <snippet>The film is taut and ruthlessly constructed, with odd flashes of humor and a white-knuckle pace. Rodrigo de la Serna ("The Motorcycle Diaries") gives a committed performance as Tamburrini, today a philosophy professor in Sweden.</snippet>
+         <url>http://www.salon.com/ent/movies/review/btm/2007/11/29/savages/index3.html</url>
+         <critic>Andrew O&amp;#039;Hehir</critic>
+      </review>
+      <review>
+         <snippet>This film is both a warning about abuse of government power and a reassurance that justice will sometimes triumph.</snippet>
+         <url>http://www.nypost.com/seven/11302007/entertainment/movies/tale_of_argentine_torment_sets_truth_fre_758122.htm</url>
+         <critic>V.A. Musetto</critic>
+      </review>
+      <review>
+         <snippet>Turns the chilling story of Argentina's military regime and its large scale political murders into a tense, exciting escape thriller. Though functional on its own terms, this fourth feature by Israel Adrian Caetano feels hollow at the core, leaving a feeling of lingering disappointment over a missed opportunity to probe recent history.</snippet>
+         <url>http://www.variety.com/index.asp?layout=features2006&amp;content=jump&amp;jump=review&amp;dept=cannes&amp;nav=RCannes&amp;articleid=VE1117930672&amp;cs=1&amp;p=0</url>
+         <critic>Deborah Young</critic>
+      </review>
+      <review>
+         <snippet>Chronicle might be utterly uncompromising in its "you are there" visceral style--or just unresourceful. I tend toward the latter reading.</snippet>
+         <url>http://www.villagevoice.com/film/0748,pinkerton,78474,20.html</url>
+         <critic>Nick Pinkerton</critic>
+      </review>
+      <review>
+         <snippet>Because Chronicle of an Escape doesn’t seriously scrutinize Argentine history during the years of the so-called dirty war, when the ruling military junta sought to eliminate anyone deemed hostile, it lacks a stinging moral authority.</snippet>
+         <url>http://movies.nytimes.com/2007/11/30/movies/30chro.html?ref=movies</url>
+         <critic>Stephen Holden</critic>
+      </review>
+   </reviews>
+   <US_Gross>$2,370</US_Gross>
+   <weekend_gross>$1,307</weekend_gross>
+   <number_of_screens>1</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

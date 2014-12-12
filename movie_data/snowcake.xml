@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Snow Cake</name>
+   <company>IFC First Take</company>
+   <genres>
+      <genre>Drama</genre>
+      <genre>Foreign</genre>
+   </genres>
+   <authors>
+      <author>Angela Pell</author>
+   </authors>
+   <directors>
+      <director>Marc Evans</director>
+   </directors>
+   <origins>
+      <origin>UKCanada</origin>
+   </origins>
+   <actors>
+      <actor>Alan Rickman</actor>
+      <actor>Sigourney Weaver</actor>
+      <actor>Carrie-Anne Moss</actor>
+      <actor>David Fox</actor>
+      <actor>Jayne Eastwood</actor>
+      <actor>Emily Hampshire</actor>
+      <actor>James Allodi</actor>
+   </actors>
+   <release_date>April 27, 2007</release_date>
+   <running_time>112</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>Most noteworthy for the performance of Sigourney Weaver as Linda, an autistic woman.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2007-04-26-indie-reviews_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>Sigourney Weaver and Alan Rickman imbue screenwriter Angela Pell's characters with a quiet authenticity that's surprisingly moving.</snippet>
+         <url>http://www.tvguide.com/detail/movie.aspx?tvobjectid=287604&amp;more=ucmoviereview</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>Modest but well wrought and witty, Snow Cake is full of unexpected moments and clever observations.</snippet>
+         <url>http://www.calendarlive.com/printedition/calendar/cl-et-snow27apr27,0,6300922.story</url>
+         <critic>Carina Chocano</critic>
+      </review>
+      <review>
+         <snippet>Does sidle up to the brink of mawkishness, but it pulls back so nicely into Weaver's rich, hard-headed evocation of Linda's limitations.</snippet>
+         <url>http://www.villagevoice.com/film/0717,taylor,76478,20.html</url>
+         <critic>Ella Taylor</critic>
+      </review>
+      <review>
+         <snippet>Rickman and Weaver sell it, and the utterly heart wrenching finale is the big pay off, and the experience is worth it.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=10049</url>
+         <critic>Felix Vasquez, Jr.</critic>
+      </review>
+      <review>
+         <snippet>Snow Cake is dazlious, too: overly forced, a shade too whimsical, but filling a void other words and other movies haven't the nerve or errant taste to confront.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=9502</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>In the end, Weaver provides a moving and sensitive portrait of one person out of an estimated 400,000 in America with this mental disorder we are just beginning to understand.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2007/04/27/2007-04-27_sigourneys_artistic_as_autistic_mom.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>If only Snow Cake had hewed closer to this idea of showing what an adult autist's life and experiences are like, rather than getting caught up in Rickman's rote re-awakening, it could've been as powerful as it strains to be.</snippet>
+         <url>http://www.avclub.com/content/cinema/snow_cake</url>
+         <critic>Noel Murray</critic>
+      </review>
+      <review>
+         <snippet>The mental and physical landscape would do justice to an Atom Egoyan film, but in this film, the key dramatic moments feel as forced as they are predictable.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/imdb/reviews/article_display.jsp?rid=1001994908&amp;vnu_special_account_code=thrsiteimdbpro</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>Boosted by a delish performance from Carrie-Anne Moss as a local vamp who helps unthaw the Englishman, but holed beneath the waterline by a gratingly miscast Sigourney Weaver as the persnickety autistic.</snippet>
+         <url>http://www.variety.com/review/VE1117929540.html?categoryid=31&amp;cs=1&amp;query=%22Snow+cake%22</url>
+         <critic>Derek Elley</critic>
+      </review>
+      <review>
+         <snippet>Like "I Am Sam," it is a film that tests your cynicism.</snippet>
+         <url>http://movies2.nytimes.com/2007/04/27/movies/27snow.html?ref=movies</url>
+         <critic>Stephen Holden</critic>
+      </review>
+      <review>
+         <snippet>Alan Rickman holds the film together.</snippet>
+         <url>http://www.nypost.com/seven/04272007/entertainment/movies/snow_cake_movies_.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>An awfully tidy, infernally sparkly study in skewed blessings, made manifest by Committed Acting from Sigourney Weaver.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20037651,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>Never gets as emotionally involving, or persuasive, as the moviemakers intend it to.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1127531&amp;categories=Movies&amp;nm=1</url>
+         <critic>Desson Thomson</critic>
+      </review>
+      <review>
+         <snippet>The picture is so drab and listless that it often feels like punishment, even though Rickman gives a fine performance, one that's heartfelt as well as characteristically elegant (not to mention sexy).</snippet>
+         <url>http://www.salon.com/ent/movies/review/2007/04/27/snow_cake/index.html</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+   </reviews>
+   <US_Gross>$26,651</US_Gross>
+   <weekend_gross>$5,030</weekend_gross>
+   <number_of_screens>4</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Severed Ways: The Norse Discovery of America</name>
+   <company>Magnet Releasing</company>
+   <genres>
+      <genre>Adventure</genre>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author>Tony Stone</author>
+   </authors>
+   <directors>
+      <director>Tony Stone</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Clare Amory</actor>
+      <actor>Noelle Bailey</actor>
+      <actor>Nathan Corbin</actor>
+      <actor>James Fuentes</actor>
+      <actor>Tony Stone</actor>
+   </actors>
+   <release_date>March 13, 2009</release_date>
+   <running_time>107</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>One of the oddest movies I've seen in a while - and that's a good thing.</snippet>
+         <url>http://www.nypost.com/seven/03132009/entertainment/movies/cut_above_the_rest_in_odd_ways__few_word_159261.htm</url>
+         <critic>V.A. Musetto</critic>
+      </review>
+      <review>
+         <snippet>While most of the scenes in Tony Stone’s peculiar Middle Ages art project look like a homemade educational reenactment, the film is actually more involving than it should be.</snippet>
+         <url>http://www.boston.com/ae/movies/articles/2009/11/06/vikings_will_be_vikings_in_severed_ways/</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>Though there's no doubt that Mr. Stone is as serious as a heart attack when it comes to creating an air of authenticity -- hence the sloppily butchered chickens and authorial defecation -- he never settles on a coherent tone for the movie.</snippet>
+         <url>http://movies.nytimes.com/2009/03/13/movies/13seve.html?ref=movies</url>
+         <critic>Manohla Dargis</critic>
+      </review>
+      <review>
+         <snippet>"Pathfinder" meets "Gerry" in Severed Ways: The Norse Discovery of America, a striking and virtually wordless story of two Vikings separated from their tribe and left to stumble through the North American wilderness.</snippet>
+         <url>http://www.variety.com/review/VE1117933981.html?categoryid=31&amp;cs=1&amp;query=severed+ways</url>
+         <critic>Peter Debruge</critic>
+      </review>
+      <review>
+         <snippet>The spectacle of two dudes mucking about in the primal forest becomes tedious.</snippet>
+         <url>http://www.villagevoice.com/2009-03-11/film/vikings-go-severed-ways-obscenely/</url>
+         <critic>Nicolas Rapold</critic>
+      </review>
+      <review>
+         <snippet>If a black-metal band ever made a 107-minute music video, this visually striking but otherwise ludicrous epic is probably what it would look like.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2009/03/12/2009-03-12_short_takes_cake_eaters_tokyo_sonata.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+   </reviews>
+   <US_Gross>$18,728</US_Gross>
+   <weekend_gross>$7,686</weekend_gross>
+   <number_of_screens>1</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

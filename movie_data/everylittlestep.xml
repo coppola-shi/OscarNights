@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Every Little Step</name>
+   <company>Sony Pictures Classics</company>
+   <genres>
+      <genre>Documentary</genre>
+   </genres>
+   <authors>
+      <author/>
+   </authors>
+   <directors>
+      <director>Adam Del Deo</director>
+      <director>James D. Stern</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Bob Avian</actor>
+      <actor>Michael Bennett</actor>
+      <actor>Charlotte d&amp;#039;Amboise</actor>
+      <actor>Ramon Flowers</actor>
+      <actor>Jessica Lee Goldyn</actor>
+      <actor>Marvin Hamlisch</actor>
+      <actor>Megan Larche</actor>
+      <actor>Donna McKechnie</actor>
+   </actors>
+   <release_date>April 17, 2009</release_date>
+   <running_time>96</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>A movie as layered and enthralling as its subject.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20272253,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>How long has it been since a movie left you literally speechless?</snippet>
+         <url>http://online.wsj.com/article/SB123992063794426951.html</url>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>The film is as much about the creation of the original show back in 1975 and the genius of the late Michael Bennett, who masterminded it, as it is about the newer version.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2009/05/07/MV1I16V9D5.DTL&amp;type=movies</url>
+         <critic>David Wiegand</critic>
+      </review>
+      <review>
+         <snippet>Sensational documentary.</snippet>
+         <url>http://www.miamiherald.com/entertainment/movies/reviews/story/1047512.html</url>
+         <critic>Connie Ogle</critic>
+      </review>
+      <review>
+         <snippet>An uncommonly tender and observant documentary on the phenomenon that is "A Chorus Line."</snippet>
+         <url>http://www.theglobeandmail.com/news/arts/every-little-step/article1157523/</url>
+         <critic>Stephen Cole</critic>
+      </review>
+      <review>
+         <snippet>A thoroughly engrossing documentary.</snippet>
+         <url>http://www.washingtonpost.com/gog/movies/every-little-step,1156484.html</url>
+         <critic>Peter Marks</critic>
+      </review>
+      <review>
+         <snippet>It's a big ice cream sundae, this one -- not great documentary filmmaking but tasty all the way.</snippet>
+         <url>http://www.chicagotribune.com/entertainment/movies/chi-movie-review-quartermay15,0,594953.story</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>It's a can't-miss effort that knows how to please.</snippet>
+         <url>http://www.latimes.com/entertainment/la-et-littlestep17-2009apr17,0,4361220.story</url>
+         <critic>Kenneth Turan</critic>
+      </review>
+      <review>
+         <snippet>The result is an insightful, exuberant, probing, long-winded and even exhausting look at what it takes for a performer to have a life in the theater.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film-reviews/film-review-every-little-step-1003963277.story</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>The premise of Every Little Step is no less inspired for seeming so simple and obvious, and it pays tribute to the durability and continued relevance of “A Chorus Line,” which first opened in New York in 1975, before many of the performers in the movie were born.</snippet>
+         <url>http://movies.nytimes.com/2009/04/17/movies/17step.html?ref=movies</url>
+         <critic>A.O. Scott</critic>
+      </review>
+      <review>
+         <snippet>Given that "Chorus Line" is almost the paradigmatic backstage story, I guess Every Little Step is a meta-backstage story, capturing the "American Idol"-scale audition process.</snippet>
+         <url>http://www.salon.com/ent/movies/btm/feature/2009/04/15/every_little_step/index.html</url>
+         <critic>Andrew O&amp;#039;Hehir</critic>
+      </review>
+      <review>
+         <snippet>The result? A briskly self-aware, thoroughly stage-struck portrait of a theatrical portrait.</snippet>
+         <url>http://www.npr.org/templates/story/story.php?storyId=103089730</url>
+         <critic>Bob Mondello</critic>
+      </review>
+      <review>
+         <snippet>A thrilling combination of documentary and musical dazzler.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/21799142/review/27538108/every_little_step</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>In Every Little Step, the performers bleed, sweat, cry theater - without having to tell us.</snippet>
+         <url>http://www.boston.com/ae/movies/articles/2009/05/01/making_it_in_chorus_line/</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>Do you need to have seen A Chorus Line to understand or enjoy Every Little Step? I think not. This companion piece to one of America's most beloved musicals is about human longings and shortfalls.</snippet>
+         <url>http://www.philly.com/philly/entertainment/movies/20090515_Documentary_pays_tribute_to__A_Chorus_Line_.html</url>
+         <critic>Carrie Rickey</critic>
+      </review>
+      <review>
+         <snippet>What we sense in the film is the camaraderie among these hopeful dancers. They've all been through the process before, all been disappointed before, all know better than anyone else what it takes, all believe the best candidates don't always win the jobs.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20090513/REVIEWS/905139995</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>An unexpectedly charming little film.</snippet>
+         <url>http://blog.oregonlive.com/madaboutmovies/2009/07/oh_god_i_need_this_job_every_l.html</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>Modeling the movie after the show itself grows problematic near the end, when Stern and Del Deo, anticipating that climactic, gold-suited kick line, try to whip us into a frenzy on opening night.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/34372_EVERY_LITTLE_STEP.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>For Chorus Line fans, though, the documentary--is a singular sensation.</snippet>
+         <url>http://www.villagevoice.com/2009-04-15/film/every-little-step-is-a-gold-mine-for-chorus-line-fans/</url>
+         <critic>Jesse Oxfeld</critic>
+      </review>
+      <review>
+         <snippet>It's a huge improvement over the Attenborough film; given the film’s non-fiction roots, it seems poetically apt that a documentary take is much more satisfying and engaging than the Hollywood treatment.</snippet>
+         <url>http://www.avclub.com/articles/every-little-step,26755/</url>
+         <critic>Nathan Rabin</critic>
+      </review>
+      <review>
+         <snippet>Filmmakers nicely mix the historical and the tributary, honoring both Bennett's cultural landmark and the dancers who dream of joining its ranks.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A789006</url>
+         <critic>Kimberley Jones</critic>
+      </review>
+      <review>
+         <snippet>Doesn't boast enough universal meaning to make it truly sing.</snippet>
+         <url>http://www.nola.com/movies/index.ssf/2009/08/every_little_step_is_dragged_d.html</url>
+         <critic>Mike Scott</critic>
+      </review>
+      <review>
+         <snippet>Directors Adam Del Deo and James D. Stern focus primarily on the casting process for the 2006 revival, parading so many personalities past us that we don't really get to know anyone. Bypassing the original for the recreation? That ain't it, kid.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2009/04/17/2009-04-17_short_takes_.html?page=1</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>Every Little Step shows only this: It hurts to flunk an audition, and it's nice to get hired. Everything it has to say about Broadway was said better in Bob Fosse's movie "All That Jazz" -- in its opening five minutes.</snippet>
+         <url>http://www.nypost.com/seven/04172009/entertainment/movies/same_old_song_and_dance_164758.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+   </reviews>
+   <US_Gross>$1,725,141</US_Gross>
+   <weekend_gross>$68,504</weekend_gross>
+   <number_of_screens>8</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

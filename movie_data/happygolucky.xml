@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Happy-Go-Lucky</name>
+   <company>Miramax Films (Disney)</company>
+   <genres>
+      <genre>Comedy</genre>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author>Mike Leigh</author>
+   </authors>
+   <directors>
+      <director>Mike Leigh</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Sally Hawkins</actor>
+      <actor>Alexis Zegerman</actor>
+      <actor>Andrea Riseborough</actor>
+      <actor>Samuel Roukin</actor>
+      <actor>Sinead Matthews</actor>
+      <actor>Kate O&amp;#039;Flynn</actor>
+      <actor>Sarah Niles</actor>
+      <actor>Eddie Marsan</actor>
+   </actors>
+   <release_date>October 10, 2008</release_date>
+   <running_time>118</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>I thought "Topsy-Turvy" was perfection, a spirited evocation of the partnership of Gilbert and Sullivan, plus a blithely definitive depiction of the artistic process. Happy-Go-Lucky is perfection too, assuming you go along with its leisurely pace, which I did quite happily.</snippet>
+         <url>http://online.wsj.com/article/film_review.html</url>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>Leigh and his actors work mysterious magic in Happy-Go-Lucky. This is a movie about hitting the groove of everyday life and, nearly miraculously, getting music out of it.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2008/10/10/happy_go_lucky/</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>The personal triumphs in Happy-Go-Lucky may be small-scale but its embrace is all-encompassing. It's a wonderfully humane movie.</snippet>
+         <url>http://www.csmonitor.com/2008/1011/p25s01-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>As refreshing as it is to find a movie that leaves you smiling, it's something much rarer to discover a film that makes you think about what a commitment to happiness really means.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20081016.whappy17/BNStory/Entertainment/home</url>
+         <critic>Liam Lacey</critic>
+      </review>
+      <review>
+         <snippet>Won't break your heart -- it will make it soar.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1151885&amp;categories=Movies</url>
+         <critic>Ann Hornaday</critic>
+      </review>
+      <review>
+         <snippet>This is Mike Leigh's funniest film since "Life Is Sweet" (1991). Of course he hasn't ever made a completely funny film, and Happy-Go-Lucky has scenes that are not funny, not at all.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20081023/REVIEWS/810239997</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>British director Mike Leigh has made the first great comedy for our new depression.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/reviews/bal-to.happy31oct31,0,2252767.story</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>The London universe Leigh creates (employing his trademark improv techniques to unite his ensemble, many of whom make their film debuts) isn't so much a reality as a hope, and an invitation to find joy and grace in everyday moments.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20231580,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>Mr. Leigh has never been an artist for whom happy (word or idea) has been an easy fit. Life is sweet, as the title of another of his films puts it with a heart-swelling yes, but it’s also an eternal fight against doom and gloom, the soul-crushing no.</snippet>
+         <url>http://movies.nytimes.com/2008/10/10/movies/10happ.html</url>
+         <critic>Manohla Dargis</critic>
+      </review>
+      <review>
+         <snippet>Leigh pushes the story in a more interesting direction, asking whether people find happiness or simply will it on themselves.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/critic.html#33744</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>For all of its laughs and a star-making performance by Hawkins, Happy-Go-Lucky represents a serious philosophical inquiry by Leigh, who has illustrated a consistently pessimistic view of humankind in his semi-improvised movies.</snippet>
+         <url>http://www.nypost.com/seven/10102008/entertainment/movies/going_the_extra_smile_132901.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>There’s something of the harlequin in Leigh’s conception of this bright, manic young woman.</snippet>
+         <url>http://chicago.metromix.com/movies/movie_review/movie-review-happy-go/706262/content</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>Happy-Go-Lucky isn't one of Leigh's epic social canvases like "Secrets &amp; Lies" or even "Topsy-Turvy"; rather, it's an edgy character study whose message only gradually emerges.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=12252</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>Stays with you like great movies tend to do. It asks you to examine the inner mechanisms of human beings, cheerful and miserable alike. It's not about looking at a glass half empty or a glass half full. It's about drinking down what's in that glass and letting it fill your soul.</snippet>
+         <url>http://www.philly.com/philly/entertainment/movies/20081017__quot_Happy-Go-Lucky_quot___Soulful_look_at_cheer_amid_angst.html</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>Sally Hawkins offers an Oscar-worthy performance as Poppy, the funny, kind-hearted, and mischievous protagonist.</snippet>
+         <url>http://www.premiere.com/moviereviews/4778/happy-go-lucky.html</url>
+         <critic>Jenni Miller</critic>
+      </review>
+      <review>
+         <snippet>The picture as a whole benefits not merely from the excellent performances, but from its warm emotional core and its infectious love of people, topped off by a mature (though not jaded) sobriety about human limitations that thoroughly validates everything preceding it.</snippet>
+         <url>http://movies.tvguide.com/happy-lucky/review/295117</url>
+         <critic>Nathan Southern</critic>
+      </review>
+      <review>
+         <snippet>It is that rare film that is equal parts entertaining, life-affirming and thought-provoking.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2008-10-09-happy-go-lucky_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>No list of the year's best performances should be made without her (Sally Hawkins).</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/18298108/review/23356406/happygolucky</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>Typically, Leigh withholds his own judgment as to whether Hawkins is a delight or a terror. But he does create a noticeable tension between the audience's expectations and the way the story plays out.</snippet>
+         <url>http://www.avclub.com/content/cinema/happy_go_lucky</url>
+         <critic>Noel Murray</critic>
+      </review>
+      <review>
+         <snippet>As is always the case with Leigh's protagonists, Poppy does not fit into a schematic log line, she simply is. She exists with an intensity that few other filmmakers' characters can manage because of the singular way Leigh creates his people.</snippet>
+         <url>http://www.latimes.com/entertainment/news/reviews/la-et-happy10-2008oct10,0,1364933.story</url>
+         <critic>Kenneth Turan</critic>
+      </review>
+      <review>
+         <snippet>So relentlessly upbeat that it won't take long before you're wondering just how the director plans to wipe the smile off her face.</snippet>
+         <url>http://www.npr.org/templates/story/story.php?storyId=95473503</url>
+         <critic>Bob Mondello</critic>
+      </review>
+      <review>
+         <snippet>Leigh has been giving actors their tongues for decades, and of all his films, Happy-Go-Lucky is the easiest, the least labored.</snippet>
+         <url>http://nymag.com/movies/reviews/51152/</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>It's a powerful argument for optimism.</snippet>
+         <url>http://www.miamiherald.com/entertainment/movies/reviews/story/747771.html</url>
+         <critic>Connie Ogle</critic>
+      </review>
+      <review>
+         <snippet>The key to enjoying the film is warming up to the heroine, Poppy.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2008/10/09/DD5913CSKP.DTL&amp;type=movies</url>
+         <critic>Ruthe Stein</critic>
+      </review>
+      <review>
+         <snippet>While any or all of the events related during the course of the film might seem to form the backbone of an unendurably boring motion picture, everything comes alive because of Poppy.</snippet>
+         <url>http://www.reelviews.net/php_review_template.php?identifier=1366</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>As surprising as it is delicious with an indelible performance by new star Sally Hawkins.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/imdb/reviews/article_display.jsp?rid=10644&amp;vnu_special_account_code=thrsiteimdbpro</url>
+         <critic>Ray Bennett</critic>
+      </review>
+      <review>
+         <snippet>Mike Leigh's mellowest work yet, and his most purely entertaining.</snippet>
+         <url>http://www.variety.com/review/VE1117936183.html?categoryid=31&amp;cs=1&amp;query=happy%2Dgo%2Dlucky</url>
+         <critic>Alissa Simon</critic>
+      </review>
+      <review>
+         <snippet>The movie is not an argument for chaos; it's an argument for making one's way through life with a relaxed will and an open heart.</snippet>
+         <url>http://www.newyorker.com/arts/critics/cinema/2008/10/13/081013crci_cinema_denby</url>
+         <critic>David Denby</critic>
+      </review>
+      <review>
+         <snippet>At the very least, the spectacle of Poppy's devotion and desire, not to mention her all-around sunny disposish, left this viewer feeling unaccountably happy--at least for the moment.</snippet>
+         <url>http://www.villagevoice.com/2008-10-08/film/mike-leigh-s-optimistic-heroine-in-happy-go-lucky-might-just-convince-you-to-cheer-up-lola-mont-egrave-s-still-won-t/</url>
+         <critic>J. Hoberman</critic>
+      </review>
+      <review>
+         <snippet>The results are unique in the contemporary cinema -- behavioral honesty and intensity raised to a flash point. If this be comedy, it is so only in the nominal sense that no one dies at the end of the picture.</snippet>
+         <url>http://www.time.com/time/arts/article/0,8599,1848846,00.html</url>
+         <critic>Richard Schickel</critic>
+      </review>
+      <review>
+         <snippet>While it's being sold as "an effervescent comedy," Happy-Go-Lucky is nothing of the sort. It's rather grim, the laughs are few.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/384679_happy24q.html</url>
+         <critic>William Arnold</critic>
+      </review>
+      <review>
+         <snippet>The trouble is that the movie in which Poppy does, in fact, exist never quite rises to her level.</snippet>
+         <url>http://www.slate.com/id/2201949/</url>
+         <critic>Dana Stevens</critic>
+      </review>
+      <review>
+         <snippet>Is it possible to enjoy the company of the world's most irritating woman? Mike Leigh's surprisingly sunny dramedy makes a pretty good case that, in fact, it is.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2008/10/09/2008-10-09_short_takes_more_movie_reviews_for_the_w.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>That's the film's problem: Leigh's creation is fixed and unchangeable, admirably optimistic as a person but completely unengaging as a movie character.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A695753</url>
+         <critic>Josh Rosenblatt</critic>
+      </review>
+   </reviews>
+   <US_Gross>$3,494,485</US_Gross>
+   <weekend_gross>$73,867</weekend_gross>
+   <number_of_screens>4</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

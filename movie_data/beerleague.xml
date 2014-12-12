@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Beer League</name>
+   <company>Echo Bridge Entertainment LLC</company>
+   <genres>
+      <genre>Comedy</genre>
+   </genres>
+   <authors>
+      <author>Frank Sebastiano</author>
+      <author>Artie Lange</author>
+   </authors>
+   <directors>
+      <director>Frank Sebastiano</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Artie Lange</actor>
+      <actor>Ralph Macchio</actor>
+      <actor>Anthony DeSo</actor>
+      <actor>Cara Buono</actor>
+      <actor>Jimmy Palumbo</actor>
+      <actor>Jerry Minor</actor>
+      <actor>Laurie Metcalf</actor>
+      <actor>Seymour Cassel</actor>
+   </actors>
+   <release_date>September 15, 2006</release_date>
+   <running_time>86</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>A welcome return to the raunchy hey-day of comedy, a true guy's film.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=9074</url>
+         <critic>Mark Bell</critic>
+      </review>
+      <review>
+         <snippet>Sloppy but unconcerned about it, pic offers a trip back in time to a pre-PC and feminist era when men were sexist Neanderthals, women supported them from the sidelines and the guy with the biggest mouth scored.</snippet>
+         <url>http://www.variety.com/review/VE1117930882?categoryid=31&amp;cs=1&amp;s=h&amp;p=0</url>
+         <critic>Robert Koehler</critic>
+      </review>
+      <review>
+         <snippet>Yet another ode to the pleasures of overindulgence. The experience of watching this loosely plotted comedy set in the suburbs of New Jersey is somewhat akin to spending a nice summer day playing softball with your friends. Only without the sun, the fresh air, the exercise or the fun.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1003123931</url>
+         <critic>Frank Scheck</critic>
+      </review>
+      <review>
+         <snippet>Buono is truly charming, and the film delivers a handful of genuine laughs -- low laughs, but laughs nonetheless; if only they weren't so few and far between.</snippet>
+         <url>http://tvguide.com/detail/movie.aspx?tvobjectid=283259&amp;more=ucmoviereview</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>The sort of lowbrow sports comedy best enjoyed on a 50-inch screen with a six-pack, a bucket of wings and a fast-forward button.</snippet>
+         <url>http://www.nypost.com/entertainment/movies/this_duds_for_you___if_youre_drunk_movies_lou_lumenick.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>Comes close to being that rare film that is perfectly bad -- i.e., that has not a shred of social, entertainment or even curiosity value. But it misses out on this dubious honor by having one tiny redeeming attribute: it answers the question "Whatever happened to Edgar Stiles?"</snippet>
+         <url>http://movies2.nytimes.com/2006/09/16/movies/16arti.html?ref=movies</url>
+         <critic>Neil Genzlinger</critic>
+      </review>
+   </reviews>
+   <US_Gross>$475,000</US_Gross>
+   <production_budget>$2,800,000</production_budget>
+   <weekend_gross>$302,908</weekend_gross>
+   <number_of_screens>164</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

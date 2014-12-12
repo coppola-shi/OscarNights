@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>District 9</name>
+   <company>TriStar Pictures (Sony)</company>
+   <genres>
+      <genre>Scifi</genre>
+   </genres>
+   <authors>
+      <author>Neill Blomkamp</author>
+      <author>Terri Tatchell</author>
+   </authors>
+   <directors>
+      <director>Neill Blomkamp</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Sharlto Copley</actor>
+      <actor>David James</actor>
+   </actors>
+   <release_date>August 14, 2009</release_date>
+   <running_time>minutes,</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>No true fan of science fiction -- or, for that matter, cinema -- can help but thrill to the action, high stakes and suspense built around a very original chase movie.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film-reviews/district-9-film-review-1003998000.story</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>The humanity of District 9 adds another dimension to this multilayered, rewarding work -- one of the best of the summer, and undoubtedly the most inventive from the multiplex this year.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=11844</url>
+         <critic>Matthew Sorrento</critic>
+      </review>
+      <review>
+         <snippet>Madly original, cheekily political, altogether exciting District 9.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20297361,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>District 9 is very smart sci-fi, but that's just the beginning; it's also a scathing social satire hidden inside a terrific action thriller teeming with gross aliens and regrettable inter-species conflict. And it's a blast. . . .</snippet>
+         <url>http://www.latimes.com/entertainment/news/la-et-district14-2009aug14,0,4510617.story</url>
+         <critic>Betsy Sharkey</critic>
+      </review>
+      <review>
+         <snippet>District 9 proves that genre films, besides being a hell of a lot of fun, can say things you hadn't considered and show stuff you haven't seen.</snippet>
+         <url>http://www.time.com/time/arts/article/0,8599,1916009,00.html</url>
+         <critic>Richard Corliss</critic>
+      </review>
+      <review>
+         <snippet>Every now and then, a film comes along that both defies and compels description. District 9 is one such movie: a science-fiction action vehicle so brilliantly and fully imagined that real life, when it resumes after the credits, arrives with a new sense of dread.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2009/08/13/MVMN197MNR.DTL&amp;type=movies</url>
+         <critic>Amy Biancolli</critic>
+      </review>
+      <review>
+         <snippet>A sci-fi-fueled indictment of man's inhumanity to man -- and the non-human -- District 9 is all horribly familiar, and transfixing.</snippet>
+         <url>http://www.washingtonpost.com/gog/movies/district-9,1146825/critic-review.html</url>
+         <critic>John Anderson</critic>
+      </review>
+      <review>
+         <snippet>To his credit, however, the often-playful Blomkamp never bludgeons his audience with any specific message. He's too busy letting 'er rip with his edge-of-your-seat, and unapologetically violent, sci-fi adventure.</snippet>
+         <url>http://www.nola.com/movies/index.ssf/2009/08/district_9_review_satisfyingly.html</url>
+         <critic>Mike Scott</critic>
+      </review>
+      <review>
+         <snippet>This is a delicious premise, and Blomkamp, who first played with it in a 2005 short called "Alive in Joburg," has magnified and improved it with ferocious energy, wit and style.</snippet>
+         <url>http://blog.oregonlive.com/madaboutmovies/2009/08/review_aliens_among_us_distric.html</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>Grabs you by the eyeballs from the very first frame.</snippet>
+         <url>http://www.npr.org/templates/story/story.php?storyId=111628060</url>
+         <critic>Jeannette Catsoulis</critic>
+      </review>
+      <review>
+         <snippet>Though compelling throughout, District 9 never becomes outright terrifying, largely because Blomkamp is less interested in exploiting his aliens for cheap scares than in holding up a mirror to our own bloodthirsty, xenophobic species.</snippet>
+         <url>http://www.variety.com/review/VE1117940744.html?categoryid=31&amp;cs=1</url>
+         <critic>Justin Chang</critic>
+      </review>
+      <review>
+         <snippet>District 9 whizzes by with a resourcefulness and mordant wit nearly worthy of its obvious influences: "Invasion of the Body Snatchers," "Dawn of the Dead," and "Starship Troopers."</snippet>
+         <url>http://www.villagevoice.com/2009-08-11/film/aliens-as-apartheid-metaphor-in-district-9/</url>
+         <critic>Scott Foundas</critic>
+      </review>
+      <review>
+         <snippet>Blomkamp and his entire cast and crew have created an instant genre classic that transcends the self-limiting ghetto implied by the term "science fiction" and instead, like precursors such as Robert Wise's "The Day the Earth Stood Still," engages not only the mind but the heart as well. It's magnificent.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A820620</url>
+         <critic>Marc Savlov</critic>
+      </review>
+      <review>
+         <snippet>Anyone who watches District 9 and doesn't think of Apartheid, Nazis, and Josef Mengele needs to spend some time reading a few history books.</snippet>
+         <url>http://www.reelviews.net/php_review_template.php?identifier=1766</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>South African director Neill Blomkamp set and shot the film around his native Johannesburg, so parallels to apartheid leap to mind. Yet the script he wrote with Terri Tatchell applies to any culture that bluntly excludes another.</snippet>
+         <url>http://events.charlotteobserver.com/reviews/show/53290-review-district-9</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>The reason District 9 reverberates so loudly is because its moral indignation is cranked to 11.</snippet>
+         <url>http://www.stltoday.com/stltoday/entertainment/reviews.nsf/movie/story/448D32579D961C138625761100009C53?OpenDocument</url>
+         <critic>Joe Williams</critic>
+      </review>
+      <review>
+         <snippet>Attention all geeks (and geeks at heart): Get ready for two hours of serious awesome.</snippet>
+         <url>http://www.miamiherald.com/entertainment/movies/reviews/story/1183914.html</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>This baby has the stuff to end the movie summer on a note of dazzle and distinction.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/22717751/review/29554758/district_9</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>With its clever faux documentary style, this is the most imaginative science-fiction movie to come along in years.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2009-08-13-district-9_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>A great-looking and smart film. It has enough action, wonder, depth, and action to keep any fan of the genre happy. The sociological undertones here are fascinating as well.</snippet>
+         <url>http://www.premiere.com/Review/Movies/District-9</url>
+         <critic>Staff (Not credited)</critic>
+      </review>
+      <review>
+         <snippet>The ad campaign for the sci-fi thriller District 9, with mysterious billboards touting aliens among us, is highly creative and amusing. So, in patches, is the movie, which is a thinking man's, or man-boy's, "Transformers."</snippet>
+         <url>http://www.csmonitor.com/2009/0814/p17s01-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>District 9 fuses science fiction mayhem and biting social commentary as well as any film since "Starship Troopers." It’s the rare alien invasion story that has the aliens running scared.</snippet>
+         <url>http://www.avclub.com/articles/district-9,31665/</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>A memorable, monstrous fable that's consistently gripping.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2009/08/14/2009-08-14_district_9_from_outer_space_is_proof_of_intelligent_life_in_science_fiction.html</url>
+         <critic>Joe Neumaier</critic>
+      </review>
+      <review>
+         <snippet>Blomkamp’s prawn cocktail has more than enough stylistic chutzpah and originality to make District 9 an essential date.</snippet>
+         <url>http://www.empireonline.com/reviews/reviewcomplete.asp?FID=136353</url>
+         <critic>Chris Hewitt</critic>
+      </review>
+      <review>
+         <snippet>In the best B-movie tradition, the filmmakers embed their ideas in an ingenious, propulsive and suspenseful genre entertainment, one that respects your intelligence even as it makes your eyes pop (and, once in a while, your stomach turn).</snippet>
+         <url>http://movies.nytimes.com/2009/08/14/movies/14district.html?ref=movies</url>
+         <critic>A.O. Scott</critic>
+      </review>
+      <review>
+         <snippet>The last time I felt the sort of outrageously kinetic action-movie high District 9 delivers, it was 1981 and George Miller, Mel Gibson, and "Mad Max 2: The Road Warrior" had just come roaring out of Australia.</snippet>
+         <url>http://www.boston.com/ae/movies/articles/2009/08/14/frenetic_and_gritty_district_9_skims_the_surface_of_apartheid_sci_fi_style/</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>Some movies pack such a terrific central idea, even their flaws can’t stop the train. District 9 is one of them.</snippet>
+         <url>http://featuresblogs.chicagotribune.com/talking_pictures/</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>Despite its creativity, the movie remains space opera and avoids the higher realms of science-fiction.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20090812/REVIEWS/908129987</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>You don't feel bamboozled, fooled, or patronized by District 9, as you did by most of the summer blockbusters.  You feel winded, and shaken, and shamed.  [September 14, 2009, pg.115]</snippet>
+         <url/>
+         <critic>Anthony Lane</critic>
+      </review>
+      <review>
+         <snippet>There is a lot of shield-your-eyes ickiness in District 9, a lot of violence and gore. What there is not a lot of, however, is humanity - even in the film's depiction of the inhumanity humans are capable of.</snippet>
+         <url>http://www.philly.com/philly/entertainment/movies/20090814_A_sci-fi_allegory_of_aliens_and_inhumanity.html</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>Yes, the premise is delightful; no, the delight doesn't last.</snippet>
+         <url>http://www.theglobeandmail.com/news/arts/district-9/article1249704/</url>
+         <critic>Rick Groen</critic>
+      </review>
+      <review>
+         <snippet>It's a bad joke that District 9 will be hailed for its "originality."</snippet>
+         <url>http://www.baltimoresun.com/entertainment/bal-district-9-review-0813,0,4237087.story</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>There's a wonderfully sly, farcical verve to these early moments, but it dissipates when the script, with its strains of "E.T." and "The Fly," moves into high sci-fi gear.</snippet>
+         <url>http://online.wsj.com/article/film_review.html</url>
+         <critic>Joanne Kaufman</critic>
+      </review>
+      <review>
+         <snippet>As an allegory of racial conflict and mass immigration, District 9 never really goes anywhere: The appealing premise fades into the background before 20 minutes have elapsed.</snippet>
+         <url>http://www.slate.com/id/2225285/</url>
+         <critic>Daniel Engber</critic>
+      </review>
+      <review>
+         <snippet>Unfortunately, as in many such big-screen comic books, the backstory beats the hell out of the present-tense plot.</snippet>
+         <url>http://www.chicagoreader.com/chicago/MovieTimes?film=977681</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>The movie falls into the same uneasy category as "Eight Legged Freaks": too tongue-in-cheek to be thrilling, not funny enough to be a comedy.</snippet>
+         <url>http://www.nypost.com/seven/08142009/entertainment/movies/only_a_prawn_in_game_of_life_184428.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+   </reviews>
+   <US_Gross>$115,646,235</US_Gross>
+   <production_budget>$30,000,000</production_budget>
+   <weekend_gross>$37,354,308</weekend_gross>
+   <number_of_screens>3,049</number_of_screens>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Haunting in Connecticut, The</name>
+   <company>Lionsgate</company>
+   <genres>
+      <genre>Horror</genre>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>Adam Simon</author>
+      <author>Tim Metcalfe</author>
+   </authors>
+   <directors>
+      <director>Peter Cornwell</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Virginia Madsen</actor>
+      <actor>Kyle Gallner</actor>
+      <actor>Martin Donovan</actor>
+      <actor>Elias Koteas</actor>
+      <actor>Ama Crew</actor>
+   </actors>
+   <release_date>March 27, 2009</release_date>
+   <running_time>92</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>Sinks or swims with the actors. Gallner makes a very convincing boy-about-to-die; Madsen is his properly stricken mom; and Donovan, an under-used leading man, plays the stressed, guilt-ridden dad well.</snippet>
+         <url>http://events.charlotteobserver.com/reviews/show/42843-review-the-haunting-in-connecticut</url>
+         <critic>Roger Moore</critic>
+      </review>
+      <review>
+         <snippet>Haunting tweaks familiar tropes enough to make them interesting. Just not so interesting as to inspire many nightmares after the credits roll.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film-reviews/film-review-the-haunting-in-connecticut-1003952954.story</url>
+         <critic>John DeFore</critic>
+      </review>
+      <review>
+         <snippet>Don't misunderstand: the proceedings are pretty silly, and the scares were a lot fresher back in 1979, when we first saw "The Amityville Horror." But Cornwell and his cast take things just seriously enough to keep us at least intermittently on edge.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2009/03/26/2009-03-26_the_haunting_in_connecticut_will_keep_yo.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>Although it's reasonably well-acted and offers a few certifiable jolts, feels awfully familiar.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2009-03-26-haunting-connecticut_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>Long on atmosphere yet short on dramatic tension.</snippet>
+         <url>http://www.variety.com/review/VE1117939895.html?categoryid=31&amp;cs=1</url>
+         <critic>Joe Leydon</critic>
+      </review>
+      <review>
+         <snippet>A technically proficient horror movie and well acted.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20090325/REVIEWS/903259997</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>The movie bumps along from low-grade scare to scare, and it's not lousy, mainly because Virginia Madsen prevents it from being so.</snippet>
+         <url>http://www.chicagotribune.com/entertainment/movies/chi-0327-haunting-connecticut-remar27,0,4933880.story</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>A tepid PG-13 iteration of the already lame 1979 genre classic "The Amityville Horror."</snippet>
+         <url>http://www.philly.com/philly/entertainment/movies/20090327_A_pale_imitation_of_ghost_stories_from_the_past.html</url>
+         <critic>Tirdad Derakhshani</critic>
+      </review>
+      <review>
+         <snippet>You have to be willing to take a lot of punishment for a few good scares.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/reviews/bal-to.haunting27mar27,0,1454870.story</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>Smart enough to put much of its weight on Gallner, a lively presence with a terrifically sour mug that makes him look like a mutual cousin of Willem Dafoe and Peter Lorre.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20268449,00.html</url>
+         <critic>Adam Markovitz</critic>
+      </review>
+      <review>
+         <snippet>It loses steam once the wraiths become fully visible: they're just not scary enough.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/34228_HAUNTING_IN_CONNECTICUT.html</url>
+         <critic>Andrea Gronvall</critic>
+      </review>
+      <review>
+         <snippet>Part of what makes "Connecticut" oddly watchable even as it drags is the oil-and-water mix of acting styles of the leads. Virginia Madsen's refined naturalism is an awkward fit with the sharp mannerisms of Martin Donovan.</snippet>
+         <url>http://www.latimes.com/entertainment/la-et-haunting27-2009mar27,0,7963332.story</url>
+         <critic>Mark Olsen</critic>
+      </review>
+      <review>
+         <snippet>Boring and uninspired, this movie gives ghost stories a bad name.</snippet>
+         <url>http://www.reelviews.net/php_review_template.php?identifier=1554</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>Not very haunty.</snippet>
+         <url>http://www.nypost.com/seven/03272009/entertainment/movies/its_a_real_conn__job_161480.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>A film that pays lip service to some interesting ideas, but is far too concerned with pleasing a large crowd to be anything more than another instantly forgettable fright flick.</snippet>
+         <url>http://movies.tvguide.com/haunting-connecticut/review/296815</url>
+         <critic>Jason Buchanan</critic>
+      </review>
+      <review>
+         <snippet>As a piece of storytelling, The Haunting In Connecticut is pretty lazy. As a horror movie, it’s lazier still, bringing out every annoying shock-cut and disorienting sound-design trick of the last decade.</snippet>
+         <url>http://www.avclub.com/articles/the-haunting-in-connecticut,25782/</url>
+         <critic>Keith Phipps</critic>
+      </review>
+      <review>
+         <snippet>In the realm of domestic horror, The Haunting in Connecticut is about as scary as a shower that suddenly changes temperature when someone flushes the toilet.</snippet>
+         <url>http://www.villagevoice.com/2009-03-25/film/the-haunting-in-connecticut/</url>
+         <critic>Scott Foundas</critic>
+      </review>
+      <review>
+         <snippet>Gives you the creeps, the giggles and the groans in almost equal measure.</snippet>
+         <url>http://movies.nytimes.com/2009/03/27/movies/27haun.html?ref=movies</url>
+         <critic>Jeannette Catsoulis</critic>
+      </review>
+      <review>
+         <snippet>C'mon, in matters of haunted-house inhabitation, settling into an ex-mortuary is like renting above a dentist's office -- ashen faces and ghastly screams come with the territory.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20090326.whaunting0327/BNStory/Entertainment/home</url>
+         <critic>Rick Groen</critic>
+      </review>
+      <review>
+         <snippet>When the hits finally do come, they are really only capable of scaring 13-year-olds making their first trip into the horror genre.</snippet>
+         <url>http://www.premiere.com/Review/Movies/The-Haunting-in-Connecticut</url>
+         <critic>Rob Calvert</critic>
+      </review>
+      <review>
+         <snippet>There is still a great horror movie about foreclosure to be made. In the meantime, this movie plays games. (How many rounds of hide-and-seek should an audience tolerate?)</snippet>
+         <url>http://www.boston.com/ae/movies/articles/2009/03/27/the_haunting_in_connecticut/</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>Contains so many insults to the audience's intelligence.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2009/03/27/MVV716NGMF.DTL</url>
+         <critic>Peter Hartlaub</critic>
+      </review>
+      <review>
+         <snippet>Koteas' overearnest performance almost makes The Haunting in Connecticut worth a look, but ultimately even the star of Cronenberg's "Crash" can't salvage what is essentially a substandard rip-off of "The Amityville Horror."</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A757180</url>
+         <critic>Marc Savlov</critic>
+      </review>
+   </reviews>
+   <US_Gross>$55,389,516</US_Gross>
+   <weekend_gross>$23,004,765</weekend_gross>
+   <number_of_screens>2,732</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

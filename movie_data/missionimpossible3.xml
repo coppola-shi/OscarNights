@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Mission: Impossible III</name>
+   <company/>
+   <genres>
+      <genre>Action</genre>
+      <genre>Adventure</genre>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>Alex Kurtzman</author>
+      <author>Roberto Orci</author>
+      <author>J.J. Abrams</author>
+      <author>Bruce Geller</author>
+   </authors>
+   <directors>
+      <director>J.J. Abrams</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Tom Cruise</actor>
+      <actor>Philip Seymour Hoffman</actor>
+      <actor>Ving Rhames</actor>
+      <actor>Billy Crudup</actor>
+      <actor>Michelle Monaghan</actor>
+      <actor>Jonathan Rhys Meyers</actor>
+      <actor>Laurence Fishburne</actor>
+      <actor>Bahar Soomekh</actor>
+   </actors>
+   <release_date>May 5, 2006</release_date>
+   <running_time>126</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>Yes, it's fundamentally business as usual, but it's the best kind of business as usual, and it finds everyone working in top form. Abrams imports and enlarges "Alias'" smooth, stylish, yet remarkably visceral approach to action, and the actors pack a satisfying amount of drama into the moments between action scenes.</snippet>
+         <url>http://www.avclub.com/content/node/48128</url>
+         <critic>Keith Phipps</critic>
+      </review>
+      <review>
+         <snippet>A gratifyingly clever, booby-trapped thriller that has enough fun and imagination and dash to more than justify its existence.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1190458_1_0_,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>It's an expertly engineered popcorn movie - hold the butter substitute - but it also tries (and fails) to be a love story for the ages.</snippet>
+         <url>http://www.csmonitor.com/2006/0505/p11s01-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>It's all poppycock, of course, but it's done with such vim and vigor and both narrative and visual flair that you care not a jot. Summer has arrived.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A363004</url>
+         <critic>Marc Savlov</critic>
+      </review>
+      <review>
+         <snippet>Against sizable odds -- a sense that the franchise is played out and its star over-exposed -- Mission: Impossible III delivers.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2006-05-03-mi3_x.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>The supporting cast, including Ving Rhames, Laurence Fishburne and gorgeous Maggie Q, is underused, but the movie delivers the goods.</snippet>
+         <url>http://www.nydailynews.com/05-04-2006/entertainment/col/story/414552p-350397c.html</url>
+         <critic>Jami Bernard</critic>
+      </review>
+      <review>
+         <snippet>Bury the nostalgia. Like the rap twist Kayne West puts into the film's classic theme, this movie is best when it stirs it up.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/_/id/6128976/rid/10202952/</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>In Mission: Impossible III, we find out whether it's still possible to look at Tom Cruise and not see a weirdo. The answer is yes, but a complicated yes, because it takes time.</snippet>
+         <url>http://sfgate.com/cgi-bin/article.cgi?f=/c/a/2006/05/04/DDG3LIK3LI25.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>The end result is the very definition of a summer movie: breezy, undemanding and a carefully balanced blend of the familiar and the not-quite-what-you-expected.</snippet>
+         <url>http://online.tvguide.com/newsearch/detail.aspx?id=46815&amp;sourcetype=m&amp;progseriesparentid=0&amp;tvobjectid=0&amp;keyword=&amp;more=ucmoviereview</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>It's overwrought and overplotted, but it's plenty of fun.</snippet>
+         <url>http://ae.charlotte.com/entertainment/ui/charlotte/movie.html?id=577348&amp;reviewId=20722&amp;startDate=NEXT7</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>Big and fast and silly, but it's never dumb, and it's certainly never boring, either. The summer movie onslaught has begun on a high note.</snippet>
+         <url>http://ae.miami.com/entertainment/ui/miami/movie.html?id=577348&amp;reviewId=20725</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>Unlike the previous two films in this series, Abrams is more concerned with his hero's heart than with his hardware. The result is a pulse-racing thriller that restores the human factor to the franchise, and to its producer-star.</snippet>
+         <url>http://ae.philly.com/entertainment/ui/philly/movie.html?id=577348&amp;reviewId=20728</url>
+         <critic>Carrie Rickey</critic>
+      </review>
+      <review>
+         <snippet>Though Abrams doesn't possess a fraction of the visual pizzazz of the two previous MI directors, Brian De Palma or John Woo, his incarnation is, from a narrative perspective, better made.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/LAC.20060505.MISSION05/TPStory/TPEntertainment/Movies/</url>
+         <critic>Liam Lacey</critic>
+      </review>
+      <review>
+         <snippet>In the world of bloated movie-star vehicles, it's not unusual to see an ego trip of these dimensions. What’s rare is when one hits its marks so smoothly.</snippet>
+         <url>http://newyorkmetro.com/movies/reviews/16931/</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>Abrams keeps the action clicking along in 5/8 time, and Cruise is at his scowling/smiling best as he jumps, shoots and leaves. (See Tom run! Run, Tom, run!) Best is Philip Seymour Hoffman as the baddie; the film's best sequence features him playing Cruise playing him at a swank party in Vatican City.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1092041&amp;lat=200.0&amp;lon=200.0&amp;displaySearchLocation=&amp;nm=1&amp;categories=Movies</url>
+         <critic>Ann Hornaday</critic>
+      </review>
+      <review>
+         <snippet>The summer's first action epic does exactly what it's supposed to do, more clearly than "M:i:I," and more likeably than "M:i:II."</snippet>
+         <url/>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>In his feature debut, "Lost" creator J.J. Abrams, who got the job on the basis of "Alias," takes the driver's seat with both feet on the accelerator.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1002426462</url>
+         <critic>Sheri Linden</critic>
+      </review>
+      <review>
+         <snippet>For all its far-fetched formulations, this new entry maintains more of a dramatic throughline and has the bonus of a villain played with unsparing meanness by Philip Seymour Hoffman.</snippet>
+         <url>http://www.variety.com/review/VE1117930388?categoryid=31&amp;cs=1</url>
+         <critic>Todd McCarthy</critic>
+      </review>
+      <review>
+         <snippet>Cruise is probably the most graceful physical performer to occupy the screen since Burt Lancaster, and in this sort of action role, he's just about peerless...He may not be a great actor, but to find a greater movie star would be a nigh impossible mission.</snippet>
+         <url>http://www.laweekly.com/film+tv/film/cruise-in-control/13423/</url>
+         <critic>Scott Foundas</critic>
+      </review>
+      <review>
+         <snippet>Hoffman is so proficient in this role that he just about overmatches Cruise and makes the wait until he speaks again in the second half of the film hard to endure with any patience.</snippet>
+         <url>http://www.calendarlive.com/movies/turan/cl-et-mission5may05,0,7151565.story</url>
+         <critic>Kenneth Turan</critic>
+      </review>
+      <review>
+         <snippet>M:i:III accomplishes its mission: to run smart variations on dumb tropes. After all, summer movies are not for students but for thrill consumers. Devour and enjoy.</snippet>
+         <url>http://www.time.com/time/magazine/article/0,9171,1191850,00.html</url>
+         <critic>Richard Corliss</critic>
+      </review>
+      <review>
+         <snippet>A film that climaxes in Shanghai shouldn't go down like a meal in Shanghai. But an hour after you see M:i:III, you may be hungry for a real movie.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-to.mission04may04,0,7956718.story?coll=bal-artslife-movies</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>Only theoretically, though, is this exciting. Mostly, it all feels like a lateral move that keeps alive a franchise without breaking new ground.</snippet>
+         <url>http://www.boston.com/ae/movies/articles/2006/05/04/cruise_control/</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>Maybe it's foolish to be disappointed by a pure popcorn movie, but as I walked out of this film, I felt it had failed in its mission of pure entertainment.</snippet>
+         <url>http://movie-reviews.colossus.net/movies/m/mission3.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>The real objective of all the "M:I" movies is to provide a clothesline for sensational action scenes. Nothing else matters, and explanatory dialogue would only slow things down. This formula worked satisfactorily in "M:I," directed by Brian De Palma, and "M:I II," directed by John Woo, and I suppose it works up to a point in M:I III, directed by J.J. Abrams, if what you want is endless, nonstop high-tech action.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20060503/REVIEWS/60419008</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>One of Cruise's most deeply cherished ambitions is to be a great actor, and this movie goes to great lengths to let him do that--sort of. You'll understand what I mean during the sequence in which there is more than one Philip Seymour Hoffman on the screen.</snippet>
+         <url>http://www.premiere.com/article.asp?section_id=6&amp;article_id=2800</url>
+         <critic>Glenn Kenny</critic>
+      </review>
+      <review>
+         <snippet>Though dated and unsophisticated compared to the much cooler Bourne spy thrillers, M:i:III will probably hit the sweet spot at the box-office - and give Cruise a whole new reason to start jumping on couches.</snippet>
+         <url>http://www.nypost.com/movies/67985.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>Mission: Impossible III hasn't the kinks or the oddball Continental chic of the first "Mission: Impossible," but it's less pretentious and obsessively pretty than the second movie.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-060505-movies-review-mi3,0,4102403.story?coll=mmx-movies_top_heds</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>An inspired middle-hour pumped by some solid action gives you an idea how good the franchise could be, but we now live in a post-Bourne, recalibrated-Bond universe, where Ethan Hunt looks a bit lost.</snippet>
+         <url>http://www.empireonline.com/incinemas/reviewcomplete.asp?FID=9847</url>
+         <critic>Ian Nathan</critic>
+      </review>
+      <review>
+         <snippet>M:i:III, like many blockbusters, would be nothing without its star.</snippet>
+         <url>http://www.newyorker.com/critics/cinema/?060515crci_cinema</url>
+         <critic>Anthony Lane</critic>
+      </review>
+      <review>
+         <snippet>The movie raises your pulse, it has visual wow. But I suspect that audiences will emerge into the light feeling more battered than entertained.</snippet>
+         <url>http://www.slate.com/id/2141078/?nav=fo</url>
+         <critic>Michael Agger</critic>
+      </review>
+      <review>
+         <snippet>Producer-star Tom Cruise handed this one to alumni from the TV spy drama "Alias,"  and the result is nearly as good as the series' best, Woo's Mission: Impossible 2.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/29732_MISSION_IMPOSSIBLE_THREE.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>While all the "Mission" plots are convoluted and slightly preposterous -- the keyword in the title is "Impossible" -- the latest is just this side of insultingly stupid. The longer you think about it, the less sense it all makes.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/268894_mission04q.html</url>
+         <critic>William Arnold</critic>
+      </review>
+      <review>
+         <snippet>Absent the real sense of creepiness and highly honed film craft of De Palma, or the strong visual and emotional sensibility of Woo, M: I III feels like one of the more forgettable James Bond films -- saddled, moreover, with a star who's sliding into self-parody.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/11466915083900.xml&amp;coll=7</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>Clearly designed to be an action thriller with emotional underpinnings. But you can't get blood from a stone, no matter how hard you squeeze. And so Cruise, a huge box-office star, is the single bright, blinking emblem of the failure of Mission: Impossible III.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2006/05/04/m_i3/index.html</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>Mr. Hoffman enlivens Mission: Impossible III, which otherwise droops, done in both by the maudlin romance and by Mr. Abrams's inability to adapt his small-screen talent -- evident in his capacity as the television auteur behind "Alias" and "Lost" -- to a larger canvas.</snippet>
+         <url>http://movies2.nytimes.com/2006/05/05/movies/05impo.html</url>
+         <critic>Manohla Dargis</critic>
+      </review>
+      <review>
+         <snippet>Watching this movie is like sitting on your couch for two hours to catch a little network prime time: you may be mildly entertained, but damned if you’ll remember any of it five minutes later. On the plus side, you probably won’t care.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=8966</url>
+         <critic>Pete Vonder Haar</critic>
+      </review>
+      <review>
+         <snippet>Aside from a single jazzy image of Hunt taking a nosedive off a Shanghai skyscraper, Abrams' movie is too oppressive, too enamored of its brutality to deliver anything like real thrills; its deeply unpleasant tone nearly makes you long even for Woo's cartoon absurdities.</snippet>
+         <url>http://www.dallasobserver.com/Issues/2006-05-04/film/film4.html</url>
+         <critic>Rob Nelson</critic>
+      </review>
+   </reviews>
+   <US_Gross>$133,501,348</US_Gross>
+   <production_budget>$150,000,000</production_budget>
+   <weekend_gross>$47,743,273</weekend_gross>
+   <number_of_screens>4,054</number_of_screens>
+   <highest_grossing_actors_present/>
+   <num_highest_grossing_actors>1</num_highest_grossing_actors>
+   <highest_grossing_actor>tom cruise</highest_grossing_actor>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

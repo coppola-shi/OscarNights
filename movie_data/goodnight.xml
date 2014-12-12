@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Good Night, The</name>
+   <company>Yari Film Group</company>
+   <genres>
+      <genre>Comedy</genre>
+      <genre>Drama</genre>
+      <genre>Romance</genre>
+   </genres>
+   <authors>
+      <author>Jake Paltrow</author>
+   </authors>
+   <directors>
+      <director>Jake Paltrow</director>
+   </directors>
+   <origins>
+      <origin>USAUK</origin>
+   </origins>
+   <actors>
+      <actor>Penélope Cruz</actor>
+      <actor>Martin Freeman</actor>
+      <actor>Gwyneth Paltrow</actor>
+      <actor>Simon Pegg</actor>
+      <actor>Danny DeVito</actor>
+   </actors>
+   <release_date>October 5, 2007</release_date>
+   <running_time>93</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>Jake Paltrow's comedy takes familiar male-angst material and turns it into a painful--but fun--string of jokes.</snippet>
+         <url>http://nymag.com/listings/movie/the-good-night/</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>Though its forays into the subconscious may strike more adventurous cinematic palettes as precious and unimaginative, few will be able to resist Martin Freeman's appealing lead turn or the wry Brit wit that gives this fanciful confection a robust comic core.</snippet>
+         <url>http://www.variety.com/index.asp?layout=features2007&amp;content=jump&amp;jump=review&amp;dept=berlin&amp;nav=RBerlin&amp;articleid=VE1117932575&amp;cs=1&amp;p=0</url>
+         <critic>Justin Chang</critic>
+      </review>
+      <review>
+         <snippet>The filmmaker's got good taste -- and luck -- in casting.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20132514,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>Either way, it's too pretentious--or not nearly pretentious enough.</snippet>
+         <url>http://www.avclub.com/content/cinema/the_good_night</url>
+         <critic>Keith Phipps</critic>
+      </review>
+      <review>
+         <snippet>The Good Night has flashes of bookish wit but never quite recovers from the metronomic monotony of its first half, which ticktocks between scenes of Paltrow braying and Cruz voguing.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-good2nov02,0,4340355.story?coll=cl-mreview</url>
+         <critic>Jan Stuart</critic>
+      </review>
+      <review>
+         <snippet>As thin and wispy as a dream you can't quite remember in the morning, writer-director Jake Paltrow's The Good Night wastes the ample comedy talent of Martin Freeman, turns his famous sister Gwyneth into a shrew, and makes you wish Danny DeVito had directed the movie instead of acting in it.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2007/10/05/2007-10-05_the_good_night_is_a_snore.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>The Good Night is at heart a mediocre Sundance variation on the Dudley Moore-Bo Derek alleged classic "10."</snippet>
+         <url>http://www.nypost.com/seven/10052007/entertainment/movies/all_hes_gotta_do_is_dream.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>Director Jake Paltrow's feature debut has all the hallmarks of an earnest young man's feature debut, and while that is not necessarily a bad thing, I can only imagine that it fit Sundance like a fingerless glove when it had its premiere there earlier this year.</snippet>
+         <url>http://www.villagevoice.com/film/0740,orange,77965,20.html</url>
+         <critic>Michelle Orange</critic>
+      </review>
+      <review>
+         <snippet>There is a fine idea for a romantic comedy in Jake Paltrow's The Good Night but the writer-director, in his debut feature, never develops it much beyond the idea stage.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/imdb/reviews/article_display.jsp?rid=8707&amp;vnu_special_account_code=thrsiteimdbpro</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>The comedy of male midlife angst dates back at least to “The Seven-Year Itch,” when it was sweet and innocent. Each time it is recycled, it gets more sour and joyless.</snippet>
+         <url>http://movies.nytimes.com/2007/10/05/movies/05nigh.html?ref=movies</url>
+         <critic>Stephen Holden</critic>
+      </review>
+      <review>
+         <snippet>There's a gloomy quality to The Good Night I sort of appreciated -- much of it was shot in London, although it's supposed to occur in New York -- but after the initial acerbic setup fades, Gary becomes less and less likable and the movie evaporates into nothing.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2007/10/04/btm/index3.html</url>
+         <critic>Andrew O&amp;#039;Hehir</critic>
+      </review>
+      <review>
+         <snippet>The movie's film-studentish navel-gazing wears thin long before its over.</snippet>
+         <url>http://www.tvguide.com/detail/movie.aspx?tvobjectid=290845&amp;more=ucmoviereview</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+   </reviews>
+   <US_Gross>$22,441</US_Gross>
+   <production_budget>$15,000,000</production_budget>
+   <weekend_gross>$12,377</weekend_gross>
+   <number_of_screens>2</number_of_screens>
+   <oscar_winning_actors_present/>
+   <num_oscar_winning_actors>1</num_oscar_winning_actors>
+   <oscar_winning_actor>gwyneth paltrow</oscar_winning_actor>
+   <highest_grossing_actors_present/>
+   <num_highest_grossing_actors>1</num_highest_grossing_actors>
+   <highest_grossing_actor>danny devito</highest_grossing_actor>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

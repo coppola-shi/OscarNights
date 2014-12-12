@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>What Happens in Vegas...</name>
+   <company>20th Century Fox</company>
+   <genres>
+      <genre>Comedy</genre>
+      <genre>Romance</genre>
+   </genres>
+   <authors>
+      <author>Dana Fox</author>
+   </authors>
+   <directors>
+      <director>Tom Vaughan</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Cameron Diaz</actor>
+      <actor>Ashton Kutcher</actor>
+      <actor>Rob Corddry</actor>
+      <actor>Treat Williams</actor>
+      <actor>Dennis Farina</actor>
+   </actors>
+   <release_date>May 9, 2008</release_date>
+   <running_time>99</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>A first- or second-date flick, after which there can be some Cheesecake Factory and maybe a peck on the cheek, no harm done. What Happens in Vegas is pleasant enough for all of that (and it sidesteps all that "Forgetting Sarah Marshall" raunch).</snippet>
+         <url>http://seattlepi.nwsource.com/movies/362294_vegas09q.html</url>
+         <critic>Travis Nichols</critic>
+      </review>
+      <review>
+         <snippet>Amiable screwball comedy.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/33110_WHAT_HAPPENS_IN_VEGAS.html</url>
+         <critic>Andrea Gronvall</critic>
+      </review>
+      <review>
+         <snippet>An exceedingly bright comedy that never makes you feel stupid for enjoying its brisk pacing, smart lines, sound construction and superb comic acting, not only from Ashton Kutcher but from Cameron Diaz and well-chosen No. 2 bananas Rob Corddry and Lake Bell.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1144742&amp;&amp;categories=Movies&amp;nm=1</url>
+         <critic>Stephen Hunter</critic>
+      </review>
+      <review>
+         <snippet>Kutcher, who gives his most energized performance to date, and Diaz, darting between the caustic and shrill, look as if they're warming up to groovy hate sex, not love, which may be why the film goes flat the moment it turns friendly.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20198410,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>Their chemistry goes like this: He cleans up real nice; she dirties down with gusto.</snippet>
+         <url>http://www.philly.com/inquirer/columnists/carrie_rickey/20080509_They_marry_in_haste_and_repent_in_laughter.html</url>
+         <critic>Carrie Rickey</critic>
+      </review>
+      <review>
+         <snippet>Sadly, about the nicest thing I can say about What Happens in Vegas is that I didn't hate it - although I suppose that's something.</snippet>
+         <url>http://www.reelviews.net/movies/w/what_happens.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>This two-seated star vehicle for top-billed Ashton Kutcher and Cameron Diaz wrings a respectable number of laughs from a formulaic scenario about attracted-opposites who bicker and back-stab their way toward happily-ever-aftering.</snippet>
+         <url>http://www.variety.com/review/VE1117937013.html?categoryid=31&amp;cs=1</url>
+         <critic>Joe Leydon</critic>
+      </review>
+      <review>
+         <snippet>The stars, despite having only a fraction of the charm and talent of classic sparring-but-meant-for-each-other duos, know how to mug for the camera and well up on cue, and somehow that turns out to be enough to carry this trifle.</snippet>
+         <url>http://www.laweekly.com/film+tv/film-reviews/movie-reviews-the-fall-i-for-india-mister-lonely/18849/?page=3</url>
+         <critic>Julia Wallace</critic>
+      </review>
+      <review>
+         <snippet>Hokey and forced as it is, What Happens in Vegas eventually settles into a rhythm, maybe because Diaz and Kutcher actually look like they have fun together.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-vegas9-2008may09,0,3189454.story</url>
+         <critic>Carina Chocano</critic>
+      </review>
+      <review>
+         <snippet>The overwhelming sensation of deja vu is exhausting and disorienting. You really HAVE seen it all before.</snippet>
+         <url>http://www.miamiherald.com/1054/story/525420.html</url>
+         <critic>Connie Ogle</critic>
+      </review>
+      <review>
+         <snippet>Complain all you want about the affable slobs in Judd Apatow comedies; at least they're not tools.</snippet>
+         <url>http://www.avclub.com/content/cinema/what_happens_in_vegas</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>Cameron Diaz is the ideal guy's gal and Ashton Kutcher is, well, a guy. Together, they're a zero.</snippet>
+         <url>http://www.tvguide.com/movies/happens-vegas/review/292572</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>It's a story that feels familiar at best, hackneyed at worst, which is surprising and disappointing, as director Tom Vaughan also made last year's "Starter for 10," a charming British coming-of-age comedy.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2008-05-08-what-happens-in-vegas_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>After the initial charm wears off, the whole thing gets check-your-text-messages dull.</snippet>
+         <url>http://www.oregonlive.com/movies/index.ssf/2008/05/review_the_silly_love_songs_of.html</url>
+         <critic>M. E. Russell</critic>
+      </review>
+      <review>
+         <snippet>As it is, it's too restrained, too often -- too eager to gallop toward postcard sunsets on the beach when tequila shooters and lap dances are what the moment calls for. You'd think the combination of Diaz, Kutcher and Vegas would be good for at least a little sexy, silly fun. But don't bet on it.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2008/05/09/vegas/</url>
+         <critic>Mary Elizabeth Williams</critic>
+      </review>
+      <review>
+         <snippet>While Diaz and Kutcher make their clichéd characters as likable as possible, you can bet on this: Any movie named after an already-stale ad campaign isn't likely to gamble on the unexpected.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2008/05/09/2008-05-09_excess_booze_leads_to_an_altared_state_i.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>Bland enough to make millions as culture edges closer to oblivion.</snippet>
+         <url>http://www.empireonline.com/reviews/reviewcomplete.asp?FID=135462</url>
+         <critic>Ian Nathan</critic>
+      </review>
+      <review>
+         <snippet>The screenplay by Dana Fox (she was one of the rewriters of "27 Dresses") devolves into a series of humiliating pranks that always give the upper narrative hand to the male lead. Talk about depressing. I mean, that's what male screenwriters are for--to unfairly stack the deck against the female leads.</snippet>
+         <url>http://chicago.metromix.com/movies/movie_review/movie-review-what-happens/408130/content</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>Laughs are few and far between in the innuendo-laden script attributed to Dana Fox, who's also responsible for the reprehensible "The Wedding Date."</snippet>
+         <url>http://www.nypost.com/seven/05092008/entertainment/movies/bet_youll_hate_it_110005.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>If you don't see where this is going, you've never seen a movie. Sorry it had to be this one.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/17522692/review/20757186/what_happens_in_vegas</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>What Happens in Vegas should damn well have stayed in Vegas.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20080509.wvegas09/BNStory/Entertainment/home</url>
+         <critic>Rick Groen</critic>
+      </review>
+      <review>
+         <snippet>What Happens in Vegas is not only annoying, it's also incompetent – a bad mix.</snippet>
+         <url>http://www.csmonitor.com/2008/0509/p25s07-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>Only Diaz shows spark because the actress knows how to simultaneously play nice and be a nasty character, thereby gaining audience sympathy. Everyone else hits one note, and it isn't nice.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?&amp;rid=11064</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>Who wants to spend a minute on the Strip with the chance that there might be people as annoying as the characters played by Cameron Diaz and Ashton Kutcher walking around?</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2008/05/08/DDIS10ICIQ.DTL&amp;type=movies</url>
+         <critic>Peter Hartlaub</critic>
+      </review>
+      <review>
+         <snippet>The one actor I wanted more of was Williams, who imbues Jack's dad with a robust, sometimes domineering wiliness that suggests a real person. Of course, these silly, inept filmmakers probably cast him because he plays a good guy and his first name is Treat.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/reviews/bal-to.vegas09may09,0,7958999.story</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>When it was over I felt vaguely embarrassed. I wasn't just leaving a movie theater. I was taking a walk of shame.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=10665</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>If What Happens in Vegas... serves any purpose, it's to make me consider spending my gambling money in Reno or on a riverboat instead.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=10955</url>
+         <critic>Pete Vonder Haar</critic>
+      </review>
+      <review>
+         <snippet>If you're gonna hire one of the funniest American comedians working today – Zach Galifianakis – and shove him to the side of the frame, then frankly, you can take what happens in Vegas, keep it in Vegas, and keep the rest of the us out of it.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A619793</url>
+         <critic>Kimberley Jones</critic>
+      </review>
+      <review>
+         <snippet>What Happens in Vegas... should have stayed in development -- forever. This ramshackle -- and occasionally repulsive -- farce doesn't even deliver on the minimal promise of its title; most of it takes place in Manhattan.</snippet>
+         <url>http://online.wsj.com/article/SB121028585161579009.html</url>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>Because its director, Tom Vaughan, brings nothing of interest to the movie, including filmmaking, there isn't anything to say other than to note its insulting ugliness and ineptitude.</snippet>
+         <url>http://movies.nytimes.com/2008/05/09/movies/09vega.html?ref=movies</url>
+         <critic>Manohla Dargis</critic>
+      </review>
+      <review>
+         <snippet>Worst-in-breed not only for this year, but very likely in living memory.</snippet>
+         <url>http://www.time.com/time/arts/article/0,8599,1738649,00.html</url>
+         <critic>Richard Schickel</critic>
+      </review>
+   </reviews>
+   <US_Gross>$80,277,646</US_Gross>
+   <weekend_gross>$20,172,474</weekend_gross>
+   <number_of_screens>3,215</number_of_screens>
+   <highest_grossing_actors_present/>
+   <num_highest_grossing_actors>1</num_highest_grossing_actors>
+   <highest_grossing_actor>cameron diaz</highest_grossing_actor>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

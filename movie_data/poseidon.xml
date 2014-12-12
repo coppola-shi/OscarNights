@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Poseidon</name>
+   <company>Warner Bros.</company>
+   <genres>
+      <genre>Action</genre>
+      <genre>Adventure</genre>
+      <genre>Drama</genre>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>Mark Protosevich</author>
+      <author>Paul Gallico</author>
+   </authors>
+   <directors>
+      <director>Wolfgang Petersen</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Josh Lucas</actor>
+      <actor>Kurt Russell</actor>
+      <actor>Jacinda Barrett</actor>
+      <actor>Richard Dreyfuss</actor>
+      <actor>Jimmy Bennett</actor>
+      <actor>Emmy Rossum</actor>
+      <actor>Mike Vogel</actor>
+      <actor>Mía Maestro</actor>
+      <actor>Andre Braugher</actor>
+      <actor>Kevin Dillon</actor>
+   </actors>
+   <release_date>May 12, 2006</release_date>
+   <running_time>97</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>It's a buoyant, old-wave disaster pic for a generation of well-conditioned thrill seekers charmed by the revelation that Richard Dreyfuss really is the Red Buttons of our day.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1192889_1_0_,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>Beyond being a showplace for crash-and-burn effects, Poseidon seems to be stumping for togetherness.</snippet>
+         <url>http://www.csmonitor.com/2006/0512/p11s03-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>A shot in the arm for the classic disaster movie: awesome effects, nail-biting tension and a cast of characters we don’t want dead after half an hour - even, amazingly, the cute kid.</snippet>
+         <url>http://www.empireonline.com/reviews/review.asp?FID=9969</url>
+         <critic>Simon Braund</critic>
+      </review>
+      <review>
+         <snippet>You'll end up entertained if you forgive the cliches and let Petersen grab you with the visuals.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/_/id/7222814/rid/10147202/</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>As clumsy as the movie is in many ways, it strings together maybe a dozen situations in which we are absolutely, excruciatingly, on the edge of our seats -- which is to say that the new Poseidon essentially does its job.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/269690_poseidon11q.html</url>
+         <critic>William Arnold</critic>
+      </review>
+      <review>
+         <snippet>The new cast is no match for the star-clustered original, but Lucas, who looks much like a young Paul Newman (you may think you're watching "The Towering Inferno"), has a strong, matinee-idol presence, and Russell is a reliable old hand at this sort of thing.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/moviereviews/story/417018p-352128c.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>An extremely well-crafted exercise in physical invention and fear. Yet within those limits--the limits of a pop-digital survival drama--Poseidon is an exciting show.</snippet>
+         <url>http://www.newyorker.com/critics/cinema/?060522crci_cinema</url>
+         <critic>David Denby</critic>
+      </review>
+      <review>
+         <snippet>Petersen leaves out, largely, character, back story, anecdote and warm personal relations. Poseidon isn't cute, funny, warm, nice, inspirational or uplifting. It's about the incredible labor of survival in a world turned totally sociopathic in an instant.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1108796&amp;lat=200.0&amp;lon=200.0&amp;displaySearchLocation=&amp;nm=1&amp;categories=Movies</url>
+         <critic>Stephen Hunter</critic>
+      </review>
+      <review>
+         <snippet>Among the willing cast, only Jacinda Barrett and topliners Josh Lucas, Kurt Russell and Richard Dreyfuss manage, just barely, to suggest a third dimension to the script's cursory character sketches. But that won't matter to audiences craving a disaster thrill ride.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1002463842</url>
+         <critic>Sheri Linden</critic>
+      </review>
+      <review>
+         <snippet>Thanks to its simple construction, Wolfgang Petersen's large-scale liner moves reasonably well, though anyone with the faintest memory of its 1972 predecessor will wonder where most of the plot went.</snippet>
+         <url>http://www.variety.com/review/VE1117930420?categoryid=31&amp;cs=1</url>
+         <critic>Brian Lowry</critic>
+      </review>
+      <review>
+         <snippet>Poseidon is devoid of anything that might conjure up memories of the Winslet/DiCaprio coupling. Its straightforward action/adventure approach is both a strength and a weakness.</snippet>
+         <url>http://movie-reviews.colossus.net/movies/p/poseidon.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>By stripping the genre down to its essentials, long on the serial disasters but thankfully light on the stupid dialogue, [Petersen] not only maintains an acceptable modicum of suspense but -- here's the major bonus -- also manages to set a blissful speed record in the process, bringing his pricey blockbuster home to port in under 100 minutes.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/LAC.20060512.POSEIDON12/TPStory/TPEntertainment/Movies/</url>
+         <critic>Rick Groen</critic>
+      </review>
+      <review>
+         <snippet>In the plus column, Poseidon is a tightly-paced action movie that doesn’t depend too much on special effects for its thrills.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=8986</url>
+         <critic>Pete Vonder Haar</critic>
+      </review>
+      <review>
+         <snippet>The effects are terrific, from the two-and-a-half-minute opening sequence that tracks around the brilliantly lit liner from below, above and round about, to some amazing exterior shots of the groaning vessel rolling around in the churning sea like a giant, wounded whale.</snippet>
+         <url>http://www.laweekly.com/film+tv/film/das-wasserlogged-boot/13489/</url>
+         <critic>Ella Taylor</critic>
+      </review>
+      <review>
+         <snippet>"Titanic" without the metaphors, the class-consciousness, the love story, or anything resembling a theme, Poseidon invests so little in its screenplay that it might as well be an episode of "The Love Boat" gone horribly awry.</snippet>
+         <url>http://www.avclub.com/content/node/48287</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>Overall it's slick, brainless entertainment.</snippet>
+         <url>http://online.tvguide.com/newsearch/detail.aspx?id=46817&amp;sourcetype=m&amp;progseriesparentid=0&amp;tvobjectid=0&amp;keyword=&amp;more=ucmoviereview</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>The movie is, in all senses, a big downer.</snippet>
+         <url>http://newyorkmetro.com/movies/reviews/16996/</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>An acceptably entertaining picture. At just 100 minutes long, it feels tight and trim, and unlike so many contemporary action pictures, it boasts only one ending, instead of three false ones. What's more, it's just as dumb as the original.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2006/05/12/poseidon/index.html</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>After 9/11 and Katrina, this megabudget remake by Wolfgang Petersen benefits from a similar cultural oomph, though it's just as enjoyably silly as the original.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/29771_POSEIDON.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>Exciting and nerve-racking in the moment, but empty.</snippet>
+         <url>http://sfgate.com/cgi-bin/article.cgi?f=/c/a/2006/05/11/DDGCSIONGL1.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>Aside from a disturbingly graphic depiction of a drowning, there is also death by fire, electrocution and giant falling objects.</snippet>
+         <url>http://ae.miami.com/entertainment/ui/miami/movie.html;jsessionid=26101EBC1792D2FA4EC32DB08BC489FA.prodapp14_ae_02?id=592301&amp;reviewId=20784&amp;startDate=05%2F11%2F2006</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>The special effects, with one painful exception, hold up beautifully. But the people have no personalities, the story is unconvincing, and the whole movie is as shallow as the puddle left on a flat roof by a 20-minute shower.</snippet>
+         <url>http://ae.charlotte.com/entertainment/ui/charlotte/movie.html;jsessionid=37798EFA865EFB2E97A6BD3E5C50CA90.prodapp15_ae_01?id=592301&amp;reviewId=20761&amp;startDate=05%2F11%2F2006</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>There's nothing hip or ironic about Poseidon, which makes Russell and Lucas the perfect leading men.</snippet>
+         <url>http://ae.philly.com/entertainment/ui/philly/movie.html;jsessionid=3C3360384AFB996F97CCD92CBA1A8CAF.prodapp12_ae_01?id=592301&amp;reviewId=20762&amp;startDate=05%2F11%2F2006</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>Maybe it's the era we're living in, but the new film is as much fun as a shroud.</snippet>
+         <url>http://www.boston.com/ae/movies/articles/2006/05/11/poseidon_sinks_of_its_own_weight/</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>Pretty much pure boilerplate: a reasonably well-executed throwaway that, when you finally get around to seeing it in its proper setting, will make you glad you decided to travel by air instead of by sea.</snippet>
+         <url>http://movies2.nytimes.com/2006/05/12/movies/12pose.html</url>
+         <critic>Dana Stevens</critic>
+      </review>
+      <review>
+         <snippet>More than characters, dialogue and lighting, here Petersen is interested exclusively in suspense of the will-he-or-won't-he-be-crushed-by-that-falling-flaming-elevator variety.</snippet>
+         <url>http://www.calendarlive.com/movies/cl-et-poseidon12may12,0,3930968.story</url>
+         <critic>Carina Chocano</critic>
+      </review>
+      <review>
+         <snippet>There is nothing wrong with the performances. All of the actors are professionals, although none have as much fun as Shelley Winters, who is the actor everyone remembers from the 1972 movie.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20060510/REVIEWS/60508004</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>At least Poseidon takes care to dispatch the Black Eyed Peas' Stacy Ferguson who, as the shipboard entertainer, sings what may be the worst song ever written, reprised over the end credits.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-060512-movies-review-poseidon,0,1603092.story?coll=mmx-movies_top_heds</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>Poseidon '06 is spectacularly noisy, uninteresting and character-free.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/1147296308317380.xml&amp;coll=7</url>
+         <critic>M. E. Russell</critic>
+      </review>
+      <review>
+         <snippet>Isn't quite self-aware enough to be really funny, and certainly isn't serious or genuinely exciting enough to be thrilling because of it's action.</snippet>
+         <url>http://www.premiere.com/article.asp?section_id=2&amp;article_id=2817</url>
+         <critic>Jessica Letkemann</critic>
+      </review>
+      <review>
+         <snippet>Poseidon is a sodden saga, with a script that is awash in clichés. It nearly drowns under the weight of its own soggy tedium.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2006-05-10-poseidon_x.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>An utterly empty-skulled genre mechanism and nothing more.</snippet>
+         <url>http://www.villagevoice.com/film/0619,atkinson,73161,20.html</url>
+         <critic>Michael Atkinson</critic>
+      </review>
+      <review>
+         <snippet>If this version had been called The Poseidon Adventure, audiences could have sued for truth in packaging.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-to.poseidon12may12,0,7023042.story?coll=bal-movies-utility</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>A deeply dreadful movie -- no, a shallowly dreadful movie -- that's too unpleasant and repetitive to be entertaining, even as camp.</snippet>
+         <url/>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>It's all so much blood and brine signifying nothing, not even a good time. Now somebody do us all a favor and cut that albatross from around Petersen's neck already.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A364108</url>
+         <critic>Marc Savlov</critic>
+      </review>
+      <review>
+         <snippet>It's "Das Bomb." It's "The Perfunctory Storm."</snippet>
+         <url>http://www.nypost.com/movies/68419.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+   </reviews>
+   <US_Gross>$60,674,817</US_Gross>
+   <production_budget>$160,000,000</production_budget>
+   <weekend_gross>$22,155,410</weekend_gross>
+   <number_of_screens>3,555</number_of_screens>
+   <oscar_winning_actors_present/>
+   <num_oscar_winning_actors>1</num_oscar_winning_actors>
+   <oscar_winning_actor>richard dreyfuss</oscar_winning_actor>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Brokeback Mountain</name>
+   <company>Focus Features</company>
+   <genres>
+      <genre>Drama</genre>
+      <genre>Romance</genre>
+   </genres>
+   <authors>
+      <author>Larry Mc</author>
+      <author>Murtry</author>
+      <author>Diana Ossana</author>
+      <author>E. Annie Proulx</author>
+   </authors>
+   <directors>
+      <director>Ang Lee</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Jake Gyllenhaal</actor>
+      <actor>Heath Ledger</actor>
+      <actor>Michelle Williams</actor>
+      <actor>Anne Hathaway</actor>
+      <actor>Ry Quaid</actor>
+      <actor>Linda Cardellini</actor>
+      <actor>Anna Faris</actor>
+      <actor>Scott Michael Campbell</actor>
+   </actors>
+   <release_date>December 9, 2005</release_date>
+   <running_time>134</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>Brokeback Mountain is that rare thing, a big Hollywood weeper with a beautiful ache at its center. It's a modern-age Western that turns into a quietly revolutionary love story.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1136099_1_0_,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>Ang Lee's unmissable and unforgettable Brokeback Mountain hits you like a shot in the heart. It's a landmark film and a triumph for Heath Ledger and Jake Gyllenhaal.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/_/id/6169704?pageid=rs.ReviewsMovieArchive&amp;pageregion=mainRegion</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>Anne Proulx's 1997 short story in the New Yorker has been masterfully expanded by screenwriters Larry McMurtry and Diana Ossana to provide director Lee with his best movie since "Sense and Sensibility" in 1995.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1001054462</url>
+         <critic>Ray Bennett</critic>
+      </review>
+      <review>
+         <snippet>Lee and company handle the particulars of the tale with the requisite meticulousness and exquisite taste that marks all the director's films.</snippet>
+         <url>http://www.premiere.com/article.asp?section_id=2&amp;article_id=2428</url>
+         <critic>Glenn Kenny</critic>
+      </review>
+      <review>
+         <snippet>Carries a lot of emotional power.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2005/12/08/DDG9QG3VR01.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>Brokeback Mountain is a tragedy because these men have found something that many people, of whatever sexual persuasion, never find - true love. And they can't do anything about it.</snippet>
+         <url>http://www.csmonitor.com/2005/1209/p11s03-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>Mr. Ledger magically and mysteriously disappears beneath the skin of his lean, sinewy character. It is a great screen performance, as good as the best of Marlon Brando and Sean Penn.</snippet>
+         <url>http://movies2.nytimes.com/2005/12/09/movies/09brok.html</url>
+         <critic>Stephen Holden</critic>
+      </review>
+      <review>
+         <snippet>Confidently directed by Ang Lee and featuring sensitive and powerful performances by Jake Gyllenhaal and a breathtaking Heath Ledger, this film is determined to involve us in the naturalness and even inevitability of its epic, complicated love story.</snippet>
+         <url>http://www.calendarlive.com/movies/turan/cl-et-brokeback9dec09,0,186375.story</url>
+         <critic>Kenneth Turan</critic>
+      </review>
+      <review>
+         <snippet>Brokeback Mountain aspires to an epic sweep and achieves it, though with singular intimacy and grace.</snippet>
+         <url/>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>It's a heart-wrenching portrayal of unfulfilled Wyoming love, but this time, we don't mean Alan Ladd and Jean Arthur in "Shane."</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2005-12-08-brokeback_x.htm</url>
+         <critic>Mike Clark</critic>
+      </review>
+      <review>
+         <snippet>Gently unfolds into an epic, heartbreaking love story that's far greater than the sum of its parts.</snippet>
+         <url>http://www.nydailynews.com/12-09-2005/front/story/373326p-317189c.html</url>
+         <critic>Jami Bernard</critic>
+      </review>
+      <review>
+         <snippet>There's neither coyness nor self-importance in Brokeback Mountain--just close, compassionate observation, deeply committed performances, a bone-deep feeling for hardscrabble Western lives. Few films have captured so acutely the desolation of frustrated, repressed passion.</snippet>
+         <url>http://www.msnbc.msn.com/id/10414366/site/newsweek/</url>
+         <critic>David Ansen</critic>
+      </review>
+      <review>
+         <snippet>The real revelation here is Heath Ledger as the bruised and sometimes brutal Ennis. His tortured secret is the tragedy and the ecstasy of this powerful and moving film, a smart study of relationships that could but can't and never will be.</snippet>
+         <url>http://www.empireonline.co.uk/futurefilms/review.asp?id=9981</url>
+         <critic>Staff (Not credited)</critic>
+      </review>
+      <review>
+         <snippet>Brokeback Mountain has been described as "a gay cowboy movie," which is a cruel simplification. It is the story of a time and place where two men are forced to deny the only great passion either one will ever feel. Their tragedy is universal.</snippet>
+         <url>http://www.rogerebert.com/apps/pbcs.dll/article?AID=/20051215/REVIEWS/51019006/1023</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>This poignant, wise and subtle picture -- which, yes, happens to be the best movie of the year -- should be approached with humble expectations. Lee's approach to this delicate material is suffused with melancholy, metaphors and small, telling touches that favor subtlety over exclamation points and rough-hewn simplicity over grandiloquence.</snippet>
+         <url>http://ae.miami.com/entertainment/ui/miami/movie.html?id=494615&amp;reviewId=19725</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>An experience as tender and troubling as any you're likely to get - or not likely, if this subject puts you off.</snippet>
+         <url>http://ae.charlotte.com/entertainment/ui/charlotte/movie.html?id=494615&amp;reviewId=19868&amp;startDate=NEXT7</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>So in all the tumult about this film, the eruption of its subject into wide attention and the consequent revelations about cowboys' lives in the past, let us--without forgetting the American sources of the screenplay--acknowledge the anomaly that the director is Chinese.</snippet>
+         <url>http://www.tnr.com/doc.mhtml?i=20060116&amp;s=kauffmann011606</url>
+         <critic>Stanley Kauffmann</critic>
+      </review>
+      <review>
+         <snippet>Beautiful, poetic, mournful, at once rich and spare, Brokeback Mountain takes a daring conceit and creates of it an overwhelming work of art that should speak to anyone capable of love.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/113451452361701.xml&amp;coll=7</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>It's by far the most uncompromising and unapologetic gay-themed drama ever made for a wide release by a major Hollywood studio with name stars.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/252230_brokeback16q.html</url>
+         <critic>William Arnold</critic>
+      </review>
+      <review>
+         <snippet>Brokeback Mountain is at once the gayest and the least gay Hollywood film I've seen, which is another way of saying that Lee has a knack for culling universality from the most specific identities.</snippet>
+         <url>http://www.laweekly.com/ink/06/03/film-taylor.php</url>
+         <critic>Ella Taylor</critic>
+      </review>
+      <review>
+         <snippet>If, in its groundbreaking assault on the mythology of the American West, Brokeback Mountain gets a lot of people into a furious lather, so be it.</snippet>
+         <url>http://dallasobserver.com/Issues/2005-12-15/film/film2.html</url>
+         <critic>Bill Gallo</critic>
+      </review>
+      <review>
+         <snippet>The remarkable thing director Ang Lee has done is to have made a film that remains firmly in the Western genre while never retreating from its portrayal of a tragic love story.</snippet>
+         <url>http://newyorkmetro.com/nymetro/movies/reviews/15224/</url>
+         <critic>Ken Tucker</critic>
+      </review>
+      <review>
+         <snippet>This slow and stoic movie, hailed as a gay Western, feels neither gay nor especially Western: it is a study of love under siege.</snippet>
+         <url>http://www.newyorker.com/critics/cinema/?051212crci_cinema</url>
+         <critic>Anthony Lane</critic>
+      </review>
+      <review>
+         <snippet>It's possible to point to some weak spots in Brokeback – its seeming multiple endings, the lack of clarity about certain images, some digressions – but there is no movie this year that has moved my heart more than Brokeback Mountain.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A319812</url>
+         <critic>Marjorie Baumgarten</critic>
+      </review>
+      <review>
+         <snippet>Brokeback may be too polished for some people, too elegantly dispassionate in its study of choked passion.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=7871</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>A good and eloquent Wyoming-set love story with a great performance at its heart.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-0501216-movies-review-brokeback,0,7412794.story?coll=mmx-movies_top_heds</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>While Gyllenhaal is a competent actor, Ledger - surprisingly enough - is becoming a great one, and the levels of intensity they bring to their roles render this romantically star-crossed relationship emotionally lopsided.</snippet>
+         <url>http://online.tvguide.com/movies/database/ShowMovie.asp?MI=46417</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>While Gyllenhaal has playful puppy eyes and energy, his performance as Jack is a blur of mustaches, sideburns and spurs that never achieves the weight of Ledger's.</snippet>
+         <url>http://ae.philly.com/entertainment/ui/philly/movie.html?id=494615&amp;reviewId=19720</url>
+         <critic>Carrie Rickey</critic>
+      </review>
+      <review>
+         <snippet>It allows Lee to draw out a theme that's been present in his films from the start: the notion that repressed passion does no one any good. In Brokeback Mountain, it turns vibrant men ghostly.</snippet>
+         <url>http://avclub.com/content/node/43271</url>
+         <critic>Keith Phipps</critic>
+      </review>
+      <review>
+         <snippet>This ostensible gay Western is marked by a heightened degree of sensitivity and tact, as well as an outstanding performance from Heath Ledger.</snippet>
+         <url>http://www.variety.com/ac2006_review/VE1117928059?nav=reviews&amp;categoryid=1986&amp;cs=</url>
+         <critic>Todd McCarthy</critic>
+      </review>
+      <review>
+         <snippet>This is one of the best serious films about homosexuality ever made, but though it's sad and sobering it's still only a rough draft of a great movie.</snippet>
+         <url>http://www.nypost.com/movies/59235.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>Isn't for everyone, but for those who are not bothered by the homosexual relationship, it offers a study in yearning, love, and loss. It didn't affect me as deeply as either "The Bridges of Madison County" or "The Remains of the Day," but it evokes some of the same feelings.</snippet>
+         <url>http://movie-reviews.colossus.net/movies/b/brokeback_mountain.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>Ledger proves what we've suspected all along -- this is his picture, and he steals it brilliantly.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/ArticleNews/TPStory/LAC/20051216/BROKEBACK16/TPEntertainment/Film</url>
+         <critic>Rick Groen</critic>
+      </review>
+      <review>
+         <snippet>This is the kind of tasteful tearjerker that's often overrated and smothered with prizes because it flatters our tolerance and sensitivity.</snippet>
+         <url>http://spacefinder.chicagoreader.com/movies/briefs/29111_BROKEBACK_MOUNTAIN.html</url>
+         <critic>Jonathan Rosenbaum</critic>
+      </review>
+      <review>
+         <snippet>Brokeback Mountain possesses handsome and sympathetic lead players, magnificent scenery, heartbreaking melodrama, righteousness and cultural import. But as a testament to the importance of following one's passion, it's devoid of one crucial thing: passion.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1106147&amp;lat=200.0&amp;lon=200.0&amp;displaySearchLocation=&amp;nm=1&amp;categories=Movies</url>
+         <critic>Ann Hornaday</critic>
+      </review>
+      <review>
+         <snippet>The most straightforward love story--and in some ways the straightest--to come out of Hollywood, at least since "Titanic."</snippet>
+         <url>http://www.villagevoice.com/film/0548,hoberman,70461,20.html</url>
+         <critic>J. Hoberman</critic>
+      </review>
+      <review>
+         <snippet>For all its brave beginnings and real achievements--its assault on western mythology, its discovery of a subversive sexual honesty in an unexpected locale--Brokeback Mountain finally fails to fully engage our emotions.</snippet>
+         <url>http://www.time.com/time/magazine/article/0,9171,1132840,00.html</url>
+         <critic>Richard Schickel</critic>
+      </review>
+      <review>
+         <snippet>Brokeback Mountain could use a little more of it--by which I mean more sweat and other bodily fluids. Ang Lee's formalism is so extreme that it's often laughable, and the sex is depicted as a holy union: Gay love has never been so sacred.</snippet>
+         <url>http://www.slate.com/id/2131264/?nav=fo</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>Takes great pains to be a compassionate love story; but the filmmaking itself, self-consciously restrained and desiccated, is inert and inexpressive.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2005/12/09/brokeback/index.html</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>Romanticism fights stoicism to a draw, and the movie grows ever more static, too. Down to the quasi-ambiguous hate-crime finish, Brokeback Mountain comes as close to being a still life as you can get with human characters.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-to.brokeback30dec30,1,5626054.story?coll=bal-movies-storyutil</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>This much-ballyhooed gay cowboy melodrama is an inert disappointment.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=8197</url>
+         <critic>Phil Hall</critic>
+      </review>
+   </reviews>
+   <US_Gross>$83,043,761</US_Gross>
+   <production_budget>$13,900,000</production_budget>
+   <weekend_gross>$547,425</weekend_gross>
+   <number_of_screens>5</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

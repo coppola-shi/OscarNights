@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Precious: Based on the Novel by Sapphire</name>
+   <company>Lionsgate</company>
+   <genres>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author>Geoffrey Fletcher</author>
+   </authors>
+   <directors>
+      <director>Lee Daniels</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Gabourey &amp;#034;Gabby&amp;#034; Sidibe</actor>
+      <actor>Paula Patton</actor>
+      <actor>Mo&amp;#039;Nique</actor>
+      <actor>Mariah Carey</actor>
+      <actor>Sherri Shepherd</actor>
+      <actor>Lenny Kravitz</actor>
+   </actors>
+   <release_date>November 6, 2009</release_date>
+   <running_time>109</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>It's a potent and moving experience, because by the end you feel you've witnessed nothing less than the birth of a soul.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20317518,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>A great American film.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20091104/REVIEWS/911059999</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>This drama about an obese, illiterate black teen in Harlem practically guarantees some emotional uplift. But when it arrives, eventually, its authority is unimpeachable, so deeply has director Lee Daniels (Monster's Ball) immersed us in the depths of human ugliness.</snippet>
+         <url>http://www.chicagoreader.com/chicago/MovieTimes?film=977956</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>Genuinely and irresistibly inspirational.</snippet>
+         <url>http://online.wsj.com/article/film_review.html</url>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>A movie about an obese Harlem teenager who's raped by her father and abused by her mother. It's depressing, devastating, harrowing and repulsive. But there are lyric flights of hope interspersed among that raw naturalism, and that's what makes this movie amazing.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2009/11/12/MVNQ1AIN5B.DTL</url>
+         <critic>Amy Biancolli</critic>
+      </review>
+      <review>
+         <snippet>Qualifies as the most painful, poetic and improbably beautiful film of the year.</snippet>
+         <url>http://www.washingtonpost.com/wp-dyn/content/article/2009/11/12/AR2009111210817.html</url>
+         <critic>Ann Hornaday</critic>
+      </review>
+      <review>
+         <snippet>This movie catalogs a wealth of human ugliness. It’s even been made to look ugly, presumably to underscore the horror movie that is Precious’s life.</snippet>
+         <url>http://www.boston.com/ae/movies/articles/2009/11/20/precious_bluntly_goes_to_a_place_rarely_seen____the_life_of_a_young_black_girl/</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>It's cathartic and exhilarating.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-ae.mo.precious20nov20,0,1219096.story</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>While it may not be perfect on a technical level, dramatically it’s a blow-your-socks-off triumph. Be moved. Very, very moved.</snippet>
+         <url>http://www.empireonline.com/reviews/reviewcomplete.asp?FID=136655</url>
+         <critic>Angie Errigo</critic>
+      </review>
+      <review>
+         <snippet>Precious can’t be endorsed as entertainment:  the circumstances and incidents and emotions in the film are far too dark and painful.  But there is exhilaration in its daring, in its craft and in the powerhouse work of its principal actresses.</snippet>
+         <url>http://blog.oregonlive.com/madaboutmovies/2009/11/review_precious_shares_pain_as.html</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>Nimble and self-assured as Mr. Daniels’s direction may be, he could not make you believe in “Precious” unless you were able to believe in Precious herself. You will.</snippet>
+         <url>http://movies.nytimes.com/2009/11/06/movies/06precious.html?ref=movies</url>
+         <critic>A.O. Scott</critic>
+      </review>
+      <review>
+         <snippet>Its story ends up packing an emotional wallop as substantial as its title character.</snippet>
+         <url>http://www.npr.org/templates/story/story.php?storyId=120058151</url>
+         <critic>Bob Mondello</critic>
+      </review>
+      <review>
+         <snippet>Nothing quite prepares you for the rough-cut diamond that is Precious. A rare blend of pure entertainment and dark social commentary, this shockingly raw, surprisingly irreverent and absolutely unforgettable story.</snippet>
+         <url>http://www.latimes.com/entertainment/news/la-et-precious6-2009nov06,0,6535473.story</url>
+         <critic>Betsy Sharkey</critic>
+      </review>
+      <review>
+         <snippet>This is an exceptional film about nearly unendurable circumstances, endured. You will come out the other side of it a markedly enriched filmgoer.</snippet>
+         <url>http://featuresblogs.chicagotribune.com/talking_pictures/</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>Manages the task of being both heartbreaking and heart-warming.</snippet>
+         <url>http://www.reelviews.net/php_review_template.php?identifier=1851</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>Claireece "Precious" Jones, played by Gabourey Sidibe, 24, in an astounding debut that brims with grit and amazing grace.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/25457970/review/30792742/precious</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>To its credit, this remarkable film does not contrive a happy ending. Under the circumstances, even a mildly hopeful one seems like a triumph of the highest order.</snippet>
+         <url>http://www.nypost.com/p/entertainment/movies/precious_hope_amid_the_horror_LkHGrAN6wNf3N5lNTwt2ZM</url>
+         <critic>V.A. Musetto</critic>
+      </review>
+      <review>
+         <snippet>Although Precious is based on a novel, it's an act of truth-telling on behalf of a character in hellish enslavement.</snippet>
+         <url>http://www.stltoday.com/stltoday/entertainment/reviews.nsf/movie/story/B1C308D8451296E3862576720071FEE6?OpenDocument</url>
+         <critic>Joe Williams</critic>
+      </review>
+      <review>
+         <snippet>It melodramatizes everything and yet its overall effect is something more than melodrama.</snippet>
+         <url>http://www.csmonitor.com/2009/1107/p17s01-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>The film's real strength is its cast, from an Oscar-bound Mo'Nique to a notably deglammed Mariah Carey.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2009/11/06/2009-11-06_precious_based_on_the_novel_push_by_sapphire_.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>Shot in the manner of a grueling horror picture, with jittery edits to half-remembered traumas and glistening close-ups on the faces of monsters.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=11913</url>
+         <critic>Nick Antosca</critic>
+      </review>
+      <review>
+         <snippet>As Precious, Sidibe is superb, allowing us to see the inner warmth and beauty of a young woman who, to her world's cruel eyes, might seem monstrous.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film-reviews/precious-film-review-1003933075.story</url>
+         <critic>Duane Byrge</critic>
+      </review>
+      <review>
+         <snippet>An urban nightmare with a surfeit of soul, Precious: Based on the Novel 'Push' by Sapphire is like a diamond -- clear, bright, but oh so hard.</snippet>
+         <url>http://www.variety.com/review/VE1117939367.html?u=IMDB&amp;p=H2BE&amp;cs=1</url>
+         <critic>John Anderson</critic>
+      </review>
+      <review>
+         <snippet>Not even Douglas Sirk or Lars von Trier would heap so much abuse on a heroine. And yet, on its own melodramatic, tear-jerking terms, Precious works.</snippet>
+         <url>http://www.avclub.com/articles/precious,35036/</url>
+         <critic>Noel Murray</critic>
+      </review>
+      <review>
+         <snippet>Despite its melodramatic moments, remarkable performances drive home the film's inspiring message.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2009-11-06-precious06_ST_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>Precious is a bit like having a piano dropped on your head: messy but memorable.</snippet>
+         <url>http://www.theglobeandmail.com/news/arts/precious/article1370010/</url>
+         <critic>Liam Lacey</critic>
+      </review>
+      <review>
+         <snippet>Precious is painful, it is harrowing, it is emotionally exhausting. It is also a singular film, one that is as difficult to compare to another as it is to forget.</snippet>
+         <url>http://www.nola.com/movies/index.ssf/2009/11/precious_is_hard_to_watch_even.html</url>
+         <critic>Mike Scott</critic>
+      </review>
+      <review>
+         <snippet>You go to a Daniels movie not to be entertained, but edified. While not everyone goes to the movies for self-improvement, you will leave this one having witnessed phenomenal acting.</snippet>
+         <url>http://www.philly.com/inquirer/columnists/carrie_rickey/20091113_Harrowing_plot__heroic_performances.html</url>
+         <critic>Carrie Rickey</critic>
+      </review>
+      <review>
+         <snippet>This bruising, harrowing movie would be impossible to sit through without at least a hint of light at the end of its astonishingly dark tunnel.</snippet>
+         <url>http://www.miamiherald.com/entertainment/movies/reviews/story/1341304.html</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>The performances are so plainspoken and direct that they manage to push the material beyond the confines of a mere social-problem tract -- as played by the cast, these characters aren't symbols of inner-city hardship, but people.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2009/11/04/precious/index.html</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>Yet even when the movie is at its most schizoid, Precious still packs a wallop.</snippet>
+         <url>http://www.villagevoice.com/2009-11-03/film/based-on-novel-push-precious-is-the-diary-of-a-sad-black-woman/</url>
+         <critic>Scott Foundas</critic>
+      </review>
+      <review>
+         <snippet>It is certainly the best button-pushing movie of the year.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A917036</url>
+         <critic>Marjorie Baumgarten</critic>
+      </review>
+      <review>
+         <snippet>Given the months-long hype, what’s most bewildering about Sundance sensation Precious is its overall shrug-worthiness.</snippet>
+         <url>http://newyork.timeout.com/articles/film/80310/precious-based-on-the-novel-push-by-sapphire-film-review</url>
+         <critic>Keith Uhlich</critic>
+      </review>
+      <review>
+         <snippet>The elements of Precious are powerful and shocking, but the movie is programmed. It is its own study guide.</snippet>
+         <url>http://nymag.com/movies/reviews/61750/</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>What we have here is a fouled-up fairy tale of oppression and empowerment, and it’s hard not to be ensnared by its mixture of rank maleficence and easy reverie. The gap between being genuinely stirred and having your arm twisted, however, is narrower than we care to admit.</snippet>
+         <url>http://www.newyorker.com/arts/critics/cinema/2009/11/09/091109crci_cinema_lane</url>
+         <critic>Anthony Lane</critic>
+      </review>
+      <review>
+         <snippet>In its eagerness to drag us through the lower depths of human experience, Precious leaves no space for the audience to breathe or to draw our own conclusions. For a film about empowerment and self-actualization, it wields an awfully large cudgel.</snippet>
+         <url>http://www.slate.com/id/2234728/</url>
+         <critic>Dana Stevens</critic>
+      </review>
+   </reviews>
+   <US_Gross>$47,566,524</US_Gross>
+   <production_budget>$10,000,000</production_budget>
+   <weekend_gross>$1,872,458</weekend_gross>
+   <number_of_screens>18</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

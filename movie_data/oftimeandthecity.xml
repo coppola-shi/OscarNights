@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Of Time and the City</name>
+   <company>Strand Releasing</company>
+   <genres>
+      <genre>Documentary</genre>
+   </genres>
+   <authors>
+      <author>Terence Davies</author>
+   </authors>
+   <directors>
+      <director>Terence Davies</director>
+   </directors>
+   <origins>
+      <origin>UK</origin>
+   </origins>
+   <actors/>
+   <release_date>January 21, 2009</release_date>
+   <running_time>72</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>''Documentary'' is too impersonal a word and ''visual poem'' is too mushy a phrase to describe Of Time and the City, a short, beautiful, characteristically sublime memory piece by the great British auteur Terence Davies.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20254193,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>Most of all, Davies proves himself to be a poet of the commonplace whose art is the exalting of the everyday. He may rail against "the British genius for creating the dismal," but his own work is anything but.</snippet>
+         <url>http://www.latimes.com/entertainment/news/reviews/la-et-time30-2009jan30,0,1061370.story</url>
+         <critic>Kenneth Turan</critic>
+      </review>
+      <review>
+         <snippet>Poetically composed, with marvelous lumps of wit and perspective, Of Times and The City is a masterwork.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?rid=11146</url>
+         <critic>Duane Byrge</critic>
+      </review>
+      <review>
+         <snippet>It is a deeply personal piece of art that never descends into the confessional or the therapeutic, and a work of social and literary criticism that never lectures or hectors, but rather, with melancholy, tenderness and wit, manages to sing.</snippet>
+         <url>http://movies.nytimes.com/2009/01/21/movies/21time.html?ref=movies</url>
+         <critic>A.O. Scott</critic>
+      </review>
+      <review>
+         <snippet>A caustic, witty, regretful elegy for a place so transformed that it's virtually unrecognizable.</snippet>
+         <url>http://www.avclub.com/articles/of-time-and-the-city,22964/</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>The film is made up chiefly of found footage and therefore lacks the mise en scene of its predecessors, but it has the added benefit of Davies's voice-over narration, which, thanks to his training and experience as an actor, is enormously powerful.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/capsules/33774_OF_TIME_AND_THE_CITY</url>
+         <critic>Jonathan Rosenbaum</critic>
+      </review>
+      <review>
+         <snippet>Result is by turns moving, droll and charming, and niftily assembled, but not necessarily that profound.</snippet>
+         <url>http://www.variety.com/review/VE1117937220.html?categoryid=31&amp;cs=1&amp;query=of+time+and+the+city</url>
+         <critic>Leslie Felperin</critic>
+      </review>
+      <review>
+         <snippet>The result is a warm and extremely thoughtful journey, with a deliberately bare-bones narrative.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2009/02/12/DDUV15S35E.DTL&amp;type=movies</url>
+         <critic>Peter Hartlaub</critic>
+      </review>
+      <review>
+         <snippet>Terence Davies revisits his youth to decidedly mixed effect.</snippet>
+         <url>http://www.villagevoice.com/2009-01-21/film/terence-davies-puts-a-new-spin-on-hometown-pride-in-of-time-and-the-city/</url>
+         <critic>J. Hoberman</critic>
+      </review>
+   </reviews>
+   <US_Gross>$32,551</US_Gross>
+   <weekend_gross>$7,101</weekend_gross>
+   <number_of_screens>1</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

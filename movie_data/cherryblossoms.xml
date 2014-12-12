@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Cherry Blossoms</name>
+   <company>Strand Releasing</company>
+   <genres>
+      <genre>Drama</genre>
+      <genre>Romance</genre>
+   </genres>
+   <authors>
+      <author>Doris Dorrie</author>
+   </authors>
+   <directors>
+      <director>Doris Dorrie</director>
+   </directors>
+   <origins>
+      <origin>Germany</origin>
+      <origin>France</origin>
+   </origins>
+   <actors>
+      <actor>Elmar Wepper</actor>
+      <actor>Hannelore Elsner</actor>
+   </actors>
+   <release_date>January 16, 2009</release_date>
+   <running_time>127</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>A stunning reminder of the omnipresence of mortality.</snippet>
+         <url>http://www.latimes.com/entertainment/news/reviews/la-et-cherry27-2009feb27,0,3569016.story</url>
+         <critic>Kevin Thomas</critic>
+      </review>
+      <review>
+         <snippet>Throughout the film there are small, rapturous moments.</snippet>
+         <url>http://www.csmonitor.com/2009/0228/p25s02-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>Unpredictable and compelling, this draws parallels between Japanese and German cultures in interesting and moving ways.</snippet>
+         <url>http://www.empireonline.com/reviews/review.asp?FID=136222</url>
+         <critic>David Parkinson</critic>
+      </review>
+      <review>
+         <snippet>Doerrie goes beyond the "Lost in Translation" jokes about East-West culture clashes to communicate something meaningful and deep about Japanese art and thought.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?rid=10643</url>
+         <critic>Deborah Young</critic>
+      </review>
+      <review>
+         <snippet>There's a grace to it all, and moments of oddball poetry.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20254190,00.html</url>
+         <critic>Adam Markovitz</critic>
+      </review>
+      <review>
+         <snippet>Both austere and garish, simultaneously dry and sentimental, tightly repressed and extravagantly expressive, bourgeois and bohemian. It's a seesaw, but Dorrie finds the balance.</snippet>
+         <url>http://www.philly.com/inquirer/columnists/carrie_rickey/20090227_An_end-of-life_adventure.html</url>
+         <critic>Carrie Rickey</critic>
+      </review>
+      <review>
+         <snippet>The movie is an ideal blend of character study, deceptively simple plot twists, inspired acting, and travelogue.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2009/03/19/DDVD16J266.DTL&amp;type=movies</url>
+         <critic>Jonathan Curiel</critic>
+      </review>
+      <review>
+         <snippet>Thanks to an accomplished cast, anchored by Elsner and Wepper, and observant filmmakers, very little in Cherry Blossoms is lost in translation.</snippet>
+         <url>http://www.washingtonpost.com/gog/movies/cherry-blossoms,1155233.html</url>
+         <critic>Ann Hornaday</critic>
+      </review>
+      <review>
+         <snippet>A successful novelist whose films bear the expansive plotting and telling character detail of the page, Doerrie never seems in any particular hurry to tell her tales, preferring the journey to the destination.</snippet>
+         <url>http://www.variety.com/review/VE1117936169.html?categoryid=31&amp;cs=1&amp;query=cherry+blossoms</url>
+         <critic>Eddie Cockrell</critic>
+      </review>
+      <review>
+         <snippet>There's something a little shallow about contrasting ungrateful German kids with their respectful Japanese counterparts and presuming the cultural differences are so cut-and-dried.</snippet>
+         <url>http://www.avclub.com/articles/cherry-blossoms,22419/</url>
+         <critic>Noel Murray</critic>
+      </review>
+      <review>
+         <snippet>It's a strained but heartfelt work of muted sentimentality, obvious in its symbolism but grounded in a sense of life's preciousness and brevity. Depending on your mood and indulgence, you may weep or you may be left out in the cold.</snippet>
+         <url>http://www.boston.com/ae/movies/articles/2009/02/13/coming_to_grips_with_end_of_life/</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>Refusing to be rushed, Doris Dörrie blends individual experiences with universal emotions to create a quietly moving study of self-discovery.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2009/01/16/2009-01-16_more_movie_reviews_chiandi_chowk_cherry_.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>The movie's conceits are just barely endurable, but the sharpness of Dörrie's eye--for Tokyo's electric night, for Fuji's iconographic landscapes, for cherry blossoms--sustains emotion even when story logic fails.</snippet>
+         <url>http://www.newyorker.com/arts/critics/cinema/2009/01/26/090126crci_cinema_denby?currentPage=2</url>
+         <critic>David Denby</critic>
+      </review>
+      <review>
+         <snippet>While Ms. Dörrie’s film is exquisitely shot, its themes and metaphors are obvious rather than subtle, and its emotional rhythms -- rueful laughter punctuating the pathos -- would not be out of place in a television drama.</snippet>
+         <url>http://movies.nytimes.com/2009/01/16/movies/16cher.html</url>
+         <critic>A.O. Scott</critic>
+      </review>
+      <review>
+         <snippet>At more than two hours, Cherry Blossoms could do with some pruning. And do husband and wife have to have rhyming names?</snippet>
+         <url>http://www.nypost.com/seven/01162009/entertainment/movies/old_mans_tale_not_very_fruitful_150334.htm</url>
+         <critic>V.A. Musetto</critic>
+      </review>
+      <review>
+         <snippet>The best I can say for Cherry Blossoms is that it's made with love; the worst, that it's been a big hit in Germany. Yearning for Ozu, Dörrie stops off at cute, and parks.</snippet>
+         <url>http://www.villagevoice.com/2009-01-14/film/cherry-blossoms-a-hit-in-germany-settles-into-neo-hippy-fripperies/</url>
+         <critic>Ella Taylor</critic>
+      </review>
+   </reviews>
+   <US_Gross>$104,433</US_Gross>
+   <weekend_gross>$3,322</weekend_gross>
+   <number_of_screens>1</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

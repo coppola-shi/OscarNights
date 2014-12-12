@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Intimate Stories</name>
+   <company>New Yorker Films</company>
+   <genres>
+      <genre>Comedy</genre>
+      <genre>Drama</genre>
+      <genre>Foreign</genre>
+   </genres>
+   <authors>
+      <author>Pablo Solarz</author>
+   </authors>
+   <directors>
+      <director>Carlos Sorin</director>
+   </directors>
+   <origins>
+      <origin>ArgentinaSpain</origin>
+   </origins>
+   <actors>
+      <actor>Javier Lombardo</actor>
+      <actor>Antonio Benedicti</actor>
+      <actor>Javiera Bravo</actor>
+      <actor>Julia Solomonoff</actor>
+      <actor>Laura Vagnoni</actor>
+      <actor>Enrique Otranto</actor>
+      <actor>Mariela Díaz</actor>
+      <actor>María Rosa Cianferoni</actor>
+   </actors>
+   <release_date>March 4, 2005</release_date>
+   <running_time>92</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>Gentle, humanistic, delicious.</snippet>
+         <url>http://www.csmonitor.com/2005/0304/p14s01-almo.html</url>
+         <critic>David Sterritt</critic>
+      </review>
+      <review>
+         <snippet>But while this piquant, tapas-like movie (a 2003 film- festival favorite only now being released) asserts that landscape is a kind of destiny from which one cannot escape, Sorin takes delighted, serious interest in how far a person can advance psychologically, even if all roads lead back to a home at the end of the world.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1033458_1_0_,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>Endowed with captivating simplicity, gentle humor, rich humanity and infectious generosity of spirit.</snippet>
+         <url>http://www.variety.com/review/VE1117918941?categoryid=31&amp;cs=1</url>
+         <critic>David Rooney</critic>
+      </review>
+      <review>
+         <snippet>Genuinely funny and sweet, the film's "everybody wins" philosophy resonates beyond the feel-good surfaces.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/234347_limited29.html</url>
+         <critic>Bill White</critic>
+      </review>
+      <review>
+         <snippet>It's a perfectly realized grace note whose lack of any obvious message only reinforces the movie's abundant wisdom and patient humanism.</snippet>
+         <url>http://www.villagevoice.com/film/0509,tracking4,61723,20.html</url>
+         <critic>David Ng</critic>
+      </review>
+      <review>
+         <snippet>The name of Hugo Colace ought to be known to the film world. He is the cinematographer of an Argentinean film called Intimate Stories. Not since some Tibetan films have I seen such vastness, sparsely inhabited, almost ringing with immensity.</snippet>
+         <url>http://www.tnr.com/doc.mhtml%3Fi%3D20050328%26s%3Dkauffmann032805</url>
+         <critic>Stanley Kauffmann</critic>
+      </review>
+      <review>
+         <snippet>As stripped down as its title, this gentle Argentinian road movie makes much out of very little.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/moviereviews/story/286551p-245230c.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>Has no profound statements to make, but it does provide warm and fuzzy comfort.</snippet>
+         <url>http://www.nypost.com/movies/41000.htm</url>
+         <critic>V.A. Musetto</critic>
+      </review>
+      <review>
+         <snippet>A delightful road movie.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=6938</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>This is a charming, low-key entry in the burgeoning tradition of travelog indies -- by which I mean feature films that take you to some godforsaken outback you're unlikely to visit personally.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2005/03/17/btm/index3.html</url>
+         <critic>Andrew O&amp;#039;Hehir</critic>
+      </review>
+      <review>
+         <snippet>Almost every frame of this modest gem of a movie, directed by Carlos Sorin from a screenplay by Pablo Solarz, conveys the emptiness of the environment in which three interwoven vignettes unfold.</snippet>
+         <url>http://movies2.nytimes.com/2005/03/04/movies/04INTI.html</url>
+         <critic>Stephen Holden</critic>
+      </review>
+      <review>
+         <snippet>Warm and frequently very funny, Argentine director Carlos Sorin's third feature weaves together three story lines into one road-tripping adventure that's a joy ride from beginning to end.</snippet>
+         <url>http://tvguide.com/movies/database/showmovie.asp?MI=45973</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>Intimate Stories stays doggedly, purposefully minor, in part because director Carlos Sorin and screenwriter Pablo Solarz want to explore the casual interactions of people doing nothing.</snippet>
+         <url>http://www.theavclub.com/review_pop.php?review_id=8264</url>
+         <critic>Noel Murray</critic>
+      </review>
+   </reviews>
+   <US_Gross>$102,714</US_Gross>
+   <weekend_gross>$12,095</weekend_gross>
+   <number_of_screens>2</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

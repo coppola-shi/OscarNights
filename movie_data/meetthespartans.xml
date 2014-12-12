@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Meet the Spartans</name>
+   <company>20th Century Fox</company>
+   <genres>
+      <genre>Comedy</genre>
+   </genres>
+   <authors>
+      <author>Jason Friedberg</author>
+      <author>Aaron Seltzer</author>
+   </authors>
+   <directors>
+      <director>Aaron Seltzer</director>
+      <director>Jason Friedberg</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Diedrich Bader</actor>
+      <actor>Kevin Sorbo</actor>
+      <actor>Emily Wilson</actor>
+      <actor>Method Man</actor>
+      <actor>Ken Davitian</actor>
+      <actor>Jim Piddock</actor>
+      <actor>Sean Maguire</actor>
+      <actor>Greg Ellis</actor>
+   </actors>
+   <release_date>January 25, 2008</release_date>
+   <running_time>84</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>Less classic Mel Brooks than middling "Best Week Ever."</snippet>
+         <url>http://www.ew.com/ew/article/0,,20175075,00.html</url>
+         <critic>Clark Collis</critic>
+      </review>
+      <review>
+         <snippet>The best thing in Meet the Spartans is the swift kick in the bombast it delivers to the oh-no-not-us homoeroticism of "300."</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=11208</url>
+         <critic>Mark Feeney</critic>
+      </review>
+      <review>
+         <snippet>The musical number that runs during the closing credits funnier than anything that precedes it, which isn't saying much.</snippet>
+         <url>http://www.tvguide.com/movies/meet-spartans/review/292200</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>Writer-directors Jason Friedberg and Aaron Seltzer basically reprise the tired formula from their earlier efforts, which is to throw in as many pop culture references as possible to cover up the lack of any real wit.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?JSESSIONID=qpm9HhsDPFLpzJ9MfRpVc5QvzVf1Z16Kb64GVWKpFfFdcLTVcpfD!-1562314872&amp;&amp;rid=10537</url>
+         <critic>Frank Scheck</critic>
+      </review>
+      <review>
+         <snippet>Overkill is what Jason Friedberg and Aaron Seltzer do best: as the uncontested titans of the parody genre (with fingers in everything from the “Scary Movie” franchise to the more recent “Epic Movie”) they continue to prove that ridiculing other movies is much easier than making your own.</snippet>
+         <url>http://movies.nytimes.com/2008/01/26/movies/26spar.html?ref=movies</url>
+         <critic>Jeannette Catsoulis</critic>
+      </review>
+      <review>
+         <snippet>Meet the Spartans is a mild improvement over their "Epic Movie," which is like saying that a debilitating fever is more fun than appendicitis, but what’s shocking is how lazy it is, which is a shame for former UK child star/pop singer Sean Maguire, whose Gerard Butler impersonation is spot-on.</snippet>
+         <url>http://www.laweekly.com/film+tv/film-reviews/how-she-move-santouri-the-music-man/18222/</url>
+         <critic>Luke Y. Thompson</critic>
+      </review>
+      <review>
+         <snippet>Lazy, lame and painfully unfunny, Meet the Spartans is yet another scrambled-genre parody.</snippet>
+         <url>http://www.variety.com/review/VE1117935938.html?categoryid=31&amp;cs=1</url>
+         <critic>Joe Leydon</critic>
+      </review>
+      <review>
+         <snippet>Meet The Spartans gamely alternates between unfunny gay jokes and violent pratfalls for a good 80 minutes, finding time for not one, but two musical dance numbers set to "I Will Survive."</snippet>
+         <url>http://www.avclub.com/content/cinema/meet_the_spartans</url>
+         <critic>Steven Hyden</critic>
+      </review>
+      <review>
+         <snippet>Witless, tasteless, formless spoof.</snippet>
+         <url>http://www.villagevoice.com/film/0805,hillis,78966,20.html</url>
+         <critic>Aaron Hillis</critic>
+      </review>
+      <review>
+         <snippet>Hey, guys, when you repurpose a disco hit to poke fun at gay men, not only do you look like assholes, you look like assholes who rip their jokes off of YouTube.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A583366</url>
+         <critic>Kimberley Jones</critic>
+      </review>
+      <review>
+         <snippet>It’s rare that a movie makes me ill these days, and it’s rare that I can see a movie and hate the people behind it with such abhorrence, but Meet the Spartans rises to the challenge.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=10737</url>
+         <critic>Felix Vasques Jr.</critic>
+      </review>
+   </reviews>
+   <US_Gross>$38,233,676</US_Gross>
+   <production_budget>$30,000,000</production_budget>
+   <weekend_gross>$18,505,530</weekend_gross>
+   <number_of_screens>2,605</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

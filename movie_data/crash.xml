@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Crash</name>
+   <company>Lions Gate Films Inc.</company>
+   <genres>
+      <genre>Crime</genre>
+      <genre>Drama</genre>
+      <genre>Mystery</genre>
+   </genres>
+   <authors>
+      <author>Paul Haggis</author>
+      <author>Robert Moresco</author>
+   </authors>
+   <directors>
+      <director>Paul Haggis</director>
+   </directors>
+   <origins>
+      <origin>USAGermany</origin>
+   </origins>
+   <actors>
+      <actor>Sra Bullock</actor>
+      <actor>Don Cheadle</actor>
+      <actor>Matt Dillon</actor>
+      <actor>Jennifer Esposito</actor>
+      <actor>William Fichtner</actor>
+      <actor>Brendan Fraser</actor>
+      <actor>Terrence Dashon Howard</actor>
+      <actor>Ludacris</actor>
+      <actor>Thie Newton</actor>
+      <actor>Ryan Phillippe</actor>
+   </actors>
+   <release_date>May 6, 2005</release_date>
+   <running_time>100</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>Hyper-articulate and often breathtakingly intelligent and always brazenly alive. I think it's easily the strongest American film since Clint Eastwood's "Mystic River," though it is not for the fainthearted.</snippet>
+         <url>http://www.newyorker.com/critics/cinema/?050502crci_cinema</url>
+         <critic>David Denby</critic>
+      </review>
+      <review>
+         <snippet>The stunning, must-see drama Crash is proof that words have not lost the ability to shock in our anesthetized society.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1057415_1_0_,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>Not just one of the best Hollywood movies about race, but, along with "Collateral," one of the finest portrayals of contemporary Los Angeles life period.</snippet>
+         <url>http://www.laweekly.com/ink/05/24/film-taylor.php</url>
+         <critic>Ella Taylor</critic>
+      </review>
+      <review>
+         <snippet>It's the most compelling American movie to come around in a long, long time.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A268912</url>
+         <critic>Steve Davis</critic>
+      </review>
+      <review>
+         <snippet>Haggis writes with such directness and such a good ear for everyday speech that the characters seem real and plausible after only a few words. His cast is uniformly strong; the actors sidestep cliches and make their characters particular.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20050505/REVIEWS/50502001</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>This is the rare American film really about something, and almost all the performances are riveting.</snippet>
+         <url>http://www.washingtonpost.com/wp-dyn/content/article/2005/05/05/AR2005050501878.html</url>
+         <critic>Stephen Hunter</critic>
+      </review>
+      <review>
+         <snippet>What makes Crash so gripping--so terrifying in spots, so moving in others, and even a little funny at times--is how nothing happens as we think it will.</snippet>
+         <url>http://dallasobserver.com/issues/2005-05-05/film/film.html</url>
+         <critic>Robert Wilonsky</critic>
+      </review>
+      <review>
+         <snippet>Crash fools around with chronology in a Tarantinoesque way that brings its story full circle. You could argue that as events, and people, merge, Haggis' spiky screenplay (cowritten with Bobby Moresco) gets to be, quite simply, too much.</snippet>
+         <url>http://ae.philly.com/entertainment/ui/philly/movie.html?id=310479&amp;reviewId=17943</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>The acting is dynamite, notably by Dillon and Newton in their shocking second encounter. Despite its preachy moments, the film is a knockout.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/_/id/6824329?pageid=rs.ReviewsMovieArchive&amp;pageregion=mainRegion</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>Like Robert Altman's "Short Cuts," it is an all-star fresco, but the stars--none of whom carries the movie--get to play the kind of morally ambivalent, sometimes unlikable parts that big-name actors usually avoid.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-050505-movies-review-mw-crash.story</url>
+         <critic>Michael Wilmington</critic>
+      </review>
+      <review>
+         <snippet>Flaws are outweighed by Crash's intricate construction and intelligent.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2005-05-05-crash_x.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>Life's an exhilarating and often dangerous ride, and its accidents can yield good and bad things. Anticipation of the bad keeps us watching Crash, to be sure, but so does hope of the good.</snippet>
+         <url>http://www.washingtonpost.com/wp-dyn/content/article/2005/05/05/AR2005050500748.html</url>
+         <critic>Desson Thomson</critic>
+      </review>
+      <review>
+         <snippet>A haunting, perceptive and uncompromising examination of controversial subject matter, expertly written and directed by Paul Haggis and characterised by excellent performances from its starry cast.</snippet>
+         <url>http://www.empireonline.co.uk/site/incinemas/ReviewInFull.asp?FID=11294</url>
+         <critic>Simon Braund</critic>
+      </review>
+      <review>
+         <snippet>Pivots on the characters' racism and xenophobia, playing tricks with our own biases and ultimately justifying an extravagant array of coincidences and surprises.</snippet>
+         <url>http://spacefinder.chicagoreader.com/movies/critic.html#27967</url>
+         <critic>Jonathan Rosenbaum</critic>
+      </review>
+      <review>
+         <snippet>It's a film you won't stop thinking about, arguing over, debating, after the lights come up.</snippet>
+         <url>http://newyorkmetro.com/nymetro/movies/reviews/11872/</url>
+         <critic>Ken Tucker</critic>
+      </review>
+      <review>
+         <snippet>Unfortunately, the running time is too short for us to get to know, or care about, the characters in a way that would make the film's themes strike a responsive chord.</snippet>
+         <url>http://movie-reviews.colossus.net/movies/c/crash2004.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>Never reaches the heights of "Short Cuts" or "Magnolia" -- two multi-story films that clearly provided inspiration -- but it's a thoughtful road trip well worth taking.</snippet>
+         <url>http://www.nypost.com/movies/43483.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>The result is a film where blisteringly naturalistic drama bumps up against sentimentally arch melodrama (that's the biggest collision in Crash). Haggis showed the same tendency in his script for "Million Dollar Baby," yet there it was better hidden under a simpler narrative. Here, the tendency has gotten magnified right along with his thematic ambitions.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/ArticleNews/TPStory/LAC/20050506/CRASH06/TPEntertainment/Film</url>
+         <critic>Rick Groen</critic>
+      </review>
+      <review>
+         <snippet>Ultimately, Crash succeeds in spite of itself. Its color war starts to feel obvious and schematic. Its coincidences and clichés become like a pileup on the 405 freeway, but there it is -- you find yourself rubbernecking and can't manage to look away.</snippet>
+         <url/>
+         <critic>Joanne Kaufmann</critic>
+      </review>
+      <review>
+         <snippet>The tense drama eventually becomes off-putting when it becomes clear almost every scene hinges on an unpleasant or ugly racial interaction.</snippet>
+         <url>http://www.variety.com/review/VE1117924965?categoryid=31&amp;cs=1</url>
+         <critic>Todd McCarthy</critic>
+      </review>
+      <review>
+         <snippet>Crash can't rise from the ashes of its pessimism.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/223035_crash06q.html</url>
+         <critic>William Arnold</critic>
+      </review>
+      <review>
+         <snippet>Its characters come straight from the assembly line of screenwriting archetypes, and too often they act in ways that archetypes, rather than human beings, do. You can feel its creator shuttling them here and there on the grid of greater LA, pausing portentously between each move.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=7408</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>Haggis has made a safe picture. It is familiar enough that it slips easily into our film-watching faculty without any fuss, yet his handling of it--his muscular belief in what he is doing--makes us hope that his next screenplay will be a bit less safe.</snippet>
+         <url>http://www.tnr.com/doc.mhtml?i=20050530&amp;s=kauffmann053005</url>
+         <critic>Stanley Kauffmann</critic>
+      </review>
+      <review>
+         <snippet>Haggis, who wrote the fine adapted screenplay for "Million Dollar Baby," embeds Crash's script so deeply in allegory that every revelation feels manipulative and programmatic, in spite of some terrific individual scenes and performances.</snippet>
+         <url>http://www.theavclub.com/review.php?review_id=8480</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>Rather than feel reductively schematic, the film overall seems vividly complex and provocative in the true sense of the word -- it challenges viewers to reflect and discuss, rather than surrender to knee-jerk reactions.</snippet>
+         <url>http://tvguide.com/movies/database/showmovie.asp?MI=46096</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>Full of well-observed supporting riffs, Crash might've accumulated more frisson had it cast a clearer eye on how social tension actually plays.</snippet>
+         <url>http://www.villagevoice.com/film/0518,atkinson2,63638,20.html</url>
+         <critic>Michael Atkinson</critic>
+      </review>
+      <review>
+         <snippet>A well-intentioned but obvious, often clumsy picture.</snippet>
+         <url>http://ae.philly.com/entertainment/ui/philly/movie.html?id=310479&amp;reviewId=17933</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>Almost certain to polarize audiences, this bit of emotional agitprop plays like a watered-down "Short Cuts" or "Magnolia" with a shrill, one-note message: We're all a little bit racist.</snippet>
+         <url>http://ae.philly.com/entertainment/ui/philly/movie.html?id=310479&amp;reviewId=17935</url>
+         <critic>Peter Debruge</critic>
+      </review>
+      <review>
+         <snippet>Concludes in a shower of ashes, which is fitting because this movie is a billowing bonfire of ugly human behavior. Rarely have there been so many characters in need of timeouts, cold showers or house arrests.</snippet>
+         <url>http://www.nydailynews.com/05-06-2005/entertainment/col/story/306861p-262466c.html</url>
+         <critic>Jami Bernard</critic>
+      </review>
+      <review>
+         <snippet>It's too bad that the movie induces eyeball-rolling almost as much as it does armrest-clutching.</snippet>
+         <url>http://www.premiere.com/article.asp?section_id=2&amp;article_id=2136</url>
+         <critic>Glenn Kenny</critic>
+      </review>
+      <review>
+         <snippet>It might even have been a landmark film about race relations had its aura of blunt realism not been dispelled by a toxic cloud of dramaturgical pixie dust.</snippet>
+         <url>http://www.slate.com/id/2118119/</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>So what kind of a movie is Crash? A frustrating movie: full of heart and devoid of life; crudely manipulative when it tries hardest to be subtle; and profoundly complacent in spite of its intention to unsettle and disturb.</snippet>
+         <url>http://movies2.nytimes.com/2005/05/06/movies/x06cras.html</url>
+         <critic>A.O. Scott</critic>
+      </review>
+      <review>
+         <snippet>Any glimpse of emotional honesty comes courtesy of the actors, who manage to do a credible job despite the material.</snippet>
+         <url>http://www.calendarlive.com/movies/chocano/cl-et-crash6may06,2,187512.story</url>
+         <critic>Carina Chocano</critic>
+      </review>
+      <review>
+         <snippet>An ambitious, intense, but overdetermined exploration of the varieties of ethnic intolerance.</snippet>
+         <url>http://www.msnbc.msn.com/id/7833729/site/newsweek/</url>
+         <critic>David Ansen</critic>
+      </review>
+      <review>
+         <snippet>These interlocking stories don't move along as swiftly or as urgently as they should, and much of the dialogue thumps along on square wheels.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2005/05/06/crash/index.html</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>In the end, Crash lacks a cumulative impact. It takes audiences to new places, but we've all been to similar places, and we walk out knowing no more than we did walking in.</snippet>
+         <url>http://sfgate.com/cgi-bin/article.cgi?f=/c/a/2005/05/06/DDGIJCK5EB1.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>New York critics have anointed Crash in advance as the Second Coming, but it's just another over-ambitious first movie.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-to.crash06may06,1,2766671.story?coll=bal-movies-utility</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>The result is a hybrid of "Falling Down" and "Short Cuts" without the iconic central character of the former or the latter's clear-eyed humanism.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/111528726767520.xml&amp;coll=7</url>
+         <critic>Marc Mohan</critic>
+      </review>
+      <review>
+         <snippet>I have seen it before. I saw it when I saw "Magnolia", and "Traffic", and "Grand Canyon."</snippet>
+         <url>http://www.filmthreat.com/Reviews.asp?Id=7475</url>
+         <critic>Greg Wilson</critic>
+      </review>
+   </reviews>
+   <US_Gross>$54,557,348</US_Gross>
+   <production_budget>$6,500,000</production_budget>
+   <weekend_gross>$9,107,071</weekend_gross>
+   <number_of_screens>1,864</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

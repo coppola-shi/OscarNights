@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Chelsea on the Rocks</name>
+   <company>Aliquot Films</company>
+   <genres>
+      <genre>Documentary</genre>
+   </genres>
+   <authors>
+      <author>Abel Ferrara</author>
+      <author>David Linter</author>
+   </authors>
+   <directors>
+      <director>Abel Ferrara</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Milos Forman</actor>
+      <actor>Ethan Hawke</actor>
+      <actor>Dennis Hopper</actor>
+      <actor>R. Crumb</actor>
+   </actors>
+   <release_date>October 2, 2009</release_date>
+   <running_time>88</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>Ferrara’s unconventional methods only manage to serve Chelsea on the Rocks, his loving portrait of Manhattan’s boho landmark, the Chelsea Hotel.</snippet>
+         <url>http://newyork.timeout.com/articles/film/79124/chelsea-on-the-rocks-film-review</url>
+         <critic>Keith Uhlich</critic>
+      </review>
+      <review>
+         <snippet>Rambles a bit, but it's a real slice of New York history.</snippet>
+         <url>http://www.nypost.com/p/entertainment/movies/docu_on_landmark_due_high_status_sQ7CUZemDxTamsFSH9R0cK</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>It's a celebration of a shady landmark, but also a lament.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2009/10/08/MVRO1A1DTH.DTL</url>
+         <critic>Walter Addiego</critic>
+      </review>
+      <review>
+         <snippet>A warm and curiously engaging film despite many flaws and the sloppiness of its construction.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=11875</url>
+         <critic>Nick Antosca</critic>
+      </review>
+      <review>
+         <snippet>Manhattan's storied hotel is the timely subject of this passionate tribute.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?rid=11459</url>
+         <critic>Michael Rechtshaffen</critic>
+      </review>
+      <review>
+         <snippet>The movie’s most enjoyable moments are the brief instances when Ferrara himself intrudes on the scene.</snippet>
+         <url>http://www.avclub.com/articles/chelsea-on-the-rocks,33590/</url>
+         <critic>Sam Adams</critic>
+      </review>
+      <review>
+         <snippet>Even as Bard, filmmaker Milos Forman and Ferrara himself bemoan the changes, the lobby is filled with fine art -- and guests who aren't likely to harm you.</snippet>
+         <url>http://www.stltoday.com/stltoday/entertainment/reviews.nsf/movie/story/4E2BEEF77921DF9A8625765D0071291F?OpenDocument</url>
+         <critic>Joe Williams</critic>
+      </review>
+      <review>
+         <snippet>A skittery, rambling but often absorbing portrait.</snippet>
+         <url>http://www.variety.com/review/VE1117937268.html?categoryid=31&amp;cs=1&amp;query=chelsea+on+the+rocks</url>
+         <critic>Leslie Felperin</critic>
+      </review>
+      <review>
+         <snippet>An enraptured fantasia of high times at the hotel, the film is so intoxicated with the Chelsea’s bohemian mystique it virtually consumes itself.</snippet>
+         <url>http://movies.nytimes.com/2009/10/02/movies/02chelsea.html?ref=movies</url>
+         <critic>Stephen Holden</critic>
+      </review>
+      <review>
+         <snippet>Ferrera's shaggy tone, which fits the iconic building, gets irritating. Still, if you come for the stories, you'll stay for the company.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2009/10/02/2009-10-02_short_movie_reviews_more_than_a_game_.html</url>
+         <critic>Joe Neumaier</critic>
+      </review>
+      <review>
+         <snippet>Chelsea rambles--and in a way that makes you want to move down the bar.</snippet>
+         <url>http://www.villagevoice.com/2009-09-29/film/trolling-the-chelsea-abel-ferrara-stumbles/</url>
+         <critic>Nick Pinkerton</critic>
+      </review>
+   </reviews>
+   <US_Gross>$11,799</US_Gross>
+   <weekend_gross>$4,286</weekend_gross>
+   <number_of_screens>1</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

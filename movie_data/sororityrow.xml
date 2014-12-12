@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Sorority Row</name>
+   <company>Summit Entertainment</company>
+   <genres>
+      <genre>Horror</genre>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>Josh Stolberg</author>
+      <author>Pete Goldfinger</author>
+   </authors>
+   <directors>
+      <director>Stewart Hendler</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Briana Evigan</actor>
+      <actor>Leah Pipes</actor>
+      <actor>Rumer Willis</actor>
+      <actor>Jamie Chung</actor>
+      <actor>Audrina Patridge</actor>
+      <actor>Carrie Fisher</actor>
+   </actors>
+   <release_date>September 11, 2009</release_date>
+   <running_time>101</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>An average slasher picture that meanders indecisively between gore and gags.</snippet>
+         <url>http://www.variety.com/review/VE1117940992.html?categoryid=31&amp;cs=1</url>
+         <critic>Russell Edwards</critic>
+      </review>
+      <review>
+         <snippet>Even the gratuitous nudity can't quite save a Heathers-goes-to-college horror that's undermined by a silly plot and clunky dialogue.</snippet>
+         <url>http://www.empireonline.com/reviews/reviewcomplete.asp?FID=136553</url>
+         <critic>Kim Newman</critic>
+      </review>
+      <review>
+         <snippet>There's little to distinguish this from the rest of the entries coming down the horror film assembly line, though the presence of Carrie Fisher as a shotgun-toting housemother who taunts the killer by shouting "Come to mama!" offers some camp value.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film-reviews/sorority-row-film-review-1004011558.story</url>
+         <critic>Frank Scheck</critic>
+      </review>
+      <review>
+         <snippet>It lapses into that familiar category of movies that go in for lots of fancy obfuscation along the way only to make its story seem all the more simple, trite and contrived by the finish.</snippet>
+         <url>http://www.latimes.com/entertainment/news/la-et-sorority12-2009sep12,0,6650344.story</url>
+         <critic>Kevin Thomas</critic>
+      </review>
+      <review>
+         <snippet>In this breeding ground for date rape and HPV, there are some trashy kicks in seeing horrible people get theirs, plus housemother Fisher goes all buck wild with a shotgun.</snippet>
+         <url>http://newyork.timeout.com/articles/film/78636/sorority-row-film-review</url>
+         <critic>Aaron Hillis</critic>
+      </review>
+      <review>
+         <snippet>An interminable mess of a film that juggles more characters and undeveloped subplots than it can handle and even manages to bungle the setup.</snippet>
+         <url>http://movies.nytimes.com/2009/09/12/movies/12sorority.html?ref=movies</url>
+         <critic>Stephen Holden</critic>
+      </review>
+      <review>
+         <snippet>Call me the sarcastic sister, but the only things screaming in any convincing way here are the cheap look, epileptic direction and off-key, “edgy” humor. It’s all so ‘80s, I could die.</snippet>
+         <url>http://www.laweekly.com/2009-09-10/film-tv/movie-reviews-all-about-steve-loren-cass-ink-walt-el-grupo/3</url>
+         <critic>Michelle Orange</critic>
+      </review>
+      <review>
+         <snippet>Follows the imaginatively bankrupt trend of remaking slasher films from the 1970s and ’80s. This time, it’s a regurgitation of Mark Rosman’s “The House on Sorority Row.’’</snippet>
+         <url>http://www.boston.com/ae/movies/articles/2009/09/12/blood_and_blackmail_on_sorority_row/</url>
+         <critic>Jonathan Perry</critic>
+      </review>
+      <review>
+         <snippet>Sorority Row might be utterly lacking in suspense, surprises, and wit, but nobody can say it doesn’t have a hero.</snippet>
+         <url>http://www.avclub.com/articles/sorority-row,32779/</url>
+         <critic>Steven Hyden</critic>
+      </review>
+      <review>
+         <snippet>The tedious flick offers little more than a few scares, and plenty of boobs. And we're not just talking about the cast.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20303881,00.html</url>
+         <critic>Kate Ward</critic>
+      </review>
+      <review>
+         <snippet>Brings absolutely nothing new to the autopsy table that wasn't previously covered.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A831861</url>
+         <critic>Marc Savlov</critic>
+      </review>
+   </reviews>
+   <US_Gross>$11,965,282</US_Gross>
+   <production_budget>$12,500,000</production_budget>
+   <weekend_gross>$5,059,802</weekend_gross>
+   <number_of_screens>2,665</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

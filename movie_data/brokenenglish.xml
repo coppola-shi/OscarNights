@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Broken English</name>
+   <company>Magnolia Pictures</company>
+   <genres>
+      <genre>Comedy</genre>
+      <genre>Romance</genre>
+   </genres>
+   <authors>
+      <author>Zoe R. Cassavetes</author>
+   </authors>
+   <directors>
+      <director>Zoe R. Cassavetes</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Parker Posey</actor>
+      <actor>Melvil Poupaud</actor>
+      <actor>Drea de Matteo</actor>
+      <actor>Justin Theroux</actor>
+      <actor>Gena Rowls</actor>
+      <actor>Peter Bogdanovich</actor>
+      <actor>Tim Guinee</actor>
+      <actor>Josh Hamilton</actor>
+   </actors>
+   <release_date>June 22, 2007</release_date>
+   <running_time>97</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>Broken English takes 30 minutes to do what most romantic comedies manage with a simple montage. That's a good thing, by the way.</snippet>
+         <url>http://www.miamiherald.com/1058/story/180216.html</url>
+         <critic>Peter Debruge</critic>
+      </review>
+      <review>
+         <snippet>The movie needs more incident and complication; it's modest to a fault.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/reviews/bal-to.broken20jul20,0,791432.story</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>As a director, Cassavetes is a keen observer of character and social interaction but not yet much of a visual stylist (which might also describe the improvisational dramas made by her actor/director father, John).</snippet>
+         <url>http://www.philly.com/inquirer/columnists/carrie_rickey/20070713_English_traces_path_of_a_broken_heart.html</url>
+         <critic>Carrie Rickey</critic>
+      </review>
+      <review>
+         <snippet>A pleasantly disposable romantic comedy starring the once and future indie-queen Parker Posey.</snippet>
+         <url>http://www.csmonitor.com/2007/0622/p14s02-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>As charmingly verklemmt New York women with bad luck in men and good luck in apartments go, Nora Wilder in Broken English has all the breaks.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20043123,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>A well-acted, smartly directed film that’s depressing because it could have amounted to so much more. It departs from the studio-financed romantic-comedy template in just one, unfortunately fatal respect: it makes a point of pride out of rejecting cliché, then swoons into its embrace.</snippet>
+         <url>http://movies2.nytimes.com/2007/06/22/movies/22brok.html?ref=movies</url>
+         <critic>Matt Zoller Seitz</critic>
+      </review>
+      <review>
+         <snippet>Demonstrating that the apple doesn't fall far from the tree, the screenwriter-director has delivered a well-observed film boasting highly realistic performances and dialogue, if not plot elements. But it's Posey's fascinating portrayal of a thirtysomething Manhattan single woman looking for love that lifts the film above its "Sex and the City" predictabilities.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?JSESSIONID=J0BwG9lQ4xGMVP9pL7Bvfh3sjskfJfT1JQHydYHKtKB8ZNFzzqT8!315702988&amp;&amp;rid=8649</url>
+         <critic>Frank Scheck</critic>
+      </review>
+      <review>
+         <snippet>A wry, charming romance about a New York woman who has given up hope of finding love.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-brokenenglish22jun22,0,1892848.story?coll=cl-mreview</url>
+         <critic>Carina Chocano</critic>
+      </review>
+      <review>
+         <snippet>A pitch-perfect lead performance by Parker Posey and debuting feature writer-helmer Zoe Cassavetes' deft, low-key approach raise Broken English a couple notches above the usual run of lonely-single-woman-seeking-romance-in-the-big-city yarns.</snippet>
+         <url>http://www.variety.com/index.asp?layout=features2007&amp;content=jump&amp;jump=review&amp;dept=berlin&amp;nav=RBerlin&amp;articleid=VE1117932509&amp;cs=1&amp;p=0</url>
+         <critic>Dennis Harvey</critic>
+      </review>
+      <review>
+         <snippet>There's not a lot of story here and the dialogue lacks the snap one usually gets in New York stories of affluent young adults, but the characters have an authenticity.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/323438_broken13q.html</url>
+         <critic>Sean Axmaker</critic>
+      </review>
+      <review>
+         <snippet>This movie belongs to Posey, and her nuanced performance makes Broken English a worthy adventure.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A501369</url>
+         <critic>Marjorie Baumgarten</critic>
+      </review>
+      <review>
+         <snippet>Both neurotic and endearing, it's so carefully accessorized you may not even notice that, at heart, it's a standard-issue romantic comedy.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2007/06/22/2007-06-22_jaded_new_yorker_seeks_the_french_connec-1.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>It's the stuff of countless advice columns, daytime talk shows, sitcoms, romantic comedies. Quite frankly, it's tired. What makes a difference here -- although really not enough of one -- is the people.</snippet>
+         <url>http://www.premiere.com/moviereviews/3891/broken-english.html</url>
+         <critic>Glenn Kenny</critic>
+      </review>
+      <review>
+         <snippet>It's the kind of film that will resonate only with a tiny fraction of the available audience. Unless a viewer's age and situation mirrors that of Posey's Nora Wilder, odds are that this movie will generate a sense of déjà vu.</snippet>
+         <url>http://www.reelviews.net/movies/b/broken_english.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>For all its impeccable indie credibility, writer-director Zoe Cassavetes' bittersweet romance is little more than a hipster chick flick in which the same old smart women make the usual foolish choices.</snippet>
+         <url>http://www.tvguide.com/movies/broken-english/review/288324</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>Posey is a delight throughout, and Zoe Cassavetes is clearly a filmmaker to watch.</snippet>
+         <url>http://www.nypost.com/seven/06222007/entertainment/movies/tossed_in_translation_movies_lou_lumenick.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>Cassavetes, who wrote the script, proves her skill with actors in this woozy push-and-pull of slurred compliments and shaky hopes for whatever lies beyond the next day.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-070720-movies-review-broken,0,4424510.story?coll=mmx-movies_top_heds</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>There is a very good movie named "Before Sunset" that begins more or less where this one ends. Which tells you something right there.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/section?category=RT</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>A conventional New York-lonely hearts story made watchable by one element and one element only: Parker Posey.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=9892</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>What began as an interesting character study ends in convention, offering only the most clichéd platitudes in summation. You can't find true love until you love yourself? Hasn't Dr. Phil been telling us that for years?</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=9657</url>
+         <critic>Jamie Tipps</critic>
+      </review>
+      <review>
+         <snippet>Posey remains touching as the woman with happiness in sight but bewilderingly out of reach.</snippet>
+         <url>http://www.villagevoice.com/film/0725,orange,77005,20.html</url>
+         <critic>Michelle Orange</critic>
+      </review>
+      <review>
+         <snippet>Despite its schizophrenic nature and often disagreeable characteristics, Broken English has flashes of something. You might say it has an integrity of purpose, if not of execution.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2007/06/21/btm/index2.html</url>
+         <critic>Andrew O&amp;#039;Hehir</critic>
+      </review>
+      <review>
+         <snippet>Given the gift of Posey at the peak of her powers, Cassavetes squanders her star in low-key, go-nowhere conversations, shot without flair and drained of any improvisatory energy.</snippet>
+         <url>http://www.avclub.com/content/cinema/broken_english</url>
+         <critic>Noel Murray</critic>
+      </review>
+      <review>
+         <snippet>Broken English doesn't break any code or offer original insights on the subject. But there's a spark whenever Posey and Poupaud are together.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2007/07/06/DDGS4QQONJ1.DTL&amp;type=movies</url>
+         <critic>Ruthe Stein</critic>
+      </review>
+      <review>
+         <snippet>Almost nothing that's said or done here is convincing. And the energy is set at near-coma level.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/118540236060000.xml&amp;coll=7</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>How Posey's neurotic, self-destructive heroine finds her way to healing is the core of this generous film, whose moral is that happiness can't begin unless you're open to its possibility.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/31807_BROKEN_ENGLISH_CASSAVETES.html</url>
+         <critic>Andrea Gronvall</critic>
+      </review>
+      <review>
+         <snippet>If Broken English occasionally falls prey to a bit too much self-conscious lethargy, it's still a welcome chance to see Posey at her flighty, edgy best.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1135387&amp;categories=Movies&amp;nm=1</url>
+         <critic>Ann Hornaday</critic>
+      </review>
+   </reviews>
+   <US_Gross>$956,919</US_Gross>
+   <weekend_gross>$55,198</weekend_gross>
+   <number_of_screens>7</number_of_screens>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

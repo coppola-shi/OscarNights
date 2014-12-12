@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Harry Potter and the Order of the Phoenix</name>
+   <company>Warner Bros.</company>
+   <genres>
+      <genre>Adventure</genre>
+      <genre>Drama</genre>
+      <genre>FamilyKids</genre>
+      <genre>Fantasy</genre>
+   </genres>
+   <authors>
+      <author>J.K. Rowling</author>
+      <author>Michael Goldenberg</author>
+   </authors>
+   <directors>
+      <director>David Yates</director>
+   </directors>
+   <origins>
+      <origin>UKUSA</origin>
+   </origins>
+   <actors>
+      <actor>Daniel Radcliffe</actor>
+      <actor>Rupert Grint</actor>
+      <actor>Emma Watson</actor>
+      <actor>Helena Bonham Carter</actor>
+      <actor>Imelda Staunton</actor>
+      <actor>Gary Oldman</actor>
+      <actor>Brendan Gleeson</actor>
+      <actor>Ralph Fiennes</actor>
+   </actors>
+   <release_date>July 11, 2007</release_date>
+   <running_time>138</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>For all its portentousness, this is the best Harry Potter picture yet. In some ways, it improves on J.K. Rowling’s novel, which is punishingly protracted and builds to a climactic wand-off better seen than read.</snippet>
+         <url>http://nymag.com/movies/reviews/34455/</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>It's action-packed, darker, more epic and thankfully schmaltz-free. And it's the best "Harry Potter" film yet.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2007/07/08/2007-07-08_phoenix_hot_for_harry.html</url>
+         <critic>Colin Bertram</critic>
+      </review>
+      <review>
+         <snippet>In narrative terms, not that much happens, but as for Harry's emotional journey--well, that's nearly epic.</snippet>
+         <url>http://www.villagevoice.com/film/0728,foundas,77211,20.html</url>
+         <critic>Scott Foundas</critic>
+      </review>
+      <review>
+         <snippet>Not just a ripping yarn but a powerful, poignant coming-of-age story.</snippet>
+         <url>http://www.time.com/time/magazine/article/0,9171,1640397,00.html</url>
+         <critic>Richard Corliss</critic>
+      </review>
+      <review>
+         <snippet>The special effects continue to be masterful, but villains are given a new twist, and Order of the Phoenix is all the more fun because of it.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2007-07-09-potter-review_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>It will hook you good and keep you riveted.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/15087359/review/15289225/harry_potter_and_the_order_of_the_phoenix</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>For those who have gotten their Harry Potter fix entirely through the cinematic incarnation, the script is lucid and fast-moving.</snippet>
+         <url>http://www.reelviews.net/movies/h/harry_potter5.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>Yet, as good as it is in so many ways, there's no getting around the fact that this briefest Harry and first directed by an unknown filmmaker (David Yates) is the least substantial of the bunch.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/323005_harry10q.html</url>
+         <critic>William Arnold</critic>
+      </review>
+      <review>
+         <snippet>The whole film is about innocence and experience, and if it isn't a Blakean song, it is a sturdy and vibrant piece of prose.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-to.potter10jul10,0,931696.story?coll=bal-movies-utility</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>The flourishes don't answer the question most on Potterites' minds -- who lives, who dies? -- but they briefly stupefy.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20045337,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>Screenwriter Michael Goldenberg and director David Yates have transformed J.K. Rowling's garrulous storytelling into something leaner, moodier and more compelling, that ticks with metronomic purpose as the story flits between psychological darkness and cartoonish slapstick.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1133555&amp;categories=Movies&amp;nm=1</url>
+         <critic>Desson Thomson</critic>
+      </review>
+      <review>
+         <snippet>It won't win new fans, but as Potter movies go, this is the most filmic of the lot, suspenseful and action-packed.</snippet>
+         <url>http://www.empireonline.com/reviews/review.asp?FID=10479</url>
+         <critic>Helen O&amp;#039;Hara</critic>
+      </review>
+      <review>
+         <snippet>Timely metaphors abound in The Order of the Phoenix, but the story (of which there is much) stands on its own magical merits, dark and darker still though they may be.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A498446</url>
+         <critic>Marc Savlov</critic>
+      </review>
+      <review>
+         <snippet>Is there an admired British thespian who hasn't toiled in Potter's field?</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20070710.wpotterrev0710/BNStory/Entertainment/home</url>
+         <critic>Rick Groen</critic>
+      </review>
+      <review>
+         <snippet>Harry comes through loud and clear as a conflicted, edgy, avid young man. He's turned into EveryTeen.</snippet>
+         <url>http://www.csmonitor.com/2007/0712/p99s01-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>Destined to be remembered as the one that handed the screen Harry his first kiss. Like much of the film, the smooch comes and goes briskly, without a lot of fuss.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-070713-movies-review-potter,0,7106916.story?coll=mmx-movies_top_heds</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>Pheonix is smartly-constructed enough that non-acolytes interested in checking out Harry's world won't need too long to catch up.</snippet>
+         <url>http://www.premiere.com/moviereviews/3931/harry-potter-and-the-order-of-the-phoenix.html</url>
+         <critic>Glenn Kenny</critic>
+      </review>
+      <review>
+         <snippet>Darker, leaner, less expansive , and meaner, Harry Potter and the Order of the Phoenix  is all business, and it casts a spell utterly unlike the first four films.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=8999</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>Given a choice between this and the navel-gazing of the novel, I'll take the short ride on a fast machine.</snippet>
+         <url>http://ae.charlotte.com/entertainment/ui/charlotte/movie.html;jsessionid=E2B31D251F007A10A02E9A36CE84D7B8.prodapp15_ae_02?id=902413&amp;reviewId=22550&amp;startDate=07%2F10%2F2007</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>The most amazing magic yet for the wildly popular franchise: It is genuinely engrossing.</snippet>
+         <url>http://www.miamiherald.com/231/story/165548.html</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>On balance, the filmmakers do a terrific job with one of the weaker stories. It's welcome news that Yates is coming back for one of the stronger ones; he's set to direct "Half-Blood Prince."</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/1184109915171500.xml&amp;coll=7</url>
+         <critic>M. E. Russell</critic>
+      </review>
+      <review>
+         <snippet>This is a gangly, confusing sprawl, and yet there are enough patches of beauty scattered throughout that it's impossible to reject it wholesale.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2007/07/10/harry_potter/index.html</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>Considerably grimmer and grittier than the previous pictures.</snippet>
+         <url>http://www.variety.com/review/VE1117934037.html?categoryid=31&amp;cs=1</url>
+         <critic>Todd McCarthy</critic>
+      </review>
+      <review>
+         <snippet>A sleek, swift and exciting adaptation of J. K. Rowling’s longest novel to date.</snippet>
+         <url>http://movies2.nytimes.com/2007/07/10/movies/10harr.html?ref=movies</url>
+         <critic>A.O. Scott</critic>
+      </review>
+      <review>
+         <snippet>The movie is brisk and lively, if not exactly action-packed.</snippet>
+         <url>http://www.slate.com/id/2170149/fr/flyout</url>
+         <critic>Dana Stevens</critic>
+      </review>
+      <review>
+         <snippet>Save for the thrilling opening sequence, there's not much to remember about the film beyond Staunton (Vera Drake), who masks her bottomless malevolence behind a pasted-on patrician smile.</snippet>
+         <url>http://www.avclub.com/content/cinema/harry_potter_and_the_order_of</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>This fifth film should please fans who rate the films based on their fidelity to the canonical texts. But for the uninitiated, it's a dry and slightly dreary introduction to the world of Hogwarts and Azkaban.</snippet>
+         <url>http://www.tvguide.com/movies/harry-potter-order/review/285285</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>Whatever happened to the delight and, if you'll excuse the term, the magic in the "Harry Potter" series? As the characters grow up, the stories grow, too, leaving the innocence behind and confusing us with plots so labyrinthine that it takes a Ph.D from Hogwarts to figure them out.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20070709/REVIEWS/70620005</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>Standouts are Gary Oldman as Sirius Black, Harry's sly father-surrogate, and Imelda Staunton as Dolores Umbridge.</snippet>
+         <url>http://www.philly.com/philly/entertainment/movies/20070709_With_the_fifth_installment_of_the_Harry_Potter_films_in_theaters_tonight_and_the_seventh__and_final__tome_due_in_bookstores_on_the_21st__Potter_fever_is_epidemic_.html</url>
+         <critic>Carrie Rickey</critic>
+      </review>
+      <review>
+         <snippet>Director David Yates, who is new to the Potter franchise, moves the story along briskly, at the expense of texture and nuance.</snippet>
+         <url>http://online.wsj.com/article/SB118428191638465246.html</url>
+         <critic>Joanne Kaufman</critic>
+      </review>
+      <review>
+         <snippet>"Phoenix" might go down as the problematic film, full of plot but little fun.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?JSESSIONID=1M6sGJhdvJQLhZbvk2gwfKcWyP15v5n1BDT6BhJrGVCfSD14L8nf!1659900360&amp;&amp;rid=9447</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>Taken as a motion picture, the new "Harry" comes up short. But taken as a visual aid to the experience of reading a book, the new "Harry" does its job.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?file=/c/a/2007/07/10/DDG3IQSIV91.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>The storytelling seems occasionally disjointed, but more important, for all the special-effects wizardry, that touch of film magic never surfaces.</snippet>
+         <url>http://www.msnbc.msn.com/id/19649898/site/newsweek/</url>
+         <critic>David Ansen</critic>
+      </review>
+      <review>
+         <snippet>There are lots of special effects, but sadly, no real magic.</snippet>
+         <url>http://www.nypost.com/seven/07102007/entertainment/movies/dumb__dumbledore_movies_lou_lumenick.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>Something of a letdown. Previous statements aside, I understand Warner Bros. has to set the table for "Half-Blood Prince" and "Deathly Hallows," but too much of Phoenix is filler. And with only two movies left, we better get to the main course in short order.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=10163</url>
+         <critic>Pete Vonder Haar</critic>
+      </review>
+      <review>
+         <snippet>It finally can't transcend the limitations inherent in being no more than a way station in an epic journey, a journey whose cinematic conclusion is several years away.</snippet>
+         <url>http://www.calendarlive.com/printedition/calendar/cl-et-harry10jul10,0,1412180.story</url>
+         <critic>Kenneth Turan</critic>
+      </review>
+      <review>
+         <snippet>Less magic also means less fun and discovery, as Harry battles depression and a hostile press; this is the bleakest Potter installment to date, and under David Yates's choppy direction, Maggie Smith, Emma Thompson, Brendan Gleeson, and David Thewlis have little more than walk-ons.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/31809_HARRY_POTTER_AND_THE_ORDER_OF_THE_PHOENIX.html</url>
+         <critic>Andrea Gronvall</critic>
+      </review>
+   </reviews>
+   <US_Gross>$292,004,738</US_Gross>
+   <production_budget>$150,000,000</production_budget>
+   <weekend_gross>$139,715,157</weekend_gross>
+   <number_of_screens>4,285</number_of_screens>
+   <highest_grossing_actors_present/>
+   <num_highest_grossing_actors>4</num_highest_grossing_actors>
+   <highest_grossing_actor>rupert grint</highest_grossing_actor>
+   <highest_grossing_actor>gary oldman</highest_grossing_actor>
+   <highest_grossing_actor>emma watson</highest_grossing_actor>
+   <highest_grossing_actor>daniel radcliffe</highest_grossing_actor>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

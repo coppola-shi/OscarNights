@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Dark Knight, The</name>
+   <company>Warner Bros. Pictures</company>
+   <genres>
+      <genre>Action</genre>
+      <genre>Crime</genre>
+      <genre>Drama</genre>
+      <genre>Mystery</genre>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>Bob Kane</author>
+      <author>David S. Goyer</author>
+      <author>Christopher Nolan</author>
+      <author>Jonathan Nolan</author>
+   </authors>
+   <directors>
+      <director>Christopher Nolan</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Christian Bale</actor>
+      <actor>Heath Ledger</actor>
+      <actor>Aaron Eckhart</actor>
+      <actor>Maggie Gyllenhaal</actor>
+      <actor>Gary Oldman</actor>
+      <actor>Michael Caine</actor>
+      <actor>Morgan Freeman</actor>
+   </actors>
+   <release_date>July 18, 2008</release_date>
+   <running_time>152</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>Enthralling...An ambitious, full-bodied crime epic of gratifying scope and moral complexity, this is seriously brainy pop entertainment that satisfies every expectation raised by its hit predecessor and then some.</snippet>
+         <url>http://www.variety.com/VE1117937619.html</url>
+         <critic>Justin Chang</critic>
+      </review>
+      <review>
+         <snippet>Bale again brilliantly personifies all the deep traumas and misgivings of Batman's alter ego, Bruce Wayne. A bit of Hamlet is in this Batman.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?JSESSIONID=J6h5Ly0CGB892BcjFPzXjcShXJPTrvzlXnJJvLTgTlJLVC4Ypphr!-209288430&amp;&amp;rid=11376</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>Beyond dark. It's as black -- and teeming and toxic --  as the mind of the Joker. "Batman Begins," the 2005 film that launched Nolan's series, was a mere five-finger exercise. This is the full symphony.</snippet>
+         <url>http://www.time.com/time/arts/article/0,8599,1821365,00.html</url>
+         <critic>Richard Corliss</critic>
+      </review>
+      <review>
+         <snippet>Christopher Nolan has provided movie-goers with the best superhero movie to-date, outclassing previous titles both mediocre and excellent, and giving this franchise its "The Empire Strikes Back."</snippet>
+         <url>http://www.reelviews.net/php_review_template.php?identifier=1235</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>The Dark Knight will give your adrenal glands their desired workout, but it will occupy your mind, too, and even lead it down some dim alleyways where most Hollywood movies fear to tread.</snippet>
+         <url>http://www.villagevoice.com/2008-07-16/film/heath-ledger-dark-knight/</url>
+         <critic>Scott Foundas</critic>
+      </review>
+      <review>
+         <snippet>Twisted, tortured, terrifying - and terrific.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2008/07/15/2008-07-15_ledgers_dark_joker_raises_pic_to_a_class.html</url>
+         <critic>Joe Neumaier</critic>
+      </review>
+      <review>
+         <snippet>"Batman" isn't a comic book anymore. Christopher Nolan's The Dark Knight is a haunted film that leaps beyond its origins and becomes an engrossing tragedy. It creates characters we come to care about. That's because of the performances, because of the direction, because of the writing, and because of the superlative technical quality of the entire production.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20080716/REVIEWS/55996637</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>Sensational, grandly sinister and not for the kids, The Dark Knight elevates pulp to a very high level.</snippet>
+         <url>http://chicago.metromix.com/movies/movie_review/movie-review-the-dark/507851/content</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>Ledger's performance is monumental, but The Dark Knight lives up to it. Nolan cements his position as Hollywood's premier purveyor of blockbuster smarts – and the Batbike is kinda cool, too.</snippet>
+         <url>http://www.empireonline.com/reviews/reviewcomplete.asp?FID=134520</url>
+         <critic>Mark Dinning</critic>
+      </review>
+      <review>
+         <snippet>With The Dark Knight, the cinematic superhero spectacle comes closest to becoming modern myth, a pulp tragedy with costumed players and elevated stakes and terrible sacrifices. It's the new gold standard for superhero noir.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/371020_darkknight17q.asp</url>
+         <critic>Sean Axmaker</critic>
+      </review>
+      <review>
+         <snippet>That Ledger stands out in such a powerhouse ensemble is a tribute to his radically unhinged interpretation of a familiar character: The lank hair tinged seaweed green, the darting tongue and faint lisp that call constant attention to the ghastly rictus of his mouth, the nightmarishly smudged make up… taken together, they make previous Jokers feel like, well, jokes.</snippet>
+         <url>http://www.tvguide.com/movies/dark-knight/review/290942</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>When was the last time you saw a blockbuster that was impeccably executed and simultaneously thought-provoking, audacious and unnerving while consistently being fun and entertaining?</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2008-07-16-dark-knight-review_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>succeeds as an action film, character study and metaphor for our own terrorism-obsessed time.</snippet>
+         <url>http://www.charlotte.com/434/story/716863.html</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>May be the most hopeless, despairing comic-book movie in memory. It creates a world where being a superhero is at best a double-edged sword and no triumph is likely to be anything but short-lived.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-knight17-2008jul17,0,5301579.story</url>
+         <critic>Kenneth Turan</critic>
+      </review>
+      <review>
+         <snippet>Nolan turns the Manichean morality of comic books--pure good vs. pure evil--into a bleak post-9/11 allegory about how terror (and, make no mistake, Heath Ledger's Joker is a terrorist) breaks down those reassuring moral categories.</snippet>
+         <url>http://www.slate.com/id/2195523/</url>
+         <critic>Dana Stevens</critic>
+      </review>
+      <review>
+         <snippet>The film's capes and cowls suggest one genre, but it's a metropolis-sized tragedy at heart.</snippet>
+         <url>http://www.avclub.com/content/cinema/the_dark_knight</url>
+         <critic>Keith Phipps</critic>
+      </review>
+      <review>
+         <snippet>The real relationship here is between a Batman in existential crisis and a Joker who'd love to leap with him into the abyss -- tight-a--ed yin and anarchist yang in a fantasy franchise that Nolan has made as riveting for its psychological heft as for the adrenaline rushes it inspires at regular intervals.</snippet>
+         <url>http://www.npr.org/templates/story/story.php?storyId=92534168</url>
+         <critic>Bob Mondello</critic>
+      </review>
+      <review>
+         <snippet>This comic-book movie is more disturbing, and has more freakish power, than anything else I've seen all year.</snippet>
+         <url>http://www.csmonitor.com/2008/0719/p25s04-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>At two hours and 32 minutes, this is almost too much movie, but it has a malicious, careening zest all its own. It's a ride for the gut AND the brain.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20212455,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>The Dark Knight may not be a masterpiece, but it easily vaults to the top of any list of "best superhero movies."</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=11096</url>
+         <critic>Pete Vonder Haar</critic>
+      </review>
+      <review>
+         <snippet>Pitched at the divide between art and industry, poetry and entertainment, it goes darker and deeper than any Hollywood movie of its comic-book kind.</snippet>
+         <url>http://movies.nytimes.com/2008/07/18/movies/18knig.html?ref=movies</url>
+         <critic>Manohla Dargis</critic>
+      </review>
+      <review>
+         <snippet>The Dark Knight is dark, all right: It's a luxurious nightmare disguised in a superhero costume, and it's proof that popcorn entertainments don't have to talk down to their audiences in order to satisfy them. The bar for comic-book film adaptations has been permanently raised.</snippet>
+         <url>http://www.miamiherald.com/1054/story/604855.html</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>No fair giving away the mysteries of The Dark Knight. It's enough to marvel at the way Nolan -- a world-class filmmaker, be it "Memento," "Insomnia" or "The Prestige" -- brings pop escapism whisper-close to enduring art.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/16155928/review/21477208/the_dark_knight</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>The highest praise I can give a superhero movie is that it makes me forget about its 10-cent-comic-book soul.</snippet>
+         <url>http://www.nypost.com/seven/07162008/entertainment/movies/grinner_takes_all_120095.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>Because make no mistake: The Dark Knight is many things, some of them deliriously fun, some of them deeply impressive, and some of them puzzling and frustrating. But most of all it is dark.</snippet>
+         <url>http://blog.oregonlive.com/madaboutmovies/2008/07/a_truly_dark_dark_knight.html</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>The moral dilemmas are perfectly fused with the amped-up action and outsize characters, but they're impossible to miss: like all of us, the people of Gotham have to protect themselves from evil without falling prey to it.</snippet>
+         <url>http://www.chicagoreader.com/features/stories/moviereviews/080717/</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>You come away impressed, oppressed, provoked, and beaten down, holding on to Ledger's squirrelly incandescence as a beacon in the darkness.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=9821</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>Shakespearean but overlong, The Dark Knight is two hours of heady, involving action that devolves into a mind-numbing 32-minute epilogue.</snippet>
+         <url>http://www.philly.com/philly/entertainment/movies/20080716_Heath_Ledger_echoes_through_Dark_Knight.html</url>
+         <critic>Carrie Rickey</critic>
+      </review>
+      <review>
+         <snippet>Mixing bravura filmmaking with flat clichés in about equal amounts, The Dark Knight is all about dualism. Appropriately, the movie's half-inspired, half-frustrating.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20080716.wknight17/BNStory/Entertainment/home</url>
+         <critic>Liam Lacey</critic>
+      </review>
+      <review>
+         <snippet>An action blockbuster extravaganza that's sadder than sad and never pretends otherwise.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2008/07/17/DDK011PHMA.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>Nolan's strong suits are maniacal schemers and moody character-driven intrigue, both of which make The Dark Knight a sleek (if, at close to three hours, somewhat distended) detective story.</snippet>
+         <url>http://www.premiere.com/moviereviews/4656/the-dark-knight.html</url>
+         <critic>Eric Kohn</critic>
+      </review>
+      <review>
+         <snippet>You keep waiting for the movie to clarify, to settle down to its archetypal purity: icon of psychotic evil against icon of neurotic good. Music by Wagner in his "Götterdämmerung" mood, screenplay by Nietzsche, with additional lines by Babaloo Mandel. Oh, what a great big movie wallow, what a transformational blast of cine-pleasure. It never quite arrives</snippet>
+         <url>http://www.washingtonpost.com/wp-dyn/content/article/2008/07/16/AR2008071602877.html</url>
+         <critic>Stephen Hunter</critic>
+      </review>
+      <review>
+         <snippet>You may emerge more exhausted than elated. Nolan wants to prove that a superhero movie needn't be disposable, effects-ridden junk food, and you have to admire his ambition. But this is Batman, not "Hamlet." Call me shallow, but I wish it were a little more fun.</snippet>
+         <url>http://www.newsweek.com/id/145509</url>
+         <critic>David Ansen</critic>
+      </review>
+      <review>
+         <snippet>Christopher Nolan's latest exploration of the Batman mythology steeps its muddled plot in so much murk that the Joker's maniacal nihilism comes to seem like a recurrent grace note.</snippet>
+         <url>http://online.wsj.com/article/SB121632327909562803.html</url>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>A handsome, accomplished piece of work, but it drove me from absorption to excruciation within 20 minutes, and then it went on for two hours more.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/reviews/bal-li.knight17jul17,0,7616380.story</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>The novelty wears off and the lack of imagination, visual and otherwise, turns into a drag. The Dark Knight is noisy, jumbled, and sadistic.</snippet>
+         <url>http://nymag.com/movies/reviews/48514/</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>The Dark Knight is hardly routine--it has a kicky sadism in scene after scene, which keeps you on edge and sends you out onto the street with post-movie stress disorder.</snippet>
+         <url>http://www.newyorker.com/arts/critics/cinema/2008/07/21/080721crci_cinema_denby</url>
+         <critic>David Denby</critic>
+      </review>
+      <review>
+         <snippet>The only thing here that feels truly, utterly alive is Ledger's maniacal, muttery Joker. The last laugh is his and his alone. It's enough to make you cry.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A644871</url>
+         <critic>Marc Savlov</critic>
+      </review>
+      <review>
+         <snippet>Nolan may want us to believe in the darkness that lurks within each of us, but instead of leading us to it visually, he chops it up and sets it out in front of us, a grim, predigested banquet.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2008/07/17/dark_knight/</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+   </reviews>
+   <US_Gross>$533,345,358</US_Gross>
+   <production_budget>$185,000,000</production_budget>
+   <weekend_gross>$158,411,483</weekend_gross>
+   <number_of_screens>4,366</number_of_screens>
+   <highest_grossing_actors_present/>
+   <num_highest_grossing_actors>3</num_highest_grossing_actors>
+   <highest_grossing_actor>morgan freeman</highest_grossing_actor>
+   <highest_grossing_actor>michael caine</highest_grossing_actor>
+   <highest_grossing_actor>gary oldman</highest_grossing_actor>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

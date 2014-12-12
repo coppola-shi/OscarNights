@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Zoom</name>
+   <company>Sony Pictures Releasing</company>
+   <genres>
+      <genre>Adventure</genre>
+      <genre>Comedy</genre>
+      <genre>Drama</genre>
+      <genre>Fantasy</genre>
+   </genres>
+   <authors>
+      <author>Adam Rifkin</author>
+      <author>David Berenbaum</author>
+      <author>Jason Lethcoe</author>
+   </authors>
+   <directors>
+      <director>Peter Hewitt</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Tim Allen</actor>
+      <actor>Courteney Cox</actor>
+      <actor>Chevy Chase</actor>
+      <actor>Spencer Breslin</actor>
+      <actor>Kate Mara</actor>
+      <actor>Rip Torn</actor>
+      <actor>Aaron Abrams</actor>
+      <actor>Kevin Zegers</actor>
+   </actors>
+   <release_date>August 11, 2006</release_date>
+   <running_time>88</running_time>
+   <rating>PG</rating>
+   <reviews>
+      <review>
+         <snippet>If August has turned the children in your life into Bored Girl and Fidget Boy, you could find worse ways to keep them entertained.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/moviereviews/story/442677p-372855c.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>Zoom suffers from following three "X-Men" movies and "Sky High," but even if it preceded them, it'd still qualify as little more than a cheap, ugly, forgettable footnote to the seemingly endless superhero boom.</snippet>
+         <url>http://www.avclub.com/content/node/51571</url>
+         <critic>Nathan Rabin</critic>
+      </review>
+      <review>
+         <snippet>"X-Men" sans the intellect and atmosphere.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=9231</url>
+         <critic>Felix Vasques Jr.</critic>
+      </review>
+      <review>
+         <snippet>A family-friendly adventure.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/LAC.20060814.ZOOM14/TPStory/TPEntertainment/Movies/</url>
+         <critic>Jason Anderson</critic>
+      </review>
+      <review>
+         <snippet>Pure Saturday matinee kiddie fodder and this close to going straight to DVD.</snippet>
+         <url>http://www.boston.com/ae/movies/articles/2006/08/12/zoom_fails_even_its_target_audience/</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>Tim Allen gamely brings some humanity to the role of the retired, powerless hero Captain Zoom, but is thwarted at every turn by bad special effects, slapdash editing, interminable pop-song montages, and a goofy performance by Courteney Cox.</snippet>
+         <url>http://www.laweekly.com/film+tv/film-reviews/film-reviews/14204/</url>
+         <critic>Luke Y. Thompson</critic>
+      </review>
+      <review>
+         <snippet>Zoom is a movie that would make Dr. Frankenstein proud. Put together with parts from so many other movies, the thing positively clanks.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1002985791</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>This tepid comic-bookish comedy should zip through its theatrical run faster than a speeding bullet. It likely won't perform much more superheroically in ancillary venues.</snippet>
+         <url>http://www.variety.com/review/VE1117931295?categoryid=31&amp;cs=1</url>
+         <critic>Joe Leydon</critic>
+      </review>
+      <review>
+         <snippet>Bleeds boredom from every frame.</snippet>
+         <url>http://movies2.nytimes.com/2006/08/12/movies/12zoom.html?ref=movies</url>
+         <critic>Jeannette Catsoulis</critic>
+      </review>
+      <review>
+         <snippet>In a feat of dullness quite powerful in its own way, this lifeless family comedy sucks the joy from every joke it touches.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1226610_1_0_,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>One of the most dismal excuses for family entertainment ever perpetrated by a major studio, this crude, lazy variation on Disney's "Sky High" (2005) revolves around the education of four "special" youngsters at the hands of a washed-up superhero.</snippet>
+         <url>http://online.tvguide.com/newsearch/detail.aspx?tvobjectid=281712&amp;more=ucmoviereview</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>Zoom is a C-list production in every possible way, from the actors and the special effects to the music and the script. Even the product placement is completely third rate.</snippet>
+         <url>http://sfgate.com/cgi-bin/article.cgi?f=/c/a/2006/08/14/DDGEIKHA301.DTL&amp;type=movies</url>
+         <critic>Peter Hartlaub</critic>
+      </review>
+      <review>
+         <snippet>A kid comedy that's been zapped by extraterrestrial suckiness rays.</snippet>
+         <url>http://www.nypost.com/entertainment/movies/zooms_in_on_stuporhero_movies_kyle_smith.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>This comedy drags its feet, while the sappy sweetness will make you wince.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A393244</url>
+         <critic>Toddy Burton</critic>
+      </review>
+   </reviews>
+   <US_Gross>$11,989,328</US_Gross>
+   <production_budget>$35,000,000</production_budget>
+   <weekend_gross>$4,510,408</weekend_gross>
+   <number_of_screens>2,501</number_of_screens>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

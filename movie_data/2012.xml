@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>2012</name>
+   <company>Columbia Pictures (Sony)</company>
+   <genres>
+      <genre>Action</genre>
+      <genre>Drama</genre>
+      <genre>Scifi</genre>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>Roland Emmerich</author>
+      <author>Harald Kloser</author>
+   </authors>
+   <directors>
+      <director>Roland Emmerich</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+      <origin>Canada</origin>
+   </origins>
+   <actors>
+      <actor>John Cusack</actor>
+      <actor>Chiwetel Ejiofor</actor>
+      <actor>Ama Peet</actor>
+      <actor>Oliver Platt</actor>
+      <actor>Thie Newton</actor>
+      <actor>Danny Glover</actor>
+      <actor>Woody Harrelson</actor>
+   </actors>
+   <release_date>November 13, 2009</release_date>
+   <running_time>158</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>There's something to be said for a formula picture done almost to perfection. In 2012, Emmerich gives you everything you expect, but gives it to you bigger.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2009/11/12/MV161AICV3.DTL</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>2012 takes the disaster movie -- once content simply to threaten the Earth with a comet, or blow up the White House -- to its natural conclusion, the literal end of the world.</snippet>
+         <url>http://www.washingtonpost.com/gog/movies/2012,1158595.html</url>
+         <critic>Dan Kois</critic>
+      </review>
+      <review>
+         <snippet>The mother of all disaster movies (and the father, and the extended family) spends half an hour on ominous set-up scenes (scientists warn, strange events occur, prophets rant and of course a family is introduced) and then unleashes two hours of cataclysmic special events hammering the Earth relentlessly.</snippet>
+         <url>http://www.rogerebert.com/apps/pbcs.dll/article?AID=/20091111/REVIEWS/911119994/1023</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>The visual effects are pretty sensational, delivering the cutting-edge CGI goods auds want and expect. It will be hard to watch "Earthquake'' ever again after this one.</snippet>
+         <url>http://www.variety.com/review/VE1117941576.html?categoryid=31&amp;cs=1</url>
+         <critic>Todd McCarthy</critic>
+      </review>
+      <review>
+         <snippet>2012 isn't a bad movie that, out of sheer boredom, you might snicker at once or twice; it's a two-and-a-half hour laugh riot that plays on our expectations of the genre by anticipating and exceeding them.</snippet>
+         <url>http://www.slate.com/id/2235468/</url>
+         <critic>Dana Stevens</critic>
+      </review>
+      <review>
+         <snippet>As you might suspect, the 2012 dialogue is pure Velveeta.</snippet>
+         <url>http://www.nypost.com/p/entertainment/movies/apocalypse_and_how_in_1vKuAiQluEmGIWIOGzmaaI</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>For all of its faults, ends up being relentlessly watchable as well, a summertime popcorn spectacle plopped down in the middle of the fall movie season.</snippet>
+         <url>http://www.nola.com/movies/index.ssf/2009/11/2012_review_if_the_end_has_to.html</url>
+         <critic>Mike Scott</critic>
+      </review>
+      <review>
+         <snippet>God forgive me, but I enjoyed the nerve-racking silliness of this newest, loudest exercise in destruction.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20319012,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>For visual noise by the ton, Emmerich is my kind of hack, the pluperfect blend of leaden self-seriousness and accidental-on-purpose self-satirist.</snippet>
+         <url>http://featuresblogs.chicagotribune.com/talking_pictures/</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>Spectacular CGI disasters.</snippet>
+         <url>http://www.chicagoreader.com/chicago/MovieTimes?oid=977542</url>
+         <critic>Cliff Doerksen</critic>
+      </review>
+      <review>
+         <snippet>Eye-popping special effects ensure that this movie will be a smash hit, and while it's entertaining for most of its excessive running time, the cheesy script fails to live up to the grandeur of the physical production.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film-reviews/2012-film-review-1004041300.story</url>
+         <critic>Stephen Farber</critic>
+      </review>
+      <review>
+         <snippet>Any sentient viewer will be able to predict every lumpy twist of this ludicrous, fitfully enjoyable movie.</snippet>
+         <url>http://www.time.com/time/arts/article/0,8599,1938799,00.html</url>
+         <critic>Richard Corliss</critic>
+      </review>
+      <review>
+         <snippet>This long, ludicrous soap opera is also a mighty spectacle, a new standard in disengaged destruction.</snippet>
+         <url>http://www.stltoday.com/stltoday/entertainment/reviews.nsf/movie/story/A0B448F17D4FD4A98625766B006D9127?OpenDocument</url>
+         <critic>Joe Williams</critic>
+      </review>
+      <review>
+         <snippet>This film that imagines the end of the world not as a whimper but as an implosion is a preposterously diverting, instantly forgettable, big-screen video game.</snippet>
+         <url>http://www.philly.com/inquirer/columnists/carrie_rickey/20091113_Watch_the_world_go_kaput_3_years_hence.html</url>
+         <critic>Carrie Rickey</critic>
+      </review>
+      <review>
+         <snippet>As far as the new disaster film 2012 is concerned, the world will end with both a bang and a whimper, the bang of undeniably impressive special effects and the whimper of inept writing and characterization. You pays your money, you takes your chances.</snippet>
+         <url>http://www.latimes.com/entertainment/news/la-et-2012-13-2009nov13,0,6140773.story</url>
+         <critic>Kenneth Turan</critic>
+      </review>
+      <review>
+         <snippet>Although 2012 is what they call "critic-proof," it's not immune to analysis. It depicts a world where no one, man or God, has much say in what happens to the planet, and where the survival of one family outweighs the deaths of billions.</snippet>
+         <url>http://www.oregonlive.com/movies/index.ssf/2009/11/review_moviegoers_suffer_most.html</url>
+         <critic>Marc Mohan</critic>
+      </review>
+      <review>
+         <snippet>2012 is totally, certifiably nuts, without being quite as off-the-wall kitschy as Emmerich's last special-effects extravabanzoo, "10,000 BC."</snippet>
+         <url>http://www.salon.com/ent/movies/review/2009/11/12/2012/index.html</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>The movie is an undeniable visual spectacle, but just as unequivocally a cheesy, ridiculous story.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2009-11-13-2012rev13_ST_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>If characters with more than one dimension, a plausible story and some sort of viewpoint are moviegoing musts, you may leave 2012 feeling a tad shortchanged.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=11998</url>
+         <critic>Rick Kisonak</critic>
+      </review>
+      <review>
+         <snippet>Doomsday views are a knockout, but the script is a real disaster.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2009/11/13/2009-11-13_apocalypse_wow_doomsday_views_are_a_knockout_but_script_is_the_real_2012_disaste.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>The two-hour-and-40-minute 2012 is overstuffed with special-effects, but the Curtis clan's mad dash out of town is the closest the movie gets to actually being fun.</snippet>
+         <url>http://www.villagevoice.com/2009-11-10/film/the-end-is-near-in-emmerich-s-2012/</url>
+         <critic>Chuck Wilson</critic>
+      </review>
+      <review>
+         <snippet>The last 40 minutes test your patience -- and intelligence -- in a way the rest of this big, dumb, crazy movie never does:</snippet>
+         <url>http://www.miamiherald.com/entertainment/movies/reviews/story/1329228.html</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>The result is a state-of-the-art multiplex three-ring circus whose special effects stagger the senses and play like a video game, whose human drama aims for the cosmic and lands waist-deep in the Big Silly.</snippet>
+         <url>http://www.boston.com/ae/movies/articles/2009/11/13/director_emmerich_destroys_the_earth____again____in_2012/</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>Say this for Roland Emmerich's latest movie: It IS a disaster.</snippet>
+         <url>http://www.npr.org/templates/story/story.php?storyId=120125624</url>
+         <critic>Bob Mondello</critic>
+      </review>
+      <review>
+         <snippet>It occurred to me that Emmerich and Co. might be playing this whole thing for laughs. It probably occurred to them, too.</snippet>
+         <url>http://www.csmonitor.com/2009/1113/p17s04-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>The set pieces are grand—gloriously dumb and never realistic enough to make you wince at the fact that billions of microscopic souls are dying before your eyes. Rather, you wince at everything else.</snippet>
+         <url>http://newyork.timeout.com/articles/film/80592/2012-film-review</url>
+         <critic>Joshua Rothkopf</critic>
+      </review>
+      <review>
+         <snippet>Despite the frenetic action scenes, the movie sags, done in by multiple story lines that undercut one another and by the heaviness of its conceit.</snippet>
+         <url>http://movies.nytimes.com/2009/11/13/movies/13twentytwelve.html?ref=movies</url>
+         <critic>Manohla Dargis</critic>
+      </review>
+      <review>
+         <snippet>Where else are you going to get a chance to see the aircraft carrier USS John F. Kennedy drift down the side of a mile-high tsunami and take out the White House? Big. Dumb. Fun.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A906637</url>
+         <critic>Marc Savlov</critic>
+      </review>
+      <review>
+         <snippet>Perhaps the strangest thing about 2012 is that the bad parts of the film are among the most enjoyable, because they're so over-the-top ridiculous that it's impossible not to break out laughing.</snippet>
+         <url>http://www.reelviews.net/php_review_template.php?identifier=1885</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>Operates in a dead zone roughly equidistant between parody and idiocy. You do get the connection between tongue and cheek, but much of the humor still goes thud.</snippet>
+         <url>http://online.wsj.com/article/film_review.html</url>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>Emmerich’s main achievement is to take a bunch of excellent actors, including Danny Glover, Thandie Newton, Chiwetel Ejiofor, and Woody Harrelson, and to prevent all of them--with the exception of Oliver Platt and a pair of giraffes--from giving a decent performance.</snippet>
+         <url>http://www.newyorker.com/arts/critics/cinema/2009/11/23/091123crci_cinema_lane?currentPage=2</url>
+         <critic>Anthony Lane</critic>
+      </review>
+      <review>
+         <snippet>Beware 2012, which works the dubious miracle of almost matching "Transformers 2" for sheer, cynical, mind-numbing, time-wasting, money-draining, soul-sucking stupidity.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/25457899/review/30842785/2012</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>As always in Emmerich's rollicking Armageddons, the cannon speaks with an expensive bang, while the fodder gets afforded nary a whimper. Of course, that's just part of disaster's simple recipe: Blow us up, then blow us off.</snippet>
+         <url>http://www.theglobeandmail.com/news/arts/2012/article1359763/</url>
+         <critic>Rick Groen</critic>
+      </review>
+      <review>
+         <snippet>2012 is ultimately only about finding new ways to topple monoliths. Only they don’t feel that new.</snippet>
+         <url>http://www.avclub.com/articles/2012,35317/</url>
+         <critic>Keith Phipps</critic>
+      </review>
+   </reviews>
+   <US_Gross>$166,112,167</US_Gross>
+   <weekend_gross>$65,237,614</weekend_gross>
+   <number_of_screens>3,404</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

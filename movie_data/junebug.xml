@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Junebug</name>
+   <company>Sony Pictures Classics</company>
+   <genres>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author>Angus Mac</author>
+      <author>Lachlan</author>
+   </authors>
+   <directors>
+      <director>Phil Morrison</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Embeth Davidtz</actor>
+      <actor>Frank Hoyt Taylor</actor>
+      <actor>Alessro Nivola</actor>
+      <actor>Amy Adams</actor>
+      <actor>Benjamin McKenzie</actor>
+      <actor>Celia Weston</actor>
+      <actor>Scott Wilson</actor>
+   </actors>
+   <release_date>August 3, 2005</release_date>
+   <running_time>107</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>Amy Adams in a performance as deep as it is delightful, is the film's heart and also its flaky, wonderstruck soul.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1089568_1_0_,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>Ensemble casts like this are not easy to come by. Adams is something more than that -- a brilliant young comedian bursting into bloom.</snippet>
+         <url>http://www.laweekly.com/ink/05/37/film-foundas.php</url>
+         <critic>Scott Foundas</critic>
+      </review>
+      <review>
+         <snippet>This low-key drama is a miracle of mood, atmosphere, and sensitivity.</snippet>
+         <url>http://www.csmonitor.com/2005/0805/p14s01-almo.html</url>
+         <critic>David Sterritt</critic>
+      </review>
+      <review>
+         <snippet>Junebug is a great film because it is a true film. It humbles other films that claim to be about family secrets and eccentricities. It understands that families are complicated and their problems are not solved during a short visit, just in time for the film to end. Families and their problems go on and on, and they aren't solved, they're dealt with.</snippet>
+         <url>http://www.rogerebert.com/apps/pbcs.dll/article?AID=/20050811/REVIEWS/50726004/1023</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>The screenwriter Angus MacLachlan and the director Phil Morrison and an astonishingly perfect cast have quietly made a daring picture.</snippet>
+         <url>http://tnr.com/doc.mhtml?i=20050912&amp;s=kauffmann091205</url>
+         <critic>Stanley Kauffmann</critic>
+      </review>
+      <review>
+         <snippet>One happy surprise after another, even when the content is bittersweet or sad.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-to.junebug16sep16,1,5165027.story?coll=bal-movies-utility</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>Manages to be one of the genuinely fresh discoveries of the summer, a little gem that deserves to become a big sleeper hit.</snippet>
+         <url>http://www.washingtonpost.com/wp-dyn/content/article/2005/08/25/AR2005082501914.html</url>
+         <critic>Ann Hornaday</critic>
+      </review>
+      <review>
+         <snippet>It's hugely entertaining, it's spectacularly acted, and it pricks you in all kinds of places. Maybe the best thing is to see it and let it bug you, too.</snippet>
+         <url>http://www.slate.com/id/2124413/?nav=fo</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>A deceptively simple, deeply resonant story about the inherent loneliness of family, the odds against assimilation and the enormous distances that can divide two people.</snippet>
+         <url>http://www.calendarlive.com/movies/chocano/cl-et-junebug3aug03,0,3542516.story</url>
+         <critic>Carina Chocano</critic>
+      </review>
+      <review>
+         <snippet>The sum is something deeply profound: about awkwardness, culture clash, failed connections, and – ultimately – the strength that comes from surviving a trial by fire.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A287217</url>
+         <critic>Kimberley Jones</critic>
+      </review>
+      <review>
+         <snippet>A movie that gets wonderfully under your skin.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/ArticleNews/TPStory/LAC/20050923/JUNE23/TPEntertainment/Film</url>
+         <critic>Liam Lacey</critic>
+      </review>
+      <review>
+         <snippet>Junebug has the feel of a good short story or novella.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2005-08-11-junebug-review_x.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>Brilliantly detailed, richly painted portrait.</snippet>
+         <url>http://ae.philly.com/entertainment/ui/philly/movie.html?id=391351&amp;reviewId=18901</url>
+         <critic>Carrie Rickey</critic>
+      </review>
+      <review>
+         <snippet>Happily, Morrison's actors grasp his intentions perfectly, shading their roles so well that we never quite get a handle on anyone. Each player is outstanding, but the highest praise must go to Weston.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/moviereviews/story/333943p-285239c.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>That rare kind of movie that contrasts "cultured" big-city characters with devout, "simple" folk without being condescending or judgmental of either camp.</snippet>
+         <url>http://www.premiere.com/article.asp?section_id=2&amp;article_id=2232</url>
+         <critic>Peter Debruge</critic>
+      </review>
+      <review>
+         <snippet>The performances by Davidtz, Weston, Wilson and especially Adams stand out as Morrison paints his character study with raw, true bits continually tested by the absurdities of pain life dishes up.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/236225_junebug12q.html</url>
+         <critic>Paula Nechak</critic>
+      </review>
+      <review>
+         <snippet>Wonderful performances and the director's continual inventiveness make Junebug a particularly promising first feature.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/1124359290192280.xml&amp;coll=7</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>With its wise understanding of the magnetic pull (and invisible polarities) of family, Junebug is an auspicious debut for Morrison.</snippet>
+         <url>http://www.washingtonpost.com/wp-dyn/content/article/2005/08/25/AR2005082500535.html</url>
+         <critic>Michael O&amp;#039;Sullivan</critic>
+      </review>
+      <review>
+         <snippet>The scenario may be overly familiar, but the low-key approach and engaging performances make this an unexpected delight.</snippet>
+         <url>http://www.empireonline.com/incinemas/reviewcomplete.asp?FID=133617</url>
+         <critic>David Parkinson</critic>
+      </review>
+      <review>
+         <snippet>Not merely a sitcom of cultural clash. Screenwriter Angus Maclachlan has delicately etched a compelling portrait of a way of life whose decencies and simplicities are often dismissed as being "unsophisticated."</snippet>
+         <url>http://www.hollywoodreporter.com/thr/awards/sundance/reviews_display.jsp?vnu_content_id=1000760775</url>
+         <critic>Duane Byrge</critic>
+      </review>
+      <review>
+         <snippet>Written by Angus MacLachlan, this indie drama explores the lingering tension between north and south with vinegar and precision.</snippet>
+         <url>http://spacefinder.chicagoreader.com/movies/critic.html#28371</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>It's an exhilaratingly decentered tale, with the perspective shifting around so there's no character with whom we totally identify throughout.</snippet>
+         <url>http://www.villagevoice.com/film/0531,sinagra1,66464,20.html</url>
+         <critic>Laura Sinagra</critic>
+      </review>
+      <review>
+         <snippet>Junebug envelops us in texture of a world the movies rarely visit.</snippet>
+         <url>http://movies2.nytimes.com/2005/08/03/movies/03june.html?</url>
+         <critic>Stephen Holden</critic>
+      </review>
+      <review>
+         <snippet>If there's any justice at all at next year's Academy Awards, we have our first can't-miss nominee for best supporting actress: Amy Adams.</snippet>
+         <url>http://sfgate.com/cgi-bin/article.cgi?f=/c/a/2005/08/12/DDGQAE60TG1.DTL#flick2</url>
+         <critic>G. Allen Johnson</critic>
+      </review>
+      <review>
+         <snippet>There is sadness and humor here, but all understated.</snippet>
+         <url>http://movie-reviews.colossus.net/movies/j/junebug.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>Combining the tragic and the comic, this drama is amateurish in places, but it's a triumph of atmosphere (the makers are both North Carolinians) and the acting is first-rate.</snippet>
+         <url>http://listings.dallasobserver.com/gyrobase/Film/ShowFilm</url>
+         <critic>Bill Gallo</critic>
+      </review>
+      <review>
+         <snippet>Too slight to bear up under the weight of the final melodrama, and the film ends too abruptly, as if MacLachlan just ran out of things to write. Still, this visit to the old homestead is worthwhile, if only to meet its unflappable, charismatic women.</snippet>
+         <url>http://ae.miami.com/entertainment/ui/miami/movie.html?id=391351</url>
+         <critic>Connie Ogle</critic>
+      </review>
+      <review>
+         <snippet>Sensitive and sincere and has a talented ensemble cast.</snippet>
+         <url>http://www.nypost.com/movies/51324.htm</url>
+         <critic>V.A. Musetto</critic>
+      </review>
+      <review>
+         <snippet>Sometimes one performance makes a film worthwhile, and Junebug has one: an astonishing, moving portrayal of down-home innocence and optimism by Amy Adams.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-050811-movies-review-junebug,0,7736993.story?coll=mmx-movies_top_heds</url>
+         <critic>Michael Wilmington</critic>
+      </review>
+      <review>
+         <snippet>Morrison brings an amazingly sure hand to MacLachlan's prickly screenplay.</snippet>
+         <url>http://online.tvguide.com/movies/database/ShowMovie.asp?MI=46174</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>The drama loses shape before it really develops, but the sense of place--all wood paneling and animal knick-knacks--and the memorable performances keep it worth watching.</snippet>
+         <url>http://avclub.com/content/node/25245</url>
+         <critic>Keith Phipps</critic>
+      </review>
+      <review>
+         <snippet>Has a washed-out look that may be off-putting to auds who might otherwise enjoy the pic's uncondescending view of Southern characters and customs.</snippet>
+         <url>http://www.variety.com/index.asp?layout=sundance2005&amp;nav=reviews&amp;content=reviews&amp;reviewid=VE1117926154&amp;categoryid=1865&amp;cs=</url>
+         <critic>Joe Leydon</critic>
+      </review>
+      <review>
+         <snippet>An admirable film, but its charms will be visible only to the most patient filmgoers.</snippet>
+         <url>http://www.filmthreat.com/Reviews.asp?Id=6835</url>
+         <critic>Bob Westal</critic>
+      </review>
+      <review>
+         <snippet>A textbook case of filmmakers who can't make up their minds about their characters; it's a failure of nerve disguised as dramatic ambiguity.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=7601</url>
+         <critic>Ty Burr</critic>
+      </review>
+   </reviews>
+   <US_Gross>$2,678,010</US_Gross>
+   <weekend_gross>$100,207</weekend_gross>
+   <number_of_screens>7</number_of_screens>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

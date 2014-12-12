@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Keeping Mum</name>
+   <company>Thinkfilm</company>
+   <genres>
+      <genre>Comedy</genre>
+      <genre>Foreign</genre>
+   </genres>
+   <authors>
+      <author>Niall Johnson</author>
+      <author>Richard Russo</author>
+   </authors>
+   <directors>
+      <director>Niall Johnson</director>
+   </directors>
+   <origins>
+      <origin>UK</origin>
+   </origins>
+   <actors>
+      <actor>Rowan Atkinson</actor>
+      <actor>Kristin Scott Thomas</actor>
+      <actor>Maggie Smith</actor>
+      <actor>Patrick Swayze</actor>
+      <actor>Tamsin Egerton</actor>
+      <actor>Toby Parkes</actor>
+      <actor>Liz Smith</actor>
+      <actor>Emilia Fox</actor>
+   </actors>
+   <release_date>September 15, 2006</release_date>
+   <running_time>103</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>Rather dark, decidedly English and exceedingly well played, Keeping Mum is a neatly crafted black comedy with more than a nod in tone toward the Ealing classic "The Ladykillers."</snippet>
+         <url>http://www.variety.com/review/VE1117929061?categoryid=31&amp;cs=1&amp;s=h&amp;p=0</url>
+         <critic>Derek Elley</critic>
+      </review>
+      <review>
+         <snippet>A whimsical tale of serial murder in the English countryside, Keeping Mum benefits immensely from the charm and pitch-perfect gravitas of Kristin Scott Thomas.</snippet>
+         <url>http://ae.philly.com/entertainment/ui/philly/movie.html?id=714005&amp;reviewId=21532</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>Dame Maggie is simply delightful (has she ever been less than wonderful?).</snippet>
+         <url>http://www.nypost.com/entertainment/movies/this_ones_a_keeper_movies_v_a__musetto.htm</url>
+         <critic>V.A. Musetto</critic>
+      </review>
+      <review>
+         <snippet>Director and cowriter Niall Johnson's black comedy falters at the end, but until then it manages to wring gentle humor from murder most well bred.</snippet>
+         <url>http://tvguide.com/detail/movie.aspx?tvobjectid=283260&amp;more=ucmoviereview</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>A giddy black comedy about a homicidal housekeeper in rural England, is a hilarious reminder of that 1944 Frank Capra classic about two old maids whose cellar is cluttered with the bodies of would-be suitors.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/moviereviews/story/452626p-380727c.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>The script (by Richard Russo) is solid, the performances are witty and fun, and the movie is a most agreeable way to spend an hour and a half.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/286854_mum29q.html</url>
+         <critic>William Arnold</critic>
+      </review>
+      <review>
+         <snippet>In Keeping Mum, the writers poke gentle, broad fun at the absurdities of English country life and manners while creating a cozy malevolence that's all the more engaging because it lies so far from reality. We know we mustn't murder our loathsome neighbors. But how much fun it is to imagine that we might.</snippet>
+         <url>http://ae.miami.com/entertainment/ui/miami/movie.html?id=714005&amp;reviewId=21567</url>
+         <critic>Connie Ogle</critic>
+      </review>
+      <review>
+         <snippet>It’s refreshing to see Dame Maggie in a lighter mode than usual. The role of a genteel psychopath is a piece of lemon tea cake she consumes in one delicate bite.</snippet>
+         <url>http://movies2.nytimes.com/2006/09/15/movies/15mum.html?ref=movies</url>
+         <critic>Stephen Holden</critic>
+      </review>
+      <review>
+         <snippet>Amusing dark English comedy produces its share of chuckles.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1003188438</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>She's no Mary Poppins: Maggie Smith is more like a cheery Angel of Death in the light black comedy Keeping Mum, one of those dutifully daft British diddles (complete with Rowan Atkinson as a vicar) that, except for the blunt sex talk, might have been constructed decades ago.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1537112_1_0_,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>The movie is another of those harmless and politely made dark comedies that the English seem incapable of doing without.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=9222</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>Moderately amusing.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/1160616319277820.xml&amp;coll=7</url>
+         <critic>Marc Mohan</critic>
+      </review>
+      <review>
+         <snippet>Keeping Mum never really gets going, and it inches to the finish line like a narcoleptic turtle.</snippet>
+         <url>http://www.avclub.com/content/node/53499</url>
+         <critic>Nathan Rabin</critic>
+      </review>
+      <review>
+         <snippet>A British black comedy, saves its best for last -- and God bless Maggie Smith for, well, being Maggie Smith -- but that requires sitting through a frustrating, uneven hour of sluggish preamble.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1118160&amp;categories=Movies&amp;nm=1</url>
+         <critic>Desson Thomson</critic>
+      </review>
+      <review>
+         <snippet>The problem with this one may be that it just isn't British enough.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2006/09/29/DDGFELDVNG1.DTL&amp;type=movies</url>
+         <critic>Ruthe Stein</critic>
+      </review>
+      <review>
+         <snippet>Black comedy often asks viewers, in exchange for the hilarity, to suspend their moral objections along with their disbelief...Here, we keep our part of the bargain only to be cheated of our payoff.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/LAC.20060929.MUM29/TPStory/TPEntertainment/Movies/</url>
+         <critic>Kate Taylor</critic>
+      </review>
+      <review>
+         <snippet>Obvious, simplistic, and never funny, Johnson's movie may be useful only as real estate porn--Cornwall and the Isle of Man never looked so super cute.</snippet>
+         <url>http://www.villagevoice.com/film/0637,atkinson,74451,20.html</url>
+         <critic>Michael Atkinson</critic>
+      </review>
+      <review>
+         <snippet>Weirdly clueless.</snippet>
+         <url>http://www.calendarlive.com/printedition/calendar/cl-et-mum29sep29,0,2997640.story</url>
+         <critic>Robert Abele</critic>
+      </review>
+      <review>
+         <snippet>Smith is excellent as the potty Grace, with both Atkinson and Thomas equally fine in their roles. But the fact is plainly seen: The Ealing of yore is gone.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A409662</url>
+         <critic>Marc Savlov</critic>
+      </review>
+      <review>
+         <snippet>Only the architecturally refined bone structure of Kristin Scott Thomas' face rescues Keeping Mum from full-on tedium.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-060929-movies-review-mum,0,6583649.story?coll=mmx-movies_top_heds</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>Director Niall Johnson struggles to find the proper tone: the serial murders aren't horrible enough to be funny, and the characters don't respond as if they're horrible at all. As a result the black humor thins into gray fog.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/30376_KEEPING_MUM.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>The movie is a premise in search of a comedy. Rather than flesh it out, the filmmakers put familiar glad rags on the skull and bones.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-to.mum06oct06,0,2208983.story?coll=bal-artslife-movies</url>
+         <critic>Michael Sragow</critic>
+      </review>
+   </reviews>
+   <US_Gross>$1,619,466</US_Gross>
+   <weekend_gross>$27,112</weekend_gross>
+   <number_of_screens>2</number_of_screens>
+   <oscar_winning_actors_present/>
+   <num_oscar_winning_actors>1</num_oscar_winning_actors>
+   <oscar_winning_actor>maggie smith</oscar_winning_actor>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

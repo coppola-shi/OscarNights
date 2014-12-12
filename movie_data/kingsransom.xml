@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>King&amp;#039;s Ransom</name>
+   <company>New Line Cinema</company>
+   <genres>
+      <genre>Comedy</genre>
+      <genre>Crime</genre>
+   </genres>
+   <authors>
+      <author>Wayne Conley</author>
+   </authors>
+   <directors>
+      <director>Jeff Byrd</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Anthony Anderson</actor>
+      <actor>Donald Faison</actor>
+      <actor>Regina Hall</actor>
+      <actor>Jay Mohr</actor>
+      <actor>Loretta Devine</actor>
+      <actor>Kellita Smith</actor>
+      <actor>Nicole Ari Parker</actor>
+      <actor>Leila Arcieri</actor>
+   </actors>
+   <release_date>April 22, 2005</release_date>
+   <running_time>97</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>Generic hip-hop soundtrack? Check. Aerial stock footage of milieu? Check. Hardy-har homophobia and misogyny? Check. Emasculated sub-Gump white dude played by Jay Mohr? Double check.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1057475_1_0_,00.html</url>
+         <critic>Scott Brown</critic>
+      </review>
+      <review>
+         <snippet>Devotes its first two acts to establishing the comic monstrousness of all its characters.</snippet>
+         <url>http://www.theavclub.com/review.php?review_id=8438</url>
+         <critic>Nathan Rabin</critic>
+      </review>
+      <review>
+         <snippet>Remarkably unfunny.</snippet>
+         <url>http://www.laweekly.com/film/film_results.php?showid=3373&amp;Sumbit.x=53&amp;Sumbit.y=13</url>
+         <critic>Chuck Wilson</critic>
+      </review>
+      <review>
+         <snippet>An innocuous abduction of viewers' time, if nothing else, King's Ransom is an appealingly cast but terminally bland farce.</snippet>
+         <url>http://www.variety.com/review/VE1117926883?categoryid=31&amp;cs=1</url>
+         <critic>Justin Chang</critic>
+      </review>
+      <review>
+         <snippet>Piles cliched character upon cliched character, and then doesn't give any of them very much to do.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2005/04/23/DDGQVCD0KO1.DTL&amp;type=movies</url>
+         <critic>Peter Hartlaub</critic>
+      </review>
+      <review>
+         <snippet>A desperately strained comedy.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1000894467</url>
+         <critic>Frank Scheck</critic>
+      </review>
+      <review>
+         <snippet>Lifeless and laughless.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-ransom25apr25,2,7912782.story</url>
+         <critic>Kevin Crust</critic>
+      </review>
+      <review>
+         <snippet>Crass, trashy and none-too-funny comedy.</snippet>
+         <url>http://tvguide.com/movies/database/ShowMovie.asp?MI=45968</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>Charlie Murphy's hilarious gay gangsta, relegated to the filmic down low, provides a modicum of depth in an otherwise supremely shallow effort.</snippet>
+         <url>http://www.villagevoice.com/film/0517,tracking2,63371,20.html</url>
+         <critic>Peter L&amp;#039;Official</critic>
+      </review>
+      <review>
+         <snippet>Dumber than the worst UPN sitcom.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/story/302605p-259065c.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>None of this is remotely funny.</snippet>
+         <url>http://www.nypost.com/movies/45033.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>Incoherent mess of a film.</snippet>
+         <url>http://movies2.nytimes.com/2005/04/23/movies/23rans.html?</url>
+         <critic>Stephen Holden</critic>
+      </review>
+      <review>
+         <snippet>The comic equivalent of a lump of coal.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A267079</url>
+         <critic>Marjorie Baumgarten</critic>
+      </review>
+   </reviews>
+   <US_Gross>$4,008,527</US_Gross>
+   <production_budget>$25,000,000</production_budget>
+   <weekend_gross>$2,137,685</weekend_gross>
+   <number_of_screens>1,508</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

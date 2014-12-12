@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Lucky Number Slevin</name>
+   <company>The Weinstein Company</company>
+   <genres>
+      <genre>Drama</genre>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>Jason Smilovic</author>
+   </authors>
+   <directors>
+      <director>Paul Mc</director>
+      <director>Guigan</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Josh Hartnett</actor>
+      <actor>Stanley Tucci</actor>
+      <actor>Ben Kingsley</actor>
+      <actor>Bruce Willis</actor>
+      <actor>Morgan Freeman</actor>
+      <actor>Lucy Liu</actor>
+      <actor>Kevin Chamberlin</actor>
+      <actor>Oliver Davis</actor>
+   </actors>
+   <release_date>April 7, 2006</release_date>
+   <running_time>109</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>Hartnett has been stuck in the young-adult heartthrob mode for some time now, but this comic thriller may launch him into meatier fare.</snippet>
+         <url>http://www.csmonitor.com/2006/0407/p14s03-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>The talk is witty, the twists are ingenious, the look and the mood are drop-dead.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-060407-movies-review-slevin,0,1864022.story?coll=mmx-movies_top_heds</url>
+         <critic>Michael Wilmington</critic>
+      </review>
+      <review>
+         <snippet>Some of what occurs in Lucky Number Slevin is done with a wink and a nod, although McGuinan (á là Tarantino) doesn't skimp on the gore.</snippet>
+         <url>http://movie-reviews.colossus.net/movies/l/lucky_number.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>This pop-culture-infused mistaken-identity thriller ultimately grabs hold and beguiles, though its convoluted plot takes a while to get going.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2006-04-06-lucky-number-slevin_x.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>Smilovic's rapid-fire, Tarantino-esque dialogue is consistently razor-sharp, and the elaborate set design - which leans heavily towards shiny, riotously patterned wallpaper - is an eyeball-jangling blast.</snippet>
+         <url>http://online.tvguide.com/movies/database/Movie-Review.asp?MI=46778</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>Lucky Number Slevin would be too clever for its own good if it weren't so ... darn clever.
+This violent flick is not in the same league as "The Sting," which has my vote for the cleverest winding road toward a happy ending in screenwriting history, but it contains nearly as deft a con job as that 1973 film.</snippet>
+         <url>http://www.nydailynews.com/04-07-2006/front/story/406827p-344245c.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>For the most part, though, it works as a clever thriller that entertains through purposeful misdirection.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2006/04/07/DDGAII4JB017.DTL&amp;type=movies</url>
+         <critic>Neva Chonin</critic>
+      </review>
+      <review>
+         <snippet>The film is stylish as hell with sharp dialogue, a tongue-in-cheek plot and visual and editing razzle-dazzle.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1001882943</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>The story never runs completely off the rails and is, in any event, just a pretext for a lot of very sharp badinage by Jason Smilovic--a screenwriter who would have been at home writing for Cary Grant--for yards of terrific movie acting and for some well-timed direction by Paul McGuigan.</snippet>
+         <url>http://www.time.com/time/magazine/article/0,9171,1179379,00.html</url>
+         <critic>Richard Schickel</critic>
+      </review>
+      <review>
+         <snippet>A thriller that holds less interest - and less water - the more it reveals about what's actually going on.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1180357_1_0_,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>They almost got it really right with Lucky Number Slevin, but they also almost got it horribly wrong.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/1144274141303350.xml&amp;coll=7</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>The most original thing about Lucky Number Slevin is that it lets Lucy Liu play a screwball heroine.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=8700</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>With its diabolical ending, this is the movie equivalent of a crossword puzzle: fun, clever, and disposable.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/29453_LUCKY_NUMBER_SLEVIN.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>Unfortunately, director Paul McGuigan tries to make it all serious at the end, and this isn't the kind of story that should be taken seriously.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=8435</url>
+         <critic>Jeremy Mathews</critic>
+      </review>
+      <review>
+         <snippet>Thoroughly -- and sometimes justifiably -- infatuated with its own cleverness, this mistaken-identity thriller delights in narrative complication and Tarantino-esque self-awareness.</snippet>
+         <url>http://www.variety.com/index.asp?layout=features2006&amp;content=jump&amp;jump=review&amp;head=sundance&amp;nav=RSundance&amp;articleid=VE1117929304&amp;cs=</url>
+         <critic>Justin Chang</critic>
+      </review>
+      <review>
+         <snippet>From its sly, amused performances to its surreal comic book gloss to its artfully nervous camerawork, Lucky Number Slevin sustains the blasé tone and look of a smart-aleck thriller that buries its heart under layers of attitude.</snippet>
+         <url>http://movies2.nytimes.com/2006/04/07/movies/07slev.html</url>
+         <critic>Stephen Holden</critic>
+      </review>
+      <review>
+         <snippet>It's all superficially enjoyable, right up to the point where the big picture starts coming into focus and it's not worth looking anymore.</snippet>
+         <url>http://www.avclub.com/content/node/47105</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>It's the soulless quality of so many films that value devious plots, smug deception and quirky personality traits over actual story and character.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/265801_slevin07q.html</url>
+         <critic>Sean Axmaker</critic>
+      </review>
+      <review>
+         <snippet>Features lots of cool dialogue but doesn't provide much of a movie in which to showcase it.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-to.lucky07apr07,0,1059288.story?coll=bal-artslife-movies</url>
+         <critic>Chris Kaltenbach</critic>
+      </review>
+      <review>
+         <snippet>Declarative sentences are as scarce as detectable feelings in this stylish, emptyish thriller -- it's Tarantino with the vital juices left out.</snippet>
+         <url/>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>There's just too much death, it comes too quickly, it has no moral import, it becomes ultimately meaningless. It's not that hyper-violent movies are axiomatically a bad thing, it's just that this particular example is so laden with shootings that it becomes somehow tedious.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1106520&amp;lat=200.0&amp;lon=200.0&amp;displaySearchLocation=&amp;nm=1&amp;categories=Movies</url>
+         <critic>Stephen Hunter</critic>
+      </review>
+      <review>
+         <snippet>Too clever by half. It's the worst kind of con: It tells us it's a con, so we don't even have the consolation of being led down the garden path.</snippet>
+         <url>http://www.rogerebert.com/apps/pbcs.dll/article?AID=/20060406/REVIEWS/60403007/1023</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>Lucky Number Slevin is a bag of nerves. Everything here is too much. The older the actors, the saltier the ham of their performances.</snippet>
+         <url>http://www.newyorker.com/critics/cinema/?060410crci_cinema</url>
+         <critic>Anthony Lane</critic>
+      </review>
+      <review>
+         <snippet>If "Pulp Fiction" impregnated "The Usual Suspects," the spawn would look a lot like Lucky Number Slevin. Great genes, but you keep wondering when the kid is going to grow up and find an identity of his own.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/_/id/8871056/rid/9514545/</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>Cursed--but ironically!--with stomach-churning '60s decor, Slevin might round off in Park Chanwook country, but the lingering sense of it is as an amusement park for the actors, who are as infectiously overjoyed for the bouncy badinage as preschoolers on Christmas morning. Like tired parents, our enjoyment is primarily vicarious.</snippet>
+         <url>http://www.villagevoice.com/film/0614,atkinson,72750,20.html</url>
+         <critic>Michael Atkinson</critic>
+      </review>
+      <review>
+         <snippet>A smug, deliberately convoluted mix tape of Tarantino, the Coen brothers, Guy Ritchie and Hitchcock with (mostly) a cast to die for, Lucky Number Slevin is great fun for, say, 20 minutes.</snippet>
+         <url>http://www.nypost.com/movies/66645.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>Danny Aiello and Robert Forster also turn up in tiny roles that further serve to distract attention from the real business at hand.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A352446</url>
+         <critic>Marjorie Baumgarten</critic>
+      </review>
+      <review>
+         <snippet>Comes packed with so many plot twists and reversals, there's barely any room left over for a story: The movie is all clever gotchas and hoodwinks, without any substance to go along with them.</snippet>
+         <url>http://www.miami.com/mld/miamiherald/entertainment/movies/14275681.htm</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>Lucky Number Slevin is an attempted cinematic sleight-of-hand that has its moments, but is finally just plain annoying, wearing its influences too broadly on its sleeve.</snippet>
+         <url>http://www.calendarlive.com/printedition/calendar/cl-et-lucky7apr07,0,782140.story</url>
+         <critic>Kevin Crust</critic>
+      </review>
+      <review>
+         <snippet>Overwritten, over-designed, and too clever by 200 percent, the film does offer the pleasure of actors enjoying themselves.</snippet>
+         <url>http://www.philly.com/mld/philly/entertainment/movies/14282038.htm</url>
+         <critic>Carrie Rickey</critic>
+      </review>
+      <review>
+         <snippet>With its wiry twists and turns, ends up buckling under the weight of its own cleverness.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2006/04/07/slevin/index.html</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>The proverbial seems awfully pale here. Fans of Q.T. will find it patently derivative. Fans of Elmore will find it, well, El-less.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/LAC.20060407.SLEVIN07/TPStory/TPEntertainment/</url>
+         <critic>Rick Groen</critic>
+      </review>
+      <review>
+         <snippet>The pretzeled syntax is fun for a while. But as the holes are filled in, the film stands revealed as just another vacuous revenge picture. It shrinks your perception of what movies can do.</snippet>
+         <url>http://newyorkmetro.com/movies/reviews/16631/index1.html</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>Another drearily sadistic and pointless crime thriller.</snippet>
+         <url>http://www.laweekly.com/film-reviews/13071/film-reviews/</url>
+         <critic>Ella Taylor</critic>
+      </review>
+      <review>
+         <snippet>Is Josh Hartnett attracted to cinematic bombs, or do movies merely self-destruct once he signs on as the leading man?</snippet>
+         <url>http://ae.charlotte.com/entertainment/ui/charlotte/movie.html?id=574555&amp;reviewId=20481&amp;startDate=04%2F07%2F2006</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>Weinstein Co. honchos Bob and Harvey are chasing some of the old "Pulp Fiction" magic--and failing not only miserably, but kind of disgustingly.</snippet>
+         <url>http://www.premiere.com/article.asp?section_id=2&amp;article_id=2727</url>
+         <critic>Glenn Kenny</critic>
+      </review>
+   </reviews>
+   <US_Gross>$22,495,466</US_Gross>
+   <production_budget>$27,000,000</production_budget>
+   <weekend_gross>$7,031,921</weekend_gross>
+   <number_of_screens>1,984</number_of_screens>
+   <oscar_winning_actors_present/>
+   <num_oscar_winning_actors>1</num_oscar_winning_actors>
+   <oscar_winning_actor>ben kingsley</oscar_winning_actor>
+   <highest_grossing_actors_present/>
+   <num_highest_grossing_actors>2</num_highest_grossing_actors>
+   <highest_grossing_actor>morgan freeman</highest_grossing_actor>
+   <highest_grossing_actor>bruce willis</highest_grossing_actor>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

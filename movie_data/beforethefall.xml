@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Before the Fall</name>
+   <company>Picture This! Entertainment</company>
+   <genres>
+      <genre>Drama</genre>
+      <genre>Foreign</genre>
+      <genre>War</genre>
+   </genres>
+   <authors>
+      <author>Dennis Gansel</author>
+      <author>Maggie Peren</author>
+   </authors>
+   <directors>
+      <director>Dennis Gansel</director>
+   </directors>
+   <origins>
+      <origin>Germany</origin>
+   </origins>
+   <actors>
+      <actor>Max Riemelt</actor>
+      <actor>Tom Schilling</actor>
+      <actor>Devid Striesow</actor>
+      <actor>Joachim Bissmeier</actor>
+      <actor>Justus von Dohnanyi</actor>
+      <actor>Michael Schenk</actor>
+      <actor>Florian Stetter</actor>
+      <actor>Gerald Alexer Held</actor>
+   </actors>
+   <release_date>October 7, 2005</release_date>
+   <running_time>111</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>Every movie about the Holocaust should be this good, but few are.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A333004</url>
+         <critic>Marrit Ingman</critic>
+      </review>
+      <review>
+         <snippet>A potent and well-executed drama.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2005/10/06/btm/index.html?sid=1398200</url>
+         <critic>Andrew O&amp;#039;Hehir</critic>
+      </review>
+      <review>
+         <snippet>Commands attention from its very first frame and never lets up right through the fade-out. It is a splendid example of classic screen storytelling with no false steps, and Gansel's understated approach pays off with resounding emotional effect and meaning.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-before18nov18,0,1361423.story</url>
+         <critic>Kevin Thomas</critic>
+      </review>
+      <review>
+         <snippet>Like its singular central character, Before the Fall stands out from the pack.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2006/03/10/DDGKAHL0BT1.DTL#flick2</url>
+         <critic>Ruthe Stein</critic>
+      </review>
+      <review>
+         <snippet>Gansel based the film on the memories of one of his grandfathers. The acting is believable; the photography, atmospheric; and the moral, unmistakable.</snippet>
+         <url>http://www.nypost.com/movies/53357.htm</url>
+         <critic>V.A. Musetto</critic>
+      </review>
+      <review>
+         <snippet>All the paraphernalia so important to the image of the Reich, particularly the uniforms, are painstakingly rendered, bringing a heightened sense of realism to what might otherwise have been a romantic coming-of-age tale.</snippet>
+         <url>http://online.tvguide.com/movies/database/ShowMovie.asp?MI=46501</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>If Before the Fall feels a tad overdetermined, it also feels emotionally honest. Calmly and carefully, Mr. Gansel makes large points with small scenes.</snippet>
+         <url>http://www.nytimes.com/2005/10/07/movies/07fall.html</url>
+         <critic>Jeannette Catsoulis</critic>
+      </review>
+      <review>
+         <snippet>The hero (played with the right amount of adolescent insouciance by Max Riemelt) is a working-class boy admitted to one of the academies for his formidable boxing skills, and through him director Dennis Gansel captures the ordinariness of Hitler's supporters.</snippet>
+         <url>http://spacefinder.chicagoreader.com/movies/briefs/28622_BEFORE_THE_FALL_NAPOLA.html</url>
+         <critic>Joshua Katzman</critic>
+      </review>
+      <review>
+         <snippet>It's an emotionally chilly movie with a blank, inexpressive protagonist, but it gains cumulative force en route to a viscerally moving climax.</snippet>
+         <url>http://avclub.com/content/node/41285</url>
+         <critic>Nathan Rabin</critic>
+      </review>
+      <review>
+         <snippet>This well-made World War II film from Germany is both a coming-of-age story and a critique of National Socialist ideology.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1001349218</url>
+         <critic>Richard James Havis</critic>
+      </review>
+      <review>
+         <snippet>When movie clichés are presented with rigor and feeling, they can pack a fresh punch.</snippet>
+         <url>http://www.laweekly.com/film/film_results.php?showid=3658&amp;Sumbit.x=51&amp;Sumbit.y=11</url>
+         <critic>Chuck Wilson</critic>
+      </review>
+      <review>
+         <snippet>Unusually compelling, even if it's treacly enough to be "The Chorus" in goose step.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=3718</url>
+         <critic>Janice Page</critic>
+      </review>
+      <review>
+         <snippet>The homoerotic relationship between Friedrich and Albrecht is stopped short by tragedy, but the point is made - to Friedrich and the audience - that fascism has no room for humanity.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/moviereviews/story/353312p-301114c.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>An intermittently gripping story about an idealistic young boxer who becomes disillusioned with the Third Reich during his elite training, Napola is finally KO'd by an overdose of Nazi fetishism.</snippet>
+         <url>http://www.variety.com/review/VE1117924294?categoryid=31&amp;cs=1</url>
+         <critic>Eddie Cockrell</critic>
+      </review>
+      <review>
+         <snippet>Surely played better on the page than on the screen. What's left is the same old drill driven by brutal master race fervor.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/260646_limited24.html</url>
+         <critic>Sean Axmaker</critic>
+      </review>
+      <review>
+         <snippet>The film is a competent but callow work dealing with a monstrous subject that automatically rejects callowness.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-060224-movies-review-fall,0,6969975.story?coll=mmx-movies_top_heds</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>The movie is too middlebrow to show us the superman-type sexual heroics they must've engaged in, or even allow the illicit subtext to float to the surface (as Sokurov does in Father and Son)--instead we get tepid moralizing on dehumanization in the military.</snippet>
+         <url>http://www.villagevoice.com/film/0540,tracking6,68593,20.html</url>
+         <critic>R. Emmet Sweeney</critic>
+      </review>
+   </reviews>
+   <US_Gross>$144,254</US_Gross>
+   <weekend_gross>$8,036</weekend_gross>
+   <number_of_screens>1</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

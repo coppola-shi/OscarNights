@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Flying Scotsman, The</name>
+   <company>Metro-Goldwyn-Mayer</company>
+   <genres>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author>John Brown</author>
+      <author>Declan Hughes</author>
+      <author>Simon Rose</author>
+   </authors>
+   <directors>
+      <director>Douglas Mackinnon</director>
+   </directors>
+   <origins>
+      <origin>UK</origin>
+   </origins>
+   <actors>
+      <actor>Jonny Lee Miller</actor>
+      <actor>Laura Fraser</actor>
+      <actor>Billy Boyd</actor>
+      <actor>Morven Christie</actor>
+      <actor>Brian Cox</actor>
+   </actors>
+   <release_date>December 29, 2006</release_date>
+   <running_time>96</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>A sports bio movie that I really enjoyed about a sport and sports hero I barely knew existed: the World Hour Record competition for bicyclists and its gutsy, tormented and most unusual champion, Graeme Obree.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-070504-movies-review-scotsman,0,6911517.story?coll=mmx-movies_top_heds</url>
+         <critic>Michael Wilmington</critic>
+      </review>
+      <review>
+         <snippet>It's an underdog story with teeth.</snippet>
+         <url>http://www.nypost.com/seven/05042007/entertainment/movies/sprocket_man_movies_kyle_smith.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>Boasts exciting competitive track cycling footage.</snippet>
+         <url>http://www.philly.com/inquirer/columnists/steven_rea/20070504_Flying_Scotsman_pedals_along__missing_top_gear.html</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>Obree's psychology is fascinating and, even though the competitive scenes mostly involve him racing against himself in a spectator-free indoor track, the movie manages to give its audience a suitable adrenaline rush here and there.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/314266_scotsman04q.html</url>
+         <critic>William Arnold</critic>
+      </review>
+      <review>
+         <snippet>How many bicycling movies are there, let alone ones that know from frame geometry?  "Breaking Away" is probably the champ, followed by "American Flyers," the hilariously awful Kevin Bacon bike-messenger movie "Quicksilver," and then we're already into "The Bicycle Thief " and "Pee-wee's Big Adventure." It's a small pack, and The Flying Scotsman rides close to the front by default.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=9813</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>Miller is key to the film's success, with his earnest, sweet-faced looks and evident dark side. He plays Obree with just the right understated intensity, a believable competitor who fights back fiercely with his wits and a few tight-lipped words.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1132677&amp;categories=Movies&amp;nm=1</url>
+         <critic>Sarah Kaufman</critic>
+      </review>
+      <review>
+         <snippet>A typically engaging performance from Johnny Lee Miller takes this slightly above the usual underdog movie cliche.</snippet>
+         <url>http://www.empireonline.com/reviews/review.asp?FID=135038</url>
+         <critic>Alan Morrison</critic>
+      </review>
+      <review>
+         <snippet>Helmer Douglas Mackinnon does what he can to make the most of emotional bullet points and gloss over the lack of connective tissue.</snippet>
+         <url>http://www.variety.com/review/VE1117931315.html?categoryid=1237&amp;cs=1&amp;query=%22flying+scotsman%22</url>
+         <critic>Eddie Cockrell</critic>
+      </review>
+      <review>
+         <snippet>There's real triumph to Obree's story, and real adversity, too, but the film contents itself with the pretend versions of both.</snippet>
+         <url>http://www.avclub.com/content/cinema/the_flying_scotsman</url>
+         <critic>Keith Phipps</critic>
+      </review>
+      <review>
+         <snippet>A conventional underdog sports movie that should have been much more gripping.</snippet>
+         <url>http://movies2.nytimes.com/2007/05/04/movies/04scot.html?ref=movies</url>
+         <critic>Stephen Holden</critic>
+      </review>
+      <review>
+         <snippet>The filmmaking is unremarkable, but the obsessiveness of the lead character is infectious enough to make this drama passable entertainment.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2007/05/04/DDG0LPJRP71.DTL&amp;type=movies</url>
+         <critic>Peter Hartlaub</critic>
+      </review>
+      <review>
+         <snippet>Graeme Obree was a champion bicycler who, by all accounts, rarely took the easy way out. Too bad this movie version of his life doesn't follow suit.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-to.flying04may04,0,1530703.story?coll=bal-artslife-movies</url>
+         <critic>Chris Kaltenbach</critic>
+      </review>
+      <review>
+         <snippet>Brian Cox does sturdy work as the minister who helps Obree combat depression, and first-time director Douglas Mackinnon gets a big assist from Obree himself, who doubled for Miller in some shots and filmed others with a camera strapped to his handlebars.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/31576_FLYING_SCOTSMAN.html</url>
+         <critic>Andrea Gronvall</critic>
+      </review>
+      <review>
+         <snippet>It's a shame it's not a better movie, but its small virtues include an uncompromising performance by English actor Jonny Lee Miller.</snippet>
+         <url>http://www.tvguide.com/detail/movie.aspx?tvobjectid=287702&amp;more=ucmoviereview</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>While the world of competitive cycling can be extremely exciting, not every one of its events is captivating. A well-intentioned biopic about Scottish cycling maverick Graeme Obree, The Flying Scotsman is hampered by the fact that its hero earned his greatest renown for riding around and around on a velodrome … alone … for an hour.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20070504.wscot0504/BNStory/Entertainment/home</url>
+         <critic>Jason Anderson</critic>
+      </review>
+      <review>
+         <snippet>Scotsman not only lacks vision, a true sense of how to mesh Obree's sporting triumphs and personal setbacks, but it also lacks passion. What it needs, as strange and tacky as it may sound, is a bit more madness.</snippet>
+         <url>http://www.calendarlive.com/printedition/calendar/cl-et-flying1jan01,0,5531779.story</url>
+         <critic>Mark Olsen</critic>
+      </review>
+      <review>
+         <snippet>For a much better film about a similar story, rent "The World's Fastest Indian," with Anthony Hopkins on a motorcycle.</snippet>
+         <url/>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>It has a terminal case of the cutes crossed with the labored earnestness of a disease-of-the-week melodrama.</snippet>
+         <url>http://www.laweekly.com/film+tv/film-reviews/film-reviews/15313/</url>
+         <critic>Scott Foundas</critic>
+      </review>
+   </reviews>
+   <US_Gross>$136,074</US_Gross>
+   <weekend_gross>$78,337</weekend_gross>
+   <number_of_screens>100</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

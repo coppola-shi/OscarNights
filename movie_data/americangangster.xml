@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>American Gangster</name>
+   <company>Universal Pictures</company>
+   <genres>
+      <genre>Crime</genre>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author>Mark Jacobson</author>
+      <author>Steven Zaillian</author>
+   </authors>
+   <directors>
+      <director>Ridley Scott</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Denzel Washington</actor>
+      <actor>Russell Crowe</actor>
+      <actor>Cuba Gooding Jr.</actor>
+      <actor>Josh Brolin</actor>
+      <actor>Yul Vazquez</actor>
+      <actor>Arm Assante</actor>
+      <actor>Ted Levine</actor>
+   </actors>
+   <release_date>November 2, 2007</release_date>
+   <running_time>157</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>Denzel Washington dazzles in his best screen performance to date as Frank Lucas.</snippet>
+         <url>http://www.nypost.com/seven/10312007/entertainment/movies/original_gangster.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>This is an engrossing story, told smoothly and well, and Russell Crowe's contribution is enormous.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20071101/REVIEWS/711010303</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>Finely made and richly satisfying film.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-gangster2nov02,0,1317827.story?coll=cl-mreview</url>
+         <critic>Kenneth Turan</critic>
+      </review>
+      <review>
+         <snippet>It has the aspirations of an epic of crime and punishment, a superb feel for time and milieu, and an almost subliminal feel for myth.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1094568&amp;categories=Movies&amp;nm=1</url>
+         <critic>Stephen Hunter</critic>
+      </review>
+      <review>
+         <snippet>Crowe has rarely been better, and the same goes for director Scott, who parallels and then dovetails Lucas and Roberts' stories with sublime, gritty precision, working up to a magnificent "Godfather III"-style crosscutting sequence that electrifies an already explosive tale.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A555461</url>
+         <critic>Marc Savlov</critic>
+      </review>
+      <review>
+         <snippet>Call it the black "Scarface" or "the Harlem Godfather" or just one hell of an exciting movie.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/14592531/review/16971598/american_gangster</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>What American Gangster does have -- what makes it such a commanding, exhilarating movie -- is a consummate love and understanding of story.</snippet>
+         <url>http://www.miamiherald.com/1054/story/291625.html</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>The movie, based on a true story, takes surprising twists and turns right up to its chilling ending and is probably the best gangster crime drama of the year.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2007-11-01-american-gangster_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>This impressive film feels more like a display, if an often dazzling one, than a genuine experience.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/1193698559297460.xml&amp;coll=7</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>A riveting piece of movie storytelling, mounted with a genuinely epic flair, shot and edited in a no-nonsense, classic style.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/337711_american02q.html</url>
+         <critic>William Arnold</critic>
+      </review>
+      <review>
+         <snippet>Only Washington stands out; he's charming, intense, and charismatic as ever.</snippet>
+         <url>http://www.avclub.com/content/cinema/american_gangster</url>
+         <critic>Tasha Robinson</critic>
+      </review>
+      <review>
+         <snippet>In the end, though, the success of American Gangster doesn't flow from the originality of its ideas, or its bid for epic status, as much as from its craftsmanship and confident professionalism. It's a great big gangster film, and a good one.</snippet>
+         <url>http://online.wsj.com/article/SB119395848827779795.html</url>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>It's workmanlike and engrossing, but what sticks in the mind are Frank and Richie, not what anybody does.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/imdb/reviews/article_display.jsp?rid=10069&amp;vnu_special_account_code=thrsiteimdbpro</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>Absorbing, exciting at times and undeniably entertaining, and is poised to be a major commercial hit. But great it's not.</snippet>
+         <url>http://www.variety.com/review/VE1117935139.html?categoryid=31&amp;cs=1&amp;p=0</url>
+         <critic>Todd McCarthy</critic>
+      </review>
+      <review>
+         <snippet>The pace of the movie is rapid, almost hectic, the touch glancing. Until the confrontation between Frank and Richie at the end, nothing stays on the screen for long, although Scott, working in the street, or in clubs and at parties, packs as much as he can into the corners of shots, and shapes even the most casual scenes decisively.</snippet>
+         <url>http://www.newyorker.com/arts/critics/cinema/2007/11/05/071105crci_cinema_denby?currentPage=1</url>
+         <critic>David Denby</critic>
+      </review>
+      <review>
+         <snippet>As archetypal as its title, Ridley Scott's would-be epic aspires to enshrine Harlem dope king Frank Lucas in Hollywood heaven, heir to Scarface and the Godfather. Or, as suggested by the Mark Jacobson article on Lucas that inspired the movie, a real-life Superfly.</snippet>
+         <url>http://www.villagevoice.com/film/0744,hoberman,78178,20.html</url>
+         <critic>J. Hoberman</critic>
+      </review>
+      <review>
+         <snippet>I don't think it attains the Godfather level -- it lacks dark passion and grand-scale irony -- but it is an intelligent, well-made and seductive movie.</snippet>
+         <url>http://www.time.com/time/arts/article/0,8599,1679805,00.html</url>
+         <critic>Richard Schickel</critic>
+      </review>
+      <review>
+         <snippet>Like in "Training Day" and "Malcolm X," where he portrayed less than perfect individuals, Washington rules the screen. His portrayal is one of many things that elevates this film to the level of being consistently entertaining and occasionally compelling.</snippet>
+         <url>http://www.reelviews.net/movies/a/american_gangster.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>Meticulous and detailed, a drug-world epic that holds you from moment to moment, immersing you in the intricate and sleazy logistics of crime. Yet the movie isn't quite enthralling; it's more like the ghost version of a '70s classic.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20155724,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>Its vivid sense of place and time make it compulsively watchable, even at a running time of two and a half hours.</snippet>
+         <url>http://www.tvguide.com/movies/american-gangster/review/290703</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>Often best around the edges. Without making a big deal about it, Scott reveals how the Mafia, while putting up a businesslike front, deplored the incursion of black gangsters into the drug trade.</snippet>
+         <url>http://www.csmonitor.com/2007/1102/p11s01-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>Ridley Scott gives it the grand treatment, 157 minutes worth, but in the end, it doesn't stack up as the portrait of an era (the 1970s, in this case) or an important tale of a criminal mastermind.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2007/11/02/DDGNT42I7.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>As an epic, American Gangster doesn't cut it. The reputations of Francis Ford Coppola's "The Godfather," Brian De Palma's "Scarface," Martin Scorsese's "Goodfellas" or Michael Mann's "Heat" are safe. At best, American Gangster is no better than a workmanlike imitation of its betters.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20071102.wgangster02/BNStory/Entertainment/home</url>
+         <critic>Liam Lacey</critic>
+      </review>
+      <review>
+         <snippet>It’s a big, juicy 1970s period piece, one foot in real life, the other in the movies, the preferred stance of many Hollywood crime sagas.</snippet>
+         <url>http://chicago.metromix.com/movies/movie_review/movie-review-american-gangster/243191/content</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>It lacks momentum, and thus the propulsion required to rocket it into the movie mythosphere.</snippet>
+         <url>http://www.philly.com/inquirer/columnists/carrie_rickey/20071102_Druglording_the_American_way.html</url>
+         <critic>Carrie Rickey</critic>
+      </review>
+      <review>
+         <snippet>Greatness hovers just outside American Gangster, knocking, angling to be let in.</snippet>
+         <url>http://movies.nytimes.com/2007/11/02/movies/02gang.html?ref=movies</url>
+         <critic>Manohla Dargis</critic>
+      </review>
+      <review>
+         <snippet>With one of these two alpha males anchoring nearly every scene, Scott really can't go wrong, but the lead characters are pretty thin, a fact highlighted by generic subplots.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/32331_AMERICAN_GANGSTER.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>The movie is never quite pop enough to get audiences hooting and hollering and quoting favorite lines, nor smart enough to inspire passionate post-movie debate. Scene by scene, the film is unassailably well-crafted. But there's something oddly dull, even respectable, about Scott's adherence to the rules of gangster-film grammar.</snippet>
+         <url>http://www.slate.com/id/2177154/fr/flyout</url>
+         <critic>Dana Stevens</critic>
+      </review>
+      <review>
+         <snippet>There's a great story here, but it feels like American Gangster hasn't been mined for all its riches.</snippet>
+         <url>http://www.newsweek.com/id/67928</url>
+         <critic>David Ansen</critic>
+      </review>
+      <review>
+         <snippet>For all the sprawl, American Gangster feels secondhand. It’s like "Scarface" drained of blood, at arm’s length from the culture that spawned it.</snippet>
+         <url>http://nymag.com/movies/reviews/39946/</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>The acting is unquestionably strong, the songs are integrated appropriately (functioning as both audio bridges and dramatic enhancements), and yet something is missing in how the individual pieces of the film--the story, the themes, and the violence--fit together.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=10393</url>
+         <critic>Stina Chyn</critic>
+      </review>
+      <review>
+         <snippet>The new perspective Scott and Zaillian want to bring to this material never gels convincingly, and despite some effective set pieces, a cast of memorable faces and attitudes, and evocative cinematography by Harris Savides, this would-be epic feels tired and rote.</snippet>
+         <url>http://www.premiere.com/moviereviews/4213/american-gangster.html</url>
+         <critic>Glenn Kenny</critic>
+      </review>
+      <review>
+         <snippet>The problem is that the movie spends as much time on the boring detective chasing Lucas as on the drug lord himself.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2007/11/02/2007-11-02_american_gangster_needs_more_denzel_wash.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>The result is kitschy entertainment that wants to celebrate Lucas's chutzpah and acumen while loosely condemning what they wrought: "Scarface" with a ghost of a conscience.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=7024</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>Steven Zaillian never seems completely at home with these characters, not because he's white but because he's a cerebral screenwriter frustrated with a story that gives him little that's meaningful to say. Like Washington and Crowe, he's a chef functioning here as a short-order cook: The meal's perfectly edible but falls short of delicious.</snippet>
+         <url>http://ae.charlotte.com/entertainment/ui/charlotte/movie.html?id=968724&amp;reviewId=22736&amp;startDate=NEXT7</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>An entertaining romp through familiar cop-and-crim cat-and-mousery, bolstered by strong star turns from Washington and Crowe. Still, it has neither the intelligence nor the grip to jump from the merely good to the truly great.</snippet>
+         <url>http://www.empireonline.com/reviews/reviewcomplete.asp?FID=134550</url>
+         <critic>Ian Freer</critic>
+      </review>
+      <review>
+         <snippet>Misplaced hero-worship and glibness get in the way of its amazing true story.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-to.gangster02nov02,0,7355327.story</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>Offers only the stingiest platform for its actors, and as a piece of storytelling -- built on the foundation of a great story -- it's an epic that's been sliced and diced into so many little morsels that almost nothing in it has any weight.</snippet>
+         <url>http://salon.com/ent/movies/review/2007/11/02/american_gangster/</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+   </reviews>
+   <US_Gross>$130,164,645</US_Gross>
+   <production_budget>$100,000,000</production_budget>
+   <weekend_gross>$43,565,135</weekend_gross>
+   <number_of_screens>3,054</number_of_screens>
+   <oscar_winning_actors_present/>
+   <num_oscar_winning_actors>2</num_oscar_winning_actors>
+   <oscar_winning_actor>denzel washington</oscar_winning_actor>
+   <oscar_winning_actor>russell crowe</oscar_winning_actor>
+   <highest_grossing_actors_present/>
+   <num_highest_grossing_actors>1</num_highest_grossing_actors>
+   <highest_grossing_actor>denzel washington</highest_grossing_actor>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

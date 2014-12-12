@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Quarantine</name>
+   <company>Screen Gems (Sony)</company>
+   <genres>
+      <genre>Horror</genre>
+      <genre>Mystery</genre>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>Paco Plaza</author>
+      <author>Luis Berdejo, Jaume BalagueróDrew Dowdle</author>
+      <author>John Erick Dowdle</author>
+   </authors>
+   <directors>
+      <director>John Erick Dowdle</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Jennifer Carpenter</actor>
+      <actor>Jay Hernez</actor>
+      <actor>Columbus Short</actor>
+      <actor>Greg Germann</actor>
+      <actor>Steve Harris</actor>
+      <actor>Dania Ramirez</actor>
+      <actor>Rade Sherbedgia</actor>
+      <actor>Jonathon Schaech</actor>
+   </actors>
+   <release_date>October 10, 2008</release_date>
+   <running_time>89</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>Quarantine director John Erick Dowdle and co-writing brother Drew wisely stick close to the told-from-the-cameraman's point-of-view template of the terrific original, though they add a few fine flourishes.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20232533,00.html</url>
+         <critic>Clark Collis</critic>
+      </review>
+      <review>
+         <snippet>Claustrophobic, jittery at times, and electric in pace, Quarantine is a stripped-down bloody thrill ride that -- while certainly not catering to everyone's tastes -- should satisfy gore-hounds looking to step up their theatrical horror cuisine beyond the usual creepy little kid rehashes.</snippet>
+         <url>http://movies.tvguide.com/quarantine/review/294814</url>
+         <critic>Jeremy Wheeler</critic>
+      </review>
+      <review>
+         <snippet>It's a shame that this English-language cover of an excellent Spanish shocker will eclipse the original, at least in U.S. theaters -- but even those who despise remakes will have to admit that director John Erick Dowdle's furious retread is scary as hell.</snippet>
+         <url>http://www.laweekly.com/2008-10-09/film-tv/movie-reviews-city-of-ember-the-express-rocknrolla/3</url>
+         <critic>Jim Ridley</critic>
+      </review>
+      <review>
+         <snippet>Give Quarantine credit: Without resorting to computer-generated monsters or supernatural explanations, it uses consistent logic and confinement to find new ways of being scary.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20081012.wquarantine1012/BNStory/Entertainment/home</url>
+         <critic>Liam Lacey</critic>
+      </review>
+      <review>
+         <snippet>Worth seeing for its solid first two acts, some terrific acting by some favorite character actors, and a several solid spook-show scares.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=11258</url>
+         <critic>Scott Mendelson</critic>
+      </review>
+      <review>
+         <snippet>As a visceral, camera-shuddery ride into foamy-mouthed zombie hell, it’s efficient enough -- but if you’ve already seen [Rec], steer clear...</snippet>
+         <url>http://www.empireonline.com/reviews/review.asp?FID=135771</url>
+         <critic>Simon Crook</critic>
+      </review>
+      <review>
+         <snippet>The template is familiar, but Quarantine delivers the heebie-jeebies with solid acting and perfectly calibrated shocks.</snippet>
+         <url>http://movies.nytimes.com/2008/10/11/movies/11quar.html?ref=movies</url>
+         <critic>Jeannette Catsoulis</critic>
+      </review>
+      <review>
+         <snippet>Dowdle manages a few nice shocks and some neat moments of pitch-black gallows humor, but Quarantine nevertheless feels awfully familiar, and it grows less convincing with each passing moment. At its worst, it abandons realism entirely and flirts with gory kitsch.</snippet>
+         <url>http://www.avclub.com/content/cinema/quarantine</url>
+         <critic>Nathan Rabin</critic>
+      </review>
+      <review>
+         <snippet>Shame as well upon the advance marketing department for blowing the end of the movie in ads, thus exorcising any ghost of a chance Quarantine had of issuing a surprise.</snippet>
+         <url>http://www.latimes.com/entertainment/news/reviews/la-et-quarantine13-2008oct13,0,6895294.story</url>
+         <critic>Michael Ordona</critic>
+      </review>
+      <review>
+         <snippet>It's easily the weakest entry into this ever-expanding category and is inferior to its subtitled source material. Quarantine implies "stay away" and that's not bad advice.</snippet>
+         <url>http://www.reelviews.net/php_review_template.php?identifier=1368</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>Oh, "Blair Witch," what hath thou wrought? It has taken less than a decade, but the concept of horror films filmed documentary-style has officially become a tiresome cliche.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?&amp;rid=11813</url>
+         <critic>Frank Scheck</critic>
+      </review>
+      <review>
+         <snippet>A modestly inventive, sporadically exciting thriller that nonetheless proves too faithful to its central conceit for its own good.</snippet>
+         <url>http://www.variety.com/review/VE1117938662.html?categoryid=31&amp;cs=1</url>
+         <critic>Joe Leydon</critic>
+      </review>
+      <review>
+         <snippet>Quarantine is a one-note nightmare, nicely pitched to the high-C howls of the bitten and the biters but offering considerably less froth than last year's "The Signal," which mined similar nightmares with far more fulsome results.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A683573</url>
+         <critic>Marc Savlov</critic>
+      </review>
+      <review>
+         <snippet>Like "Blair Witch," Quarantine uses the conceit of a movie-within-a-movie to give documentary immediacy to its assorted grotesqueries.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=11194</url>
+         <critic>Michael Hardy</critic>
+      </review>
+   </reviews>
+   <US_Gross>$31,691,811</US_Gross>
+   <production_budget>$12,000,000</production_budget>
+   <weekend_gross>$14,211,321</weekend_gross>
+   <number_of_screens>2,461</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

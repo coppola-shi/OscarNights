@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Aliens in the Attic</name>
+   <company>20th Century Fox</company>
+   <genres>
+      <genre>Adventure</genre>
+      <genre>Fantasy</genre>
+   </genres>
+   <authors>
+      <author>Mark Burton</author>
+      <author>Adam F. Goldberg</author>
+   </authors>
+   <directors>
+      <director>John Schultz</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+      <origin>Canada</origin>
+   </origins>
+   <actors>
+      <actor>Kevin Nealon</actor>
+      <actor>Robert Hoffman</actor>
+      <actor>Doris Roberts</actor>
+      <actor>Tim Meadows</actor>
+      <actor>Ashley Tisdale</actor>
+   </actors>
+   <release_date>July 31, 2009</release_date>
+   <running_time>minutes,</running_time>
+   <rating>PG</rating>
+   <reviews>
+      <review>
+         <snippet>The movie is awfully close to a video game with its own specific rules, but its characters are appealing and funny, "Aliens" doesn't have a mechanical feel that drags down most video-game movies.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film-reviews/aliens-in-the-attic-film-review-1003999345.story</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>Perfectly calibrated for the pre-adolescent set, highlighting broad physical comedy and themes of kid empowerment and featuring one of the stars from "High School Musical."</snippet>
+         <url>http://www.latimes.com/entertainment/news/la-et-aliens3-2009aug03,0,4777407.story</url>
+         <critic>Glenn Whipp</critic>
+      </review>
+      <review>
+         <snippet>A pointless but ultimately harmless family adventure that doesn't mentally assault the 12-and-over set. (Extra points for being 100 percent fart-joke-free).</snippet>
+         <url>http://www.ew.com/ew/article/0,,20295415,00.html</url>
+         <critic>Adam Markovitz</critic>
+      </review>
+      <review>
+         <snippet>Performances are unremarkable but acceptable pretty much across the board, and the vocal talents -- particularly Thomas Haden Church as the belligerent Tazer and Josh Peck as the lovable Sparks -- are well cast.</snippet>
+         <url>http://www.variety.com/review/VE1117940758.html?categoryid=31&amp;cs=1</url>
+         <critic>Joe Leydon</critic>
+      </review>
+      <review>
+         <snippet>Like those mild old Disney comedies of the ’60s and ’70s, it seems perfectly content with being a harmless distraction.</snippet>
+         <url>http://www.avclub.com/articles/aliens-in-the-attic,31158/</url>
+         <critic>Tasha Robinson</critic>
+      </review>
+      <review>
+         <snippet>Robert Hoffman as the boyfriend, who spends most of his time under the marionettelike control of either the aliens or the human children, provides the film's occasional funny moments.</snippet>
+         <url>http://movies.nytimes.com/2009/08/01/movies/01alien.html?ref=movies</url>
+         <critic>Mike Hale</critic>
+      </review>
+      <review>
+         <snippet>Aliens in the Attic is conveyor-belt family product, an action/adventure/sci-fi/comedy made from the bland corporate DNA of Nickelodeon and the Disney Channel. It appears designed for families who never leave the mall.</snippet>
+         <url>http://www.boston.com/ae/movies/articles/2009/08/01/aliens_in_the_attic_destined_for_the_cellar/</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>The real problem with this Aliens encounter is that it's patently a Nick at Night midweek movie that inadvertently got greenlighted for a big-screen opening.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A815288</url>
+         <critic>Marc Savlov</critic>
+      </review>
+      <review>
+         <snippet>Cheap, shoddy, crass and depressing fun for the whole family -- by which I mean 8-year-old boys.</snippet>
+         <url>http://www.laweekly.com/2009-08-06/film-tv/movie-reviews-gi-joe-the-rise-of-cobra-a-perfect-getaway-paper-heart/</url>
+         <critic>Vadim Rizov</critic>
+      </review>
+      <review>
+         <snippet>Nowhere near as bad as "Coneheads," but still isn't worth your time.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2009/07/31/DDCJ192BNO.DTL&amp;type=movies</url>
+         <critic>Peter Hartlaub</critic>
+      </review>
+   </reviews>
+   <US_Gross>$25,200,412</US_Gross>
+   <weekend_gross>$8,008,423</weekend_gross>
+   <number_of_screens>3,106</number_of_screens>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

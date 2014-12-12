@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>V for Vendetta</name>
+   <company>Warner Bros.</company>
+   <genres>
+      <genre>Action</genre>
+      <genre>Drama</genre>
+      <genre>Scifi</genre>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>Andy Wachowski</author>
+      <author>Larry Wachowski</author>
+      <author>Alan Moore</author>
+      <author>David Lloyd</author>
+   </authors>
+   <directors>
+      <director>James Mc</director>
+      <director>Teigue</director>
+   </directors>
+   <origins>
+      <origin>USAGermany</origin>
+   </origins>
+   <actors>
+      <actor>Natalie Portman</actor>
+      <actor>Hugo Weaving</actor>
+      <actor>Stephen Rea</actor>
+      <actor>Stephen Fry</actor>
+      <actor>John Hurt</actor>
+      <actor>Tim Pigott-Smith</actor>
+      <actor>Rupert Graves</actor>
+      <actor>Roger Allam</actor>
+   </actors>
+   <release_date>March 17, 2006</release_date>
+   <running_time>132</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>A compelling, rousing and at times strangely moving entertainment.</snippet>
+         <url>http://www.premiere.com/article.asp?section_id=2&amp;article_id=2673</url>
+         <critic>Glenn Kenny</critic>
+      </review>
+      <review>
+         <snippet>Richly satisfying entertainment the way movies are at their best, when they prod you to think.</snippet>
+         <url>http://sfgate.com/cgi-bin/article.cgi?f=/c/a/2006/03/16/DDGG9HO5VT1.DTL&amp;type=movies</url>
+         <critic>Ruthe Stein</critic>
+      </review>
+      <review>
+         <snippet>V for Vendetta puts its ideological intent first, and happens to provide smashing entertainment only as a vehicle for delivering its message.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/114246510944310.xml&amp;coll=7</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>It's a terrific movie. I love the look and the verve of the thing, the confidence of its epic design, its smart use of half a dozen noted British thesps, lending weight and wit to the supporting roles.</snippet>
+         <url>http://www.time.com/time/magazine/article/0,9171,1169916,00.html</url>
+         <critic>Richard Corliss</critic>
+      </review>
+      <review>
+         <snippet>The explosive V for Vendetta is powered by ideas that are not computer-generated. It's something rare in Teflon Hollywood: a movie that sticks with you.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/_/id/7222868/rid/9440903/</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>An entertaining piece of pulp fiction.</snippet>
+         <url>http://www.nypost.com/movies/65373.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>V for Vendetta represents 2006's first memorable motion picture - a visually sumptuous concoction that combines political allegory, bloody action, and a few stunning cinematic moments into a solid piece of entertainment.</snippet>
+         <url>http://movie-reviews.colossus.net/movies/v/v_vendetta.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>Portman doesn't catch fire until the second half, then heaves herself into emotional action; this suits her initially passive, mostly unthinking character. Weaving, who acts entirely with his voice, is V's ideal embodiment: witty, rueful, pitiless, visionary and mad.</snippet>
+         <url>http://ae.charlotte.com/entertainment/ui/charlotte/movie.html?id=554419&amp;reviewId=20341&amp;startDate=03%2F16%2F2006</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>Visually exhilarating, provocative and disturbing.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2006-03-15-v-for-vendetta_x.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>The Wachowski Brothers once again they prove themselves our reigning masters of murk.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-to.vendetta17mar17,0,3353023.story?coll=bal-artslife-movies</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>Setting out more to challenge us with its ideas than make us whoop at the action, Vendetta can be clumsy, but there are enough impressive flourishes to make up for its stumblings.</snippet>
+         <url>http://www.empireonline.com/incinemas/ReviewComplete.asp?FID=10585</url>
+         <critic>Dan Jolin</critic>
+      </review>
+      <review>
+         <snippet>It's the perfect moment for the ridiculous but riotously enjoyable revolutionary comic-book thriller V for Vendetta-which will doubtless outrage conservatives and unnerve fuddy-duddys but liberate the rest of us with its magisterial irresponsibility.</snippet>
+         <url>http://www.newyorkmetro.com/movies/listings/rv_49353.htm</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>One of the most eloquent tales in ages of dysfunctional love – between a man and his ideals, between a country and its government, and, in the end, between Evey and V.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A347376</url>
+         <critic>Marc Savlov</critic>
+      </review>
+      <review>
+         <snippet>With most action thrillers based on graphic novels, we simply watch the sound and light show. V for Vendetta, directed by James McTeigue, almost always has something going on that is actually interesting, inviting us to decode the character and plot and apply the message where we will.</snippet>
+         <url>http://www.rogerebert.com/apps/pbcs.dll/article?AID=/20060315/REVIEWS/60308005/1023</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>A lot of dark, Orwellian fun.</snippet>
+         <url>http://ae.philly.com/entertainment/ui/philly/movie.html?id=554419&amp;reviewId=20340</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>Even if V for Vendetta isn't nearly as incendiary as it's been made out to be by some alarmist critics, there's still something enjoyably subversive about it, beginning with the way it tramples over the conventions of the contemporary action film.</snippet>
+         <url>http://ae.miami.com/entertainment/ui/miami/movie.html?id=554419&amp;reviewId=20354&amp;startDate=03%2F16%2F2006</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>Hugo Weaving, weaving deftly beneath a fixed plastic grin and Prince Valiant wig as the mysterious avenger in V for Vendetta, both chills and amuses throughout this enjoyable - if occasionally irresponsible - comic-book thriller.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/moviereviews/story/400525p-339077c.html</url>
+         <critic>Jami Bernard</critic>
+      </review>
+      <review>
+         <snippet>First-time director James McTeigue's big, bold imagery, with slashing reds and blacks, is a close approximation of the novel's look and feel.</snippet>
+         <url>http://www.csmonitor.com/2006/0317/p11s03-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>Mostly, it's content to remain a compelling, visually striking political mystery with some big ideas woven into it--subversive notions about integrity, liberty, and political change.</snippet>
+         <url>http://www.avclub.com/content/node/46300</url>
+         <critic>Keith Phipps</critic>
+      </review>
+      <review>
+         <snippet>As a fix of pop iconography, V for Vendetta is eyeball grabbing, even if it lacks the relentless videogame bravura that sold the Matrix films. As a movie, however, it's merely okay, with a pivotal dramatic weakness: Evey, for all the attentions of her revolutionary Svengali, remains, in essence, a bystander, and Portman, her head shaved, plays her like Joan of Arc as a tremulous Girl Scout.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1173457_1_0_,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>Brutally gorgeous and seething with incendiary images.</snippet>
+         <url>http://online.tvguide.com/movies/database/Movie-Review.asp?MI=46559</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>From a fan's perspective, though, one might wish for a smaller budget and a truly uncompromising vision.</snippet>
+         <url>http://www.dallasobserver.com/Issues/2006-03-16/film/film.html</url>
+         <critic>Luke Y. Thompson</critic>
+      </review>
+      <review>
+         <snippet>Viewers expecting a thrill ride might be disappointed. V engages in a couple of satisfying crime-fighting set pieces, but the story is more occupied with mystery and intrigue. Happily, it almost is entirely free of the hollow pomposity that marred the Wachowskis' last two "Matrix" films.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1001701281</url>
+         <critic>John DeFore</critic>
+      </review>
+      <review>
+         <snippet>The swashbuckling first hour is superior to the second, which bursts at the seams with backstory, but a rousing climax makes this the most potent piece of agitpop in years.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/critic.html#29409</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>With its emphasis on dialogue and political machinations over explosions and kung fu fighting, it remains to be see whether or not V for Vendetta will actually find one (a wider audience).</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=8807</url>
+         <critic>Pete Vonder Haar</critic>
+      </review>
+      <review>
+         <snippet>It's the strangest comic-book superhero movie you're likely to see this year. For anyone looking for something totally different in this most overworked of Hollywood genres, this is it.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/263093_vendetta16q.html</url>
+         <critic>William Arnold</critic>
+      </review>
+      <review>
+         <snippet>V for very, very ordinary.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/LAC.20060316.VENDETTA16/TPStory/TPEntertainment/</url>
+         <critic>Rick Groen</critic>
+      </review>
+      <review>
+         <snippet>The real villain is a cowed and lazy citizenry. Meaning all of us. Disappointingly, V for Vendetta makes this point early and moves on, at some point turning as shallow as what it protests against.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=7805</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>Finally, a film to unite movie-mad members of Al Qaeda with your neighbor's kid, the one with the crush on Natalie Portman.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-060317-movies-review-v,0,3732159.story?coll=mmx-movies_top_heds</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>By the time you've gotten through it, you feel spent, loaded down and more than a little disoriented. Part of the problem is that the movie's big concepts - violence begets violence, absolute power corrupts absolutely, everything is connected, my terrorist is your freedom fighter, etc. - are pithy, brief and irrefutable enough to embroider on throw pillows.</snippet>
+         <url>http://www.calendarlive.com/movies/chocano/cl-et-vendetta16mar16,0,1343073.story</url>
+         <critic>Carina Chocano</critic>
+      </review>
+      <review>
+         <snippet>Suffers from many of same problems as last two installments of producers Andy and Larry Wachowski's "Matrix" franchise: indigestible dialogue, pacing difficulties and too much pseudo-philosophical info.</snippet>
+         <url>http://www.variety.com/index.asp?layout=features2006&amp;content=jump&amp;jump=review&amp;head=berlin&amp;nav=RBerlin&amp;articleid=VE1117929587&amp;cs=</url>
+         <critic>Leslie Felperin</critic>
+      </review>
+      <review>
+         <snippet>Absorbing even in its incoherence,V for Vendetta manages to make an old popular mythology new. Impossible not to break into a grin: It's the thought that counts.</snippet>
+         <url>http://www.villagevoice.com/film/0611,hoberman,72526,20.html</url>
+         <critic>J. Hoberman</critic>
+      </review>
+      <review>
+         <snippet>The movie plays like a clumsy assault on post-9/11 paranoia. It references "America's war," uses imagery direct from Abu Ghraib and contains dialogue likely to offend anyone who's not, say, a suicide bomber.</snippet>
+         <url>http://www.msnbc.msn.com/id/11769182/site/newsweek/</url>
+         <critic>Jeff Giles</critic>
+      </review>
+      <review>
+         <snippet>The more valid question is how anyone who isn't 14 or under could possibly mistake a corporate bread-and-circus entertainment like this for something subversive. You want radical? Wait for the next Claire Denis film.</snippet>
+         <url>http://movies2.nytimes.com/2006/03/17/movies/17vend.html</url>
+         <critic>Manohla Dargis</critic>
+      </review>
+      <review>
+         <snippet>Both oversimplifies and overcomplicates Moore's and Lloyd's vision, but it never cuts to the bone. It's a movie drawn with big, bold strokes and very little feeling -- a tracing-paper exercise masquerading as a masterpiece.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2006/03/17/vendetta/index.html</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>The film is beset by incoherence and implausibilities that are perplexing, given the close relationship between the Wachowskis and the director, Mr. McTeigue.</snippet>
+         <url/>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>The quarter-century-old disgruntled fantasies of two English comic-book artists, amplified by a powerful movie company, and ambushed by history, wind up yielding a disastrous muddle.</snippet>
+         <url>http://www.newyorker.com/critics/cinema/?060320crci_cinema</url>
+         <critic>David Denby</critic>
+      </review>
+      <review>
+         <snippet>V for Vendetta is a dud - far too long at nearly two and a half hours, with flat, grungy visuals, choppy editing and no sense of urgency. But as a political work, it's something else -  heavy-handed, reactionary and flat-out stupid. (For the record, Moore has publicly distanced himself from the film, saying it bears precious little resemblance to his original creation.)</snippet>
+         <url>http://www.laweekly.com/film/12909/anarchy-in-the-uk/</url>
+         <critic>Scott Foundas</critic>
+      </review>
+      <review>
+         <snippet>A piece of pulp claptrap; it has no insights whatsoever into totalitarian psychology and always settles for the cheesiest kinds of demagoguery and harangue as its emblems of evil. They say they want a revolution? Then give us a revolution, one that's believable, frightening, heroic, coherent and not a teenagers' freaky power trip.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1107922&amp;lat=200.0&amp;lon=200.0&amp;displaySearchLocation=&amp;nm=1&amp;categories=Movies</url>
+         <critic>Stephen Hunter</critic>
+      </review>
+   </reviews>
+   <US_Gross>$70,511,035</US_Gross>
+   <production_budget>$50,000,000</production_budget>
+   <weekend_gross>$25,642,640</weekend_gross>
+   <number_of_screens>3,365</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

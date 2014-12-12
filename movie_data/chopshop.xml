@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Chop Shop</name>
+   <company>Film Forum</company>
+   <genres>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author>Ramin Bahrani</author>
+   </authors>
+   <directors>
+      <director>Ramin Bahrani</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Alejro Polanco</actor>
+      <actor>Isamar Gonzales</actor>
+   </actors>
+   <release_date>February 27, 2008</release_date>
+   <running_time>84</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>Now we have an American film with the raw power of “City of God” or “Pixote,” a film that does something unexpected, and inspired, and brave.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20070910/FILMFESTIVALS03/70910001/1023</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>Bahrani's willingness to expose the shameful reality of third-world conditions in the Land of Plenty while telling a crackling good story marks him as a filmmaker as important as he is accessible.</snippet>
+         <url>http://www.tvguide.com/movies/chop-shop/review/292614</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>Beautifully observed, and beautifully acted by the novice thespian Polanco (culled from a New York City public school), Chop Shop is at once a heartbreaker and a story of hope and the American Dream.</snippet>
+         <url>http://www.philly.com/inquirer/weekend/17472419.html</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>The director has created a not-to-miss gem for the discriminating viewer.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1146547&amp;categories=Movies&amp;nm=1</url>
+         <critic>John Anderson</critic>
+      </review>
+      <review>
+         <snippet>Announces the arrival of a director radically out of step with the dominant conventions of American moviemaking, one who blends a social-realist vision and a passion for cinematic poetry.</snippet>
+         <url>http://www.salon.com/ent/movies/btm/feature/2008/02/27/chop_shop/</url>
+         <critic>Andrew O&amp;#039;Hehir</critic>
+      </review>
+      <review>
+         <snippet>Ale's community is like a band of pirates - collegial, bickering, larcenous and supportive - and his life within it is both heartening and heartbreaking.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2008/02/29/2008-02-29_short_takes_more_movies_out_this_week.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>Small but sure, the film is like  Alejandro himself: quick on its feet, attuned to a harsh life’s hardships and possibilities.</snippet>
+         <url>http://chicago.metromix.com/movies/movie_review/movie-review-chop-shop/345221/content</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>Everything about Chop Shop is modest - the movie's scale, the characters' ambitions. Another director might have tried to nudge the film's grim detours toward tragedy. And that might have worked, too. But Bahrani is a refreshingly deceptive director in that sense.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=11427</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>It's like a New York City equivalent of a Third World bazaar: It hums with nerviness and cunning. And this movie presents a tingling vision of a working neighborhood after hours. Night falls in Chop Shop like a comfort, a cloak or a shroud.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/reviews/bal-to.chop16may16,0,109605.story</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>Though Chop Shop is an American film, it feels more like an Iranian movie or the Dardenne Brothers’ "Rosetta"; Bahrani introduces something like a plot point in the late-going, but he mostly focuses, to riveting effect, on how his young hero hustles and claws through everyday life.</snippet>
+         <url>http://www.avclub.com/content/node/66617</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>Iranian-American filmmaker Ramin Bahrani has followed up his well-received Man Push Cart with another penetrating portrait of life on the outskirts of New York.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/imdb/reviews/article_display.jsp?rid=10137&amp;vnu_special_account_code=thrsiteimdbpro</url>
+         <critic>Michael Rechtshaffen</critic>
+      </review>
+      <review>
+         <snippet>Bahrani’s concentration is close to supernatural as he tracks the young, prepubescent Ale (Alejandro Polanco) from job to soul-numbing job, some legal, some extralegal, to the point where you’re forced to suspend altogether your moral judgments and watch with a mixture of pain and awe.</snippet>
+         <url>http://nymag.com/movies/reviews/44475/</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>Authentic as all this feels (and smells, and tastes), Chop Shop gives off a heightened sense of reality, a faintly idealized atmosphere akin to the Lower East Side milieu of "Raising Victor Vargas," a close relative in the New York branch of neo-neorealism.</snippet>
+         <url>http://www.villagevoice.com/film/0809,320868,320868,20.html</url>
+         <critic>Nathan Lee</critic>
+      </review>
+      <review>
+         <snippet>There is nonetheless a lyricism at its heart, an unsentimental, soulful appreciation of the grace that resides in even the meanest struggle for survival.</snippet>
+         <url>http://movies.nytimes.com/2008/02/27/movies/27chop.html?ref=movies</url>
+         <critic>A.O. Scott</critic>
+      </review>
+      <review>
+         <snippet>In this littered environment there's no such thing as trash, only salvage, and the biggest threat to the siblings' humanity is a creeping tendency to think of themselves as commodities as well.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/critic.html#32905</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>Chop Shop"exudes a sense of joyousness amid harshness. Bahrani celebrates those who never give up, no matter how badly their dreams are shattered.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-capsules30-2008may30,0,3374643.story</url>
+         <critic>Kevin Thomas</critic>
+      </review>
+      <review>
+         <snippet>Bahrani's unsentimental film is perhaps most interesting as a look at a colorful, little-known world that has recently been targeted for urban renewal.</snippet>
+         <url>http://www.nypost.com/seven/02272008/entertainment/movies/spare_parts_on_a_dead_end_road_99460.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>Ultimately, the pic will be noted and remembered not for any inherent drama or analysis but for its simply having so thoroughly documented a strange place most people have never seen and never knew existed.</snippet>
+         <url>http://www.variety.com/index.asp?layout=festivals&amp;jump=review&amp;id=2478&amp;reviewid=VE1117933741&amp;cs=1&amp;p=0</url>
+         <critic>Todd McCarthy</critic>
+      </review>
+      <review>
+         <snippet>As he did in his striking 2005 first feature film, "Man Push Cart," about a Pakistani street vendor in New York, perceptive indie filmmaker Ramin Bahrani looks at what others overlook and finds drama in everyday details.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20180600,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>It is ironic that the core audience for Chop Shop is that very crowd that has recently taken steps to redevelop the Iron Triangle into something more Manhattan-friendly.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/359474_limited18.html</url>
+         <critic>Bill White</critic>
+      </review>
+   </reviews>
+   <US_Gross>$115,775</US_Gross>
+   <weekend_gross>$11,730</weekend_gross>
+   <number_of_screens>1</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

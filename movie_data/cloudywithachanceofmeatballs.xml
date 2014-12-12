@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Cloudy with a Chance of Meatballs</name>
+   <company>Columbia Pictures (Sony)</company>
+   <genres>
+      <genre>Animation</genre>
+      <genre>FamilyKids</genre>
+   </genres>
+   <authors>
+      <author>Chris Miller</author>
+      <author>Phil Lord</author>
+   </authors>
+   <directors>
+      <director>Chris Miller</director>
+      <director>Phil Lord</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Bill Hader</actor>
+      <actor>Anna Faris</actor>
+      <actor>James Caan</actor>
+      <actor>Bruce Campbell</actor>
+      <actor>Andy Samberg</actor>
+      <actor>Mr. T</actor>
+      <actor>Tracy Morgan</actor>
+   </actors>
+   <release_date>September 18, 2009</release_date>
+   <running_time>81</running_time>
+   <rating>PG</rating>
+   <reviews>
+      <review>
+         <snippet>Cloudy is smart, insightful on a host of relationship dynamics, and filled with fast-paced action.</snippet>
+         <url>http://www.laweekly.com/2009-09-17/film-tv/movie-reviews-cloudy-with-a-chance-of-meatballs-jennifer-39-s-body-love-happens/</url>
+         <critic>Ernest Hardy</critic>
+      </review>
+      <review>
+         <snippet>Very likely the most fun your family will have this month.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2009/09/18/2009-09-18_cloudy_with_a_chance_of_meatballs_is_clever_kids_fun_in_good_taste.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>Any moviegoers possessed of funny bones will laugh their fool heads off at Cloudy With a Chance of Meatballs.</snippet>
+         <url>http://www.washingtonpost.com/gog/movies/cloudy-with-a-chance-of-meatballs,1158160/critic-review.html#reviewNum1</url>
+         <critic>Dan Kois</critic>
+      </review>
+      <review>
+         <snippet>Wise and respectful of its audience, "Cloudy" thus never stops the fun.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=11888</url>
+         <critic>Matthew Sorrento</critic>
+      </review>
+      <review>
+         <snippet>The sights are ingenious, impressively rendered in 3-D, and the sounds – including cheeky voice work by Mr. T, Neil Patrick Harris, and Benjamin Bratt – are a blast.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A853443</url>
+         <critic>Kimberley Jones</critic>
+      </review>
+      <review>
+         <snippet>The film combines a pinch of morality with a healthy dose of humor to produce a movie that's entertaining for everyone.</snippet>
+         <url>http://www.stltoday.com/stltoday/entertainment/reviews.nsf/movie/story/E6F1A775B29089D486257633006E4F5B?OpenDocument</url>
+         <critic>Charles Williams</critic>
+      </review>
+      <review>
+         <snippet>A joyful romp, devoid of the tiresome pop-culture references.</snippet>
+         <url>http://www.miamiherald.com/entertainment/movies/reviews/story/1237871.html</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>It’s a brisk, bright, winning effort, even though it already looks sadly out of touch with the times.</snippet>
+         <url>http://www.avclub.com/articles/cloudy-with-a-chance-of-meatballs,33016/</url>
+         <critic>Keith Phipps</critic>
+      </review>
+      <review>
+         <snippet>Ends with a big action sequence, turning into Raiders of the Lost Arby's when you wish it would serve up something less conventional. But by that time, the filmmakers have also served up a little food for thought, along with a lot of laughs.</snippet>
+         <url>http://www.npr.org/templates/story/story.php?storyId=112879827</url>
+         <critic>Bob Mondello</critic>
+      </review>
+      <review>
+         <snippet>A surprisingly savory treat, though it doesn't bear much resemblance to the charming classic children's book on which it's based.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2009-09-17-cloudy-meatballs_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>It's all good, goofy fun.</snippet>
+         <url>http://www.nola.com/movies/index.ssf/2009/09/cloudy_with_a_chance_of_meatba.html</url>
+         <critic>Mike Scott</critic>
+      </review>
+      <review>
+         <snippet>The movie's humor targets both kids and grown-ups with equal success, but, even with the presence of a mustache-fixated monkey, the main attraction here is the movie's vibrant 3-D animation and its perfect storm of foodie-friendly sight gags.</snippet>
+         <url>http://www.latimes.com/entertainment/news/la-et-meatballs18-2009sep18,0,4977434.story</url>
+         <critic>Glenn Whipp</critic>
+      </review>
+      <review>
+         <snippet>The splashy animation is well-executed but again a bit monotonous for a full-length feature.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film-reviews/cloudy-with-a-chance-of-meatballs-film-review-1004013739.story</url>
+         <critic>Stephen Farber</critic>
+      </review>
+      <review>
+         <snippet>Eye-popping and mouth-watering in one, Cloudy With a Chance of Meatballs spins a 30-page children's book into a 90-minute all-you-can-laugh buffet.</snippet>
+         <url>http://www.variety.com/review/VE1117941121.html?categoryid=31&amp;cs=1</url>
+         <critic>Peter Debruge</critic>
+      </review>
+      <review>
+         <snippet>Goes down easy enough at first. But even at a svelte 81 minutes, this meal drags on too long.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20304809,00.html</url>
+         <critic>Chris Nashawaty</critic>
+      </review>
+      <review>
+         <snippet>Fairly inventive and exceedingly manic.</snippet>
+         <url>http://featuresblogs.chicagotribune.com/talking_pictures/</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>It’s not especially filling, but it leaves a pleasant aftertaste.</snippet>
+         <url>http://www.boston.com/ae/movies/articles/2009/09/18/meatballs_is_a_bit_bland_but_still_fun/</url>
+         <critic>Joanna Weiss</critic>
+      </review>
+      <review>
+         <snippet>There is clear definition between closer and further elements. I've seen a lot of 3-D recently, and in terms of technical quality, this is the best.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20090916/REVIEWS/909169995</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>If the filmmakers opt to make only light statements about junk food, obesity and solid waste, they at least leave the audience sated on a single serving of inspired lunacy.</snippet>
+         <url>http://movies.nytimes.com/2009/09/18/movies/18cloudy.html?ref=movies</url>
+         <critic>Daniel M. Gold</critic>
+      </review>
+      <review>
+         <snippet>The year’s 3-D deluge continues: Cloudy with a Chance of Meatballs is an amusingly loopy kids’ meal about a small-town inventor.</snippet>
+         <url>http://newyork.timeout.com/articles/film/78645/cloudy-with-a-chance-of-meatballs-film-review</url>
+         <critic>Nick Schager</critic>
+      </review>
+      <review>
+         <snippet>Leaves us with is sporadic showers of laughs for kids under 10. That's a shame, because the film could have been a delight for everyone, if only it hadn't learned to behave.</snippet>
+         <url>http://www.theglobeandmail.com/news/arts/cloudy-with-a-chance-of-meatballs/article1291638/</url>
+         <critic>Stephen Cole</critic>
+      </review>
+      <review>
+         <snippet>It's the Food Network meets The Weather Channel meets . . . the Scary Doomsday Preachers Channel.</snippet>
+         <url>http://www.nypost.com/p/entertainment/forecast_fishy_7qJFRN3u9DV46qbUD57d0O</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>A lumpy stew of weak characterization, lame gags, ADD-afflicted storytelling, and dazzling visual.</snippet>
+         <url>http://www.chicagoreader.com/chicago/MovieTimes?film=1183536</url>
+         <critic>Cliff Doerksen</critic>
+      </review>
+      <review>
+         <snippet>A dead-serious piece of activist filmmaking.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2009/09/17/MVD519O2KA.DTL&amp;type=movies</url>
+         <critic>Amy Biancolli</critic>
+      </review>
+   </reviews>
+   <US_Gross>$124,870,275</US_Gross>
+   <production_budget>$100,000,000</production_budget>
+   <weekend_gross>$30,304,648</weekend_gross>
+   <number_of_screens>3,119</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

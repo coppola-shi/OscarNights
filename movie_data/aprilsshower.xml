@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>April&amp;#039;s Shower</name>
+   <company>Regent Releasing</company>
+   <genres>
+      <genre>Comedy</genre>
+      <genre>GayLesbian</genre>
+      <genre>Romance</genre>
+   </genres>
+   <authors>
+      <author>Trish Doolan</author>
+   </authors>
+   <directors>
+      <director>Trish Doolan</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Maria Cina</actor>
+      <actor>Trish Doolan</actor>
+      <actor>Rall Batinkoff</actor>
+      <actor>Denise Miller</actor>
+      <actor>Joe Tabbanella</actor>
+      <actor>Zack Ward</actor>
+      <actor>Honey Labrador</actor>
+      <actor>Arly Jover</actor>
+   </actors>
+   <release_date>January 13, 2006</release_date>
+   <running_time>98</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>The phrase "lesbian comedy" is not exactly an oxymoron, but April's Shower is still a rarity, an expansive, talky and often zany romantic farce, with lesbian characters at its center.</snippet>
+         <url>http://sfgate.com/cgi-bin/article.cgi?f=/c/a/2006/01/13/DDGGDGLSAP1.DTL#flick2</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>Yet despite the absurdities and predictable outcome, April's Shower is enjoyable, primarily for its refreshingly volatile approach to sexual orientation.</snippet>
+         <url>http://www.nytimes.com/2006/01/13/movies/13show.html</url>
+         <critic>Jeannette Catsoulis</critic>
+      </review>
+      <review>
+         <snippet>The joys of farce are fumbled in April's Shower, star-director-writer Trish Doolan's arch and undernourished comedy about a bridal shower turned on its head by the bride's lesbian past.</snippet>
+         <url>http://www.variety.com/review/VE1117921476?categoryid=31&amp;cs=1</url>
+         <critic>Robert Koehler</critic>
+      </review>
+      <review>
+         <snippet>Tepid lesbian comedy.</snippet>
+         <url>http://www.villagevoice.com/film/0602,kenigsberg,71656,20.html</url>
+         <critic>Ben Kenigsberg</critic>
+      </review>
+      <review>
+         <snippet>And whenever the film shifts from spunky "let's put on a show" fun to overly earnest drama, it slows to a crawl, with mawkish performances that fail to rise above the soggy material.</snippet>
+         <url>http://www.laweekly.com/film/film_results.php?showid=3723</url>
+         <critic>Mark Olsen</critic>
+      </review>
+      <review>
+         <snippet>The result feels as if she (Trish Doolan) gathered all her friends, turned on her camera and let them loose. Which is perfectly fine, if you don't expect anyone to pay to watch the finished product.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/moviereviews/story/382324p-324557c.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>The movie suffers from a malady common to tiny indies of the let's-put-on-a-show variety -- it strains for irrepressibly nutty, but lands squarely in annoying.</snippet>
+         <url>http://www.calendarlive.com/movies/chocano/cl-et-april13jan13,0,300110.story</url>
+         <critic>Carina Chocano</critic>
+      </review>
+      <review>
+         <snippet>Painfully sincere. But it wrings almost no laughs or tears from this seemingly idiot-proof premise.</snippet>
+         <url>http://www.nypost.com/movies/61526.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+   </reviews>
+   <US_Gross>$16,255</US_Gross>
+   <weekend_gross>$11,566</weekend_gross>
+   <number_of_screens>5</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

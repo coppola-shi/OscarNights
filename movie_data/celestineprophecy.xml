@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Celestine Prophecy, The</name>
+   <company>Celestine Films Holding Company</company>
+   <genres>
+      <genre>Adventure</genre>
+   </genres>
+   <authors>
+      <author>James Redfield</author>
+      <author>Barnet Bain</author>
+      <author>Dan Gordon</author>
+   </authors>
+   <directors>
+      <director>Armand Mastroianni</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Matthew Settle</actor>
+      <actor>Thomas Kretschmann</actor>
+      <actor>Sarah Wayne Callies</actor>
+      <actor>Annabeth Gish</actor>
+      <actor>Hector Elizondo</actor>
+      <actor>Joaquim de Almeida</actor>
+      <actor>Jürgen Prochnow</actor>
+      <actor>John Aylward</actor>
+   </actors>
+   <release_date>April 21, 2006</release_date>
+   <running_time>99</running_time>
+   <rating>PG</rating>
+   <reviews>
+      <review>
+         <snippet>Celestine Prophecy demands all skepticism be left in the lobby. That's a leap few may be willing to take -- few beyond those millions who bought the book, that is.</snippet>
+         <url>http://www.variety.com/review/VE1117930276?categoryid=31&amp;cs=1</url>
+         <critic>Dennis Harvey</critic>
+      </review>
+      <review>
+         <snippet>As to claims that the book provides a path to enlightenment, I'm an agnostic. But I can swear on a stack of ancient scrolls that the movie plays like 90-odd minutes of purgatory from which you feel you may never escape.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/1149117940180610.xml&amp;coll=7</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>The film taps the same spiritual thirst and anxiety that has made cultural phenomena of "The Da Vinci Code" and the "Left Behind" series. And it’s just as cheesy.</snippet>
+         <url>http://www.laweekly.com/film+tv/film-reviews/film-reviews/14064/</url>
+         <critic>Ernest Hardy</critic>
+      </review>
+      <review>
+         <snippet>It's hard, bordering on impossible, to evaluate this movie without stepping on people's beliefs.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-to.celestine18aug18,0,1193797.story?coll=bal-artslife-movies</url>
+         <critic>Chris Kaltenbach</critic>
+      </review>
+      <review>
+         <snippet>The movie is flatly acted and extremely ill-paced, lacking any sense of urgency, momentum or fun. "Romancing the Stone" it is not.</snippet>
+         <url>http://www.calendarlive.com/movies/cl-et-celestine21jul21,0,3020404.story</url>
+         <critic>Mark Olsen</critic>
+      </review>
+      <review>
+         <snippet>A big disappointment.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2006/04/21/DDGPHIBU5P1.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>Redfield's fans will rejoice, if only to see the beloved novel illustrated on the screen, no matter how tediously. The rest of us probably should stay away.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/267597_celestine22q.html</url>
+         <critic>Sean Axmaker</critic>
+      </review>
+      <review>
+         <snippet>Arguably as effective as Ambien at inducing sleep, but possible side effects include uncontrollable laughter.</snippet>
+         <url>http://www.nypost.com/entertainment/movies/the_celestine_prophecy_movies_lou_lumenick.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>The Celestine Prophecy's biggest stumbling block (and there are many to choose from) is that the film's dramatic arc hinges on John's awakening to the prophecy. But spiritual epiphany is tough to convey onscreen.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A363036</url>
+         <critic>Kimberley Jones</critic>
+      </review>
+      <review>
+         <snippet>This delectable fusion of New Age babble and luridly bad filmmaking may not "open" you up, to borrow one of the film's favorite verbs, but it might leave your jaw slack and your belly sore from laughter.</snippet>
+         <url>http://movies2.nytimes.com/2006/08/11/movies/11cele.html?ref=movies</url>
+         <critic>Manohla Dargis</critic>
+      </review>
+   </reviews>
+   <US_Gross>$1,214,661</US_Gross>
+   <weekend_gross>$31,985</weekend_gross>
+   <number_of_screens>5</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

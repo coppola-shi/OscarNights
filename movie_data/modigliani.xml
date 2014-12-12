@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Modigliani</name>
+   <company>Bauer Martinez Studios</company>
+   <genres>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author>Mick Davis</author>
+   </authors>
+   <directors>
+      <director>Mick Davis</director>
+   </directors>
+   <origins>
+      <origin>USAFranceGermanyItalyRomaniaUK</origin>
+   </origins>
+   <actors>
+      <actor>Andy Garcia</actor>
+      <actor>Elsa Zylberstein</actor>
+      <actor>Hippolyte Girardot</actor>
+      <actor>Omid Djalili</actor>
+      <actor>Eva Herzigova</actor>
+      <actor>Udo Kier</actor>
+   </actors>
+   <release_date>May 13, 2005</release_date>
+   <running_time>128</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>Garcia has his moments as a wild man but the script never really allows him to plumb the artist's emotional depths.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1000632296</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>Can't overcome a didactic script.</snippet>
+         <url>http://www.variety.com/review/VE1117924974?categoryid=31&amp;cs=1</url>
+         <critic>Lisa Nesselson</critic>
+      </review>
+      <review>
+         <snippet>The lushness of a Modigliani is largely absent from Modigliani.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1062938_1_0_,00.html</url>
+         <critic>Scott Brown</critic>
+      </review>
+      <review>
+         <snippet>The real-life Modigliani did indeed live a short, tragic life, but this factually inaccurate, plodding film makes it feel twice as long.</snippet>
+         <url>http://tvguide.com/movies/database/showmovie.asp?MI=46111</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>It's hard to take this oddball movie seriously.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/moviereviews/story/324113p-276961c.html</url>
+         <critic>Jami Bernard</critic>
+      </review>
+      <review>
+         <snippet>A tiresome, hammy and ultimately annoying portrait of the artist as a young drunk.</snippet>
+         <url>http://www.laweekly.com/film/film_results.php?showid=3401&amp;Sumbit.x=60&amp;Sumbit.y=12</url>
+         <critic>Kim Morgan</critic>
+      </review>
+      <review>
+         <snippet>An Iranian comedian named Omad Djalili plays Picasso, that sexually combustible Spanish bull, with all the earth-shaking allure of, say, Andy Richter.</snippet>
+         <url>http://www.nypost.com/movies/49114.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>Deeply silly and tendentious.</snippet>
+         <url>http://www.calendarlive.com/movies/chocano/cl-et-modigliani13may13,0,2598663.story</url>
+         <critic>Carina Chocano</critic>
+      </review>
+      <review>
+         <snippet>Sadly, instead of situating the l'amour fou in the artistic ferment of the period (1917-1920), Davis twists the period to fit the story.</snippet>
+         <url>http://www.villagevoice.com/film/0526,sweeney,65387,20.html</url>
+         <critic>R. Emmet Sweeney</critic>
+      </review>
+      <review>
+         <snippet>The best and maybe the only use to be made of the catastrophic screen biography Modigliani is to serve as a textbook outline of how not to film the life of a legendary artist.</snippet>
+         <url>http://movies2.nytimes.com/2005/07/01/movies/01modi.html</url>
+         <critic>Stephen Holden</critic>
+      </review>
+   </reviews>
+   <US_Gross>$208,507</US_Gross>
+   <weekend_gross>$32,360</weekend_gross>
+   <number_of_screens>8</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Rendition</name>
+   <company>New Line Cinema</company>
+   <genres>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>Kelley Sane</author>
+   </authors>
+   <directors>
+      <director>Gavin Hood</director>
+   </directors>
+   <origins>
+      <origin>USASouthAfrica</origin>
+   </origins>
+   <actors>
+      <actor>Reese Witherspoon</actor>
+      <actor>Jake Gyllenhaal</actor>
+      <actor>Meryl Streep</actor>
+      <actor>Alan Arkin</actor>
+      <actor>Peter Sarsgaard</actor>
+   </actors>
+   <release_date>October 19, 2007</release_date>
+   <running_time>120</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>Rendition is valuable and rare. As I wrote from Toronto: "It is a movie about the theory and practice of two things: torture and personal responsibility. And it is wise about what is right, and what is wrong."</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20071018/REVIEWS/710180307</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>Taut, powerfully acted political thriller.</snippet>
+         <url>http://www.tvguide.com/movies/rendition/review/290980</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>About two-thirds of the way through, Rendition takes a bad turn and sells out most of what made it worth watching in the first place. Witherspoon is given little to do except look weepy, Freeman's change of heart is Q.E.D., and the radical Islamist subplot overwhelms the action, which becomes so confusingly structured that I thought the projectionist had misplaced a reel.</snippet>
+         <url>http://www.csmonitor.com/2007/1019/p11s01-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>There are some problems with the pacing, but this topical thriller about CIA-sanctioned torture is one of the most important "message" movies of the year.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2007/10/19/2007-10-19_rendition_is_story_of_torture.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>A rarity – a political film that delivers its timely message with a cinematic punch and no undue speechifying.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20071019.wrendition/BNStory/Entertainment/home</url>
+         <critic>Rick Groen</critic>
+      </review>
+      <review>
+         <snippet>A maddening film, maddening in a good way, but maddening nonetheless.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2007/10/19/DDISSQUFF.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>Occasionally a movie's subject outweighs any aesthetic flaws, as it does in this unsettling thriller about the extraordinary rendition of terror suspects.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/critic.html#32282</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>The movie Rendition asks, admittedly in a one-sided way, whether the ends justify these means.</snippet>
+         <url>http://ae.charlotte.com/entertainment/ui/charlotte/movie.html?id=960424&amp;reviewId=22719&amp;startDate=10%2F19%2F2007</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>While the ingredients are there to make a tense and compelling post-9/11 thriller, Rendition falls flat.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2007-10-18-rendition_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>Disappointingly dull given the explosive subject matter, this at least attempts to get a message into the mainstream. An extra star for effort rather than execution.</snippet>
+         <url>http://www.empireonline.com/reviews/reviewcomplete.asp?FID=134020</url>
+         <critic>Angie Errigo</critic>
+      </review>
+      <review>
+         <snippet>The jumping around is as deft as a hippo in a tutu, and the director, Gavin Hood, never finds a rhythm.</snippet>
+         <url>http://nymag.com/movies/reviews/39315/</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>Rendition offers few surprises, and it tips its hand too soon and too predictably to do much more than goose your weary outrage.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-rendition19oct19,0,7628860.story?coll=cl-mreview</url>
+         <critic>Carina Chocano</critic>
+      </review>
+      <review>
+         <snippet>Rendition certainly makes the case that torture, whatever name it goes under, is indefensible, yet one can agree with that view entirely and still feel that the movie is just a borderline exploitation of what anyone who reads the papers already knows.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20152821,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>The movie is not exciting, original or instructive enough to justify the unpleasant experience.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/335988_rendition19q.html</url>
+         <critic>William Arnold</critic>
+      </review>
+      <review>
+         <snippet>Manages to take an urgent, important topic and turn it into standard Hollywood melodrama. What a waste.</snippet>
+         <url>http://www.newsweek.com/id/43359</url>
+         <critic>David Ansen</critic>
+      </review>
+      <review>
+         <snippet>A well-meaning, honorable movie. Which is not to say that it is a very good one.</snippet>
+         <url>http://movies.nytimes.com/2007/10/19/movies/19rend.html?ref=movies</url>
+         <critic>A.O. Scott</critic>
+      </review>
+      <review>
+         <snippet>Forget the thin characters and showoffy temporal structure. Rendition's worst flaw is its political deck-stacking.</snippet>
+         <url>http://www.slate.com/id/2176193/fr/flyout</url>
+         <critic>Dana Stevens</critic>
+      </review>
+      <review>
+         <snippet>Reese Witherspoon paces and cries through Rendition in a performance that does as much a disservice to her talent as the movie does to the issues it raises.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1137660&amp;categories=Movies&amp;nm=1</url>
+         <critic>Ann Hornaday</critic>
+      </review>
+      <review>
+         <snippet>Rendition tackles the concern in a heavy-handed thriller with simplistic characters and manipulative story lines.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?&amp;rid=9758</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>Rendition has the depth of a bumper sticker without the brevity.</snippet>
+         <url>http://www.nypost.com/seven/10192007/entertainment/movies/war__reese.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>Intelligent and well-meaning, Rendition is nevertheless an oversimplified and uneven attempt to arouse righteous indignation among its viewers.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A550660</url>
+         <critic>Marjorie Baumgarten</critic>
+      </review>
+      <review>
+         <snippet>In Rendition Gyllenhaal is supposed to be the smartest one in the room, yet he’s essentially just a good-looking plodder. And despite its whirligig story machinations, so is Rendition.</snippet>
+         <url>http://chicago.metromix.com/movies/movie_review/movie-review-rendition/233423/content</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>What a cast, indeed. And what a bust as persuasive drama.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/14216810/review/16970903/rendition</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>With a cast this stacked, the performances are predictably strong (particularly from Sarsgaard, whose slow-burning role recalls his work in Shattered Glass), but the first impression they make is the same as the last.</snippet>
+         <url>http://www.avclub.com/content/cinema/rendition</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>The film's disappointingly black-and-white approach robs characters and situations of badly needed ambiguity.</snippet>
+         <url>http://www.reelviews.net/movies/r/rendition.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>Unlike Hood's far more persuasive gangster picture "Tsotsi," Rendition feels generic and lackluster.</snippet>
+         <url>http://www.villagevoice.com/film/0742,taylor,78073,20.html</url>
+         <critic>Ella Taylor</critic>
+      </review>
+      <review>
+         <snippet>By underplaying the melodrama in the presumed hope of seeming subtle when Kelley Sane’s script is so baldly melodramatic, the “Tsotsi” helmer drains the life out of an obviously explosive subject.</snippet>
+         <url>http://www.variety.com/review/VE1117934646.html?categoryid=31&amp;cs=1&amp;p=0</url>
+         <critic>Todd McCarthy</critic>
+      </review>
+      <review>
+         <snippet>One reason to see Rendition is for Naor's stunning performance as the torturer who is the one character aware of the political and moral contradictions of what he's doing. Every time he was on screen, he commanded it.</snippet>
+         <url>http://www.philly.com/philly/entertainment/movies/20071019_Hot_terror_topic_just_warmed-over.html</url>
+         <critic>Carrie Rickey</critic>
+      </review>
+      <review>
+         <snippet>Painfully boring.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/reviews/bal-to.rendition19oct19,0,5877994.story</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>Rendition is a reminder that, in the wrong hands, political outrage can be a slog.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=10390</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>None of the actors is able to do much with their characters, because they are all playing game pieces on a schematic board. Rendition has passion to spare, but it is saddled with a story designed exclusively to drive home the filmmakers' message.</snippet>
+         <url>http://www.miamiherald.com/1054/story/275534.html</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>If it makes anybody feel better, one character in the picture does point out that the whole "extraordinary rendition" concept originated with Clinton. So there's balance for you.</snippet>
+         <url>http://www.premiere.com/moviereviews/4176/rendition.html</url>
+         <critic>Glenn Kenny</critic>
+      </review>
+      <review>
+         <snippet>If these new, allegedly topical movies are to make us feel anything -- to move us toward any action or even just toward any fresh realization -- they need to at least seem alive on the screen, instead of just courting our polite, measured applause.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2007/10/19/rendition/</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>Overheated claptrap that takes an issue of vital national importance and turns it into an inept cartoon that emboldens the worst instincts in our national character.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/11926635425320.xml&amp;coll=7</url>
+         <critic>Shawn Levy</critic>
+      </review>
+   </reviews>
+   <US_Gross>$9,736,045</US_Gross>
+   <production_budget>$27,500,000</production_budget>
+   <weekend_gross>$4,060,012</weekend_gross>
+   <number_of_screens>2,250</number_of_screens>
+   <oscar_winning_actors_present/>
+   <num_oscar_winning_actors>2</num_oscar_winning_actors>
+   <oscar_winning_actor>reese witherspoon</oscar_winning_actor>
+   <oscar_winning_actor>meryl streep</oscar_winning_actor>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

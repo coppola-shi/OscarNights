@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Enron: The Smartest Guys in the Room</name>
+   <company>Magnolia Pictures</company>
+   <genres>
+      <genre>Documentary</genre>
+   </genres>
+   <authors>
+      <author>Alex Gibney</author>
+      <author>Bethany Mc</author>
+      <author>Lean and Peter Elkind</author>
+   </authors>
+   <directors>
+      <director>Alex Gibney</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Ken Lay</actor>
+   </actors>
+   <release_date>April 22, 2005</release_date>
+   <running_time>110</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>A deeply straightforward yet beautifully crafted documentary.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1051989_1_0_,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>Delivers a polished and well-researched look at America 's largest corporate bankruptcy with a laser-sharp focus on the personalities, practices, and fates of the top executives behind the Enron meltdown.</snippet>
+         <url>http://www.premiere.com/article.asp?section_id=2&amp;article_id=2109</url>
+         <critic>Peter Debruge</critic>
+      </review>
+      <review>
+         <snippet>Spellbinding.</snippet>
+         <url>http://www.csmonitor.com/2005/0422/p14s02-almo.html</url>
+         <critic>David Sterritt</critic>
+      </review>
+      <review>
+         <snippet>More than worthwhile.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2005/04/29/DDGIDCGG961.DTL</url>
+         <critic>Jonathan Curiel</critic>
+      </review>
+      <review>
+         <snippet>With no-nonsense narration by Peter Coyote and a soundtrack that's at once apt, ironic and really, really good, The Smartest Guys in the Room is anything but a dry dissection of a major Wall Street debacle.</snippet>
+         <url>http://ae.philly.com/entertainment/ui/philly/movie.html?id=287800&amp;reviewId=17945</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>The movie grows richer as it goes along and contrasting pieces click together.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-to.enron20may20,1,3810655.story?coll=bal-artslife-movies</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>Despite the talking heads and grainy blow-ups of TV footage, the film boasts some rather gorgeous cinematography and moves briskly, with the interviews masterfully edited.</snippet>
+         <url>http://www.empireonline.com/incinemas/reviewcomplete.asp?FID=11195</url>
+         <critic>Helen O&amp;#039;Hara</critic>
+      </review>
+      <review>
+         <snippet>With this amoral business environment, it's not a question of if there will be another Enron, but when.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/1114682636276130.xml&amp;coll=7</url>
+         <critic>Marc Mohan</critic>
+      </review>
+      <review>
+         <snippet>Fiercely intelligent, terrifying and absurdly funny documentary.</snippet>
+         <url>http://www.laweekly.com/film/film_results.php?showid=3370&amp;Sumbit.x=39&amp;Sumbit.y=10</url>
+         <critic>Scott Foundas</critic>
+      </review>
+      <review>
+         <snippet>It's a chilling, completely fascinating documentary.</snippet>
+         <url>http://www.calendarlive.com/movies/turan/cl-et-enron29apr29,2,1242940.story</url>
+         <critic>Kenneth Turan</critic>
+      </review>
+      <review>
+         <snippet>Not only a great cautionary tale, it's a civics lesson that should be seen by every concerned citizen.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1000789841</url>
+         <critic>James Greenberg</critic>
+      </review>
+      <review>
+         <snippet>A thoroughly professional, frequently spectacular piece of muckraking.</snippet>
+         <url>http://dallasobserver.com/issues/2005-04-28/film/film2.html</url>
+         <critic>Bill Gallo</critic>
+      </review>
+      <review>
+         <snippet>Is a movie worthwhile if it makes you sick? 
+Absolutely, in the case of Enron: The Smartest Guys in the Room.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/story/302265p-258749c.html</url>
+         <critic>Jami Bernard</critic>
+      </review>
+      <review>
+         <snippet>Should hold you spellbound.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-050428-movies-review-mw-enron.story</url>
+         <critic>Michael Wilmington</critic>
+      </review>
+      <review>
+         <snippet>Truly a tale for our time.</snippet>
+         <url>http://movie-reviews.colossus.net/movies/e/enron.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>Entertaining and enraging.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=7569</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>This is not a political documentary. It is a crime story. No matter what your politics, Enron: The Smartest Guys in the Room will make you mad.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20050428/REVIEWS/50413004/1001</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>Gordon Gekko didn't disappear with the 1980s; he just became a lot more difficult to pick out from a crowd.</snippet>
+         <url>http://www.miami.com/mld/miamiherald/entertainment/movies/11850740.htm</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>Based on a best-selling book by Fortune magazine writers Bethany McLean and Peter Elkind, the film approaches Enron through the Horatio Alger saga of its founder, Kenneth Lay, the son of a dirt-poor Missouri Baptist minister.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/222069_enron29q.html</url>
+         <critic>William Arnold</critic>
+      </review>
+      <review>
+         <snippet>To my taste the only serious distraction and ethical lapse is Gibney's sarcastic, cheap-shot use of popular songs like "That Old Black Magic," "Love for Sale," and "God Bless the Child" to underscore certain points; it seems almost to celebrate the shamelessness of the creeps being exposed.</snippet>
+         <url>http://spacefinder.chicagoreader.com/movies/briefs/27947_ENRON_THE_SMARTEST_GUYS_IN_THE_ROOM.html</url>
+         <critic>Jonathan Rosenbaum</critic>
+      </review>
+      <review>
+         <snippet>Gives us the same sort of perverse pleasure that's been a staple of "60 Minutes" over the years -- watching world-class crooks tell world-class lies.</snippet>
+         <url/>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>It's a story of jaw-dropping chutzpah, grim, mostly hindsight-based humor and more stomach-churning drama than you could find in 10 screenplays.</snippet>
+         <url>http://www.washingtonpost.com/wp-dyn/content/article/2005/04/28/AR2005042800670.html</url>
+         <critic>Michael O&amp;#039;Sullivan</critic>
+      </review>
+      <review>
+         <snippet>Handsomely produced and photographed, which alone distinguishes it from the guerrilla standards of its cut-rate peers, Enron succeeds most by simply making a complex situation graspable, a tall order when the perpetrators are masters of grand-scale deception.</snippet>
+         <url>http://www.theavclub.com/review.php?review_id=8416</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>Soberly entertaining documentary.</snippet>
+         <url>http://www.villagevoice.com/film/0516,tracking3,63140,20.html</url>
+         <critic>J. Hoberman</critic>
+      </review>
+      <review>
+         <snippet>It’s only by understanding what went wrong that we can hope to recognize the warning signs next time.</snippet>
+         <url>http://www.filmthreat.com/Reviews.asp?Id=6814</url>
+         <critic>Peter Hanson</critic>
+      </review>
+      <review>
+         <snippet>The most blessedly traditional sort of documentary. It follows the twisty, complicated rise and fall of Enron in steady, chronological order, from the mid-eighties to the present.</snippet>
+         <url>http://newyorkmetro.com/nymetro/movies/reviews/11760/</url>
+         <critic>Ken Tucker</critic>
+      </review>
+      <review>
+         <snippet>By turns amazing, amusing and appalling.</snippet>
+         <url>http://www.variety.com/index.asp?layout=sundance2005&amp;nav=reviews&amp;content=reviews&amp;reviewid=VE1117926132&amp;categoryid=1865&amp;cs=</url>
+         <critic>Joe Leydon</critic>
+      </review>
+      <review>
+         <snippet>The documentary cannot be called muckraking, as the muck has already been well-raked, but Gibney's recounting has a touch of playful sadism that I quite enjoyed.</snippet>
+         <url>http://www.slate.com/id/2117185/</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>A tight, fascinating chronicle of arrogance and greed.</snippet>
+         <url>http://movies2.nytimes.com/2005/04/22/movies/22enro.html</url>
+         <critic>Dana Stevens</critic>
+      </review>
+      <review>
+         <snippet>Despite these biases, the movie helps the average American understand the nature of the shell games perpetuated by Enron and how "synergistic corruptions" can corrupt absolutely.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A267946</url>
+         <critic>Marjorie Baumgarten</critic>
+      </review>
+      <review>
+         <snippet>The film's most climactic moments involve the chilling audiotapes of avaricious Enron traders as they toy with California's energy crisis, wringing millions in profits from the misfortune of an entire state.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2005-04-21-enron_x.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>The story is fascinating, infuriating and even laugh-out-loud funny at times.</snippet>
+         <url>http://www.nypost.com/movies/42974.htm</url>
+         <critic>Russell Scott Smith</critic>
+      </review>
+      <review>
+         <snippet>It's scarier than "The Amityville Horror," as scandalous as "Fahrenheit 9/11" and loaded with more conspiracies than "The Interpreter."</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/_/id/6824305?pageid=rs.ReviewsMovieArchive&amp;pageregion=mainRegion</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>It's a fascinating story teeming with pride, arrogance, greed and overweening hubris, and Gibney attempts to give it all an added dimension by finding the archetypes of Greek tragedy among the sleazy deals and Ponzi-scheme financing.</snippet>
+         <url>http://tvguide.com/movies/database/showmovie.asp?MI=46064</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>Well-knit, generally lucid documentary.</snippet>
+         <url>http://www.tnr.com/doc.mhtml?i=20050523&amp;s=kauffmann052305</url>
+         <critic>Stanley Kauffmann</critic>
+      </review>
+      <review>
+         <snippet>Surely the real story of Enron is that so many accountants, lawyers, bankers and politicians were willing to call a dog a duck in order to remain happy insiders in the world's biggest pyramid scheme.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/ArticleNews/TPStory/LAC/20050429/ENRON29/TPEntertainment/Film</url>
+         <critic>Stephen Cole</critic>
+      </review>
+      <review>
+         <snippet>Amid the infoglut that surrounds us, Gibney's film feels too much like more noise. Is it telling the most important business story of our lifetimes, or is it just another fantastical yarn, crammed into the schedule after Scott and Laci Peterson, but before Charlemagne and the ancient Peruvian astronauts?</snippet>
+         <url>http://www.salon.com/ent/movies/review/2005/04/21/enron/index.html</url>
+         <critic>Andrew O&amp;#039;Hehir</critic>
+      </review>
+   </reviews>
+   <US_Gross>$4,071,700</US_Gross>
+   <weekend_gross>$76,639</weekend_gross>
+   <number_of_screens>3</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Kiss the Bride</name>
+   <company>Regent Releasing</company>
+   <genres>
+      <genre>Comedy</genre>
+      <genre>Romance</genre>
+   </genres>
+   <authors>
+      <author>Ty Lieberman</author>
+   </authors>
+   <directors>
+      <director>C. Jay Cox</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Tori Spelling</actor>
+      <actor>Philipp Karner</actor>
+      <actor>James O&amp;#039;Shea</actor>
+      <actor>Joanna Cassidy</actor>
+      <actor>Tess Harper</actor>
+      <actor>Robert Foxworth</actor>
+      <actor>Garrett M. Brown</actor>
+   </actors>
+   <release_date>April 18, 2008</release_date>
+   <running_time>88</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>Formulaic gay comedy delivers its share of grins on the way to an (arguably) unexpected ending.</snippet>
+         <url>http://www.variety.com/review/VE1117934376.html?categoryid=31&amp;cs=1&amp;p=0</url>
+         <critic>Peter Debruge</critic>
+      </review>
+      <review>
+         <snippet>A poignant, ambitious romantic comedy that overreaches its premise with a hopelessly convoluted denouement; it plays like a last-minute attempt to pad out Tori Spelling's part to justify her star billing.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-kiss21apr21,0,7095162.story</url>
+         <critic>Kevin Thomas</critic>
+      </review>
+      <review>
+         <snippet>Complete predictability is avoided only thanks to its openness to the fluidity of sexual identity -- which isn’t enough to make this anything more than the most ignoble outing in bi-curious screen hijinks since France produced Poltergay.</snippet>
+         <url>http://www.laweekly.com/film+tv/film-reviews/movie-reviews-zombie-strippers-floating-life-lost-in-beijing/18732/?page=2</url>
+         <critic>Nick Pinkerton</critic>
+      </review>
+   </reviews>
+   <US_Gross>$32,033</US_Gross>
+   <weekend_gross>$8,811</weekend_gross>
+   <number_of_screens>5</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

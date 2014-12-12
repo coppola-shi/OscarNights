@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Peter and Vandy</name>
+   <company>Strand Releasing</company>
+   <genres>
+      <genre>Drama</genre>
+      <genre>Romance</genre>
+   </genres>
+   <authors>
+      <author>Jay Di</author>
+      <author>Pietro</author>
+   </authors>
+   <directors>
+      <director>Jay Di</director>
+      <director>Pietro</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Jason Ritter</actor>
+      <actor>Jess Weixler</actor>
+      <actor>Jesse L. Martin</actor>
+      <actor>Tracie Thoms</actor>
+      <actor>Noah Bean</actor>
+   </actors>
+   <release_date>October 9, 2009</release_date>
+   <running_time>95</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>More naturalistic -- and as a result, more believable.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20312183,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>The greatest romantic movie to jumble its time structure, Stanley Donen's "Two for the Road," is a touchstone that DiPietro must have had in mind. While this low-budget indie doesn't have the gloss or the depth of that romantic classic, the highest compliment I can pay Peter and Vandy is that it belongs in the same company.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film-reviews/film-review-peter-and-vandy-1003934183.story</url>
+         <critic>Stephen Farber</critic>
+      </review>
+      <review>
+         <snippet>The movie’s saving grace is Weixler, who manages to seem effortlessly natural without resorting to whiny faux naturalism.</snippet>
+         <url>http://www.avclub.com/articles/peter-and-vandy,33838/</url>
+         <critic>Sam Adams</critic>
+      </review>
+      <review>
+         <snippet>More a designer frame for actors than nourishing entertainment. Like the Chinese food the leads are always arguing over, the story leaves you hungry for more.</snippet>
+         <url>http://movies.nytimes.com/2009/10/09/movies/09peter.html?ref=movies</url>
+         <critic>Jeannette Catsoulis</critic>
+      </review>
+      <review>
+         <snippet>You know a low-budget indie has problems when it's less emotionally honest than a studio-backed project like "(500) Days."</snippet>
+         <url>http://www.nypost.com/p/entertainment/movies/peter_and_vandy_vm7zdIC0baM9UvO6Thto4I</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>Peter and Vandy has the decided disadvantage of arriving a couple of months after the similarly structured "(500) Days of Summer," a movie sporting a sunnier sheen, more appealing cast and an actual reason to care about the outcome.</snippet>
+         <url>http://www.latimes.com/entertainment/news/la-et-capsules9-2009oct09,0,1887001.story</url>
+         <critic>Glenn Whipp</critic>
+      </review>
+      <review>
+         <snippet>An aggravating romance that runs only 78 minutes but ends not a moment too soon.</snippet>
+         <url>http://www.variety.com/review/VE1117939442.html?categoryid=31&amp;cs=1&amp;query=peter+and+vandy</url>
+         <critic>Todd McCarthy</critic>
+      </review>
+      <review>
+         <snippet>Ritter and Weixler do share an easy-at-being-uneasy chemistry, mostly because his performance is downright distinguished compared to her blandness, but DiPietro's screenplay is emotionally myopic.</snippet>
+         <url>http://www.villagevoice.com/2009-10-06/film/peter-and-vandy-another-arty-flick-for-the-masses/</url>
+         <critic>Aaron Hillis</critic>
+      </review>
+      <review>
+         <snippet>Peter and Vandy is crippled by DiPietro’s interest in repetition. Activities that were cute and fun at the beginning, we see, ultimately become tedious. The novelty of the film’s gimmick follows suit.</snippet>
+         <url>http://newyork.timeout.com/articles/film/79334/peter-and-vandy-film-review</url>
+         <critic>Karina Longworth</critic>
+      </review>
+   </reviews>
+   <US_Gross>$11,276</US_Gross>
+   <weekend_gross>$7,323</weekend_gross>
+   <number_of_screens>3</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

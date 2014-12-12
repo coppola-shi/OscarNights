@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>White Noise</name>
+   <company>Universal Pictures</company>
+   <genres>
+      <genre>Drama</genre>
+      <genre>Mystery</genre>
+      <genre>Romance</genre>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>Niall Johnson</author>
+   </authors>
+   <directors>
+      <director>Geoffrey Sax</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Michael Keaton</actor>
+      <actor>Chra West</actor>
+      <actor>Deborah Kara Unger</actor>
+      <actor>Ian McNeice</actor>
+      <actor>Sarah Strange</actor>
+      <actor>Nicholas Elia</actor>
+      <actor>Mike Dopud</actor>
+      <actor>Marsha Regis</actor>
+   </actors>
+   <release_date>January 7, 2005</release_date>
+   <running_time>minutes,</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>A not-bad ghost story that marks a comeback of sorts for its star, Michael Keaton, who hasn't top-billed a movie for almost a decade.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/206840_white07q.html</url>
+         <critic>William Arnold</critic>
+      </review>
+      <review>
+         <snippet>Geoffrey Sax, a British television director making his theatrical debut, lavishes enough craft on the paranormal thriller to send more than a few chills down the spine.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1000747949</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>There's nothing at all scary about White Noise, which goes bump in the night so often it's easy to mistake it for clumsy.</snippet>
+         <url>http://dallasobserver.com/issues/2005-01-06/film/film3.html</url>
+         <critic>Robert Wilonsky</critic>
+      </review>
+      <review>
+         <snippet>Beneath its regrettably banal surface, White Noise raises the creepy question of whether intimidating, even malign forces may be lurking in those fancy gadgets that fill our living rooms and offices.</snippet>
+         <url>http://www.csmonitor.com/2005/0107/p14s02-almo.html</url>
+         <critic>David Sterritt</critic>
+      </review>
+      <review>
+         <snippet>Has a low-key tone that works in its favor for a time.</snippet>
+         <url>http://ae.philly.com/entertainment/ui/philly/movie.html?id=221796&amp;reviewId=17035</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>But Keaton is a mistake. He's an actor with an innate sense of irony firmly grounded in the here and now. Even as Batman, skepticism was his forte; true belief falls way outside his range.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20050106.wxnoise0107ent/BNStory/Entertainment/</url>
+         <critic>Rick Groen</critic>
+      </review>
+      <review>
+         <snippet>Does feature one or two jump-out-of-your-skin moments.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2005/01/07/white_noise/index.html</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>Boring and fundamentally silly.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/110501664218270.xml</url>
+         <critic>M. E. Russell</critic>
+      </review>
+      <review>
+         <snippet>What might have been a rote horror exercise becomes instead a twitchy, mannered, often amusing rote horror exercise.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1014223_1_0_,00.html</url>
+         <critic>Scott Brown</critic>
+      </review>
+      <review>
+         <snippet>An unsatisfying supernatural thriller with an effectively unsettling build-up and a frustratingly muddled pay-off.</snippet>
+         <url>http://www.variety.com/review/VE1117925842?categoryid=31&amp;cs=1</url>
+         <critic>Joe Leydon</critic>
+      </review>
+      <review>
+         <snippet>White Noise vigorously pushes the supernatural line throughout, but unfortunately its final movement is so incoherent that the whole thing collapses.</snippet>
+         <url>http://www.villagevoice.com/film/0502,park,59891,20.html</url>
+         <critic>Ed Park</critic>
+      </review>
+      <review>
+         <snippet>It's a testament to Michael Keaton's fine lead performance that White Noise doesn't come off as laughably preposterous.</snippet>
+         <url>http://www.theavclub.com/review_pop.php?review_id=8128</url>
+         <critic>Nathan Rabin</critic>
+      </review>
+      <review>
+         <snippet>Increasingly preposterous, thoroughly credibility-straining escapades.</snippet>
+         <url>http://tvguide.com/movies/database/ShowMovie.asp?MI=45821</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>Isn’t very effective as a thriller.</snippet>
+         <url>http://www.filmthreat.com/Reviews.asp?Id=6877</url>
+         <critic>Pete Vonder Haar</critic>
+      </review>
+      <review>
+         <snippet>It's yet another warm, fuzzy, New-Age tale that cozies us into believing the grave doesn't mean oblivion.</snippet>
+         <url>http://ae.charlotte.com/entertainment/ui/charlotte/movie.html?id=221796</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>The unhappy dead populate Geoffrey Sax's third-rate thriller White Noise like a pre-Christmas crowd at a suburban mall. This is a shame, since they are neither scary nor sad, and less likely to haunt an audience than simply bore them to death.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/moviereviews/story/268901p-230164c.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>In White Noise, Hollywood and Michael Keaton try to make a decent thriller out of ghosts in the machine but come up with lousy reception and static.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-050105-movies-review-mw-noise.story</url>
+         <critic>Michael Wilmington</critic>
+      </review>
+      <review>
+         <snippet>A film worthy neither of Mr. Keaton's talents nor even a desperate horror fan's attention.</snippet>
+         <url>http://movies2.nytimes.com/2005/01/07/movies/07nois.html</url>
+         <critic>Manohla Dargis</critic>
+      </review>
+      <review>
+         <snippet>The movie straitjackets Keaton into a humorless, table-pounding role.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-noise7jan07,2,1395931.story</url>
+         <critic>Carina Chocano</critic>
+      </review>
+      <review>
+         <snippet>Hampered by Niall Johnson's script, which is often confusing, muddy and ultimately cliche-ridden.</snippet>
+         <url>http://www.washingtonpost.com/wp-dyn/articles/A53237-2005Jan6.html</url>
+         <critic>Desson Thomson</critic>
+      </review>
+      <review>
+         <snippet>There's not much more to this poorly scripted thriller than exactly one well-done shock moment and Michael Keaton's eyebrows, but, to be fair, Keaton's brows have carried three Tim Burton films nearly on their own, so don't let this dissuade you from seeing the film.</snippet>
+         <url>http://www.austinchronicle.com/gbase/Calendar/Film?Film=oid%3A246183</url>
+         <critic>Marc Savlov</critic>
+      </review>
+      <review>
+         <snippet>Muddled and boring.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/27260_WHITE_NOISE.html</url>
+         <critic>Staff (Not credited)</critic>
+      </review>
+      <review>
+         <snippet>White Noise is the celluloid equivalent of a bad cell phone connection.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2005-01-06-white-noise_x.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>Poor Keaton, a capable actor who was absent from the screen for several years, is hamstrung by the material even more than in last year's dismal "First Daughter."</snippet>
+         <url>http://www.nypost.com/movies/37805.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>It is a grim and monotonous affair despite the overkill of bad guys -- a trio of evil spirits plus a bonus serial killer -- mixed with a few cheap shocks futilely intended to make the audience jump.</snippet>
+         <url>http://ae.philly.com/entertainment/ui/philly/movie.html?id=221796&amp;reviewId=17046</url>
+         <critic>Connie Ogle</critic>
+      </review>
+      <review>
+         <snippet>Dramatically, it's a ghoul's parade of grieving folk finding solace and then danger through a tenuous connection to the after-life.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-to.noise07jan07,1,2237783.story?coll=bal-artslife-movies</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>A clumsy, dreadfully preposterous and pedestrian thriller that seems to believe loud noises are the same as good frights.</snippet>
+         <url>http://www.premiere.com/article.asp?section_id=2&amp;article_id=1939</url>
+         <critic>Aaron Hillis</critic>
+      </review>
+      <review>
+         <snippet>White Noise has nothing. You'll have a better time staying home, tuning your TV to a station that doesn't carry a local signal, and staring.</snippet>
+         <url>http://movie-reviews.colossus.net/movies/w/white_noise.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>A rather boring horror film.</snippet>
+         <url>http://sfgate.com/cgi-bin/article.cgi?f=/c/a/2005/01/07/DDG0OALSPJ1.DTL&amp;type=movies</url>
+         <critic>Carla Meyer</critic>
+      </review>
+      <review>
+         <snippet>"Sixth Sense" rip-off.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/_/id/6155034?pageid=rs.ReviewsMovieArchive&amp;pageregion=mainRegion</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>No, this isn't an adaptation of Don DeLillo’s great 1985 novel, but a muddled talking-ghosts movie.</snippet>
+         <url>http://www.laweekly.com/film/film_results.php?showid=3241&amp;Sumbit.x=38&amp;Sumbit.y=14</url>
+         <critic>Chuck Wilson</critic>
+      </review>
+      <review>
+         <snippet>A moronic exercise in supernatural claptrap.</snippet>
+         <url>http://www.boston.com/ae/movies/articles/2005/01/07/plodding_vague_drama_makes_an_awful_noise/</url>
+         <critic>Wesley Morris</critic>
+      </review>
+   </reviews>
+   <US_Gross>$56,094,360</US_Gross>
+   <production_budget>$30,000,000</production_budget>
+   <weekend_gross>$24,113,565</weekend_gross>
+   <number_of_screens>2,261</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

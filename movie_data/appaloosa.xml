@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Appaloosa</name>
+   <company>New Line Cinema (Warner Bros. Pictures)</company>
+   <genres>
+      <genre>Western</genre>
+   </genres>
+   <authors>
+      <author>Robert B. Parker</author>
+      <author>Ed Harris</author>
+      <author>Robert Knott</author>
+   </authors>
+   <directors>
+      <director>Ed Harris</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Viggo Mortensen</actor>
+      <actor>Ed Harris</actor>
+      <actor>Renée Zellweger</actor>
+      <actor>Jeremy Irons</actor>
+      <actor>Timothy Spall</actor>
+      <actor>Lance Henriksen</actor>
+   </actors>
+   <release_date>September 19, 2008</release_date>
+   <running_time>114</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>Appaloosa is gripping entertainment that keeps springing surprises.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/21628368/review/22790804/appaloosa</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>Goes down like a single-malt aged for 25 years.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/reviews/bal-to.appaloosa03oct03,0,1032905.story</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>If you're an actual adult who likes old-school Westerns, this won't disappoint you.</snippet>
+         <url>http://www.oregonlive.com/movies/index.ssf/2008/10/movie_review_appaloosa.html</url>
+         <critic>M. E. Russell</critic>
+      </review>
+      <review>
+         <snippet>The romantic subplot dovetails wonderfully with Harris' tribute to the genre's golden age. The moral quest of taming the West always thrived if a lady could be won in tandem.</snippet>
+         <url>http://filmthreat.com/index.php?section=reviews&amp;Id=11237</url>
+         <critic>Matthew Sorrento</critic>
+      </review>
+      <review>
+         <snippet>A fine dramatic comedy with fresh characters, witty dialogue and a keen interest in how relationships must have developed among frontier folks, tyrannical ranchers, no-nonsense lawmen and -- oh, yes -- the complicated women on that frontier.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?rid=11619</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>Beautifully photographed by Dean Semler, Appaloosa is the best Western since "Open Range" and shows there's still life in this most unfashionable of genres.</snippet>
+         <url>http://www.nypost.com/seven/09192008/entertainment/movies/rio_bravo_for_western_129729.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>It turns out to be a satisfying, if occasionally wandering, adventure.</snippet>
+         <url>http://www.miamiherald.com/entertainment/movies/reviews/story/709832.html</url>
+         <critic>Connie Ogle</critic>
+      </review>
+      <review>
+         <snippet>A warmly made, slightly offbeat movie about friendly devotion. It also happens to be a western, and every man in it is grizzled or wizened or both.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=12244</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>What makes the movie absorbing is the way it harmonizes all the character strands and traits and weaves them into something more engaging than a mere 1-2-3 plot. I felt like I did in "Lonesome Dove" -- that there was a chair for me on the porch.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20081002/REVIEWS/810020301</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>First and last, Appaloosa is the slow-but-sure story of the friendship between Virgil and Everett, one a man of action surprised by emotion, the other a man of emotion surprised by action.</snippet>
+         <url>http://www.philly.com/inquirer/columnists/carrie_rickey/20081002_The_place__Appaloosa__a_lawless_frontier_town_in.html</url>
+         <critic>Carrie Rickey</critic>
+      </review>
+      <review>
+         <snippet>An old-fashioned Western with all the classic elements -- buddy loyalty, stalwart heroes, despicable villains, plenty of gunfights and marvelous wind-scoured desert landscapes -- marked by some modern ideas about relationships.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/381511_appaloosa03q.html</url>
+         <critic>Sean Axmaker</critic>
+      </review>
+      <review>
+         <snippet>Westerns often take themselves seriously and, while Appaloosa is no "Blazing Saddles," there's a refreshing vein of understated humor running throughout the production.</snippet>
+         <url>http://www.reelviews.net/php_review_template.php?identifier=1355</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>Most of the time, the movie is appropriately gritty and plenty engaging.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2008/10/02/DDQG139RP7.DTL&amp;type=movies</url>
+         <critic>Peter Hartlaub</critic>
+      </review>
+      <review>
+         <snippet>This isn't a visionary western like "The Three Burials of Melquiades Estrada" (2005), but in its own quiet way it delivers the goods.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/33609_APPALOOSA.html</url>
+         <critic>Jonathan Rosenbaum</critic>
+      </review>
+      <review>
+         <snippet>Harris and Mortensen may not have the combined star power to push Appaloosa to the level of popularity of last year's "3:10," but the film is every bit as enjoyable, and, for traditionalists, more measured.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=%20%20%201151887&amp;categories=Movies</url>
+         <critic>Mike Mayo</critic>
+      </review>
+      <review>
+         <snippet>It's good to spend time with a movie that takes its time. Granted, Harris doesn't advance the genre; instead he burrows into it, finds a home there, as one might retreat to musty library stacks, where old pleasures and treasures await.</snippet>
+         <url>http://www.time.com/time/arts/article/0,8599,1842595,00.html</url>
+         <critic>Richard Corliss</critic>
+      </review>
+      <review>
+         <snippet>In all, Appaloosa is good as far as it goes--everything in it feels true--but I wish that Harris had pushed his ideas further.</snippet>
+         <url>http://www.newyorker.com/arts/critics/cinema/2008/09/29/080929crci_cinema_denby</url>
+         <critic>David Denby</critic>
+      </review>
+      <review>
+         <snippet>Harris and his collaborators are playing it straight with a timeless male fantasy--horse, hat, six-shooter--a traditional approach that will please moviegoers like my dad and yours.</snippet>
+         <url>http://www.villagevoice.com/2008-09-17/film/ed-harris-plays-it-straight-with-appaloosa/</url>
+         <critic>Chuck Wilson</critic>
+      </review>
+      <review>
+         <snippet>As with many other mediocre actor-directors, Harris' attention to the performances, including his own fine turn, has cost him in other areas.</snippet>
+         <url>http://www.avclub.com/content/cinema/appaloosa</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>A throwback to the age when Westerns were quaint.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20226380,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>We've heard tell about the rebirth of the Western at least since Clint Eastwood's vicious, "Unforgiven" 16 years ago, but since the genre never truly died in the first place there's no need to flog that horse here.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A679335</url>
+         <critic>Marc Savlov</critic>
+      </review>
+      <review>
+         <snippet>As director, Harris takes this classical sense of the western too far, though, until it seems that the movie is carefully trying to keep the genre alive.</snippet>
+         <url>http://www.csmonitor.com/2008/0920/p25s04-almo.html</url>
+         <critic>Robert Koehler</critic>
+      </review>
+      <review>
+         <snippet>Harris is a major asset in a film that is entertaining but somewhat unfocused and occasionally badly cast.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2008-09-18-appaloosa_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>It's less a western than a loping buddy picture.</snippet>
+         <url>http://chicago.metromix.com/movies/movie_review/movie-review-appaloosa/640113/content</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>Appaloosa wobbles and wanders, promising to take a fresh look at those old myths, only to lapse back into weary convention.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20080918.wappaloosa19/BNStory/Entertainment/home</url>
+         <critic>Rick Groen</critic>
+      </review>
+      <review>
+         <snippet>Though the leads do fine work, their efforts often feel slightly futile. Despite a few flashes of the darker tone percolating under the surface, the movie remains too well-mannered to truly pull us in.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2008/09/19/2008-09-19_short_takes_for_the_weekend_of_september.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>The movie's tolerant, good-humored view of its characters drains it of some dramatic intensity, but Mr. Harris seems more interested in piquant, offhand moments than in big, straining confrontations.</snippet>
+         <url>http://movies.nytimes.com/2008/09/19/movies/19appa.html</url>
+         <critic>A.O. Scott</critic>
+      </review>
+      <review>
+         <snippet>The two men collaborate so well, in fact, that the real love match of Appaloosa is between the two of them and no one else.</snippet>
+         <url>http://www.latimes.com/entertainment/news/reviews/la-et-appaloosa19-2008sep19,0,2420449.story</url>
+         <critic>Kenneth Turan</critic>
+      </review>
+      <review>
+         <snippet>If Appaloosa is something to look at, it's also unnecessarily lethargic. Even an intentionally slow-paced picture needs to have its own internal source of energy, and as a filmmaker, Harris can't quite get that motor running.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2008/09/17/appaloosa/</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>Harris' first directorial outing since his impressive and entirely different "Pollock" biopic bears echoes of many genre predecessors, especially Howard Hawks' "Rio Bravo" -- but echoes they remain.</snippet>
+         <url>http://www.variety.com/review/VE1117938227.html?categoryid=2863&amp;cs=1&amp;query=Appaloosa</url>
+         <critic>Todd McCarthy</critic>
+      </review>
+      <review>
+         <snippet>Mannered, episodic and slow.</snippet>
+         <url>http://online.wsj.com/article/SB122177747252654291.html</url>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>Played for Maverick-like comedy, the film might have coasted on Harris and Mortensen's dialogue. But played straight it's both dull and preposterous.</snippet>
+         <url>http://movies.tvguide.com/detail/movie.aspx?tvobjectid=295333&amp;more=ucmoviereview</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+   </reviews>
+   <US_Gross>$20,211,394</US_Gross>
+   <production_budget>$20,000,000</production_budget>
+   <weekend_gross>$248,847</weekend_gross>
+   <number_of_screens>14</number_of_screens>
+   <oscar_winning_actors_present/>
+   <num_oscar_winning_actors>1</num_oscar_winning_actors>
+   <oscar_winning_actor>jeremy irons</oscar_winning_actor>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

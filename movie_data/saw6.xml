@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Saw VI</name>
+   <company>Lionsgate</company>
+   <genres>
+      <genre>Crime</genre>
+      <genre>Horror</genre>
+      <genre>Mystery</genre>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>Patrick Melton</author>
+      <author>Marcus Dunstan</author>
+   </authors>
+   <directors>
+      <director>Kevin Greutert</director>
+   </directors>
+   <origins>
+      <origin>Canada</origin>
+      <origin>USA</origin>
+      <origin>UK</origin>
+      <origin>Australia</origin>
+   </origins>
+   <actors>
+      <actor>Tobin Bell</actor>
+      <actor>Betsy Russell</actor>
+      <actor>Mark Rolston</actor>
+      <actor>Peter Outerbridge</actor>
+      <actor>Shawnee Smith</actor>
+      <actor>Samantha Lemole</actor>
+      <actor>Caroline Cave</actor>
+      <actor>Costas Mylor</actor>
+   </actors>
+   <release_date>October 23, 2009</release_date>
+   <running_time>90</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>Who knew that the franchise’s creators would eventually find a plot twist that made sense?</snippet>
+         <url>http://www.boston.com/ae/movies/articles/2009/10/26/new_saw_sequel_is_a_horror_flick_and_a_health_care_initiative/</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>Warm feelings are inspired by the reappearance of old friends, even those who had their faces ripped off or their intestines ejected several films ago.</snippet>
+         <url>http://movies.nytimes.com/2009/10/24/movies/24saw.html?ref=movies</url>
+         <critic>Mike Hale</critic>
+      </review>
+      <review>
+         <snippet>Conveys a much louder political message and the implementation of violence reflects as much.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=11960</url>
+         <critic>Stina Chyn</critic>
+      </review>
+      <review>
+         <snippet>There’s still too much flashback material here about apprentices and evil cops. But if you’ve ever raged at nameless, insensitive service people, you won’t mind seeing them strapped into a rotating turret, the shotgun cocking.</snippet>
+         <url>http://newyork.timeout.com/articles/film/79859/saw-vi-film-review</url>
+         <critic>Joshua Rothkopf</critic>
+      </review>
+      <review>
+         <snippet>It might well be time for a creative rebooting; the freshness, if not the viscera, has begun to strongly diminish.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film-reviews/saw-vi-film-review-1004030175.story</url>
+         <critic>Frank Scheck</critic>
+      </review>
+      <review>
+         <snippet>Because Saw does nothing to alter the look, tone, and engineered gimmickry from one movie to the next, it keeps going deeper into backstory and character arcs than horror series past, as if this ugly, cheap-looking schlock were somehow "The Lord Of The Rings."</snippet>
+         <url>http://www.avclub.com/articles/saw-vi,34508/</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>A film so frighteningly familiar it could well be called "Saw It Already."</snippet>
+         <url>http://www.variety.com/review/VE1117941442.html?categoryid=31&amp;cs=1</url>
+         <critic>Rob Nelson</critic>
+      </review>
+      <review>
+         <snippet>For fans, however, Saw VI is, pardon the pun, a cut above the rest but not, sadly, by much.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A896634</url>
+         <critic>Marc Savlov</critic>
+      </review>
+      <review>
+         <snippet>The thinnest, draggiest, and most tediously preachy of the Saw films.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20315066,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>One we wish we hadn't seen</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2009/10/23/2009-10-23_saw_v_latest_in_torture_porn_franchise_is_one_we_wish_we_hadnt_seen.html</url>
+         <critic>Joe Neumaier</critic>
+      </review>
+      <review>
+         <snippet>Taken just as an objet d’art, Saw VI — gray, grisly, solemn, stupid — would be about the most dismal thing I’ve ever laid eyes on, the argument against film preservation. But it vaults into the realm of real detestability through pretensions of relevance.</snippet>
+         <url>http://www.laweekly.com/2009-10-22/film-tv/movie-reviews-amelia-astro-boy-saw-vi/3</url>
+         <critic>Nick Pinkerton</critic>
+      </review>
+      <review>
+         <snippet>Terrible acting, zero suspense, laughable logic and the promise of another one next year. How can we get this policy canceled?</snippet>
+         <url>http://www.latimes.com/entertainment/news/la-et-saw23-2009oct24,0,7260800.story</url>
+         <critic>Robert Abele</critic>
+      </review>
+   </reviews>
+   <US_Gross>$27,693,292</US_Gross>
+   <production_budget>$11,000,000</production_budget>
+   <weekend_gross>$14,118,444</weekend_gross>
+   <number_of_screens>3,036</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Goal!</name>
+   <company>Buena Vista Pictures</company>
+   <genres>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author>Mike Jefferies</author>
+      <author>Adrian Butchart</author>
+      <author>Dick Clement</author>
+      <author>Ian La Frenais</author>
+   </authors>
+   <directors>
+      <director>Danny Cannon</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Kuno Becker</actor>
+      <actor>Alessro Nivola</actor>
+      <actor>Marcel Iures</actor>
+      <actor>Stephen Dillane</actor>
+      <actor>Anna Friel</actor>
+      <actor>Kieran O&amp;#039;Brien</actor>
+      <actor>Sean Pertwee</actor>
+      <actor>Cassra Bell</actor>
+   </actors>
+   <release_date>May 12, 2006</release_date>
+   <running_time>118</running_time>
+   <rating>PG</rating>
+   <reviews>
+      <review>
+         <snippet>Goal! hits the back of the net and is an early candidate for the funnest movie of the summer.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2006/05/12/DDG8PIPC3D1.DTL&amp;type=movies</url>
+         <critic>G. Allen Johnson</critic>
+      </review>
+      <review>
+         <snippet>Has an awful title, a bland hero and a predictable story - but it also has a nice blast of English atmosphere.</snippet>
+         <url>http://www.nypost.com/movies/68406.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>The movie works because it is, above all, sincere. It's not sports by the numbers. The starring performance by Kuno Becker is convincing and dimensional and we begin to care for him.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20060511/REVIEWS/60508010/1001</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>Most sports films are also fish-out-of-water stories, and this one qualifies as both.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-060512-movies-review-goal,0,870530.story?coll=mmx-movies_top_heds</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>How much viewers care about what happens in Goal! is directly proportionate to how much they care about soccer, because decent execution aside, there's an underdog fantasy movie just like this one for every sport.</snippet>
+         <url>http://www.avclub.com/content/node/48296</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>There's enough realism to keep a soccer buff like me happy, but the film is aimed at the young at heart, and I think they'll love it.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/1147289115156330.xml&amp;coll=7</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>The film is capably acted and somewhat inspiring.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2006-05-11-goal_x.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>A big success in Europe, the film has already spawned two sequels, the first of which is due to be released in the fall.</snippet>
+         <url>http://online.tvguide.com/newsearch/detail.aspx?id=46816&amp;sourcetype=m&amp;progseriesparentid=0&amp;tvobjectid=0&amp;keyword=&amp;more=ucmoviereview</url>
+         <critic>Ethan Alter</critic>
+      </review>
+      <review>
+         <snippet>An unknown commodity to anyone who doesn't follow telenovelas, Becker is sure to be a big star and has already signed on for two sequels. Apart from being scorching hot, he's enormously sympathetic in dramatic scenes.</snippet>
+         <url>http://ae.miami.com/entertainment/ui/miami/movie.html?id=599321&amp;reviewId=20775&amp;startDate=05%2F12%2F2006</url>
+         <critic>Peter Debruge</critic>
+      </review>
+      <review>
+         <snippet>A sports movie for people who may not care about sports but can't resist a heart-tugging underdog story.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/moviereviews/story/417035p-352134c.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>A slickly mounted slice of can-do nonsense.</snippet>
+         <url>http://www.variety.com/review/VE1117928108?categoryid=2215&amp;cs=1&amp;s=h&amp;p=0</url>
+         <critic>Derek Elley</critic>
+      </review>
+      <review>
+         <snippet>The cast, all around, is sterling. There's only one thing they don't need to bring back for the sequels, and that's the movie's appetite for every sports cliché there ever was.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1192880_1_0_,00.html</url>
+         <critic>Gregory Kirschling</critic>
+      </review>
+      <review>
+         <snippet>The appealing young man's tribulations are predictable, his triumph inevitable; while he gets respect, we get another Rocky-style dose of emotional uplift, cloaked in the usual game-day clichés.</snippet>
+         <url>http://www.villagevoice.com/film/0619,gallo,73165,20.html</url>
+         <critic>Bill Gallo</critic>
+      </review>
+      <review>
+         <snippet>Goal seems destined to be an ongoing soccer-themed soap opera, but it's one that only the game's biggest enthusiasts likely will find compelling.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/269877_goal!12q.html</url>
+         <critic>Winda Benedetti</critic>
+      </review>
+      <review>
+         <snippet>If you can abide booming orchestral punches during verbal confrontations and ubiquitous Adidas product placement, you'll be rewarded by exciting soccer sequences and the joy of watching a likable character triumph on a global stage.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/29773_GOAL_THE_DREAM_BEGINS.html</url>
+         <critic>Patrick Somerville</critic>
+      </review>
+      <review>
+         <snippet>The trouble with Goal!, which -- horror of horrors -- is the first of a trilogy, is that it's neither a persuasive story nor a satisfying display of soccer.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1106119&amp;lat=200.0&amp;lon=200.0&amp;displaySearchLocation=&amp;nm=1&amp;categories=Movies</url>
+         <critic>Desson Thomson</critic>
+      </review>
+      <review>
+         <snippet>Despite employing every cliché in the sports-movie handbook, Goal! The Dream Begins tells a reasonably engaging story.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A364129</url>
+         <critic>Marjorie Baumgarten</critic>
+      </review>
+      <review>
+         <snippet>As the clichés mount, Danny Cannon directs as if he's the one on trial, teasing tension out of every pass and dribble. Most irritating of all is his determination to paint British soccer as a gentleman's game, a notion United's real fans would no doubt treat with the scorn it deserves.</snippet>
+         <url>http://movies2.nytimes.com/2006/05/12/movies/12goal.html</url>
+         <critic>Jeannette Catsoulis</critic>
+      </review>
+      <review>
+         <snippet>Handsomely shot and with a likable lead in Kuno Becker, it also suffers from a script so outrageously generic you could buy it at Costco.</snippet>
+         <url>http://www.boston.com/ae/movies/articles/2006/05/12/goal_falls_short_due_to_generic_approach/</url>
+         <critic>Ty Burr</critic>
+      </review>
+   </reviews>
+   <US_Gross>$4,283,255</US_Gross>
+   <production_budget>$33,000,000</production_budget>
+   <weekend_gross>$1,921,838</weekend_gross>
+   <number_of_screens>1,007</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

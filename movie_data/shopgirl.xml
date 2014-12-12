@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Shopgirl</name>
+   <company>Buena Vista Pictures</company>
+   <genres>
+      <genre>Comedy</genre>
+      <genre>Drama</genre>
+      <genre>Romance</genre>
+   </genres>
+   <authors>
+      <author>Steve Martin</author>
+   </authors>
+   <directors>
+      <director>Anand Tucker</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Claire Danes</actor>
+      <actor>Jason Schwartzman</actor>
+      <actor>Steve Martin</actor>
+      <actor>Bridgette Wilson</actor>
+      <actor>Sam Bottoms</actor>
+      <actor>Frances Conroy</actor>
+      <actor>Rebecca Pidgeon</actor>
+      <actor>Joshua Snyder</actor>
+   </actors>
+   <release_date>October 21, 2005</release_date>
+   <running_time>104</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>A film of wisdom, emotional subtlety and power.</snippet>
+         <url>http://sfgate.com/cgi-bin/article.cgi?f=/c/a/2005/10/28/DDGO3FEEF521.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>A quiet, glistening love story - or not-quite-love story - adapted from Martin's novella of the same name, Shopgirl is such an atypical Hollywood affair that it's almost startling.</snippet>
+         <url>http://ae.philly.com/entertainment/ui/philly/movie.html?id=442470&amp;reviewId=19375</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>A tender and perceptive film.</snippet>
+         <url>http://www.rogerebert.com/apps/pbcs.dll/article?AID=/20051027/REVIEWS/50928008/1023</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>Like Truffaut's heaviest work, it's less interested in what brings people together than in what keeps them apart, and it achieves a painful truth you won't find in dating comedies.</snippet>
+         <url>http://www.nypost.com/movies/55811.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>Elegant and exquisitely tailored.</snippet>
+         <url>http://movies2.nytimes.com/2005/10/21/movies/21girl.html</url>
+         <critic>A.O. Scott</critic>
+      </review>
+      <review>
+         <snippet>This is a special film whose delicate tone ranges from tender to astringent, with occasional side trips into sweet.</snippet>
+         <url/>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>Without the luminous Danes in the title role, Shopgirl would have the flair of an ordinary sales clerk.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A305834</url>
+         <critic>Marjorie Baumgarten</critic>
+      </review>
+      <review>
+         <snippet>Martin's script offers plenty of opportunities, but Martin the actor never takes advantage of them.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-to.shopgirl04nov04,1,890274.story?coll=bal-artslife-movies</url>
+         <critic>Chris Kaltenbach</critic>
+      </review>
+      <review>
+         <snippet>Where "Elizabethtown" pretends to have the meaning of life, Shopgirl hones in on a few telling details, then allows audiences to fill in the rest.</snippet>
+         <url>http://www.premiere.com/article.asp?section_id=2&amp;article_id=2350</url>
+         <critic>Peter Debruge</critic>
+      </review>
+      <review>
+         <snippet>This is a smart, adult romance that rarely panders to clichés, and gives up the heady bliss of most such movies in favor of something bittersweet.</snippet>
+         <url>http://movie-reviews.colossus.net/movies/s/shopgirl.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>Even the film's missteps (the score, by Barrington Pheloung, is cringe-inducing) can't stop this meditation on love -- Martin calls it "Jane Austen for the twenty-first century" -- from melting into heartbreak.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/_/id/6132832?pageid=rs.ReviewsMovieArchive&amp;pageregion=mainRegion</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>Whether intentionally or not, Martin has given us something truly spooky: A full-fledged portrait of a hollow man.</snippet>
+         <url>http://www.csmonitor.com/2005/1021/p14s02-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>Danes gives a marvelously quiet, poignant performance.</snippet>
+         <url>http://newyorkmetro.com/nymetro/movies/reviews/14771/</url>
+         <critic>Ken Tucker</critic>
+      </review>
+      <review>
+         <snippet>"Hilary And Jackie" director Anand Tucker establishes and maintains an appropriately delicate tone, apart from the presence of cartoonish, jarring man-eater Bridgette Wilson, who seems to have wandered in from a much cruder comedy.</snippet>
+         <url>http://avclub.com/content/node/41747</url>
+         <critic>Nathan Rabin</critic>
+      </review>
+      <review>
+         <snippet>Displaying some fine performances -- including a lovely one by Claire Danes and a lively one by Jason Schwartzman -- the elegantly appointed Shopgirl certainly has the goods but it ultimately fails to make the sale.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1001096261</url>
+         <critic>Michael Rechtshaffen</critic>
+      </review>
+      <review>
+         <snippet>It's smart, spare, elegant and understated.</snippet>
+         <url>http://www.calendarlive.com/movies/chocano/cl-et-shopgirl21oct21,0,2124915.story</url>
+         <critic>Carina Chocano</critic>
+      </review>
+      <review>
+         <snippet>But the best of the story is that there isn't much--as such. A slice of living is put before us. Some things happen. That's all.</snippet>
+         <url>http://www.tnr.com/doc.mhtml?i=20051114&amp;s=kauffmann111405</url>
+         <critic>Stanley Kauffmann</critic>
+      </review>
+      <review>
+         <snippet>There's something refreshing about a film set in Los Angeles that gets its L.A.-ness right -- the difference in vibe between Silver Lake and the Hollywood Hills, or the types of people at CityWalk versus Saks. It is that sense of specificity, both geographic and emotional, that gives Shopgirl its pull.</snippet>
+         <url>http://www.laweekly.com/film/film_results.php?showid=3618&amp;Sumbit.x=69&amp;Sumbit.y=17</url>
+         <critic>Mark Olsen</critic>
+      </review>
+      <review>
+         <snippet>It's a minimalist almost-love story told with epic flourishes.</snippet>
+         <url>http://www.msnbc.msn.com/id/9785294/site/newsweek/</url>
+         <critic>David Ansen</critic>
+      </review>
+      <review>
+         <snippet>It's a movie, finally, that feels longer than its exquisitely brief source material, which is a crime of sorts.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/1130966702265260.xml&amp;coll=7</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>In their way, Mirabelle and Ray are the deracinated West Coast equivalents of a Woody Allen couple.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1120118_1_0_,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>The film ultimately lets Mirabelle down and leaves the viewer dissatisfied. A "Lost in Translation" drained of its wryly observed humor, Shopgirl is worth a browse. But it isn't always easy to buy.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2005-10-20-shopgirl_x.htm</url>
+         <critic>Susan Wloszczyna</critic>
+      </review>
+      <review>
+         <snippet>Still manages to be a Steve Martin vanity project in ways that are fairly creepy.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=4934</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>On the page Shopgirl was a small but fine Chekhovian thing, coasting along on Martin's omniscient narration and witty prose...The movie version locates roughly half of what worked in the novella.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-0501021-movies-review-shopgirl,0,7058677.story?coll=mmx-movies_top_heds</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>It's enjoyable and visually impressive, but this is a slender trifle of a film, one which charms you as you're watching it and then is all too quickly forgotten.</snippet>
+         <url>http://www.empireonline.com/incinemas/ReviewComplete.asp?FID=10248</url>
+         <critic>Caroline Westbrook</critic>
+      </review>
+      <review>
+         <snippet>One of the most schizoid films in recent memory. It opens with crystalline originality, a shimmering comedy with meticulous timing and sharply drawn characters. Then it careens carelessly into syrup. How could he (Martin) not have noticed?</snippet>
+         <url>http://dallasobserver.com/Issues/2005-11-03/film/film2.html</url>
+         <critic>Melissa Levine</critic>
+      </review>
+      <review>
+         <snippet>Martin hits all the right notes while subtly conveying both the appealing sophistication and the purposeful reserve of Ray. But he cannot entirely avoid being overshadowed by Dane's endearingly vulnerable, emotionally multifaceted and fearlessly open performance.</snippet>
+         <url>http://www.variety.com/review/VE1117928140?categoryid=31&amp;cs=1</url>
+         <critic>Joe Leydon</critic>
+      </review>
+      <review>
+         <snippet>Unfolds as a series of slightly disjointed vignettes, padded with redundant voiceover and an oppressively histrionic score.</snippet>
+         <url>http://www.villagevoice.com/film/0542,tracking10,68963,20.html</url>
+         <critic>Jessica Winter</critic>
+      </review>
+      <review>
+         <snippet>Without the saving grace of comedy, Martin's  natural abrasiveness is off-putting, and he just doesn't have the stuff of a romantic lead.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/246182_shopgirl28q.html</url>
+         <critic>William Arnold</critic>
+      </review>
+      <review>
+         <snippet>You keep expecting Shopgirl to get funny or sad or poignant; it never does. It just starts, then it's over.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1089419</url>
+         <critic>Stephen Hunter</critic>
+      </review>
+      <review>
+         <snippet>Where the book was preciously and carefully crafted, the movie just feels precious.</snippet>
+         <url>http://ae.miami.com/entertainment/ui/miami/movie.html?id=442470&amp;reviewId=19447</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>A glum meditation on isolation and romantic malaise.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/ArticleNews/TPStory/LAC/20051021/SHOP21/TPEntertainment/Film</url>
+         <critic>Liam Lacey</critic>
+      </review>
+      <review>
+         <snippet>Danes' smart, fun, radiant and very attractive Mirabelle actually undermines the premise of the book</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/moviereviews/story/357785p-304688c.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>In any case, the best performance is by Bridgette Wilson-Sampras as the conniving but peppy slut at the perfume counter. Her big scene--farcical, filthy, surprising--is also the best in the movie. Otherwise, Shopgirl is sadly vacuous, with a sadly vacuous center.</snippet>
+         <url>http://www.slate.com/id/2128545/?nav=fo</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>A romantic comedy with precious little romance and even less comedy.</snippet>
+         <url>http://spacefinder.chicagoreader.com/movies/briefs/28739_SHOPGIRL.html</url>
+         <critic>Meredith Brody</critic>
+      </review>
+      <review>
+         <snippet>The willowy Danes' rich, melancholy characterization is sown in a barren field of snippy attitude and too-cool posturing, and the film's disingenuous air of bittersweet chic becomes deeply tiresome long before it's over.</snippet>
+         <url>http://online.tvguide.com/movies/database/showmovie.asp?MI=46459</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>There's so little sexual chemistry between the actors in this film that it seems like a kind of accomplishment. I've seen shows on C-SPAN that were hotter than this.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2005/10/21/shopgirl/index.html?sid=1403904</url>
+         <critic>Andrew O&amp;#039;Hehir</critic>
+      </review>
+   </reviews>
+   <US_Gross>$10,284,523</US_Gross>
+   <weekend_gross>$229,685</weekend_gross>
+   <number_of_screens>8</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

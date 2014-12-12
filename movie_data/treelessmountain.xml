@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Treeless Mountain</name>
+   <company>Oscilloscope Pictures</company>
+   <genres>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author>So Yong Kim</author>
+   </authors>
+   <directors>
+      <director>So Yong Kim</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+      <origin>SouthKorea</origin>
+   </origins>
+   <actors>
+      <actor>Hee Yeon Kim</actor>
+      <actor>Song Hee Kim</actor>
+      <actor>Soo Ah Lee</actor>
+      <actor>Mi Hyang Kim</actor>
+      <actor>Boon Tak Park</actor>
+   </actors>
+   <release_date>April 22, 2009</release_date>
+   <running_time>89</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>In the end, this melancholy, inspiriting movie achieves a breathtaking emotional harmoniousness.</snippet>
+         <url>http://www.csmonitor.com/2009/0508/p17s03-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>A minimalist masterpiece.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2009/05/14/MV1P17IT9U.DTL&amp;type=movies</url>
+         <critic>G. Allen Johnson</critic>
+      </review>
+      <review>
+         <snippet>Treeless Mountain is skillfully unsentimental--because of, but also despite, the presence of two irresistible, unself-conscious performers in virtually every scene.</snippet>
+         <url>http://www.villagevoice.com/2009-04-22/film/pitch-perfect-child-performances-root-treeless-mountain-teen-trash-rots-the-informers/</url>
+         <critic>J. Hoberman</critic>
+      </review>
+      <review>
+         <snippet>The movie is thoroughly engrossing from the opening frame to the end credits, and it’s a beautiful viewing experience.</snippet>
+         <url>http://movies.tvguide.com/treeless-mountain/review/297215</url>
+         <critic>Bruce Eder</critic>
+      </review>
+      <review>
+         <snippet>Feels both masterful and hesitant - it’s the work of a born filmmaker who’s still not quite sure what she wants to say.</snippet>
+         <url>http://www.boston.com/ae/movies/articles/2009/06/19/treeless_mountain_shares_sad_story_of_two_seoul_sisters/</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>At times, Treeless Mountain almost feels like a fairy tale--but without the magic.</snippet>
+         <url>http://www.avclub.com/articles/treeless-mountain,27060/</url>
+         <critic>Noel Murray</critic>
+      </review>
+      <review>
+         <snippet>Both lovely and wrenching, So Yong Kim's intimate drama feels so honest, it's often difficult to watch.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2009/04/24/2009-04-24_short_takes.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>It's in this final chapter that the director states his message, which is handled so lightly, almost incidentally, you might miss it. But it's a profound one. For what the girls learn is that the way to get what they want -- no, need -- isn't by hoarding something, but by letting go.</snippet>
+         <url>http://www.washingtonpost.com/gog/movies/treeless-mountain,1156393.html</url>
+         <critic>Michael O&amp;#039;Sullivan</critic>
+      </review>
+      <review>
+         <snippet>With Treeless Mountain, Kim establishes herself as a first-class filmmaker.</snippet>
+         <url>http://www.nypost.com/seven/04222009/entertainment/movies/terms_of_abandonment_165531.htm</url>
+         <critic>V.A. Musetto</critic>
+      </review>
+      <review>
+         <snippet>Kim is deft and sensitive with her tiny co-stars, but Treeless Mountain lacks the freshness and surprise of "In Between Days."</snippet>
+         <url>http://www.latimes.com/entertainment/news/la-et-capsules8-2009may08,0,903960.story</url>
+         <critic>Ella Taylor</critic>
+      </review>
+      <review>
+         <snippet>Without wallowing in sentimentality or judging any of her characters, Kim has drawn a mature portrait of an elementary school girl old before her time and a loss of childhood that rings true on every level.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?rid=11777</url>
+         <critic>Elizabeth Kerr</critic>
+      </review>
+      <review>
+         <snippet>Delicate, wrenching, occasionally vexing.</snippet>
+         <url>http://nymag.com/movies/reviews/56142/index1.html</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>The problem is that while the children are lovely because they are children, there is nothing inherently interesting about them or their lives.</snippet>
+         <url>http://movies.nytimes.com/2009/04/22/movies/22tree.html?ref=movies</url>
+         <critic>Manohla Dargis</critic>
+      </review>
+      <review>
+         <snippet>The problem with this American indie filmed in Korea is that, despite the captivating faces and sad predicament of these little girls, nothing much happens.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A791806</url>
+         <critic>Marjorie Baumgarten</critic>
+      </review>
+   </reviews>
+   <US_Gross>$60,336</US_Gross>
+   <weekend_gross>$7,577</weekend_gross>
+   <number_of_screens>1</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

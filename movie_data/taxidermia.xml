@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Taxidermia</name>
+   <company>Regent Releasing</company>
+   <genres>
+      <genre/>
+   </genres>
+   <authors>
+      <author/>
+   </authors>
+   <directors>
+      <director/>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors/>
+   <release_date>August 14, 2009</release_date>
+   <running_time>minutes,</running_time>
+   <rating/>
+   <reviews>
+      <review>
+         <snippet>Only for fans of the bizarre and certainly not for those with even a faintly weak stomach. But for those meeting both qualifications: Welcome to a devious little nightmare.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=10018</url>
+         <critic>Matthew Sorrento</critic>
+      </review>
+      <review>
+         <snippet>A brilliant, often grotesquely bizarre allegory on life in Hungary from World War II to the present.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-capsules14-2009aug14,0,2850350.story</url>
+         <critic>Kevin Thomas</critic>
+      </review>
+      <review>
+         <snippet>Belongs to a school of Central European surrealism that marries nightmarish horror with formal beauty.</snippet>
+         <url>http://movies.nytimes.com/2009/08/14/movies/14taxidermia.html?ref=movies</url>
+         <critic>Stephen Holden</critic>
+      </review>
+      <review>
+         <snippet>Taxidermia sets a benchmark for body horror in the cinema.</snippet>
+         <url>http://www.variety.com/review/VE1117929482.html?categoryid=31&amp;cs=1&amp;p=0</url>
+         <critic>Eddie Cockrell</critic>
+      </review>
+      <review>
+         <snippet>For a film so pessimistic about mankind, Taxidermia erupts with some light-hearted technical inspiration: Cinematographer Gergely Poharnok's compositions are wickedly hilarious, while production designer Adrien Asztalos' concoctions are peculiarly gross.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?rid=457</url>
+         <critic>Duane Byrge</critic>
+      </review>
+      <review>
+         <snippet>All this helps to shape Pálfi’s crudely bombastic but impressive philosophical view of the body as landscape and art, a source of personal discovery, wonder and annihilation.</snippet>
+         <url>http://www.laweekly.com/2009-08-13/film-tv/movie-reviews-bandslam-flame-amp-citron-the-time-traveler-39-s-wife/3</url>
+         <critic>Ed Gonzalez</critic>
+      </review>
+      <review>
+         <snippet>Frequently funny, for those who can stomach it.</snippet>
+         <url>http://www.avclub.com/articles/taxidermia,31959/</url>
+         <critic>Noel Murray</critic>
+      </review>
+      <review>
+         <snippet>Keeping it surreal has never been so nauseating and, at times, hilarious.</snippet>
+         <url>http://www.empireonline.com/reviews/reviewcomplete.asp?FID=135067</url>
+         <critic>Patrick Peters</critic>
+      </review>
+      <review>
+         <snippet>Despite its stomach-turning images (and maybe because of), it is a daring, provocative work by a talented helmer who gets off pushing the envelope. He should be supported, no matter how outlandish he gets.</snippet>
+         <url>http://www.nypost.com/seven/08142009/entertainment/movies/this_has_far_too_many_gags_184424.htm</url>
+         <critic>V.A. Musetto</critic>
+      </review>
+   </reviews>
+   <US_Gross>$10,205</US_Gross>
+   <weekend_gross>$4,472</weekend_gross>
+   <number_of_screens>2</number_of_screens>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

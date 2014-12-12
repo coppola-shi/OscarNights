@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Shotgun Stories</name>
+   <company>IFC First Take</company>
+   <genres>
+      <genre>Drama</genre>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>Jeff Nichols</author>
+   </authors>
+   <directors>
+      <director>Jeff Nichols</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Michael Shannon</actor>
+      <actor>Barlow Jacobs</actor>
+      <actor>Natalie Canerday</actor>
+      <actor>Glenda Pannell</actor>
+      <actor>Michael Abbott Jr.</actor>
+      <actor>Travis Smith</actor>
+   </actors>
+   <release_date>March 26, 2008</release_date>
+   <running_time>92</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>An allegory of our times, Shotgun Stories is a tragedy of biblical scale and an intimate family drama. Unlike the more lauded films of last year, which glorified a national preoccupation with bloody deeds, Shotgun Stories is a passionate cry to end the violence and a reminder that we, as free individuals, have the power to determine our own destinies.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/362286_limited09.html</url>
+         <critic>Bill White</critic>
+      </review>
+      <review>
+         <snippet>Here is a tense and sorrowful film where common sense struggles with blood lust.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20080605/REVIEWS/806050305</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>An understated gem. Writer-director Jeff Nichols, making his feature debut, has created a richly textured world.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-shotgun25apr25,0,1387923.story</url>
+         <critic>Michael Ordona</critic>
+      </review>
+      <review>
+         <snippet>Well-plotted, with a strong lead performance by Michael Shannon, and a fair amount of authentic regional flavor. It isn't really meant to be a treatise on Southern life. At heart, it's a country-fried genre film, minus the peppery white gravy.</snippet>
+         <url>http://www.avclub.com/content/cinema/shotgun_stories</url>
+         <critic>Noel Murray</critic>
+      </review>
+      <review>
+         <snippet>The film is a here-and-now American potboiler and a stripped-down parable that can be appreciated by any culture.</snippet>
+         <url>http://movies.nytimes.com/2008/03/26/movies/26shot.html?ref=movies</url>
+         <critic>Matt Zoller Seitz</critic>
+      </review>
+      <review>
+         <snippet>The cast deliver consistently fine, subtle performances, underscored by Ben Nichols' mournfully melodic guitar score.</snippet>
+         <url>http://www.tvguide.com/movies/shotgun-stories/review/293091</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>It's rare that a picture that deals with as much tragedy as this one also manages to convey as much warmth to its characters.</snippet>
+         <url>http://www.premiere.com/moviereviews/4476/shotgun-stories.html</url>
+         <critic>Glenn Kenny</critic>
+      </review>
+      <review>
+         <snippet>An austere rural landscape, festering hatred, class tensions, terse dialogue - these are common currency in indie movies these days. Shotgun Stories uses them all, but manages to stand out from the crowd.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2008/04/03/DD0BVUQPL.DTL#flick</url>
+         <critic>Walter Addiego</critic>
+      </review>
+      <review>
+         <snippet>Director Jeff Nichols lets the action unfold slowly following an impromptu insult, but the escalation of hatred and pain feels natural.</snippet>
+         <url>http://chicago.metromix.com/movies/movie_review/movie-review-shotgun-stories/444284/content</url>
+         <critic>Maureen M. Hart</critic>
+      </review>
+      <review>
+         <snippet>At the center of the film is a keenly understated performance by Michael Shannon (Bug, Before the Devil Knows You're Dead) as the eldest of the cast-off sons.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/33222_SHOTGUN_STORIES.html</url>
+         <critic>Joshua Katzman</critic>
+      </review>
+      <review>
+         <snippet>In this tense, lyrical and bone-spare slice-of-death drama by writer-director Jeff Nichols, Shannon gets a role tailored to his lanky Middle American boyishness and the demons peering from behind it.</snippet>
+         <url>http://www.laweekly.com/film+tv/film-reviews/movie-reviews-body-of-war-four-minutes-shotgun/18773/?page=3</url>
+         <critic>Jim Ridley</critic>
+      </review>
+      <review>
+         <snippet>Thesping is pitch-perfect across the board.</snippet>
+         <url>http://www.variety.com/index.asp?layout=festivals&amp;jump=review&amp;id=2478&amp;reviewid=VE1117932760&amp;cs=1&amp;p=0</url>
+         <critic>Eddie Cockrell</critic>
+      </review>
+      <review>
+         <snippet>The movie makes you empathize with the rage that drives these young men to violence--but it also makes you see how manly action wipes out their individuality, their uniqueness, and turns them into archetypal meatheads.</snippet>
+         <url>http://nymag.com/movies/reviews/45326/</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>Features a riveting performance by Michael Shannon as oldest son Son. He's definitely an actor to watch.</snippet>
+         <url>http://www.nypost.com/seven/03282008/entertainment/movies/shotgun_stories_103823.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>An interesting first effort from Nichols - making him a director to look out for in the future.</snippet>
+         <url>http://www.empireonline.com/reviews/reviewcomplete.asp?FID=135552</url>
+         <critic>Ross Bennett</critic>
+      </review>
+   </reviews>
+   <US_Gross>$45,661</US_Gross>
+   <weekend_gross>$4,553</weekend_gross>
+   <number_of_screens>1</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

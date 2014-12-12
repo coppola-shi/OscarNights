@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Fly Me to the Moon</name>
+   <company>Summit Entertainment</company>
+   <genres>
+      <genre>Adventure</genre>
+      <genre>Animation</genre>
+      <genre>FamilyKids</genre>
+   </genres>
+   <authors>
+      <author>Domonic Paris</author>
+   </authors>
+   <directors>
+      <director>Ben Stassen</director>
+   </directors>
+   <origins>
+      <origin>Belgium</origin>
+   </origins>
+   <actors>
+      <actor>Nicolette Sheridan</actor>
+      <actor>Tim Curry</actor>
+      <actor>Christopher Lloyd</actor>
+      <actor>Robert Patrick</actor>
+      <actor>Kelly Ripa</actor>
+      <actor>Adrienne Barbeau</actor>
+      <actor>Ed Begley Jr.</actor>
+      <actor>Buzz Aldrin</actor>
+   </actors>
+   <release_date>August 15, 2008</release_date>
+   <running_time>84</running_time>
+   <rating>G</rating>
+   <reviews>
+      <review>
+         <snippet>Will probably pass muster with very young viewers, but their parents may grit their teeth at its saccharine quality.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2008/08/14/DDSP1227GH.DTL&amp;type=movies</url>
+         <critic>Walter Addiego</critic>
+      </review>
+      <review>
+         <snippet>Brisk and sweet, even if the script veers toward fussy and lame.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20219197,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>Fly Me to the Moon is a crummy movie for kids, yet it still holds out the prospect of past wonders and future marvels. It's one small step for a housefly, one giant leap for 3-D.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=10968</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>The animation IS great and absolutely so fantastic you'll want to reach out and touch the creatures - or swat them off your uncomfortable 3-D glasses.</snippet>
+         <url>http://www.nypost.com/seven/08152008/entertainment/movies/3_d_art_soars__but_lunar_toon_plot_wont__124497.htm</url>
+         <critic>Linda Stasi</critic>
+      </review>
+      <review>
+         <snippet>Would be totally unexceptional if not for its visual telling of the Apollo 11 flight and the fact that the movie is impressively shot - the first animated feature film in 3-D.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/375020_flymetomoon15q.html</url>
+         <critic>Paula Nechak</critic>
+      </review>
+      <review>
+         <snippet>The script appears to have been designed, created and produced entirely in 1-D: a mishmash of kidcentric antics, follow-your-dream cliches, and innocuously icky humor.</snippet>
+         <url>http://www.philly.com/inquirer/columnists/steven_rea/20080815_Two_swats_for_a_hard-to-swallow_fly_flick.html</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>An awkward mix of proficient 3-D animation, detailed technical recreation and strained storytelling that stalls on takeoff.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/imdb/reviews/article_display.jsp?rid=11499&amp;vnu_special_account_code=thrsiteimdbpro</url>
+         <critic>Michael Rechtshaffen</critic>
+      </review>
+      <review>
+         <snippet>It’s a wingless exercise, despite a rather heartening attitude toward space travel that will introduce young auds to the glory that was NASA in the '60s.</snippet>
+         <url>http://www.variety.com/review/VE1117937927.html?categoryid=31&amp;cs=1</url>
+         <critic>John Anderson</critic>
+      </review>
+      <review>
+         <snippet>What saves Fly Me to the Moon from being a total wash is the actual mission itself.</snippet>
+         <url>http://www.miamiherald.com/entertainment/movies/reviews/story/641464.html</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>Despite some Cold War humor, the formulaic film is aimed squarely at the youngest of young children.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1136256&amp;categories=Movies</url>
+         <critic>Michael O&amp;#039;Sullivan</critic>
+      </review>
+      <review>
+         <snippet>Go to enjoy the technical expertise, and take a first-grader (and not a particularly savvy one) along to find something of value in everything else.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/reviews/bal-to.moon15aug15,0,170543.story</url>
+         <critic>Chris Kaltenbach</critic>
+      </review>
+      <review>
+         <snippet>This oddly paced kids' entertainment displays flashes of intelligence -- then misspells terms on NASA control panels.</snippet>
+         <url>http://www.latimes.com/entertainment/news/reviews/la-et-capsules15-2008aug15,0,5341961.story</url>
+         <critic>Michael Ordona</critic>
+      </review>
+      <review>
+         <snippet>This sketchily conceived and executed space yarn is one missed opportunity after another.</snippet>
+         <url>http://www.villagevoice.com/2008-08-12/film/fly-me-to-the-moon/</url>
+         <critic>Ed Gonzalez</critic>
+      </review>
+      <review>
+         <snippet>All of this is interesting, but not all that entertaining.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20080815.wfly15/BNStory/Entertainment/home</url>
+         <critic>Stephen Cole</critic>
+      </review>
+      <review>
+         <snippet>One of the most undermotivated plots in many a moon, the zero-wit, zero-gravity misadventures of Nat, I.Q. and Scooter are embarked on merely because they're bored on their garbage dump.</snippet>
+         <url>http://movies.nytimes.com/2008/08/15/movies/15moon.html?ref=movies</url>
+         <critic>Nathan Lee</critic>
+      </review>
+      <review>
+         <snippet>The little heroes and their families are surprisingly ugly, with faces resembling skulls, and the colors are so faded and muddy the movie feels tired and bungled.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/32884_FLY_ME_TO_THE_MOON.html</url>
+         <critic>Andrea Gronvall</critic>
+      </review>
+      <review>
+         <snippet>The vocal characterizations aren't the problem here; the script and the animation are the problems, and in feature animation, you can't arrange more significant problems than those.</snippet>
+         <url>http://chicago.metromix.com/movies/movie_review/movie-review-fly-me/553250/content</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>The film still suffers from cheap plasticky design, a klutzy overall look, dim preschooler humor, and a nearly impact-free story that thinks it's clever when it steals cues from 2001.</snippet>
+         <url>http://www.avclub.com/content/cinema/fly_me_to_the_moon</url>
+         <critic>Tasha Robinson</critic>
+      </review>
+      <review>
+         <snippet>A tribute to a giant leap for mankind feels like a clumsy shuffle backward for animation.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2008-08-14-fly-me_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>Adding to weirdness is a tacked-on, live-action appearance from the real Aldrin, who reassures kids and terrified X-Files fans that there weren't, in fact, any houseflies on board Apollo 11.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A660157</url>
+         <critic>Marc Savlov</critic>
+      </review>
+      <review>
+         <snippet>Forgive us for being demanding, but shouldn't an animated kids movie like this one be, at the very least, fun? Cute? Watchable?</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2008/08/15/2008-08-15_short_takes_for_the_weekend_of_august_15.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+   </reviews>
+   <US_Gross>$14,532,946</US_Gross>
+   <production_budget>$25,000,000</production_budget>
+   <weekend_gross>$1,900,523</weekend_gross>
+   <number_of_screens>452</number_of_screens>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

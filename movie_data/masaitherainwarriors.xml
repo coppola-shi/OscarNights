@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Masai: The Rain Warriors</name>
+   <company>ArtMattan Productions</company>
+   <genres>
+      <genre>Drama</genre>
+      <genre>Foreign</genre>
+   </genres>
+   <authors>
+      <author>Olivier Dazat</author>
+      <author>Pascal Plisson</author>
+   </authors>
+   <directors>
+      <director>Pascal Plisson</director>
+   </directors>
+   <origins>
+      <origin>France</origin>
+   </origins>
+   <actors>
+      <actor>Ngotiek Ole Mako</actor>
+      <actor>Paul Nteri Ole Sekenan</actor>
+      <actor>Parkasio Ole Muntet</actor>
+      <actor>Musurpei Ole Toroge</actor>
+      <actor>Swakei Kipilosh</actor>
+      <actor>Kiaki Ole Narikae</actor>
+      <actor>Peniki Ole Soyiantet</actor>
+      <actor>John Parkuyere Nkinai</actor>
+   </actors>
+   <release_date>October 20, 2006</release_date>
+   <running_time>94</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>The French filmmakers lend it their special aesthetic/dramatic sense, and the Masai actors ground the story in everyday realism and humanity. Together, they create a film and a legend to remember.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-070202-movies-review-rain,0,6052479.story</url>
+         <critic>Michael Wilmington</critic>
+      </review>
+      <review>
+         <snippet>The film has its flaws -- the length of the arduous journey certainly could be conveyed with greater economy, the action is not dynamically depicted and the lack of character development makes it occasionally difficult to follow -- but the earnest minimalism of "Masai" makes it an unusual moviegoing experience.</snippet>
+         <url>http://www.calendarlive.com/movies/cl-et-masai10nov10,0,5885381.story</url>
+         <critic>Michael Ordoña</critic>
+      </review>
+      <review>
+         <snippet>Dazat coscripted, felicitously blending elements of documentary and travelogue much as he did in Himalaya. The resulting portrait sidesteps ethnography yet conveys the essence of a magnificent people.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/capsules/30994_MASAI_THE_RAIN_WARRIORS_MASSAI_LES_GUERRIERS_DE_LA_PLUIE</url>
+         <critic>Andrea Gronvall</critic>
+      </review>
+      <review>
+         <snippet>Not as morose as it sounds, the film also features playful humor and steady promises of hope. And the boys, like the film, come off as very human: flawed, frequently awkward, but full of goodness at the core.</snippet>
+         <url>http://movies2.nytimes.com/mem/movies/review.html?res=9E0CE0D61F30F933A15753C1A9609C8B63</url>
+         <critic>Laura Kern</critic>
+      </review>
+      <review>
+         <snippet>Overall, film may feel too slow and didactic for contempo urban kids conditioned by video games. However, the script is never smarmy or complacent, and shows young people engaged in collective problem-solving and decision-making that is often, quite literally, a matter of life and death.</snippet>
+         <url>http://www.variety.com/review/VE1117926374.html?categoryid=31&amp;cs=1</url>
+         <critic>Lisa Nesselson</critic>
+      </review>
+      <review>
+         <snippet>As our warriors encounter the Kenyan equivalents of Cyclopes and Sirens, the languid pace and the lulling voice-over (French subtitled in English) make for a nice bedtime story rather than a window on primal struggles.</snippet>
+         <url>http://www.laweekly.com/film+tv/film-reviews/film-reviews/14983/?page=4</url>
+         <critic>Greg Burk</critic>
+      </review>
+   </reviews>
+   <US_Gross>$7,650</US_Gross>
+   <weekend_gross>$788</weekend_gross>
+   <number_of_screens>1</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

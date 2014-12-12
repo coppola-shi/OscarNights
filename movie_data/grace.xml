@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Grace</name>
+   <company>Anchor Bay Entertainment</company>
+   <genres>
+      <genre>Drama</genre>
+      <genre>Horror</genre>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>Paul Solet</author>
+   </authors>
+   <directors>
+      <director>Paul Solet</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+      <origin>Canada</origin>
+   </origins>
+   <actors>
+      <actor>Jordan Ladd</actor>
+      <actor>Stephen Park</actor>
+   </actors>
+   <release_date>August 14, 2009</release_date>
+   <running_time>85</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>Grace crosses our taboo lines over and over again. As we are under the general (mis)conception that babies are a blessing sent from God, Grace violates all that is good and natural in the world. And that’s why it’s so awesome.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=11530</url>
+         <critic>Whitney Borup</critic>
+      </review>
+      <review>
+         <snippet>In the showdown between mother and mother-in-law, the proceedings are peppered with spasm of violence that are alternately sick-funny and downright chilling, but don't cancel out the intelligence, or at least drollery, with which so much of the film is put together.</snippet>
+         <url>http://www.variety.com/review/VE1117939454.html?categoryid=31&amp;cs=1&amp;query=grace</url>
+         <critic>John Anderson</critic>
+      </review>
+      <review>
+         <snippet>Mr. Solet does not possess anything close to Mr. Polanski’s storytelling or image-making skills, but with the help of his sound crew (four people are given sound design or editing credits), he keeps you on the edge of your seat, or perhaps the edge of fleeing the theater.</snippet>
+         <url>http://movies.nytimes.com/2009/08/14/movies/14grace.html?ref=movies</url>
+         <critic>Mike Hale</critic>
+      </review>
+      <review>
+         <snippet>Grace doesn't need a high body count to frighten, although its gore is stomach-turning. It's a horrifying meditation on the unbreakable union of mother and child.</snippet>
+         <url>http://www.latimes.com/entertainment/news/la-et-capsules14-2009aug14,0,3663244.story</url>
+         <critic>Michael Ordoña</critic>
+      </review>
+      <review>
+         <snippet>A muddled, logic-starved provocation, Grace avoids smugness by refusing to play its body horror for sh**s and giggles, but its resonance is purely atmospheric.</snippet>
+         <url>http://www.villagevoice.com/2009-08-11/film/grace-a-cautionary-tale-of-lesbian-vegans-maybe/</url>
+         <critic>Ed Gonzalez</critic>
+      </review>
+      <review>
+         <snippet>Whimpers a bit like "Rosemary's Baby" and gurgles occasionally like "The Exorcist," but the video look and bare-bones craftsmanship all scream B movie.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film-reviews/grace-film-review-1004003170.story</url>
+         <critic>Doris Toumarkine</critic>
+      </review>
+   </reviews>
+   <US_Gross>$8,297</US_Gross>
+   <weekend_gross>$6,174</weekend_gross>
+   <number_of_screens>2</number_of_screens>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

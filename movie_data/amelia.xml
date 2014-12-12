@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Amelia</name>
+   <company>Fox Searchlight Pictures</company>
+   <genres>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author>Ronald Bass</author>
+      <author>Anna Hamilton Phelan</author>
+   </authors>
+   <directors>
+      <director>Mira Nair</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Hilary Swank</actor>
+      <actor>Richard Gere</actor>
+      <actor>Ewan McGregor</actor>
+      <actor>Christopher Eccleston</actor>
+      <actor>Mia Wasikowska</actor>
+   </actors>
+   <release_date>October 23, 2009</release_date>
+   <running_time>111</running_time>
+   <rating>PG</rating>
+   <reviews>
+      <review>
+         <snippet>Most of all, Earhart wanted to be able to fly free as a bird above the clouds, and director Nair and star Swank make her quest not only understandable but truly impressive.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film-reviews/amelia-film-review-1004023274.story</url>
+         <critic>Ray Bennett</critic>
+      </review>
+      <review>
+         <snippet>When this actor (Swank) steps into the right role, she wears and inspires it like Denzel Washington.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=11955</url>
+         <critic>Matthew Sorrento</critic>
+      </review>
+      <review>
+         <snippet>A perfectly sound biopic, well directed and acted, about an admirable woman. It confirmed for me Earhart's courage -- not only in flying, but in insisting on living her life outside the conventions of her time for well-behaved females. The next generation of American women grew up in her slipstream.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20091021/REVIEWS/910219989/1023</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>Swank is no mere impersonator. Her Amelia, like Maggie in "Million Dollar Baby," is unwavering in her gaze, ambition, and drive... In Nair's evocatively art-directed (and sensationally costumed) film, Earhart comes alive.</snippet>
+         <url>http://www.philly.com/inquirer/columnists/carrie_rickey/20091023_Swank_soars_as_flier_Amelia_Earhart.html</url>
+         <critic>Carrie Rickey</critic>
+      </review>
+      <review>
+         <snippet>Inside Amelia is a sharp idea struggling to get out: How does a woman marketed to the public as a star turn herself back into a human being? And at what cost?</snippet>
+         <url>http://www.boston.com/ae/movies/articles/2009/10/23/amelia_explores_how_a_pilot_became_a_celebrity/</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>The actress and the aviatrix are a match made in heaven, but surrounding the soaring performance is a movie that's mostly earthbound.</snippet>
+         <url>http://www.stltoday.com/stltoday/entertainment/reviews.nsf/movie/story/03972EB7D28CF46D8625765600640091?OpenDocument</url>
+         <critic>Joe Williams</critic>
+      </review>
+      <review>
+         <snippet>This movie was made to be shown to junior high history classes, not audiences in a movie theater.</snippet>
+         <url>http://www.reelviews.net/php_review_template.php?identifier=1845</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>In an ironic twist, Mira Nair's big-hearted yet by-the-numbers biopic of Amelia Earhart never -- unlike the famous aviatrix -- takes chances.</snippet>
+         <url>http://www.miamiherald.com/entertainment/movies/reviews/story/1294344.html</url>
+         <critic>Connie Ogle</critic>
+      </review>
+      <review>
+         <snippet>Amelia goes airborne but never fully soars.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2009-10-22-amelia_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>Swank’s moving performance, the period dressing and beautiful planes all appeal, but dramatically it doesn’t really soar.</snippet>
+         <url>http://www.empireonline.com/reviews/reviewcomplete.asp?FID=135641</url>
+         <critic>Angie Errigo</critic>
+      </review>
+      <review>
+         <snippet>A frustratingly old-school, Hollywood-style, inspirational biopic about Amelia Earhart that doesn't trust a viewer's independent assessment of the famous woman pictured on the screen.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20314421,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>Distressingly ordinary for such an extraordinary subject.</snippet>
+         <url>http://featuresblogs.chicagotribune.com/talking_pictures/</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>A lazy coffee-table book of a movie,</snippet>
+         <url>http://www.nypost.com/p/entertainment/movies/st_class_seat_to_dullsville_88DFTJtsSV0FHqg6gYUGpK</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>Amelia is the Mack truck of flight. Heavy and lumbering, it delivers the goods, but there's not an ounce of magic in the thing.</snippet>
+         <url>http://www.theglobeandmail.com/news/arts/amelia/article1334395/</url>
+         <critic>Rick Groen</critic>
+      </review>
+      <review>
+         <snippet>The film's basic material, that is the history, is not without interest. And it must be admitted that every so often - for about 10 seconds every 10 minutes - we get a hint of the movie they wanted to make and hoped they were making: One about the thrill of early aviation and the promise of a young century.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2009/10/22/MVMS1A8RP2.DTL</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>Perhaps Nair believes that heroism in our tabloid era has become degraded. If so, she overcorrected. Amelia is so pure in heart that it slides right off the screen.</snippet>
+         <url>http://www.csmonitor.com/2009/1023/p17s04-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>It's enough to make you wish someone would make a movie about her.</snippet>
+         <url>http://www.slate.com/id/2233305/</url>
+         <critic>Dana Stevens</critic>
+      </review>
+      <review>
+         <snippet>Amelia is handsome yet predictable and high-minded--not a dud, exactly, but too proper, too reserved for its swaggering subject.</snippet>
+         <url>http://www.newyorker.com/arts/critics/cinema/2009/11/02/091102crci_cinema_denby</url>
+         <critic>David Denby</critic>
+      </review>
+      <review>
+         <snippet>Most devastating to the film’s effectiveness is its inability to convey that one essential to the story of Amelia Earhart: the tangible pleasures of flying.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A896842</url>
+         <critic>Kimberley Jones</critic>
+      </review>
+      <review>
+         <snippet>Amelia is a stunted epic, an ambitious and handsome-looking picture that tells its story in the dullest, most confusing way possible.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2009/10/22/amelia/index.html</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>There’s nothing more boring than a life embalmed with halfhearted Hollywood bombast, which only makes the film’s fleeting pleasures stand out all the more.</snippet>
+         <url>http://newyork.timeout.com/articles/film/79808/amelia-film-review</url>
+         <critic>Keith Uhlich</critic>
+      </review>
+      <review>
+         <snippet>So a pioneering feminist in the hands of a feminist filmmaker should have been a perfect match. But like her subject, the filmmaker gets lost in the clouds.</snippet>
+         <url>http://www.latimes.com/entertainment/news/la-et-amelia23-2009oct23,0,7176919.story</url>
+         <critic>Betsy Sharkey</critic>
+      </review>
+      <review>
+         <snippet>The result is verisimilitude without engagement -- a risk-taker's story told entirely without narrative risk -- and a movie that consequently never takes flight.</snippet>
+         <url>http://www.npr.org/templates/story/story.php?storyId=113881404</url>
+         <critic>Bob Mondello</critic>
+      </review>
+      <review>
+         <snippet>There's so much pluck and gumption on the screen you can smell it. Flesh and blood? Not so much.</snippet>
+         <url>http://www.washingtonpost.com/wp-dyn/content/article/2009/10/22/AR2009102201462.html</url>
+         <critic>Michael O&amp;#039;Sullivan</critic>
+      </review>
+      <review>
+         <snippet>It’s all so glancing and superficial that the movie doesn’t seem to have a present tense. It goes by like coming attractions. It is, however, a treasury of bad biopic dialogue.</snippet>
+         <url>http://nymag.com/movies/reviews/60294/index1.html</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>Drawn from two Earhart bios, Mira Nair’s dull hagiography comes in about 111 minutes too long.</snippet>
+         <url>http://www.laweekly.com/2009-10-22/film-tv/movie-reviews-amelia-astro-boy-saw-vi/</url>
+         <critic>Nick Pinkerton</critic>
+      </review>
+      <review>
+         <snippet>What rankles most about Amelia is the timidity and lack of imagination with which Nair approaches one of America's most exceptional and intriguing celebrity life stories.</snippet>
+         <url>http://www.variety.com/review/VE1117941396.html?categoryid=31&amp;cs=1</url>
+         <critic>Justin Chang</critic>
+      </review>
+      <review>
+         <snippet>With any luck this biopic of Amelia Earhart will also vanish without a trace. Hilary Swank is sorely miscast as the legendary aviator.</snippet>
+         <url>http://www.chicagoreader.com/chicago/MovieTimes?film=977567</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>Considering its focus on a pioneering, rule-breaking icon, the film’s utter lack of personality isn’t just a failure. It’s close to an insult.</snippet>
+         <url>http://www.avclub.com/articles/amelia,34438/</url>
+         <critic>Sam Adams</critic>
+      </review>
+      <review>
+         <snippet>There’s not a real or spontaneous minute in it.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/30552766/review/30604011/amelia</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>Better luck trying to find out what truly happened to the real Earhart than trying to diagnose all that's wrong with this hapless film.</snippet>
+         <url>http://blog.oregonlive.com/madaboutmovies/2009/10/review_--_amelia_the_lady_vani.html</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>Tis embalmed drama is a ghost from the '80s, a decade that regularly produced surprise-free, caramelized biopics. The airless Amelia is missing practically everything.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2009/10/23/2009-10-23_amelia_hilary_.html</url>
+         <critic>Joe Neumaier</critic>
+      </review>
+      <review>
+         <snippet>Amelia Earhart is still missing.</snippet>
+         <url>http://online.wsj.com/article/film_review.html</url>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>Alas, excesses of any pleasurable kind are absent from this exasperatingly dull production.</snippet>
+         <url>http://movies.nytimes.com/2009/10/23/movies/23amelia.html?ref=movies</url>
+         <critic>Manohla Dargis</critic>
+      </review>
+   </reviews>
+   <US_Gross>$14,246,488</US_Gross>
+   <production_budget>$40,000,000</production_budget>
+   <weekend_gross>$3,904,047</weekend_gross>
+   <number_of_screens>820</number_of_screens>
+   <oscar_winning_actors_present/>
+   <num_oscar_winning_actors>1</num_oscar_winning_actors>
+   <oscar_winning_actor>hilary swank</oscar_winning_actor>
+   <highest_grossing_actors_present/>
+   <num_highest_grossing_actors>1</num_highest_grossing_actors>
+   <highest_grossing_actor>ewan mcgregor</highest_grossing_actor>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

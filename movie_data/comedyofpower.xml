@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Comedy of Power</name>
+   <company>Koch Lorber Films</company>
+   <genres>
+      <genre>Comedy</genre>
+      <genre>Drama</genre>
+      <genre>Foreign</genre>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>Odile Barski</author>
+      <author>Claude Chabrol</author>
+   </authors>
+   <directors>
+      <director>Claude Chabrol</director>
+   </directors>
+   <origins>
+      <origin>France</origin>
+   </origins>
+   <actors>
+      <actor>Isabelle Huppert</actor>
+      <actor>François Berlé</actor>
+      <actor>Patrick Bruel</actor>
+      <actor>Marilyne Canto</actor>
+      <actor>Robin Renucci</actor>
+      <actor>Thomas Chabrol</actor>
+      <actor>Jean-François Balmer</actor>
+      <actor>Pierre Vernier</actor>
+   </actors>
+   <release_date>January 5, 2007</release_date>
+   <running_time>110</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>It's not often that you see the craft of cinema so perfectly executed--or a group of fancy scoundrels so ruthlessly caught and skewered. Comedy of Power, like all of Chabrol's Hitchcockian films, is dark, smart and delicious.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-070302-movies-review-power,0,452088.story?coll=mmx-movies_top_heds</url>
+         <critic>Michael Wilmington</critic>
+      </review>
+      <review>
+         <snippet>A well-designed vehicle for the director's long-time star, Isabelle Huppert, whose focused portrayal makes this film a well-honed character study.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=10008</url>
+         <critic>Matthew Sorrento</critic>
+      </review>
+      <review>
+         <snippet>In many ways a meandering film, a collection of good scenes.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2007/04/20/DDGOKPB4CP1.DTL#flick</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>One of Claude Chabrol's most satisfyingly astringent films in years.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/capsules/30458_COMEDY_OF_POWER</url>
+         <critic>Richard M. Porton</critic>
+      </review>
+      <review>
+         <snippet>As ever, Mr. Chabrol’s style is delicate and precise. Comedy of Power is not his deepest or most ambitious film, and its stance of knowing resignation in the face of corruption can feel a little glib. But Ms. Huppert's ferocity compensates for the director's detachment; no French actress is as riveting to watch once the gloves come off.</snippet>
+         <url>http://movies2.nytimes.com/2007/01/05/movies/05come.html?ref=movies</url>
+         <critic>A.O. Scott</critic>
+      </review>
+      <review>
+         <snippet>Draggy for long stretches, and never funny, Comedy of Power is a showcase - as if she needed another - for Huppert's chameleon qualities. She's an actress who can make a phone-book reading interesting, and that is pretty much the challenge she meets here.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/moviereviews/story/485794p-408906c.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>Title notwithstanding, there's nothing particularly funny about this political drama from the tireless Claude Chabrol.</snippet>
+         <url>http://tvguide.com/detail/movie.aspx?tvobjectid=285478&amp;more=ucmoviereview</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>This movie can't commit to a genre, let alone a logical sequence or complete idea. But there is a wisdom in its blasé assessments and frivolous air: What's the point; where's the wine?</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=9360</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>While the picture may be too subtle and oblique in places for more general audiences, it remains enjoyable as a sardonic glimpse of unspoken codes at the intersection of politics and business.</snippet>
+         <url>http://www.variety.com/index.asp?layout=features2006&amp;content=jump&amp;jump=review&amp;head=berlin&amp;nav=RBerlin&amp;articleid=VE1117929563&amp;cs=1&amp;p=0</url>
+         <critic>Lisa Nesselson</critic>
+      </review>
+      <review>
+         <snippet>An enjoyable but curiously weightless trifle that lowers rather than raises the temperature of the affair. Comedy of Power has to be the most polite, untroubled conspiracy film since the genre first tapped a phone.</snippet>
+         <url>http://www.villagevoice.com/film/0701,ridley,75440,20.html</url>
+         <critic>Jim Ridley</critic>
+      </review>
+      <review>
+         <snippet>The movie is too parochial for a wide audience. The French judicial system is totally alien to Americans, for instance, plus the film is a talkathon.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?&amp;rid=232</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>Chabrol has fashioned a mystery that caves in on itself, but unfortunately, it caves in on the audience, too.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20008794,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>At age 76, Chabrol seems to be just going through the motions, but anyone who has helmed 70 films ("Les Bonnes Femmes" and "La Ceremonie," for example) is entitled to an off day. Look for him to dazzle us next time out.</snippet>
+         <url>http://www.nypost.com/seven/01052007/entertainment/movies/scandal_sans_suspense_movies_v_a__musetto.htm</url>
+         <critic>V.A. Musetto</critic>
+      </review>
+   </reviews>
+   <US_Gross>$80,550</US_Gross>
+   <weekend_gross>$10,061</weekend_gross>
+   <number_of_screens>1</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>In the Shadow of the Moon</name>
+   <company>ThinkFilm</company>
+   <genres>
+      <genre>Documentary</genre>
+   </genres>
+   <authors>
+      <author/>
+   </authors>
+   <directors>
+      <director>David Sington</director>
+   </directors>
+   <origins>
+      <origin>UK</origin>
+   </origins>
+   <actors>
+      <actor>Buzz Aldrin</actor>
+      <actor>Alan Bean</actor>
+      <actor>Eugene Cernan</actor>
+      <actor>Michael Collins</actor>
+      <actor>Jim Lovell</actor>
+      <actor>Edgar D. Mitchell</actor>
+      <actor>Harrison Schmitt</actor>
+   </actors>
+   <release_date>September 7, 2007</release_date>
+   <running_time>100</running_time>
+   <rating>PG</rating>
+   <reviews>
+      <review>
+         <snippet>In the Shadow of the Moon finds new resonance in the moment when America redefined progress -- but also when it heeded the siren song of a world so desolate it reminded you what a paradise ours truly is.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20053781,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>By turns awe-inspiring and deeply human.</snippet>
+         <url>http://www.tvguide.com/detail/movie.aspx?tvobjectid=290376&amp;more=ucmoviereview</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>These astronauts are still alive, but as long as mankind survives, their journeys will be seen as the turning point -- to what, it is still to be seen.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20070913/REVIEWS/709130306</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>Quite simply, a revelation.</snippet>
+         <url>http://www.philly.com/philly/entertainment/movies/20070921_Apollo_program_brought_to_life_in_documentary.html</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>It's both irrefutably concrete and irresistibly uplifting.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/reviews/bal-to.moon21sep21,0,2398772.story</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>After seeing this film, try reading Norman Mailer's "Of A Fire on the Moon," its perfect companion piece.</snippet>
+         <url>http://www.csmonitor.com/2007/0907/p14s01-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>This magnificent documentary, directed by David Sington and presented by Ron Howard, rises to the occasion by interspersing its interviews with NASA footage that evokes the grandeur of the whole Apollo adventure.</snippet>
+         <url>http://online.wsj.com/article/SB118911720903119886.html</url>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>The riveting documentary In the Shadow of the Moon, is an unexpected knockout.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-shadow7sep07,0,7720728.story?coll=cl-mreview</url>
+         <critic>Kenneth Turan</critic>
+      </review>
+      <review>
+         <snippet>The value of this film, not just to moviegoers today but to future generations, is simply enormous.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?&amp;rid=9772</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>May well be the most exciting documentary of the year so far. I guess it took a British director, David Sington, to capture the story of the dozen American men who walked on the moon -- the only human beings in our species history yet to visit another celestial body.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2007/09/06/btm/</url>
+         <critic>Andrew O&amp;#039;Hehir</critic>
+      </review>
+      <review>
+         <snippet>I came out giddy, feeling lighter--by about five-sixths--than I did when I went in.</snippet>
+         <url>http://nymag.com/movies/reviews/37248/index1.html</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>Now, finally, we know what it was like to walk on the moon: unbelievably cool. Amazing. Fantastic. Scary.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1134604&amp;categories=Movies&amp;nm=1</url>
+         <critic>Joel Achenbach</critic>
+      </review>
+      <review>
+         <snippet>The story (even more so if you weren't around in July of 1969) is gripping, eloquent, and powerful stuff, the right stuff right down to its pioneering heart, taking manifest destiny to the stars themselves.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A539673</url>
+         <critic>Marc Savlov</critic>
+      </review>
+      <review>
+         <snippet>Seeing the Earth from the point of view these men saw it -- ''like a jewel hung in the blackness'' -- tends to put things in perspective.</snippet>
+         <url>http://www.miamiherald.com/1054/story/251925.html</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>It's a stirring reminder of a time when anything seemed possible - these American heroes boosted morale eroded by the Vietnam War, as well as bringing the whole world together to celebrate their success.</snippet>
+         <url>http://www.nypost.com/seven/09072007/entertainment/movies/stellar_lunar_docu.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>One small documentary for a filmmaker and one giant leap in inspiration for audiences.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2007-09-06-moon-brothers-solomon_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>By 2020, when NASA's Orion lunar spacecraft is scheduled to launch, it's unlikely that any Apollo veterans will still be alive. Sington has done us a service in helping preserve their memories.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/332492_moon21q.html</url>
+         <critic>Gianni Truzzi</critic>
+      </review>
+      <review>
+         <snippet>It ends on a random note, making an awkward plea for better ecological stewardship of the Earth, which looked so small and frail to the astronauts regarding it from the moon. But otherwise it's a satisfying and heartening reminder of what a glorious thing a small group of men once contrived to do.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/1190766302174610.xml&amp;coll=7</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>This wonderful documentary succeeds as a reminder of human endeavour.</snippet>
+         <url>http://www.empireonline.com/reviews/reviewcomplete.asp?FID=135255</url>
+         <critic>Ross Bennett</critic>
+      </review>
+      <review>
+         <snippet>In the Shadow of the Moon is such a morale booster. The power of its archival images hasn’t diminished with familiarity.</snippet>
+         <url>http://movies.nytimes.com/2007/09/07/movies/07moon.html?ref=movies</url>
+         <critic>Stephen Holden</critic>
+      </review>
+      <review>
+         <snippet>Bean, a lovely guy with a touch of Mickey Rooney, is one of the stars of Sington’s rousing show. There was something unearthly, in every sense, about the astronauts in their prime.</snippet>
+         <url>http://www.newyorker.com/arts/critics/cinema/2007/09/17/070917crci_cinema_lane?currentPage=2</url>
+         <critic>Anthony Lane</critic>
+      </review>
+      <review>
+         <snippet>The astronaut interviews are fun and occasionally moving, but the real reason to see this is the remastered archival footage, some of it previously unseen and all of it spectacular.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/capsules/31408_IN_THE_SHADOW_OF_THE_MOON</url>
+         <critic>Reece Pendleton</critic>
+      </review>
+      <review>
+         <snippet>A surprisingly fresh take on familiar material.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=9679</url>
+         <critic>Jamie Tipps</critic>
+      </review>
+      <review>
+         <snippet>As we watch the astonishing NASA footage, they eloquently evoke the optimism, anxiety and excitement of those voyages.</snippet>
+         <url>http://www.msnbc.msn.com/id/20546353/site/newsweek/</url>
+         <critic>David Ansen</critic>
+      </review>
+      <review>
+         <snippet>The excitement, majesty and extraordinary human accomplishment of the American lunar program of the '60s and early '70s is rousingly captured in In the Shadow of the Moon.</snippet>
+         <url>http://www.variety.com/index.asp?layout=features2007&amp;content=jump&amp;jump=review&amp;dept=berlin&amp;nav=RBerlin&amp;articleid=VE1117932639&amp;cs=1&amp;p=0</url>
+         <critic>Todd McCarthy</critic>
+      </review>
+      <review>
+         <snippet>In the Shadow of the Moon recalls the wondrous moment when America had the entire world looking up, up, and not away.</snippet>
+         <url>http://www.villagevoice.com/film/0736,ridley,77664,20.html</url>
+         <critic>Jim Ridley</critic>
+      </review>
+      <review>
+         <snippet>Want to know what the “right stuff” really is? Take a look.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/14726288/review/16255618/in_the_shadow_of_the_moon</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>It has the air of an officially sanctioned tribute rather than a probing study, but it's stirring all the same.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-070914-movies-review-moon,0,6370982.story?coll=mmx-movies_top_heds</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>For those of us too young, this will give you an idea of what it meant to watch those baby steps that led to one giant leap.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2007/09/21/DD6TS9EBL.DTL</url>
+         <critic>Leba Hertz</critic>
+      </review>
+      <review>
+         <snippet>Sington's smartest decision was to let 10 of the astronauts speak for themselves. The film juxtaposes their personal stories, both their doubts and machismo, with the titanic achievement of the lunar landings.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20070921.wshadow0921/BNStory/Entertainment/home</url>
+         <critic>Liam Lacey</critic>
+      </review>
+      <review>
+         <snippet>There's more to the film than nostalgia; it also offers insight, and that's what makes it worth viewing on the big screen rather than waiting for its Discovery Channel premiere.</snippet>
+         <url>http://www.reelviews.net/movies/i/in_shadow.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>It's so simple, so obvious - and a revelation.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=9916</url>
+         <critic>Mark Feeney</critic>
+      </review>
+      <review>
+         <snippet>And oh, what stories these heroes have to tell - and what incredible sights they brought back with them.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2007/09/07/2007-09-07_more_movie_reviews.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>There's none of the poetry of "For All Mankind," just visual support for a meat-and-potatoes recap of events that have already been chewed over plenty.</snippet>
+         <url>http://www.avclub.com/content/cinema/in_the_shadow_of_the_moon</url>
+         <critic>Scott Tobias</critic>
+      </review>
+   </reviews>
+   <US_Gross>$1,134,358</US_Gross>
+   <production_budget>$2,000,000</production_budget>
+   <weekend_gross>$38,281</weekend_gross>
+   <number_of_screens>4</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

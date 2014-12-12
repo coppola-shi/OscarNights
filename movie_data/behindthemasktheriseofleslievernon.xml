@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Behind the Mask: The Rise of Leslie Vernon</name>
+   <company>Anchor Bay Entertainment</company>
+   <genres>
+      <genre>Comedy</genre>
+      <genre>Horror</genre>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>Scott Glosserman</author>
+      <author>David J. Stieve</author>
+   </authors>
+   <directors>
+      <director>Scott Glosserman</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Nathan Baesel</actor>
+      <actor>Angela Goethals</actor>
+      <actor>Zelda Rubinstein</actor>
+      <actor>Robert Englund</actor>
+      <actor>Scott Wilson</actor>
+   </actors>
+   <release_date>March 16, 2007</release_date>
+   <running_time>92</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>Fortunately, the filmmakers have quite a few clever tricks up their sleeves, bringing us a smart, refreshing an affectionate skewering of a celebrated genre.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=8768</url>
+         <critic>Eric Campos</critic>
+      </review>
+      <review>
+         <snippet>An ingeniously twisted mockumentary.</snippet>
+         <url>http://www.variety.com/review/VE1117932175.html?categoryid=31&amp;cs=1&amp;p=0</url>
+         <critic>Joe Leydon</critic>
+      </review>
+      <review>
+         <snippet>At its best, Behind the Mask offers some, um, cutting insights about mass-media blood lust and the cult of the serial killer, and in Baesel, who is by turns charming, manic and thoroughly scary, it has a gifted young actor who clearly relishes a role he can sink his pitchfork into.</snippet>
+         <url>http://www.laweekly.com/film+tv/film-reviews/film-reviews-premonition-i-think-i-love-my-wife-and-others/15913/</url>
+         <critic>Scott Foundas</critic>
+      </review>
+      <review>
+         <snippet>Behind the Mask is original and weirdly delicious, and executed with gory aplomb.</snippet>
+         <url>http://www.calendarlive.com/printedition/calendar/cl-et-behind16mar16,0,5576590.story</url>
+         <critic>Michael Ordona</critic>
+      </review>
+      <review>
+         <snippet>It's a must for those who like thrills laced with a sense of humor.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2007/03/16/2007-03-16_short_takes.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>A twisted little comic gem.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-to.behind16mar16,0,2920730.story?coll=bal-artslife-movies</url>
+         <critic>Chris Kaltenbach</critic>
+      </review>
+      <review>
+         <snippet>The movie's a cheeky, low-budget goof on dice-and-slice horror films, but for all the visible seams, it's a lot cleverer than "Scream."</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=9963</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>The movie has more cleverness than violence, and its breakdown of cliches is vivid and witty. Baesel is an extraordinary presence, holding the film together with his mesmerizing performance, charm and openness, and Goethals measures up to him.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1134138&amp;categories=Movies&amp;nm=1</url>
+         <critic>Stephen Hunter</critic>
+      </review>
+      <review>
+         <snippet>A poke in the eye of genre convention with a flensing blade and a disarmingly charming razor-blade grin.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A413365</url>
+         <critic>Marc Savlov</critic>
+      </review>
+      <review>
+         <snippet>Perhaps too clever for its own good.</snippet>
+         <url>http://tvguide.com/detail/movie.aspx?tvobjectid=286867&amp;more=ucmoviereview</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>Stieve and Glosserman may yet strike a vein: This thing screams out for a Hollywood remake with, say, writers from "The Simpsons."</snippet>
+         <url>http://www.nypost.com/seven/03162007/entertainment/movies/so_i_made_myself_a_legendary_ax_murderer_movies_kyle_smith.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>Most of this is fairly predictable spoofing, and Englund is wasted as a psycho-hunting shrink clearly modeled after Donald Pleasence's character in "Halloween." But there are moments when the proceedings are unsettling and original.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?JSESSIONID=pdJ6F6yJmpTjPpfdYvLvnpK8RdJLhGV1CMjVZVWMyv4ZYJt0PZC0!752913449&amp;&amp;rid=8918</url>
+         <critic>Frank Scheck</critic>
+      </review>
+      <review>
+         <snippet>Working in a mini-genre whose bones would appear to have been picked clean by the likes of Kevin Williamson and Wes Craven, Glosserman and Stieve find a few pints of fresh blood.</snippet>
+         <url>http://nymag.com/movies/reviews/28907/index1.html</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>Desperately overcompensating for the fact that most horror films are already parodies of themselves, Behind the Mask takes a bite out of the dumb "Scream" franchise before devouring its own tail, proving that you are what you eat.</snippet>
+         <url>http://www.villagevoice.com/film/0711,gonzalez,76071,20.html</url>
+         <critic>Ed Gonzalez</critic>
+      </review>
+   </reviews>
+   <US_Gross>$69,136</US_Gross>
+   <weekend_gross>$38,500</weekend_gross>
+   <number_of_screens>72</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

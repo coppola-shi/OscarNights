@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Frost/Nixon</name>
+   <company>Universal Pictures</company>
+   <genres>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author>Peter Morgan</author>
+   </authors>
+   <directors>
+      <director>Ron Howard</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+      <origin>UK</origin>
+      <origin>France</origin>
+   </origins>
+   <actors>
+      <actor>Frank Langella</actor>
+      <actor>Michael Sheen</actor>
+      <actor>Rebecca Hall</actor>
+      <actor>Toby Jones</actor>
+      <actor>Matthew Macfadyen</actor>
+      <actor>Kevin Bacon</actor>
+      <actor>Oliver Platt</actor>
+      <actor>Sam Rockwell</actor>
+   </actors>
+   <release_date>December 5, 2008</release_date>
+   <running_time>122</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>It's hard to imagine how a film built around one-on-one interviews could be entertaining, but Frost/Nixon could not be more enthralling.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2008-12-04-frost-nixon_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>The craftsmanship, acting, and history lesson all make it among the most satisfying films of Ron Howard's career.</snippet>
+         <url>http://movies.tvguide.com/frostnixon/review/293206</url>
+         <critic>Perry Seibert</critic>
+      </review>
+      <review>
+         <snippet>A totally mesmerizing battle of the wills between the occasionally charming yet wily Nixon and the increasingly desperate Frost.</snippet>
+         <url>http://www.premiere.com/moviereviews/4847/frostnixon.html</url>
+         <critic>Staff (Not credited)</critic>
+      </review>
+      <review>
+         <snippet>Frank Langella and Michael Sheen do not attempt to mimic their characters, but to embody them.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20081210/REVIEWS/812109987</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>Morgan finds the right elements of action and character through which to make history leap off the page.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2008/12/11/DDOA14LOEU.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>Langella has always been a cerebral actor, one who never gives away all he's thinking. What comes through in this portrayal is how smart Nixon was, whether he's cunningly probing Frost's weaknesses or pitching himself to TV viewers as an avuncular, misunderstood Cold Warrior.</snippet>
+         <url>http://events.charlotteobserver.com/reviews/show/36896-review-frostnixon</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>In a masterful performance, Langella highlights Nixon's oily charm and guile.</snippet>
+         <url>http://www.avclub.com/content/cinema/frost_nixon</url>
+         <critic>Nathan Rabin</critic>
+      </review>
+      <review>
+         <snippet>Surges with an energy and visual verve that improve the play and enhance the themes of dramatist Peter Morgan's script.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20243937,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>The result is involving, engrossing cinema -- more thrilling, in fact, than Howard's "The Da Vinci Code" -- filmmaking of a type rarely seen anymore and sorely missed.</snippet>
+         <url>http://www.latimes.com/entertainment/news/reviews/movies/la-et-frost5-2008dec05,0,2358279.story</url>
+         <critic>Kenneth Turan</critic>
+      </review>
+      <review>
+         <snippet>What Ron Howard gets, to a degree that's astonishing in a two-hour film, is the density and complexity, as well as the generous entertainment quotient, of Peter Morgan's screenplay.</snippet>
+         <url>http://online.wsj.com/article/SB122842792010280755.html?mod=article-outset-box</url>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>Director Ron Howard has turned Peter Morgan's stage success into a grabber of a movie laced with tension, stinging wit and potent human drama.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/17192183/review/24613139/frostnixon</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>Howard and Morgan have transformed this story into something more than an embellished re-telling of recent history. They have shaped a tragedy that is almost Shakespearean in force.</snippet>
+         <url>http://www.reelviews.net/php_review_template.php?identifier=1410</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>Sheen, who is also reprising his stage role and appeared as Tony Blair in the Morgan-written "The Queen," is highly effective as Frost - though the stakes for Frost are nowhere near as interesting as those for Nixon.</snippet>
+         <url>http://www.nypost.com/seven/12052008/entertainment/movies/nixons_the_one_142673.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>Ron Howard has made his best movie with  Frost/Nixon, an electric political drama with a skin-prickling immediacy.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/reviews/bal-li.frostnixon25dec25,0,7937199.story</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>The result is a totally absorbing and entertaining film, one of the best historical dramas from Hollywood in many years.</snippet>
+         <url>http://blog.oregonlive.com/madaboutmovies/2008/12/review_frostnixon_the_medium_i.html</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>Throughout, it's clouded -- for me at least -- by a nagging sense that it's straining too hard to build the media clash into more of an historic event than it was.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/391660_frostnixon12q.html</url>
+         <critic>William Arnold</critic>
+      </review>
+      <review>
+         <snippet>Neither the title nor the subject matter prepares you for the pure fun of Frost/Nixon.</snippet>
+         <url>http://www.washingtonpost.com/gog/movies/frost-nixon,1149191.html</url>
+         <critic>Philip Kennicott</critic>
+      </review>
+      <review>
+         <snippet>A case is being made here that it wasn't really Frost who did Nixon in: It was Nixon's old nemesis, the TV camera.</snippet>
+         <url>http://www.npr.org/templates/story/story.php?storyId=97826581</url>
+         <critic>Bob Mondello</critic>
+      </review>
+      <review>
+         <snippet>Frost/Nixon's main attraction is neither its topicality nor its historical value, but Langella's re-creation of his Tony-winning performance.</snippet>
+         <url>http://www.villagevoice.com/2008-12-03/film/langella-and-sheen-capture-a-summit-of-egos-in-frost-nixon/</url>
+         <critic>J. Hoberman</critic>
+      </review>
+      <review>
+         <snippet>Frost/Nixon works even better on screen. Director Ron Howard and Morgan, adapting his own play, have both opened up the tale and, with the power of close-ups, made this duel of wits even more intimate and suspenseful.</snippet>
+         <url>http://www.newsweek.com/id/171188</url>
+         <critic>David Ansen</critic>
+      </review>
+      <review>
+         <snippet>Offers considerable insight into the Nixon mystery, without solving it; the movie is fully absorbing and even, when Nixon falls into a drunken, resentful rage, exciting, but I can't escape the feeling that it carries about it an aura of momentousness that isn't warranted by the events.</snippet>
+         <url>http://www.newyorker.com/arts/critics/cinema/2008/12/08/081208crci_cinema_denby?currentPage=1</url>
+         <critic>David Denby</critic>
+      </review>
+      <review>
+         <snippet>Howard has made a picture for grown-ups, a well-constructed entertainment that neither talks down to its audience nor congratulates it just for showing up.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2008/12/05/frostnixon/</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>Stirring stuff that works thrillingly as drama, and should make Sheen a star, even if it compromises on historical insight.</snippet>
+         <url>http://www.empireonline.com/reviews/review.asp?FID=135026</url>
+         <critic>Ian Nathan</critic>
+      </review>
+      <review>
+         <snippet>Ultimately, Frost/Nixon may be stuck in time – but, oh, what a time it was.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A716010</url>
+         <critic>Marjorie Baumgarten</critic>
+      </review>
+      <review>
+         <snippet>Frost/Nixon is wholly absorbing.</snippet>
+         <url>http://www.chicagotribune.com/entertainment/movies/chi-frostnixon-review-1212dec12,0,6004331.story</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>Frost/Nixon is not the epic gladiatorial face-off, the ricocheting verbal shoot-out that writer Morgan and filmmaker Howard imagined.</snippet>
+         <url>http://www.philly.com/inquirer/columnists/steven_rea/20081212_Frost_and_Nixon_square_off_in_opened-up_re-creation_of_history.html</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>Shakespeare would have delighted in the chapter, especially in the antagonist, but not at the expense of the longer and darker and still-unfinished book.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20081205.wfrost05/BNStory/Entertainment/home</url>
+         <critic>Rick Groen</critic>
+      </review>
+      <review>
+         <snippet>Never entirely escapes its theatrical origins, and, by framing the story so pugilistically, the filmmakers don't bring out the full richness in this material.</snippet>
+         <url>http://www.csmonitor.com/2008/1206/p25s02-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>For closeup conflict and emotional kick, the Frost/Nixon movie tops the play. But neither can match the tension and weird poignancy of the original interviews -- reality TV of the highest, queasiest order.</snippet>
+         <url>http://www.time.com/time/arts/article/0,8599,1864782,00.html</url>
+         <critic>Richard Corliss</critic>
+      </review>
+      <review>
+         <snippet>Ron Howard directed, with outstanding support from Kevin Bacon as Jack Brennan, Nixon's fierce chief of staff.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/33955_FROST_NIXON.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>Morgan's compact, satisfying drama presents presidential interviewing as a gladiatorial event.</snippet>
+         <url>http://www.slate.com/id/2206029/</url>
+         <critic>Dana Stevens</critic>
+      </review>
+      <review>
+         <snippet>Stories of lost crowns lend themselves to drama, but not necessarily audience-pleasing entertainments, which may explain why Frost/Nixon registers as such a soothing, agreeably amusing experience, more palliative than purgative.</snippet>
+         <url>http://movies.nytimes.com/2008/12/05/movies/05fros.html?ref=movies</url>
+         <critic>Manohla Dargis</critic>
+      </review>
+      <review>
+         <snippet>Frank Langella's meticulous performance will generate the sort of attention that will attract serious filmgoers.</snippet>
+         <url>http://www.variety.com/VE1117938715.html?query=Frost%2FNixon</url>
+         <critic>Todd McCarthy</critic>
+      </review>
+      <review>
+         <snippet>Less a political movie than a boxing film without the gloves.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?rid=11822</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>Despite a moving, canny incarnation of the man by Frank Langella, despite a slickly entertaining coffee-table production as only Ron Howard knows how, the movie feels cooked up.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=11878</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>Fails to add anything of substance to the history that it portrays.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=11375</url>
+         <critic>Scott Mendelson</critic>
+      </review>
+      <review>
+         <snippet>Despite the great care and research that went into the movie, Frost/Nixon pales in comparison to Oliver Stone's "Nixon" when it comes to humanizing the infamous leader.</snippet>
+         <url>http://www.miamiherald.com/entertainment/movies/reviews/story/808259.html</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>Unsatisfying even if, like me, you're a lifelong aficionado of Nixon-bashing.</snippet>
+         <url>http://nymag.com/movies/reviews/52586/</url>
+         <critic>David Edelstein</critic>
+      </review>
+   </reviews>
+   <US_Gross>$18,622,031</US_Gross>
+   <production_budget>$29,000,000</production_budget>
+   <weekend_gross>$180,708</weekend_gross>
+   <number_of_screens>3</number_of_screens>
+   <oscar_winning_directors_present/>
+   <num_oscar_winning_directors>1</num_oscar_winning_directors>
+   <oscar_winning_director>ron howard</oscar_winning_director>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

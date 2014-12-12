@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Sydney White</name>
+   <company>Universal Pictures</company>
+   <genres>
+      <genre>Comedy</genre>
+   </genres>
+   <authors>
+      <author>Chad Creasey</author>
+   </authors>
+   <directors>
+      <director>Joe Nussbaum</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Ama Bynes</actor>
+      <actor>Matt Long</actor>
+      <actor>Sara Paxton</actor>
+      <actor>John Schneider</actor>
+      <actor>Jack Carpenter</actor>
+   </actors>
+   <release_date>September 21, 2007</release_date>
+   <running_time>90</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>I like Amanda Bynes movies…and I’m a dork!</snippet>
+         <url>http://www.tvguide.com/movies/sydney-white/review/290392</url>
+         <critic>Adam Schubak</critic>
+      </review>
+      <review>
+         <snippet>The result is a charmer that boldly marches where lesser movies - at least since the heyday of John Hughes - fear to tread.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/reviews/bal-to.sydney21sep21,0,4583344.story</url>
+         <critic>Chris Kaltenbach</critic>
+      </review>
+      <review>
+         <snippet>"Revenge of the Nerds" is way cooler in its proud defense of geekosity, no question. But anti-ditz role model Amanda Bynes just happens to be cute.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20058690,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>Its silly Snow White allusions aside, Sydney White is a simple but amiable modern fairy tale.</snippet>
+         <url>http://www.miamiherald.com/1054/story/244129.html</url>
+         <critic>Connie Ogle</critic>
+      </review>
+      <review>
+         <snippet>Destined to enchant the slumber parties.</snippet>
+         <url>http://www.nypost.com/seven/09212007/entertainment/movies/omigod__totally_a_fairy_tale.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>Ms. Bynes, with her cherubic face, expressive eyes and comic timing, helps create a positive, pleasing diversion that caters to the geek in all of us.</snippet>
+         <url>http://movies.nytimes.com/2007/09/21/movies/21sydn.html?ref=movies</url>
+         <critic>Laura Kern</critic>
+      </review>
+      <review>
+         <snippet>Although Bynes exudes a devil-may-care attitude that is fun to watch, the formulaic movie ultimately falls apart around her.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/332491_sydney21q.html</url>
+         <critic>Andy Spletzer</critic>
+      </review>
+      <review>
+         <snippet>14-year-old girls will dig its amiable energy.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/119024432076910.xml&amp;coll=7</url>
+         <critic>M. E. Russell</critic>
+      </review>
+      <review>
+         <snippet>While the film's premise is shamelessly hokey and Joe Nussbaum's direction is at best pedestrian, props are due the young cast, especially Bynes, whose can-do optimism seems genuine if ultimately overdone.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/32099_SYDNEY_WHITE.html</url>
+         <critic>Joshua Katzman</critic>
+      </review>
+      <review>
+         <snippet>Result should satisfy Bynes fans looking for a pleasant, innocuous follow-up to her last vehicle.</snippet>
+         <url>http://www.variety.com/review/VE1117934826.html?categoryid=31&amp;cs=1</url>
+         <critic>Lael Loewenstein</critic>
+      </review>
+      <review>
+         <snippet>Director Joe Nussbaum (“Sleepover”) doesn’t do much with his cast; there’s a lot of standing around as he indulges Bynes’ tendency to mug.</snippet>
+         <url>http://chicago.metromix.com/movies/movie_review/movie-review-sydney-white/193783/content</url>
+         <critic>Maureen M. Hart</critic>
+      </review>
+      <review>
+         <snippet>Unfortunately, though, Bynes' persistent mugging only emphasizes Nussbaum's relentlessly cartoonish direction.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2007/09/21/2007-09-21_sydney_white_is_a_happy_dopey_snow_white.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>Cute and cartoonish rule the day, and teens and tweens will be the film's chief audience.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?&amp;rid=9878</url>
+         <critic>Sheri Linden</critic>
+      </review>
+      <review>
+         <snippet>For all these references to the fairytale, Sydney White soon takes an easier path, recycling familiar "Mean Girls" and "Revenge of the Nerds" scenarios.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20070920.wsydney0921/BNStory/Entertainment/home</url>
+         <critic>Liam Lacey</critic>
+      </review>
+      <review>
+         <snippet>Each twist and turn is so telegraphed and expected that the story feels wan and the comedy feeble.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2007-09-20-alsoopening-austen-white_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>A mediocre college comedy that blends bits of "Revenge of the Nerds," "Mean Girls" and "Legally Blonde" and doesn't have much to show for it.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2007/09/21/DD5AS7QS7.DTL&amp;type=movies</url>
+         <critic>Walter Addiego</critic>
+      </review>
+      <review>
+         <snippet>Sydney White is a carnival of ethnic and social stereotypes that are rising up against the lily-white status quo. In Hollywood, blond princesses and fairy tales die hard.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-sydney21sep21,0,3510326.story?coll=cl-mreview</url>
+         <critic>Jan Stuart</critic>
+      </review>
+      <review>
+         <snippet>Unfortunately, this film doesn’t have the cojones to take the fairy tale all the way and have Rachel marry Sydney’s dad (or cast actual dwarfs). But director Joe Nussbaum knows his dorkdom, and nails it.</snippet>
+         <url>http://www.laweekly.com/film+tv/film-reviews/film-reviews-the-last-winter-the-jane-austen-book-club/17255/?page=2</url>
+         <critic>Luke Y. Thompson</critic>
+      </review>
+      <review>
+         <snippet>Sydney White makes "Mean Girls" look like Shakespeare.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=10738</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>It’s cheesy and contrived, but even the most watered-down stories retain elements of the original masterpieces.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A539570</url>
+         <critic>Toddy Burton</critic>
+      </review>
+      <review>
+         <snippet>What's the excuse for dumbing down Snow White to moron level? Are there really people out there who thought the original version just didn't have enough toilet jokes?</snippet>
+         <url>http://www.avclub.com/content/cinema/sydney_white</url>
+         <critic>Tasha Robinson</critic>
+      </review>
+   </reviews>
+   <US_Gross>$11,892,415</US_Gross>
+   <production_budget>$16,500,000</production_budget>
+   <weekend_gross>$5,196,380</weekend_gross>
+   <number_of_screens>2,104</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

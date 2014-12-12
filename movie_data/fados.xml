@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Fados</name>
+   <company>New Yorker Films</company>
+   <genres>
+      <genre>Musical</genre>
+   </genres>
+   <authors>
+      <author>Ivan Dias</author>
+      <author>Carlos Saura</author>
+   </authors>
+   <directors>
+      <director>Carlos Saura</director>
+   </directors>
+   <origins>
+      <origin>Portugal</origin>
+      <origin>Spain</origin>
+   </origins>
+   <actors>
+      <actor>Mariza</actor>
+      <actor>Camané</actor>
+      <actor>Carlos do Carmo</actor>
+      <actor>Cuca Roseta</actor>
+      <actor>Catarina Moura</actor>
+      <actor>Argentina Santos</actor>
+      <actor>Maria de Nazaré</actor>
+   </actors>
+   <release_date>March 6, 2009</release_date>
+   <running_time>90</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>Fados connects today's leading interpreters with legendary fadistas of the past. And it's the last title to be released under the banner of the venerable New Yorker Films.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20264870,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>A centerpiece of the film is a tribute to the late, legendary Amália Rodrigues, a woman of commanding, majestic beauty and presence, who is seen with her pianist in rehearsal, searching out every nuance of a song she is to perform. Unfortunately, Fado's other performers are not identified.</snippet>
+         <url>http://www.latimes.com/entertainment/news/la-et-capsules22-2009may22,0,5236116.story</url>
+         <critic>Kevin Thomas</critic>
+      </review>
+      <review>
+         <snippet>For those who've never before heard fado, Fados will be a revelation - a window into a music that (like blues music) can be poetic, heartbreaking, melodramatic and redemptive, all at the same time.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2009/06/04/MVBS180D77.DTL&amp;type=movies</url>
+         <critic>Jonathan Curiel</critic>
+      </review>
+      <review>
+         <snippet>As a production, Fados is pretty with its reflected surfaces and many projected images. But at times it hurts for the bite and texture of life outside that studio. For all the dolorous singing about and shots of streets, it'd be nice to hit one.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=12742</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>There are no talking heads, but lots of singing heads and sexy dancing bodies, many of them belonging to stars in Spain. In total, there are more than a dozen performance pieces, all stylishly lensed.</snippet>
+         <url>http://www.nypost.com/seven/03062009/entertainment/movies/fados_158306.htm</url>
+         <critic>V.A. Musetto</critic>
+      </review>
+      <review>
+         <snippet>This veteran Spanish director has, in his latest, created both a tribute to an art form and a performance archive.</snippet>
+         <url>http://www.nytimes.com/2009/03/06/movies/06fado.html?_r=1&amp;ref=movies</url>
+         <critic>Manohla Dargis</critic>
+      </review>
+      <review>
+         <snippet>The movie, set entirely on a beautifully lit soundstage filled with musicians, dancers, mirrors and projection screens, presents some of the country's most acclaimed fadoistas, singing tributes to the art form and some of its greatest legends.</snippet>
+         <url>http://www.washingtonpost.com/gog/movies/fados,1143339.html</url>
+         <critic>Dan Kois</critic>
+      </review>
+      <review>
+         <snippet>Saura is formally ambitious--a troupe travels through the film, articulating lyrics in dance--but the movie missteps when departing wholly from the intrinsic nostalgia of its subject, as the seventysomething director imposes his idea of contemporary cool.</snippet>
+         <url>http://www.villagevoice.com/2009-03-04/film/carlos-saura-s-fados-reviews-a-portuguese-folk-tradition/</url>
+         <critic>Nick Pinkerton</critic>
+      </review>
+   </reviews>
+   <US_Gross>$129,150</US_Gross>
+   <weekend_gross>$10,823</weekend_gross>
+   <number_of_screens>1</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

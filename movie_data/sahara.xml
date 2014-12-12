@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Sahara</name>
+   <company>Paramount Pictures</company>
+   <genres>
+      <genre>Action</genre>
+      <genre>Adventure</genre>
+      <genre>Comedy</genre>
+   </genres>
+   <authors>
+      <author>Thomas Dean Donnelly &amp; Joshua Oppenheimer</author>
+      <author>John C. Richards</author>
+      <author>James V. Hart</author>
+      <author>Clive Cussler</author>
+   </authors>
+   <directors>
+      <director>Breck Eisner</director>
+   </directors>
+   <origins>
+      <origin>USASpain</origin>
+   </origins>
+   <actors>
+      <actor>Matthew McConaughey</actor>
+      <actor>Steve Zahn</actor>
+      <actor>Penélope Cruz</actor>
+      <actor>Lambert Wilson</actor>
+      <actor>Glynn Turman</actor>
+      <actor>Delroy Lindo</actor>
+      <actor>William H. Macy</actor>
+      <actor>Dayna Cussler</actor>
+   </actors>
+   <release_date>April 8, 2005</release_date>
+   <running_time>127</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>The casting is so strong and the overall filmmaking flair of the movie is so captivating that it basically works.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/219216_sahara08q.html</url>
+         <critic>William Arnold</critic>
+      </review>
+      <review>
+         <snippet>I enjoyed this movie on its own dumb level.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20050407/REVIEWS/50323001</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>As Sahara careens between swashbuckling silliness and semi-serious comment, it builds up reserves of energy and good will that pay off when it bursts into its final sprint, a rootin'-tootin' 21-gun finale as satisfying as it is preposterous.</snippet>
+         <url>http://movies2.nytimes.com/2005/04/08/movies/08saha.html</url>
+         <critic>Stephen Holden</critic>
+      </review>
+      <review>
+         <snippet>Surprisingly entertaining.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/111286809967500.xml</url>
+         <critic>M. E. Russell</critic>
+      </review>
+      <review>
+         <snippet>About as good as a big, stupid American action movie can be without ever being anything better than a big, stupid American action movie.</snippet>
+         <url>http://www.empireonline.co.uk/site/incinemas/ReviewInFull.asp?FID=10502</url>
+         <critic>Dan Jolin</critic>
+      </review>
+      <review>
+         <snippet>This insanely busy, exceedingly long, and sometimes endearingly preposterous rendering has simply gotten the directions reversed in its insistence on sticking only to where men-who-make-adventure-flicks have gone before.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1045776_1_0_,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>Takes the action/adventure story to new heights of preposterousness. In a way, that's not a bad thing, since it allows a certain level of guilty enjoyment.</snippet>
+         <url>http://movie-reviews.colossus.net/movies/s/sahara.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>Saddled with more industry/celebrity baggage than a high-class safari voyage, Sahara is a rousing and only occasionally ridiculous adventure yarn.</snippet>
+         <url>http://www.variety.com/review/VE1117926726?categoryid=31&amp;cs=1</url>
+         <critic>Robert Koehler</critic>
+      </review>
+      <review>
+         <snippet>Rojas is played by Penélope Cruz, who's endearing enough, but still comes across coarse and irritating every time she attempts a role in English.</snippet>
+         <url>http://www.premiere.com/article.asp?section_id=2&amp;article_id=2074</url>
+         <critic>Peter Debruge</critic>
+      </review>
+      <review>
+         <snippet>McConaughey, despite alarmingly orange makeup, does justice to the role, a hard-drinking, shipwreck- hunting senator's son with a 007 way with the ladies.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/_/id/6149852?pageid=rs.ReviewsMovieArchive&amp;pageregion=mainRegion</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>Action films can't be this consistently absurd, can't paint their heroes into such dangerous corners, from which only cocktails of luck and divine intervention can save them, over and over. It's a bad-faith bargain with the audience and bad storytelling.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-050407-movies-review-rke-sahara.story</url>
+         <critic>Robert K. Elder</critic>
+      </review>
+      <review>
+         <snippet>The movie, first preposterously entertaining and then just preposterous, makes James Bond films look as logical as Euclidean geometry.</snippet>
+         <url>http://ae.philly.com/entertainment/ui/philly/movie.html?id=284360&amp;reviewId=17734</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>It's not that Sahara is offensively bad: It's just that the picture, loud and busy as it is, never really finds its own identity.</snippet>
+         <url>http://ae.philly.com/entertainment/ui/philly/movie.html?id=284360&amp;reviewId=17730</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>Spectacularly silly and perversely entertaining.</snippet>
+         <url>http://ae.philly.com/entertainment/ui/philly/movie.html?id=284360&amp;reviewId=17757</url>
+         <critic>Carrie Rickey</critic>
+      </review>
+      <review>
+         <snippet>Sahara doesn't waste time on introductions. It wastes time in other ways.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-to.sahara08apr08,1,1767461.story?coll=bal-artslife-movies</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>Most of the personality work in the film is left to Steve Zahn.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/ArticleNews/TPStory/LAC/20050408/SAHARA08/TPEntertainment/Film</url>
+         <critic>Liam Lacey</critic>
+      </review>
+      <review>
+         <snippet>It ain't art, and it's dumber than I'd like, but I don't imagine you were expecting Kieslowski.</snippet>
+         <url>http://www.filmthreat.com/Reviews.asp?Id=7345</url>
+         <critic>Pete Vonder Haar</critic>
+      </review>
+      <review>
+         <snippet>If the filmmakers had spent $14.98 of that $100 mil on a DVD of "The Mummy," they might have learned a few things: You need a head villain who is surpassingly evil, you need some jokes that get laughs - and a few sword-fighting skeletons wouldn't hurt.</snippet>
+         <url>http://www.nypost.com/movies/42250.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>Eisner is not remotely up to the challenge. Spending millions on action scenes does not mean you get them right.</snippet>
+         <url>http://www.nydailynews.com/04-08-2005/front/story/297906p-254818c.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>Breck Eisner, son of former Disney mogul Michael and something of a protégé of Steven Spielberg, for whom he directed an episode of the miniseries "Taken," guides Sahara's big action set pieces with assurance, but would have been better served by a tighter script.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-sahara8apr08,2,3214873.story</url>
+         <critic>Kevin Crust</critic>
+      </review>
+      <review>
+         <snippet>The film clocks in at under two hours, but the last 20 minutes feel like 40.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2005-04-07-sahara_x.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>I'm still trying to wrap my head around the historical premise for this Indiana Jones knockoff.</snippet>
+         <url>http://spacefinder.chicagoreader.com/movies/briefs/27740_SAHARA_EISNER.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>Just don't go expecting complex moral and ethical quandaries and you'll likely never think of "Ishtar" even once.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A265230</url>
+         <critic>Marc Savlov</critic>
+      </review>
+      <review>
+         <snippet>Sahara is many things, but it is not a movie. It is the skull-splitting cacophony of 21 producers and four screenwriters (that we know about, anyway) standing in the same room shouting into their cell phones.</snippet>
+         <url>http://www.villagevoice.com/film/0515,winter,62914,20.html</url>
+         <critic>Jessica Winter</critic>
+      </review>
+      <review>
+         <snippet>McConaughey is usually a welcome presence, but here, he looks like making the movie was getting in the way of his exciting African adventure.</snippet>
+         <url>http://www.theavclub.com/review_pop.php?review_id=8373</url>
+         <critic>Keith Phipps</critic>
+      </review>
+      <review>
+         <snippet>Any movie starring Penelope Cruz or William H. Macy can't be all bad. And Sahara, which stars both Penelope Cruz and William H. Macy, proves the point: It isn't all bad.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1000865409</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>This perfectly distracting, ultimately unsatisfying film feels like a James Bond flick in which the stand-in got the lead.</snippet>
+         <url>http://www.laweekly.com/film/film_results.php?showid=3349&amp;Sumbit.x=54&amp;Sumbit.y=14</url>
+         <critic>Chuck Wilson</critic>
+      </review>
+      <review>
+         <snippet>In the end, the thing that Cussler's fans will probably object to most is the nonsensical way Sahara manhandles his story.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=2864</url>
+         <critic>Janice Page</critic>
+      </review>
+      <review>
+         <snippet>McConaughey remains more buffed than compelling. He's not helped by a two-hour convolution of episodes that are too busy imitating other, better movies.</snippet>
+         <url>http://www.washingtonpost.com/wp-dyn/articles/A34096-2005Apr7.html</url>
+         <critic>Desson Thomson</critic>
+      </review>
+      <review>
+         <snippet>The greatest hits of '70s bar-rock soundtrack - "We're an American Band," "Right Place, Wrong Time," "Sweet Home Alabama," "Magic Carpet Ride" etc. - has a certain rollicking, kick-ass energy that, unfortunately, never rubs off on the movie.</snippet>
+         <url>http://tvguide.com/movies/database/showmovie.asp?MI=45933</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>An adventure in mediocrity that brings together some of the worst current techniques and trends.</snippet>
+         <url>http://sfgate.com/cgi-bin/article.cgi?f=/c/a/2005/04/08/DDGVNC45QS1.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>Sahara is a mediocrity wrapped inside a banality, toasted in a nice, fresh cliche.</snippet>
+         <url>http://www.washingtonpost.com/wp-dyn/articles/A35862-2005Apr7.html</url>
+         <critic>Stephen Hunter</critic>
+      </review>
+      <review>
+         <snippet>A stunning piece of work--stunningly inept, stunningly incoherent, stunningly awful in every single way imaginable.</snippet>
+         <url>http://dallasobserver.com/issues/2005-04-07/film/film3.html</url>
+         <critic>Robert Wilonsky</critic>
+      </review>
+   </reviews>
+   <US_Gross>$68,671,925</US_Gross>
+   <production_budget>$145,000,000</production_budget>
+   <weekend_gross>$18,068,372</weekend_gross>
+   <number_of_screens>3,154</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

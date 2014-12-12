@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Rambo</name>
+   <company>Lionsgate</company>
+   <genres>
+      <genre>Action</genre>
+      <genre>Drama</genre>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>Sylvester Stallone</author>
+   </authors>
+   <directors>
+      <director>Sylvester Stallone</director>
+   </directors>
+   <origins>
+      <origin>USAGermany</origin>
+   </origins>
+   <actors>
+      <actor>Sylvester Stallone</actor>
+      <actor>Julie Benz</actor>
+      <actor>Paul Schulze</actor>
+      <actor>Matthew Marsden</actor>
+      <actor>Graham McTavish</actor>
+      <actor>Rey Gallegos</actor>
+      <actor>Tim Kang</actor>
+      <actor>Jake LaBotz</actor>
+   </actors>
+   <release_date>January 25, 2008</release_date>
+   <running_time>93</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>A straight-ahead exercise in brutality.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=10741</url>
+         <critic>Pete Vonder Haar</critic>
+      </review>
+      <review>
+         <snippet>A sort of parody "Apocalypse Now," complete with listless coochie dancers entertaining the Burmese troops, the movie finds its own heart of darkness once Rambo drops the doctors in Burma.</snippet>
+         <url>http://www.villagevoice.com/film/0805,hoberman,78960,20.html</url>
+         <critic>J. Hoberman</critic>
+      </review>
+      <review>
+         <snippet>Moved to take charge by something like chivalry, Rambo hits his stride in the film's second half, meting out justice in an unjust world and ultimately the movie works best when warbling its out-of-tune greatest hits.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-rambo25jan25,0,3872424.story</url>
+         <critic>Kevin Crust</critic>
+      </review>
+      <review>
+         <snippet>Rambo teaches that fighting sucks, good intentions can be futile, and coalitions of the willing are a charade: A man's got to do what a man's got to do.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20173992,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>In the Rambo canon, where does this one fit? The tone is closer to "First Blood" but the body count is more "Rambo III." No matter how one dices and slices this new Rambo, the first one in 20 years, it will likely please fans of the long-in-the-tooth series.</snippet>
+         <url>http://www.reelviews.net/movies/r/rambo.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>The result is the farthest thing from a bland, spineless sequel: It's a brutal, insanely excessive successor to grindhouse pictures of yore.</snippet>
+         <url>http://www.tvguide.com/movies/rambo/review/291142</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>Rambo combines an unapologetic return to the grand action-movie tradition of blowing shit up (one explosion is so big, it leaves behind its own miniature mushroom cloud) with a "Saw"-era interest in close-ups of human viscera.</snippet>
+         <url>http://www.slate.com/id/2182755</url>
+         <critic>Dana Stevens</critic>
+      </review>
+      <review>
+         <snippet>Stallone (who looks fit but mostly keeps his shirt on) has no intention of bogging the action down, but it's still a notably cheerless exercise, without knowing winks or stabs (pardon the expression) at humor. It is in all respects, rather, a completely workmanlike effort.</snippet>
+         <url>http://www.variety.com/VE1117935910.html</url>
+         <critic>Brian Lowry</critic>
+      </review>
+      <review>
+         <snippet>The movie does have its own kind of blockheaded poetry.</snippet>
+         <url>http://movies.nytimes.com/2008/01/25/movies/25ramb.html?ref=movies</url>
+         <critic>A.O. Scott</critic>
+      </review>
+      <review>
+         <snippet>Gorier, meaner and uglier than anything Sylvester Stallone has made before, and as such damnably effective in rousing your blood lust, this wind-up groin kicker of a movie seems initially as wary of being pulled back into a dirty job as its reluctant hero.</snippet>
+         <url>http://www.laweekly.com/film+tv/film-reviews/caramel-over-her-dead-body-tre-and-more/18261/?page=2</url>
+         <critic>Jim Ridley</critic>
+      </review>
+      <review>
+         <snippet>Rambo works best as a pure action movie devoted to delivering the cheapest kicks imaginable--and to a much lesser extent, to bringing attention to human-rights violations and genocide in Asia.</snippet>
+         <url>http://www.avclub.com/content/cinema/rambo</url>
+         <critic>Nathan Rabin</critic>
+      </review>
+      <review>
+         <snippet>This muttering boatman seems to have lost his old-time heroism. No longer is Rambo killing for a cause, but for kicks. And his portentous blather, even by Rambo standards, becomes unintentionally hilarious.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1142397&amp;categories=Movies&amp;nm=1</url>
+         <critic>Desson Thomson</critic>
+      </review>
+      <review>
+         <snippet>The 61-year-old Stallone would deserve a measure of respect for pulling Rambo off, appalling as it is, but this Fangoria-worthy circus of horrors also features footage of actual Burmese atrocities.</snippet>
+         <url>http://nymag.com/movies/reviews/43335/</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>Like a lost recording by the Beatles, Sylvester Stallone's Rambo arrives with its feet planted firmly in the past, a reminder of a time when Stallone, Chuck Norris and other wooden soldiers of the big screen filled multiplexes with the floor-shaking thunder of trivialized war.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2008/01/25/2008-01-25_rambo_rises_to_wreak_more_havoc.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>It's 90 minutes of flying, dismembered limbs and explosions of blood, but give the man credit. Stallone can do action. If you want action and nothing but, here it is.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2008/01/25/DDIOUKM16.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>Rambo is surprisingly effective as an action movie precisely because the villains seem truly dangerous and the "mission" truly a death wish.</snippet>
+         <url>http://www.premiere.com/moviereviews/4374/rambo.html</url>
+         <critic>Eric Alt</critic>
+      </review>
+      <review>
+         <snippet>In short, No. 4 is one big snore.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?JSESSIONID=yBYRHZdGGZCThXCFGLhw4KcRvp3Pnl3XKv6XP4XbNH2fDJGpzf8F!3588094&amp;&amp;rid=10522</url>
+         <critic>Michael Rechtshaffen</critic>
+      </review>
+      <review>
+         <snippet>The movie is neither cathartic nor entertaining. The action scenes (and there are many of them) feel mechanized and calculated.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2008/01/25/rambo/</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>Rambo could have been a satisfying romp - wherein bad dialogue and cardboard characters can be forgiven - but for the sin of making the main man step to the sidelines in favour of charisma-free fillers. Bad move, Sly...</snippet>
+         <url>http://www.empireonline.com/reviews/review.asp?FID=134810</url>
+         <critic>Roberto Sadovski</critic>
+      </review>
+      <review>
+         <snippet>Needlessly violent? No, Rambo is needfully violent. Johnny R. is a man constructed of violence.</snippet>
+         <url>http://www.nypost.com/seven/01252008/entertainment/movies/ramboloney__890024.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>Rambo isn't dull. It is, however, often murkily directed, a real shortcoming in an action movie. In the big rescue-the-prisoners sequence, it's very hard to keep track of who is doing what to whom where.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=10921</url>
+         <critic>Mark Feeney</critic>
+      </review>
+      <review>
+         <snippet>There will be blood in the ultraviolent Rambo, a movie that depicts both heinous acts and righteous reckoning with equal degrees of flying body parts and arterial sprays.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A583364</url>
+         <critic>Steve Davis</critic>
+      </review>
+      <review>
+         <snippet>The orgy of violence, as ghastly as in any video game, should go a long way toward erasing whatever goodwill Stallone earned with his sentimental "Rocky Balboa."</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/32685_RAMBO.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>There is a blessed dearth of dialogue, but much of it is unintentionally hilarious.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2008-01-24-rambo_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>Can anyone still be rooting for Rocky or Rambo?</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20080124.wrambo25/BNStory/Entertainment/home</url>
+         <critic>Stephen Cole</critic>
+      </review>
+      <review>
+         <snippet>With its first-person-shooter perspective and gun-andrun narrative, this one’s for the PlayStation crowd. It’s not a movie. It’s an adrenaline pump and purveyor of raw carnage.</snippet>
+         <url>http://www.philly.com/philly/entertainment/movies/Not_a_movie_but_an_obscene_gory_game.html</url>
+         <critic>Carrie Rickey</critic>
+      </review>
+   </reviews>
+   <US_Gross>$42,754,105</US_Gross>
+   <production_budget>$47,500,000</production_budget>
+   <weekend_gross>$18,203,876</weekend_gross>
+   <number_of_screens>2,751</number_of_screens>
+   <highest_grossing_actors_present/>
+   <num_highest_grossing_actors>1</num_highest_grossing_actors>
+   <highest_grossing_actor>sylvester stallone</highest_grossing_actor>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

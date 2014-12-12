@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Abominable</name>
+   <company>Freestyle Releasing</company>
+   <genres>
+      <genre>Horror</genre>
+   </genres>
+   <authors>
+      <author>Ryan Schifrin</author>
+   </authors>
+   <directors>
+      <director>Ryan Schifrin</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Matt McCoy</actor>
+      <actor>Haley Joel</actor>
+      <actor>Jeffrey Combs</actor>
+      <actor>Lance Henriksen</actor>
+      <actor>Dee Wallace-Stone</actor>
+      <actor>Rex Linn</actor>
+      <actor>Tiffany Shepis</actor>
+      <actor>Paul Gleason</actor>
+      <actor>Phil Morris</actor>
+   </actors>
+   <release_date>April 14, 2006</release_date>
+   <running_time>94</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>Ryan Schifrin's first film is a pleasant surprise, an old-fashioned monster movie that relies more on genuine suspense than bare breasts and blood.</snippet>
+         <url>http://online.tvguide.com/movies/database/Movie-Review.asp?MI=46880</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>Abominable goes completely over the top into an Ed Wood-meets-"Rear Window" subspecies of giddy, gory amateurish abandon.</snippet>
+         <url>http://www.variety.com/review/VE1117930232?categoryid=31&amp;cs=1</url>
+         <critic>John Anderson</critic>
+      </review>
+      <review>
+         <snippet>Not quite aptly titled, but close, writer-director Ryan Schifrin's cheapo horror opus pits everyone's favorite hirsute hominoid against the denizens of a remote town nestled at the base of a mountain called Suicide Peak. It's not much of a contest.</snippet>
+         <url>http://www.laweekly.com/film+tv/film-reviews/film-reviews/13252/</url>
+         <critic>Scott Foundas</critic>
+      </review>
+      <review>
+         <snippet>Schifrin wisely holds off showing the monster -- because once the creature is revealed, the already shaky film takes a turn for the worse. The costume for the monster looks like a cross between a drugstore Halloween mask and leftover molds from the horror chestnut "Leprechaun."</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-capsules21apr21,0,3272387.story</url>
+         <critic>Mark Olsen</critic>
+      </review>
+      <review>
+         <snippet>Ever wondered what the bastard stepchild of "Rear Window" and "Harry and the Hendersons" would look like? Probably not. Nevertheless, here it is in the form of a Bigfoot horror flick gone horribly awry.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/266609_limited14.html</url>
+         <critic>Winda Benedetti</critic>
+      </review>
+      <review>
+         <snippet>The movie, which opened last week in Seattle and opens Friday in Los Angeles, isn't so much getting a release as an escape. The movie is directed, shot, acted and outfitted with special effects -- such as that guy (Michael Deak) in the monster suit -- so as to make American International horror films of the late '50s and '60s look like sophisticated gems.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1002383140</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+   </reviews>
+   <US_Gross>$1,810</US_Gross>
+   <weekend_gross>$1,810</weekend_gross>
+   <number_of_screens>1</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

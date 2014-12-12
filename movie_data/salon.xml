@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Salon, The</name>
+   <company>Freestyle Releasing</company>
+   <genres>
+      <genre>Comedy</genre>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author>Mark Brown</author>
+      <author>Shelley Garrett</author>
+   </authors>
+   <directors>
+      <director>Mark Brown</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Vivica A. Fox</actor>
+      <actor>Darrin Dewitt Henson</actor>
+      <actor>Kym Whitley</actor>
+      <actor>Monica Calhoun</actor>
+      <actor>Taral Hicks</actor>
+      <actor>Dondre Whitfield</actor>
+      <actor>Terrence Howard</actor>
+      <actor>Brooke Burns</actor>
+   </actors>
+   <release_date>May 11, 2007</release_date>
+   <running_time>90</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>Though rooted in broad stereotypes and sassy platitudes, the film's feisty cast and generally sunny outlook make for warm and reassuring comfort viewing, the equivalent of a straight-from-the-box dish of mac and cheese.</snippet>
+         <url>http://www.tvguide.com/detail/movie.aspx?tvobjectid=287797&amp;more=ucmoviereview</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>Despite all the stock characters and scenarios, Fox and company manage to bring things to life. And cut some hair.</snippet>
+         <url>http://www.philly.com/inquirer/columnists/steven_rea/20070511_Another_visit_to_barbershop.html</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>Adapted from a years-old stage play, The Salon, Mark Brown's stilted, sista-centric answer to "Barbershop," definitely shows its roots. And despite a few highlights, the overall effect is not pretty.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2007/05/11/2007-05-11_new_beauty_shop_cant_make_the_cut.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>The movie includes a few good one-liners, but that's really all it is -- a forum for putdowns and sassy dialogues.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-to.salon11may11,0,1850304.story?coll=bal-movies-utility</url>
+         <critic>Chris Kaltenbach</critic>
+      </review>
+      <review>
+         <snippet>The main problem with the movie is the by now shopworn nature of its setting. Been there, snipped it. Though dating from venerable material, The Salon turns out to be one haircut too many.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-070511-movies-review-salon,0,7731171.story?coll=mmx-movies_top_heds</url>
+         <critic>Sid Smith</critic>
+      </review>
+      <review>
+         <snippet>A cut below its predecessors.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/imdb/reviews/article_display.jsp?rid=1000781345&amp;vnu_special_account_code=thrsiteimdbpro</url>
+         <critic>Duane Byrge</critic>
+      </review>
+      <review>
+         <snippet>A romance between Fox and the attorney trying to force her out (Darrin Henson) taxes belief and leads to a sappy ending that doesn't come soon enough.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/22022_SALON.html</url>
+         <critic>Andrea Gronvall</critic>
+      </review>
+      <review>
+         <snippet>A tiresome blend of overacting and underwriting, The Salon moves from one predictable conversation to another -- the lack of available black men, the wondrousness of Bill Clinton -- without originality or comic rhythm.</snippet>
+         <url>http://movies2.nytimes.com/2007/05/10/movies/11salon.html?ref=movies</url>
+         <critic>Jeannette Catsoulis</critic>
+      </review>
+      <review>
+         <snippet>Save the price of admission to this dull retread and go have your hair done.</snippet>
+         <url>http://sfgate.com/cgi-bin/article.cgi?f=/c/a/2007/05/11/DDGF5POCSE1.DTL#flick2</url>
+         <critic>Ruthe Stein</critic>
+      </review>
+      <review>
+         <snippet>The comic equivalent of microwaved leftover food -- and pretty stale at that.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1135137&amp;categories=Movies&amp;nm=1</url>
+         <critic>Desson Thomson</critic>
+      </review>
+      <review>
+         <snippet>The Salon is a cut below.</snippet>
+         <url>http://www.calendarlive.com/printedition/calendar/cl-et-salon11may11,0,5348930.story</url>
+         <critic>Michael Ordoña</critic>
+      </review>
+      <review>
+         <snippet>Where's Al Sharpton's decency parade when you need it?</snippet>
+         <url>http://www.villagevoice.com/film/0719,wallace,76604,20.html</url>
+         <critic>Julia Wallace</critic>
+      </review>
+      <review>
+         <snippet>It isn't as if any of the actors do an especially bad job or anything – Fox is capable enough as the lead, and Whitley and Wilson especially carry themselves quite well – but you can't help asking yourself, what's the point? Are there that many more broad topics in need of shallow examination by a Hollywood studio picture?</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=6804</url>
+         <critic>Pete Vonder Haar</critic>
+      </review>
+      <review>
+         <snippet>So sanctimonious and sincere in its pandering.</snippet>
+         <url>http://www.avclub.com/content/cinema/the_salon</url>
+         <critic>Tasha Robinson</critic>
+      </review>
+      <review>
+         <snippet>A feeble dramedy about a Baltimore beauty shop where someone should come in to sweep up the clichés.</snippet>
+         <url>http://www.nypost.com/seven/05112007/entertainment/movies/the_salon_movies_kyle_smith.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+   </reviews>
+   <US_Gross>$139,084</US_Gross>
+   <production_budget>$1,500,000</production_budget>
+   <weekend_gross>$92,362</weekend_gross>
+   <number_of_screens>210</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Monsters vs. Aliens</name>
+   <company>DreamWorks Animation</company>
+   <genres>
+      <genre>Animation</genre>
+   </genres>
+   <authors>
+      <author>Conrad Vernon</author>
+      <author>Rob Letterman</author>
+      <author>Glenn Berger, Jonathan Aibel</author>
+      <author>Wallace Wolodarsky, Maya Forbes</author>
+   </authors>
+   <directors>
+      <director>Conrad Vernon</director>
+      <director>Rob Letterman</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Reese Witherspoon</actor>
+      <actor>Seth Rogen</actor>
+      <actor>Hugh Laurie</actor>
+      <actor>Will Arnett</actor>
+      <actor>Kiefer Sutherl</actor>
+      <actor>Stephen Colbert</actor>
+      <actor>Renée Zellweger</actor>
+      <actor>Rainn Wilson</actor>
+   </actors>
+   <release_date>March 27, 2009</release_date>
+   <running_time>94</running_time>
+   <rating>PG</rating>
+   <reviews>
+      <review>
+         <snippet>Pure, light entertainment.</snippet>
+         <url>http://blog.oregonlive.com/madaboutmovies/2009/03/review_monsters_vs_aliens_than.html</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>Yayyyy, monsters!</snippet>
+         <url>http://www.empireonline.com/reviews/review.asp?FID=134897</url>
+         <critic>Kim Newman</critic>
+      </review>
+      <review>
+         <snippet>The grandeur of the effects--the honest-to-God spectacle of the thing--elevates Monsters vs. Aliens to something approaching art. It's not a masterpiece, but it's most certainly a milestone.</snippet>
+         <url>http://www.villagevoice.com/2009-03-25/film/dreamworks-in-your-face-the-3-d-majesty-of-monsters-vs-aliens/</url>
+         <critic>Robert Wilonsky</critic>
+      </review>
+      <review>
+         <snippet>The richly multilayered picture tends to have a gently immersive effect, akin to a stroll through the world's most expensive diorama.</snippet>
+         <url>http://www.slate.com/id/2214715/</url>
+         <critic>Jessica Winter</critic>
+      </review>
+      <review>
+         <snippet>Full disclosure: I saw Monsters vs. Aliens in 2-D. No dorky plastic glasses, no alien ooze flying at my head. More full disclosure: I liked it.</snippet>
+         <url>http://www.philly.com/inquirer/columnists/steven_rea/20090327__Monsters_vs__Aliens__is_an_any-D_delight.html</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>This is a pleasure to watch for everyone.</snippet>
+         <url>http://www.premiere.com/Review/Movies/Monsters-vs.-Aliens-3D</url>
+         <critic>Staff (Not credited)</critic>
+      </review>
+      <review>
+         <snippet>The movie may best be appreciated by people who know the references. All five monsters come from low-budget science fiction films of the 1950s.</snippet>
+         <url>http://events.charlotteobserver.com/reviews/show/42867-review-monsters-vs-aliens</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>My favorite voice/animation combo, however, is Stephen Colbert's very terrestrial president of the United States.</snippet>
+         <url>http://www.csmonitor.com/2009/0328/p25s01-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>This is a lean 90 minutes, packed with laughs and age-appropriate thrills -- not to mention a solid lesson for girls about self-respect.</snippet>
+         <url>http://movies.tvguide.com/monsters-vs-aliens/review/296965</url>
+         <critic>Perry Seibert</critic>
+      </review>
+      <review>
+         <snippet>Dazzling colors, winning characters and energetic visual effects all work in concert, with the 3-D animation serving to intensify the experience.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2009-03-26-monsters-vs-alien_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>Another crowd-pleasing, expert-babysitting vaudeville turn.</snippet>
+         <url>http://www.time.com/time/arts/article/0,8599,1887833,00.html</url>
+         <critic>Richard Corliss</critic>
+      </review>
+      <review>
+         <snippet>In fact "nice" is the adjective that seems to surface most in trying to pin down the film's most salient quality, which means that while the film is enjoyable enough, it is unlikely to become a classic for us, or a "Shrek" sort of franchise for DreamWorks.</snippet>
+         <url>http://www.latimes.com/entertainment/la-et-monsters27-2009mar27,0,7224061.story</url>
+         <critic>Betsy Sharkey</critic>
+      </review>
+      <review>
+         <snippet>Children won't get the references to atomic-age monster movies, but the film offers more than nostalgia: there are slyly funny performances by Seth Rogen as an omnivorous blue blob and Stephen Colbert as the U.S. president, who faces down, and then flees, an alien invasion.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/34226_MONSTERS_VERSUS_ALIENS.html</url>
+         <critic>Andrea Gronvall</critic>
+      </review>
+      <review>
+         <snippet>There is a nice mix of action with tender moments -- especially among the misfit monsters</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film-reviews/film-review-monsters-vs-aliens-1003953998.story</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>A film of chuckles, smiles and light amusement rather than big laughs, galvanizing excitement and original invention.</snippet>
+         <url>http://www.variety.com/review/VE1117939911.html?categoryid=31&amp;cs=1</url>
+         <critic>Todd McCarthy</critic>
+      </review>
+      <review>
+         <snippet>On some level, the latest DreamWorks CGI project isn't a movie so much as a gag-delivery system wrapped in special effects. The story is crammed with incident, yet completely trifling; there are a ton of personalities, but no real characters.</snippet>
+         <url>http://www.avclub.com/articles/monsters-vs-aliens,25647/</url>
+         <critic>Tasha Robinson</critic>
+      </review>
+      <review>
+         <snippet>If you have to see Monsters vs. Aliens - and if you're a parent, you will have to - make sure it's the 3-D version.</snippet>
+         <url>http://www.boston.com/ae/movies/articles/2009/03/27/monsters_vs_aliens/</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>3-D is a distraction and an annoyance.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20090325/REVIEWS/903259989</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>Monsters vs. Aliens suffers from the common 3D problems: dim lighting, poor focus in fast-paced action sequences, and too many distractions for the movie to grab the viewer.</snippet>
+         <url>http://www.reelviews.net/php_review_template.php?identifier=1551</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>"WALL-E" had more charm, more soul, more everything. But there's enough merry mischief here to satisfy, even if you’re way past puberty.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/26519958/review/26971261/monsters_vs_aliens</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>The 3D visuals are an enormous part of MVA's experience and they also help to cover up the lackluster “comedy.”</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=11647</url>
+         <critic>Eric Campos</critic>
+      </review>
+      <review>
+         <snippet>The movie works hard -- desperately hard -- to be all things to all audience segments. And the visible effort erodes the sense of gaiety, of unfettered fun.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20267707,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>After a while, you can see the setups happening -- and once you do, the careening gets predictable. Which gets old, really fast.</snippet>
+         <url>http://www.npr.org/templates/story/story.php?storyId=102336574</url>
+         <critic>Bob Mondello</critic>
+      </review>
+      <review>
+         <snippet>Even in 3D, as the picture is being shown in some theaters -- Ginormica is a disappointingly flat character.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2009/03/27/monsters_aliens/index.html</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>As I took off my gray-lensed 3-D spectacles at the end of Monsters vs. Aliens, I felt not so much immersed as fuzzy with exhaustion. What I had seen struck me less as a herald of shining possibility than as a thrill ride back to the future--back, that is, to an idea of the future, and a stale one at that.</snippet>
+         <url>http://www.newyorker.com/arts/critics/cinema/2009/04/06/090406crci_cinema_lane</url>
+         <critic>Anthony Lane</critic>
+      </review>
+      <review>
+         <snippet>The movie is reasonably entertaining, though it helps to be 6 years old.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2009/03/27/MVS116MQB8.DTL</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>Despite the 3-D gadgetry, there's a musty odour to the script.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20090326.wmonsters0327/BNStory/Entertainment/home</url>
+         <critic>Rick Groen</critic>
+      </review>
+      <review>
+         <snippet>The movie is curiously unmemorable, partly because nearly all of its humor depends on your having seen something like it before, even if you haven't.</snippet>
+         <url>http://movies.nytimes.com/2009/03/27/movies/27mons.html?ref=movies</url>
+         <critic>A.O. Scott</critic>
+      </review>
+      <review>
+         <snippet>Has bells and whistles, superb technical sophistication and dazzling visual effects, sound, fury and Reese Witherspoon. What it doesn't have is heart. Like so many vehicles that have popped out from the DreamWorks Animation snark tank, Monsters vs. Aliens is too clever by half.</snippet>
+         <url>http://www.washingtonpost.com/gog/movies/monsters-vs.-aliens,1155911.html</url>
+         <critic>Ann Hornaday</critic>
+      </review>
+      <review>
+         <snippet>This action-comedy will seem fresh only to 8-year-olds -- though it may give parents an excuse to introduce some of the '50s horror movies it parodies.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2009/03/26/2009-03-26_monsters_vs_aliens_runs_out_of_gas_halfw.html</url>
+         <critic>Joe Neumaier</critic>
+      </review>
+      <review>
+         <snippet>The misfits, as ever, must take a back seat to the morality, and the result – while in no way migraine-inducing – traffics in rote truisms.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A756792</url>
+         <critic>Kimberley Jones</critic>
+      </review>
+      <review>
+         <snippet>The biggest battle in Monsters vs. Aliens is banality vs. originality, and banality carries the day.</snippet>
+         <url>http://online.wsj.com/article/SB123810363614851865.html</url>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>Will pop your eyes without tickling your funny bone.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-to.monsters27mar27,0,1307638.story</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>It's tough to get on board with these monsters. They don't get the banter they--or we--deserve, and the screenwriters lean on wearying stereotypes.</snippet>
+         <url>http://www.chicagotribune.com/entertainment/movies/chi-tc-mov-monsters-vs.-aliens-0mar27,0,7052835.story</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>Dreamworks Animation's clunky and wildly unimaginative Monsters vs. Aliens really doesn't have a clue what to do with the [3-D] technique.</snippet>
+         <url>http://www.nypost.com/seven/03272009/entertainment/movies/out_of_toon_161530.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+   </reviews>
+   <US_Gross>$198,351,526</US_Gross>
+   <weekend_gross>$59,321,095</weekend_gross>
+   <number_of_screens>4,104</number_of_screens>
+   <oscar_winning_actors_present/>
+   <num_oscar_winning_actors>1</num_oscar_winning_actors>
+   <oscar_winning_actor>reese witherspoon</oscar_winning_actor>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

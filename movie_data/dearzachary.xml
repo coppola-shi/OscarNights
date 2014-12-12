@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Dear Zachary: A Letter to a Son About His Father</name>
+   <company>Oscilloscope Pictures</company>
+   <genres>
+      <genre>Documentary</genre>
+   </genres>
+   <authors>
+      <author>Kurt Kuenne</author>
+   </authors>
+   <directors>
+      <director>Kurt Kuenne</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Kurt Kuenne</actor>
+      <actor>Zachary Andrew</actor>
+      <actor>David Bagby</actor>
+      <actor>Dr. Andrew Bagby</actor>
+      <actor>Kathleen Bagby</actor>
+   </actors>
+   <release_date>October 31, 2008</release_date>
+   <running_time>95</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>Masterfully put together.</snippet>
+         <url>http://www.premiere.com/moviereviews/4826/dear-zachary-a-letter-to-a-son-about-his-father.html</url>
+         <critic>Jenni Miller</critic>
+      </review>
+      <review>
+         <snippet>The film's overall result is a document of towering, devastating emotional impact.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=11470</url>
+         <critic>Scott Mendelson</critic>
+      </review>
+      <review>
+         <snippet>Among the most enraging (documentaries)  I've ever seen, and while it's fine and heartfelt and I commend it to those of you with strong constitutions, it is the film that has finally broken me.</snippet>
+         <url>http://nymag.com/movies/reviews/51816/</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>An undeniably shattering story, if forgivably shaky in its impassioned, therapeutic unfolding.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-capsules7-2008nov07,0,7393072.story</url>
+         <critic>Robert Abele</critic>
+      </review>
+      <review>
+         <snippet>You can't help getting emotionally involved, and as the central outrage -- a case of judicial negligence that would seem unbelievable in a work of fiction -- plays out, you feel the pain and anger that Bagby's family and friends experienced. Then the story takes a final, horrible twist that's almost too much to endure.</snippet>
+         <url>http://www.oregonlive.com/movies/index.ssf/2008/11/movie_review_dear_zachary_a_po.html</url>
+         <critic>Stan Hall</critic>
+      </review>
+      <review>
+         <snippet>Kuenne lovingly assembles home-movie footage and new interviews, while deftly borrowing a narrative trick from fiction--the plot twist--to create a true-crime story so gripping, devastating, and ultimately unforgettable that it easily trumps any thriller Hollywood has to offer this year.</snippet>
+         <url>http://www.villagevoice.com/2008-10-29/film/dear-zachary-a-letter-to-a-son-about-his-father-is-a-lifetime-in-the-making/</url>
+         <critic>Martin Tsai</critic>
+      </review>
+      <review>
+         <snippet>Without becoming a screed for victims' rights, the riveting film shows how in the face of terrible events a grieving parent is galvanized into activism.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?JSESSIONID=R7k6JKLGqvhCFzYW972ZbP2J5ThTfMgfcJYpCGczD19J4psdrR3c!1903249493&amp;&amp;rid=11888</url>
+         <critic>Sheri Linden</critic>
+      </review>
+      <review>
+         <snippet>It is impossible not to be fired up by Kurt Kuenne's incendiary cri de coeur, Dear Zachary: A Letter to a Son About His Father.</snippet>
+         <url>http://movies.nytimes.com/2008/10/31/movies/31dear.html?ref=movies</url>
+         <critic>Stephen Holden</critic>
+      </review>
+      <review>
+         <snippet>A gut-wrenching experience.</snippet>
+         <url>http://www.nypost.com/seven/10312008/entertainment/movies/trials_and_tribute_136085.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>The facts are so awful that Dear Zacharycan be forgiven much of its antsiness--as a memorial, as a condolence to Bagby’s parents (who became activists for judicial reform in their late son's honor), and as a howl of grief.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20236466,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>The way Kuenne presents the material, with an aggressive style that lingers less than a second on most shots, it's impossible not to feel emotionally exhausted.</snippet>
+         <url>http://www.variety.com/review/VE1117935933.html?categoryid=2850&amp;cs=1</url>
+         <critic>Peter Debruge</critic>
+      </review>
+   </reviews>
+   <US_Gross>$20,834</US_Gross>
+   <weekend_gross>$2,886</weekend_gross>
+   <number_of_screens>1</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

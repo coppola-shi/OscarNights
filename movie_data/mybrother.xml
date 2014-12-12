@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>My Brother</name>
+   <company>Codeblack Entertainment</company>
+   <genres>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author>Anthony Lover</author>
+   </authors>
+   <directors>
+      <director>Anthony Lover</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Vanessa Williams</actor>
+      <actor>Nashawn Kearse</actor>
+      <actor>Tatum O&amp;#039;Neal</actor>
+      <actor>Fredro Starr</actor>
+      <actor>Christopher Scott</actor>
+      <actor>Rodney Henry</actor>
+      <actor>Donovan Jennings</actor>
+      <actor>Nasser Metcalf</actor>
+   </actors>
+   <release_date>March 16, 2007</release_date>
+   <running_time>100</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>The first half of Lover's film is surprisingly affecting...But the film comes apart in its second half, when James' flight triggers a long series of flashbacks to the brothers' childhood.</snippet>
+         <url>http://tvguide.com/detail/movie.aspx?tvobjectid=286868&amp;more=ucmoviereview</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>My Brother is brimming with would-be life lessons. But the movie goes in so many directions, and follows through on so few of them, that all it transmits is a vague glow. It's watered-down chicken soup for the soul.</snippet>
+         <url>http://www.calendarlive.com/printedition/calendar/cl-et-brother16mar16,0,594759.story</url>
+         <critic>Sam Adams</critic>
+      </review>
+      <review>
+         <snippet>The movie's strongest element is the chemistry between the reflective Mr. Kearse and Mr. Scott (who really has Down syndrome). Improving on its obvious antecedent in "Dominick and Eugene," their relationship feels real, not like a movie contrivance.</snippet>
+         <url>http://movies2.nytimes.com/2007/03/15/movies/16brot.html?ref=movies</url>
+         <critic>Matt Zoller Seitz</critic>
+      </review>
+      <review>
+         <snippet>A heavy-handed redemption story.</snippet>
+         <url>http://www.variety.com/review/VE1117933092.html?categoryid=31&amp;cs=1</url>
+         <critic>Peter Debruge</critic>
+      </review>
+      <review>
+         <snippet>Writer-director Anthony Lover takes such a kid-gloves approach to his handicapped co-star that he achieves the opposite of the intended effect: Every time Scott enters a scene, it's as if someone just told the entire cast "Whatever you do, don't say 'retard.' "</snippet>
+         <url>http://www.villagevoice.com/film/0711,film,76059,20.html</url>
+         <critic>Scott Foundas</critic>
+      </review>
+      <review>
+         <snippet>What it possesses in heart and goodwill, it sorely lacks in narrative skill and artistic depth.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1115262&amp;categories=Movies&amp;nm=1</url>
+         <critic>Ann Hornaday</critic>
+      </review>
+   </reviews>
+   <US_Gross>$62,707</US_Gross>
+   <weekend_gross>$32,397</weekend_gross>
+   <number_of_screens>28</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

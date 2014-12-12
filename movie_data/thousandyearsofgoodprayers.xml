@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Thousand Years of Good Prayers, A</name>
+   <company>Magnolia Pictures</company>
+   <genres>
+      <genre>Drama</genre>
+      <genre>Romance</genre>
+   </genres>
+   <authors>
+      <author>Yiyun Li</author>
+      <author>Michael Ray</author>
+   </authors>
+   <directors>
+      <director>Wayne Wang</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Henry O</actor>
+      <actor>Faye Yu</actor>
+      <actor>Vida Ghahreman</actor>
+      <actor>Pasha Lychnikoff</actor>
+   </actors>
+   <release_date>September 19, 2008</release_date>
+   <running_time>83</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>In observing the reality of this relationship, Wang contemplates the "generation gap" in modern societies all over the world. His film quietly, carefully, movingly observes how these two people of the same blood will never be able to understand each other, and the younger one won't even care to.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20081008/REVIEWS/810089987</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>A spare, controlled study in communication gaps and a piercing sketch of suburban American loneliness.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20228556,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>Rich in revealing detail and apt in its use of everyday Spokane settings, A Thousand Years of Good Prayers shows that Wang remains a master explorer of the landscape of the human heart.</snippet>
+         <url>http://www.latimes.com/entertainment/news/reviews/la-et-prayers26-2008sep26,0,6410101.story</url>
+         <critic>Kevin Thomas</critic>
+      </review>
+      <review>
+         <snippet>An intelligent look at family dynamics set in a boring Washington State suburb where Bible-thumping Mormons come knocking on your door.</snippet>
+         <url>http://www.nypost.com/seven/09192008/entertainment/movies/our_prayers_are_answered_129731.htm</url>
+         <critic>V.A. Musetto</critic>
+      </review>
+      <review>
+         <snippet>Has a jangly, improvisational tone, with nuanced moments of humor and pathos.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2008/09/25/DDC1134DB2.DTL&amp;type=movies</url>
+         <critic>Reyhan Harmanci</critic>
+      </review>
+      <review>
+         <snippet>Wang's A Thousand Years of Good Prayers gives the impression of a director reborn, or at least a director who has his mojo back.</snippet>
+         <url>http://www.csmonitor.com/2008/0920/p25s03-almo.html</url>
+         <critic>Robert Koehler</critic>
+      </review>
+      <review>
+         <snippet>The movie is almost willfully dull, for its real subject is everything we never say to our parents, or they to us.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=12024</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>Modest but moving, a finely observed portrait of a father/daughter relationship that will resonate deeply for many viewers.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/imdb/reviews/article_display.jsp?rid=9832&amp;vnu_special_account_code=thrsiteimdbpro</url>
+         <critic>John DeFore</critic>
+      </review>
+      <review>
+         <snippet>There's nothing earth-shattering going on here, but it's a film you'll want to befriend.</snippet>
+         <url>http://www.villagevoice.com/2008-09-17/film/wayne-wang-s-immigrant-experience-story-a-thousand-years-of-good-prayers/</url>
+         <critic>Aaron Hillis</critic>
+      </review>
+      <review>
+         <snippet>A gentle, pleasantly unrushed piece of moviemaking. There’s a tonic simplicity to how it gets the job done, and if the film comes off as fairly conventional stuff, it nevertheless succeeds on its own modest, middlebrow terms.</snippet>
+         <url>http://movies.nytimes.com/2008/09/19/movies/19pray.html?ref=movies</url>
+         <critic>Nathan Lee</critic>
+      </review>
+      <review>
+         <snippet>Very little actually happens, since most of the time Mr. Shi sits alone in Yilan's empty apartment, wondering how to help her. But there's a gentle beauty in these long, anguished silences, and Wang and his actors make the most of it.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2008/09/19/2008-09-19_short_takes_for_the_weekend_of_september.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>A quiet work with Ozu-like structure and concerns, but remains more an intellectual exercise than one from the heart.</snippet>
+         <url>http://www.variety.com/review/VE1117934785.html?categoryid=31&amp;cs=1&amp;p=0</url>
+         <critic>Todd McCarthy</critic>
+      </review>
+      <review>
+         <snippet>May leave you longing for a story to make you care.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1149986&amp;categories=Movies</url>
+         <critic>Neely Tucker</critic>
+      </review>
+      <review>
+         <snippet>As in most of Wang's films, a memorable cast of characters compensates for a serviceable plot.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/33666_THOUSAND_YEARS_OF_GOOD_PRAYERS.html</url>
+         <critic>Joshua Katzman</critic>
+      </review>
+      <review>
+         <snippet>Most of the film isn't as willing to reach out to viewers, and most won't be willing to do all the work in order to connect with it.</snippet>
+         <url>http://www.avclub.com/content/cinema/a_thousand_years_of_good_prayers</url>
+         <critic>Tasha Robinson</critic>
+      </review>
+   </reviews>
+   <US_Gross>$76,806</US_Gross>
+   <weekend_gross>$10,321</weekend_gross>
+   <number_of_screens>2</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Venom</name>
+   <company>Dimension Films</company>
+   <genres>
+      <genre>Horror</genre>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>Brandon Boyce</author>
+      <author>Flint Dille</author>
+      <author>John Zuur Platten</author>
+   </authors>
+   <directors>
+      <director>Jim Gillespie</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Agnes Bruckner</actor>
+      <actor>Jonathan Jackson</actor>
+      <actor>Laura Ramsey</actor>
+      <actor>D.J. Cotrona</actor>
+      <actor>Rick Cramer</actor>
+      <actor>Meagan Good</actor>
+      <actor>Bijou Phillips</actor>
+      <actor>Method Man</actor>
+   </actors>
+   <release_date>September 16, 2005</release_date>
+   <running_time>85</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>Smartly directed by Jim Gillespie from a script by various hands, Venom is from Dimension Films and follows its stylish, energetic and darkly amusing horror movie tradition.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-capsules16sep16,0,7597776.story</url>
+         <critic>Kevin Thomas</critic>
+      </review>
+      <review>
+         <snippet>Although, in the end, this is basically just a moss-strewn remake of his 1997 hit, "I Know What You Did Last Summer," director Jim Gillespie appears invigorated, sending his capable young cast into a series of nicely staged suspense sequences.</snippet>
+         <url>http://www.laweekly.com/film/film_results.php?showid=3564&amp;Sumbit.x=48&amp;Sumbit.y=9</url>
+         <critic>Chuck Wilson</critic>
+      </review>
+      <review>
+         <snippet>A competent concoction of familiar ingredients, smothered with gothic mood and served up with a generous helping of teenagers: skewered, slashed and stabbed.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/240888_venom16q.html</url>
+         <critic>Sean Axmaker</critic>
+      </review>
+      <review>
+         <snippet>Acquits itself well enough. Gratuitously gory and derivative to the core, Venom manages to deliver some effective frights in between large swaths of voodoo gibberish.</snippet>
+         <url>http://www.variety.com/review/VE1117928207?categoryid=31&amp;cs=1</url>
+         <critic>Justin Chang</critic>
+      </review>
+      <review>
+         <snippet>Gillespie showed a real knack for '80s-style retro horror with "I Know What You Did," and while a few sequences here have the familiar-but-enjoyable framing and stylization of an old EC horror comic, his material defeats him.</snippet>
+         <url>http://avclub.com/content/node/40906</url>
+         <critic>Nathan Rabin</critic>
+      </review>
+      <review>
+         <snippet>Venom certainly can't be called a good movie, but within its genre it's perfectly palatable.</snippet>
+         <url>http://www.nytimes.com/2005/09/16/movies/16veno.html</url>
+         <critic>Anita Gates</critic>
+      </review>
+      <review>
+         <snippet>The final showdown between sole survivor and killer is sufficiently well done that you wonder why the rest didn't measure up.</snippet>
+         <url>http://listings.dallasobserver.com/gyrobase/Film/ShowFilm</url>
+         <critic>Luke Y. Thompson</critic>
+      </review>
+      <review>
+         <snippet>This misbegotten horror film deserved to go direct to video. Or cable. Or oblivion.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1001138792</url>
+         <critic>Frank Scheck</critic>
+      </review>
+      <review>
+         <snippet>Shot as "Backwater" and test-screened as "The Reaper," this film contains a couple of bracingly mean sequences, but it cleaves so closely to the slasher-movie formula that it can't muster up any suspense at all.</snippet>
+         <url>http://online.tvguide.com/movies/database/ShowMovie.asp?MI=46409</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>A clichéd and flat out boring film that doesn’t even approach the mediocrity of director Jim Gillespie’s 1997 pic in the same genre, "I Know What You Did Last Summer."</snippet>
+         <url>http://www.premiere.com/article.asp?section_id=2&amp;article_id=2301</url>
+         <critic>Ryan Devlin</critic>
+      </review>
+      <review>
+         <snippet>A mud-simple horror trudge set in a swamp colony of Abercrombie models.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1107506_1_0_,00.html</url>
+         <critic>Scott Brown</critic>
+      </review>
+      <review>
+         <snippet>A witless, derivative slasher flick.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/moviereviews/story/346823p-295892c.html</url>
+         <critic>Robert Dominguez</critic>
+      </review>
+      <review>
+         <snippet>All hopes for suspense and plot twists are snuffed out about as quickly as the film's black characters.</snippet>
+         <url>http://www.nypost.com/movies/52774.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>If ridiculous, hackneyed, gratuitously violent slasher movies aren't your thing, don't go near Venom with a 10-foot snake pole.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=8135</url>
+         <critic>Janice Page</critic>
+      </review>
+      <review>
+         <snippet>Sadly, the concept of dialogue is totally lost on the makers of Venom, a laughably bad example of teen-scream movies.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-050916-movies-review-venom,0,3724288.story?coll=mmx-movies_top_heds</url>
+         <critic>Jessica Reaves</critic>
+      </review>
+      <review>
+         <snippet>Could there be a more inappropriate time to release a cheesy horror movie about evildoing in Louisiana.</snippet>
+         <url>http://ae.miami.com/entertainment/ui/miami/movie.html?id=415675&amp;reviewId=19040</url>
+         <critic>Connie Ogle</critic>
+      </review>
+      <review>
+         <snippet>This insipid take on the teens-in-peril formula, with a snake-bit ghoul chasing kids around the bayou, is truly a fangless task.</snippet>
+         <url>http://ae.philly.com/entertainment/ui/philly/movie.html?id=415675&amp;reviewId=19038</url>
+         <critic>David Hiltbrand</critic>
+      </review>
+      <review>
+         <snippet>Reprises all the tedium of slasher flicks.</snippet>
+         <url>http://www.washingtonpost.com/wp-dyn/content/article/2005/09/15/AR2005091500602.html</url>
+         <critic>Desson Thomson</critic>
+      </review>
+      <review>
+         <snippet>Sadly, the death scenes are so unimaginative and the gore is so minimal that you might miss it if you blink.</snippet>
+         <url>http://www.filmthreat.com/Reviews.asp?Id=7989</url>
+         <critic>Michael Ferraro</critic>
+      </review>
+      <review>
+         <snippet>You'll feel so much better just sending your $9.50 to the Red Cross then catching "I Know What You Did Last Summer" one more time on television.</snippet>
+         <url>http://sfgate.com/cgi-bin/article.cgi?f=/c/a/2005/09/16/DDGDFENP331.DTL&amp;type=movies</url>
+         <critic>Peter Hartlaub</critic>
+      </review>
+      <review>
+         <snippet>Venom isn't worth a critic's venom, but a brief condemnation is in order.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-to.venom17sep17,1,3412854.story?coll=bal-movies-storyutil</url>
+         <critic>Michael Sragow</critic>
+      </review>
+   </reviews>
+   <US_Gross>$881,745</US_Gross>
+   <production_budget>$25,000,000</production_budget>
+   <weekend_gross>$519,489</weekend_gross>
+   <number_of_screens>489</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

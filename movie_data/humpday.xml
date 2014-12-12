@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Humpday</name>
+   <company>Magnolia Pictures</company>
+   <genres>
+      <genre>Comedy</genre>
+   </genres>
+   <authors>
+      <author>Lynn Shelton</author>
+   </authors>
+   <directors>
+      <director>Lynn Shelton</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Mark Duplass</actor>
+      <actor>Joshua Leonard</actor>
+      <actor>Alycia Delmore</actor>
+      <actor>Lynn Shelton</actor>
+      <actor>Trina Willard</actor>
+   </actors>
+   <release_date>July 10, 2009</release_date>
+   <running_time>94</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>Humpday succeeds, often beautifully, by grounding its risque premise in the awkwardness and humor of real people trying their damnedest to communicate. A lot.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2009/07/16/MO6V18NQBG.DTL&amp;type=movies</url>
+         <critic>Amy Biancolli</critic>
+      </review>
+      <review>
+         <snippet>Anna's thoughts matter because, as played by the wonderfully nuanced newcomer Alycia Delmore, the no-bull responses of this perceptive woman are a key to Humpday's sly, wised-up feminist outlook.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20290035,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>Humpday carefully raises the stakes until it hits a finale loaded with humor, tenderness, and delicious ambiguity. It’s like "Old Joy" by way of Judd Apatow.</snippet>
+         <url>http://www.avclub.com/articles/humpday,30167/</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>The movie’s unblinking observation of a friendship put to the test is amused, queasy making, kindhearted and unfailingly truthful.</snippet>
+         <url>http://movies.nytimes.com/2009/07/10/movies/10hump.html?ref=movies</url>
+         <critic>Stephen Holden</critic>
+      </review>
+      <review>
+         <snippet>May not be the single best movie I've seen so far this year--though it's certainly a contender for the title--but it's without doubt the most surprising.</snippet>
+         <url>http://www.slate.com/id/2222572/</url>
+         <critic>Dana Stevens</critic>
+      </review>
+      <review>
+         <snippet>Funny, yes, but also observant and thought-provoking.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20090722/REVIEWS/907229991</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>Humpday mixes hilarity with upset as the irresistible force of male pride meets the immovable object of sexual identity.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-humpday-review-0730,0,2617139.story</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>There's a wonderful chemistry between them -- though the film wisely allows Duplass and Delmore an equally intimate connection. Choices like that enable the modest Humpday to capture the lives of its protagonists more credibly than any Hollywood-manufactured comedy of recent vintage.</snippet>
+         <url>http://blog.oregonlive.com/madaboutmovies/2009/07/humpday_a_fine_bromance.html</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>Unlike a lot of institutional raunch in today's comedy, Humpday finds laughs out of what is rarely made explicit between buddies.</snippet>
+         <url>http://www.latimes.com/entertainment/news/la-et-humpday24-2009jul24,0,2172093.story</url>
+         <critic>Robert Abele</critic>
+      </review>
+      <review>
+         <snippet>One of the best indie films of the year, Humpday is a lighter descendant of "sex lies and videotape," yet burrows just as deep into the male psyche and the human capacity for self-deceit.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2009/07/10/2009-07-10_humpday_soul_power_.html</url>
+         <critic>Joe Neumaier</critic>
+      </review>
+      <review>
+         <snippet>I'm guessing Humpday will make its natural, easygoing leading men -- Mark Duplass and Joshua Leonard -- much sought after.</snippet>
+         <url>http://www.npr.org/templates/story/story.php?storyId=106165198</url>
+         <critic>Bob Mondello</critic>
+      </review>
+      <review>
+         <snippet>Lynn Shelton's marvelous chamber comedy Humpday butts up against the same sort of taboos as "Brüno," and in its fumbling, semi-improvised way, it’s equally hilarious and even more subversive.</snippet>
+         <url>http://nymag.com/movies/reviews/57754/</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>Funny, uncomfortable and cleverly insightful.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=11484</url>
+         <critic>Don R. Lewis</critic>
+      </review>
+      <review>
+         <snippet>The movie does open up a lot of heretofore vacuum-sealed cans of worms. Does sex represent a sort of grand completeness that men secretly yearn for in their friendships?</snippet>
+         <url>http://movies.tvguide.com/humpday/review/298004</url>
+         <critic>Cammila Albertson</critic>
+      </review>
+      <review>
+         <snippet>Humpday sells its admittedly far-fetched premise by illustrating how men often can't help but behave like stubborn children in the company of their friends -- even when the stakes are raised to ridiculous levels.</snippet>
+         <url>http://www.miamiherald.com/entertainment/movies/reviews/story/1153683.html</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>Humpday is mostly foreplay. But isn't that usually the most fun anyway? It certainly is in this film.</snippet>
+         <url>http://www.theglobeandmail.com/news/arts/humpday/article1228542/</url>
+         <critic>Jennie Punter</critic>
+      </review>
+      <review>
+         <snippet>While at times the improvisational dialogue sounds like audio filler, the three leads are poignant and perceptive.</snippet>
+         <url>http://www.philly.com/philly/entertainment/movies/20090731_Old_college_buds_compare_freedom__fidelity.html</url>
+         <critic>Carrie Rickey</critic>
+      </review>
+      <review>
+         <snippet>Delmore, Duplass and Leonard work up a loose-limbed, improvisatory energy, but Humpday radiates with the sheen of a film that has been thought out within an inch of its witty and insightful life.</snippet>
+         <url>http://www.washingtonpost.com/gog/movies/humpday,1156500.html</url>
+         <critic>Jan Stuart</critic>
+      </review>
+      <review>
+         <snippet>A visually mangy but frequently hilarious low-budgeter.</snippet>
+         <url>http://www.variety.com/review/VE1117939361.html?categoryid=31&amp;cs=1&amp;query=humpday</url>
+         <critic>Todd McCarthy</critic>
+      </review>
+      <review>
+         <snippet>Reuniting an uptight married man with a footloose old pal, Lynn Shelton's third feature offers a (much) more extreme version of Kelly Reichardt's "Old Joy," also a sort of buddy movie, also shot in Seattle.</snippet>
+         <url>http://www.villagevoice.com/2009-07-08/film/sacha-baron-cohen-in-queerface-for-bruno-mumblecore-boys-in-bed-for-humpday/2</url>
+         <critic>J. Hoberman</critic>
+      </review>
+      <review>
+         <snippet>As for that central question: Yep, it’s art, all right. One only wishes they’d gotten down to the business of it sooner.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A828067</url>
+         <critic>Kimberley Jones</critic>
+      </review>
+      <review>
+         <snippet>Serves up some caustic laughs before fizzling out.</snippet>
+         <url>http://www.boston.com/ae/movies/articles/2009/07/24/humpday_offers_up_laughs_and_limitations/</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>Maybe Humpday needed more characters and a less claustrophobic atmosphere. Maybe the film needed to be bolder and break a few boundaries itself. Maybe it could have better explained why these two men still need to be friends. Whatever the case, it certainly needed a better payoff.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film-reviews/film-review-humpday-1003931628.story</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>The scenes between husband and wife are spectacularly awkward and arresting, though the movie grows more dubious the nearer the guys get to their shooting session in a local hotel room.</snippet>
+         <url>http://www.chicagoreader.com/chicago/MovieTimes?film=977800</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>Few kinds of art are more boring than the insistently transgressive, and few movies are more boring than Humpday.</snippet>
+         <url>http://www.nypost.com/seven/07102009/entertainment/movies/in_the_end__its_just_art_178434.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+   </reviews>
+   <US_Gross>$407,377</US_Gross>
+   <weekend_gross>$28,737</weekend_gross>
+   <number_of_screens>2</number_of_screens>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Dragon Wars</name>
+   <company>Freestyle Releasing</company>
+   <genres>
+      <genre>Action</genre>
+      <genre>Drama</genre>
+      <genre>Fantasy</genre>
+   </genres>
+   <authors>
+      <author/>
+   </authors>
+   <directors>
+      <director>Hyung-rae Shim</director>
+   </directors>
+   <origins>
+      <origin>SouthKoreaUSA</origin>
+   </origins>
+   <actors>
+      <actor>Jason Behr</actor>
+      <actor>Ama Brooks</actor>
+      <actor>Robert Forster</actor>
+      <actor>Aimee Garcia</actor>
+      <actor>Craig Robinson</actor>
+      <actor>Chris Mulkey</actor>
+      <actor>Elizabeth Peña</actor>
+   </actors>
+   <release_date>September 14, 2007</release_date>
+   <running_time>107</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>Frankly, it's dumb, but no dumber than "Transformers."</snippet>
+         <url>http://www.tvguide.com/movies/d-war-dragon/review/290234</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>A feast of A-grade f/x married to a Z-grade, irony-free script.</snippet>
+         <url>http://www.variety.com/review/VE1117932736.html?categoryid=31&amp;cs=1&amp;p=0</url>
+         <critic>Derek Elley</critic>
+      </review>
+      <review>
+         <snippet>It is such a breathless, delirious stew, it’s impossible not to be entertained, provided -- this is crucial -- you have a sense of humor.</snippet>
+         <url>http://movies.nytimes.com/2007/09/15/movies/15dragon.html?ref=movies</url>
+         <critic>Andy Webster</critic>
+      </review>
+      <review>
+         <snippet>While the CGI effects are undeniably impressive, the laughable story line, risible dialogue and cheap humor (most of it involving a hapless zoo security guard) seriously detract from the fun.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?JSESSIONID=7wpFGnTTyJBLKh1R7NJlvpJr6gnFNCyYl3PhVvKLzrgyvG0s7L48!-874644442&amp;&amp;rid=9847</url>
+         <critic>Frank Scheck</critic>
+      </review>
+      <review>
+         <snippet>You don't have to hand the folks behind Dragon Wars much (the acting, directing, costumes, editing, props, music, etc: They're all off). But when they decide to sic that giant snake and those prehistoric dino-birds on downtown Los Angeles, the movie turns shockingly watchable.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=10653</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>This one’s for connoisseurs of the “totally preposterous crap” school of fantasy cinema.</snippet>
+         <url>http://www.laweekly.com/film+tv/film-reviews/film-reviews-king-of-california-mr-woodcock-shadow-company/17215/</url>
+         <critic>Luke Y. Thompson</critic>
+      </review>
+      <review>
+         <snippet>Fluent in the laughable dialogue of a million bad fantasy flicks:</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-dragon17sep17,0,4769290.story?coll=cl-mreview</url>
+         <critic>Robert Abele</critic>
+      </review>
+      <review>
+         <snippet>This South Korean pseudo-epic is some of the most ambitious cr-- I've ever seen.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A536531</url>
+         <critic>Marc Savlov</critic>
+      </review>
+      <review>
+         <snippet>All the thought seems to have gone into the marketing, and none into the unfathomably terrible script.</snippet>
+         <url>http://www.avclub.com/content/cinema/dragon_wars</url>
+         <critic>Tasha Robinson</critic>
+      </review>
+   </reviews>
+   <US_Gross>$10,977,721</US_Gross>
+   <production_budget>$32,000,000</production_budget>
+   <weekend_gross>$5,041,239</weekend_gross>
+   <number_of_screens>2,269</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

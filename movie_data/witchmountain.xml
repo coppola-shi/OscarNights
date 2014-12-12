@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Race to Witch Mountain</name>
+   <company>Walt Disney Pictures</company>
+   <genres>
+      <genre>Adventure</genre>
+      <genre>Comedy</genre>
+      <genre>Scifi</genre>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>Matt Lopez</author>
+      <author>Mark Bomback</author>
+      <author>Andy Fickman</author>
+   </authors>
+   <directors>
+      <director>Andy Fickman</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Dwayne Johnson</actor>
+      <actor>AnnaSophia Robb</actor>
+      <actor>Carla Gugino</actor>
+      <actor>Ciaran Hinds</actor>
+      <actor>Alexer Ludwig</actor>
+      <actor>Tom Everett Scott</actor>
+      <actor>Christopher Marquette</actor>
+      <actor>Cheech Marin</actor>
+   </actors>
+   <release_date>March 13, 2009</release_date>
+   <running_time>99</running_time>
+   <rating>PG</rating>
+   <reviews>
+      <review>
+         <snippet>It's entertaining with a crafty mixture of action, humor and drama.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film-reviews/film-review-race-to-witch-mountain-1003950637.story</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>After an excellent setup, the movie becomes bogged down in chase scene after chase scene on its way to its inevitable ending.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/403335_race13q.html</url>
+         <critic>Andy Spletzer</critic>
+      </review>
+      <review>
+         <snippet>May not make adults feel as if they're 10 again, but it will awaken their memories of Saturday matinees that upped children's adrenaline without blinding them with Day-Glo colors or insulting their intelligence.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/reviews/bal-to.witchmountain13mar13,0,1999795.story</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>The planet-hopping children have special talents -- telekinesis, telepathy etc. -- although it is the high-wattage lovability of Mr Rock that's the real superpower on display here.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20265651,00.html</url>
+         <critic>Clark Collis</critic>
+      </review>
+      <review>
+         <snippet>Race to Witch Mountain isn't some kind of action watershed, or science-fiction milestone, but it most certainly is a finely crafted reboot of a franchise that was ripe for an updating.</snippet>
+         <url>http://movies.tvguide.com/detail/movie.aspx?tvobjectid=296869&amp;more=ucmoviereview</url>
+         <critic>Perry Seibert</critic>
+      </review>
+      <review>
+         <snippet>Strikes a deft balance of chase-movie suspense and wisecracking humor, with a few slam-bang action setpieces that would shame the makers of more allegedly grown-up genre fare.</snippet>
+         <url>http://www.variety.com/review/VE1117939854.html?categoryid=31&amp;cs=1</url>
+         <critic>Joe Leydon</critic>
+      </review>
+      <review>
+         <snippet>A fast and furious (yes "fast and furious" in that way) wild ride of a movie in which the good guys are good (some of them really, really good), the bad guys are good (very scary good) and the car chases (around a thousand of them by my count, though it was hard to keep track with all the screeching tires and twisted metal) are pretty spectacular.</snippet>
+         <url>http://www.latimes.com/entertainment/news/reviews/la-et-mountain13-2009mar13,0,7429922.story</url>
+         <critic>Betsy Sharkey</critic>
+      </review>
+      <review>
+         <snippet>I think Dwayne Johnson has a likable screen presence and is a good choice for an innocuous family entertainment like this.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20090311/REVIEWS/903119982</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>The action beats are so relentless, no sooner does one chase end than another begins.</snippet>
+         <url>http://www.chicagotribune.com/entertainment/movies/chi-0313-witchmountain-reviewmar13,0,4364804.story</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>A calculated bid to turn the Rock into a more family-friendly commodity. That calculation may be transparent, but it pays off: Cracking one-liners and alternating between world-weariness and growing affection for his charges, Johnson is wonderful -- much better than his material.</snippet>
+         <url>http://www.laweekly.com/2009-03-12/film-tv/movie-reviews-miss-march-race-to-witch-mountain-sunshine-cleaning/2</url>
+         <critic>Ernest Hardy</critic>
+      </review>
+      <review>
+         <snippet>While "Escape" was superior in story, "Race" does commit to an impressive scope. What it is, really, is a big-studio popcorn flick that just happens to be made for tweens.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2009/03/12/2009-03-12_race_to_witch_mountain_is_a_thoroughly_m.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>An unexpectedly entertaining mixture of good, clean Disney fun with some rather more modern action scenes, lent charm by Johnson’s natural swagger. One of the better family films in a while.</snippet>
+         <url>http://www.empireonline.com/reviews/review.asp?FID=135203</url>
+         <critic>Chris Hewitt</critic>
+      </review>
+      <review>
+         <snippet>With its chase scenes, shoot-outs, explosions, and special effects, this looks more like Jerry Bruckheimer product than a traditional Disney feature. But there are also some light-hearted moments, the best occurring at a UFO convention where the aliens seem more normal than the earthlings.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/34200_RACE_TO_WITCH_MOUNTAIN.html</url>
+         <critic>Andrea Gronvall</critic>
+      </review>
+      <review>
+         <snippet>Race to Witch Mountain has Johnson, who lifts the script above its conventional cat-and-mouse stratagems with his buoyant wiseacre timing.</snippet>
+         <url>http://www.washingtonpost.com/gog/movies/race-to-witch-mountain,1147686.html</url>
+         <critic>Jan Stuart</critic>
+      </review>
+      <review>
+         <snippet>Race can satisfy with a steady pace.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=11627</url>
+         <critic>Matthew Sorrento</critic>
+      </review>
+      <review>
+         <snippet>Director Andy Fickman, who previously blanded Johnson up in "The Game Plan," has fashioned the film into a one-size-fits-all, action-packed special-effects extravaganza for the whole family.</snippet>
+         <url>http://www.avclub.com/articles/race-to-witch-mountain,25049/</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>Fans of the original films will dig Richards and Eisenmann's cameo appearances.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A753080</url>
+         <critic>Marc Savlov</critic>
+      </review>
+      <review>
+         <snippet>Parents might like the film, but will be too busy explaining the complicated plot to their children to really enjoy it.</snippet>
+         <url>http://www.premiere.com/Review/Movies/Race-To-Witch-Mountain</url>
+         <critic>Patrick Parker</critic>
+      </review>
+      <review>
+         <snippet>Modest and diverting, rough and bland, with some good (if not quite Bette Davis caliber) actors and so-so special effects.</snippet>
+         <url>http://movies.nytimes.com/2009/03/13/movies/13witc.html</url>
+         <critic>A.O. Scott</critic>
+      </review>
+      <review>
+         <snippet>Curiously, despite Johnson's imposing physique, it's the kids who do most of the smashing and grabbing, right up until the climax, when it's all-hands-on-neck.</snippet>
+         <url>http://www.philly.com/philly/entertainment/movies/20090313_Disney_remake_comes_up_short.html</url>
+         <critic>David Hiltbrand</critic>
+      </review>
+      <review>
+         <snippet>Mediocre family fare that's simply not that much fun.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2009-03-12-race-to-witch-mountain_N.htm</url>
+         <critic>Staff [Not Credited]</critic>
+      </review>
+      <review>
+         <snippet>The Rock charms you through the worst of it, but the effects are cheap, the dialogue is about as challenging as a "Hannah Montana" episode, and the pace manages to be both brisk and numbing.</snippet>
+         <url>http://www.oregonlive.com/movies/index.ssf/2009/03/movie_review_the_rock_on_a_rol.html</url>
+         <critic>M. E. Russell</critic>
+      </review>
+      <review>
+         <snippet>Young male earthlings should like everything about Race to Witch Mountain. Just make sure you race your caffeinated charges to the washrooms right after the movie to defuel so there won't be any accidents on the space shuttle home.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20090312.wwitch0313/BNStory/Entertainment/home</url>
+         <critic>Stephen Cole</critic>
+      </review>
+      <review>
+         <snippet>This is not a story that cries out to be remade every 15-20 years. And, while the special effects and acting are getting better, the story isn't.</snippet>
+         <url>http://www.reelviews.net/php_review_template.php?identifier=1514</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>This is filmmaking by the numbers meant to succeed by the numbers.</snippet>
+         <url>http://online.wsj.com/article/SB123689237471111537.html</url>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>This is not a movie. It's a coming attraction for a theme park.</snippet>
+         <url>http://www.boston.com/ae/movies/articles/2009/03/13/race_to_witch_mountain/</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>Bears all the signs of having been composed by an inferior race of alien screenwriters from the Hackulon System.</snippet>
+         <url>http://www.nypost.com/seven/03132009/entertainment/movies/not_rocket_science_159259.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>Wow, when Disney misses the "reimagining" mark, it really misses.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2009/03/12/DD3P16DIJS.DTL&amp;type=movies</url>
+         <critic>Justin Berton</critic>
+      </review>
+   </reviews>
+   <US_Gross>$67,172,594</US_Gross>
+   <weekend_gross>$24,402,214</weekend_gross>
+   <number_of_screens>3,187</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

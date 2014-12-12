@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Wind Chill</name>
+   <company>TriStar Pictures / Sony Pictures Entertainment</company>
+   <genres>
+      <genre>Horror</genre>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>Joe Gangemi</author>
+      <author>Steven Katz</author>
+   </authors>
+   <directors>
+      <director>Gregory Jacobs</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Emily Blunt</actor>
+      <actor>Ashton Holmes</actor>
+      <actor>Ned Bellamy</actor>
+      <actor>Martin Donovan</actor>
+      <actor>Chelan Simmons</actor>
+   </actors>
+   <release_date>April 27, 2007</release_date>
+   <running_time>87</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>Wind Chill is very much Blunt's show - there are no other major characters save Holmes - and she even gets to climb a telephone pole in her Prada heels. Brava!</snippet>
+         <url>http://www.nypost.com/seven/04282007/entertainment/movies/ride_and_gloom_movies_lou_lumenick.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>For all its flaws, is an often spooky and imaginative ghost story that contains a genuine creepiness.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?JSESSIONID=N31JG3Ffn6FjnQRPHDbrtQTM7Lh5QGLszM0jb4tH5hPqnRn2Y01g!1574845338&amp;&amp;rid=9114</url>
+         <critic>Frank Scheck</critic>
+      </review>
+      <review>
+         <snippet>A moody, spooky tale, rendered with laudable economy.</snippet>
+         <url>http://movies2.nytimes.com/2007/04/28/movies/28wind.html?ref=movies</url>
+         <critic>Andy Webster</critic>
+      </review>
+      <review>
+         <snippet>This isn't merely a horror film about things going bump in the night, but a study of the effects of desolation on our sense of personal consciousness.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-wind30apr30,0,5063538.story?coll=cl-mreview</url>
+         <critic>Ed Gonzalez</critic>
+      </review>
+      <review>
+         <snippet>Despite its failings, Wind Chill represents a road rarely taken by 21st-century American horror films: Original (in the non-remake sense of the term), subtle and restrained.</snippet>
+         <url>http://www.tvguide.com/movies/wind-chill/review/287684</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>This intermittently effective thriller serves as a rickety vehicle for its two perfectly cast leads, working better as a slow-thawing two-hander than as a chilly ghost story.</snippet>
+         <url>http://www.variety.com/review/VE1117933457.html?categoryid=31&amp;cs=1</url>
+         <critic>Justin Chang</critic>
+      </review>
+      <review>
+         <snippet>Jacobs and his writers are notably more interested in creepy atmosphere -- and in contemplating the order of the universe -- than in jump-in-your-seat jolts. But well before day breaks, it's the movie’s plot (which would have made for an outstanding Outer Limits episode) that has come to seem stuck in an endless loop.</snippet>
+         <url>http://www.laweekly.com/film+tv/film-reviews/film-reviews-diggers-next-and-banished/16228/?page=3</url>
+         <critic>Scott Foundas</critic>
+      </review>
+   </reviews>
+   <US_Gross>$31,388</US_Gross>
+   <weekend_gross>$20,146</weekend_gross>
+   <number_of_screens>42</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

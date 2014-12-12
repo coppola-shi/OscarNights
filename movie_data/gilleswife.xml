@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Gilles&amp;#039; Wife</name>
+   <company>Cinema Guild</company>
+   <genres>
+      <genre>Drama</genre>
+      <genre>Foreign</genre>
+   </genres>
+   <authors>
+      <author>Philippe Blasband</author>
+      <author>Frédéric Fonteyne</author>
+      <author>Marion Hänsel</author>
+      <author>Madeleine Bourdouxhe</author>
+   </authors>
+   <directors>
+      <director>Frédéric Fonteyne</director>
+   </directors>
+   <origins>
+      <origin>BelgiumFranceLuxembourgItalySwitzerland</origin>
+   </origins>
+   <actors>
+      <actor>Emmanuelle Devos</actor>
+      <actor>Clovis Cornillac</actor>
+      <actor>Laura Smet</actor>
+      <actor>Alice Verlinden</actor>
+      <actor>Chloé Verlinden</actor>
+      <actor>Colette Emmanuelle</actor>
+      <actor>Gil Lagay</actor>
+   </actors>
+   <release_date>November 16, 2005</release_date>
+   <running_time>103</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>You can't imagine a soapier setup, but Gilles' Wife taken on its own terms is a spectacular achievement, a heartbreaking cinematic work that finely balances melodrama, family love story and devastating tragedy.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2005/11/10/btm/index3.html?CP=IMD&amp;DN=110</url>
+         <critic>Andrew O&amp;#039;Hehir</critic>
+      </review>
+      <review>
+         <snippet>Told primarily via body language and facial expressions with a minimum of dialogue, beautifully observed, emotionally intense tale is an ambitious and rewarding outing for Frederic Fonteyne.</snippet>
+         <url>http://www.variety.com/review/VE1117924832?categoryid=31&amp;cs=1</url>
+         <critic>Lisa Nesselson</critic>
+      </review>
+      <review>
+         <snippet>Devos's performance is an expert workshop of internalized emotions and silent forbearance.</snippet>
+         <url>http://www.villagevoice.com/film/0546,ng,70036,20.html</url>
+         <critic>David Ng</critic>
+      </review>
+      <review>
+         <snippet>Cornillac is excellent as the emotionally immature Gilles, but this is Devos' show.</snippet>
+         <url>http://online.tvguide.com/movies/database/ShowMovie.asp?MI=46570</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>The ending is a stunner. Like those '30 classics it suggests, Gilles' Wife seduces us with true cinematic magic: rich characters, great acting and that rapturous old French blend of realism and theatricality.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-0501223-movies-review-gilles,0,4440601.story?coll=mmx-movies_top_heds</url>
+         <critic>Michael Wilmington</critic>
+      </review>
+      <review>
+         <snippet>There's a timelessness to her character that makes her real even today. And in Devos' intense portrayal, she's a woman you admire.</snippet>
+         <url>http://ae.miami.com/entertainment/ui/miami/movie.html?id=528816&amp;reviewId=20009</url>
+         <critic>Marta Barber</critic>
+      </review>
+      <review>
+         <snippet>All but a silent movie, Frédéric Fonteyne’s strikingly atmospheric film - adapted by Philippe Blasband and Marion Hänsel from a 1937 novel - relies on the extraordinarily mobile face of Emmanuelle Devos to express the pain of a woman who has no language for her inner turmoil.</snippet>
+         <url>http://www.laweekly.com/film-reviews/12916/film-reviews/</url>
+         <critic>Ella Taylor</critic>
+      </review>
+      <review>
+         <snippet>Suffused with a painterly tenderness and cruelty, the French film Gilles' Wife - based on a 1937 Belgian novel by Madeleine Bourdouxhe - stars the extraordinary actress Emmanuelle Devos.</snippet>
+         <url>http://www.calendarlive.com/printedition/calendar/cl-et-capsules17.1mar17,0,2752823.story</url>
+         <critic>Robert Abele</critic>
+      </review>
+      <review>
+         <snippet>An impeccable minimalist drama that's tailored specifically to Devos' expressive capabilities, which say more than the sparse dialogue.</snippet>
+         <url>http://avclub.com/content/node/42851</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>While the outcome is never really in doubt, director Frederic Fonteyne illuminates the wife's inner world with a rich sense of atmosphere, and Emmanuelle Devos' riveting performance manages to convey every shift in her character's suppressed emotional life with the subtlest of gestures and expressions.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/capsules/27501_GILLES_WIFE_LE_FEMME_DE_GILLES</url>
+         <critic>Reece Pendleton</critic>
+      </review>
+      <review>
+         <snippet>Fonteyne doesn't have much use for words. He prefers to tell his story via facial expressions and body language, much as filmmakers did in the silent era.</snippet>
+         <url>http://www.nypost.com/movies/31327.htm</url>
+         <critic>V.A. Musetto</critic>
+      </review>
+      <review>
+         <snippet>This is a lyrical art movie with admittedly limited commercial appeal, but worth seeing for cinematic explorers.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/moviereviews/story/366856p-312109c.html</url>
+         <critic>Jami Bernard</critic>
+      </review>
+      <review>
+         <snippet>I was fascinated by the face of Emmanuelle Devos, and her face is specifically why I recommend the movie.</snippet>
+         <url>http://www.rogerebert.com/apps/pbcs.dll/article?AID=/20051222/REVIEWS/51220005/1023</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>Has an appealing surface beauty, largely due to the talented cinematographer Virginie Saint Martin, and an equally shallow mystery.</snippet>
+         <url>http://www.nytimes.com/2005/11/16/movies/16gill.html</url>
+         <critic>Manohla Dargis</critic>
+      </review>
+   </reviews>
+   <US_Gross>$32,799</US_Gross>
+   <weekend_gross>$2,568</weekend_gross>
+   <number_of_screens>1</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

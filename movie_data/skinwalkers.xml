@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Skinwalkers</name>
+   <company>After Dark Films</company>
+   <genres>
+      <genre>Horror</genre>
+   </genres>
+   <authors>
+      <author>James De</author>
+      <author>Monaco</author>
+      <author>Todd Harthan</author>
+      <author>James Roday</author>
+   </authors>
+   <directors>
+      <director>James Isaac</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Jason Behr</actor>
+      <actor>Elias Koteas</actor>
+      <actor>Rhona Mitra</actor>
+      <actor>Kim Coates</actor>
+      <actor>Natassia Malthe</actor>
+      <actor>Matthew Knight</actor>
+      <actor>Sarah Carter</actor>
+      <actor>Tom Jackson</actor>
+   </actors>
+   <release_date>August 10, 2007</release_date>
+   <running_time>110</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>While it isn't particularly scary or suspenseful, it's fun and surprisingly breezy compared with its big-budget brethren.</snippet>
+         <url>http://www.avclub.com/content/cinema/skinwalkers</url>
+         <critic>Steven Hyden</critic>
+      </review>
+      <review>
+         <snippet>Adds little to the annals of werewolf lore. But it's briskly paced and features a couple of clever twists on genre conventions.</snippet>
+         <url>http://www.tvguide.com/movies/skinwalkers/review/286675</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>A Canadian-made werewolf thriller, Skinwalkers occasionally rises above its station as a standard-issue horror flick to deliver some enjoyably cheeseball thrills.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20070809.wskinwalker0810/BNStory/Entertainment/home</url>
+         <critic>Jason Anderson</critic>
+      </review>
+      <review>
+         <snippet>The only thing more boring than a vampire with moral issues about biting people in the neck is a werewolf who’d rather become fully human than howl at the moon once a month.</snippet>
+         <url>http://www.laweekly.com/film+tv/film-reviews/film-reviews-daddy-day-camp-stardust/16995/</url>
+         <critic>Chuck Wilson</critic>
+      </review>
+      <review>
+         <snippet>Plays more like '70s drive-in fare than a monster mash of recent vintage.</snippet>
+         <url>http://www.variety.com/review/VE1117934391.html?categoryid=31&amp;cs=1</url>
+         <critic>Joe Leydon</critic>
+      </review>
+      <review>
+         <snippet>There's a lot that remains unclear about the powers and abilities of the creatures in Skinwalkers, largely robbing the film of tension as events transpire in a slapdash, haphazard manner.</snippet>
+         <url>http://www.calendarlive.com/printedition/calendar/cl-et-skinwalkers13aug13,0,1965279.story</url>
+         <critic>Mark Olsen</critic>
+      </review>
+      <review>
+         <snippet>It stands alongside this year's other werewolf disaster, "Blood and Chocolate," in illustrating why the moon should set on the werewolf movie.</snippet>
+         <url>http://www.reelviews.net/movies/s/skinwalkers.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>Watching the movie is a little like picking up issue #42 of a comic book after you've skipped the first 41: There's an entire back story mythos hovering in the background like a phantom limb.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=8840</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>A thoroughly undistinguished addition to a genre that probably reached its peak a quarter-century ago with "An American Werewolf in London."</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?JSESSIONID=5TTwG9fLv9r28gvB1XG9M3KGsMQp9YVQBnn9jLzDnNmtKBxHcMH4!-914410143&amp;&amp;rid=9620</url>
+         <critic>Frank Scheck</critic>
+      </review>
+      <review>
+         <snippet>Yawningly directed by Jim Isaac, Skinwalkers is a slavering mess that buries its clunky addiction metaphor beneath a welter of genre clichés, all delivered in extra-slow motion.</snippet>
+         <url>http://movies.nytimes.com/2007/08/11/movies/11skin.html?ref=movies</url>
+         <critic>Jeannette Catsoulis</critic>
+      </review>
+      <review>
+         <snippet>Shapeshifters-lite.  Fangs but no fangs.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A516743</url>
+         <critic>Marc Savlov</critic>
+      </review>
+   </reviews>
+   <US_Gross>$1,018,965</US_Gross>
+   <weekend_gross>$753,520</weekend_gross>
+   <number_of_screens>745</number_of_screens>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

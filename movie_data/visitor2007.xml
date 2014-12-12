@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Visitor, The</name>
+   <company>Overture Films</company>
+   <genres>
+      <genre>Comedy</genre>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author>Thomas Mc</author>
+      <author>Carthy</author>
+   </authors>
+   <directors>
+      <director>Thomas Mc</director>
+      <director>Carthy</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Richard Jenkins</actor>
+      <actor>Haaz Sleiman</actor>
+      <actor>Hiam Abbass</actor>
+      <actor>Maggie Moore</actor>
+   </actors>
+   <release_date>April 11, 2008</release_date>
+   <running_time>103</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>The Visitor, is, if anything, more imaginative and touching than his first.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2008/04/17/DD6S107C8H.DTL&amp;type=movies</url>
+         <critic>Ruthe Stein</critic>
+      </review>
+      <review>
+         <snippet>As a writer-director, McCarthy, like the characters and the places that he suffuses with emotion, has poetry in him - and he knows how to let it out. He has a talent for demarcating those spaces in which characters can become whoever they want to be.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/reviews/bal-to.visitor25apr25,0,4751230.story</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>It works on several levels, and stands out as a wistful meditation on the psychological cost of 9/11.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/359468_visitor18q.html</url>
+         <critic>William Arnold</critic>
+      </review>
+      <review>
+         <snippet>Eloquent and unassuming, it's a picture that hits home precisely because it doesn't overreach its grasp.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2008/04/11/visitor/</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>The curious thing about The Visitor is that even as it goes more or less where you think it will, it still manages to surprise you along the way.</snippet>
+         <url>http://movies.nytimes.com/2008/04/11/movies/11visi.html?ref=movies</url>
+         <critic>A.O. Scott</critic>
+      </review>
+      <review>
+         <snippet>A heartfelt human drama that sneaks up and floors you.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/17041831/review/20217692/the_visitor</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>McCarthy's flawless casting may be the film's greatest strength: Veteran character actor Jenkins and his costars vanish into their characters -- their performances are so subtle and unforced that they don't feel like performances at all.</snippet>
+         <url>http://www.tvguide.com/movies/visitor/review/293291</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>It is one of the year's most intriguing dramas, with a quartet of powerful performances.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2008-04-10-visitor_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>Best movie I've seen so far this year? Hands down, it's Tom McCarthy's superb The Visitor, which turns Richard Jenkins, one of the best character actors in the business, into a full-fledged star.</snippet>
+         <url>http://www.nypost.com/seven/04112008/entertainment/movies/different_drummers_105957.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>Jenkins and The Visitor”make lovely music together. It’s a case of a veteran character actor slipping on a leading role like the most comfortable pair of pants in the world.</snippet>
+         <url>http://chicago.metromix.com/movies/movie_review/movie-review-the-visitor/380508/content</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>This is a film of our times - paranoid, heartbroken, disillusioned - and the rare recent American movie whose characters react the way actual people might.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=4191</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>Like few of his filmmaking peers,  McCarthy understands and respects the power of quiet, and how a whisper can be as explosive as a shout.</snippet>
+         <url>http://www.avclub.com/content/cinema/the_visitor</url>
+         <critic>Nathan Rabin</critic>
+      </review>
+      <review>
+         <snippet>This audaciously issues-loaded indie drama works, improbably and entirely, on account of the marvelous, often familiar-looking, rarely starring character actor Richard Jenkins and his perfect performance as a stodgy, widowed economics professor.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20190169,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>A compelling and illuminating story of four people who form an unlikely and momentary friendship of considerable depth.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?JSESSIONID=MLQHH2fpDPFbymDvrgLlLh6xXMLlqTbDcl1TGLVShRdnhwPnnT1C!1602131112&amp;&amp;rid=10945</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>A combination immigrant/resurrection tale, Visitor tilts toward the soulful rather than the political, and could be this year's humanistic indie hit.</snippet>
+         <url>http://www.variety.com/index.asp?layout=festivals&amp;jump=review&amp;id=2471&amp;reviewid=VE1117934660&amp;cs=1&amp;p=0</url>
+         <critic>John Anderson</critic>
+      </review>
+      <review>
+         <snippet>Gives viewers a perceptive, deeply personal take on the timeless immigrant narrative, in which the most epic journey is finally one of self-discovery.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1118163&amp;categories=Movies&amp;nm=1</url>
+         <critic>Ann Hornaday</critic>
+      </review>
+      <review>
+         <snippet>Powerful second film by writer-director Thomas McCarthy (The Station Agent).</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/33052_VISITOR_MCCARTHY.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>An unassuming but quietly heartbreaking drama.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-visitor11apr11,0,4861329.story</url>
+         <critic>Carina Chocano</critic>
+      </review>
+      <review>
+         <snippet>The tension dips occasionally but stick with it and you'l be richly rewarded.</snippet>
+         <url>http://www.empireonline.com/reviews/reviewcomplete.asp?FID=135623</url>
+         <critic>Anna Smith</critic>
+      </review>
+      <review>
+         <snippet>The Visitor is a small movie, but its emotions could not be writ any larger.</snippet>
+         <url>http://www.miamiherald.com/1054/story/507647.html</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>The combined effect is, as I say, small but sincere. McCarthy may prove to have something bigger in him, or he may be a miniaturist content to build little stories and fill them with all the humanity they can bear. If that's the case, there are far less worthy ways to spend a career.</snippet>
+         <url>http://blog.oregonlive.com/madaboutmovies/2008/04/review_the_delicate_charms_of.html</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>At first glance Walter isn't a guy you want to spend two hours with. But by the end of the film, you don't want to see him go. Jenkins is like that: He sneaks up on you and steals your heart with light-fingered skill.</snippet>
+         <url>http://www.philly.com/inquirer/columnists/carrie_rickey/20080425_Richard_Jenkins_a_worthy_lead.html</url>
+         <critic>Carrie Rickey</critic>
+      </review>
+      <review>
+         <snippet>This is a simple story of human drama that provides an incentive to spend a couple of hours in a movie theater during a spring that has not provided many such reasons.</snippet>
+         <url>http://www.reelviews.net/movies/v/visitor.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>The Visitor tells of renewal through love. Its song is tinged with sadness, but stirring all the same.</snippet>
+         <url>http://online.wsj.com/article/SB120788247820207273.html</url>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>Definitely a film that marches to its own drumbeat.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A615535</url>
+         <critic>Marjorie Baumgarten</critic>
+      </review>
+      <review>
+         <snippet>The actor - like everyone else in this tedious yet affecting film - rises well above his soft-headed, solipsistic material, turning in a performance of nuanced delicacy.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20080425.wvisitor25/BNStory/Entertainment/home</url>
+         <critic>Jason McBride</critic>
+      </review>
+      <review>
+         <snippet>Both director and cast exhibit the dedication of those who truly believe in the message at hand. But with so much earnestness onscreen, the message occasionally gets in the way of the movie itself.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2008/04/11/2008-04-11_short_takes_more_movies_out_this_week-1.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>McCarthy is so careful not to take a political stand that his film seems neutered by good intentions. In the spirit of squishy humanism, he soft-pedals a hard-hitting topic.</snippet>
+         <url>http://www.csmonitor.com/2008/0411/p12s02-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>McCarthy unquestionably means well, but he's made one of those incredibly naïve movies that gives liberals a bad name, and which does more to regress the sociopolitical discourse than advance it.</snippet>
+         <url>http://www.villagevoice.com/film/0815,tired-and-poor,404094,20.html</url>
+         <critic>Scott Foundas</critic>
+      </review>
+   </reviews>
+   <US_Gross>$9,427,026</US_Gross>
+   <production_budget>$4,000,000</production_budget>
+   <weekend_gross>$86,488</weekend_gross>
+   <number_of_screens>4</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

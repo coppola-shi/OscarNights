@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Beowulf &amp; Grendel</name>
+   <company>Truly Indie</company>
+   <genres>
+      <genre>Action</genre>
+      <genre>Adventure</genre>
+      <genre>Drama</genre>
+      <genre>Fantasy</genre>
+      <genre>Foreign</genre>
+   </genres>
+   <authors>
+      <author>Andrew Rai Berzins</author>
+      <author>Anonymous</author>
+   </authors>
+   <directors>
+      <director>Sturla Gunnarsson</director>
+   </directors>
+   <origins>
+      <origin>CanadaIcelandUK</origin>
+   </origins>
+   <actors>
+      <actor>Gerard Butler</actor>
+      <actor>Stellan Skarsgård</actor>
+      <actor>Sarah Polley</actor>
+      <actor>Ingvar Eggert Sigurðsson</actor>
+      <actor>Steinunn Ólína Þorsteinsdóttir</actor>
+   </actors>
+   <release_date>July 7, 2006</release_date>
+   <running_time>103</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>The film's near-fatal flaw is its dialogue, which had to be invented wholesale from the Old English text. It alternates between sounding stagy and anachronistically hip -- with more overuse of the F-word than any two Samuel L. Jackson movies. It's a big mistake.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/274118_beowulf16q.html</url>
+         <critic>William Arnold</critic>
+      </review>
+      <review>
+         <snippet>Credit Icelandic director Sturla Gunnarsson for having an ambitious vision: He took a look at the eighth-century epic poem "Beowulf" and decided he could cut it down to size. And he has, for better and worse.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/moviereviews/story/433109p-364852c.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>A muscular, ardently naturalistic retelling of the ninth-century Anglo-Saxon saga.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1213009_1_0_,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>The epic poem Beowulf gets an imaginative, low-budget workout in this 2005 Icelandic feature by Sturla Gunnarsson.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/30031_BEOWULF_AND_GRENDEL.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>Gunnarsson's film ultimately lacks the grandeur and wit necessary to make the legend fully come alive. Still, the film does offer certain kicks to those who like their action films infused with fantastical elements and benefits greatly from its highly effective lead performances.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1002803226</url>
+         <critic>Frank Scheck</critic>
+      </review>
+      <review>
+         <snippet>It's good, bloody fun that stirs the intellect whenever it feels like it, and as a swashbuckler, the dead-game Butler outswings just about anyone in Troy or Kingdom of Heaven or Tristan &amp; Isolde.</snippet>
+         <url>http://www.villagevoice.com/film/0627,gallo,73747,20.html</url>
+         <critic>Bill Gallo</critic>
+      </review>
+      <review>
+         <snippet>We're more likely to snicker at this marauding monster than scream.</snippet>
+         <url>http://online.tvguide.com/newsearch/detail.aspx?tvobjectid=280555&amp;more=ucmoviereview</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>Removing many of the mythical elements of the tale is an intriguing idea that would undoubtedly have paid richer dividends if it didn't mean relying on a heavy who looks like a cross between a Neanderthal on steroids and stilts, and an unusually hirsute wrestler.</snippet>
+         <url>http://www.avclub.com/content/node/50422</url>
+         <critic>Nathan Rabin</critic>
+      </review>
+      <review>
+         <snippet>Beowulf &amp; Grendel has its moments, as well as its debits. Among the later is the grating Canadian accent of Sarah Polley, who plays a witch named Selma.</snippet>
+         <url>http://www.nypost.com/entertainment/movies/beautiful_scene__confusing_beasts_movies_lou_lumenick.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>With all the mystery and meaning sucked from the story, the filmmakers do what filmmakers often do when faced with their own lack of imagination: they toss a little sex in with the violence.</snippet>
+         <url>http://movies2.nytimes.com/2006/07/07/movies/07beow.html</url>
+         <critic>Manohla Dargis</critic>
+      </review>
+      <review>
+         <snippet>To be very generous toward the filmmakers' intentions, Beowulf &amp; Grendel might be seen as a misguided attempt to lend some modern nuance to a traditional tale of good and emphatic evil. But why pussyfoot? The movie is a lumbering and ludicrous mess.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20060310.wxbeowulf10/PPVStory/?DENIED=1</url>
+         <critic>Liam Lacey</critic>
+      </review>
+      <review>
+         <snippet>Director Sturla Gunnarsson seems aware of the savagery intrinsic to the story, but is unable to mine it deeply, proving too genteel in the end to make a genuinely creepy or disturbing film.</snippet>
+         <url>http://www.variety.com/review/VE1117928539?categoryid=31&amp;cs=1</url>
+         <critic>Todd McCarthy</critic>
+      </review>
+      <review>
+         <snippet>Filmed in Iceland, Beowulf &amp; Grendel is beautiful, grungy and a little too tasteful for its own good. You can practically feel the filmmakers yearning to have Beowulf and Grendel go all Rambo on each other.</snippet>
+         <url>http://www.laweekly.com/film+tv/film-reviews/film-reviews/14107/</url>
+         <critic>Chuck Wilson</critic>
+      </review>
+      <review>
+         <snippet>The film is very near a comedy, and I'm not sure that's on purpose.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=8421</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>While cinema may be a visual medium foremost it's also an aural one, and the cacaphony of dialects sounds not so much "universal" or interestingly multicultural as simply all over the map.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-060714-movies-review-beowulf,0,1965231.story?coll=mmx-movies_top_heds</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>Imagine the worst "Deadwood" episode ever, and you'll get an idea of the general tone of Beowulf &amp; Grendel, which is full of anachronistic cursing, tortured syntax, dark humor and lots of hairy, homely, filthy-looking people.</snippet>
+         <url>http://sfgate.com/cgi-bin/article.cgi?f=/c/a/2006/06/30/DDGIJJM75F1.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+   </reviews>
+   <US_Gross>$68,820</US_Gross>
+   <weekend_gross>$4,360</weekend_gross>
+   <number_of_screens>1</number_of_screens>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

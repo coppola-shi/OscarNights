@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Even Money</name>
+   <company>Yari Film Group Releasing</company>
+   <genres>
+      <genre>Crime</genre>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author>Robert Tannen</author>
+   </authors>
+   <directors>
+      <director>Mark Rydell</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Kim Basinger</actor>
+      <actor>Danny DeVito</actor>
+      <actor>Kelsey Grammer</actor>
+      <actor>Nick Cannon</actor>
+      <actor>Ray Liotta</actor>
+      <actor>Forest Whitaker</actor>
+      <actor>Carla Gugino</actor>
+      <actor>Grant Sullivan</actor>
+      <actor>Jay Mohr</actor>
+      <actor>Cassra Hepburn</actor>
+   </actors>
+   <release_date>May 18, 2007</release_date>
+   <running_time>116</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>Kim Basinger gives one of her strongest performances in Even Money, a kind of "Crash" fueled by gambling instead of racism.</snippet>
+         <url>http://www.nypost.com/seven/05182007/entertainment/movies/casino_evil_vs__bettor_judgment_movies_kyle_smith.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>An overstructured, overacted indie drama about gambling, addiction, and the sawdusty romanticism of old-time magicians.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20038936,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>As the gambler who needs his basketball phenom brother to shave points, Whitaker has some expressive scenes, and Roth knows how to make malice gleam. But almost nothing else in this movie does.</snippet>
+         <url>http://www.csmonitor.com/2007/0518/p14s01-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>The film's subject is not race but gambling, yet the cynical message is the same: We're all pathetic.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-even18may18,0,4408190.story?coll=cl-mreview</url>
+         <critic>Ed Gonzalez</critic>
+      </review>
+      <review>
+         <snippet>Standard-issue directorial approach is perfectly in keeping with a script whose natural berth is on the tube.</snippet>
+         <url>http://www.variety.com/review/VE1117933578.html?categoryid=31&amp;cs=1&amp;query=%22Even+money%22</url>
+         <critic>Robert Koehler</critic>
+      </review>
+      <review>
+         <snippet>The problem with ensemble films, and this one in particular, is that they often flit instead of float between story arcs. With deep lags in momentum, it is this lack of cohesion that nearly cancels out what can be great about ensemble films: the performances.</snippet>
+         <url>http://www.villagevoice.com/film/0720,orange,76659,20.html</url>
+         <critic>Michelle Orange</critic>
+      </review>
+      <review>
+         <snippet>Nothing in the movie rings true, least of all its depiction of gambling, both in casinos and in the bookie world that ultimately drives the story.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2007/05/18/2007-05-18_its_gambling_addicts_monotonous_.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>Overlong and overstuffed with cliches -- the movie doesn't seem to realize how close it comes to comedy.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/imdb/reviews/article_display.jsp?rid=1002199013&amp;vnu_special_account_code=thrsiteimdbpro</url>
+         <critic>John DeFore</critic>
+      </review>
+      <review>
+         <snippet>A scare movie about gambling addiction, is as grim and lurid as any in the recent spate of films about the evils of crystal meth.</snippet>
+         <url>http://movies2.nytimes.com/2007/05/18/movies/18mone.html?ref=movies</url>
+         <critic>Stephen Holden</critic>
+      </review>
+      <review>
+         <snippet>A high-profile cast can't save this multi-narrative drama about gambling addiction from its wildly uneven tone, which veers from high melodrama to hard-boiled pastiche so overwrought that it's unintentionally funny.</snippet>
+         <url>http://www.tvguide.com/detail/movie.aspx?tvobjectid=287906&amp;more=ucmoviereview</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+   </reviews>
+   <US_Gross>$64,458</US_Gross>
+   <weekend_gross>$22,465</weekend_gross>
+   <number_of_screens>6</number_of_screens>
+   <oscar_winning_actors_present/>
+   <num_oscar_winning_actors>1</num_oscar_winning_actors>
+   <oscar_winning_actor>forest whitaker</oscar_winning_actor>
+   <highest_grossing_actors_present/>
+   <num_highest_grossing_actors>1</num_highest_grossing_actors>
+   <highest_grossing_actor>danny devito</highest_grossing_actor>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

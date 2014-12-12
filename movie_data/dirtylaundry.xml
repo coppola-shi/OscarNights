@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Dirty Laundry</name>
+   <company>Codeblack Entertainment</company>
+   <genres>
+      <genre>Comedy</genre>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author>Maurice Jamal</author>
+   </authors>
+   <directors>
+      <director>Maurice Jamal</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Rockmond Dunbar</actor>
+      <actor>Loretta Devine</actor>
+      <actor>Jenifer Lewis</actor>
+      <actor>Terri J. Vaughn</actor>
+      <actor>Maurice Jamal</actor>
+      <actor>Sommore</actor>
+      <actor>Joey Costello</actor>
+      <actor>Alec Mapa</actor>
+   </actors>
+   <release_date>December 7, 2007</release_date>
+   <running_time>100</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>Looking for plot holes? You can't miss them. But if you go in hoping for a good time, you'll find that, too.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2007/12/07/2007-12-07_short_takes_more_movie_reviews.html?page=1</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>Taking control of what would otherwise be a trite and preachy fable about the need for African American families to accept their gay brethren, Devine builds a jolly and touching character from the stock figure of a Georgia mom coming to terms with her disaffected gay son.</snippet>
+         <url>http://www.variety.com/review/VE1117931178.html?categoryid=31&amp;cs=1&amp;query=film%2C+%22dirty+laundry%22</url>
+         <critic>Robert Koehler</critic>
+      </review>
+      <review>
+         <snippet>A comedy-drama with alarming similarities to a relic from 1976, "Norman, Is That You?" In that film, Redd Foxx and Pearl Bailey were parents shocked to discover that their son was gay and living with a white lover. That's basically the same gimmick in this new film from writer-director Maurice Jamal.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?JSESSIONID=hQHQHV5fw26TmTYQY1lz4G08LNsnKDLCtvRyhGCKYQrKyqvG6jZ4!1932153867&amp;&amp;rid=10286</url>
+         <critic>Stephen Farber</critic>
+      </review>
+      <review>
+         <snippet>Jamal's comedy of family dysfunction is essentially a sitcom episode writ large; it's not subtle, but it's good-natured and hits its marks with ruthless efficiency.</snippet>
+         <url>http://www.tvguide.com/movies/dirty-laundry/review/291208</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>The tone is good-natured enough to make a simple movie semi-watchable.</snippet>
+         <url>http://www.nypost.com/seven/12072007/entertainment/movies/down_home_down_low_615241.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>Mr. Jamal’s direction ranges from clumsy to competent, and the film’s overwhelming desire to be loved blunts any edge it might have had.</snippet>
+         <url>http://movies.nytimes.com/2007/12/07/movies/07dirt.html</url>
+         <critic>Matt Zoller Seitz</critic>
+      </review>
+      <review>
+         <snippet>Overwritten and under-directed by Maurice Jamal, the movie contains several honest moments but remains too awash in clichés and stereotypes to take seriously.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-capsules7dec07,0,5582244.story?coll=cl-mreview</url>
+         <critic>Gary Goldstein</critic>
+      </review>
+      <review>
+         <snippet>Cheesy crockpot of a film.</snippet>
+         <url>http://www.laweekly.com/film+tv/film-reviews/movie-reviews-secret-sunshine-awake-the-amateurs/17843/</url>
+         <critic>Julia Wallace</critic>
+      </review>
+   </reviews>
+   <US_Gross>$20,138</US_Gross>
+   <weekend_gross>$15,841</weekend_gross>
+   <number_of_screens>2</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

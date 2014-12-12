@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Other End of the Line, The</name>
+   <company>MGM</company>
+   <genres>
+      <genre>Romance</genre>
+   </genres>
+   <authors>
+      <author>Tracey Jackson</author>
+   </authors>
+   <directors>
+      <director>James Dodson</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Jesse Metcalfe</actor>
+      <actor>Shriya Saran</actor>
+   </actors>
+   <release_date>October 31, 2008</release_date>
+   <running_time>106</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>East meets West in a beguiling, old-fashioned romantic comedy set in today's global economy.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?rid=11193</url>
+         <critic>Duane Byrge</critic>
+      </review>
+      <review>
+         <snippet>As cross-cultural bridge-builders go, picture is smart, funny and sweet enough to make you reassess your attitude next time you get reach tech support in New Delhi.</snippet>
+         <url>http://www.variety.com/review/VE1117938877.html?categoryid=31&amp;cs=1</url>
+         <critic>John Anderson</critic>
+      </review>
+      <review>
+         <snippet>The movie is like a glass of Sprite that has been left on the counter too long: transparent, sweet and flat.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20081031.wline31/BNStory/Entertainment/home</url>
+         <critic>Liam Lacey</critic>
+      </review>
+      <review>
+         <snippet>At a time when our global standing is sinking like a stone, it's comforting to know that, at least on the big screen, we can still land the babes no matter how obnoxious we are.</snippet>
+         <url>http://www.villagevoice.com/2008-10-29/film/the-other-end-of-the-line/</url>
+         <critic>Tim Grierson</critic>
+      </review>
+      <review>
+         <snippet>Think of it as a buffet of romantic comedy comfort food: the good old American standbys complemented by bland international dishes.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/385717_otherend31q.html</url>
+         <critic>Sean Axmaker</critic>
+      </review>
+      <review>
+         <snippet>Now, it's not fair to ask that a romantic comedy be entirely realistic, but some level of plausibility would make the jokes go down easier, as would a touch of delicacy in the writing.</snippet>
+         <url>http://www.npr.org/templates/story/story.php?storyId=96286500</url>
+         <critic>Bob Mondello</critic>
+      </review>
+      <review>
+         <snippet>Watching Granger and Priya chase each other around a hotel like squirrels in a park, you wonder what these two see in each other.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=12231</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>Overlong, overplotted, and pocked with improbabilities.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A695051</url>
+         <critic>Kimberley Jones</critic>
+      </review>
+   </reviews>
+   <US_Gross>$115,504</US_Gross>
+   <weekend_gross>$59,078</weekend_gross>
+   <number_of_screens>91</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

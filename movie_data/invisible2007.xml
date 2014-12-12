@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Invisible, The</name>
+   <company>Hollywood Pictures</company>
+   <genres>
+      <genre>Drama</genre>
+      <genre>Fantasy</genre>
+      <genre>Mystery</genre>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>Mick Davis</author>
+      <author>Christine Roum</author>
+      <author>Mats Wahl</author>
+   </authors>
+   <directors>
+      <director>David S. Goyer</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Justin Chatwin</actor>
+      <actor>Margarita Levieva</actor>
+      <actor>Marcia Gay Harden</actor>
+      <actor>Chris Marquette</actor>
+      <actor>Alex O&amp;#039;Loughlin</actor>
+      <actor>Callum Keith Rennie</actor>
+      <actor>Michelle Harrison</actor>
+      <actor>Ryan Kennedy</actor>
+   </actors>
+   <release_date>April 27, 2007</release_date>
+   <running_time>97</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>A fully felt, decently crafted teen B-movie melodrama, plenty preposterous in places but alive to the vibrant miseries of being young and misunderstood.</snippet>
+         <url>http://www.boston.com/ae/movies/articles/2007/04/28/the_invisible_speaks_to_the_restless_and_young/</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>The Invisible isn't the formulaic horror film that the studio is selling it as but surely it wasn't supposed to be an accidental comedy either.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20070430.winvisible30/BNStory/Entertainment/home</url>
+         <critic>Liam Lacey</critic>
+      </review>
+      <review>
+         <snippet>The Invisible is, at its core, a character study, albeit one with a Patrick Swayze-in-"Ghost" paranormal edge. But it's definitely not mindless trash. If anything, the movie is too introspective, to the point that it doesn't build enough conflict or tension.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?file=/c/a/2007/04/30/DDGNEPGILH1.DTL&amp;type=movies</url>
+         <critic>Peter Hartlaub</critic>
+      </review>
+      <review>
+         <snippet>The film disappoints on its own terms, failing to drum up any sympathy for a self-pitying rich kid who can't pry his eyes from his navel.</snippet>
+         <url>http://www.avclub.com/content/cinema/the_invisible</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>That rare mystery in which auds know everything upfront and the characters, rather than investigating, simply wait for the culprit to turn herself in. Previously adapted as Swedish thriller "Den Osynlige," Mick Davis' script brings out director David S. Goyer's emo side.</snippet>
+         <url>http://www.variety.com/review/VE1117933459.html?categoryid=31&amp;cs=1</url>
+         <critic>Peter Debruge</critic>
+      </review>
+      <review>
+         <snippet>Originality and even a certain amount of obscurity are more appealing than formula. This doesn't work, but I was never bored.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/31541_INVISIBLE.html</url>
+         <critic>Jonathan Rosenbaum</critic>
+      </review>
+      <review>
+         <snippet>The drama never comes together in a smart, meaningful way; indeed, most revelations border on the banal.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?JSESSIONID=vpTLG6cJTzpJTwnmvynxZphnfPzpvGt3BQyttYMvSWsQKCXVszwL!-1712070785&amp;&amp;rid=9113</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>This latest recycling of foreign-grown frights shows less interest in horror than in healing.</snippet>
+         <url>http://movies2.nytimes.com/2007/04/28/movies/28invi.html?ref=movies</url>
+         <critic>Jeannette Catsoulis</critic>
+      </review>
+      <review>
+         <snippet>This may be a remake of a Swedish film from 2002 (itself based on a novel), but unspooling in the cineplex it feels more akin to one of emo godhead Conor Oberst's more emotionally mopey musical diversions.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A468081</url>
+         <critic>Marc Savlov</critic>
+      </review>
+      <review>
+         <snippet>A 12th-grade "Sixth Sense" with a third-rate plot.</snippet>
+         <url>http://www.nypost.com/seven/04282007/entertainment/movies/teen_redemption_tale_best_left_unseen_movies_kyle_smith.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>Little more than an extended excuse for a soundtrack.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-invisible30apr30,0,2975780.story?coll=cl-mreview</url>
+         <critic>Carina Chocano</critic>
+      </review>
+      <review>
+         <snippet>And yes, you are supposed to take this all extremely seriously; it probably sounded layered and complex when the writers were stoned.</snippet>
+         <url>http://www.laweekly.com/film+tv/film-reviews/film-reviews-diggers-next-and-banished/16228/?page=2</url>
+         <critic>Luke Y. Thompson</critic>
+      </review>
+      <review>
+         <snippet>Chatwin comes off as prickly and annoyed -- they should have called this "Perturbia."</snippet>
+         <url>http://www.ew.com/ew/article/0,,20037654,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>What might work as a narrative device in a novel - the spirit guiding readers through Nick's revelations - is just plain ridiculous in a movie.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2007/04/28/2007-04-28_give_up_ghost.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>A textbook illustration of the American movie industry's ability to take an offbeat foreign film and systematically alter or soften every provocative and original thing about it.</snippet>
+         <url>http://www.tvguide.com/movies/invisible/review/285357</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+   </reviews>
+   <US_Gross>$20,568,319</US_Gross>
+   <weekend_gross>$7,717,309</weekend_gross>
+   <number_of_screens>2,019</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

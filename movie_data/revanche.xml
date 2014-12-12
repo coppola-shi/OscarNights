@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Revanche</name>
+   <company>Janus Films</company>
+   <genres>
+      <genre>Crime</genre>
+      <genre>Drama</genre>
+      <genre>Romance</genre>
+   </genres>
+   <authors>
+      <author>Gotz Spielmann</author>
+   </authors>
+   <directors>
+      <director>Gotz Spielmann</director>
+   </directors>
+   <origins>
+      <origin>Austria</origin>
+   </origins>
+   <actors>
+      <actor>Johannes Krisch</actor>
+      <actor>Irina Potapenko</actor>
+   </actors>
+   <release_date>May 1, 2009</release_date>
+   <running_time>121</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>Austrian director Spielmann has long awaited discovery by a wider world, and for my money the gorgeous, brooding, unpredictable neo-noir Revanche is one of the year's best films.</snippet>
+         <url>http://www.salon.com/ent/movies/btm/feature/2009/05/16/roundup/index.html</url>
+         <critic>Andrew O&amp;#039;Hehir</critic>
+      </review>
+      <review>
+         <snippet>An extraordinary film, mythic in feeling.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2009/06/04/MVTH180BN8.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>A little bit of "Crime and Punishment" and a whole lot of "The Postman Always Rings Twice," Revanche, the Austrian candidate for last year's Best Foreign Language Film, is a surprisingly unruffled tale of love, thievery, murder and revenge.</snippet>
+         <url>http://www.theglobeandmail.com/news/arts/revenge-is-sweet/article1439379/</url>
+         <critic>Stephen Cole</critic>
+      </review>
+      <review>
+         <snippet>The film continually explores surprising, rewarding territory; even an erotically charged subplot dovetails nicely with themes of vengeance, mortality and renewal.</snippet>
+         <url>http://blog.oregonlive.com/madaboutmovies/2009/06/review_rob_a_bank_for_your_lov.html</url>
+         <critic>Stan Hall</critic>
+      </review>
+      <review>
+         <snippet>Spielmann doesn't move his camera much, but he doesn't have to. The uniformly crackerjack cast keeps things electric, yet always believable, even when behaving in ways that are shocking.</snippet>
+         <url>http://www.washingtonpost.com/gog/movies/revanche,1156563.html</url>
+         <critic>Michael O&amp;#039;Sullivan</critic>
+      </review>
+      <review>
+         <snippet>A darkly compelling film from Austria, can be viewed as either a thriller with psychological overtones or a psychological drama with thriller elements.</snippet>
+         <url>http://www.latimes.com/entertainment/news/la-et-revanche8-2009may08,0,4517622.story</url>
+         <critic>Kenneth Turan</critic>
+      </review>
+      <review>
+         <snippet>From the film's opening moments you won't be able to guess where the whole thing ultimately ends up and that's one of the many endearing qualities of Revanche.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=11328</url>
+         <critic>Eric Campos</critic>
+      </review>
+      <review>
+         <snippet>Spielmann’s deft storytelling is coupled with immaculate compositions that constrain the characters as confidently as any prison bars. Revanche reveals Spielmann as a true master of his craft.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A890559</url>
+         <critic>Marjorie Baumgarten</critic>
+      </review>
+      <review>
+         <snippet>A slow-burning, character-rich study in desperation, grief, vengeance, loyalty, and love. It's the sort of arthouse entry - in German, mostly - that gets you thinking about an English-language remake.</snippet>
+         <url>http://www.philly.com/philly/entertainment/movies/20091106_Tender_and_suspenseful_study_in_love.html</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>It sustains a palpable fatalism in such recurring details as a whirring buzz saw and the cry of a loon, while the static camera and lack of musical cues enable some unforeseeable plot twists.</snippet>
+         <url>http://www.stltoday.com/stltoday/entertainment/reviews.nsf/movie/story/E1977EE85D2BD9D78625760200735ED8?OpenDocument</url>
+         <critic>Joe Williams</critic>
+      </review>
+      <review>
+         <snippet>Revanche was a foreign-language Oscar nominee this year, and it's a better movie than most of the films in the main race. The word "revanche" means "revenge" in German, but "waiting" would have been just as good.</snippet>
+         <url>http://www.boston.com/ae/movies/articles/2009/05/01/revanche/</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>Revanche involves a rare coming together of a male's criminal nature and a female's deep needs, entwined with a first-rate thriller. It is also perceptive in observing characters, including a proud old man. Rare is the thriller that is more about the reasons of people instead of the needs of the plot.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20090805/REVIEWS/908069995</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>Revanche has an unusual rhythm: Once it leaves the grotty urban despair behind for the deceptive calm of the countryside, it relaxes and explores the character’s interior lives.</snippet>
+         <url>http://featuresblogs.chicagotribune.com/talking_pictures/2009/08/revanche-3-12-stars.html</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>Revanche is, first and foremost, a good story, craftily told.</snippet>
+         <url>http://www.avclub.com/articles/revanche,27392/</url>
+         <critic>Noel Murray</critic>
+      </review>
+      <review>
+         <snippet>Revanche gets its hooks into you early and leaves them there.</snippet>
+         <url>http://www.villagevoice.com/2009-04-29/film/crime-and-punishment-in-the-elegant-thriller-revanche/</url>
+         <critic>Scott Foundas</critic>
+      </review>
+      <review>
+         <snippet>Mr. Spielmann's film is full of surprises and, in its distinctive way, full of life.</snippet>
+         <url>http://online.wsj.com/article/film_review.html</url>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>The coincidences might be too much for some, but viewers who can get past them will be treated to a suspenseful, well-acted, crisply photographed character study.</snippet>
+         <url>http://www.nypost.com/seven/05012009/entertainment/movies/brothel_ly_love_in_vienna_167030.htm</url>
+         <critic>V.A. Musetto</critic>
+      </review>
+      <review>
+         <snippet>The characters and situations are interesting enough, and the filmmaking is sufficiently skilled to provide a measure of reasonably thoughtful entertainment.</snippet>
+         <url>http://movies.nytimes.com/2009/05/01/movies/01reva.html</url>
+         <critic>A.O. Scott</critic>
+      </review>
+      <review>
+         <snippet>In what's essentially a six-hander, the casting is aces. All actors turn in fine, naturalistic perfs, but it would be remiss not to remark on 83-year-old Thanheiser's profoundly moving turn as the grandfather.</snippet>
+         <url>http://www.variety.com/review/VE1117936227.html?categoryid=31&amp;cs=1&amp;query=Revanche</url>
+         <critic>Alissa Simon</critic>
+      </review>
+      <review>
+         <snippet>Writer-director Gotz Spielmann (Antares) avoids the clutter and manipulation of most thrillers, escalating tension almost solely through the characters' turbulent emotions.</snippet>
+         <url>http://www.chicagoreader.com/chicago/MovieTimes?film=1173486</url>
+         <critic>Andrea Gronvall</critic>
+      </review>
+      <review>
+         <snippet>As long as Revanche focuses on the relationship between Tamara (Irina Potapenko), an indentured Ukrainian prostitute, and Alex (Johannes Krisch), the ex-con gofer and would-be tough guy who wants to help her escape, it's riveting.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20278671,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>Hard luck conspires with bad sex in this unspectacular Austrian tale of crime and punishment.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?rid=10634</url>
+         <critic>Maggie Lee</critic>
+      </review>
+   </reviews>
+   <US_Gross>$302,876</US_Gross>
+   <weekend_gross>$50,164</weekend_gross>
+   <number_of_screens>41</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

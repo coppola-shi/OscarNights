@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Garfield: A Tail of Two Kitties</name>
+   <company>20th Century Fox Pictures</company>
+   <genres>
+      <genre>Action</genre>
+      <genre>Animation</genre>
+      <genre>Comedy</genre>
+      <genre>FamilyKids</genre>
+   </genres>
+   <authors>
+      <author>Joel Cohen</author>
+      <author>Alec Sokolow</author>
+      <author>Jim Davis</author>
+   </authors>
+   <directors>
+      <director>Tim Hill</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Breckin Meyer</actor>
+      <actor>Jennifer Love Hewitt</actor>
+      <actor>Billy Connolly</actor>
+      <actor>Bill Murray</actor>
+      <actor>Ian Abercrombie</actor>
+      <actor>Roger Rees</actor>
+      <actor>Lucy Davis</actor>
+      <actor>Oliver Muirhead</actor>
+   </actors>
+   <release_date>June 16, 2006</release_date>
+   <running_time>90</running_time>
+   <rating>PG</rating>
+   <reviews>
+      <review>
+         <snippet>Garfield: A Tail of Two Kitties is actually funnier and more charming than the first film.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20060615/REVIEWS/60606005/1001</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>A genuinely clever kidpic that should delight moppets, please parents -- and maybe tickle a few tweens.</snippet>
+         <url>http://www.variety.com/review/VE1117930819?categoryid=31&amp;cs=1</url>
+         <critic>Joe Leydon</critic>
+      </review>
+      <review>
+         <snippet>When the humans have the sense to keep quiet, and the animals are doing their shtick, there's great fun to be had.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-060616-movies-review-garfield,0,5539823.story?coll=mmx-movies_top_heds</url>
+         <critic>Jessica Reaves</critic>
+      </review>
+      <review>
+         <snippet>The stellar array of British talent (voicing the various farm animals) and Murray (whom one suspects has rewritten Garfield's lines to be Murray-esque) give Garfield: A Tail of Two Kitties all its energy and make the human actors -- even comedian Connolly -- look and sound like square panels in a two-dimensional comic strip.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/LAC.20060616.GARFIELD16/TPStory/TPEntertainment/Movies/</url>
+         <critic>Jennie Punter</critic>
+      </review>
+      <review>
+         <snippet>Two Kitties marks a considerable improvement over its predecessor. It's faster paced and the filmmakers wisely shift the focus away from bland owner Breckin Meyer and onto a menagerie of chattering animals.</snippet>
+         <url>http://www.avclub.com/content/node/49513</url>
+         <critic>Nathan Rabin</critic>
+      </review>
+      <review>
+         <snippet>The movie is intermittently amusing, particularly when the American human part of the cast (Breckin Meyer and Jennifer Love Hewitt) are off-screen, the longer and farther the better.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1111002&amp;lat=200.0&amp;lon=200.0&amp;displaySearchLocation=&amp;nm=1&amp;categories=Movies</url>
+         <critic>Stephen Hunter</critic>
+      </review>
+      <review>
+         <snippet>To borrow and slightly emend the words of Shakespeare: That cat will mew, but this dog will have the day.</snippet>
+         <url>http://movies2.nytimes.com/2006/06/16/movies/16garf.html</url>
+         <critic>Manohla Dargis</critic>
+      </review>
+      <review>
+         <snippet>In the ''flesh,'' Garfield himself (voiced by Bill Murray) is once again strikingly unlikable, a bloated, bingeing fascist.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1204258_1_0_,00.html</url>
+         <critic>Scott Brown</critic>
+      </review>
+      <review>
+         <snippet>Murray's gift for imperious indifference is the only reason to sit through a second for-kids-only movie about Garfield the lasagna-loving cat.</snippet>
+         <url>http://www.laweekly.com/film+tv/film-reviews/film-reviews/13777/</url>
+         <critic>Jim Ridley</critic>
+      </review>
+      <review>
+         <snippet>This lifeless, talky, family-oriented feature never manages to rise to the occasion of its witty title.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1002689269</url>
+         <critic>Michael Rechtshaffen</critic>
+      </review>
+      <review>
+         <snippet>The predictable plot and gags make you feel like you’re watching it in cat-years, but there are a few successfully silly set-pieces that will delight kids.</snippet>
+         <url>http://www.empireonline.com/reviews/review.asp?FID=11350</url>
+         <critic>Helen O&amp;#039;Hara</critic>
+      </review>
+      <review>
+         <snippet>Something about the sequel, Garfield: A Tail of Two Kitties, doesn't seem nearly as obnoxious as the original.</snippet>
+         <url>http://www.miami.com/mld/miamiherald/entertainment/movies/14822375.htm</url>
+         <critic>Peter Debruge</critic>
+      </review>
+      <review>
+         <snippet>Kids should see Garfield: A Tale of Two Kitties. It'll help prepare them for a lifetime of mediocre entertainment ahead.</snippet>
+         <url>http://www.nypost.com/movies/cat_box_filler_movies_kyle_smith.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>Though Murray and Curry gamely deliver some chuckle-worthy one-liners along the way, they're mostly leashed to material as moldy and uninspired as the "Jeffersons" theme song.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=7966</url>
+         <critic>Janice Page</critic>
+      </review>
+      <review>
+         <snippet>In a town as status-conscious as Hollywood, the embarrassment of two "Garfield" movies on your résumé must sting like the Dickens.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/moviereviews/story/427141p-360120c.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>It comes off like a coughed-up furball: a wan rehash with too many elements of the hard-to-swallow 2004 original.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2006-06-15-garfield-sequel_x.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>A crass, tedious sequel.</snippet>
+         <url>http://online.tvguide.com/newsearch/detail.aspx?id=46958&amp;sourcetype=m&amp;progseriesparentid=0&amp;tvobjectid=0&amp;keyword=&amp;more=ucmoviereview</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>Children will enjoy the physical humor, but discerning adults are advised to pawn their sons and daughters off on some other unsuspecting chaperone -- preferably one who doesn't read movie reviews.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2006/06/16/DDGRVJEAHF1.DTL&amp;type=movies</url>
+         <critic>Peter Hartlaub</critic>
+      </review>
+      <review>
+         <snippet>Tedious almost beyond endurance.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-to.garfield16jun16,0,6840216.story?coll=bal-movies-utility</url>
+         <critic>Chris Kaltenbach</critic>
+      </review>
+      <review>
+         <snippet>A Tail of Two Kitties couldn't care less about its human principals, and all it wants its animals to do is air-guitar to "Cat Scratch Fever" and wear silly sunglasses.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A375137</url>
+         <critic>Marrit Ingman</critic>
+      </review>
+   </reviews>
+   <US_Gross>$28,426,747</US_Gross>
+   <weekend_gross>$7,288,977</weekend_gross>
+   <number_of_screens>2,946</number_of_screens>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

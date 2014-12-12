@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Gospel, The</name>
+   <company>Screen Gems</company>
+   <genres>
+      <genre>Drama</genre>
+      <genre>Musical</genre>
+   </genres>
+   <authors>
+      <author>Rob Hardy</author>
+   </authors>
+   <directors>
+      <director>Rob Hardy</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Clifton Powell</actor>
+      <actor>Idris Elba</actor>
+      <actor>Nona Gaye</actor>
+      <actor>Boris Kodjoe</actor>
+      <actor>Aloma Wright</actor>
+      <actor>Donnie McClurkin</actor>
+      <actor>Omar Gooding</actor>
+      <actor>Tamyra Gray</actor>
+   </actors>
+   <release_date>October 7, 2005</release_date>
+   <running_time>103</running_time>
+   <rating>PG</rating>
+   <reviews>
+      <review>
+         <snippet>Rousing, affirmative entertainment.</snippet>
+         <url>http://www.calendarlive.com/printedition/calendar/cl-et-gospel7oct07,0,4347556.story</url>
+         <critic>Kevin Thomas</critic>
+      </review>
+      <review>
+         <snippet>Like an Astaire and Rogers musical, this is a movie you don't go to for the dialogue.</snippet>
+         <url>http://www.rogerebert.com/apps/pbcs.dll/article?AID=/20051006/REVIEWS/510070301/1023</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>Is this the modern version of "Going My Way," with those squabbling, heart-warming Irish Catholic priests mixing up pop songs and hymns? Well, in a way it almost is, though its mood is far different and it's set in a far different world that moves to a different tempo and has graver and more troubling social crises.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-0501007-movies-review-gospel,0,176170.story?coll=mmx-movies_top_heds</url>
+         <critic>Michael Wilmington</critic>
+      </review>
+      <review>
+         <snippet>The gospel according to The Gospel is this: There's a party at God's house, and you're invited.</snippet>
+         <url>http://www.nypost.com/movies/53363.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>Writer-director Rob Hardy opts for family-friendly drama but tones down the conflicts so much that none of the story lines can rival the music.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/28648_GOSPEL.html</url>
+         <critic>Andrea Gronvall</critic>
+      </review>
+      <review>
+         <snippet>A creaky melodrama that wants to be a musical.</snippet>
+         <url>http://www.variety.com/review/VE1117928442?categoryid=31&amp;cs=1</url>
+         <critic>Robert Koehler</critic>
+      </review>
+      <review>
+         <snippet>Though unpolished and formulaic, this tribute to the power of faith and music benefits from the contributions of musicians Tamyra Gray, a first-generation American Idol contestant who plays D.T.'s wholesome love interest; Grammy winner Kirk Franklin, who contributed six songs — three original — to the rousing soundtrack; and faith-based singers Yolanda Adams, Martha Munizzi, Fred Hammond (who also executive produced) and Delores Winans.</snippet>
+         <url>http://online.tvguide.com/movies/database/showmovie.asp?MI=46465</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>A heartfelt but muddled melodrama.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=8219</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>You may not subscribe to the film's evangelical message, but you'll be floored by the extraordinary musical scenes, which lead up to a showstopper featuring gospel superstars like Donnie McClurkin and Yolanda Adams.</snippet>
+         <url>http://www.nydailynews.com/10-07-2005/entertainment/col/story/353359p-301095c.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>There may be an audience out there for any movie about gospel music, regardless of how bad it is, but as filmmaking or as drama, it's hard to imagine anyone singing the praises of this one.</snippet>
+         <url>http://www.laweekly.com/film/film_results.php?showid=3590&amp;Sumbit.x=46&amp;Sumbit.y=12</url>
+         <critic>Mark Olsen</critic>
+      </review>
+      <review>
+         <snippet>Though the concept serves as a soul-stirring showcase for contemporary inspirational performers, the writing and direction (both attributed to Rob Hardy) commit a multitude of sins.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1001263027</url>
+         <critic>Michael Rechtshaffen</critic>
+      </review>
+      <review>
+         <snippet>Tamyra, Tamyra, Tamyra. I didn't recognize you at first!</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A295560</url>
+         <critic>Marrit Ingman</critic>
+      </review>
+      <review>
+         <snippet>When not in song, the words that come out of the frustratingly undefined characters' mouths are mostly awkward and contribute to the film's overall incoherent narrative.</snippet>
+         <url>http://www.nytimes.com/2005/10/07/movies/07gosp.html</url>
+         <critic>Laura Kern</critic>
+      </review>
+      <review>
+         <snippet>Unsurprisingly, the unimaginatively filmed but high-intensity gospel performances prove a highlight, radiating an energy and urgency that the film's stilted dialogue, awkward romance, and clunky plotting can only aspire to.</snippet>
+         <url>http://avclub.com/content/node/41429</url>
+         <critic>Nathan Rabin</critic>
+      </review>
+   </reviews>
+   <US_Gross>$15,778,152</US_Gross>
+   <weekend_gross>$7,523,571</weekend_gross>
+   <number_of_screens>969</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>High Tension</name>
+   <company>Lions Gate Films Inc.</company>
+   <genres>
+      <genre>Crime</genre>
+      <genre>Foreign</genre>
+      <genre>Horror</genre>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>Alexandre Aja</author>
+      <author>Grégory Levasseur</author>
+   </authors>
+   <directors>
+      <director>Alexandre Aja</director>
+   </directors>
+   <origins>
+      <origin>France</origin>
+   </origins>
+   <actors>
+      <actor>Cécile De France</actor>
+      <actor>Maïwenn Le Besco</actor>
+      <actor>Philippe Nahon</actor>
+      <actor>Franck Khalfoun</actor>
+      <actor>Andrei Finti</actor>
+      <actor>Oana Pellea</actor>
+      <actor>Marco Claudiu Pascu</actor>
+      <actor>Jean-Claude de Goros</actor>
+   </actors>
+   <release_date>June 10, 2005</release_date>
+   <running_time>85</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>A movie that wants you to squirm in your seat and judged by that standard, it works brilliantly.</snippet>
+         <url>http://www.filmthreat.com/Reviews.asp?Id=6236</url>
+         <critic>Jeremy Knox</critic>
+      </review>
+      <review>
+         <snippet>The film revels in blood and gore, but this is not just a run-of-the-mill splatter film. There's a lot of intelligence in both the script and in Alexandre Aja's direction.</snippet>
+         <url>http://movie-reviews.colossus.net/movies/h/high_tension.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>Like all horror films, High Tension builds to a final, sobering flash of chaos that settles all scores. Some viewers will hate Aja's movie for its end-game reveal; others will love it for the very same reason.</snippet>
+         <url>http://alliance.zap2it.com/custom/metromix/main_template/0,1846,8-25970-1,00.html</url>
+         <critic>Robert K. Elder</critic>
+      </review>
+      <review>
+         <snippet>But purely as an exercise in style, this movie has its moments.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2005-06-09-high-tension_x.htm</url>
+         <critic>Mike Clark</critic>
+      </review>
+      <review>
+         <snippet>A chainsaw-cut above recent entries in the genre: a pure, unapologetic, unironic homage to the likes of "Friday the 13th" that respectfully salutes all the old shtick.</snippet>
+         <url>http://www.nypost.com/movies/24962.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>I was annoyed by Levasseur and Aja's desertion of their tense, simple plot in favor of tedious "plot twists" that could, frankly, use a rest. It's a waste of a good first half. (Grade: A- for first hour, C- thereafter.)</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/1118311639318381.xml&amp;coll=7</url>
+         <critic>M. E. Russell</critic>
+      </review>
+      <review>
+         <snippet>Even if you don't buy the ending, however, High Tension makes for ghoulish, sick fun, and Aja, who is already at work on a remake of Wes Craven's The Hills Have Eyes, clearly takes this horror stuff very seriously. The genre can always use a few more like him.</snippet>
+         <url>http://ae.miami.com/entertainment/ui/miami/movie.html?id=338879&amp;reviewId=18220&amp;startDate=06%2F10%2F2005</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>The first two thirds of the screenplay by Aja and cowriter Gregory Levasseur is a relentless exercise in bare-bones nastiness.</snippet>
+         <url>http://tvguide.com/movies/database/showmovie.asp?MI=46141</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>While the acting is fine and the direction accomplished, the real stars of the film are editor Baxter and cinematographer Maxime Alexandre. Forfeiting a gold star is whoever haphazardly dubbed the film, simply giving up about halfway through.</snippet>
+         <url>http://www.laweekly.com/film/film_results.php?showid=3431&amp;Sumbit.x=58&amp;Sumbit.y=12</url>
+         <critic>Ernest Hardy</critic>
+      </review>
+      <review>
+         <snippet>Deftly juggles gore and suspense, and punchline holds an intellectual frisson or two for fans of gender-role speculation, but basically this is one more horror pic on the distinguished road already trodden by "Texas Chain Saw Massacre," "Maniac" and the like.</snippet>
+         <url>http://www.variety.com/review/VE1117921215?categoryid=31&amp;cs=1</url>
+         <critic>Lisa Nesselson</critic>
+      </review>
+      <review>
+         <snippet>Manages--before faltering under the weight of its own pretensions--to be pretty scary.</snippet>
+         <url>http://www.villagevoice.com/film/0523,holcomb,64675,20.html</url>
+         <critic>Mark Holcomb</critic>
+      </review>
+      <review>
+         <snippet>Though staged with technical skill and unflinching brutality, it's an awfully familiar-looking slaughter filled with moments on loan from other movies.</snippet>
+         <url>http://www.theavclub.com/review.php?review_id=8571</url>
+         <critic>Keith Phipps</critic>
+      </review>
+      <review>
+         <snippet>Borderline reprehensible, High Tension is a living nightmare, but then, why else would you see it?</snippet>
+         <url>http://www.premiere.com/article.asp?section_id=2&amp;article_id=2172</url>
+         <critic>Peter Debruge</critic>
+      </review>
+      <review>
+         <snippet>For much of its duration the film is a case of intense fare done with an undeniable effectiveness and ingenuity -- until it lurches into a deplorable surprise twist.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-capsules10jun10,0,5697225.story</url>
+         <critic>Kevin Crust</critic>
+      </review>
+      <review>
+         <snippet>By turns unnerving and numbing.</snippet>
+         <url>http://movies2.nytimes.com/2005/06/10/movies/10high.html</url>
+         <critic>Manohla Dargis</critic>
+      </review>
+      <review>
+         <snippet>For all this, there is one unalloyed good thing to be said for High Tension. When all is said and done, it really does live up to its title. In every other way it's trash, but that truth-in-advertising aspect is a major weight to throw into the mix.</snippet>
+         <url>http://sfgate.com/cgi-bin/article.cgi?f=/c/a/2005/06/10/DDGMHD5JSI1.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>Horror fans should see this, at least in geeky admiration for what it pulls off, but in the long run it's no more than a crisp footnote to genre history.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2005/06/09/btm/index4.html</url>
+         <critic>Andrew O&amp;#039;Hehir</critic>
+      </review>
+      <review>
+         <snippet>This film is satisfied merely to wallow in women in peril, cinematic sadism and the spectacle of violent death and dismemberment.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/227870_tension10q.html</url>
+         <critic>Sean Axmaker</critic>
+      </review>
+      <review>
+         <snippet>The latest reshuffling of "Chainsaw" tropes.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1070044_1_0_,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>High Tension often feels like a ’70s exploitation movie in the best sense; unfortunately, the ending is so bad that it mars everything that comes before.</snippet>
+         <url>http://listings.dallasobserver.com/gyrobase/Film/ShowFilm</url>
+         <critic>Luke Y. Thompson</critic>
+      </review>
+      <review>
+         <snippet>That outrageous third-act reveal proves to be a major deal-breaker.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1000954518</url>
+         <critic>Michael Rechtshaffen</critic>
+      </review>
+      <review>
+         <snippet>Stylistically thrilling but ultimately tedious French import.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A273799</url>
+         <critic>Marc Savlov</critic>
+      </review>
+      <review>
+         <snippet>It can only be said that if you like this sort of thing, then this is the sort of thing you like.</snippet>
+         <url>http://www.washingtonpost.com/wp-dyn/content/article/2005/06/09/AR2005060902042.html</url>
+         <critic>Stephen Hunter</critic>
+      </review>
+      <review>
+         <snippet>The horrible anticipation he [Aja] builds is derailed by a gimmick that makes the twist in, say, ''Fight Club" seem perfectly logical. To say more would be to ruin the movie, and why should I do that when its own makers have done it for you?</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=7412</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>One of the ugliest movies I've ever seen. Even though it occurs mostly in the dark, the open flesh wounds are both graphic and implausible.</snippet>
+         <url>http://www.nydailynews.com/06-10-2005/entertainment/col/story/317669p-271513c.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>If old-fashioned jolts are what you're after, this nasty piece of merchandise delivers. But so does electroshock.</snippet>
+         <url>http://spacefinder.chicagoreader.com/movies/briefs/28133_HIGH_TENSION_HAUTE_TENSION_SWITCHBLADE_ROMANCE.html</url>
+         <critic>Jonathan Rosenbaum</critic>
+      </review>
+      <review>
+         <snippet>Serial killing and other insanity in the French countryside, with ineptly dubbed English dialogue.</snippet>
+         <url>http://www.csmonitor.com/2005/0610/p14s01-almo.html</url>
+         <critic>David Sterritt</critic>
+      </review>
+      <review>
+         <snippet>The philosopher Thomas Hobbes tells us life can be "poor, nasty, brutish and short." So is this movie.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20050609/REVIEWS/50601001</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>Such a bizarre movie that it has completely occupied my thinking for days. Not because it's a good movie, mind you. It's more like the equivalent of a botched tooth extraction with a coat hanger. Some bloody shard remains stuck in an inflamed, fleshy part of my psyche, and it's going to take some serious tugging and tearing to root it out.</snippet>
+         <url>http://www.washingtonpost.com/wp-dyn/content/article/2005/06/09/AR2005060900646.html</url>
+         <critic>Desson Thomson</critic>
+      </review>
+      <review>
+         <snippet>The movie is a model of multinational incompetence.</snippet>
+         <url>http://www.baltimoresun.com/features/lifestyle/bal-to.tension10jun10,1,2396470.story?coll=bal-movies-utility</url>
+         <critic>Michael Sragow</critic>
+      </review>
+   </reviews>
+   <US_Gross>$3,681,066</US_Gross>
+   <production_budget>$2,850,000</production_budget>
+   <weekend_gross>$1,897,705</weekend_gross>
+   <number_of_screens>1,323</number_of_screens>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

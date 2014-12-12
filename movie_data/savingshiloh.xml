@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Saving Shiloh</name>
+   <company>New Dog Distribution</company>
+   <genres>
+      <genre>FamilyKids</genre>
+   </genres>
+   <authors>
+      <author>Dale Rosenbloom</author>
+      <author>Phyllis Reynolds Naylor</author>
+   </authors>
+   <directors>
+      <director>Craig Sandy Tung</director>
+      <director>Sandy Tung</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Jason Dolley</actor>
+      <actor>Ann Dowd</actor>
+      <actor>Bonnie Bartlett</actor>
+      <actor>Scott Wilson</actor>
+      <actor>Gerald McRaney</actor>
+      <actor>Kyle Chavarria</actor>
+      <actor>Liberty Smith</actor>
+      <actor>Taylor Momsen</actor>
+   </actors>
+   <release_date>May 12, 2006</release_date>
+   <running_time>90</running_time>
+   <rating>PG</rating>
+   <reviews>
+      <review>
+         <snippet>It's a family film that deals with real problems and teaches real values, and yet is exciting and entertaining.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20060511/REVIEWS/605110308/1001</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>Saving Shiloh is like one of those wholesome, old-fashioned films that you used to watch with your third-grade classmates during visits to the library.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1195063_1_0_,00.html</url>
+         <critic>Gregory Kirschling</critic>
+      </review>
+      <review>
+         <snippet>An honorable, squeaky-clean children's drama, this is notable for its relatively penetrating morality and for Scott Wilson's fine performance as the meanest man in town.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/29806_SAVING_SHILOH.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>May be naive and narratively simple, but it's prime fare for the always underserved family audience.</snippet>
+         <url>http://www.variety.com/review/VE1117930478?categoryid=31&amp;cs=1</url>
+         <critic>John Anderson</critic>
+      </review>
+      <review>
+         <snippet>Touching, intelligent and admirably thoughtful, but more action-packed than its predecessors, thanks to escaped convicts, a local murder and a truly suspenseful finale, with lives at stake.</snippet>
+         <url>http://movies2.nytimes.com/2006/05/12/movies/12shil.html</url>
+         <critic>Anita Gates</critic>
+      </review>
+      <review>
+         <snippet>Solid family fare. Like its source material, the Missouri-shot Saving Shiloh is down-home country without condescending to hicks from the sticks.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1002501648</url>
+         <critic>Sheri Linden</critic>
+      </review>
+      <review>
+         <snippet>Saving Shiloh takes place in 2005, but in its setting and sensibility, it feels like 1930s Walton's Mountain.</snippet>
+         <url>http://www.laweekly.com/film+tv/film-reviews/film-reviews/13496/</url>
+         <critic>Chuck Wilson</critic>
+      </review>
+      <review>
+         <snippet>Based on the last book in Phyllis Reynolds Naylor's award-winning trilogy, this third installment in the family-friendly "Shiloh" series is perfect for anyone who wishes "The Waltons" was still around.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/moviereviews/story/417014p-352149c.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>Offers exactly what you've come to expect from the series: Bland but wholly innocuous family entertainment featuring a cute kid and an even cuter dog.</snippet>
+         <url>http://online.tvguide.com/newsearch/detail.aspx?id=46930&amp;sourcetype=m&amp;progseriesparentid=0&amp;tvobjectid=0&amp;keyword=&amp;more=ucmoviereview</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>An OK kids movie passing through on the way to video.</snippet>
+         <url>http://www.nypost.com/movies/68420.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+   </reviews>
+   <US_Gross>$6,000</US_Gross>
+   <weekend_gross>$6,000</weekend_gross>
+   <number_of_screens>30</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

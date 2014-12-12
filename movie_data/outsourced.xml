@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Outsourced</name>
+   <company>ShadowCatcher Entertainment</company>
+   <genres>
+      <genre>Comedy</genre>
+   </genres>
+   <authors>
+      <author>George Wing</author>
+      <author>John Jeffcoat</author>
+   </authors>
+   <directors>
+      <director>John Jeffcoat</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Asif Basra</actor>
+      <actor>Ayesha Dharker</actor>
+      <actor>Josh Hamilton</actor>
+      <actor>Arjun Mathur</actor>
+      <actor>Larry Pine</actor>
+      <actor>Matt Smith</actor>
+   </actors>
+   <release_date>September 28, 2007</release_date>
+   <running_time>103</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>Smart and charming.</snippet>
+         <url>http://www.csmonitor.com/2007/1005/p14s01-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>A sweetly acted and neatly executed social comedy.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=10959</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>Sweet and light. It's a celebration of cultural diversity and an affirmation that, despite differences in race, religion, and societal norms, people are essentially the same.</snippet>
+         <url>http://www.reelviews.net/movies/o/outsourced.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>Outsourced is not a great movie, and maybe couldn't be this charming if it was. It is a film bursting with affection for its characters and for India.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20070927/REVIEWS/709270303/1023</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>Outsourced is a sweet, good-natured surprise that takes the cliches out of an overworked genre and makes them seem almost fresh and entirely charming.</snippet>
+         <url>http://www.tvguide.com/detail/movie.aspx?tvobjectid=290696&amp;more=ucmoviereview</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>Josh Hamilton gives a marvelously engaging performance in this fish-out-of-water comedy.</snippet>
+         <url/>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>In its modest way, Outsourced may be unique: a charming culture-clash romance that could be taught in business schools.</snippet>
+         <url/>
+         <critic>Matt Zoller Seitz</critic>
+      </review>
+      <review>
+         <snippet>Simply too bright and pleasant to become a huge hit, but it's a confident little genre film with near-classic charm.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2007/09/27/btm/index2.html</url>
+         <critic>Andrew O&amp;#039;Hehir</critic>
+      </review>
+      <review>
+         <snippet>This unaffected charmer treats a hot-button contempo issue with old-fashioned grace and benevolent wit, rendering it a sure-fire word-of-mouth crowd-pleaser.</snippet>
+         <url>http://www.variety.com/review/VE1117931647.html?categoryid=31&amp;cs=1&amp;p=0</url>
+         <critic>Eddie Cockrell</critic>
+      </review>
+      <review>
+         <snippet>Outsourced has all the charm and color of its made-in-India locations, yet it's crafted--well crafted--according to familiar Hollywood convention.</snippet>
+         <url>http://www.villagevoice.com/film/0739,miller,77879,20.html</url>
+         <critic>Brian Miller</critic>
+      </review>
+      <review>
+         <snippet>Its head may be in the sand, but Outsourced is a good-spirited idyll, an escape from reality, naive to a fault, and all but unconcerned with the troubles of the world but almost -- almost -- convincing in its innocence.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A542088</url>
+         <critic>Josh Rosenblatt</critic>
+      </review>
+      <review>
+         <snippet>The ending is predictable to anybody who's followed the trajectory of outsourcing. Outsourced humanizes those affected by it - even if the story sounds familiar.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?file=/c/a/2007/09/28/DDAESDA2N.DTL&amp;type=movies</url>
+         <critic>Ruthe Stein</critic>
+      </review>
+      <review>
+         <snippet>It is not giving away much to say that everything ends as expected, just not soon enough.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/333406_out28q.html</url>
+         <critic>Bill White</critic>
+      </review>
+   </reviews>
+   <US_Gross>$161,593</US_Gross>
+   <weekend_gross>$32,227</weekend_gross>
+   <number_of_screens>8</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

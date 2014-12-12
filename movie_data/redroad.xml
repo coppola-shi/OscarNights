@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Red Road</name>
+   <company>Tartan USA</company>
+   <genres>
+      <genre>Drama</genre>
+      <genre>Foreign</genre>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>Andrea Arnold</author>
+      <author>Anders Thomas Jensen and Lone Scherfig</author>
+   </authors>
+   <directors>
+      <director>Andrea Arnold</director>
+   </directors>
+   <origins>
+      <origin>UKDenmark</origin>
+   </origins>
+   <actors>
+      <actor>Kate Dickie</actor>
+      <actor>Tony Curran</actor>
+      <actor>Martin Compston</actor>
+      <actor>Nathalie Press</actor>
+      <actor>Andrew Armour</actor>
+      <actor>Paul Higgins</actor>
+   </actors>
+   <release_date>April 13, 2007</release_date>
+   <running_time>113</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>Arnold reminds us that the best thrillers don't settle for taking the audience away from their everyday experience; rather, they burrow inward and, by sheer power of cinematic observation, make it hard for us to look away lest we miss something--on a screen or off.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-070504-movies-review-road,0,6047879.story?coll=mmx-movies_top_heds</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>It's a wonderful debut, despite all the pain you may feel watching it.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/1179962702195960.xml&amp;coll=7</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>Academy Award-winning live-action-short director Andrea Arnold makes a startlingly assured debut with this low-key psychological chiller.</snippet>
+         <url>http://www.tvguide.com/movies/red-road/review/287262</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>It's still dynamite, the kind of sexy, paranoid, creepily atmospheric picture that invades all your senses at once.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2007/01/23/sundance_3/index.html?CP=IMD&amp;DN=110</url>
+         <critic>Andrew O&amp;#039;Hehir</critic>
+      </review>
+      <review>
+         <snippet>No one does poetic British with more remorseless hyper-realism than the Scots, and Arnold, who amassed a raft of reputable awards for her 2003 short film "Wasp," directs with a precociously sure touch and a raw taste for graphic sexuality rare in a woman helmer. It shocks, yet feels organic to the paranoid, loveless milieu portrayed in Red Road.</snippet>
+         <url>http://www.villagevoice.com/film/0715,taylor,76350,20.html</url>
+         <critic>Ella Taylor</critic>
+      </review>
+      <review>
+         <snippet>A spellbinding, intelligent thriller that takes its time to get where it's going but is well worth the trip.</snippet>
+         <url>http://www.calendarlive.com/printedition/calendar/cl-et-red13apr13,0,2154835.story</url>
+         <critic>Kevin Crust</critic>
+      </review>
+      <review>
+         <snippet>The movie's intense focus skillfully exposes the raw pain just under the skin of a seemingly ordinary citizen.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2007/04/13/2007-04-13_short_takes.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>Surprisingly moving and intellectually satisfying.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-to.redroad20apr20,0,1019063.story?coll=bal-artslife-movies</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>It's a taut, unexpected study that asks many questions about retribution and redemption.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/320757_limited22.html</url>
+         <critic>Paula Nechak</critic>
+      </review>
+      <review>
+         <snippet>Though not flawless, this is a compelling study, in Dogme style, of a wounded young woman who spends her working life spying on others.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2007/05/04/DDG0LPJRP51.DTL#flick</url>
+         <critic>Walter Addiego</critic>
+      </review>
+      <review>
+         <snippet>Dickie is intense in her screen debut, which requires her to be in nearly every scene. The supporting cast is strong, and Robbie Ryan's handheld camera provides gritty ambiance for this taut thriller.</snippet>
+         <url>http://www.nypost.com/seven/04132007/entertainment/movies/lens_in_high_places_movies_v_a__musetto.htm</url>
+         <critic>V.A. Musetto</critic>
+      </review>
+      <review>
+         <snippet>Its story -- and eerie allure -- comes from our evolving perception of Jackie (Kate Dickie), a surveillance operator in Glasgow, Scotland, who spends long days and nights monitoring the screens.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1131892&amp;categories=Movies&amp;nm=1</url>
+         <critic>Desson Thomson</critic>
+      </review>
+      <review>
+         <snippet>Despite the thick Scottish accents, filmmaker Andrea Arnold kept me intrigued, but beyond a certain point the movie's ambiguity fades into indifference.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/capsules/31167_RED_ROAD</url>
+         <critic>Jonathan Rosenbaum</critic>
+      </review>
+      <review>
+         <snippet>In the arresting Red Road, the dire Orwellian warning that Big Brother is watching has evolved from a grim fantasy of totalitarianism into a banal fact of life.</snippet>
+         <url>http://movies2.nytimes.com/2007/04/13/movies/13road.html?ref=movies</url>
+         <critic>A.O. Scott</critic>
+      </review>
+      <review>
+         <snippet>You might call the film "Rear Window Times 100."</snippet>
+         <url>http://www.hollywoodreporter.com/hr/imdb/reviews/article_display.jsp?rid=1002539871&amp;vnu_special_account_code=thrsiteimdbpro</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>As long as Arnold can avoid giving any reason for Dickie's strange behavior, Red Road remains creepy and hypnotic, but as soon as Arnold explains what's going on, the movie's structure collapses into the rubble of cliché.</snippet>
+         <url>http://www.avclub.com/content/cinema/red_road</url>
+         <critic>Noel Murray</critic>
+      </review>
+      <review>
+         <snippet>Sensual, dark in every sense, but a touch derivative, Red Road reps an impressive feature debut for Brit writer-helmer Andrea Arnold, an Oscar-winner for her knockout short "Wasp."</snippet>
+         <url>http://www.variety.com/index.asp?layout=features2006&amp;content=jump&amp;jump=review&amp;dept=cannes&amp;nav=RCannes&amp;articleid=VE1117930575&amp;cs=1&amp;p=0</url>
+         <critic>Leslie Felperin</critic>
+      </review>
+      <review>
+         <snippet>The movie trades the paranoia of modern omni-cam culture for a tighter, more personal drama, and while it sticks with you, you feel the missed opportunity like a phantom leg.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=10105</url>
+         <critic>Ty Burr</critic>
+      </review>
+   </reviews>
+   <US_Gross>$154,892</US_Gross>
+   <weekend_gross>$17,009</weekend_gross>
+   <number_of_screens>3</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

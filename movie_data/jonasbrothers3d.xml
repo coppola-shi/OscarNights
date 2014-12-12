@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Jonas Brothers: The 3D Concert Experience</name>
+   <company>Walt Disney Pictures</company>
+   <genres>
+      <genre>Documentary</genre>
+      <genre>Musical</genre>
+   </genres>
+   <authors>
+      <author/>
+   </authors>
+   <directors>
+      <director>Bruce Hendricks</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Kevin Jonas</actor>
+      <actor>Joe Jonas</actor>
+      <actor>Nick Jonas</actor>
+      <actor>Demi Lovato</actor>
+      <actor>Taylor Swift</actor>
+   </actors>
+   <release_date>February 27, 2009</release_date>
+   <running_time>minutes,</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>To fully savor Jonas Brothers: The 3D Concert Experience, it's best to watch with an audience overwhelmingly populated by girls and young women.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20261307,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>The threat may be as illusory as the thrills in Jonas Brothers are contrived. But that won't stop Jonas junkies from enjoying their magical mystery tour.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2009-02-26-jonas-brothers_N.htm</url>
+         <critic>Elysa Gardner</critic>
+      </review>
+      <review>
+         <snippet>Certainly their musicianship and onstage professionalism are smooth, though maybe a bit too smooth. There is little spontaneity in anything they do.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film-reviews/film-review-jonas-brothers-the-3d-concert-1003945216.story</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>Director Bruce Hendricks makes little use of the 3D technology, though the gimmick does distract from the fact that we learn nothing new about the guys. It would have been interesting to hear something of their history, especially given their much-discussed Evangelical background.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2009/02/26/2009-02-26_jonas_brothers_the_3d_concert_experience.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>The 3D effects are of a gimmicky 1956 vintage, with hands thrusting from the screen to give the illusion of reaching out and touching the audience.</snippet>
+         <url>http://www.philly.com/inquirer/columnists/carrie_rickey/20090228_Reaching_out_and_touching.html</url>
+         <critic>Carrie Rickey</critic>
+      </review>
+      <review>
+         <snippet>Not only does the 3-D format grant you a front row seat at this Jonas Brothers concert, but it puts sweet, sweaty Joe (he's the cute one) practically in your lap. For most JoBro fans, that alone is worth the price of admission.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20090226.wjonas1227/BNStory/Entertainment/home</url>
+         <critic>Catherine Dawson March</critic>
+      </review>
+      <review>
+         <snippet>It's no mystery that the target audience for this G-rated bubblegum fantasy is tweens, parents of tweens and the occasional pervert. They'll be so pleased. Anything for the rest of humanity? Not so much.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/23454991/review/26348416/jonas_brothers_the_3d_concert_experience</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>Isn't a movie so much as a devotional object, a kind of secular fetish designed to induce rapture.</snippet>
+         <url>http://movies.nytimes.com/2009/02/27/movies/27jona.html?ref=movies</url>
+         <critic>Nathan Lee</critic>
+      </review>
+      <review>
+         <snippet>The film gets one star from me for the admirable brevity of its running time and another for the definite article in its title, seemingly an implicit promise that there will be no sequel.</snippet>
+         <url>http://www.nypost.com/seven/02272009/entertainment/movies/jonas_druthers_157145.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>At 76 minutes, the film is nearly twice as long as even the band's most dedicated admirers might need, with weariness setting in around the 40-minute mark.</snippet>
+         <url>http://www.variety.com/review/VE1117939774.html?categoryid=31&amp;cs=1</url>
+         <critic>Peter Debruge</critic>
+      </review>
+      <review>
+         <snippet>Even in the context of pop-to-statutorily-rape-virgin-eardrums, it's difficult to rate the Jonases. The tunes are no-stick.</snippet>
+         <url>http://www.villagevoice.com/2009-02-25/film/jonas-brothers-the-3d-concert-experience-starring-fountains-of-sticky-white-goo/</url>
+         <critic>Nick Pinkerton</critic>
+      </review>
+      <review>
+         <snippet>The film is awkwardly stitched together from candy-gloss arena concert footage and somewhat grimier-looking backstage/limo/hotel room moments. There is no attempt to make it all hang together as an organic whole.</snippet>
+         <url>http://www.chicagotribune.com/entertainment/movies/chi-0227-jonas-brothers-reviewfeb27,0,2214713.story</url>
+         <critic>Mark Olsen</critic>
+      </review>
+      <review>
+         <snippet>Its swooping 3-D visuals let fans briefly feel they can touch a group that barely exists behind a wall of beefy security men.</snippet>
+         <url>http://www.boston.com/ae/movies/articles/2009/02/28/jonas_brothers_the_3d_concert_experience/</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>They are all part of a great American tradition. Hate them if you want to, but you might as well hate gated communities, "The Real World," and the war on terror while you're at it.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A746079</url>
+         <critic>Josh Rosenblatt</critic>
+      </review>
+   </reviews>
+   <US_Gross>$19,162,740</US_Gross>
+   <weekend_gross>$12,510,374</weekend_gross>
+   <number_of_screens>1,271</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

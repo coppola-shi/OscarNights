@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Lonely Hearts</name>
+   <company>Millennium Films / Samuel Goldwyn Films LLC / Roadside Attractions</company>
+   <genres>
+      <genre>Crime</genre>
+      <genre>Drama</genre>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>Todd Robinson</author>
+   </authors>
+   <directors>
+      <director>Todd Robinson</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>John Travolta</actor>
+      <actor>James Golfini</actor>
+      <actor>Jared Leto</actor>
+      <actor>Salma Hayek</actor>
+      <actor>Scott Caan</actor>
+      <actor>Laura Dern</actor>
+      <actor>Michael Gaston</actor>
+      <actor>Bruce MacVittie</actor>
+   </actors>
+   <release_date>April 13, 2007</release_date>
+   <running_time>108</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>Todd Robinson constructs a riveting thriller.</snippet>
+         <url>http://www.variety.com/review/VE1117930384.html?categoryid=31&amp;cs=1&amp;p=0</url>
+         <critic>Ronnie Scheib</critic>
+      </review>
+      <review>
+         <snippet>While not much of a detective story, Robinson's period film does provide a captivating look at the dynamics that turn Fernandez and Beck into serial killers.</snippet>
+         <url>http://www.calendarlive.com/printedition/calendar/cl-et-lonely13apr13,0,118736.story</url>
+         <critic>Alex Chun</critic>
+      </review>
+      <review>
+         <snippet>As fictional characters in a movie that is fetishistic in its attention to period detail, Mr. Leto and Ms. Hayek work well together as an unsavory couple two rungs down the social ladder from Fred MacMurray and Barbara Stanwyck in "Double Indemnity."</snippet>
+         <url>http://movies2.nytimes.com/2007/04/13/movies/13hear.html?ref=movies</url>
+         <critic>Stephen Holden</critic>
+      </review>
+      <review>
+         <snippet>The story of Fernandez and Beck may be grotesque comedy, but Todd Robinson tells it straight, without flinching from its piteousness, horror, or banality.</snippet>
+         <url>http://www.newyorker.com/arts/critics/cinema/2007/04/23/070423crci_cinema_denby</url>
+         <critic>David Denby</critic>
+      </review>
+      <review>
+         <snippet>Lonely Hearts never locates the key to the killers' bloody bond.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20034464,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>Travolta gives a hangdog performance as the world-weary cop obsessed with rooting out the killers. Hayek and Leto share a few tart black comic moments as the film spirals into a bloodbath.</snippet>
+         <url>http://www.csmonitor.com/2007/0413/p14s02-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>The intensity of Leto and Hayek goes deeper than the script into revealing what makes these two sociopaths in heat impervious to bloody murder. When Hayek and Leto are onscreen, you do not look away.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/10107161/review/14144022/lonely_hearts</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>While Travolta and Gandolfini have the beefy, closed-off look of post-WWII era cops, they never FEEL: They look like actors playing dress up. Leto overcomes his delicate good looks to embody Fernandez's feral, faintly exotic charm, but Hayek is a standard-issue femme fatale, damaged on the inside but flawless on the surface.</snippet>
+         <url>http://www.tvguide.com/movies/lonely-hearts/review/287044</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>A handsome and well-acted film -- if you like that bitten-off, half-Hemingway style -- but also a grim, emotionally strangled one with a strong sadistic current, no genuinely likable characters and almost no humor.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2006/05/01/tribeca_2/index2.html?CP=IMD&amp;DN=110</url>
+         <critic>Andrew O&amp;#039;Hehir</critic>
+      </review>
+      <review>
+         <snippet>While the duo's crimes were indeed sensational, writer-director Todd Robinson's starry take on the material fails to provide much in the way of a new perspective.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/imdb/reviews/article_display.jsp?rid=1002426463&amp;vnu_special_account_code=thrsiteimdbpro</url>
+         <critic>Frank Scheck</critic>
+      </review>
+      <review>
+         <snippet>Todd Robinson, grandson of the real-life Elmer, never fully commits to the heartlessness of the genre as Arthur Penn did in "Bonnie and Clyde."</snippet>
+         <url>http://www.villagevoice.com/film/0715,various,76335,20.html</url>
+         <critic>Ella Taylor</critic>
+      </review>
+      <review>
+         <snippet>Too much of the film is given over to the soap opera of Elmer's life.</snippet>
+         <url>http://www.nypost.com/seven/04132007/entertainment/movies/murder_tale_a_cop_out_movies_lou_lumenick.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>Good as she is, the effortlessly magnetic Hayek just can't sell the role of a pathetic soul whose deep insecurities turn her into a sociopath. And if she has too much charisma, Leto, as the smooth Lothario, simply doesn't have enough.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2007/04/13/2007-04-13_a_story_of_crime_without_the_grime.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>Hayek, with that old-time movie-star pout, those dark, reflective eyes (they could be Satan's twin swimming pools), is the shivery, chilling backbone of Lonely Hearts. Martha Beck couldn't get away with murder. But Salma Hayek can.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2007/04/13/lonely_hearts/index.html</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+   </reviews>
+   <US_Gross>$188,565</US_Gross>
+   <weekend_gross>$80,423</weekend_gross>
+   <number_of_screens>23</number_of_screens>
+   <highest_grossing_actors_present/>
+   <num_highest_grossing_actors>1</num_highest_grossing_actors>
+   <highest_grossing_actor>john travolta</highest_grossing_actor>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

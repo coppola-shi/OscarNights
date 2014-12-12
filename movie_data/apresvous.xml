@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Après Vous</name>
+   <company>Paramount Classics</company>
+   <genres>
+      <genre>Comedy</genre>
+      <genre>Foreign</genre>
+      <genre>Romance</genre>
+   </genres>
+   <authors>
+      <author>Benoît Graffin</author>
+      <author>David Léotard</author>
+      <author>Pierre Salvadori</author>
+      <author>Danièle Dubroux</author>
+   </authors>
+   <directors>
+      <director>Pierre Salvadori</director>
+   </directors>
+   <origins>
+      <origin>France</origin>
+   </origins>
+   <actors>
+      <actor>Daniel Auteuil</actor>
+      <actor>José Garcia</actor>
+      <actor>Srine Kiberlain</actor>
+      <actor>Maryline Canto</actor>
+      <actor>Michèle Moretti</actor>
+      <actor>Garance Clavel</actor>
+      <actor>Fabio Zenoni</actor>
+      <actor>Ange Ruzé</actor>
+      <actor>Andrée Tainsy</actor>
+   </actors>
+   <release_date>June 3, 2005</release_date>
+   <running_time>110</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>This delightfully spirited film is perfectly cast, and it's hard to imagine how Daniel Auteuil, José Garcia and Sandrine Kiberlain could possibly improve upon their irresistible, multifaceted portrayals.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-apres3jun03,0,6491594.story</url>
+         <critic>Kevin Thomas</critic>
+      </review>
+      <review>
+         <snippet>The humor is all over the place, veering from light to dark and from broad to subtle -- as if an "I Love Lucy" episode had been retooled by Woody Allen.</snippet>
+         <url>http://sfgate.com/cgi-bin/article.cgi?f=/c/a/2005/06/10/DDGMHD5JSK1.DTL&amp;type=movies</url>
+         <critic>Ruthe Stein</critic>
+      </review>
+      <review>
+         <snippet>Suicidal depression has rarely looked so amusing.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1067708_1_0_,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>Maybe the movie does so much dawdling and meandering so we'll have more time to bask in their presence; in any case, the otherwise pleasant picture uses up its ideas long before it uses up its running time.</snippet>
+         <url>http://www.csmonitor.com/2005/0603/p14s01-almo.html</url>
+         <critic>David Sterritt</critic>
+      </review>
+      <review>
+         <snippet>Unusually for a soap-bubble film, Après Vous runs almost two hours and very nearly sustains its length. Five minutes of condensation toward the end would have benefited it. But Salvadori floats everything, hammers nothing, and gets maximum buoyancy out of Camille Bazbaz's jaunty music.</snippet>
+         <url>http://www.tnr.com/doc.mhtml?i=20050620&amp;s=kauffmann062005</url>
+         <critic>Stanley Kauffmann</critic>
+      </review>
+      <review>
+         <snippet>There isn't much to the movie, and you can see where it's going from kilometers away. But [Daniel] Auteuil gives the silliness a surprising heft.</snippet>
+         <url>http://www.washingtonpost.com/wp-dyn/content/article/2005/06/16/AR2005061600728.html</url>
+         <critic>Desson Thomson</critic>
+      </review>
+      <review>
+         <snippet>Après Vous arranges for a normal guy to get stuck with a blithering wreck. But whenever things threaten to get really silly, it pulls back.</snippet>
+         <url>http://www.nypost.com/movies/44813.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>A sweet, if dramatically overlong trifle.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-050616-movies-review-vous,0,4994743.story?coll=mmx-movies_top_heds</url>
+         <critic>Jessica Reaves</critic>
+      </review>
+      <review>
+         <snippet>Après Vous offers nice sound design and an unfussy presentation of middle-class Paris. It comes and goes with no unpleasant aftertaste.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2005/06/09/btm/index4.html</url>
+         <critic>Andrew O&amp;#039;Hehir</critic>
+      </review>
+      <review>
+         <snippet>Elegantly written, well-thesped comedy is too hermetic and bittersweet to be laugh-out-loud funny, but sustains a fairly successful ratio of uncomfortable situations to amusing solutions.</snippet>
+         <url>http://www.variety.com/review/VE1117922681?categoryid=31&amp;cs=1</url>
+         <critic>Lisa Nesselson</critic>
+      </review>
+      <review>
+         <snippet>Praised be the gods that this rom-com is French. If not, we'd be haunted by visions of a Focker-ish Dustin Hoffman rescuing a suicidal Tony Shalhoub then orchestrating the TV germophobe's reunification with ex Lisa Kudrow. Vive la France!</snippet>
+         <url>http://www.villagevoice.com/film/0522,tracking1,64451,20.html</url>
+         <critic>Peter L&amp;#039;Official</critic>
+      </review>
+      <review>
+         <snippet>It's sweet, but way too silly.</snippet>
+         <url>http://www.theavclub.com/review.php?review_id=8545</url>
+         <critic>Noel Murray</critic>
+      </review>
+      <review>
+         <snippet>Reasonably entertaining but predictable.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/capsules/26855_APRES_VOUS</url>
+         <critic>Hank Sartin</critic>
+      </review>
+      <review>
+         <snippet>The story itself is silly and exaggerated.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1000485374</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>Had it had the concision and symmetry of a classic French farce, Après Vous could have been an irresistible laugh machine.</snippet>
+         <url>http://movies2.nytimes.com/2005/06/03/movies/03apre.html</url>
+         <critic>Stephen Holden</critic>
+      </review>
+      <review>
+         <snippet>The best that can be said for this excitable, harmless romantic comedy is that it is smoothly directed by Pierre Salvadori.</snippet>
+         <url>http://www.laweekly.com/film/film_results.php?showid=3420&amp;Sumbit.x=46&amp;Sumbit.y=11</url>
+         <critic>Ella Taylor</critic>
+      </review>
+      <review>
+         <snippet>Like most contemporary romantic comedies, the film's plot works only if you accept that everyone behaves like a complete and utter idiot at all times.</snippet>
+         <url>http://tvguide.com/movies/database/showmovie.asp?MI=46144</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>The movie is largely set in a busy Paris restaurant, and, not surprisingly, the food looks terrific. You may come out hungry for poached sea bass and a little starved for drama.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=7701</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>Intended as a farce, but lacks farcical insanity and settles for being a sitcom, not a very good one.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20050616/REVIEWS/50606001/1001</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>Intends to be a farce, not a drama. The film never quite achieves either definition.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A278260</url>
+         <critic>Marjorie Baumgarten</critic>
+      </review>
+      <review>
+         <snippet>You should come out of a film like Apres Vous with your heart as light and fluffy as a souffle. But this farce, credited to four chefs, er, writers, is as heavy and leaden as meatloaf.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/1120750788124940.xml&amp;coll=7</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>Salvadori's choppy film never establishes a comic rhythm.</snippet>
+         <url>http://ae.philly.com/entertainment/ui/philly/movie.html?id=133137&amp;reviewId=18913</url>
+         <critic>Carrie Rickey</critic>
+      </review>
+      <review>
+         <snippet>The jokes run dry, the situation is redundant, the cast becomes tiresome and the running time is interminable.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/231662_apres08q.html</url>
+         <critic>Paula Nechak</critic>
+      </review>
+      <review>
+         <snippet>Proves an absolute chore to sit through.</snippet>
+         <url>http://listings.dallasobserver.com/gyrobase/Film/ShowFilm</url>
+         <critic>Jean Oppenheimer</critic>
+      </review>
+   </reviews>
+   <US_Gross>$830,292</US_Gross>
+   <weekend_gross>$25,504</weekend_gross>
+   <number_of_screens>3</number_of_screens>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

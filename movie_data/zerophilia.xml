@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Zerophilia</name>
+   <company>Microangelo Entertainment LLC</company>
+   <genres>
+      <genre>Comedy</genre>
+   </genres>
+   <authors>
+      <author>Martin Curland</author>
+   </authors>
+   <directors>
+      <director>Martin Curland</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Taylor Hley</actor>
+      <actor>Rebecca Mozo</actor>
+      <actor>Dustin Seavey</actor>
+      <actor>Alison Foll</actor>
+      <actor>Gina Bellman</actor>
+      <actor>Marieh Delfino</actor>
+      <actor>Kyle Schmid</actor>
+   </actors>
+   <release_date>October 13, 2006</release_date>
+   <running_time>90</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>A novel teenage comedy with an astute understanding of adolescent sexual confusion and the nebulous nature of desire, Zerophilia suggests an elastic view of gender that's alternately gleeful and terrifying.</snippet>
+         <url>http://movies2.nytimes.com/2006/10/13/movies/13zero.html?ref=movies</url>
+         <critic>Jeannette Catsoulis</critic>
+      </review>
+      <review>
+         <snippet>Oddest-of-the-year romantic comedy.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/moviereviews/story/461313p-387895c.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>Plays like a throwback to such transformative adolescent anxiety romps as "Teen Wolf" and "Just One of the Guys," this time aiming at a slightly less innocent crowd.</snippet>
+         <url>http://www.variety.com/review/VE1117932053.html?categoryid=31&amp;cs=1</url>
+         <critic>Peter Debruge</critic>
+      </review>
+      <review>
+         <snippet>Anyone who understands the meaning of the title or catches all the frog references scattered through writer-director Martin Curland's feature debut will have a head start understanding this confused and confusing comedy.</snippet>
+         <url>http://tvguide.com/detail/movie.aspx?tvobjectid=283691&amp;more=ucmoviereview</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>All the nudity in Zerophilia is either prosthetic or body-doubled. Which means the sex scenes--and the feeling and meaning behind them--are just as phony.</snippet>
+         <url>http://www.avclub.com/content/node/54045</url>
+         <critic>Noel Murray</critic>
+      </review>
+      <review>
+         <snippet>The gender-bending comedy of Billy Wilder and Blake Edwards gets a teenpic makeover in this 2005 debut feature by Martin Curland.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/30585_ZEROPHILIA.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>A case of provocative issues at the mercy of unskilled execution, Zerophilia is a psychological-horror comedy that pokes its toe into dangerous sexual waters but then scurries away.</snippet>
+         <url>http://www.villagevoice.com/film/0641,grierson,74704,20.html</url>
+         <critic>Tim Grierson</critic>
+      </review>
+      <review>
+         <snippet>There's plenty of material here for a dark comedy, but director Martin Curland isn't up to the job. His film - like Luke - plods along, unsure of exactly what it's supposed to be.</snippet>
+         <url>http://www.nypost.com/seven/10132006/entertainment/movies/zerophilia_movies_v_a__musetto.htm</url>
+         <critic>V.A. Musetto</critic>
+      </review>
+      <review>
+         <snippet>A half-silly, half-earnest indie with the soul of a John Hughes-era sex comedy.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-061027-movies-review-zerophilia,0,3154176.story?coll=mmx-movies_top_heds</url>
+         <critic>Michael Phillips</critic>
+      </review>
+   </reviews>
+   <US_Gross>$7,763</US_Gross>
+   <weekend_gross>$4,534</weekend_gross>
+   <number_of_screens>1</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

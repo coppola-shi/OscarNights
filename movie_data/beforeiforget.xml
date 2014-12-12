@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Before I Forget</name>
+   <company>Strand Releasing</company>
+   <genres>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author/>
+   </authors>
+   <directors>
+      <director>Jacques Nolot</director>
+   </directors>
+   <origins>
+      <origin>France</origin>
+   </origins>
+   <actors>
+      <actor>Jacques Nolot</actor>
+   </actors>
+   <release_date>July 18, 2008</release_date>
+   <running_time>108</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>Exquisitely sad, idiosyncratic film à clef about an aging gay gigolo grasping at the embers of memory before they--and he--turn to ash.</snippet>
+         <url>http://www.villagevoice.com/2008-07-16/film/jacques-nolot-approaches-his-end-in-before-i-forget/</url>
+         <critic>Scott Foundas</critic>
+      </review>
+      <review>
+         <snippet>Before I Forget is, in the broad sense, "gay-themed." But it's also one of the loveliest, most direct and most devastating pictures about aging that I've ever seen.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2008/07/18/forget/</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>It all comes down to Nolot's marvelous performance: His Pierre is sulky, morose, self-centered and curiously likeable, and Nolot leaves you wanting to know a bit more about just where this odd figure might be headed.</snippet>
+         <url>http://www.tvguide.com/movies/forget/review/294582</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>An unblinking portrait of a complicated, solitary gay man who has outlived his working years.</snippet>
+         <url>http://movies.nytimes.com/2008/07/18/movies/18forg.html</url>
+         <critic>Stephen Holden</critic>
+      </review>
+      <review>
+         <snippet>A film one can admire, but it is not "likable," per se, nor does its director wish it to be.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2008/07/31/DDSA1227GE.DTL&amp;type=movies</url>
+         <critic>David Wiegand</critic>
+      </review>
+      <review>
+         <snippet>It's hardly a rosy picture of what it's like to be gay and 60 in Paris. But it's an engrossing picture.</snippet>
+         <url>http://www.avclub.com/content/cinema/before_i_forget</url>
+         <critic>Noel Murray</critic>
+      </review>
+      <review>
+         <snippet>If you've pondered how to order a round of fellatio as one orders a pizza or wondered what gay gentlemen of a certain age talk about, this touching glimpse of faded beauty and looming decrepitude fits the bill.</snippet>
+         <url>http://www.variety.com/index.asp?layout=festivals&amp;jump=review&amp;reviewid=VE1117933757&amp;cs=1&amp;p=0</url>
+         <critic>Lisa Nesselson</critic>
+      </review>
+   </reviews>
+   <US_Gross>$25,209</US_Gross>
+   <weekend_gross>$9,676</weekend_gross>
+   <number_of_screens>1</number_of_screens>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

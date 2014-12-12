@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Superhero Movie</name>
+   <company>Dimension Films (The Weinstein Company), MGM</company>
+   <genres>
+      <genre>Action</genre>
+      <genre>Comedy</genre>
+   </genres>
+   <authors>
+      <author>Craig Mazin</author>
+   </authors>
+   <directors>
+      <director>Craig Mazin</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Drake Bell</actor>
+      <actor>Sara Paxton</actor>
+      <actor>Christopher McDonald</actor>
+      <actor>Pamela Anderson</actor>
+      <actor>Tracy Morgan</actor>
+      <actor>Regina Hall</actor>
+      <actor>Craig Bierko</actor>
+      <actor>Leslie Nielsen</actor>
+   </actors>
+   <release_date>March 28, 2008</release_date>
+   <running_time>85</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>Undiscriminating comedy fans hungering for the High School High of superhero parodies need look no further.</snippet>
+         <url>http://www.avclub.com/content/cinema/superhero_movie</url>
+         <critic>Nathan Rabin</critic>
+      </review>
+      <review>
+         <snippet>Given the abysmal quality of recent spoof pics, it's saying something that Superhero Movie provides a fairly steady stream of midsized laughs -- and even the 40% or so of gags that just lie there aren't actively painful.</snippet>
+         <url>http://www.variety.com/review/VE1117936653.html?categoryid=31&amp;cs=1</url>
+         <critic>Dennis Harvey</critic>
+      </review>
+      <review>
+         <snippet>How can you tell the target age for Superhero Movie is exactly 13 1/2 years? Because most of the jokes are Internet-related.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=8841</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>The very act of writing critically about Superhero Movie inspires something of an existential crisis -- no one likely to turn out for it is reading this review, and anybody reading this review is probably not inclined to see it under any circumstances.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-superhero31mar31,0,5129289.story</url>
+         <critic>Mark Olsen</critic>
+      </review>
+      <review>
+         <snippet>Puerile and idiotic it may be, but Superhero Movie is nonetheless smarter than most of its lowbrow brethren in the Hollywood sub-sub-category known as the spoof movie.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20080330.wsuperhero0330/BNStory/Entertainment/home</url>
+         <critic>Jason Anderson</critic>
+      </review>
+      <review>
+         <snippet>Seems to have been given the comedy equivalent of blood thinner. It has the blazing satirical boldness to skewer the first Tobey Maguire Spider-Man -- and, amazingly, not much else.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20187722,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>This super-powered spoof just doesn't fly.</snippet>
+         <url>http://www.empireonline.com/reviews/reviewcomplete.asp?FID=135558</url>
+         <critic>Tony Horkins</critic>
+      </review>
+      <review>
+         <snippet>What's shocking about Superhero Movie is not that it's been advertised to death on Nickelodeon to impressionable children, but that it's a completely on-the-nose satire of "Spider-Man.”</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=10885</url>
+         <critic>Felix Vasques Jr.</critic>
+      </review>
+      <review>
+         <snippet>The gags are consistently weak, though actor Miles Fisher turns in a hair-raising impression of Tom Cruise.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/32943_SUPERHERO_MOVIE.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>By-the-numbers screen parody fails to resurrect an increasingly tired genre.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?JSESSIONID=ZfpNHtnG0gDlZQ4yjGpvWh6b5Jd3w3tTTBhk01ht4VPGLTWyWph0!2117578918&amp;&amp;rid=10883</url>
+         <critic>Frank Scheck</critic>
+      </review>
+      <review>
+         <snippet>Predictable, flat, full of name-dropping, tragically unhip, and likely to make a decent amount of cash.</snippet>
+         <url>http://www.laweekly.com/film+tv/film-reviews/movie-reviews-boarding-gate-run-fat-boy-run-priceless/18603/?page=3</url>
+         <critic>Luke Y. Thompson</critic>
+      </review>
+      <review>
+         <snippet>No real mockery is intended by this harmless, mindless grab bag of slightly used gags, which lampoons some of the conventions of recent comic-book epics and adds the expected staples of juvenile humor: urine, vomit and intestinal gas.</snippet>
+         <url>http://movies.nytimes.com/2008/03/29/movies/29supe.html?ref=movies</url>
+         <critic>A.O. Scott</critic>
+      </review>
+      <review>
+         <snippet>It's a tonally confused comedy which, for once, doesn't go far enough comedically.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A604854</url>
+         <critic>Marc Savlov</critic>
+      </review>
+      <review>
+         <snippet>This abysmal "Spider-Man" satire has more in common with the lamentable spate of "Epic" and "Date Movies" than Zucker and Nielsen's truly funny "Naked Gun" series.</snippet>
+         <url>http://www.tvguide.com/movies/superhero-movie/review/292448</url>
+         <critic>Ken Fox</critic>
+      </review>
+   </reviews>
+   <US_Gross>$25,874,034</US_Gross>
+   <weekend_gross>$9,510,297</weekend_gross>
+   <number_of_screens>2,960</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

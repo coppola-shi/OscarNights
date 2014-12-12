@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Breach</name>
+   <company>Universal Pictures</company>
+   <genres>
+      <genre>Drama</genre>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>Adam Mazer</author>
+      <author>William Rotko</author>
+      <author>Billy Ray</author>
+   </authors>
+   <directors>
+      <director>Billy Ray</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Chris Cooper</actor>
+      <actor>Ryan Phillippe</actor>
+      <actor>Laura Linney</actor>
+      <actor>Caroline Dhavernas</actor>
+      <actor>Gary Cole</actor>
+      <actor>Dennis Haysbert</actor>
+      <actor>Kathleen Quinlan</actor>
+      <actor>Bruce Davison</actor>
+   </actors>
+   <release_date>February 16, 2007</release_date>
+   <running_time>110</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>The acting is superb, particularly from the three principals.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1123197&amp;categories=Movies&amp;nm=1</url>
+         <critic>Stephen Hunter</critic>
+      </review>
+      <review>
+         <snippet>Filled with tension, deception and bravura acting, Breach is a crackling tale of real-life espionage that doubles as a compelling psychological drama.</snippet>
+         <url>http://www.calendarlive.com/printedition/calendar/cl-et-breach16feb16,0,7612783.story</url>
+         <critic>Kenneth Turan</critic>
+      </review>
+      <review>
+         <snippet>A compelling and eerily effective little drama.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=9179</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>In this steadily gripping hothouse of a thriller, it's Cooper -- funny, fierce and bug-wild -- who gives us a look into the abyss.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/9141708/review/13527759/breach</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>In every important way, Breach isn't just a solid thriller; it's also an ambitious and engrossing piece of narrative journalism.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-to.breach16feb16,0,4956923.story?coll=bal-movies-utility</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>That it's based on a true spying case seems almost incidental. The heart of the picture is the human drama.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/1171499133105680.xml&amp;coll=7</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>Without Cooper's performance, Breach would have been a good, workmanlike thriller. His presence lifts it to a whole new level.</snippet>
+         <url>http://www.csmonitor.com/2007/0216/p11s01-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>The movie is serious, intelligent, intentionally claustrophobic and awfully somber -- you remember it in black and white, though it was shot (by the masterful Tak Fujimoto) in color. But you'll remember Mr. Cooper's performance for exactly what it is, an uncompromising study in the gradual decay of a soul.</snippet>
+         <url/>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>One of the strengths of Breach, a thriller that manages to excite and unnerve despite our knowing the ending, is how well it captures the utter banality of this man and his world.</snippet>
+         <url>http://movies2.nytimes.com/2007/02/16/movies/16brea.html?ref=movies</url>
+         <critic>Manohla Dargis</critic>
+      </review>
+      <review>
+         <snippet>In this film, everything comes down to the acting. Chris Cooper, one of our finest screen actors, gets inside the mysterious traitor. Ryan Phillippe has just the right gung-ho determination tempered with a touch of naivete as O'Neill. Meanwhile, Laura Linney nails the role of a career agent.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?JSESSIONID=FPhqW9N0h2T4Kp2KltvjylGD4gwrmykYfGCgGLLMjxw8d6xMcD8p!-633917803&amp;&amp;rid=8778</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>A wonderfully taut cat-and-mouse thriller.</snippet>
+         <url>http://www.msnbc.msn.com/id/17080954/site/newsweek/</url>
+         <critic>David Ansen</critic>
+      </review>
+      <review>
+         <snippet>This is a spy movie bereft of the genre's usual, casual kicks. It's not interested in cheap thrills or playing gotcha with the audience. (Which isn't to say parts of it aren't exhilarating.)</snippet>
+         <url>http://www.villagevoice.com/film/0707,wilonsky,75798,20.html</url>
+         <critic>Robert Wilonsky</critic>
+      </review>
+      <review>
+         <snippet>Here is one of the best American actors (Chris Cooper) in one of his best parts.</snippet>
+         <url>http://www.laweekly.com/film+tv/film/the-spy-who-didn8217t-love-us/15679/</url>
+         <critic>Scott Foundas</critic>
+      </review>
+      <review>
+         <snippet>Cooper also pulls off the near-impossible, making us feel dashes of sympathy for this twisted and unscrupulous man.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2007/02/16/breach/index.html</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>This is a quiet, meticulously plotted chamber piece, not the booming, lightning-paced orchestral affair we know as the contemporary action film in the Age of Ludlum.</snippet>
+         <url>http://ae.charlotte.com/entertainment/ui/charlotte/movie.html;jsessionid=9CB26283A977258F8E0CB64D10429F0B.prodapp15_ae_01?id=806593&amp;reviewId=22214</url>
+         <critic>Carrie Rickey</critic>
+      </review>
+      <review>
+         <snippet>The procedural aspects of the story are briskly done, and Chris Cooper's portrayal of the traitor Hanssen is a typically Cooperesque marvel.</snippet>
+         <url>http://www.premiere.com/moviereviews/3527/breach.html</url>
+         <critic>Glenn Kenny</critic>
+      </review>
+      <review>
+         <snippet>Though it's being dumped in the wastelands in February, Breach is better than many of the pack of so-called prestige movies that were released at the end of last year.</snippet>
+         <url>http://www.nypost.com/seven/02162007/entertainment/movies/the_snitch_is_back_movies_lou_lumenick.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>The main problem with Breach is that the story is told through O'Neill, who's far less compelling, in part because Phillippe doesn't have the chops to draw out his own set of contradictions. By committing himself to O'Neill's perspective, Ray misses the opportunity to uncover more information about Hanssen's relationship with his wife and church, his aberrant sexuality, and his mysterious connection to the Russians.</snippet>
+         <url>http://www.avclub.com/content/node/58676</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>Like "Shattered Glass," the other picture Billy Ray directed, Breach probes a guilty mind and reveals how he baffled people. We get a Hitchcock-like pleasure from knowing the protagonist is guilty and watching other shocked characters realize his wickedness.</snippet>
+         <url>http://ae.charlotte.com/entertainment/ui/charlotte/movie.html?id=806593&amp;reviewId=22207&amp;startDate=NEXT7</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>Now Ray has directed his second film, the abysmally titled Breach, and it's a bona fide companion piece, another true-life tale of duplicity gone secretly insane.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20011787,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>Phillippe has the unenviable task of trying to make O'Neill equally interesting, but an eager beaver with some unresolved family issues is no match for a poisoned soul methodically laying the groundwork for his own inevitable fall. The unfortunate imbalance makes long stretches of the film feel dull, but when Cooper is on screen it's mesmerizing.</snippet>
+         <url>http://tvguide.com/detail/movie.aspx?tvobjectid=285894&amp;more=ucmoviereview</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>Ray and his writers found plenty of material to fill Cooper's capable hands. They've turned what must have been a tedious investigation into a sharp cat-and-mouse game between Hanssen and Eric O'Neill (Ryan Phillippe).</snippet>
+         <url>http://www.nydailynews.com/02-16-2007/front/story/498087p-419674c.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>Cooper is the reason to see the film, which was photographed by Tak Fujimoto in the dour tones he brought to a more flagrant realm of evil, and FBI detective work, in "The Silence of the Lambs."</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-070216-movies-review-breach,0,6460699.story?coll=mmx-movies_top_heds</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>The flaw in the movie is that it can't give a plausible reason WHY this patriotic Catholic family man turned traitor, and the script annoyingly addresses this lack several times by saying, "The why doesn't matter." Actually, it does. We want some reason.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/303848_breach16q.html</url>
+         <critic>William Arnold</critic>
+      </review>
+      <review>
+         <snippet>Less ambitious and more narrowly focused than the CIA saga "The Good Shepherd," Breach is a compelling, intelligent drama.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2007-02-15-breach-review_x.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>Just as somber as "The Good Shepherd," the most recent domestic spy drama, but more tightly focused, Breach absorbingly zeroes in on how the FBI nailed the most damaging turncoat in American history.</snippet>
+         <url>http://www.variety.com/review/VE1117932722.html?categoryid=31&amp;cs=1</url>
+         <critic>Todd McCarthy</critic>
+      </review>
+      <review>
+         <snippet>Cooper's performance is outlandishly great, but Phillippe’s knocks Breach down a peg.</snippet>
+         <url>http://nymag.com/movies/reviews/27843/index.html</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>Breach is a look at the insecurities and flaws we all carry, it just happens to be embedded in the story of the worst traitor in FBI history.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=9772</url>
+         <critic>Pete Vonder Haar</critic>
+      </review>
+      <review>
+         <snippet>These days it's going to take a pretty exceptional political thriller to top our political reality for sheer suspense and treachery, and though director Ray (Shattered Glass) provides a few choice moments of psychological tension, nothing in his film can hope to outpace the anxiety caused by the appearance of former Attorney General John Ashcroft in its opening scene.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A446124</url>
+         <critic>Josh Rosenblatt</critic>
+      </review>
+      <review>
+         <snippet>By the end of Breach, we never come to fully understand Hanssen -- who could? -- but Cooper's beguiling performance and his tense cat-and-mouse games with Phillippe help bring an extra layer of entertainment to this otherwise rote thriller.</snippet>
+         <url>http://ae.charlotte.com/entertainment/ui/charlotte/movie.html;jsessionid=9CB26283A977258F8E0CB64D10429F0B.prodapp15_ae_01?id=806593&amp;reviewId=22210</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>Breach is competently made but, aside from Cooper's performance, there's nothing here worth getting excited about.</snippet>
+         <url>http://www.reelviews.net/movies/b/breach.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>Cold and cerebral, with simmering suspense rather than outright excitement, this is a feel-the-quality-of-the-acting movie. It can’t answer all sorts of questions, but does take a scary mug shot of a subtle monster.</snippet>
+         <url>http://www.empireonline.com/reviews/reviewcomplete.asp?FID=133056</url>
+         <critic>Kim Newman</critic>
+      </review>
+      <review>
+         <snippet>Hanssen is such an enigma that any attempt to explain him has inherent interest. Breach expends too much energy on a minor functionary, but it is still worth seeing for its fleeting looks into a heart of darkness.</snippet>
+         <url>http://sfgate.com/cgi-bin/article.cgi?f=/c/a/2007/02/16/DDG0AO53B41.DTL&amp;type=movies</url>
+         <critic>Ruthe Stein</critic>
+      </review>
+      <review>
+         <snippet>Under better circumstances, Cooper might be said to have stolen the picture outright. But as it is, and compelling as he is, there's just nothing here to steal.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/LAC.20070216.BREACH16/TPStory/TPEntertainment/Movies/</url>
+         <critic>Rick Groen</critic>
+      </review>
+      <review>
+         <snippet>The unexciting look and feel of the movie wouldn’t have bothered me if the filmmakers had penetrated Hanssen’s skull a little.</snippet>
+         <url>http://www.newyorker.com/critics/cinema/articles/070219crci_cinema_denby</url>
+         <critic>David Denby</critic>
+      </review>
+      <review>
+         <snippet>Former FBI agent Robert Hanssen is now serving a life sentence for his long career as a Russian and Soviet spy, but this rote thriller implies he should have done prison time just for being Catholic. As played by Chris Cooper, Hanssen is a humorless asshole who commits treason because the bureau won't give him an office with a window, and the screenplay scores countless easy points off his religiosity, which masks a weakness for sex tapes and sleazy chat rooms.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/31107_BREACH.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+   </reviews>
+   <US_Gross>$33,000,880</US_Gross>
+   <weekend_gross>$10,504,990</weekend_gross>
+   <number_of_screens>1,489</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

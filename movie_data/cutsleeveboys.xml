@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Cut Sleeve Boys</name>
+   <company>Regent Releasing</company>
+   <genres>
+      <genre>Comedy</genre>
+      <genre>Romance</genre>
+   </genres>
+   <authors>
+      <author>Ray Yeung</author>
+   </authors>
+   <directors>
+      <director>Ray Yeung</director>
+   </directors>
+   <origins>
+      <origin>UKHongKong</origin>
+   </origins>
+   <actors>
+      <actor>Chowee Leow</actor>
+      <actor>Steven Lim</actor>
+      <actor>Gareth Rhys Davis</actor>
+      <actor>Neil Collie</actor>
+      <actor>John &amp;#039;Ebon-knee&amp;#039; Campbell</actor>
+      <actor>Paul Cox</actor>
+      <actor>Michelle Lee</actor>
+      <actor>David Cary</actor>
+   </actors>
+   <release_date>August 10, 2007</release_date>
+   <running_time>86</running_time>
+   <rating/>
+   <reviews>
+      <review>
+         <snippet>There’s a lot to like in writer-director Ray Yeung’s low-key romantic comedy, once you get past its overly enunciated identity issues, which were, according to Yeung, the film’s raison d’être.</snippet>
+         <url>http://www.laweekly.com/film+tv/film-reviews/film-reviews-daddy-day-camp-stardust/16995/</url>
+         <critic>Paul Malcolm</critic>
+      </review>
+      <review>
+         <snippet>Something of a surprise: a gay-oriented feature that is genuinely touching and sincere.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=10240</url>
+         <critic>Phil Hall</critic>
+      </review>
+      <review>
+         <snippet>Better than its promotional description: "A stir-fried journey of self-discovery" - but not by much.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2007/08/31/DDBQRRK9O.DTL&amp;type=movies</url>
+         <critic>David Wiegand</critic>
+      </review>
+      <review>
+         <snippet>No amount of Botox or false eyelashes can rejuvenate helmer Ray Yeung's Cut Sleeve Boys, which recycles way too many gay cliches.</snippet>
+         <url>http://www.variety.com/review/VE1117929613.html?categoryid=31&amp;cs=1&amp;p=0</url>
+         <critic>Jay Weissberg</critic>
+      </review>
+      <review>
+         <snippet>There's nothing particularly original about art-director-turned-filmmaker Ray Yeung's good-natured look at a pair of aging gay men in London, other than the fact that these men happen to be of Chinese descent. Beyond that, it's pretty much gay business as usual.</snippet>
+         <url>http://www.tvguide.com/detail/movie.aspx?tvobjectid=289584&amp;more=ucmoviereview</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>The bones of something more interesting are there -- how people come to mentally and emotionally define themselves and the ways in which they often need to realign those beliefs -- but Yeung can never reconcile his impulses toward humor and human conflict, so things tend to sputter about, feeling disconnected and episodic.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-cutsleeve10aug10,0,7694373.story?coll=cl-mreview</url>
+         <critic>Mark Olsen</critic>
+      </review>
+      <review>
+         <snippet>Despite original touches, Cut Sleeve Boys is mostly a mediocre gay-themed movie plagued by tired humor and slapdash filmmaking.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-070817-movies-review-sleeve,0,1138518.story?coll=mmx-movies_top_heds</url>
+         <critic>Sid Smith</critic>
+      </review>
+      <review>
+         <snippet>Unfortunately the movie's more interesting and challenging social aspects, which imply more than one "British-Chinese gay experience," are often overtaken by its smarminess--including an aggressively banal score and the way some actors have apparently been encouraged to overwork their eyebrows.</snippet>
+         <url>http://208.100.26.202/movies/briefs/31944_CUT_SLEEVE_BOYS.html</url>
+         <critic>Jonathan Rosenbaum</critic>
+      </review>
+   </reviews>
+   <US_Gross>$13,875</US_Gross>
+   <weekend_gross>$1,982</weekend_gross>
+   <number_of_screens>1</number_of_screens>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

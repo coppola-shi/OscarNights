@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Little Fish</name>
+   <company>First Look Pictures Releasing</company>
+   <genres>
+      <genre>Drama</genre>
+      <genre>Foreign</genre>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>Jacqueline Perske</author>
+   </authors>
+   <directors>
+      <director>Rowan Woods</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Cate Blanchett</actor>
+      <actor>Sam Neill</actor>
+      <actor>Hugo Weaving</actor>
+      <actor>Martin Henderson</actor>
+      <actor>Noni Hazlehurst</actor>
+      <actor>Joel Tobeck</actor>
+      <actor>Lisa McCune</actor>
+      <actor>Susie Porter</actor>
+   </actors>
+   <release_date>February 24, 2006</release_date>
+   <running_time>110</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>The actors are terrific, especially Weaving, who plays bottoming out as a tragedy spiked with gallows humor, and Blanchett, who digs deep into the booby-trapped nature of recovery. The revelation, however, is Rowan Woods, a major filmmaker in the making.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1162019_1_0_,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>Confrontational, raw and always compelling, Little Fish is a film of rare power and conviction.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1000988721</url>
+         <critic>Erin Free</critic>
+      </review>
+      <review>
+         <snippet>The film's title refers both to tiny, fish-shaped vials of liquid heroin and the small fry flitting around the edges of the urban drug scene.</snippet>
+         <url>http://online.tvguide.com/movies/database/Movie-Review.asp?MI=46755</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>Blessed with stellar performances, especially by lead Cate Blanchett as an ex-junkie looking for a fresh break, this sophomore feature by Australian director Rowan Woods marks a strong return after his powerful debut, "The Boys" (1998).</snippet>
+         <url>http://www.variety.com/ac2006_review/VE1117927765?nav=reviews&amp;categoryid=1986&amp;cs=</url>
+         <critic>Russell Edwards</critic>
+      </review>
+      <review>
+         <snippet>While Little Fish takes a turn for the generic in its final act, solid acting, an atmospheric soundtrack, and flare-filled cinematography more beautiful than an Apple screensaver are enough to keep the film afloat.</snippet>
+         <url>http://www.villagevoice.com/film/0608,goldsmith,72267,20.html</url>
+         <critic>Leo Goldsmith</critic>
+      </review>
+      <review>
+         <snippet>As in all her screen performances, Ms. Blanchett immerses herself completely in her character, a damaged, high-strung woman determined to live the straight life while surrounded by temptation.</snippet>
+         <url>http://movies2.nytimes.com/2006/02/24/movies/24fish.html</url>
+         <critic>Stephen Holden</critic>
+      </review>
+      <review>
+         <snippet>Little Fish is a small film about one family and drugs, but it succeeds in standing for a larger social catastrophe.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/LAC.20060224.FISH24/TPStory/TPEntertainment/</url>
+         <critic>Liam Lacey</critic>
+      </review>
+      <review>
+         <snippet>Strong performances and meticulous direction make this consistently disconcerting, but the subplot distracts from the moving human drama.</snippet>
+         <url>http://www.empireonline.com/reviews/review.asp?FID=134255</url>
+         <critic>Patrick Peters</critic>
+      </review>
+      <review>
+         <snippet>Why was this pointless movie made? Because quality actors like Blanchett and Weaving like to play drug addicts. They can't stop themselves. They need help.</snippet>
+         <url>http://www.nypost.com/movies/64089.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+   </reviews>
+   <US_Gross>$22,453</US_Gross>
+   <weekend_gross>$22,453</weekend_gross>
+   <number_of_screens>5</number_of_screens>
+   <highest_grossing_actors_present/>
+   <num_highest_grossing_actors>1</num_highest_grossing_actors>
+   <highest_grossing_actor>cate blanchett</highest_grossing_actor>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Slumdog Millionaire</name>
+   <company>Fox Searchlight Pictures, Warner Bros. Pictures</company>
+   <genres>
+      <genre>Comedy</genre>
+      <genre>Drama</genre>
+      <genre>Romance</genre>
+   </genres>
+   <authors>
+      <author>Simon Beaufoy</author>
+   </authors>
+   <directors>
+      <director>Danny Boyle</director>
+   </directors>
+   <origins>
+      <origin>UK</origin>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Dev Patel</actor>
+      <actor>Madhur Mittal</actor>
+      <actor>Freida Pinto</actor>
+      <actor>Anil Kapoor</actor>
+      <actor>Irrfan Khan</actor>
+   </actors>
+   <release_date>November 12, 2008</release_date>
+   <running_time>120</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>Four stars simply aren't enough for Danny Boyle's Slumdog Millionaire, which just may be the most entertaining movie I've ever labeled a masterpiece in these pages.</snippet>
+         <url>http://www.nypost.com/seven/11122008/entertainment/movies/slumderful__138251.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>This is a breathless, exciting story, heartbreaking and exhilarating at the same time.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20081111/REVIEWS/811110297</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>Director Danny Boyle's riveting and kaleidoscopic tale, based on Vikas Swarup's debut novel "Q and A," is exquisitely adapted to the screen by Simon Beaufoy.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2008-11-11-slumdog-millionaire_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>Slumdog Millionaire is the film world's first globalized masterpiece.</snippet>
+         <url>http://online.wsj.com/article/film_review.html</url>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>The story may stretch credibility until it's ready to pop its seams, but Patel conveys the simple confidence of a prodigy who has learned everything important in life, except how to lie.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20081112.wslumdog12/BNStory/Entertainment/home</url>
+         <critic>Liam Lacey</critic>
+      </review>
+      <review>
+         <snippet>It doesn't happen often, but when it does, look out: a movie that rocks and rolls, that transports, startles, delights, shocks, seduces. A movie that is, quite simply, great.</snippet>
+         <url>http://www.philly.com/inquirer/columnists/steven_rea/20081121__Slumdog_Millionaire__is_that_rare_great_movie.html</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>You may even feel like dancing in the aisles yourself. Sure, the real world doesn't always work this way. Have you forgotten that this is one of the reasons why we go to movies in the first place?</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=11867</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>Slumdog Millionaire dives headfirst into something greater than a subculture - the enormous unchronicled culture of India's mega-slums - and achieves even more sweeping impact.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/reviews/bal-to.slumdog21nov21,0,3707242.story</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>A terrific yarn, one so engrossing and surprising that the nature of the story's structure -- each question Jamal gets asked on the show corresponds with a traumatic or momentous moment from his childhood -- never feels like a contrived framing device.</snippet>
+         <url>http://www.miamiherald.com/entertainment/movies/reviews/story/808250.html</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>Danny Boyle's finest since "Trainspotting." In fact, it's the best British/Indian gameshow-based romance of the millennium.</snippet>
+         <url>http://www.empireonline.com/reviews/reviewcomplete.asp?FID=135721</url>
+         <critic>Ian Nathan</critic>
+      </review>
+      <review>
+         <snippet>Romantic, action-packed and always held together by an intriguing social conscience, Slumdog Millionaire is a rapturous crowd pleaser.</snippet>
+         <url>http://www.npr.org/templates/story/story.php?storyId=96876187</url>
+         <critic>Bob Mondello</critic>
+      </review>
+      <review>
+         <snippet>Slumdog Millionaire features the simplest story Boyle has ever told, which may explain why its many pleasures are so pure.</snippet>
+         <url>http://www.avclub.com/content/cinema/slumdog_millionaire</url>
+         <critic>Tasha Robinson</critic>
+      </review>
+      <review>
+         <snippet>This is Boyle's fullest, most satisfying work and an audience-pleaser that deserves to be a big hit.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/388691_slumdog21q.html</url>
+         <critic>William Arnold</critic>
+      </review>
+      <review>
+         <snippet>Like all good fairy tales, this outsize celebration of perseverance and moral triumph contains within it a deeper idea -- in this case, the relative nature of what we think we know, and what's worth knowing at all. No doubt Dickens himself would approve.</snippet>
+         <url>http://www.washingtonpost.com/wp-dyn/content/article/2008/11/11/AR2008111102775.html</url>
+         <critic>Ann Hornaday</critic>
+      </review>
+      <review>
+         <snippet>The whole thing is irresistibly preposterous.</snippet>
+         <url>http://nymag.com/movies/reviews/52182/</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>Boyle has been nothing if not bold with this film. He's dared to use so many venerable movie elements it's dizzying, dared us to say we won't be moved or involved, dared us to say we're too hip to fall for tricks that are older than we are.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-slumdog12-2008nov12,0,3610327.story</url>
+         <critic>Kenneth Turan</critic>
+      </review>
+      <review>
+         <snippet>Driven by fantastic energy and a torrent of vivid images of India old and new, Slumdog Millionaire is a blast.</snippet>
+         <url>http://www.variety.com/review/VE1117938135.html?categoryid=2863&amp;cs=1&amp;query=slumdog+millionaire</url>
+         <critic>Todd McCarthy</critic>
+      </review>
+      <review>
+         <snippet>An almost ridiculously ebullient Bollywood-meets-Hollywood concoction--and one of the rare "feel-good" movies that actually makes you feel good, as opposed to merely jerked around.</snippet>
+         <url>http://www.villagevoice.com/2008-11-12/film/bollywood-meets-hollywood-in-danny-boyle-s-slumdog-millionaire/</url>
+         <critic>Scott Foundas</critic>
+      </review>
+      <review>
+         <snippet>Like Mumbai, Slumdog pulses and throbs with raw, unadulterated life and the hope for a better Bombay, today. It's brilliant.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A712473</url>
+         <critic>Marc Savlov</critic>
+      </review>
+      <review>
+         <snippet>A great movie is something more than the sum total of all its parts, and here, the elements all come together to form a feature that speaks a universal form of optimism that isn't likely to get lost in translation, no matter where it screens, or who is watching.</snippet>
+         <url>http://movies.tvguide.com/slumdog-millionaire/review/295865</url>
+         <critic>Jason Buchanan</critic>
+      </review>
+      <review>
+         <snippet>Brimming with humor and heartbreak, Slumdog Millionaire meets at the border of art and commerce and lets one flow into the other as if that were the natural order of things.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/20192670/review/24013911/slumdog_millionaire</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>The result is magical and life affirming, and will enrapture those who are not scared away by the mention of "subtitles."</snippet>
+         <url>http://www.reelviews.net/php_review_template.php?identifier=1390</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>Boyle, one of the premier stylists in the world fills "Slumdog" with ebullient energy and ceaseless invention.</snippet>
+         <url>http://blog.oregonlive.com/madaboutmovies/2008/12/movie_review_the_final_answer.html</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>It's a stunner.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2008/11/12/2008-11-12_a_rich_portrait_of_a_poor_teen_and_his_c.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>Absolutely perfect family entertainment for anyone over the age of ten. It is a celebration of not just the usual triumph of the human spirit, but a celebration of the human experience.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=11272</url>
+         <critic>Scott Mendelson</critic>
+      </review>
+      <review>
+         <snippet>Despite its elements of brutality, this is a buoyant hymn to life, and a movie to celebrate.</snippet>
+         <url>http://www.time.com/time/specials/packages/article/0,28804,1840007_1840006_1839980,00.html</url>
+         <critic>Richard Corliss</critic>
+      </review>
+      <review>
+         <snippet>The real star of the film is not a person but a city, the vertiginous, exciting, massively overcrowded "maximum city" of Mumbai. On one hand, this environment of Dickensian, almost hallucinatory contrasts between rich and poor, good and evil feels perfect for Danny Boyle.</snippet>
+         <url>http://www.salon.com/ent/movies/btm/feature/2008/11/12/slumdog/</url>
+         <critic>Andrew O&amp;#039;Hehir</critic>
+      </review>
+      <review>
+         <snippet>A stylish, ingeniously constructed bit of hokum, a sparkling trinket of a movie that's as implausible as it is irresistible.</snippet>
+         <url>http://www.slate.com/id/2204544/</url>
+         <critic>Dana Stevens</critic>
+      </review>
+      <review>
+         <snippet>After last year's black-hearted "No Country for Old Men," the Oscars may well be in the mood to embrace a fairy tale sampling every imaginable genre, with a note of triumph accompanying even the worst suffering, capped by the snazziest ending money can buy.</snippet>
+         <url>http://chicago.metromix.com/movies/movie_review/movie-review-slumdog-millionaire/764909/content</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>Slumdog Millionaire is nothing if not an enjoyably far-fetched piece of rags-to-riches wish fulfillment.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20239800,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>In the end, what gives me reluctant pause about this bright, cheery, hard-to-resist movie is that its joyfulness feels more like a filmmaker's calculation than an honest cry from the heart about the human spirit (or, better yet, a moral tale).</snippet>
+         <url>http://movies.nytimes.com/2008/11/12/movies/12slum.html?ref=movies</url>
+         <critic>Manohla Dargis</critic>
+      </review>
+      <review>
+         <snippet>What's perhaps most fascinating about the film is Boyle's relentless focus on the realities of present-day India as a vehicle for his spectacle and laughs.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/awards_festivals/fest_reviews/article_display.jsp?&amp;rid=11668</url>
+         <critic>Peter Brunette</critic>
+      </review>
+      <review>
+         <snippet>What IS surprising is the unembarrassed energy that Boyle devotes to his pursuit of the obvious; there’s nothing wrong with the formulaic, it would appear, so long as you bring the formula to the boil.</snippet>
+         <url>http://www.newyorker.com/arts/critics/cinema/2008/11/24/081124crci_cinema_lane</url>
+         <critic>Anthony Lane</critic>
+      </review>
+      <review>
+         <snippet>The movie brushes against some of India's worst social ills, but it's essentially a fairy tale.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/critic.html#33783</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>The entire film has the glibness of a music video. Boyle has managed to make dire poverty seem glossy.</snippet>
+         <url>http://www.csmonitor.com/2008/1115/p25s01-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>Doesn't hit its stride until the last 30 minutes, and by then, it's just a little too late.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2008/11/12/DDU9142B25.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+   </reviews>
+   <US_Gross>$141,319,928</US_Gross>
+   <production_budget>$14,000,000</production_budget>
+   <weekend_gross>$427,715</weekend_gross>
+   <number_of_screens>10</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

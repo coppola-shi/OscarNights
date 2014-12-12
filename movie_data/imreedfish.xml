@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>I&amp;#039;m Reed Fish</name>
+   <company>Screen Media Films</company>
+   <genres>
+      <genre>Comedy</genre>
+      <genre>Drama</genre>
+      <genre>Romance</genre>
+   </genres>
+   <authors>
+      <author>Reed Fish</author>
+      <author>Zackary Adler</author>
+      <author>Peter Alwazzan</author>
+      <author>Rhett Wickham</author>
+   </authors>
+   <directors>
+      <director>Zackary Adler</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Jay Baruchel</actor>
+      <actor>Alexis Bledel</actor>
+      <actor>Schuyler Fisk</actor>
+      <actor>Victor Rasuk</actor>
+      <actor>DJ Qualls</actor>
+      <actor>A.J. Cook</actor>
+      <actor>Katey Sagal</actor>
+      <actor>Chris Parnell</actor>
+   </actors>
+   <release_date>June 1, 2007</release_date>
+   <running_time>93</running_time>
+   <rating>PG</rating>
+   <reviews>
+      <review>
+         <snippet>Pitch-perfect dialogue, quietly dynamic helming and small-scale action on a widescreen canvas make for a very appealing film.</snippet>
+         <url>http://www.variety.com/review/VE1117930473.html?categoryid=31&amp;cs=1&amp;p=0</url>
+         <critic>Ronnie Scheib</critic>
+      </review>
+      <review>
+         <snippet>In an age when special effects and flashy cinematography often trump narrative, there's a particular charm to the plain-Jane story of self-discovery.</snippet>
+         <url>http://www.tvguide.com/detail/movie.aspx?tvobjectid=288357&amp;more=ucmoviereview</url>
+         <critic>Megan Cherkezian</critic>
+      </review>
+      <review>
+         <snippet>Given the lousy singing of Kirsten Dunst in "Spider-Man" and Drew Barrymore in "Lucky You," it's nice to report that Fisk - Sissy Spacek's daughter - shows real talent performing two songs here.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2007/06/01/2007-06-01_short_takes.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>In I'm Reed Fish, Jay Baruchel is cast as a leading man with two attractive girlfriends, and, sorry, I'm frankly more prepared to accept Stephen Hawking as an action hero.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/1181775329311390.xml&amp;coll=7</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>Sweetness and whimsy fill the screen to capacity in I'm Reed Fish, a rural coming-of-age tale that's so laid-back that its cast is almost horizontal.</snippet>
+         <url>http://movies2.nytimes.com/2007/05/31/movies/01reed.html?ref=movies</url>
+         <critic>Jeannette Catsoulis</critic>
+      </review>
+      <review>
+         <snippet>Short of pulling a Zach Braff, there's one sure way to get known as a screenwriter: Put your actual name in the title of the script.</snippet>
+         <url>http://www.villagevoice.com/film/0722,petersen,76805,20.html</url>
+         <critic>Charles Petersen</critic>
+      </review>
+      <review>
+         <snippet>The ultimate indie self-indulgence, I'm Reed Fish is so weighed down in its own angst as to practically deserve its own genre.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A481498</url>
+         <critic>Toddy Burton</critic>
+      </review>
+      <review>
+         <snippet>Watching I'm Reed Fish is like being forced to read the diary of a dull-witted teen who is breathlessly beginning a lifelong fascination with himself.</snippet>
+         <url>http://www.nypost.com/seven/06012007/entertainment/movies/psst__dont_order_the_fish_movies_kyle_smith.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+   </reviews>
+   <US_Gross>$3,567</US_Gross>
+   <weekend_gross>$1,026</weekend_gross>
+   <number_of_screens>1</number_of_screens>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

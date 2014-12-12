@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Bolt</name>
+   <company>Walt Disney Pictures</company>
+   <genres>
+      <genre>Animation</genre>
+      <genre>Comedy</genre>
+      <genre>FamilyKids</genre>
+      <genre>Fantasy</genre>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>Dan Fogelman</author>
+      <author>Chris Williams</author>
+   </authors>
+   <directors>
+      <director>Chris Williams</director>
+      <director>Byron Howard</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>John Travolta</actor>
+      <actor>Miley Cyrus</actor>
+      <actor>Susie Essman</actor>
+      <actor>Mark Walton</actor>
+      <actor>Diedrich Bader</actor>
+      <actor>Malcolm McDowell</actor>
+      <actor>Nick Swardson</actor>
+   </actors>
+   <release_date>November 21, 2008</release_date>
+   <running_time>96</running_time>
+   <rating>PG</rating>
+   <reviews>
+      <review>
+         <snippet>There's something both simple and sweet about Bolt, yet epic, that's entirely surprising.</snippet>
+         <url>http://www.csmonitor.com/2008/1122/p25s01-almo.html</url>
+         <critic>Robert Koehler</critic>
+      </review>
+      <review>
+         <snippet>Bolt breaks no great new stylistic ground -- and yet it's a sturdy beaut.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20241353,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>Bolt has the magical quality of great animation, the ability to touch us without the hint of preachiness or manipulation.</snippet>
+         <url>http://events.charlotteobserver.com/reviews/show/34950-review-bolt</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>Bolt proves a refreshing throwback to the animated classics of yore.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/reviews/bal-to.bolt21nov21,0,6007856.story</url>
+         <critic>Chris Kaltenbach</critic>
+      </review>
+      <review>
+         <snippet>For the first time in years, it feels like Disney has done its namesake proud.</snippet>
+         <url>http://www.avclub.com/content/cinema/bolt</url>
+         <critic>Tasha Robinson</critic>
+      </review>
+      <review>
+         <snippet>What keeps Bolt fresh is an unaffected exuberance, a genuine sense of fun, that is expressed above all through obsessive attention to craft.</snippet>
+         <url>http://movies.nytimes.com/2008/11/21/movies/21bolt.html?ref=movies</url>
+         <critic>A.O. Scott</critic>
+      </review>
+      <review>
+         <snippet>As Bolt, John Travolta is inspired: His voice still cracks like an adolescent’s, and he has the perfect dopey innocence.</snippet>
+         <url>http://nymag.com/movies/reviews/52182/</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>Bolt carries two tales for the price of one, both handled by Disney veterans and first-time directors Chris Williams and Byron Howard with wit, grace, and the dazzling craftsmanship we've come to expect from the studio that's hitched its wagon to Pixar.</snippet>
+         <url>http://www.villagevoice.com/2008-11-19/film/disney-s-bolt-is-a-starry-dog-story/</url>
+         <critic>Ella Taylor</critic>
+      </review>
+      <review>
+         <snippet>This is a Disney film, so there's never any real question regarding Bolt and his friends' ultimate success or failure, but the writing team of Dan Fogelman (Cars) and co-director Williams (Mulan) have concocted one of the most witty and often hilarious Disney outings in years.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A703394</url>
+         <critic>Marc Savlov</critic>
+      </review>
+      <review>
+         <snippet>While this charmer about a canine James Bond does not pack the emotional punch of "WALL-E," it's frisky fun to see the white shepherd get a new leash on life.</snippet>
+         <url>http://www.philly.com/inquirer/columnists/carrie_rickey/20081121_A_super-pooch__or_so_he_thinks.html</url>
+         <critic>Carrie Rickey</critic>
+      </review>
+      <review>
+         <snippet>This winning mix of exciting action, heart-tugging sentiment, and gentle character comedy makes Bolt yet another solid addition to Disney's history of family-friendly fare.</snippet>
+         <url>http://movies.tvguide.com/bolt/review/294809</url>
+         <critic>Perry Seibert</critic>
+      </review>
+      <review>
+         <snippet>It's doubtful that audiences go to animated features to hear movie stars talk. They go because a film sounds like fun and something their kids and maybe they themselves might enjoy. Bolt is all that and more.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2008/11/20/DD49148QAO.DTL&amp;type=movies</url>
+         <critic>Ruthe Stein</critic>
+      </review>
+      <review>
+         <snippet>This stuff is clever, in the reflexively satirical, self-aware way that many animated films are. It's not until the dog is accidentally shipped off to New York City that the movie lets you in on an altogether more interesting idea: It doesn't want to be that cool.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=12279</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>At the end of the day, Bolt is a sweet Disney family film.</snippet>
+         <url>http://www.latimes.com/entertainment/news/reviews/la-et-bolt21-2008nov21,0,5976597.story</url>
+         <critic>Kenneth Turan</critic>
+      </review>
+      <review>
+         <snippet>There's a terrific tenderness in Travolta's performance, while Cyrus and company are similarly effective.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?JSESSIONID=prd6JhJJnvQL9cYrfRKSHVQjP6dRnLhLH4SZ1KQht3tfhVLxmjqn!-591095386&amp;&amp;rid=11956</url>
+         <critic>Michael Rechtshaffen</critic>
+      </review>
+      <review>
+         <snippet>Bears some telltale signs of Pixar's trademark smarts, but still looks like a mutt compared to the younger company's customary purebreds.</snippet>
+         <url>http://www.variety.com/review/VE1117939023.html?categoryid=31&amp;cs=1</url>
+         <critic>Todd McCarthy</critic>
+      </review>
+      <review>
+         <snippet>As the voice of Bolt, John Travolta does a fine job and Disney star Miley Cyrus is fine as well, but neither one can overcome the lack of personality in their scripted characters.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/388711_bolt21q.html</url>
+         <critic>Andy Spletzer</critic>
+      </review>
+      <review>
+         <snippet>Travolta does a nice job, but Bolt is of course the most boring, blandly cute character in the movie.</snippet>
+         <url>http://www.oregonlive.com/movies/index.ssf/2008/11/movie_review_rintintins_got_no.html</url>
+         <critic>M. E. Russell</critic>
+      </review>
+      <review>
+         <snippet>Bolt borrows amiably from a host of sources, including "The Incredible Journey," "Lilo and Stitch" and "Toy Story 2."</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2008-11-20-bolt_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>Has that formulaic, cookie-cutter feel typical of many Disney toons. The premise is inspired, but the follow-through is merely adequate.</snippet>
+         <url>http://www.miamiherald.com/entertainment/movies/reviews/story/779647.html</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>As sprightly and determined as its fuzzy, yappy lead, the new Disney animated film Bolt works hard to be all things to all people, with mixed results.</snippet>
+         <url>http://www.washingtonpost.com/gog/movies/bolt,1139976.html</url>
+         <critic>Dan Kois</critic>
+      </review>
+      <review>
+         <snippet>The unlikely superhero of this film is the hamster, who brings the funny amid a flurry of weaker gags. But Bolt still has charm -- it just won't hit with the adults the way the best animated films can.</snippet>
+         <url>http://www.empireonline.com/reviews/review.asp?FID=135543</url>
+         <critic>Damon Wise</critic>
+      </review>
+      <review>
+         <snippet>Though every frame is great to look at, Bolt's script - by the co-writers of "Mulan" and "Cars" - lacks the wit of its closest Pixar relative, "The Incredibles." Rhino and some goofy pigeons provide the few laughs once the tale goes cross-country.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2008/11/20/2008-11-20_disneys_dog_hero_bolt_is_a_ruff_pixar_kn.html</url>
+         <critic>Joe Neumaier</critic>
+      </review>
+      <review>
+         <snippet>Taken on its own terms, Bolt the movie certainly makes the cut.</snippet>
+         <url>http://online.wsj.com/article/SB122722557296045953.html?mod=article-outset-box</url>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>Bolt is just too knowing; it keeps reminding us, loud and clear, of how culturally savvy it is.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2008/11/21/bolt/</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>Both original and good; the problem is the original parts aren't good and the good parts aren't original.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20081120.wbolt21/BNStory/Entertainment/home</url>
+         <critic>Liam Lacey</critic>
+      </review>
+      <review>
+         <snippet>Adults won't find much to enjoy here, though the dog's high-octane action series serves as a perverse parody of Jerry Bruckheimer-style summer blockbusters.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/33866_BOLT.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>Sporadically entertaining, occasionally quite funny.</snippet>
+         <url>http://www.nypost.com/seven/11212008/entertainment/movies/new_dog__old_tricks_139897.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>It's a seriously withholding action comedy, stingy on the wit, charm, jokes, narrative satisfactions and animals with personalities sharp enough for the big screen, either in 2-D or 3-D.</snippet>
+         <url>http://chicago.metromix.com/movies/movie_review/movie-review-bolt/780960/content</url>
+         <critic>Michael Phillips</critic>
+      </review>
+   </reviews>
+   <US_Gross>$114,053,579</US_Gross>
+   <production_budget>$150,000,000</production_budget>
+   <weekend_gross>$26,223,128</weekend_gross>
+   <number_of_screens>3,651</number_of_screens>
+   <highest_grossing_actors_present/>
+   <num_highest_grossing_actors>1</num_highest_grossing_actors>
+   <highest_grossing_actor>john travolta</highest_grossing_actor>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Host, The</name>
+   <company>Magnolia Pictures</company>
+   <genres>
+      <genre>Action</genre>
+      <genre>Comedy</genre>
+      <genre>Drama</genre>
+      <genre>Fantasy</genre>
+      <genre>Foreign</genre>
+      <genre>Horror</genre>
+      <genre>Scifi</genre>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>Chul-hyun Baek</author>
+      <author>Joon-ho Bong</author>
+      <author>Won-jun Ha</author>
+   </authors>
+   <directors>
+      <director>Joon-ho Bong</director>
+   </directors>
+   <origins>
+      <origin>SouthKorea</origin>
+   </origins>
+   <actors>
+      <actor>Kang-ho Song</actor>
+      <actor>Hie-bong Byeon</actor>
+      <actor>Hae-il Park</actor>
+      <actor>Du-na Bae</actor>
+      <actor>Ah-sung Ko</actor>
+   </actors>
+   <release_date>March 9, 2007</release_date>
+   <running_time>119</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>The mix of dark humor, creeping suspense, and a sort of apocalyptic tenderness makes this the best horror flick in years.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/critic.html#31160</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>A great piece of filmmaking and a legitimate science-fiction/horror classic.</snippet>
+         <url>http://sfgate.com/cgi-bin/article.cgi?f=/c/a/2007/03/09/DDGMPOH6S31.DTL&amp;type=movies</url>
+         <critic>Peter Hartlaub</critic>
+      </review>
+      <review>
+         <snippet>Joon-Ho's epic is a masterpiece of monster cinema that's intelligent, innovative, and reaches down to the basic core of family unity to propel its story beyond mere conventions of science fiction.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=9479</url>
+         <critic>Felix Vasquez, Jr.</critic>
+      </review>
+      <review>
+         <snippet>The Host isn't just a terrific monster movie. This South Korean box-office smash is also a laugh-out-loud comedy and a surprisingly angry political satire.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/1173223513127830.xml&amp;coll=7</url>
+         <critic>M. E. Russell</critic>
+      </review>
+      <review>
+         <snippet>I have seen The Host twice and have every intention of watching it again.</snippet>
+         <url>http://www.newyorker.com/arts/critics/cinema/2007/03/12/070312crci_cinema_lane</url>
+         <critic>Anthony Lane</critic>
+      </review>
+      <review>
+         <snippet>The sudden turns of temperament are a treat after the smart-ass attitude of American horror flicks, and the film is full of minor surprises, squirming in unexpected directions without leaving the conventions behind.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/306670_host09q.html</url>
+         <critic>Sean Axmaker</critic>
+      </review>
+      <review>
+         <snippet>Bong Joon-ho's wildly entertaining saga should become the hip, thinking-person's monster movie of choice.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20014256,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>A cross between "Godzilla" and "Jaws," it manages to be both truly scary and truly funny – sometimes all at once.</snippet>
+         <url>http://www.csmonitor.com/2007/0309/p14s02-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>The Host is a cautionary environmental tale about the domination of nature and the costs of human folly, and it may send chills up your spine. But only one will tickle your fancy and make you cry encore, not just uncle.</snippet>
+         <url>http://movies2.nytimes.com/2007/03/09/movies/09host.html?ref=movies</url>
+         <critic>Manohla Dargis</critic>
+      </review>
+      <review>
+         <snippet>The movie pops up out of nowhere, grabs you in its big, messy tentacles, and drags you down into murky depths, where social satire coexists with slapstick, and B-movie clichés mutate into complex metaphors.</snippet>
+         <url>http://www.slate.com/id/2161902/fr/flyout</url>
+         <critic>Dana Stevens</critic>
+      </review>
+      <review>
+         <snippet>If this madly entertaining movie has a fault, it's that it's too ingenious for the genre it ostensibly inhabits.</snippet>
+         <url>http://www.time.com/time/magazine/article/0,9171,1597534,00.html</url>
+         <critic>Richard Corliss</critic>
+      </review>
+      <review>
+         <snippet>With a subversive streak as wide as the Han and a title open to interpretation, The Host confounds our expectations while providing top-notch entertainment. For Bong, the monster movie is an ample vessel, one that he can fill with social criticism while discovering exuberant amusement in the process.</snippet>
+         <url>http://www.calendarlive.com/printedition/calendar/cl-et-host9mar09,0,2721744.story</url>
+         <critic>Kevin Crust</critic>
+      </review>
+      <review>
+         <snippet>The Host is a freewheeling mix of high style and goofy, good-natured fear-mongering.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A457453</url>
+         <critic>Marc Savlov</critic>
+      </review>
+      <review>
+         <snippet>A wonderful, witty mix of horror and social satire, The Host takes its simple, time-tested premise - menacing creature terrorizes the populace - and runs with it.</snippet>
+         <url>http://ae.miami.com/entertainment/ui/miami/movie.html?id=829005&amp;reviewId=22335</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>The first 20 minutes of the South Korean film The Host represents one of the most entertaining movie openings in memory. It's the same kind of pop-culture thrill provided by Steven Spielberg's "Jaws," with the same sense of astonishment, fear and pleasure at something genuinely new.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20070329.whost30/BNStory/Entertainment/home</url>
+         <critic>Liam Lacey</critic>
+      </review>
+      <review>
+         <snippet>The tone of The Host is slippery in the best way; you're never sure if you're in for a joke or a shock, yet nothing feels random.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-070309-movies-review-host,0,2504361.story?coll=mmx-movies_top_heds</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>Is it that scary? Yes. Will it reduce you to quivering jelly? Oh, my, yes! Does it bust the bonds of the Godzilla formula to fuse fright with feeling? Better believe it, dudes.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/11713329/review/13826560/the_host_gwoemul</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>This Korean-made film takes the well-worn creature-feature genre and spins it on its head thrillingly.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2007-03-08-the-host_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>A fantastical genre-buster.</snippet>
+         <url>http://www.nypost.com/seven/03092007/entertainment/movies/bodies_and_seoul_movies_v_a__musetto.htm</url>
+         <critic>V.A. Musetto</critic>
+      </review>
+      <review>
+         <snippet>Boon's film is both funny and heartbreaking, a supremely confident mix of political satire, free-floating paranoia, fractured family dynamics and the kind of comedy that regularly reconfigures itself into tragedy.</snippet>
+         <url>http://tvguide.com/detail/movie.aspx?tvobjectid=286731&amp;more=ucmoviereview</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>Mostly, though, it's "Godzilla" with a severe case of Murphy's Law, and it is never less than bizarrely delightful.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=9483</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>When the movie isn't being scary, it's crazily funny, so much so that critical watchers will wonder if Bong might tilt the balance of the picture too far in a comic direction and water down the scares. He doesn't.</snippet>
+         <url>http://www.premiere.com/moviereviews/3534/the-host.html</url>
+         <critic>Glenn Kenny</critic>
+      </review>
+      <review>
+         <snippet>Most of all, The Host functions as a popcorn movie par excellence, loaded with the most familiar conventions, but shot through with such conviction and visual panache that even its clichés seem invigorating.</snippet>
+         <url>http://www.avclub.com/content/cinema/the_host</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>On almost every level, there's never quite been a monster movie like The Host. Egregiously subverting its own genre while still delivering shocks at a pure genre level, and marbled with straight-faced character humor that constantly throws the viewer off balance.</snippet>
+         <url>http://www.variety.com/index.asp?layout=features2006&amp;content=jump&amp;jump=review&amp;dept=cannes&amp;nav=RCannes&amp;articleid=VE1117930596&amp;cs=1&amp;p=0</url>
+         <critic>Derek Elley</critic>
+      </review>
+      <review>
+         <snippet>The Host packs a lot into its two tumultuous hours: lyrically disgusting special effects, hair-raising chases, outlandish political satire, and best of all, a dysfunctional-family psychodrama--an odyssey that's like a grisly reworking of "Little Miss Sunshine."</snippet>
+         <url>http://nymag.com/movies/reviews/28907/index.html</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>The Host is a miracle of breathless play with form and tone that also seethes with attitude and ideas, from pure movie love to pointed sociopolitical commentary to a bleak existentialism about the inherent cruelty of our world.</snippet>
+         <url>http://www.laweekly.com/film+tv/film/we-are-what-eats-us/15848/</url>
+         <critic>Ella Taylor</critic>
+      </review>
+      <review>
+         <snippet>A thrilling ride and a sometimes dry, sometimes sweet comedy, but beneath all that is a humane and tragic view of life worthy of the greatest films. Even those without rubber monsters.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2007/03/08/btm/index1.html</url>
+         <critic>Andrew O&amp;#039;Hehir</critic>
+      </review>
+      <review>
+         <snippet>Bong's primary point is dead-on: Battling bureaucracy, from dishonest government leaders to indifferent civil servants, is the biggest horror of all.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/moviereviews/story/503693p-424760c.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>I never thought I'd crack up watching a family mourn the death of a beloved daughter. But I've never seen a film quite like The Host, and that's far from the most bizarre thing in it.</snippet>
+         <url>http://ae.miami.com/entertainment/ui/miami/movie.html?id=829005&amp;reviewId=22349</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>Although it strikes a perfect balance between otherworldly, slimy menace and 1950s B-movie cheesiness, The Host's computer-generated mutant isn't what makes this frantic, wild picture so much fun.</snippet>
+         <url>http://ae.miami.com/entertainment/ui/miami/movie.html?id=829005&amp;reviewId=22353</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>It's the last thing anyone expected: an old-fashioned monster movie with a heart.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1127425&amp;categories=Movies&amp;nm=1</url>
+         <critic>Stephen Hunter</critic>
+      </review>
+      <review>
+         <snippet>Gross-out horror is never far from comedy and The Host, Bong Joon-ho's giddy creature feature, has an anarchic mess factor worthy of a pile of old "Mad" magazines.</snippet>
+         <url>http://www.villagevoice.com/film/0710,hoberman,75989,20.html</url>
+         <critic>J. Hoberman</critic>
+      </review>
+      <review>
+         <snippet>Bong has pulled together a multilayered horror-drama that works more often than not. The film gets back on track after a clumsy middle section that's too long and finishes strong, and Bong fans, horror fans and Asiaphiles are likely to be thoroughly satisfied.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/imdb/reviews/article_display.jsp?rid=1003155332&amp;vnu_special_account_code=thrsiteimdbpro</url>
+         <critic>Elizabeth Kerr</critic>
+      </review>
+      <review>
+         <snippet>The Host is a strange little movie: part creature feature, part social commentary, and part slapstick comedy. The problem with the film is that the sum isn't greater than the parts and the pieces don't fuse in a way that's consistently pleasing or cinematically satisfying.</snippet>
+         <url>http://www.reelviews.net/movies/h/host.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>In "Jaws," you didn't know whether to laugh or to scream. In The Host, the yocks rarely mesh with the yucks.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-to.host23mar23,0,1636431.story?coll=bal-artslife-movies</url>
+         <critic>Michael Sragow</critic>
+      </review>
+   </reviews>
+   <US_Gross>$2,201,923</US_Gross>
+   <production_budget>$12,000,000</production_budget>
+   <weekend_gross>$314,488</weekend_gross>
+   <number_of_screens>71</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

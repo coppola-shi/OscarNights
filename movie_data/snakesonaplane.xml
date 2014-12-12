@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Snakes on a Plane</name>
+   <company>New Line Cinema</company>
+   <genres>
+      <genre>Action</genre>
+      <genre>Horror</genre>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>John Heffernan</author>
+      <author>Sebastian Gutierrez</author>
+      <author>David Dalessandro</author>
+   </authors>
+   <directors>
+      <director>David R. Ellis</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Samuel L. Jackson</actor>
+      <actor>Byron Lawson</actor>
+      <actor>Nathan Phillips</actor>
+      <actor>Julianna Margulies</actor>
+      <actor>Bobby Cannavale</actor>
+      <actor>Gerard Plunkett</actor>
+   </actors>
+   <release_date>August 18, 2006</release_date>
+   <running_time>105</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>Snakes was the most exuberantly trashy delight of this summer movie season or last.</snippet>
+         <url>http://www.laweekly.com/film+tv/film/who-let-the-mothering-snakes-out/14266/</url>
+         <critic>Scott Foundas</critic>
+      </review>
+      <review>
+         <snippet>Why is this movie so watchable? Four simple reasons. It's truly funny. It's truly scary. It's truly gruesome. And Samuel L. Jackson is the cool head who prevails (“You stick with me, you live”).</snippet>
+         <url>http://www.premiere.com/article.asp?section_id=2&amp;article_id=3038</url>
+         <critic>Jessica Letkemann</critic>
+      </review>
+      <review>
+         <snippet>A movie called Snakes on a Plane had better be one of two things: So bad it's good or so good it's great. Darned if it isn't a little bit of both.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=8383</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>The film failed to be frightening, suspenseful or dramatic but accidentally succeeded in being absolutely hilarious.</snippet>
+         <url>http://www.nypost.com/entertainment/movies/badassssssss_movies_kyle_smith.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>Looming large over all this is Jackson, who glowers and growls and acts the hero better than any actor out there.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-snakes0818,0,4798158.story?coll=bal-artslife-movies</url>
+         <critic>Chris Kaltenbach</critic>
+      </review>
+      <review>
+         <snippet>If you can find a better time at the movies this year than this wild comic thriller, let me in on it.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2006/08/18/DDSNAKES.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>Hilariously funny, full of fang-popping scares, and guaranteed to increase travel by train.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/moviereviews/story/444652p-374457c.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>There's something almost refreshingly venal about a movie with no purpose other than to meet intentions this cheesy.</snippet>
+         <url>http://dallasobserver.com/Issues/2006-08-17/film/film3.html</url>
+         <critic>Jim Ridley</critic>
+      </review>
+      <review>
+         <snippet>Who knows whether Snakes will have--forgive me--legs, but it's more than awesome enough to assure opening-weekend euphoria.</snippet>
+         <url>http://www.slate.com/id/2147959</url>
+         <critic>Dana Stevens</critic>
+      </review>
+      <review>
+         <snippet>This is a coolly efficient, tongue-in-cheek horror-comedy.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1003019676</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>What they give us is the chance to win, not with righteous morality, but with an old-fashioned swagger that says, much like the film itself, Hey, we may be stupid, but we rock.</snippet>
+         <url>http://movies2.nytimes.com/2006/08/19/movies/19snak.html?ref=movies</url>
+         <critic>Manohla Dargis</critic>
+      </review>
+      <review>
+         <snippet>To be sure, Snakes on a Plane is going to inspire some highly readable graduate-school film theses. You may even want to re-enroll to pen one yourself.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A393889</url>
+         <critic>Marc Savlov</critic>
+      </review>
+      <review>
+         <snippet>There is also a capable, wisecracking stewardess (Julianna Margulies) and, what a surprise, a steward who appears to be doing a Paul Lynde impersonation.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/LAC.20060819.SNAKES19/TPStory/TPEntertainment/Movies/</url>
+         <critic>Stephen Cole</critic>
+      </review>
+      <review>
+         <snippet>To an extent, Snakes on a Plane reminds me of "Eight Legged Freaks." It has the same kind of off-the-wall, don't-take-it-seriously comedic horror sensibility.</snippet>
+         <url>http://movie-reviews.colossus.net/movies/s/snakes_plane.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>Cheesy, campy B-movie fun, thanks mostly to the cadre of cobras and their ilk and also to Jackson (probably the only actor alive who could pull off this save-the-day bad ass movie role).</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2006-08-18-snakes-plane_x.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>1. It has the potential to supplant "The Rocky Horror Picture Show" as the greatest audience participation movie of all time.
+2. It is, simultaneously, one of the worst and best movies I’ve ever seen.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=9246</url>
+         <critic>Pete Vonder Haar</critic>
+      </review>
+      <review>
+         <snippet>While Snakes on a Plane barely stands up as a movie, it definitely qualifies as an event.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2006/08/18/snakes/index.html</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>Snakes on a Plane is exactly the sort of tasteless, utterly depraved, no-nonsense sluts-and-guts extravaganza it was meant to be.</snippet>
+         <url>http://www.variety.com/review/VE1117931342?categoryid=31&amp;cs=1</url>
+         <critic>Justin Chang</critic>
+      </review>
+      <review>
+         <snippet>It’s the sort of picture you'll either queue all night in the rain to see twelve times or avoid like a Wayans Brothers Retrospective for the rest of life.</snippet>
+         <url>http://www.empireonline.com/reviews/review.asp?FID=11010</url>
+         <critic>Kim Newman</critic>
+      </review>
+      <review>
+         <snippet>More potent than anything in Snakes on a Plane is the fantasy offscreen: that if enough people talk up their desire to see this film and, at the same time, take an overt delight in what an unabashed piece of junk it is, they will fuse with the hype, with the movie's mystique. They will not just watch Snakes on a Plane; they will own it.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1228793_1_0_,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>This hotly anticipated film delivers on the premise of its celebrated title. But it offers little more in terms of suspense, originality or enjoyment. Mostly, it lays there on the screen like a big lazy boa.</snippet>
+         <url>http://ae.philly.com/entertainment/ui/philly/movie.html;jsessionid=892C23E9B7E7C7EEA3F6437C17678913.prodapp14_ae_02?id=666924&amp;reviewId=21342&amp;startDate=08%2F18%2F2006</url>
+         <critic>David Hiltbrand</critic>
+      </review>
+      <review>
+         <snippet>The plot is ridiculous and the characters are cardboard, but none of that really matters once the snakes get into the cabin and start zapping people, the very definition of entertainment.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/30136_SNAKES_ON_A_PLANE.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>The result is not quite a horror movie (too cheerful and can-do) or a thriller (too cheerful and stupid), nor does it parody itself or take itself seriously, thereby canceling out the camp factor. It's more like an improv sketch at 30,000 feet.</snippet>
+         <url>http://www.calendarlive.com/movies/cl-et-snakes19aug19,0,7530744.story</url>
+         <critic>Carina Chocano</critic>
+      </review>
+      <review>
+         <snippet>The audience decided to sell Snakes to itself, and that became the event--the actual movie could never have been more than another exploitation picture.</snippet>
+         <url>http://www.newyorker.com/critics/cinema/?060904crci_cinema</url>
+         <critic>David Denby</critic>
+      </review>
+      <review>
+         <snippet>Snakes on a Plane represents a fairly craven mixture of deliberate cheese and inadvertent lameness, plus fangs.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-060818-movies-review-snakes,0,352087.story?coll=mmx-movies_top_heds</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>Nothing at all special. It's one more cheesy, broadly played, poorly paced, instantly forgettable August action movie.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/281804_snakes19q.html</url>
+         <critic>William Arnold</critic>
+      </review>
+      <review>
+         <snippet>The whole enterprise has the sweaty sheen that comes from trying too hard to be cool.</snippet>
+         <url>http://online.tvguide.com/newsearch/detail.aspx?tvobjectid=280846&amp;more=ucmoviereview</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>The movie's highest level of artistic expression was the ingenious Internet campaign that catapulted it to culture phenom months before it even opened. The thing itself turns out to be pretty much an afterthought, cheesy and not very well worked out.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1105872&amp;categories=Movies&amp;nm=1</url>
+         <critic>Stephen Hunter</critic>
+      </review>
+      <review>
+         <snippet>Neither as good nor as bad as you'd hoped it would be: It's just a mediocre exploitation picture with an inspired premise (succinctly spelled out by its title), loads of gratuitous gore, a dash of equally gratuitous nudity and enough inanities to make you wonder if Ed Wood rose from the grave to serve as a creative consultant on the project.</snippet>
+         <url>http://ae.miami.com/entertainment/ui/miami/movie.html;jsessionid=7AD74AD4A144CCE5D7A6E71D774DE5C8.prodapp15_ae_02?id=666924&amp;reviewId=21343&amp;startDate=08%2F22%2F2006</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>It's not so bad that it's good. It's so bland that it's boring. Not even worth a hissss.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/_/id/6823919/rid/11202102/</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>Not since Pet Rocks riveted the nation have so many gotten so excited over so little.</snippet>
+         <url>http://www.avclub.com/content/node/51823</url>
+         <critic>Nathan Rabin</critic>
+      </review>
+   </reviews>
+   <US_Gross>$34,020,814</US_Gross>
+   <production_budget>$33,000,000</production_budget>
+   <weekend_gross>$15,206,301</weekend_gross>
+   <number_of_screens>3,555</number_of_screens>
+   <highest_grossing_actors_present/>
+   <num_highest_grossing_actors>1</num_highest_grossing_actors>
+   <highest_grossing_actor>samuel l. jackson</highest_grossing_actor>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

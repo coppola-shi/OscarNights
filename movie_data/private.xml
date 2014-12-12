@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Private</name>
+   <company>Typecast Releasing</company>
+   <genres>
+      <genre>Drama</genre>
+      <genre>Foreign</genre>
+   </genres>
+   <authors>
+      <author>Camilla Costanzo</author>
+      <author>Saverio Costanzo</author>
+      <author>Alessio Cremonini</author>
+      <author>Sayed Oashua</author>
+   </authors>
+   <directors>
+      <director>Saverio Costanzo</director>
+   </directors>
+   <origins>
+      <origin>Italy</origin>
+   </origins>
+   <actors>
+      <actor>Hend Ayoub</actor>
+      <actor>Mohammed Bakri</actor>
+      <actor>Lior Miller</actor>
+      <actor>Arin Omary</actor>
+      <actor>Tomer Russo</actor>
+   </actors>
+   <release_date>November 18, 2005</release_date>
+   <running_time>90</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>Private, Italian director Saverio Costanzo's stunning human drama, would seem like something out of Kafka if it weren't based on real events and a relatively common fact of contemporary Palestinian life.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/moviereviews/story/366837p-312094c.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>For a movie rooted in reality, Italian filmmaker Saverio Costanzo's taut psychological drama is in desperate danger of drowning in metaphor.</snippet>
+         <url>http://online.tvguide.com/movies/database/ShowMovie.asp?MI=46578</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>Selected as Italy's entry for best foreign film at this year's Academy Awards, Private was disqualified for not being predominantly in Italian. A pity, since this meticulously nonpartisan film, even as it makes the case for passive resistance, shows what devastating lack of appeal the strategy has for young Palestinians.</snippet>
+         <url>http://www.laweekly.com/film/film_results.php?showid=3676&amp;Sumbit.x=35&amp;Sumbit.y=11</url>
+         <critic>Ella Taylor</critic>
+      </review>
+      <review>
+         <snippet>Perhaps inevitably bleak and grueling, Private is also involving and provocative -- and critical of Israeli treatment of Palestinians in an effectively understated manner.</snippet>
+         <url>http://www.calendarlive.com/movies/cl-et-private2dec02,0,3776825.story</url>
+         <critic>Kevin Thomas</critic>
+      </review>
+      <review>
+         <snippet>The film possesses a quiet but powerful tension.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1001613229</url>
+         <critic>Frank Scheck</critic>
+      </review>
+      <review>
+         <snippet>Political realities are a powerful bonus to, rather than the only reason for, Private, an emotionally gripping drama.</snippet>
+         <url>http://www.variety.com/review/VE1117924610?categoryid=31&amp;cs=1</url>
+         <critic>Derek Elley</critic>
+      </review>
+      <review>
+         <snippet>An emotionally and politically loaded allegory.</snippet>
+         <url>http://movies2.nytimes.com/2005/11/18/movies/18priv.html</url>
+         <critic>Stephen Holden</critic>
+      </review>
+      <review>
+         <snippet>Director Saverio Costanzo shrewdly de-emphasizes the political issues, instead charting the subtle shifts in power between the prisoners and their captors.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/capsules/27877_PRIVATE_COSTANZO</url>
+         <critic>Joshua Katzman</critic>
+      </review>
+      <review>
+         <snippet>Private never reconciles its conflicting impulses, and consequently, the human impact of the struggle--so powerfully explored in "Paradise Now" and "The Syrian Bride" --never acquires the emotional weight it should. The semi-absurdist closer amounts to little more than a knee-jerk declaration of hopelessness.</snippet>
+         <url>http://www.villagevoice.com/film/0546,kenigsberg,70032,20.html</url>
+         <critic>Ben Kenigsberg</critic>
+      </review>
+      <review>
+         <snippet>For all its documentary-style urgency, Private often feels forced.</snippet>
+         <url>http://avclub.com/content/node/42655</url>
+         <critic>Noel Murray</critic>
+      </review>
+      <review>
+         <snippet>Israeli soldiers are cast as the killers, while the Palestinians are the hapless bunnies. The Israeli-Palestinian conflict is thus reimagined as "Bambi."</snippet>
+         <url>http://www.nypost.com/movies/57652.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+   </reviews>
+   <US_Gross>$15,811</US_Gross>
+   <weekend_gross>$3,997</weekend_gross>
+   <number_of_screens>1</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Spider-Man 3</name>
+   <company>Columbia Pictures / Sony Pictures Releasing</company>
+   <genres>
+      <genre>Action</genre>
+      <genre>Adventure</genre>
+      <genre>Scifi</genre>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>Sam Raimi</author>
+      <author>Ivan Raimi</author>
+      <author>Alvin Sargent</author>
+      <author>Stan Lee and Steve Ditko</author>
+   </authors>
+   <directors>
+      <director>Sam Raimi</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Tobey Maguire</actor>
+      <actor>Kirsten Dunst</actor>
+      <actor>James Franco</actor>
+      <actor>Thomas Haden Church</actor>
+      <actor>Topher Grace</actor>
+      <actor>Bryce Dallas Howard</actor>
+      <actor>James Cromwell</actor>
+      <actor>Rosemary Harris</actor>
+   </actors>
+   <release_date>May 4, 2007</release_date>
+   <running_time>140</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>With nifty new villains, a revived Green Goblin, plus $300 million worth of aerial special effects, Sam Raimi's Spider-Man 3 is definitely good to go.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2007/05/01/2007-05-01_headspinning_action__villains__but_some_-2.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>This is a wonderfully imagined, heartfelt piece of pop entertainment that soars not only for its spectacular eye candy, but also during the moments when its protagonists simply stand still and talk to each other. How many comic-book movies can you say that about?</snippet>
+         <url>http://www.miamiherald.com/231/story/95047.html</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>Where can mass-moviegoers find release for their tenderer feelings? Only at dozens of inspirational sports movies, where guys (on screen and in the audience) get to cry and cheer and win. And, this weekend, at Spider-Man 3.</snippet>
+         <url>http://www.time.com/time/arts/article/0,8599,1617207,00.html</url>
+         <critic>Richard Corliss</critic>
+      </review>
+      <review>
+         <snippet>The good news about Spider-Man 3 is that it's more of the same -- except better.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2007/05/04/spider_man_3/index.html</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>The wow factor works overtime with state-of-the-art effects sequences that often are as beautiful as they are astonishing.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?JSESSIONID=S0Q3GrqL9WzMn0TySlK7JTh8tNVcfgLg1fVTvBB7r8mJDsMz7VGL!1444377788&amp;&amp;rid=9075</url>
+         <critic>Michael Rechtshaffen</critic>
+      </review>
+      <review>
+         <snippet>The juiciest battle here is Spidey vs. Spidey, or, if you prefer, superego vs. id. When Peter starts to go seriously bad, the movie becomes seriously fun.</snippet>
+         <url>http://www.msnbc.msn.com/id/18335265/site/newsweek/</url>
+         <critic>David Ansen</critic>
+      </review>
+      <review>
+         <snippet>Overly long and complicated, it's packed with crowd-pleasing moments and satisfactorily wraps up the trilogy - without quite capturing the magic of the first two installments.</snippet>
+         <url>http://www.nypost.com/seven/04242007/entertainment/movies/spidey_works_black_magic_in_3_movies_lou_lumenick.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>Solidly entertaining and possesses dazzling special effects, but it falls short of the near-perfection of the Spidey sequel.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2007-04-30-spiderman_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>Raimi, who shares script credit with his brother Ivan and Alvin Sargent, strikes an exquisite balance between pop and woe, drama and whooshing adventure.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=8877</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>Raimi and company deftly balance spectacle and character-based drama, occasionally tweaking the comic-book mythology but always respecting creator Stan Lee's idea that costumed crime-fighter Peter Parker's life as Spider-Man isn't all derring-do and public accolades.</snippet>
+         <url>http://www.tvguide.com/movies/spider-man-3/review/285361</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>There are delicious bits aplenty in Spider-Man 3 for those who care to notice.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/9387668/review/14362908/spiderman_3</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>The experience is fun enough that it's sure to be the summer's first blockbuster.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/314051_spiderman03q.html</url>
+         <critic>William Arnold</critic>
+      </review>
+      <review>
+         <snippet>There are plenty of pleasures here: The slow birth of the Sandman from a heap of supercharged sand crystals (or something) is a marvel of digital animation, and the chemistry between Dunst and Maguire feels like the dynamic of a real couple, full of subtle shifts and eloquent silences.</snippet>
+         <url>http://www.slate.com/id/2165571/fr/flyout</url>
+         <critic>Dana Stevens</critic>
+      </review>
+      <review>
+         <snippet>What saves Spider-Man 3 from becoming well, "Superman III," is the fact that it's still a solid film that packs a punch when it comes to turn on the spectacle.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=9965</url>
+         <critic>Clint Morris</critic>
+      </review>
+      <review>
+         <snippet>So Spider-Man 3's action is superb and its theme fairly weighty. Then why does it feel a letdown from its predecessor? Nearly all the blame rests with director Sam Raimi, who's taken the success of some light slapstick moments in Spider-Man 2 as a cue to get even sillier.</snippet>
+         <url>http://www.avclub.com/content/cinema/spider_man_3</url>
+         <critic>Noel Murray</critic>
+      </review>
+      <review>
+         <snippet>Spider-Man 3 has terrific moments, but after the danger and majesty and romantic brio of "Spider-Man 2," those adrenalized rooftop ballets feel, more than ever, like sequences.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20037366,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>In short, there are way too many storylines here, especially for a movie that turns stiff whenever it's on the ground. When cascading through the cityscape, Spider-Man 3 still makes us gasp with delight, but on Earth those gasps come solely in reaction to the cynical dreariness of the script.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A470678</url>
+         <critic>Marjorie Baumgarten</critic>
+      </review>
+      <review>
+         <snippet>Spider-Man 3 is a likeable film -- Maguire's personality, or Raimi's channeled through him, is genuinely charming. But the tenor of the film is too often too muted, melancholy and enervated for something of its size.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/1178000716311780.xml&amp;coll=7</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>The sprawling canvas ultimately dwarfs the plucky title figure and makes him seem too small in every way.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-to.spiderman03may03,0,3745105.story?coll=bal-movies-utility</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>Far from a flop, and I'm sure the Spider-maniacs will eat it up. For me, it's a buffet without much aftertaste.</snippet>
+         <url>http://www.csmonitor.com/2007/0504/p11s02-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>If the longest and beefiest "Spider-Man" movie to date were a baseball player, it would be tested tomorrow for steroids. That won't stop "S-M 3" from hitting a home run at the box-office, where fans will roar.</snippet>
+         <url>http://ae.charlotte.com/entertainment/ui/charlotte/movie.html?id=846224&amp;reviewId=22425&amp;startDate=NEXT7</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>The main flaw is an over-abundance of villains, a bout of narrative greediness that sees them marching out of their lairs like so many evil-doers-on-parade.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/LAC.20070503.SPIDER03/TPStory/TPEntertainment/Movies/</url>
+         <critic>Rick Groen</critic>
+      </review>
+      <review>
+         <snippet>It's not dull, exactly, but neither is it much fun.</snippet>
+         <url>http://www.philly.com/inquirer/columnists/steven_rea/20070503_Its_Spidey-3__just_crawling_with_stuff_and_goop.html</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>You want big wows with this sort of entertainment, and the wows here are medium.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-070504-movies-review-spiderman3,0,7357617.story?coll=mmx-movies_top_heds</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>This incarnation of Spider Man seems to forget that its source material was a comic book that wanted to transcend its genre. This is a movie that's content to be pretty good within its genre, with the main distinction of being much bigger than any of its competition.</snippet>
+         <url>http://www.premiere.com/moviereviews/3759/spider-man-3.html</url>
+         <critic>Glenn Kenny</critic>
+      </review>
+      <review>
+         <snippet>Still smart, still exciting and still action-packed. It's just a shame to note that, after promising greatness, all Spider-Man 3 delivers is satisfaction.</snippet>
+         <url>http://www.empireonline.com/reviews/review.asp?FID=11021</url>
+         <critic>Chris Hewitt</critic>
+      </review>
+      <review>
+         <snippet>The movie isn't a dud: It has exuberant bits and breathtaking (money money money) effects. But it's supposed to be fun and inspirational, and it's too leaden for liftoff.</snippet>
+         <url>http://nymag.com/movies/reviews/31270/</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>Given how bogus the movie is whenever it departs from formula, it's not surprising that the funniest bit (in which Peter Parker becomes a disco smoothie) is stolen from Jerry Lewis's "The Nutty Professor" or that the best special effects, involving a gigantic Sandman, dimly echo "King Kong."</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/31550_SPIDER_MAN_THREE_SPIDERMAN_THREE.html</url>
+         <critic>Jonathan Rosenbaum</critic>
+      </review>
+      <review>
+         <snippet>Will the extremely extravagant special effects prove sufficient to sustain the picture? Surely they will, this time. Still, there's a sense of fatigue in the scenes that don't involve high-tensile webs and high-tension suspense.</snippet>
+         <url>http://online.wsj.com/article/SB117823237455091453.html</url>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>The bittersweet paradox of this franchise is that while the stories have grown progressively less interesting the special effects have improved tremendously, becoming at once more plausible -- when Spider-Man swings through the urban canyons he finally looks almost real -- and more spectacular.</snippet>
+         <url>http://movies2.nytimes.com/2007/05/04/movies/04spid.html?ref=movies</url>
+         <critic>Manohla Dargis</critic>
+      </review>
+      <review>
+         <snippet>Spider-Man and the first sequel were breezy adventures - easy and fun to sit through. Spider-Man 3 is a chore. The effective moments require a lot patience to uncover and some of what has to be shifted to get to them is not worth the effort. People love trilogies because it's said that good things come in threes, but this series would have looked better and felt more satisfying had the filmmakers stopped at two.</snippet>
+         <url>http://www.reelviews.net/movies/s/spider-man3.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>Spider-Man 3 is, in short, a mess. Too many villains, too many pale plot strands, too many romantic misunderstandings, too many conversations, too many street crowds looking high into the air and shouting "oooh!" this way, then swiveling and shouting "aaah!" that way.</snippet>
+         <url>http://www.rogerebert.com/apps/pbcs.dll/article?AID=/20071115/REVIEWS/711150305/1023</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>A sense of strain envelops the proceedings this time around. One can feel the effort required to suit up one more time, come up with fresh variations on a winning formula and inject urgency into a format that basically needs to be repeated and, due to audience expectations, can't be toyed with or deepened very much.</snippet>
+         <url>http://www.variety.com/review/VE1117933393.html?categoryid=31&amp;cs=1</url>
+         <critic>Todd McCarthy</critic>
+      </review>
+      <review>
+         <snippet>Though aspects of it are entertaining, the presence of all these mismatched pieces give Spider-Man 3 an ungainly, cumbersome feeling, as if its plot elements were the product of competing contractors who never saw the need to cooperate on a coherent final product.</snippet>
+         <url>http://www.calendarlive.com/printedition/calendar/cl-et-spider2may02,0,1136280.story</url>
+         <critic>Kenneth Turan</critic>
+      </review>
+      <review>
+         <snippet>Overstuffed (three villains), overlong (at more than two hours and 20 minutes) and undercooked (plot points include amnesia and alien goo).</snippet>
+         <url>http://www.dallasobserver.com/2007-05-03/film/spider-bites/</url>
+         <critic>Robert Wilonsky</critic>
+      </review>
+      <review>
+         <snippet>That's the problem with this third installment of the franchise: not that it's running out of ideas, or lifting them too slavishly from the original comic, but that it lunges at them with an infantile lack of grace, throwing money at one special effect after another and praying--or calculating--that some of them will fly.</snippet>
+         <url>http://www.newyorker.com/arts/critics/cinema/2007/05/07/070507crci_cinema_lane</url>
+         <critic>Anthony Lane</critic>
+      </review>
+      <review>
+         <snippet>Given that Spider-Man 2 was twice as fun as the first, it's triply disappointing what an overwrought bore S3 turns out to be.</snippet>
+         <url>http://www.villagevoice.com/film/0718,lee,76503,20.html</url>
+         <critic>Nathan Lee</critic>
+      </review>
+      <review>
+         <snippet>The satirical jabs at celebrity culture smell like rotted leftovers from "The Fantastic Four." The token ruminations on the tension between a superhero's public and private lives seem flown in from Bryan Singer's "Superman Returns" (to say nothing of Raimi's own, superior "Darkman"). Most egregious, though, is the way Raimi and the writers reduce Spider-Man 3 to the very sort of abject distinctions between virtue and sin that the series has heretofore studiously avoided.</snippet>
+         <url>http://www.laweekly.com/film+tv/film/spidey-in-black-and-white/16267/</url>
+         <critic>Scott Foundas</critic>
+      </review>
+      <review>
+         <snippet>An overlong, visually incoherent, mean-spirited and often just plain awful Spider-Man 3.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1093363&amp;categories=Movies&amp;nm=1</url>
+         <critic>Ann Hornaday</critic>
+      </review>
+      <review>
+         <snippet>"Spider-Man 2" was a textbook example of how to make a sequel: Deepen it, make it funnier, give it more heart and come up with a strong villain and a good story. Spider Man 3, by contrast, shows how not to make a sequel.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2007/05/03/DDGE7PJ9TN1.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+   </reviews>
+   <US_Gross>$336,530,303</US_Gross>
+   <production_budget>$258,000,000</production_budget>
+   <weekend_gross>$151,116,516</weekend_gross>
+   <number_of_screens>4,252</number_of_screens>
+   <highest_grossing_actors_present/>
+   <num_highest_grossing_actors>1</num_highest_grossing_actors>
+   <highest_grossing_actor>kirsten dunst</highest_grossing_actor>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

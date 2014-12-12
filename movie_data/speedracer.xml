@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Speed Racer</name>
+   <company>Warner Bros. Pictures</company>
+   <genres>
+      <genre>Action</genre>
+      <genre>FamilyKids</genre>
+   </genres>
+   <authors>
+      <author>Andy Wachowski</author>
+      <author>Larry Wachowski</author>
+   </authors>
+   <directors>
+      <director>Andy Wachowski</director>
+      <director>Larry Wachowski</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Emile Hirsch</actor>
+      <actor>Christina Ricci</actor>
+      <actor>John Goodman</actor>
+      <actor>Susan Saron</actor>
+      <actor>Matthew Fox</actor>
+   </actors>
+   <release_date>May 9, 2008</release_date>
+   <running_time>129</running_time>
+   <rating>PG</rating>
+   <reviews>
+      <review>
+         <snippet>This is not a film occurring in an alternate or imaginary reality; rather, it is a film of NO reality, that is, a picture that changes the rules of its universe strictly according to its creators' whims.</snippet>
+         <url>http://www.premiere.com/moviereviews/4561/speed-racer.html</url>
+         <critic>Glenn Kenny</critic>
+      </review>
+      <review>
+         <snippet>At its best, it's buoyant pop entertainment focused on three things: speed, racing and retina-splitting oceans of digitally captured color.</snippet>
+         <url>http://chicago.metromix.com/movies/movie_review/movie-review-speed-racer/408114/content</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>Speed Racer offers a crazy, turbo-charged mix of cartoon kitsch, gamer action, and a wild new way to think of - and look at - movies.</snippet>
+         <url>http://www.philly.com/inquirer/columnists/steven_rea/20080509_Fast_flick.html</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>Speed Racer announces the arrival of the virtual movie. If you watch the film overwhelmed by the assault of seductive visual information and wonder what you're seeing, here's the happy answer: the future of movies.</snippet>
+         <url>http://www.time.com/time/arts/article/0,8599,1738558,00.html</url>
+         <critic>Richard Corliss</critic>
+      </review>
+      <review>
+         <snippet>Aimed squarely at family audiences, the Wachowski Brothers' return behind the camera for the first time since the "Matrix" trilogy is a blur of video action painting and very loud sounds notable solely for its technical wizardry. In every other respect, it's pure cotton candy -- entirely non-nutritious but too sweet and pretty for young people to resist.</snippet>
+         <url>this is not a film occurring in an alternate or imaginary reality; rather, it is a film of no reality, that is, a picture that changes the rules of its universe strictly according to its creators&amp;#039; whims.</url>
+         <critic>Todd McCarthy</critic>
+      </review>
+      <review>
+         <snippet>Speed Racer creates a timeless, visually seductive world suspended somewhere between the pop '60s and the sci-fi future.</snippet>
+         <url>http://www.newsweek.com/id/136149</url>
+         <critic>David Ansen</critic>
+      </review>
+      <review>
+         <snippet>Filled with energy and visual pizzazz and at least strives for something more than dumb entertainment.</snippet>
+         <url>http://blog.oregonlive.com/madaboutmovies/2008/05/review_an_eyepopping_speed_rac.html</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>This one is a kiddie show all the way, with characters as broad and one-dimensional as a billboard, a vision of good and evil as simple as a bumper sticker and a tiresome chimpanzee mugging through every other scene like something from a bad Tarzan movie.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/362297_speed09q.html</url>
+         <critic>William Arnold</critic>
+      </review>
+      <review>
+         <snippet>Unlike a Pixar cartoon that embraces as wide an audience as possible, Speed Racer proudly denies entry into its ultra-bright world to all but gamers, fanboys and anime enthusiasts. Story and character are tossed aside to focus obsessively on PG-rated action and milk-guzzling heroes.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/imdb/reviews/article_display.jsp?rid=11040&amp;vnu_special_account_code=thrsiteimdbpro</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>It'll split the ranks like a pizza cutter: you might admire it as a Warholian blur of pop art, gawp and gasp at its Hot Wheels-for-real dynamism, or get a headache.</snippet>
+         <url>http://www.empireonline.com/reviews/reviewcomplete.asp?FID=134811</url>
+         <critic>Ian Nathan</critic>
+      </review>
+      <review>
+         <snippet>The cast is generally game for playing cardboard cutouts, with Goodman having the most fun.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2008/05/09/2008-05-09_fasten_your_seat_belt_for_speed_racer.html</url>
+         <critic>Joe Neumaier</critic>
+      </review>
+      <review>
+         <snippet>There is one high note. You can approach Speed Racer as the trippiest stonerfest since Stanley Kubrick took his space odyssey.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/17040797/review/20757183/speed_racer</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>It's hard to say whether the Wachowski brothers' live action take on the Japanese Speed Racer cartoons is more irritating because it looks like a Hot Wheels video game or because the brothers seem to think that there's a powerful family drama humming away beneath the flashing lights and spinning wheels.</snippet>
+         <url>http://www.tvguide.com/movies/speed-racer/review/292485</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>If this action extravaganza represents the future of movies, it's going to be a sad, dead and awful future.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2008/05/08/DD3110ID0S.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>It isn't going to set the world on fire, but it's perfectly acceptable for what it is.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=10954</url>
+         <critic>Pete Vonder Haar</critic>
+      </review>
+      <review>
+         <snippet>There's something here for everyone to dislike - the whole clan can have fun making fun of this thing.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20080509.wspeed09/BNStory/Entertainment/home</url>
+         <critic>Rick Groen</critic>
+      </review>
+      <review>
+         <snippet>It's a family film done as a trip film. It is a trip, but it's a bad trip.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/reviews/bal-to.speed09may09,0,6713810.story</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>The movie demands you be a glutton for sensation and then has the nerve to ask why you're not hungrier.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=9824</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>Young boys are the only suitable audience for Speed Racer, the elaborate live-action adaptation written and directed by "Matrix" creators Larry and Andy Wachowski. And even they might feel an urge to squirm.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20198408,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>At an exceedingly long 135 minutes, the film needs more than what might result from the explosion of a Crayola factory, and Speed Racer has nothing extra to offer - no heart, no excitement, no moments to cherish.</snippet>
+         <url>http://www.reelviews.net/movies/s/speed_racer.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>Borderline-experimental in the way it challenges the limits of perception. It's forward-thinking, visionary, and much of the time unwatchable.</snippet>
+         <url>http://www.avclub.com/content/cinema/speed_racer</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>So hyperfrenetic that, in the end, you wonder if the Wachowskis aren't trying to pull off an elaborate hoax – a deranged techno fantasia posing as retro-ish family fare.</snippet>
+         <url>http://www.csmonitor.com/2008/0509/p25s09-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>Speed Racer is chaotic as a six-ring circus, gaudy as a transvestites convention and soullessly cute as a robot puppy.</snippet>
+         <url>http://www.charlotte.com/434/story/615258.html</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>Yes, it's a candy-colored Day-Glo world, but there's a liveliness missing from this lead-footed Speed Racer.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2008-05-07-speed-racer_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>This movie sets out to honor and refresh a youthful enthusiasm from the past and winds up smothering the fun in self-conscious grandiosity.</snippet>
+         <url>http://movies.nytimes.com/2008/05/09/movies/09spee.html?ref=movies</url>
+         <critic>A.O. Scott</critic>
+      </review>
+      <review>
+         <snippet>Chances are, after they've passed the two-hour mark, viewers will share the same collective, if unspoken, wish: Go, Speed Racer. Go.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1114495&amp;categories=Movies&amp;nm=1</url>
+         <critic>Ann Hornaday</critic>
+      </review>
+      <review>
+         <snippet>Gaudier than a Hindu-temple roof, louder than the Las Vegas night, Speed Racer is a cathedral of glitz.</snippet>
+         <url>http://www.villagevoice.com/film/0819,speed-racer-on-a-fast-track-to-nowhere,433809,20.html</url>
+         <critic>J. Hoberman</critic>
+      </review>
+      <review>
+         <snippet>There's more story, heart, and – cutting to the chase, the quick, and the dead – pure, unadulterated fun contained within a scant five minutes of Rockstar Games' new Grand Theft Auto IV video game than there is in the whole of Speed Racer.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A619791</url>
+         <critic>Marc Savlov</critic>
+      </review>
+      <review>
+         <snippet>The fakeness of it all overwhelms, dampening any real excitement. It's hard to care about characters so stiff and one-dimensional they out-cartoon the cartoon originals, and it's hard to watch them bop around like avatars in a flat, airless, digital world.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-speed9-2008may09,0,633545.story</url>
+         <critic>Carina Chocano</critic>
+      </review>
+      <review>
+         <snippet>Andy and Larry Wachowski barrel through this adaptation of the 60s animated series, hoping perhaps that no one will notice the story is as flat as roadkill.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/33118_SPEED_RACER.html</url>
+         <critic>Andrea Gronvall</critic>
+      </review>
+      <review>
+         <snippet>The state of mind brought on by Speed Racer the movie is more akin to that phenomenon by which young infants, exposed to more stimuli than their systems are equipped to handle, will simply shut down.</snippet>
+         <url>http://www.slate.com/id/2191010/</url>
+         <critic>Dana Stevens</critic>
+      </review>
+      <review>
+         <snippet>Such a dull, clunky, joyless mess, it's hard to believe the people who made it understand much about movies.</snippet>
+         <url>http://www.miamiherald.com/1054/story/525419.html</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>Orgy, hell: The film is like a nightmare in which you're trapped in an arcade with screens on all sides and no eyelids. Based on an elemental but happily streamlined Japanese cartoon (an anime precursor), it's an eyesore, a shambles, with incoherent action and ear-buckling dialogue.</snippet>
+         <url>http://nymag.com/movies/reviews/46661/</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>Though the film is not as criminally poor as "V for Vendetta," which the Wachowskis wrote in 2005, it struck me as more insidious.</snippet>
+         <url>http://www.newyorker.com/arts/critics/cinema/2008/05/12/080512crci_cinema_lane</url>
+         <critic>Anthony Lane</critic>
+      </review>
+      <review>
+         <snippet>This adventurously awful film is awful in many ways at once.</snippet>
+         <url>http://www.nypost.com/seven/05092008/entertainment/movies/no_speed_racer__no__110006.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>This isn't a picture filled with wonder and a sense of fun; it's so jaded and crass that I almost wonder if it's a highly unscientific experiment designed to gauge how little audiences will settle for these days. Manic and multicolored, Speed Racer is an excess of nothingness.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2008/05/09/speed_racer/</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>This toxic admixture of computer-generated frenzy and live-action torpor succeeds in being, almost simultaneously, genuinely painful -- the esthetic equivalent of needles in eyeballs -- and weirdly benumbing, like eye candy laced with lidocaine.</snippet>
+         <url>http://online.wsj.com/article/SB121028585161579009.html</url>
+         <critic>Joe Morgenstern</critic>
+      </review>
+   </reviews>
+   <US_Gross>$43,945,766</US_Gross>
+   <production_budget>$120,000,000</production_budget>
+   <weekend_gross>$18,561,337</weekend_gross>
+   <number_of_screens>3,606</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

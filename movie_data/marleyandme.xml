@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Marley &amp; Me</name>
+   <company>20th Century Fox</company>
+   <genres>
+      <genre>Comedy</genre>
+   </genres>
+   <authors>
+      <author>Don Roos</author>
+      <author>Scott Frank</author>
+   </authors>
+   <directors>
+      <director>David Frankel</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Owen Wilson</actor>
+      <actor>Jennifer Aniston</actor>
+      <actor>Alan Arkin</actor>
+      <actor>Eric Dane</actor>
+      <actor>Kathleen Turner</actor>
+   </actors>
+   <release_date>December 25, 2008</release_date>
+   <running_time>123</running_time>
+   <rating>PG</rating>
+   <reviews>
+      <review>
+         <snippet>Wilson has a scene near the end with Marley that's the most wrenchingly tender acting of his career.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20248900,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>It's an enjoyable and unpretentious perspective of life that reminds us how important and rewarding the little things can be.</snippet>
+         <url>http://www.reelviews.net/php_review_template.php?identifier=1434</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>And then there's Alan Arkin, who, as John's editor, is hilarious and dry--it's frankly a shame he's not onscreen for every single scene.</snippet>
+         <url>http://www.chicagotribune.com/entertainment/movies/chi-marley-me-review-1224_dec24,0,6428524.story</url>
+         <critic>Jessica Reaves</critic>
+      </review>
+      <review>
+         <snippet>When Marley is not on the screen, Wilson and Aniston demonstrate why they are gifted comic actors. They have a relationship that's not too sitcomish, not too sentimental, mostly smart and realistic.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20081223/REVIEWS/812239991</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>Marley &amp; Me gets so many of the details right, particularly in its final act, when it turns into a five-hanky weeper.</snippet>
+         <url>http://www.miamiherald.com/entertainment/movies/reviews/story/824540.html</url>
+         <critic>Connie Ogle</critic>
+      </review>
+      <review>
+         <snippet>The humans, particularly the wistful Wilson, deadpan Alan Arkin (as Grogan's editor) and Nathan Gamble, a 10-year-old who plays the eldest Grogan child, are very affecting. Aniston, who has great offbeat comic timing, doesn't quite find her rhythm here.</snippet>
+         <url>http://www.philly.com/inquirer/columnists/carrie_rickey/20081223_Whoever_said__quot_Children_are_for_people_who_can_t_have_NO_HEAD_SPECIFIED.html</url>
+         <critic>Carrie Rickey</critic>
+      </review>
+      <review>
+         <snippet>Looks to be this season's family animal comedy.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/393422_marley25q.html</url>
+         <critic>Sean Axmaker</critic>
+      </review>
+      <review>
+         <snippet>Never brilliant but always solid and often wry, Marley &amp; Me is what it celebrates -- an amiable overachiever.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20081223.wmarley1224/BNStory/Entertainment/home</url>
+         <critic>Rick Groen</critic>
+      </review>
+      <review>
+         <snippet>Wilson, who has never made the film in which he convincingly played sincere, turns out to be a wise choice to play John Grogan.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/reviews/bal-li.marley25dec25,0,1455968.story</url>
+         <critic>Chris Kaltenbach</critic>
+      </review>
+      <review>
+         <snippet>Marley &amp; Me gets so much surprisingly right. It may be designed to reach a broad audience, but it doesn't pander.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2008/12/25/marley_and_me/</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>Sweet and wise and often laugh-out-loud funny (just like Grogan's book), Marley &amp; Me isn't just for dog people; it's just not for Cruella De Vil.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A717477</url>
+         <critic>Marc Savlov</critic>
+      </review>
+      <review>
+         <snippet>The movie is torn. It wants to honestly explore the natural wear-and-tear of the Grogan marriage. But it also seems OK with being something that could pass as a midseason replacement on ABC.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=11281</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>Owen Wilson manages to break his customary comic relief persona and is adept at playing a little "Father Knows Best"; the yellow lab does a good job too.</snippet>
+         <url>http://www.premiere.com/Review/Movies/Marley-Me</url>
+         <critic>Olivia Putnal</critic>
+      </review>
+      <review>
+         <snippet>A warm and fuzzy family movie, but you do wish that at least once someone would upstage the dog.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film-reviews/film-review-marley-me-1003924277.story</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>This perky, episodic film is as broad and obvious as it could be, but delivers on its own terms thanks to sparky chemistry between its sunny blond stars, Owen Wilson and Jennifer Aniston, and the unabashed emotion-milking of the final reel.</snippet>
+         <url>http://www.variety.com/review/VE1117939263.html?categoryid=31&amp;cs=1</url>
+         <critic>Todd McCarthy</critic>
+      </review>
+      <review>
+         <snippet>An imperfect, messy and sometimes trying film that has moments of genuine sweetness and humor sprinkled in between the saccharine and the sadness.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-marley25-2008dec25,0,451887.story</url>
+         <critic>Betsy Sharkey</critic>
+      </review>
+      <review>
+         <snippet>As a modest little dramedy about the everyday adventures of starting a family, Marley &amp; Me is pretty solid, but as a movie about the joy and heartbreak of owning a dog, it goes straight for the jugular.</snippet>
+         <url>http://movies.tvguide.com/marley/review/296274</url>
+         <critic>Cammila Albertson</critic>
+      </review>
+      <review>
+         <snippet>The end, a drawn-out death scene, is manipulative and, contrary to the movie's feel-good marketing, likely to upset youngsters.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/33975_MARLEY_AND_ME.html</url>
+         <critic>Andrea Gronvall</critic>
+      </review>
+      <review>
+         <snippet>There are three fine performances lost in this otherwise middling film. Alan Arkin makes a wonderfully gruff newspaper editor who does just about as much barking as Marley. Jennifer Aniston makes the most of the rather slender figure of Jennifer Grogan, creating a believably human picture of a career woman who gives it up for the kids. And then there's the dog that plays Marley.</snippet>
+         <url>http://www.washingtonpost.com/gog/movies/marley-and-me,1144948.html</url>
+         <critic>Philip Kennicott</critic>
+      </review>
+      <review>
+         <snippet>Marley &amp; Me might be easy to watch, but -- even for die-hard canine lovers -- it's as easy to forget.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2008-12-23-marley-me_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>Could not be more ordinary.</snippet>
+         <url>http://www.avclub.com/content/cinema/marley_me</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>This love letter to man's best friend will make dog fanciers roll over and do tricks. It's so warmhearted, you'll want to run out and hug the nearest big, sloppy mutt. And while you're watching it, have your handkerchief ready.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2008/12/24/DDSO14RBP9.DTL&amp;type=movies</url>
+         <critic>Walter Addiego</critic>
+      </review>
+      <review>
+         <snippet>If characters talking to dogs and dog reaction shots are some of your favorite things, add some stars to this review.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2008/12/24/2008-12-24_marley__me_is_no_hairraising_film.html</url>
+         <critic>Joe Neumaier</critic>
+      </review>
+      <review>
+         <snippet>My Dog Skip for people in mid-life crises, it?s too talky and trouble-laden for tykes but will doubtless prove as critic-proof to dog-lovers and the stars? fans as it did in the US.</snippet>
+         <url>http://www.empireonline.com/reviews/reviewcomplete.asp?FID=135979</url>
+         <critic>Angie Errigo</critic>
+      </review>
+      <review>
+         <snippet>Bland, obsequious adaptation of John Grogan’s best-selling memoir.</snippet>
+         <url>http://movies.nytimes.com/2008/12/25/movies/25marl.html?ref=movies</url>
+         <critic>Stephen Holden</critic>
+      </review>
+      <review>
+         <snippet>Watching the stars try to out-cutesy the mutt is one for the puke bucket.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/20727348/review/25197455/marley__me</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>We watched a story of a Labrador. Who eats the couch and disobeys. I said to Lady, "It's a labra-bore."</snippet>
+         <url>http://www.nypost.com/seven/12242008/entertainment/movies/barking_up_wrong_tree_145676.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>Owen Wilson and Jennifer Aniston relegate Marley to a lifestyle accessory in his own biopic.</snippet>
+         <url>http://www.villagevoice.com/2008-12-24/film/marley-me-is-beethoven-with-less-shedding/</url>
+         <critic>Jim Ridley</critic>
+      </review>
+      <review>
+         <snippet>You'd have to be made of granite to resist all the charms of a free-spirited, 100-pound Lab. Yet the production manages, against heavy odds, to make its canine star an incorrigible bore.</snippet>
+         <url>http://online.wsj.com/article/SB123015087021633387.html</url>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>Not many actors could do justice to the vanilla story presented by Grogan and screenwriters Scott Frank and Don Roos, but Wilson and Aniston – two of the blandest, most uninteresting actors working today – are just the actors to pull it off.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=11445</url>
+         <critic>Pete Vonder Haar</critic>
+      </review>
+   </reviews>
+   <US_Gross>$143,153,751</US_Gross>
+   <weekend_gross>$50,738,566</weekend_gross>
+   <number_of_screens>3,480</number_of_screens>
+   <highest_grossing_actors_present/>
+   <num_highest_grossing_actors>1</num_highest_grossing_actors>
+   <highest_grossing_actor>owen wilson</highest_grossing_actor>
+   <summer_release>false</summer_release>
+   <christmas_release>true</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

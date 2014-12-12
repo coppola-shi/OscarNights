@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Finishing the Game</name>
+   <company>IFC Films</company>
+   <genres>
+      <genre>Comedy</genre>
+   </genres>
+   <authors>
+      <author>Josh Diamond</author>
+      <author>Justin Lin</author>
+   </authors>
+   <directors>
+      <director>Justin Lin</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Roger Fan</actor>
+      <actor>Sung Kang</actor>
+      <actor>James Franco</actor>
+      <actor>McCaleb Burnett</actor>
+      <actor>Jim Parrack</actor>
+      <actor>Dustin Nguyen</actor>
+      <actor>Cassidy Freeman</actor>
+      <actor>M.C. Hammer</actor>
+   </actors>
+   <release_date>October 5, 2007</release_date>
+   <running_time>88</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>When you finally stop laughing, there is something to think about.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2007/10/19/DDNLSRIF2.DTL#flick3</url>
+         <critic>David Wiegand</critic>
+      </review>
+      <review>
+         <snippet>There’s nothing new in the movie’s sociocultural insights, especially for those of us already interested in how identity is shaped by pop culture, but the breezy tone and obvious fun being had by the cast make Finishing the Game a slight, low-key cool cinematic essay on identity politics.</snippet>
+         <url>http://www.laweekly.com/film+tv/film-reviews/film-reviews/17558/?page=2</url>
+         <critic>Ernest Hardy</critic>
+      </review>
+      <review>
+         <snippet>It feels as though everyone involved was having a rollicking good time, and while the film itself is wildly uneven, Lin and company get in a few pointed jabs at Hollywood fatuousness and self-delusion, cultural stereotypes and '70s fashions.</snippet>
+         <url>http://www.tvguide.com/detail/movie.aspx?tvobjectid=290837&amp;more=ucmoviereview</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>The ensemble cast members play well off one another, particularly Fan as the self-absorbed Bruce Lee wannabe and Lynn in the role of the monumentally ignorant casting director.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?JSESSIONID=VjlzHFwpZLzw5pQ32X9WyLBDC4dP7Mr22QzwxGL2X2Ql7yKkkwNV!-351418194&amp;&amp;rid=9936</url>
+         <critic>Justin Lowe</critic>
+      </review>
+      <review>
+         <snippet>Finishing The Game doesn't get anywhere that "Hollywood Shuffle" didn't go to first, even if it has its own set of specific complaints about how show business treats Asians.</snippet>
+         <url>http://www.avclub.com/content/cinema/finishing_the_game</url>
+         <critic>Noel Murray</critic>
+      </review>
+      <review>
+         <snippet>A genially scattershot mockumentary.</snippet>
+         <url>http://www.nypost.com/seven/10052007/entertainment/movies/comic_kung_fu_offers_loose_lee.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>A faux documentary grounded in ethnicity and mired in absurdity, Finishing the Game is a terrific idea still waiting to be fashioned into a real movie.</snippet>
+         <url>http://movies.nytimes.com/2007/10/05/movies/05fini.html?ref=movies</url>
+         <critic>Jeannette Catsoulis</critic>
+      </review>
+      <review>
+         <snippet>Only intermittently funny at best, but mostly full of dead air, the film is a let-down on both fronts.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-capsules26oct26,0,7139024.story?coll=cl-mreview</url>
+         <critic>Staff (Not credited)</critic>
+      </review>
+      <review>
+         <snippet>By setting the film in a deliberately distanced '70s, writer-director Justin Lin gets the benefit of looking-back-in-superiority.</snippet>
+         <url>http://www.villagevoice.com/film/0740,pinkerton,77962,20.html</url>
+         <critic>Nick Pinkerton</critic>
+      </review>
+      <review>
+         <snippet>The film completely misses what should have been its real target -- the filming of Game of Death, a martial-arts campfest worthy of Edward D. Wood Jr.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20132517,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+   </reviews>
+   <US_Gross>$52,850</US_Gross>
+   <production_budget>$500,000</production_budget>
+   <weekend_gross>$11,903</weekend_gross>
+   <number_of_screens>1</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

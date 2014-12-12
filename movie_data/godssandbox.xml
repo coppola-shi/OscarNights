@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>God&amp;#039;s Sandbox</name>
+   <company>Indican Pictures</company>
+   <genres>
+      <genre>Drama</genre>
+      <genre>Foreign</genre>
+   </genres>
+   <authors>
+      <author>Hanita Halevy</author>
+      <author>Yoav Halevy</author>
+   </authors>
+   <directors>
+      <director>Doron Eran</director>
+   </directors>
+   <origins>
+      <origin>Israel</origin>
+   </origins>
+   <actors>
+      <actor>Meital Dohan</actor>
+      <actor>Razia Israeli</actor>
+      <actor>Juliano Mer</actor>
+      <actor>Orli Perl</actor>
+      <actor>Sami Samir</actor>
+   </actors>
+   <release_date>July 15, 2005</release_date>
+   <running_time>86</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>A fairly well-made film, reasonably directed by Eran, and it is a plea for women's rights as the Middle East gradually transitions from a tradition-bound society to a modern one.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2005/08/19/DDGPLE9EJC1.DTL#flick2</url>
+         <critic>G. Allen Johnson</critic>
+      </review>
+      <review>
+         <snippet>If you're looking for purple romance with a social conscience, it doesn't get much more purple than God's Sandbox.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-0501216-movies-review-sandbox,0,5192582.story?coll=mmx-movies_top_heds</url>
+         <critic>Michael Wilmington</critic>
+      </review>
+      <review>
+         <snippet>The sensual sex scenes and raw violence of God's Sandbox make it pretty much an exploitation film, and as an exploitation film, it isn't bad.</snippet>
+         <url>http://avclub.com/content/node/43526</url>
+         <critic>Noel Murray</critic>
+      </review>
+      <review>
+         <snippet>It's good that God's Sanbox has such an intriguing premise and compelling performances, because Doran Eran's pacing tends toward slackness, and most of the dialogue is in an English that is often impenetrable.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-sandbox29jul29,0,2445692.story</url>
+         <critic>Kevin Thomas</critic>
+      </review>
+      <review>
+         <snippet>The lovers' seduction in the sand borders on laughable soft porn; later in the film, an act of genital mutilation (part of a prenuptial ritual) injects an unexpected note of terror that reverberates to the end.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/capsules/25210_GODS_SANDBOX</url>
+         <critic>Ted Shen</critic>
+      </review>
+      <review>
+         <snippet>The serious subject of forced female circumcision becomes the stuff of predictable melodrama in God's Sandbox.</snippet>
+         <url>http://www.variety.com/review/VE1117918409?categoryid=31&amp;cs=1</url>
+         <critic>Eddie Cockrell</critic>
+      </review>
+      <review>
+         <snippet>The pivotal secret of God's Sandbox is no secret minutes into the story, and director Doron Eran doesn't seem to know, or care much, whether he's making feminist agitprop or softcore porn. The two don't mix well.</snippet>
+         <url>http://www.laweekly.com/film/film_results.php?showid=3483&amp;Sumbit.x=47&amp;Sumbit.y=7</url>
+         <critic>Ella Taylor</critic>
+      </review>
+   </reviews>
+   <US_Gross>$51,246</US_Gross>
+   <weekend_gross>$4,816</weekend_gross>
+   <number_of_screens>3</number_of_screens>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

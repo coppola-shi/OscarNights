@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Unknown</name>
+   <company>The Weinstein Company</company>
+   <genres>
+      <genre>Drama</genre>
+      <genre>Mystery</genre>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>Matthew Waynee</author>
+   </authors>
+   <directors>
+      <director>Simon Brand</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>James Caviezel</actor>
+      <actor>Greg Kinnear</actor>
+      <actor>Joe Pantoliano</actor>
+      <actor>Bridget Moynahan</actor>
+      <actor>Barry Pepper</actor>
+      <actor>Jeremy Sisto</actor>
+   </actors>
+   <release_date>November 3, 2006</release_date>
+   <running_time>98</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>Music video director Simon Brand makes an impressively taut debut with Unknown, a nifty little psychological crime thriller that suggests a "Treasure of the Sierra Madre" for the postindustrial age.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1128549&amp;categories=Movies&amp;nm=1</url>
+         <critic>Ann Hornaday</critic>
+      </review>
+      <review>
+         <snippet>It's an entertaining diversion whose clever structure gives pulp-crime cliches a welcome twist.</snippet>
+         <url>http://tvguide.com/detail/movie.aspx?tvobjectid=284063&amp;more=ucmoviereview</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>Brand has assembled a cast of world class improvisers, yet doesn't take advantage of their own particularized, inflected rhythms, as each ritualistically experiences a jump-cut fragmentary flashback in front of the same bathroom mirror.</snippet>
+         <url>http://www.variety.com/review/VE1117932040.html?categoryid=31&amp;cs=1</url>
+         <critic>Ronnie Scheib</critic>
+      </review>
+      <review>
+         <snippet>Unknown seems fairly stale and unoriginal, mainly because it's yet another movie with the short-term memory loss premise ("Memento," "Fifty First Dates," etc.), and it comes so late in the cycle that it feels like a dying gasp.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/295959_unknown15q.html</url>
+         <critic>William Arnold</critic>
+      </review>
+      <review>
+         <snippet>Unknown is punchy and entertaining. Maybe not the sort of thing you'd want to spend $10 plus a mortgage for popcorn on, but a nifty surprise on DVD several months from now -- or on pay-cable on-demand right now.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=9683</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>Despite a clever script and top-notch cast, whose commitment to doing service in the indie branch of the industry is commendable, Unknown falls apart just when it should be coming together.</snippet>
+         <url>http://sfgate.com/cgi-bin/article.cgi?f=/c/a/2006/11/17/DDGQKMDIS51.DTL#flick2</url>
+         <critic>Ruthe Stein</critic>
+      </review>
+      <review>
+         <snippet>Unfortunately, the film's charm ends with the plot gimmick.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/1163636729254160.xml&amp;coll=7</url>
+         <critic>M. E. Russell</critic>
+      </review>
+      <review>
+         <snippet>Director Simon Brand channels both "Saw" and "Reservoir Dogs" (good influences, both) to propel his main story forward, and even gets nicely twisty when the climax comes, but it's hard to escape the feeling that the B-story was added in to pad the film's running time.</snippet>
+         <url>http://www.laweekly.com/film+tv/film-reviews/film-reviews/14983/</url>
+         <critic>Luke Y. Thompson</critic>
+      </review>
+      <review>
+         <snippet>While Brand manages a couple of effectively brutal bits of violence, Matthew Waynee's gassy screenplay is all premise and no propulsion.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-061110-movies-review-unknown,0,5181115.story?coll=mmx-movies_top_heds</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>It all comes together at the end, logically and with a twist. But it's not a game that allows the audience to play along. When the story is controlled by whatever memories the writer and director choose to put in the characters' heads, you're always on the outside looking in.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/moviereviews/story/467896p-393563c.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>To kill 80 minutes, the movie has to pad itself with several dull speeches and stagy moments. The worst? How about when the five men, who have ample reason to fear each other and are facing a life-or-death reckoning, whistle "Ode to Joy" together like a bunch of Whiffenpoofs?</snippet>
+         <url>http://www.nypost.com/seven/11032006/entertainment/movies/unknown_movies_kyle_smith.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>Unknown manages a hat trick by making its march toward the climax so tedious and unlikely that it unravels even as it gets off the ground.</snippet>
+         <url>http://www.avclub.com/content/node/55127</url>
+         <critic>Tasha Robinson</critic>
+      </review>
+      <review>
+         <snippet>The pacing is slightly off, with the action switching between the imprisoned men and the police who are trying to find them, and what should be a mounting sense of urgency inside the warehouse (think Reservoir Dogs) falters and goes slack.</snippet>
+         <url>http://www.villagevoice.com/film/0644,opppenheimer,74910,20.html</url>
+         <critic>Jean Oppenheimer</critic>
+      </review>
+      <review>
+         <snippet>After a whole lot of buildup, and a real letdown of a payoff, the only enigma left is why we should care.</snippet>
+         <url>http://movies2.nytimes.com/2006/11/03/movies/03unkn.html?ref=movies</url>
+         <critic>Laura Kern</critic>
+      </review>
+      <review>
+         <snippet>Moderately lame horror.</snippet>
+         <url>http://www.empireonline.com/reviews/reviewcomplete.asp?FID=134892</url>
+         <critic>James Dyer</critic>
+      </review>
+      <review>
+         <snippet>The movie's disinterest in character might be forgivable were its plot not riddled with holes.</snippet>
+         <url>http://www.calendarlive.com/movies/cl-et-unknown10nov10,0,7786073.story</url>
+         <critic>Sam Adams</critic>
+      </review>
+      <review>
+         <snippet>Feeble exercise in brain-teaser noir.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/30705_UNKNOWN_BRAND.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+   </reviews>
+   <US_Gross>$26,403</US_Gross>
+   <production_budget>$3,700,000</production_budget>
+   <weekend_gross>$4,568</weekend_gross>
+   <number_of_screens>2</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

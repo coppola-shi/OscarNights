@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Step Brothers</name>
+   <company>Columbia Pictures (Sony)</company>
+   <genres>
+      <genre>Comedy</genre>
+   </genres>
+   <authors>
+      <author>Will Ferrell</author>
+      <author>Adam Mc</author>
+      <author>Kay</author>
+   </authors>
+   <directors>
+      <director>Adam Mc</director>
+      <director>Kay</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Will Ferrell</actor>
+      <actor>John C. Reilly</actor>
+      <actor>Richard Jenkins</actor>
+      <actor>Mary Steenburgen</actor>
+      <actor>Adam Scott</actor>
+      <actor>Katherine Hahn</actor>
+   </actors>
+   <release_date>July 25, 2008</release_date>
+   <running_time>95</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>There is too much funny here for a movie (even though it continues into the closing credits). Step Brothers should be a TV show.</snippet>
+         <url>http://www.nypost.com/seven/07252008/entertainment/movies/best_in_bro__121420.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>So childish it seems to arrive in diapers, and that's not bad; it's good.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1145959&amp;categories=Movies&amp;nm=1</url>
+         <critic>Stephen Hunter</critic>
+      </review>
+      <review>
+         <snippet>Not to wax too serious here (since this is, after all, a movie in which two nearly middle-aged men beat each other over the heads with blunt instruments on their front lawn), but ticking away just beneath Step Brothers' freely associative surface is a fairly astute commentary on how we define such abstract concepts as "growing up" and "making something of yourself."</snippet>
+         <url>http://www.villagevoice.com/2008-07-23/film/ferrell-reilly-mckay-will-be-boys-in-step-brothers/</url>
+         <critic>Scott Foundas</critic>
+      </review>
+      <review>
+         <snippet>Step Brothers is a Judd Apatow production  and it's the closest that the Apatow factory has come to spitting out a dumb-and-dumber high-concept comedy.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20214607,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>While Ferrell and Reilly are great together, hatching harebrained schemes that have no basis in reality, part of the unexpected treat of Step Brothers is watching Jenkins and Steenburgen sink to such blithely immature levels of rude and crude comedy.</snippet>
+         <url>http://www.philly.com/inquirer/columnists/steven_rea/20080725_A_raucous_road_to_stepbrotherly_love.html</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>Step Brothers is a hard R, for good reason. While it's somewhat sweeter, if you will, than a typical Apatow flick, the ludicrous situations call for equally ludicrous behavior and statements.</snippet>
+         <url>http://www.premiere.com/moviereviews/4663/step-brothers.html</url>
+         <critic>Jenni Miller</critic>
+      </review>
+      <review>
+         <snippet>Stupid, crude and hilarious, Step Brothers works by sneaking past our better judgment.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2008/07/25/step_brothers/</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>Step Brothers at its best is a smarter "Dumb and Dumber."</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/reviews/bal-to.stepbrothers25jul25,0,2964460.story</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>Take the kids at your peril. Mismarketing aside, Step Brothers is crudely funny, which means that sometimes it's crudely hilarious and more often it's just crude.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=9845</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>It's a testament to their performances -- and the spirit of this surprisingly raunchy, decidedly R-rated comedy -- that by the end credits, you've grown to like them a little bit. You just wouldn't want to live with them.</snippet>
+         <url>http://www.miamiherald.com/entertainment/movies/reviews/story/615796.html</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>The inspired pairing of "Talledega's" Will Ferrell and John C. Reilly, two actors smart enough to play dumb and make it work.</snippet>
+         <url>http://www.tvguide.com/movies/step-brothers/review/293500</url>
+         <critic>Staff (Not credited)</critic>
+      </review>
+      <review>
+         <snippet>Stupid, predictable and fairly funny.</snippet>
+         <url>http://chicago.metromix.com/movies/movie_review/movie-review-step-brothers/519847/content</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>Starting at infantile and regressing hysterically from there, Step Brothers flies on the comic chemistry of Will Ferrell and John C. Reilly.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/18269113/review/21896165/step_brothers</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>Step Brothers is not a retread so much as a reduction, stripping away the magical pretext of "Elf" and the period trappings of "Anchorman" to get to the heart of the thriving man-boy genre.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/la-et-brothers25-2008jul25,0,612948.story</url>
+         <critic>Sam Adams</critic>
+      </review>
+      <review>
+         <snippet>It's no Anchorman, but it's several steps in the right direction.</snippet>
+         <url>http://www.empireonline.com/reviews/reviewcomplete.asp?FID=135370</url>
+         <critic>Chris Hewitt</critic>
+      </review>
+      <review>
+         <snippet>Reilly is a good foil for Ferrell, but too many of their scenes together have the effect of improv night at the comedy club.</snippet>
+         <url>http://www.csmonitor.com/2008/0726/p25s01-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>Are Will Ferrell and director Adam McKay getting tired of their own shtick?</snippet>
+         <url>http://www.oregonlive.com/movies/index.ssf/2008/07/movie_review_step_brothers.html</url>
+         <critic>M. E. Russell</critic>
+      </review>
+      <review>
+         <snippet>A meagre, occasionally funny affair.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20080725.wstep25/BNStory/Entertainment/home</url>
+         <critic>Stephen Cole</critic>
+      </review>
+      <review>
+         <snippet>Simply, the movie is a tale of extremes resulting in a tepid middleground.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=11114</url>
+         <critic>Mark Bell</critic>
+      </review>
+      <review>
+         <snippet>America loves dysfunctional families, but haven't we seen enough middle-aged losers who haven't grown up?</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2008-07-24-step-brothers_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>Essentially a throwaway film.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2008/07/23/DDLV11TR51.DTL&amp;type=movies</url>
+         <critic>Reyhan Harmanci</critic>
+      </review>
+      <review>
+         <snippet>The Will Ferrell comedy engine is running on empty in Step Brothers.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/372079_step25q.html</url>
+         <critic>Sean Axmaker</critic>
+      </review>
+      <review>
+         <snippet>This is a loud, ugly, foul comedy whose shortcomings extends far into the supporting cast.</snippet>
+         <url>http://www.avclub.com/content/cinema/step_brothers</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>I don't want to sound like a party pooper (or deny that there is something wickedly funny about seeing these middle-age adolescents beating the crap out of a playground full of little bullying kids) but there's something depressing about the never-ending celebration of eternal adolescence in recent American comedies.</snippet>
+         <url>http://www.newsweek.com/id/148579</url>
+         <critic>David Ansen</critic>
+      </review>
+      <review>
+         <snippet>The film is funny at times but lapses into the reflexive vulgarity that seems to be the default mechanism of the Apatow machinery.</snippet>
+         <url>http://www.variety.com/review/VE1117937816.html?categoryid=31&amp;cs=1</url>
+         <critic>John Anderson</critic>
+      </review>
+      <review>
+         <snippet>Step Brothers has comic fuel to burn, some of it unashamedly non sequitur and stupid-brilliant, but it still feels like a post-"Talladega" flameout.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A647296</url>
+         <critic>Marc Savlov</critic>
+      </review>
+      <review>
+         <snippet>The only thing that can explain middle-aged men acting like 6-year-olds is mental retardation, and there's nothing funny about that. The idea of middle-aged actors playing adolescents isn't much funnier. Put it this way: Such an idea does not make for an inexhaustible source of comedy.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?JSESSIONID=LMRhLJKS97GTN2X1GsZfShmkyWJKJqBx1pTqSwmClp40tm7B2MfL!-1055493989&amp;&amp;rid=11456</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>They're losers that only a mother, an entertainment manager or a gang of self-satisfied comedy insiders could love.</snippet>
+         <url>http://movies.nytimes.com/2008/07/25/movies/25brot.html?ref=movies</url>
+         <critic>Manohla Dargis</critic>
+      </review>
+      <review>
+         <snippet>In Step Brothers, the language is simply showing off by talking dirty. It serves no comic function, and just sort of sits there in the air, making me cringe.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20080723/REVIEWS/611265921/1001</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>Humor is subjective, but this movie made me feel as if I had been subjected to something unpleasant.</snippet>
+         <url>http://www.reelviews.net/php_review_template.php?identifier=1258</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>Ferrell and Reilly get more mileage out of juvenile pouting and bickering than any other performers I can imagine, but that's about as far as this goes.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/33355_STEP_BROTHERS.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>So that's three snickers, not counting the Bush quote, 'cause including that one ain't fair, man.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2008/07/25/2008-07-25_its_no_kin_do_for_unfunny_brothers_in_st.html</url>
+         <critic>Joe Neumaier</critic>
+      </review>
+      <review>
+         <snippet>There's a good subject for satire here, the extended adolescence of American kids. But satire presupposes maturity, or at least some perspective. The movie's calculation is that its subjects and audience share the same point of view. The results are truly ghastly.</snippet>
+         <url>http://online.wsj.com/article/SB121694419329882987.html</url>
+         <critic>Joe Morgenstern</critic>
+      </review>
+   </reviews>
+   <US_Gross>$100,468,793</US_Gross>
+   <weekend_gross>$30,940,732</weekend_gross>
+   <number_of_screens>3,094</number_of_screens>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

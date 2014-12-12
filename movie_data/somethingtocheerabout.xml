@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Something to Cheer About</name>
+   <company>Screen Media Films</company>
+   <genres>
+      <genre>Documentary</genre>
+   </genres>
+   <authors>
+      <author>Betsy Blankenbaker</author>
+   </authors>
+   <directors>
+      <director>Betsy Blankenbaker</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Hallie Bryant</actor>
+      <actor>Ray Crowe</actor>
+      <actor>Willie Merriweather</actor>
+      <actor>Oscar Robertson</actor>
+   </actors>
+   <release_date>April 27, 2007</release_date>
+   <running_time>90</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>The film, which thankfully doesn't wear out its welcome with a scant running time of 64 minutes, is fairly prosaic stylistically. But the admittedly rough-hewn footage of the games is thrilling, and the pride and self-respect instilled in the players by their success is still evident today.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?&amp;rid=9227</url>
+         <critic>Frank Scheck</critic>
+      </review>
+      <review>
+         <snippet>The outline of a great story, but it never fills in the gaps.</snippet>
+         <url>http://www.calendarlive.com/printedition/calendar/cl-et-something27apr27,0,5001828.story</url>
+         <critic>Sam Adams</critic>
+      </review>
+      <review>
+         <snippet>Heartfelt but only intermittently interesting documentary.</snippet>
+         <url>http://www.tvguide.com/detail/movie.aspx?tvobjectid=287605&amp;more=ucmoviereview</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>Betsy Blankenbaker's doc doesn't possess the kinetic charge of the tale itself; it's too reliant on talking heads and faded photos. Cheer feels amateurish for a generation raised on sports films. Shoulda been a slam-dunk too.</snippet>
+         <url>http://www.villagevoice.com/film/0717,wilonsky,76476,20.html</url>
+         <critic>Robert Wilonsky</critic>
+      </review>
+      <review>
+         <snippet>Routine cinema but rich history.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-070427-movies-review-cheer,0,2090458.story?coll=mmx-movies_top_heds</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>This is a modest documentary, actually made in 2002 but only now gaining national release, which celebrates Attucks and that particular team, but most important Coach Crowe, by all accounts a remarkable man.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1116569&amp;categories=Movies&amp;nm=1</url>
+         <critic>Stephen Hunter</critic>
+      </review>
+      <review>
+         <snippet>A dearth of game footage and a wealth of inspirational platitudes contribute to the sense of a powerful tale having already faded into yellowed newspaper clippings.</snippet>
+         <url>http://onfilm.chireader.com/movies/briefs/nextweek/31548_SOMETHING_TO_CHEER_ABOUT.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+   </reviews>
+   <US_Gross>$9,777</US_Gross>
+   <weekend_gross>$6,410</weekend_gross>
+   <number_of_screens>9</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

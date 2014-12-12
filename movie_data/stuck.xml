@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Stuck</name>
+   <company>THINKFilm</company>
+   <genres>
+      <genre>Horror</genre>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>Stuart Gordon</author>
+   </authors>
+   <directors>
+      <director>Stuart Gordon</director>
+   </directors>
+   <origins>
+      <origin>Canada</origin>
+      <origin>USA</origin>
+      <origin>UK</origin>
+   </origins>
+   <actors>
+      <actor>Mena Suvari</actor>
+      <actor>Stephen Rea</actor>
+      <actor>Russell Hornsby</actor>
+      <actor>Rukiya Bernard</actor>
+   </actors>
+   <release_date>May 30, 2008</release_date>
+   <running_time>94</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>It's a righteously nasty piece of work, and a rare example of a movie that traffics in B-movie grime without a trace of "Grindhouse"-style self-consciousness.</snippet>
+         <url>http://www.avclub.com/content/cinema/stuck</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>A fresh and rewarding take on cinematic terror.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=10901</url>
+         <critic>Matthew Sorrento</critic>
+      </review>
+      <review>
+         <snippet>Stuart Gordon, the mostly under-the-radar director of "Re-Animator," pops back into view with this amusing trifle -- a piece of scuzzy tabloid noir.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20203044,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>A drum-tight, extremely grisly thriller. And odd as it may sound given the subject matter, it's also surprisingly funny.</snippet>
+         <url>http://www.tvguide.com/movies/stuck/review/293964</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>Rea, with his hangdog looks and Jimmy Stewart line readings, spends a good deal of his time writhing in fake blood and broken shards - not what you'd call glamorous work, but he does it with conviction.</snippet>
+         <url>http://www.philly.com/inquirer/columnists/steven_rea/20080606_Stuck____.html</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>Unlike the worthless torture porn that is destroying the genre, Stuck is a horror movie with a reason for being.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/365938_stuck06q.html</url>
+         <critic>Bill White</critic>
+      </review>
+      <review>
+         <snippet>These people can behave well or poorly, but they were already bugs on the windshield of life before their unhappy collision.</snippet>
+         <url>http://www.salon.com/ent/movies/btm/feature/2008/05/30/stuck/</url>
+         <critic>Andrew O&amp;#039;Hehir</critic>
+      </review>
+      <review>
+         <snippet>Stuck, while not strictly a horror film, is steeped in gore and carries a seam of mocking gallows humor as relentless as that of "Sweeney Todd."</snippet>
+         <url>http://movies.nytimes.com/2008/05/30/movies/30stuc.html?ref=movies</url>
+         <critic>Stephen Holden</critic>
+      </review>
+      <review>
+         <snippet>Suvari's increasingly loopy and cruel selfishness is its own nifty moral suspense, while Rea's sad sack vibe -- he already looks like a collision victim in the pre-accident scenes -- is a bleakly amusing counterpoint to his gritty refusal to go quietly.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-capsules30-2008may30,0,3374643.story</url>
+         <critic>Robert Abele</critic>
+      </review>
+      <review>
+         <snippet>Ingeniously nasty and often shockingly funny as it incrementally worsens a very bad situation, then provides a potent payoff with the forced feeding of just desserts.</snippet>
+         <url>http://www.variety.com/review/VE1117934932.html?categoryid=31&amp;cs=1&amp;p=0</url>
+         <critic>Joe Leydon</critic>
+      </review>
+      <review>
+         <snippet>Stuck is both darkly comic and disgusting; the name alone reduces the crime to a sick joke.</snippet>
+         <url>http://www.villagevoice.com/film/0822,stuck,451867,20.html</url>
+         <critic>Robert Wilonsky</critic>
+      </review>
+      <review>
+         <snippet>Laugh? Cry? I thought I'd die, but then that's the genius of Gordon.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A631342</url>
+         <critic>Marc Savlov</critic>
+      </review>
+      <review>
+         <snippet>Stuart Gordon's inventions -- vivid, gruesome and occasionally quite funny -- offer a just-deserts ending and make both characters surprisingly active participants in their fates.</snippet>
+         <url>http://www.npr.org/templates/story/story.php?storyId=90961790</url>
+         <critic>Bob Mondello</critic>
+      </review>
+      <review>
+         <snippet>Mena Suvari has her best role since "American Beauty" as Brandi, a self-centered nursing home employee distinctly lacking in sympathy for anyone.</snippet>
+         <url>http://www.nypost.com/seven/05302008/entertainment/movies/stick_it_out_till_end_113080.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>This is not enjoyable entertainment, but it is brutally watchable.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2008-05-29-stuck_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>There are times when it is bitingly funny and times when its bloodiness can cause a wince and a shudder - but director Stuart Gordon is not adept at blending the two extremes into a cohesive whole.</snippet>
+         <url>http://www.reelviews.net/php_review_template.php?identifier=1002</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>A taut drama that manages to be thoughtful without forgetting it's a creep-out.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2008/05/30/2008-05-30_hitandrun_drives_this_taut_drama.html</url>
+         <critic>Joe Neumaier</critic>
+      </review>
+      <review>
+         <snippet>Thanks to Suvari, audiences laugh nervously at the mortification of soul and flesh, but she doesn't really do them much of a favor. She simply keeps them watching as a would-be gross-out comedy turns into would-be gross-out tragedy.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/reviews/bal-to.stuck13jun13,0,6508021.story</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>History repeats itself, the first time as tragedy, the second time as farce, Karl Marx said. That might explain the possibility of even making a movie such as Stuck.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20080718.wstuck18/BNStory/Entertainment/home</url>
+         <critic>Liam Lacey</critic>
+      </review>
+      <review>
+         <snippet>At its best, Gordon's work is bracing and pointed, though it's not for the queasy.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2008/06/05/DD8S112F9B.DTL&amp;type=movies</url>
+         <critic>Walter Addiego</critic>
+      </review>
+      <review>
+         <snippet>Gordon made similar lurches all over the map in his previous exercise in grotesquerie, "Edmond," which was based on a David Mamet play and starred William H. Macy as, of all things, a racist misogynist on a grisly bender. Stuck could have used some of that outrageousness.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=11690</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>Unfortunately, the film loses its merciless rage toward the end, devolving into a stock and broadly comic thriller about unpleasant people you never quite get to know.</snippet>
+         <url>http://www.oregonlive.com/movies/index.ssf/2008/06/review_stuck_wham_bam_thank_yo.html</url>
+         <critic>M. E. Russell</critic>
+      </review>
+      <review>
+         <snippet>The film becomes an aria of agony--but with a rousingly yucko finish!</snippet>
+         <url>http://nymag.com/movies/reviews/47387/index1.html</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>The question is why the time, talent and treasure of such energetic and even gifted artists have been marshaled in such a disgusting and trivial genre exercise and what viewers are supposed to get out of it. Isn't life hard enough?</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1106063&amp;categories=Movies&amp;nm=1</url>
+         <critic>Ann Hornaday</critic>
+      </review>
+      <review>
+         <snippet>As the title of this splatter comedy by writer-director Stuart Gordon (Re-Animator) indicates, he's like a bug stuck to her windshield, and that's about the level of humanity and insight one can expect here.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/capsules/32223_STUCK_GORDON</url>
+         <critic>J.R. Jones</critic>
+      </review>
+   </reviews>
+   <US_Gross>$67,505</US_Gross>
+   <weekend_gross>$8,844</weekend_gross>
+   <number_of_screens>2</number_of_screens>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

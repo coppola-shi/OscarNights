@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Sleepwalking</name>
+   <company>Overture Films</company>
+   <genres>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author>Zac Stanford</author>
+   </authors>
+   <directors>
+      <director>Bill Maher</director>
+   </directors>
+   <origins>
+      <origin>CanadaUSA</origin>
+   </origins>
+   <actors>
+      <actor>Charlize Theron</actor>
+      <actor>Dennis Hopper</actor>
+      <actor>Woody Harrelson</actor>
+      <actor>Nick Stahl</actor>
+      <actor>AnnaSophia Robb</actor>
+   </actors>
+   <release_date>March 14, 2008</release_date>
+   <running_time>100</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>Despite its deficiencies, and the inadequate screen time allotted to Theron (who's quite good), Sleepwalking has a core of feeling. It's about a do-gooder who, lacking all skills for it, does good anyway. His emotional odyssey has real poignancy.</snippet>
+         <url>http://www.csmonitor.com/2008/0314/p16s01-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>Stanford's script is painfully obvious, right down to the line of dialogue spelling out the title's significance.</snippet>
+         <url>http://www.tvguide.com/movies/sleepwalking/review/292918</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>Portentous and dull, the film features one of the worst over-the-top performances by Dennis Hopper, who plays an abusive father.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2008-03-13-also-opening_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>Well-intentioned to a fault, Sleepwalking blurs the line between dramatizing free-floating misery and spreading it.</snippet>
+         <url>http://www.avclub.com/content/cinema/sleepwalking</url>
+         <critic>Nathan Rabin</critic>
+      </review>
+      <review>
+         <snippet>It’s a shame that this film’s star-studded cast wasn’t able to save the mediocre storyline.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=10634</url>
+         <critic>Zack Haddad</critic>
+      </review>
+      <review>
+         <snippet>The overly simplistic script by Zac Stanford (“The Chumscrubber”) hits nothing but high notes, making the whole dramatically less than the sum of its parts.</snippet>
+         <url>http://www.variety.com/index.asp?layout=festivals&amp;jump=review&amp;id=2471&amp;reviewid=VE1117935878&amp;cs=1</url>
+         <critic>Ronnie Scheib</critic>
+      </review>
+      <review>
+         <snippet>The movie seems unusually honest in portraying the no-option existence of the working poor, but the story slips into melodrama in the last reel.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/32890_SLEEPWALKING.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>The whole picture plays like a pop-up book in a welfare agency.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20080313.wsleep14/BNStory/Entertainment/home</url>
+         <critic>Rick Groen</critic>
+      </review>
+      <review>
+         <snippet>It's because of AnnaSophia Robb's performance...I don't think you'll see a more fascinating and nuanced performance at the movies this year.</snippet>
+         <url>http://www.time.com/time/arts/article/0,8599,1722514,00.html</url>
+         <critic>Richard Schickel</critic>
+      </review>
+      <review>
+         <snippet>But the regularly overlooked Stahl burrows honestly into this unpleasant place, adding another worthy portrait to his indie gallery of interesting losers. He's still an actor worth keeping your eyes on. Assuming you can keep them open.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2008/03/14/2008-03-14_nick_stahl_gives_it_his_all_but_sleepwal.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>Terrific performances and a bleak, riveting look at life on the economic fringes eventually gives way to an overly familiar tale of abuse, denial and catharsis that feels like warmed over Sam Shepard minus the poetry.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-sleepwalking14mar14,0,691318.story</url>
+         <critic>Kevin Crust</critic>
+      </review>
+      <review>
+         <snippet>The movie seems terrified of true psychological complexity or perversity. It's less a family tragedy than a lousy country dirge.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=11171</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>A feeling of hopelessness pervades Sleepwalking.</snippet>
+         <url>http://www.reelviews.net/movies/s/sleepwalking.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>Unfortunately, Sleepwalking isn’t content being a character study of damaged adult siblings (if it were, it would have made a nice companion piece to Kenneth Lonergan’s "You Can Count on Me," which is a far less sobering, but far more effective, movie).</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A602848</url>
+         <critic>Josh Rosenblatt</critic>
+      </review>
+      <review>
+         <snippet>A bummer.</snippet>
+         <url>http://www.philly.com/inquirer/columnists/steven_rea/20080321_A_messy_and_bleak_bad_dream.html</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>Even if the movie takes you to some dark places you would rather not visit, at least you will remember the actors who navigate the tortured journey.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/imdb/reviews/article_display.jsp?rid=10495&amp;vnu_special_account_code=thrsiteimdbpro</url>
+         <critic>Stephen Farber</critic>
+      </review>
+      <review>
+         <snippet>As Mr. Maher, in his feature directing debut, brings in surreal touches and puts on literary airs, the film’s grip loosens, and its vernacular turns increasingly wooden.</snippet>
+         <url>http://movies.nytimes.com/2008/03/14/movies/14Slee.html?ref=movies</url>
+         <critic>Stephen Holden</critic>
+      </review>
+      <review>
+         <snippet>There's loads of suffering in Sleepwalking, piled on until the picture almost becomes an unintentional comedy.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2008/03/14/sleepwalking/</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>Despite honorable work from Theron, Robb and Stahl, Sleepwalking makes good on its title in a not-so-good way.</snippet>
+         <url>http://chicago.metromix.com/movies/movie_review/movie-review-sleepwalking/336643/content</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>Relentlessly depressing.</snippet>
+         <url>http://www.nypost.com/seven/03142008/entertainment/movies/way_down_in_the_dumps_101845.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>An inert, sloppily written melodrama as grim and featureless as its frozen Midwestern setting.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1144341&amp;categories=Movies&amp;nm=1</url>
+         <critic>Ann Hornaday</critic>
+      </review>
+      <review>
+         <snippet>Theron and Woody Harrelson provide vitality against the film's heavy load, but they aren't around long enough to keep it from collapsing under its own portentous weight.</snippet>
+         <url>http://www.villagevoice.com/film/0811,374093,374093,20.html</url>
+         <critic>Michelle Orange</critic>
+      </review>
+      <review>
+         <snippet>A slow-moving family drama guaranteed to induce a nap if not somnambulism.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2008/03/13/DDCNVHB9O.DTL&amp;type=movies</url>
+         <critic>Ruthe Stein</critic>
+      </review>
+      <review>
+         <snippet>A soporific dud, which should have been tossed out of Sundance.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20183719,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+   </reviews>
+   <US_Gross>$168,972</US_Gross>
+   <weekend_gross>$47,762</weekend_gross>
+   <number_of_screens>30</number_of_screens>
+   <oscar_winning_actors_present/>
+   <num_oscar_winning_actors>1</num_oscar_winning_actors>
+   <oscar_winning_actor>charlize theron</oscar_winning_actor>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

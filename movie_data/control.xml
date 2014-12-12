@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Control</name>
+   <company>The Weinstein Company</company>
+   <genres>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author>Deborah Curtis</author>
+      <author>Matt Greenhalgh</author>
+   </authors>
+   <directors>
+      <director>Anton Corbijn</director>
+   </directors>
+   <origins>
+      <origin>UKUSA</origin>
+   </origins>
+   <actors>
+      <actor>Sam Riley</actor>
+      <actor>Samantha Morton</actor>
+      <actor>Craig Parkinson</actor>
+      <actor>Joe Anderson</actor>
+   </actors>
+   <release_date>October 10, 2007</release_date>
+   <running_time>121</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>It's also that he's really, honest-to-God, got one of those movie faces that doesn't even come along once every generation. It's astonishing.</snippet>
+         <url>http://www.premiere.com/moviereviews/4166/control.html</url>
+         <critic>Glenn Kenny</critic>
+      </review>
+      <review>
+         <snippet>Even though we're aware of the tragic trajectory of the singer's life, for a while it almost seems as if reality got it wrong and Curtis might just squeak past the reaper's scythe with no more than a shave and a haircut.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A557962</url>
+         <critic>Marc Savlov</critic>
+      </review>
+      <review>
+         <snippet>Even if you have no interest in Joy Division, this picture is worth seeing for the unsentimental empathy and passion of the moviemaking.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/reviews/bal-to.control02nov02,0,2199918.story</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>You don’t have to know anything about Joy Division to grasp the mysterious sorrow at its heart.</snippet>
+         <url>http://movies.nytimes.com/2007/10/10/movies/10cont.html?ref=movies</url>
+         <critic>A.O. Scott</critic>
+      </review>
+      <review>
+         <snippet>It's Corbijn, shooting with a poet's eye in a harshly stunning black-and-white, who cuts to the soul of Ian's life and music. You don't watch this movie, you live it.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/6590058/review/16681878/control</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>Control doesn't claim to know the reasons Curtis killed himself. The act of suicide poses the question why, but rarely answers it, leaving the living to wonder, and to grieve. And there's certainly grief to be had in Control, but also joy. Really.</snippet>
+         <url>http://www.philly.com/inquirer/columnists/steven_rea/20071026_Sadness__joy_-_and_none_of_it_contrived.html</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>One of the most perceptive of rock music biopics.</snippet>
+         <url>http://www.rogerebert.com/apps/pbcs.dll/article?AID=/20071025/REVIEWS/710250302/1023</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>Can a movie about such a fellow and such a fate be lovely? And can it uplift? Control is and, in its artfulness, does.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/119448339636230.xml&amp;coll=7</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>Control goes past the clichés of punk rock-god gloom to offer a snapshot of alienation that's shockingly humane.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20132510,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>Control honors its subject’s eternal self-doubt by honing in on that truth and leaving the legend to others.</snippet>
+         <url>http://www.laweekly.com/film+tv/film/unknown-pleasures/17500/</url>
+         <critic>Tim Grierson</critic>
+      </review>
+      <review>
+         <snippet>Control keeps you riveted in ways that "24 Hour Party People" doesn't, primarily because of the investment of craft and conviction by all concerned.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-control19oct19,0,5324686.story?coll=cl-mreview</url>
+         <critic>Gene Seymour</critic>
+      </review>
+      <review>
+         <snippet>Lovely and deeply touching picture.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2007/09/11/toronto4/index.html?CP=IMD&amp;DN=110</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>Those who worship Joy Division may bridle at Corbijn’s film for its reluctance to mythologize their hero. Speaking as someone so irretrievably square that I not only never listened to the band but didn’t even know anyone who liked it, I can’t imagine a tribute more fitting than this.</snippet>
+         <url>http://www.newyorker.com/arts/critics/cinema/2007/10/15/071015crci_cinema_lane</url>
+         <critic>Anthony Lane</critic>
+      </review>
+      <review>
+         <snippet>Corbijn makes us achingly aware of the singer's talent, the haunting poetry of his songs and how, living in the gloomy culture he did, his passing was virtually inevitable.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1109789&amp;categories=Movies&amp;nm=1</url>
+         <critic>Desson Thomson</critic>
+      </review>
+      <review>
+         <snippet>The result is both a surprisingly lucid portrayal of clinical depression and dramatically a bit stiff.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=6775</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>The result is a good movie that falls short of greatness by aping too well the behaviour of its subject – occasionally brilliant, sometimes mundane.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20071025.wcontrol26/BNStory/Entertainment/home</url>
+         <critic>Rick Groen</critic>
+      </review>
+      <review>
+         <snippet>A romantic victim to the end, this Ian Curtis is all that worshipful fans could ever hope for.</snippet>
+         <url>http://www.tvguide.com/movies/control/review/290754</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>In essence, Control is a standard order biopic of a tormented artist. What makes the film interesting, if not unique, is the style in which director Anton Corbijn has elected to present it.</snippet>
+         <url>http://www.reelviews.net/movies/c/control.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>Morton's as good an actress as any working today and in Control, she overcomes an age gap to give one of the year's most heartbreaking and honest performances.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2007/10/10/2007-10-10_control_shows_life_between_rock_and_a_ha.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>The cast is excellent, particularly Riley and Morton and, as Joy Division’s brash manager, Toby Kebbell. He’s a great character, bitter and hostile and a scoundrel: a born manager of talent destined to tear itself apart.</snippet>
+         <url>http://chicago.metromix.com/movies/movie_review/movie-review-control/238670/content</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>A rock bio minus the fun. The sex is guilt-stricken, the drugs are used to treat epilepsy, and the rock 'n' roll is about isolation and despair.</snippet>
+         <url>http://www.nypost.com/seven/10102007/entertainment/movies/ian__we_hardly_knew_ye.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>Sam Riley is fascinating as Curtis, a hypersensitive young man hobbled by his incurable disease, and Samantha Morton is poignant as his put-upon wife.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/32202_CONTROL.html</url>
+         <critic>Andrea Gronvall</critic>
+      </review>
+      <review>
+         <snippet>The story of Control's creation is the story of great potential, squandered. Joy Division fans should be able to relate.</snippet>
+         <url>http://www.avclub.com/content/cinema/control</url>
+         <critic>Noel Murray</critic>
+      </review>
+      <review>
+         <snippet>Control is director Anton Corbijin's first feature, and he too frequently makes the mistake of falling back on his rock video skills.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/336842_control26q.html</url>
+         <critic>Bill White</critic>
+      </review>
+      <review>
+         <snippet>To my detached eye, this slender biography suggests that Curtis went from a faintly interested glam-rock wannabe of 16 to a mildly talented performer to a quietly glum fellow of 23 whose frustrations drove him to suicide.</snippet>
+         <url>http://www.charlotte.com/145/story/394306.html</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>There's little illumination.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2007/10/26/DDCVSVJB3.DTL&amp;type=movies</url>
+         <critic>Peter Hartlaub</critic>
+      </review>
+      <review>
+         <snippet>Despite excellent performances from Samantha Morton, Craig Parkinson, and the radiant Toby Kebbell, along with a noble effort from pretty newcomer Sam Riley as Curtis himself, Control is like a wake where the guests forgot to bring the booze and, for the most part, have nothing very nice or even particularly interesting to say about the deceased.</snippet>
+         <url>http://www.villagevoice.com/film/0741,beghtol,77999,20.html</url>
+         <critic>LD Beghtol</critic>
+      </review>
+   </reviews>
+   <US_Gross>$871,577</US_Gross>
+   <production_budget>$6,400,000</production_budget>
+   <weekend_gross>$35,856</weekend_gross>
+   <number_of_screens>1</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

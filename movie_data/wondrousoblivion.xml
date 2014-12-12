@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Wondrous Oblivion</name>
+   <company>Palm Pictures</company>
+   <genres>
+      <genre>Comedy</genre>
+      <genre>Drama</genre>
+      <genre>FamilyKids</genre>
+      <genre>Foreign</genre>
+   </genres>
+   <authors>
+      <author>Paul Morrison</author>
+   </authors>
+   <directors>
+      <director>Paul Morrison</director>
+   </directors>
+   <origins>
+      <origin>UKGermany</origin>
+   </origins>
+   <actors>
+      <actor>Sam Smith</actor>
+      <actor>Delroy Lindo</actor>
+      <actor>Stanley Townsend</actor>
+      <actor>Emily Woof</actor>
+      <actor>Richard Ashton</actor>
+      <actor>Leagh Conwell</actor>
+      <actor>Dominic Barklem</actor>
+      <actor>Yasmin Paige</actor>
+   </actors>
+   <release_date>November 3, 2006</release_date>
+   <running_time>106</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>Lindo gives a powerhouse performance of immense feeling and subtlety.</snippet>
+         <url>http://www.csmonitor.com/2006/1103/p14s01-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>As lightheartedly as the film plays, Morrison manages to say quite a few serious things about immigration and otherness.</snippet>
+         <url>http://tvguide.com/detail/movie.aspx?tvobjectid=284360&amp;more=ucmoviereview</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>Generally, thanks to solid performances and very nice cinematography, it hits, if not a home run, at least a solid double (or the British equivalent).</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/1165973127258630.xml&amp;coll=7</url>
+         <critic>Marc Mohan</critic>
+      </review>
+      <review>
+         <snippet>A gentle fable, full of wit and charm.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2006/12/22/DDGKEN39IA1.DTL&amp;type=movies</url>
+         <critic>G. Allen Johnson</critic>
+      </review>
+      <review>
+         <snippet>Aiming for the tough-minded nostalgia of John Boorman's "Hope and Glory," writer-director Paul Morrison catches both the innocence of childhood and its unconscious cruelty.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-wondrous15dec15,0,3913960.story?coll=cl-mreview</url>
+         <critic>Sam Adams</critic>
+      </review>
+      <review>
+         <snippet>If writer-director Paul Morrison's film traces a predictable arc from racial unease to acceptance, it's often winning--and sometimes tough-minded--in the details.</snippet>
+         <url>http://www.villagevoice.com/film/0644,ridley,74900,20.html</url>
+         <critic>Jim Ridley</critic>
+      </review>
+      <review>
+         <snippet>Good intentions and some nicely playful moments go a long way toward balancing out Paul Morrison's uneven story of British immigrants in the early 1960s.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/moviereviews/story/467891p-393573c.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>Full of charming moments, but swinging hither and thither between mainstream entertainment and an over-cooked anti-racist tract.</snippet>
+         <url>http://www.variety.com/review/VE1117921534.html?categoryid=31&amp;cs=1&amp;p=0</url>
+         <critic>Derek Elley</critic>
+      </review>
+      <review>
+         <snippet>Wondrous Oblivion goes awry in its sloppy racial drama, and although the cricket-training montages are good, they're still training montages, and this is just that kind of overfamiliar movie.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1553337_1_0_,00.html</url>
+         <critic>Gregory Kirshling</critic>
+      </review>
+      <review>
+         <snippet>Form and content fight to the death in Wondrous Oblivion, Paul Morrison's defiantly gauzy tale of racial friction in 1960s England.</snippet>
+         <url>http://movies2.nytimes.com/2006/11/03/movies/03obli.html?ref=movies</url>
+         <critic>Jeannette Catsoulis</critic>
+      </review>
+      <review>
+         <snippet>It loses direction, turning contrived and sentimental. There's even a touch of Frank Capra.</snippet>
+         <url>http://www.nypost.com/seven/11032006/entertainment/movies/lessons_in_cricket___and_love___fail_the_test_movies_v_a__musetto.htm</url>
+         <critic>V.A. Musetto</critic>
+      </review>
+   </reviews>
+   <US_Gross>$88,560</US_Gross>
+   <weekend_gross>$11,749</weekend_gross>
+   <number_of_screens>1</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

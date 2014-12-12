@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Take</name>
+   <company>Liberation Entertainment</company>
+   <genres>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author>Charles Oliver</author>
+   </authors>
+   <directors>
+      <director>Charles Oliver</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Minnie Driver</actor>
+      <actor>Jeremy Renner</actor>
+   </actors>
+   <release_date>July 18, 2008</release_date>
+   <running_time>99</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>Driver and Renner deliver haunting performances in this story of crime and punishment.</snippet>
+         <url>http://www.tvguide.com/movies/take/review/294583</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>Well, you can't fault the actors. That must mean it's the fault of the writer and director. Take is a monotonous slog through dirgeland, telling a story that seems strung out beyond all reason, with flashbacks upon flashbacks delaying interminably the underwhelming climax.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20080730/REVIEWS/807310302</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>A woefully earnest indie about a crime and its aftermath.</snippet>
+         <url>http://www.nypost.com/seven/07182008/entertainment/movies/take_120367.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>In the end, Take is too enamored of its time-shifting gimmick and cheap suspense to ultimately have much impact.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-capsules25-2008jul25,0,93254.story</url>
+         <critic>Robert Abele</critic>
+      </review>
+      <review>
+         <snippet>Another preachy, overacted message film that owes its out-of-time structure to "21 Grams" and "Babel," except writer-director Charles Oliver uses the idea of restorative justice.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2008/07/18/2008-07-18_short_takes_the_doorman_and_more_movies_-2.html</url>
+         <critic>Joe Neumaier</critic>
+      </review>
+      <review>
+         <snippet>Take has the audacity to excuse its bad cinematic habits as figments of both Saul and Ana's imaginations.</snippet>
+         <url>http://www.villagevoice.com/2008-07-16/film/take/</url>
+         <critic>Ed Gonzalez</critic>
+      </review>
+      <review>
+         <snippet>Subjective or not, the movie is a bore and an eyesore.</snippet>
+         <url>http://movies.nytimes.com/2008/07/18/movies/18take.html?ref=movies</url>
+         <critic>Nathan Lee</critic>
+      </review>
+      <review>
+         <snippet>A dreadfully misguided movie.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A660606</url>
+         <critic>Marjorie Baumgarten</critic>
+      </review>
+   </reviews>
+   <US_Gross>$6,627</US_Gross>
+   <weekend_gross>$1,264</weekend_gross>
+   <number_of_screens>1</number_of_screens>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

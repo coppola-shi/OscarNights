@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Mr. Brooks</name>
+   <company>Metro-Goldwyn-Mayer</company>
+   <genres>
+      <genre>Crime</genre>
+      <genre>Drama</genre>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>Bruce A. Evans</author>
+      <author>Raynold Gideon</author>
+   </authors>
+   <directors>
+      <director>Bruce A. Evans</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Kevin Costner</actor>
+      <actor>Demi Moore</actor>
+      <actor>Dane Cook</actor>
+      <actor>William Hurt</actor>
+      <actor>Marg Helgenberger</actor>
+      <actor>Ruben Santiago-Hudson</actor>
+      <actor>Danielle Panabaker</actor>
+      <actor>Aisha Hinds</actor>
+   </actors>
+   <release_date>June 1, 2007</release_date>
+   <running_time>120</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>A curious mix of the campy and the intelligent, of high concept and low psychology. In spite of these contradictions, or perhaps because of them, it works. This is a tense and engaging thriller.</snippet>
+         <url>http://www.reelviews.net/movies/m/mr_brooks.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>Watching Kevin Costner and William Hurt share grim laughs during Bruce Evans' Mr. Brooks is one of the pleasures of this totally absurd and equally entertaining psychological thriller.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2007/06/01/2007-06-01_costner_hurt_a_killer_duo.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>The appeal of Mr. Brooks is as obvious as it is hard to resist: Kevin Costner as a serial killer.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2007/06/01/DDGNTQ47RI1.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>Entertainingly creepy.</snippet>
+         <url>http://www.philly.com/inquirer/columnists/steven_rea/20070601_Businessman_with_killer_hobby.html</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>Listen to me: trash can surprise you. So don't get all elitist about the so-called cheap thrills in Mr. Brooks.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/10747454/review/15101815/mr_brooks</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>So well made, and so compelling as a portrait of a man at war with himself, that, right up until the end, many people will probably be entertained by its intricately preposterous story.</snippet>
+         <url>http://www.newyorker.com/arts/critics/cinema/2007/06/11/070611crci_cinema_denby</url>
+         <critic>David Denby</critic>
+      </review>
+      <review>
+         <snippet>You may enjoy this complex, psychologically daring and visually stylish noir, which has been put together by director Bruce Evans ("Kuffs") with few dull moments and virtually none of the black humor you might expect from the premise.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/318020_brooks01q.html</url>
+         <critic>William Arnold</critic>
+      </review>
+      <review>
+         <snippet>A fertile example of the Studio Film Gone Berserk, where too many characters and too many story lines geometrically progress until a level of blissful absurdity is reached.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=9319</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>What compels then isn't the overwrought plot, but the simpler things, the dynamics between the actors, the avuncularity between old pros Costner and Hurt and the class condescension between Costner and Cook. It has a fascinatin' rhythm.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1127365&amp;categories=Movies&amp;nm=1</url>
+         <critic>Stephen Hunter</critic>
+      </review>
+      <review>
+         <snippet>Mr. Brooks is most effective when it's dealing with Earl and his conscience. Hurt and Costner are terrific together as two sides of the same personality and, again, the casting is what it's all about.</snippet>
+         <url>http://www.variety.com/review/VE1117933798.html?categoryid=31&amp;cs=1</url>
+         <critic>John Anderson</critic>
+      </review>
+      <review>
+         <snippet>One dramatic ploy that doesn't work is the casting of Demi Moore as Tracy Edward, a homicide detective intent on capturing the Thumbprint Killer. Moore gave a rare good performance as the washed up diva in "Bobby," but her stridency here is grating.</snippet>
+         <url>http://www.csmonitor.com/2007/0601/p14s01-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>Sadly, only Hurt seems to recognize that the only way to make this material work is to play it with lunatic enthusiasm instead of grave seriousness.</snippet>
+         <url>http://www.avclub.com/content/cinema/mr_brooks</url>
+         <critic>Keith Phipps</critic>
+      </review>
+      <review>
+         <snippet>cleverly conceived and professionally executed and to hell with that. It's a serial killer movie in the dime-a-dozen era of serial killer movies, with the selling point being that the murderer is played by a movie star. This way you'll like the guy.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-070601-movies-review-brooks,0,3179339.story?coll=mmx-movies_top_heds</url>
+         <critic>Mark Caro</critic>
+      </review>
+      <review>
+         <snippet>Mr. Brooks begins promisingly, but it grows steadily more preposterous as it goes along, becoming the first feel-good serial-killer movie.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20040674,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>The kind of movie that rockets so far beyond the line of credibility and so deeply into the realm of utter stupidity, you start to wonder if the filmmakers aren't putting you on.</snippet>
+         <url>http://ae.miami.com/entertainment/ui/miami/movie.html?id=883055&amp;reviewId=22480</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>Beneath its drab veil of self-seriousness, Mr. Brooks is nothing but just plain silly.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2007/06/01/mr_brooks/index.html</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>Costner succumbs to terminal self-seriousness when he makes a movie of his own either as the director or, in this case, a producer.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-to.brooks01jun01,0,4807510.story?coll=bal-movies-utility</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>The movie's not good, strictly speaking, but it is kind of fun.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/1180569331256790.xml&amp;coll=7</url>
+         <critic>M. E. Russell</critic>
+      </review>
+      <review>
+         <snippet>This is one of those slick, violent, ridiculous Hollywood jobs that make little sense as a story, a comment on life, or a depiction of characters, but are moderately enjoyable in their spinning of movie conventions. There's even a good De Palma-style fake shock ending.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/31681_MISTER_BROOKS.html</url>
+         <critic>Jonathan Rosenbaum</critic>
+      </review>
+      <review>
+         <snippet>Coincidences and plot contrivances pile up. What starts out as a delightful black comedy and social commentary ends up, at best, as a guilty pleasure where I had a hard time sorting out the intentional from the unintentional laughs.</snippet>
+         <url>http://www.nypost.com/seven/06012007/entertainment/movies/too_much_to_ax_movies_lou_lumenick.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>What this movie needed was a leaner narrative focusing on Earl and Marshall while keeping Moore’s character in the background. What we end up with is a goofy and occasionally enjoyable mix of horror, comedy, and action that can’t entirely shed its excess narrative flab.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=10059</url>
+         <critic>Pete Vonder Haar</critic>
+      </review>
+      <review>
+         <snippet>The movie becomes a crazy quilt of competing stories, none of them properly developed. You could cut half the major characters out of Mr. Brooks and never miss them.</snippet>
+         <url>http://www.msnbc.msn.com/id/18986987/site/newsweek/</url>
+         <critic>David Ansen</critic>
+      </review>
+      <review>
+         <snippet>By the time the police come knocking at the front door, Mr. Brooks has exploded from its mild-mannered start into full guignol mode, and would take a defter filmmaker than Evans to steer the tonal shift.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A479269</url>
+         <critic>Marjorie Baumgarten</critic>
+      </review>
+      <review>
+         <snippet>If the movie were just these two (Costner/Hurt), bopping around arguing and offing people, it would have been better than the unholy mess it turns into.</snippet>
+         <url>http://nymag.com/movies/reviews/32378/index1.html</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>The film feels sleazy and nasty --- but without the pulp kick of filmmakers who know how to do sleazy and nasty.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?JSESSIONID=DKmyGcnCpwm5GGdF6QgXph2Lhf4BHnjrzKbtp2hQ3VxlJn0kyDXK!-1450789326&amp;&amp;rid=9291</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>Evans and Gideon never really succeed in selling the idea that serial killing is a disease -- which would require a degree of realism that the slick, over-plotted Mr. Brooks doesn't otherwise aspire to. They seem to be content with occupying the audience with a series of twists and jolts.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-brooks1jun01,0,3390754.story?coll=cl-mreview</url>
+         <critic>Kevin Crust</critic>
+      </review>
+      <review>
+         <snippet>A werewolf movie masquerading as a thriller, it looks like a canny attempt by Bruce A. Evans, its director and screenwriter (with Raynold Gideon), to establish a "Saw"-like franchise using the names of fading ’80s stars to lend the project a semblance of respectability.</snippet>
+         <url>http://movies2.nytimes.com/2007/06/01/movies/01broo.html?ref=movies</url>
+         <critic>Stephen Holden</critic>
+      </review>
+      <review>
+         <snippet>Far-fetched, flimsy and uninvolving.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2007-05-31-mr-brooks_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>There's no meat on this film's borrowed bones: They're polished to an exquisitely tasteful shine, but efforts to class up exploitation are pointless.</snippet>
+         <url>http://www.tvguide.com/movies/mr-brooks/review/287784</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>We'd really like to crawl into William Hurt's head and experience whatever movie he thought HE was making.</snippet>
+         <url>http://www.premiere.com/moviereviews/3847/mr-brooks.html</url>
+         <critic>Eric Alt</critic>
+      </review>
+      <review>
+         <snippet>Bloody disappointing.</snippet>
+         <url>http://www.villagevoice.com/film/0722,wilonsky,76807,20.html</url>
+         <critic>Robert Wilonsky</critic>
+      </review>
+      <review>
+         <snippet>Monumentally terrible but far too bizarre to be boring.</snippet>
+         <url>http://www.laweekly.com/film+tv/film-reviews/movie-reviews-day-watch-mr-brooks-paprika/16531/?page=2</url>
+         <critic>Scott Foundas</critic>
+      </review>
+      <review>
+         <snippet>If plots were people, this obese thing would be cuing up for liposuction. Mr. Brooks may well boast the greediest yarn in the annals of filmdom. One serial killer just doesn't cut it – no fewer than four, actual and potential, pack these frames.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20070601.wbrooks01/BNStory/Entertainment/home</url>
+         <critic>Rick Groen</critic>
+      </review>
+      <review>
+         <snippet>Mr. Brooks manages to be deeply loathsome -- no small feat for a film that's shallowly amateurish.</snippet>
+         <url>http://online.wsj.com/article/SB118065315273720691.html</url>
+         <critic>Joe Morgenstern</critic>
+      </review>
+   </reviews>
+   <US_Gross>$28,476,219</US_Gross>
+   <weekend_gross>$10,017,067</weekend_gross>
+   <number_of_screens>2,453</number_of_screens>
+   <oscar_winning_actors_present/>
+   <num_oscar_winning_actors>1</num_oscar_winning_actors>
+   <oscar_winning_actor>william hurt</oscar_winning_actor>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

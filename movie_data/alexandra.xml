@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Alexandra</name>
+   <company>The Cinema Guild</company>
+   <genres>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author>Aleksandr Sokurov</author>
+   </authors>
+   <directors>
+      <director>Aleksandr Sokurov</director>
+   </directors>
+   <origins>
+      <origin>RussiaFrance</origin>
+   </origins>
+   <actors>
+      <actor>Galina Vishnevskaya</actor>
+      <actor>Vasily Shevtsov</actor>
+      <actor>Raisa Gichaeva</actor>
+   </actors>
+   <release_date>March 26, 2008</release_date>
+   <running_time>95</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>A film of startling originality and beauty -- feels like a communiqué from another time, another place, anywhere but here.</snippet>
+         <url>http://movies.nytimes.com/2008/03/26/movies/26alex.html?ref=movies</url>
+         <critic>Manohla Dargis</critic>
+      </review>
+      <review>
+         <snippet>In the hands of visionary filmmaker Alexander Sokurov, this simple material makes for a haunting drama about war, generational relationships and the human condition.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2008/05/29/DDC110VVNB.DTL&amp;type=movies</url>
+         <critic>Walter Addiego</critic>
+      </review>
+      <review>
+         <snippet>It's unlike any other war film, in any language.</snippet>
+         <url>http://chicago.metromix.com/movies/movie_review/movie-review-alexandra/544619/content</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>Though he's sure to deny it, Alexandra is Alexander Sokurov's most directly political work for years. Featuring a performance of monumental depth by opera legend Galina Vishnevskaya, pic presents war for what it is: brutal, crushing, and ugly, and yet Sokurov doesn't lens any battles.</snippet>
+         <url>http://www.variety.com/index.asp?layout=Cannes2007&amp;jump=review&amp;reviewid=VE1117933763&amp;query=alexandra</url>
+         <critic>Jay Weissberg</critic>
+      </review>
+      <review>
+         <snippet>Never the most optimistic of poets, Sokurov does suggest the possibility of dialogue on the individual level, and the hope that by asking difficult questions of one another, these mortal enemies can find answers and reach an understanding everyone can live with.</snippet>
+         <url>http://www.tvguide.com/movies/alexandra/review/293085</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>Alexandra is a pleasure to watch, but it's also one of those lovely, unclassifiable movies that flourishes better with repeated or prolonged exposures.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=11732</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>The point is that for the soldiers, it's a dead zone, life on hold, a cheerless existence. And this plain-spoken old woman reminds them of a lifetime they are missing.</snippet>
+         <url>http://www.rogerebert.com/apps/pbcs.dll/article?AID=/20080807/REVIEWS/808070301/1023</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>On its deepest level it considers not a particular war but the complex feelings between mothers and the young men they send out into the world to kill or be killed.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/33405_ALEXANDRA.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>The luminous humanity that characterizes the films of Alexander Sokurov is in full force in Alexandra. On the surface, it is a work of the utmost simplicity but is charged with the eternal complexities and contradictions of both love and war.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-alexandra11apr11,0,5283320.story</url>
+         <critic>Kevin Thomas</critic>
+      </review>
+      <review>
+         <snippet>Spare yet tactile, a mysterious mixture of lightness and gravity, Alexander Sokurov's Alexandra is founded on contradiction. Musing on war in general and the Russian occupation of Chechnya in particular, this is a movie in which combat is never shown.</snippet>
+         <url>http://www.villagevoice.com/film/0813,army-of-one,389076,20.html</url>
+         <critic>J. Hoberman</critic>
+      </review>
+      <review>
+         <snippet>Alexandra never depicts the soldiers in combat, but Sokurov nonetheless shows how war can break down the social structure, break down family, break the human soul.</snippet>
+         <url>http://www.philly.com/inquirer/columnists/steven_rea/20080502_An_unusual_antiwar_picture.html</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>The frequent, mundane talks -- which Alexandra engages in with her grandson, Malika and the base camp's enlisted men -- are not so much about politics as they are about people.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1143061&amp;categories=Movies&amp;nm=1</url>
+         <critic>Michael O&amp;#039;Sullivan</critic>
+      </review>
+      <review>
+         <snippet>The contrast of a warm maternal figure and a remote army outpost is undeniably affecting. But when Vishnevskaya opens her mouth, she spoils the mood.</snippet>
+         <url>http://www.avclub.com/content/cinema/alexandra</url>
+         <critic>Noel Murray</critic>
+      </review>
+   </reviews>
+   <US_Gross>$124,085</US_Gross>
+   <weekend_gross>$9,401</weekend_gross>
+   <number_of_screens>1</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

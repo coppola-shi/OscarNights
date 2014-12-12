@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Trade</name>
+   <company>Roadside Attractions</company>
+   <genres>
+      <genre>Crime</genre>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author>Peter Landesman</author>
+      <author>Jose Rivera</author>
+   </authors>
+   <directors>
+      <director>Marco Kreuzpaintner</director>
+   </directors>
+   <origins>
+      <origin>GermanyUSA</origin>
+   </origins>
+   <actors>
+      <actor>Kevin Kline</actor>
+      <actor>Alicja Bachleda-Curus</actor>
+      <actor>Paulina Gaitan</actor>
+      <actor>Kathleen Gati</actor>
+      <actor>Pavel Lychnikoff</actor>
+      <actor>Anthony Crivello</actor>
+      <actor>Linda Emond</actor>
+      <actor>Zack Ward</actor>
+   </actors>
+   <release_date>September 28, 2007</release_date>
+   <running_time>119</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>Trade unflinchingly sheds light on a heinous crime. Yes, it's tough to sit through. But don't let that keep you away.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2007-09-27-also-opening_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>Though it's ostensibly a thriller, Trade constantly works against the conventions of its genre in a rather audacious way -- finding, for instance, surprising moments of humanity in even the most monstrous of its villains.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/333410_trade28q.html</url>
+         <critic>William Arnold</critic>
+      </review>
+      <review>
+         <snippet>Trade works fairly well as a thriller ticking down to Adriana's auction. It's less assured when it strains for some buddy picture chemistry between Ramos and Kline. Though both actors are fine, with Ramos' performance being reminiscent of some of Diego Luna's English-language roles, the attempts at humor to ease the tension between Jorge and Ray and some of the speechifying are out of tune with the rest of the film.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-trade28sep28,0,3540163.story</url>
+         <critic>Kevin Crust</critic>
+      </review>
+      <review>
+         <snippet>As a movie, Trade is so-so, but as an exposé of how the new globalized industry of sex trafficking really works, it's a disquieting, eye-opening bulletin.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20058686,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>Trade comes off like TV-movie sensationalism, sidetracked by distracting backstories and hard-to-swallow plot twists.</snippet>
+         <url>http://www.philly.com/inquirer/columnists/steven_rea/20070928_Trade____1_2.html</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>Trade's wake-up call needs to be heeded, but its missteps detract from its devastating message.</snippet>
+         <url>http://www.miamiherald.com/1054/story/251926.html</url>
+         <critic>Connie Ogle</critic>
+      </review>
+      <review>
+         <snippet>The story's incredible coincidences, lazy cynicism and easy ironies recast a real-life horror story as easy-to-dismiss melodrama, complete with sequential "happy" endings.</snippet>
+         <url>http://www.tvguide.com/movies/trade/review/289329</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>An eagerly prurient dip into the sex-trafficking trough, Trade teeters between earnest exposé and salacious melodrama. Minus the film’s near-visible weight of conscience, success in the second category would have been virtually guaranteed.</snippet>
+         <url>http://movies.nytimes.com/2007/09/28/movies/28trad.html</url>
+         <critic>Jeannette Catsoulis</critic>
+      </review>
+      <review>
+         <snippet>It points a determined finger (a middle finger, almost) at law enforcement, which cannot or will not recognize kidnapping victims in our midst, especially if they are undocumented and brown-skinned.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A542916</url>
+         <critic>Marrit Ingman</critic>
+      </review>
+      <review>
+         <snippet>The story of the victims on the road is harrowing, but the tale of the kind cop and the teenager with an attitude is a string of big brother clichés.</snippet>
+         <url/>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>But improbable situations, heavy reliance on coincidence and an improbable climax nearly tip the film into TV-movie territory.</snippet>
+         <url>http://www.nypost.com/seven/09282007/entertainment/movies/o_sister__where_art_thou_.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>With a movie of this sort, the viewer expects to undergo something grueling and disturbing. Trade's inability to deliver that sort of visceral experience makes it unworthy of anyone's hard-earned dollars.</snippet>
+         <url>http://www.reelviews.net/movies/t/trade.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>Trade is a pulpy Hollywood-style melodrama disguised as a harrowing message movie about Important Social Issues. It labors under the delusion that it's this year's revelatory, eye-opening Maria Full Of Grace, when it's little more than a B-movie with an overwrought conscience.</snippet>
+         <url>http://www.avclub.com/content/cinema/trade</url>
+         <critic>Nathan Rabin</critic>
+      </review>
+      <review>
+         <snippet>Human trafficking is an awful societal issue, and Trade happens to be an awful movie about human trafficking.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=9224</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>You end up with a movie that takes that real problem and makes it feel like an exploitation contrivance.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/119082752231470.xml&amp;coll=7</url>
+         <critic>M. E. Russell</critic>
+      </review>
+      <review>
+         <snippet>Kline gives an interesting performance playing against type, but with its action plotting and sensationalistic scenes of women being brutalized, the movie often seems to be exploiting as much as illuminating the problem.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/32141_TRADE.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>Trade is an earnest attempt to dramatize the network of Internet sex "tunnels." Unfortunately, the film's horrific and important subject matter is distilled into a lackluster lump of generic buddy-movie/road-picture components.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?&amp;rid=8678</url>
+         <critic>Duane Byrge</critic>
+      </review>
+      <review>
+         <snippet>Little more than a slipshod, trashy, sometimes exploitative thriller.</snippet>
+         <url>http://www.variety.com/index.asp?layout=features2007&amp;content=jump&amp;jump=review&amp;dept=berlin&amp;nav=RBerlin&amp;articleid=VE1117932563&amp;cs=1&amp;p=0</url>
+         <critic>Robert Koehler</critic>
+      </review>
+      <review>
+         <snippet>It's pure exploitation--the kind of movie after which you need a long, hot shower. German director Marco Kreuzpaintner's movie looks like "Traffic" and "Syriana"--clearly his role models--but is little more than our generation's version of 1979's "Hardcore."</snippet>
+         <url>http://www.villagevoice.com/film/0739,wilonsky,77878,20.html</url>
+         <critic>Robert Wilonsky</critic>
+      </review>
+      <review>
+         <snippet>By introducing silly elements into a serious endeavor, the filmmakers undercut their own movie. In the end, we're watching a somewhat exploitative movie about exploitation.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1124304&amp;categories=Movies&amp;nm=1</url>
+         <critic>Desson Thomson</critic>
+      </review>
+      <review>
+         <snippet>Trade is a total misfire, a strange attempt at making a buddy movie featuring a morose Kevin Kline and a 17-year-old Mexican boy looking for his kidnapped sister.</snippet>
+         <url>http://sfgate.com/cgi-bin/article.cgi?f=/c/a/2007/09/28/DD2VSEMQT.DTL#flick4</url>
+         <critic>G. Allen Johnson</critic>
+      </review>
+      <review>
+         <snippet>Anything that holds our interest can be entertaining, in a way, but the movie seems to have an unwholesome determination to show us the victims being terrified and threatened. When I left the screening, I just didn't feel right.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20070927/REVIEWS/709270304/1023</url>
+         <critic>Roger Ebert</critic>
+      </review>
+   </reviews>
+   <US_Gross>$214,202</US_Gross>
+   <weekend_gross>$118,086</weekend_gross>
+   <number_of_screens>90</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

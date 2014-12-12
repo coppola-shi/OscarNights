@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Shooter</name>
+   <company>Paramount Pictures</company>
+   <genres>
+      <genre>Action</genre>
+      <genre>Drama</genre>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>Jonathan Lemkin</author>
+      <author>Stephen Hunter</author>
+   </authors>
+   <directors>
+      <director>Antoine Fuqua</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Mark Wahlberg</actor>
+      <actor>Michael Peña</actor>
+      <actor>Danny Glover</actor>
+      <actor>Kate Mara</actor>
+      <actor>Elias Koteas</actor>
+      <actor>Rhona Mitra</actor>
+      <actor>Jonathan Walker</actor>
+      <actor>Justin Louis</actor>
+   </actors>
+   <release_date>March 23, 2007</release_date>
+   <running_time>122</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>Shooter is a generically titled studio action picture that turns out to be a surprisingly deft satire about Americans' loss of faith in their government following the 2000 election, the 9/11 attacks, and the ensuing wars in Afghanistan and Iraq.</snippet>
+         <url>http://www.villagevoice.com/film/0712,foundas,76134,20.html</url>
+         <critic>Scott Foundas</critic>
+      </review>
+      <review>
+         <snippet>Shooter does what any good thriller should accomplish - it thrills. It's fast-paced, energetic, and doesn't follow a path that seems pre-ordained from the beginning.</snippet>
+         <url>http://www.reelviews.net/movies/s/shooter.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>Wahlberg acquits himself well, and the supporting cast -- which includes pioneering rocker Levon Helm in a scene-stealing cameo as an aging gun buff who knows a thing or two about cover-ups, Ned Beatty as a corrupt politician, and a Strangelovian Rade Serbedzija -- is so strong you almost wish the film were longer so they could have more screen time.</snippet>
+         <url>http://www.tvguide.com/detail/movie.aspx?tvobjectid=286404&amp;more=ucmoviereview</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>The movie's politics may miss their mark, but its thrills are dead-on.</snippet>
+         <url>http://ae.miami.com/entertainment/ui/miami/movie.html?id=830189&amp;reviewId=22354</url>
+         <critic>Peter Debruge</critic>
+      </review>
+      <review>
+         <snippet>Unravels a bit heading toward its finale, as buildings explode and characters are forced to explain themselves and their nefarious motives. But the payoff at the end - at once kind of radical and gratuitous - delivers a wallop.</snippet>
+         <url>http://www.philly.com/inquirer/columnists/steven_rea/20070323_A_good_soldier__suitable_for_framing.html</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>Wahlberg could be the actor that action movies have been looking for since Sly, Arnold, Harrison, Bruce, Jackie and Jean-Claude -- all in their 50s or 60s -- got too old to execute the leg lifts necessary to kick bad guys in the butt.</snippet>
+         <url>http://www.time.com/time/arts/article/0,8599,1602333,00.html</url>
+         <critic>Richard Corliss</critic>
+      </review>
+      <review>
+         <snippet>If the movie only lavished as much thought and care on its characters as it does on each intricate set piece, Shooter might have been a classic.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?&amp;rid=8949</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>Carrying Shooter through its difficulties is, finally, not its crisp action sequences and definitely not the torture. It's Wahlberg's performance, which is the film's most old-fashioned element, and its best.</snippet>
+         <url>http://www.calendarlive.com/printedition/calendar/cl-et-shooter23mar23,0,3146072.story</url>
+         <critic>Kenneth Turan</critic>
+      </review>
+      <review>
+         <snippet>This maximalist approach can tax the nerves, though it has the benefit of keeping you on alert. It’s also pretty enjoyable. Mr. Fuqua, who happens to be surprisingly good with actors, does have a knack for chaos.</snippet>
+         <url>http://movies2.nytimes.com/2007/03/23/movies/23shooter.html?ref=movies</url>
+         <critic>Manohla Dargis</critic>
+      </review>
+      <review>
+         <snippet>It's a story that can be transplanted from genre to genre, because we never grow tired of it, which is to say that it fits snugly into the paranoid drift of American movies, and the value we place on one honest man with a gun.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1127325&amp;categories=Movies&amp;nm=1</url>
+         <critic>Scott Eyman</critic>
+      </review>
+      <review>
+         <snippet>The timing couldn't be better for a thriller that focuses on assassination, international war scandals and U.S. agencies of enormous influence and wildly varying competence.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-to.shooter23mar23,0,1332978.story?coll=bal-artslife-movies</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>A stylish but essentially businesslike smash-and-crasher.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=8989</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>Like most modern action films, Shooter is too explicit, more interested in mayhem than motive.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20070323.wshooter23/BNStory/Entertainment/home</url>
+         <critic>Stephen Cole</critic>
+      </review>
+      <review>
+         <snippet>It does move along at a nice clip, and delivers exactly what belligerent action fans on both sides of the political aisle want -- a wholly admirable figure blowing up a lot of bad s---.</snippet>
+         <url>http://www.premiere.com/moviereviews/3637/shooter.html</url>
+         <critic>Glenn Kenny</critic>
+      </review>
+      <review>
+         <snippet>Suspended over a deep gully of disbelief, where logic takes more bullets than the bad guys, Shooter still makes the grade as hard-ass action escapism.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/9542055/review/13891582/shooter</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>The paranoia is as thick and luscious as that Reddi-wip, and it's served from both left and right.</snippet>
+         <url>http://www.nypost.com/seven/03232007/entertainment/movies/sniper_rash_movies_kyle_smith.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>An immediately involving yarn of an ace Marine sharpshooter set up to take the fall for an attempted presidential assassination, picture saddles itself with stereotypical villains, hokey contrivances and too-expedient crisis solutions.</snippet>
+         <url>http://www.variety.com/review/VE1117933168.html?categoryid=31&amp;cs=1</url>
+         <critic>Todd McCarthy</critic>
+      </review>
+      <review>
+         <snippet>The picture might be entertaining if it didn't take itself so seriously.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2007/03/23/shooter/index.html</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>The film has about five endings, each sillier than the next. Before it's over, the business end of that sniper rifle looks kind of inviting.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/1174506928223060.xml&amp;coll=7</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>Though much of the action in Shooter is beautifully photographed, the movie's force is as a blunt instrument of metaphor. Shooter is a video-game-fantasy version of the 2006 midterm elections, a howl of rage at the hypocrisy of the Bush presidency and the Iraq war.</snippet>
+         <url>http://www.slate.com/id/2162469/fr/flyout</url>
+         <critic>Dana Stevens</critic>
+      </review>
+      <review>
+         <snippet>This is the first big-studio action picture with some of the disgusted, bloody nihilism of the post-Vietnam era.</snippet>
+         <url>http://nymag.com/movies/reviews/29711/index1.html</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>A virtual textbook of action clichés.</snippet>
+         <url>http://www.newyorker.com/arts/critics/cinema/2007/04/02/070402crci_cinema_denby</url>
+         <critic>David Denby</critic>
+      </review>
+      <review>
+         <snippet>An intermittently preposterous, drawn-out but sometimes entertaining story about an unstoppable ex-Marine.</snippet>
+         <url>http://ae.miami.com/entertainment/ui/miami/movie.html?id=830189&amp;reviewId=22351</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>Starts out OK, but then almost seems to be intentionally going for humor.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2007/03/23/DDGSLOOIP122.DTL&amp;type=movies</url>
+         <critic>Peter Hartlaub</critic>
+      </review>
+      <review>
+         <snippet>If this were a more serious film, its cynicism about the U.S. government would put it in a league with "The Manchurian Candidate." But it is simply an Arnold Schwarzenegger action flick with bantamweight Wahlberg doing the heavy lifting for the preoccupied Governator.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2007/03/23/2007-03-23_shooter_just_a_bbpicture.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>The story is often ridiculous, but director Antoine Fuqua provides plenty of fun distractions.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/31289_SHOOTER.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>Despite gripping chase sequences and a few awe-inspiring fiery explosions, gaping holes in the convoluted plot make Shooter heavier on style than substance.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2007-03-22-shooter_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>A screwy assassination thriller for these murky times, it takes half its pages from Soldier of Fortune and the other half from links provided by conspiracytheories-zapoppin.org.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-070323-movies-review-shooter,0,3800252.story?coll=mmx-movies_top_heds</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>The ultimate crime of this paranoid enemy-of-the-state pulp, directed with more style than brains by Antoine Fuqua (Training Day), is how dull it is.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20015581,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>Fuqua keeps the action moving efficiently, but he doesn't know when to stop piling it on, and eventually, Wahlberg's army of one becomes more a comic-book vigilante than a righteously disgruntled patriot.</snippet>
+         <url>http://www.avclub.com/content/cinema/shooter</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>The result is lots of gunplay and explosions governed by little logic.</snippet>
+         <url/>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>Sylvester Stallone is filming a new episode of his "Rambo" action series, but Mark Wahlberg has beaten him to the punch with Shooter, a preposterous gut buster that follows the formula so closely it would probably lose a plagiarism suit.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/308619_shooter23q.html</url>
+         <critic>William Arnold</critic>
+      </review>
+      <review>
+         <snippet>Less subversive and infinitely less intelligent than 1999’s Wahlberg-starrer "Three Kings," this movie does blow lots of s--- up real good and punish contemptible public figures otherwise left unaccountable for massacring African villagers.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A457612</url>
+         <critic>Marrit Ingman</critic>
+      </review>
+   </reviews>
+   <US_Gross>$47,003,582</US_Gross>
+   <production_budget>$60,000,000</production_budget>
+   <weekend_gross>$14,523,571</weekend_gross>
+   <number_of_screens>2,806</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

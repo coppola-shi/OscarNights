@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Sukiyaki Western Django</name>
+   <company>First Look Studios</company>
+   <genres>
+      <genre>Action</genre>
+      <genre>Western</genre>
+   </genres>
+   <authors>
+      <author>Takashi Miike</author>
+      <author>Masa Nakamura</author>
+   </authors>
+   <directors>
+      <director>Takashi Miike</director>
+   </directors>
+   <origins>
+      <origin>Japan</origin>
+   </origins>
+   <actors>
+      <actor>Hideaki Ito</actor>
+      <actor>Koichi Sato</actor>
+      <actor>Yusuke Iseya</actor>
+      <actor>Quentin Tarantino</actor>
+      <actor>Masanobu Ando</actor>
+      <actor>Takaaki Ishibashi</actor>
+      <actor>Yoshino Kimura</actor>
+      <actor>Teruyuki Kagawa</actor>
+   </actors>
+   <release_date>August 29, 2008</release_date>
+   <running_time>121</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>Once you get past the question of why someone would make a movie this artificial in the first place and move on to the answer (purely for the hell of it), Sukiyaki Western Django is a blood-drenched, dynamite, often hilarious and uniquely weird big-screen entertainment.</snippet>
+         <url>http://www.salon.com/ent/movies/btm/feature/2008/08/28/sukiyaki/</url>
+         <critic>Andrew O&amp;#039;Hehir</critic>
+      </review>
+      <review>
+         <snippet>The ideal viewer is a Miike fan...You know who you are.</snippet>
+         <url>http://movies.tvguide.com/sukiyaki-western-django/review/295110</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>While it is a glossy crowd pleaser, it still has a few typically off the wall, classic Miike touches.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=11075</url>
+         <critic>Mariko McDonald</critic>
+      </review>
+      <review>
+         <snippet>Loses some of its appeal once the novelty of Miike's conceptual shenanigans wears off.</snippet>
+         <url>http://www.avclub.com/content/cinema/sukiyaki_western_django</url>
+         <critic>Sam Adams</critic>
+      </review>
+      <review>
+         <snippet>This delirious spaghetti eastern could only have come from the boiling brain of Takashi Miike, the prolific Japanese auteur whose spectacularly uneven films account for the lion's share of the past decade's most utterly batshit movie moments.</snippet>
+         <url>http://www.villagevoice.com/2008-08-27/film/sukiyaki-western-django/</url>
+         <critic>Jim Ridley</critic>
+      </review>
+      <review>
+         <snippet>More often there is a frantic, compulsive quality to the action. Fanboy intoxication with the idea of formal ingenuity too often stands in for the thing itself.</snippet>
+         <url>http://movies.nytimes.com/2008/08/29/movies/29djan.html</url>
+         <critic>A.O. Scott</critic>
+      </review>
+      <review>
+         <snippet>Basic joke wears off after five minutes, and many bystanders will start to head out of town. But genre/Asian buffs prepared to ride shotgun for two hours will be rewarded with some classy action sequences and densely accoutred widescreen lensing.</snippet>
+         <url>http://www.variety.com/review/VE1117934727.html?categoryid=31&amp;cs=1&amp;p=0</url>
+         <critic>Derek Elley</critic>
+      </review>
+      <review>
+         <snippet>Darkly funny (par for the course with Miike), visually stunning and full of references to other films.</snippet>
+         <url>http://www.nypost.com/seven/08292008/entertainment/movies/east_meets_eastwood_for_a_fistful_of_yen_126547.htm</url>
+         <critic>V.A. Musetto</critic>
+      </review>
+      <review>
+         <snippet>Speaking of Tarantino, who should never be allowed to act under any circumstance, he's cast in a key storytelling role, and it's one indication among many that the whole project is little more than a stunt.</snippet>
+         <url>http://www.csmonitor.com/2008/0830/p25s04-almo.html</url>
+         <critic>Robert Koehler</critic>
+      </review>
+      <review>
+         <snippet>In the world of pulp movies, where horror, westerns and Asian exploitation borrow and blend with each other, there's a point where the cross-genre mishmash begins to feel like gobbledegook. That's definitely the case with Sukiyaki Western Django.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20080918.wsukiyaki19/BNStory/Entertainment/home</url>
+         <critic>Liam Lacey</critic>
+      </review>
+      <review>
+         <snippet>Director Takashi Miike's dish of sukiyaki spaghetti ala Sergio Corbucci is badly seasoned with scraps of reservoir dogs.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/381526_suzuki03q.html</url>
+         <critic>Bill White</critic>
+      </review>
+      <review>
+         <snippet>A lightweight goof that feels a little dashed-off.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2008/08/28/2008-08-28_short_takes_movie_reviews_for_the_weeken.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>Not even a brief appearance by Quentin Tarantino and a ton of references to other movies enlivens the proceedings much.</snippet>
+         <url>http://www.latimes.com/entertainment/news/reviews/la-et-capsules12-2008sep12,0,6456078.story</url>
+         <critic>Kevin Thomas</critic>
+      </review>
+   </reviews>
+   <US_Gross>$50,659</US_Gross>
+   <weekend_gross>$9,856</weekend_gross>
+   <number_of_screens>1</number_of_screens>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>true</labor_release>
+</movie>

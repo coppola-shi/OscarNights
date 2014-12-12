@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Mrs. Henderson Presents</name>
+   <company>The Weinstein Company LLC</company>
+   <genres>
+      <genre>Comedy</genre>
+      <genre>Drama</genre>
+      <genre>Foreign</genre>
+   </genres>
+   <authors>
+      <author>Martin Sherman</author>
+   </authors>
+   <directors>
+      <director>Stephen Frears</director>
+   </directors>
+   <origins>
+      <origin>UK</origin>
+   </origins>
+   <actors>
+      <actor>Judi Dench</actor>
+      <actor>Bob Hoskins</actor>
+      <actor>Will Young</actor>
+      <actor>Kelly Reilly</actor>
+      <actor>Thelma Barlow</actor>
+      <actor>Christopher Guest</actor>
+   </actors>
+   <release_date>December 9, 2005</release_date>
+   <running_time>103</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>Marvelously enjoyable.</snippet>
+         <url>http://www.csmonitor.com/2005/1209/p25s01-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>It offers a feel-good experience, but without the heavy dose of schmaltz that often accompanies such a production.</snippet>
+         <url>http://movie-reviews.colossus.net/movies/m/mrs_henderson.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>Constantly battling, Hoskins and Dench have terrific chemistry together.</snippet>
+         <url>http://www.nypost.com/movies/59225.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>A dear film, sentimental and fond, full of beautifully acted British resolve.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-060113-movies-review-henderson,0,3801451.story?coll=mmx-movies_top_heds</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>It's funny, touching and crammed to the rafters with clever dialogue, splashy production numbers and stiff-upper-lip charm.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/255463_henderson13q.html</url>
+         <critic>William Arnold</critic>
+      </review>
+      <review>
+         <snippet>A humorous bounty of flesh and fantasy.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-to.henderson03feb03,1,303870.story?coll=bal-artslife-movies</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>This is a shimmery beaded curtain of a movie, a slight, charming picture that's almost all facade. But what a facade!</snippet>
+         <url>http://www.salon.com/ent/movies/review/2005/12/09/henderson/index.html</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>An absolute delight from start to finish.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1001096960</url>
+         <critic>Michael Rechtshaffen</critic>
+      </review>
+      <review>
+         <snippet>One of the wittiest comedies to come our way in a very long time.</snippet>
+         <url/>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>Just as there will always be an England, there will always be a certain kind of English film: the highly polished entertainment, well-acted, genteelly amusing and impeccably turned out.
+Mrs. Henderson Presents is the latest example of the trend and an especially satisfying one.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-henderson9dec09,0,6998780.story</url>
+         <critic>Kenneth Turan</critic>
+      </review>
+      <review>
+         <snippet>A shameless crowd-pleaser.</snippet>
+         <url>http://www.msnbc.msn.com/id/10414367/site/newsweek/</url>
+         <critic>David Ansen</critic>
+      </review>
+      <review>
+         <snippet>The result is an admittedly minor, but authentic, holiday treat.</snippet>
+         <url>http://www.time.com/time/magazine/article/0,9171,1139824-3,00.html</url>
+         <critic>Richard Schickel</critic>
+      </review>
+      <review>
+         <snippet>Mrs. Henderson hits all its marks, well-worn though they be, and Dench fans will once more find themselves glorying in her reckless spirit.</snippet>
+         <url>http://dallasobserver.com/Issues/2006-01-12/film/film.html</url>
+         <critic>Bill Gallo</critic>
+      </review>
+      <review>
+         <snippet>Say what you will about feel-good films anchored by feisty old broads, the English have a knack with them and Stephen Frears' fact-based tale of a formidable, aristocratic widow who makes it her mission to put naked girls on the London stage is delightful.</snippet>
+         <url>http://online.tvguide.com/movies/database/ShowMovie.asp?MI=46587</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>It's a slight story to be sure, but the pleasures of Mrs. Henderson Presents lie less with the narrative and more with the film's tone and the dynamic duo of Dench and Hoskins.</snippet>
+         <url>http://www.premiere.com/article.asp?section_id=2&amp;article_id=2448</url>
+         <critic>Ethan Alter</critic>
+      </review>
+      <review>
+         <snippet>Has an old-fashioned feel, as if it had been made in the period of its setting. I mean this as a compliment.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?file=/c/a/2005/12/24/DDGQIF5PT31.DTL&amp;type=movies</url>
+         <critic>Ruthe Stein</critic>
+      </review>
+      <review>
+         <snippet>Mrs. Henderson Presents is not great cinema, and neither was the Windmill great theater, but they both put on a good show.</snippet>
+         <url>http://www.rogerebert.com/apps/pbcs.dll/article?AID=/20060112/REVIEWS/51213005/1023</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>Unlike its subject, "Henderson" breaks no new ground. But like its reliable star, it's a welcome exponent of a valued tradition.</snippet>
+         <url>http://ae.charlotte.com/entertainment/ui/charlotte/movie.html?id=452002&amp;reviewId=20046&amp;startDate=NEXT7</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>Mrs. Henderson Presents is a very old hat, and Judi Dench wears it beautifully.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=8144</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>Never has the sight of naked women been so innocent.</snippet>
+         <url>http://ae.miami.com/entertainment/ui/miami/movie.html?id=452002&amp;reviewId=19965</url>
+         <critic>Connie Ogle</critic>
+      </review>
+      <review>
+         <snippet>Humor and warmth abound in Mrs. Henderson Presents.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1106229&amp;lat=200.0&amp;lon=200.0&amp;displaySearchLocation=&amp;nm=1&amp;categories=Movies</url>
+         <critic>Ann Hornaday</critic>
+      </review>
+      <review>
+         <snippet>Posh meets prole in this period drama elegantly directed by Stephen Frears (Dangerous Liaisons, Prick Up Your Ears).</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/capsules/28709_MISSUS_HENDERSON_PRESENTS</url>
+         <critic>Andrea Gronvall</critic>
+      </review>
+      <review>
+         <snippet>In Mrs. Henderson Presents, Bob Hoskins lets it all hang out.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=8282</url>
+         <critic>K.J. Doughton</critic>
+      </review>
+      <review>
+         <snippet>This is Dame Judi's show. However extraordinary an actor she may be, she cannot conceal the obvious fact that she's having the time of her life here. Isn't that delicious?</snippet>
+         <url>http://www.villagevoice.com/film/0549,morales,70722,20.html</url>
+         <critic>Jorge Morales</critic>
+      </review>
+      <review>
+         <snippet>Poking fun at uptight British civility has long been a monocle-shattering comedic staple, and Mrs. Henderson Presents gets by for a while on its genial naughtiness.</snippet>
+         <url>http://avclub.com/content/node/43281</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>Dench deserves better, and unfortunately it will probably be a long time before she gets another starring role in a movie custom-made for an actress her age.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A333293</url>
+         <critic>Marjorie Baumgarten</critic>
+      </review>
+      <review>
+         <snippet>In its juxtaposition of voluptuous nudity with the horrors of war, in its evocation of idealized beauty draped like gods and goddesses of Grecian art, the film invokes classical ideas about how the life force asserts itself most aggressively in the face of death.</snippet>
+         <url>http://ae.philly.com/entertainment/ui/philly/movie.html?id=452002&amp;reviewId=19897</url>
+         <critic>Carrie Rickey</critic>
+      </review>
+      <review>
+         <snippet>The subplot involving a tragic romance between a soldier and one of the living statues (the lovely Kelly Reilly) is hell on the humor and on a movie that stays content to do the trite thing.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/_/id/7371437/rid/9118161/</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>The picture is as tastefully pretty as its girls, and just as motionless.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/ArticleNews/TPStory/LAC/20051223/HENDERSON23/TPEntertainment/Film</url>
+         <critic>Rick Groen</critic>
+      </review>
+      <review>
+         <snippet>This genteel confection skews toward older audiences - those who go for "Calendar Girls," "Ladies in Lavender" and "Mrs. Brown."</snippet>
+         <url>http://www.nydailynews.com/12-09-2005/entertainment/col/story/373230p-317179c.html</url>
+         <critic>Jami Bernard</critic>
+      </review>
+      <review>
+         <snippet>A bigscreen feature executed with a cookie-cutter small-screen sensibility, this often charming but untextured fact-based period piece is buoyed along by the redoubtable Judi Dench.</snippet>
+         <url>http://www.variety.com/ac2006_review/VE1117928134?nav=reviews&amp;categoryid=1986&amp;cs=1&amp;s=h&amp;p=0</url>
+         <critic>David Rooney</critic>
+      </review>
+      <review>
+         <snippet>Watching this reasonably funny, professionally assembled calculation is a little like snuggling up in front of the television with a mug of hot cocoa and a warm blanket. Those who prefer their drinks and recreation spiked would do well to look elsewhere.</snippet>
+         <url>http://movies2.nytimes.com/2005/12/09/movies/09hend.html</url>
+         <critic>Manohla Dargis</critic>
+      </review>
+      <review>
+         <snippet>A rather schizophrenic comedy that gives respected performers Dame Judi Dench and Bob Hoskins a chance to show they don't take themselves too seriously.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/113882731416720.xml&amp;coll=7</url>
+         <critic>Marc Mohan</critic>
+      </review>
+      <review>
+         <snippet>This makes for a friendly romp, and also a dull one.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1138549_1_0_,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>Stephen Frears has had more downs than ups of late, but I would never have thought the man responsible for "My Beautiful Laundrette" and "The Grifters" capable of stooping to pap as pappy as this unbearably chipper take on the real-life story of Laura Henderson.</snippet>
+         <url>http://www.laweekly.com/film/film_results.php?showid=3687&amp;Sumbit.x=40&amp;Sumbit.y=11</url>
+         <critic>Ella Taylor</critic>
+      </review>
+      <review>
+         <snippet>It says something that during a scene in which nude chorines are turned into a fleshy backdrop, you spend as much time looking at your watch as what's on screen.</snippet>
+         <url>http://www.usatoday.com/life/movies/news/2005-12-08-mrs-henderson_x.htm</url>
+         <critic>Mike Clark</critic>
+      </review>
+   </reviews>
+   <US_Gross>$11,036,366</US_Gross>
+   <production_budget>$20,000,000</production_budget>
+   <weekend_gross>$55,344</weekend_gross>
+   <number_of_screens>6</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

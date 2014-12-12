@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Sin Nombre</name>
+   <company>Focus Features</company>
+   <genres>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>Cary Joji Fukunaga</author>
+   </authors>
+   <directors>
+      <director>Cary Joji Fukunaga</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Paulina Gaitan</actor>
+      <actor>Edgar Flores</actor>
+      <actor>Kristyan Ferrer</actor>
+      <actor>Tenoch Huerta Mejía</actor>
+      <actor>Diana Garcia</actor>
+      <actor>Luis Ferno Pena</actor>
+      <actor>Hector Jimenez</actor>
+   </actors>
+   <release_date>March 20, 2009</release_date>
+   <running_time>96</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>Mr. Fukanaga's purpose is to evoke the immigrants' experience, which he does with such eloquence and power as to inspire awe.</snippet>
+         <url>http://online.wsj.com/article/SB123750034926389145.html</url>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>That this is Fukunaga's first film is astonishing, given its sharp script, technical proficiency and suspenseful pacing. The ensemble cast is top-notch.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2009-03-19-nombre-review_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>It contains risk, violence, a little romance, even fleeting moments of humor, but most of all, it sees what danger and heartbreak are involved. It is riveting from start to finish.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20090401/REVIEWS/904019992</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>An elegant, heartbreaking fable, equal parts Shakespearean tragedy, neo-Western and mob movie but without the pretension of those genres.</snippet>
+         <url>http://www.washingtonpost.com/gog/movies/sin-nombre,1156092.html</url>
+         <critic>Dan Zak</critic>
+      </review>
+      <review>
+         <snippet>Thrilling and beautifully crafted.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20090402.wnombre0403/BNStory/Entertainment/home</url>
+         <critic>Jennie Punter</critic>
+      </review>
+      <review>
+         <snippet>Writer-director Cary Fukunaga keeps the story lean while peppering it with realistic details.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/critic.html#34245</url>
+         <critic>Andrea Gronvall</critic>
+      </review>
+      <review>
+         <snippet>More substantive than the average thriller/road movie.</snippet>
+         <url>http://www.reelviews.net/php_review_template.php?identifier=1564</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>Forceful, heart-wrenching stuff.</snippet>
+         <url>http://www.philly.com/philly/entertainment/movies/20090410_Stark_brutality_of_crossing_the_border.html</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>Forget those weepie liberal clichés. This starless and vividly authentic romantic thriller set in Central America really rocks, and is one of the most exciting directorial debuts in years.</snippet>
+         <url>http://www.nypost.com/seven/03202009/entertainment/no_namers_give_film_good_name_160366.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>The cinematic gloss serves to heighten our involvement in the tale, and to mark Fukunaga as a talent to be reckoned with.</snippet>
+         <url>http://www.oregonlive.com/movies/index.ssf/2009/04/review_crossing_borders_in_sin.html</url>
+         <critic>Marc Mohan</critic>
+      </review>
+      <review>
+         <snippet>There is bitter and breathtaking truth in the story and in the story- telling, which won Fukunaga the directing and cinematography award in the dramatic competition at the Sundance Film Festival.</snippet>
+         <url>http://www.latimes.com/entertainment/la-et-sinnombre20-2009mar20,0,5415492.story</url>
+         <critic>Betsy Sharkey</critic>
+      </review>
+      <review>
+         <snippet>Fukunaga refrains from artificially amping up excitement for its own sake, maintaining an intimate, observational style that offers up a host of things to look at and think about.</snippet>
+         <url>http://www.variety.com/review/VE1117939380.html?categoryid=31&amp;cs=1&amp;query=sin+nombre</url>
+         <critic>Todd McCarthy</critic>
+      </review>
+      <review>
+         <snippet>There are some brief minutes when the tension drops and the story starts to sag, but Fukunaga almost always fills the frame with something worth seeing, and the story has a built-in suspense.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2009/03/19/DDB116IUG7.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>Fukunaga has a fine, spacious film sense and a gift for action, but the doomy, heavy-handed plot devices and overwrought, overacted gangland set pieces betray a novice's hand.</snippet>
+         <url>http://www.csmonitor.com/2009/0321/p25s04-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>What keeps the movie from tipping into full-blown exploitation like "City of God," which turns third-world misery into art-house thrills, is Mr. Fukunaga's sincerity. What keeps you watching is his superb eye.</snippet>
+         <url>http://movies.nytimes.com/2009/03/20/movies/20nomb.html</url>
+         <critic>Manohla Dargis</critic>
+      </review>
+      <review>
+         <snippet>Whenever Sin Nombre turns violent, it seizes you with its convulsive skill, but the film's images vastly outstrip its imagination.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20266385,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>Fukunaga paints better outside the lines, working with cinematographer Adriano Goldman to offer vivid shots of the poverty and despair cutting through Latin America, of gang rituals and territorial skirmishes, and of ordinary people taking dangerous routes to a better life that may be a mirage. Next time, a few rewrites please.</snippet>
+         <url>http://www.avclub.com/articles/sin-nombre,25308/</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>Fukunaga's images are striking, and his storytelling abilities are strong, but his screenwriting skills rely heavily on sappy formulas that add nothing to our understanding of the border-crossing experience.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A767632</url>
+         <critic>Marjorie Baumgarten</critic>
+      </review>
+      <review>
+         <snippet>Crushingly realistic one minute and melodramatically hokey the next.</snippet>
+         <url>http://www.chicagotribune.com/entertainment/movies/chi-tc-mov-sin-nombre-0401-0403apr03,0,2757047.story</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>It's the tone of the movie's two sides - action and stillness, graphic violence and romantic melodrama - that don't cohere.</snippet>
+         <url>http://www.boston.com/ae/movies/articles/2009/04/03/tracking_a_treacherous_journey_north/</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>Fukunaga clearly exhibits a flair for spirited storytelling, but when Sin Nombre departs from the specifics of its unique world in favor of more conventional genre execution, it leaves the characters and audience adrift.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film-reviews/film-review-sin-nombre-1003935238.story</url>
+         <critic>Justin Lowe</critic>
+      </review>
+      <review>
+         <snippet>Lushly photographed and meticulously sound-designed, Sin Nombre is visceral without being vital, researched without ever seeming lived-in.</snippet>
+         <url>http://www.villagevoice.com/2009-03-18/film/lushly-photographed-and-sound-designed-sin-nombre-feels-not-quite-lived-in/</url>
+         <critic>Scott Foundas</critic>
+      </review>
+   </reviews>
+   <US_Gross>$2,536,665</US_Gross>
+   <weekend_gross>$81,446</weekend_gross>
+   <number_of_screens>6</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

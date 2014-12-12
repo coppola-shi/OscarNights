@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Iron Man</name>
+   <company>Paramount Pictures, Marvel Studios</company>
+   <genres>
+      <genre>Action</genre>
+      <genre>Adventure</genre>
+      <genre>Drama</genre>
+      <genre>Scifi</genre>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>Larry Lieber,  Jack Kirby</author>
+      <author>Don Heck, Stan Lee</author>
+      <author>Matt Holloway, Art Marcum</author>
+      <author>Hawk Ostby, Mark Fergus</author>
+   </authors>
+   <directors>
+      <director>Jon Favreau</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Robert Downey Jr.</actor>
+      <actor>Jeff Bridges</actor>
+      <actor>Gwyneth Paltrow</actor>
+      <actor>Terrence Howard</actor>
+      <actor>Shaun Toub</actor>
+      <actor>Leslie Bibb</actor>
+      <actor>Bill Smitrovich</actor>
+      <actor>Nazanin Boniadi</actor>
+   </actors>
+   <release_date>May 2, 2008</release_date>
+   <running_time>126</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>Ever-eclectic director Jon Favreau, who briefly pops up onscreen as a Stark minion, maintains a brisk but not frantic pace, and, in concert with lenser Matthew Libatique, production designer J. Michael Riva and the first-rate visual effects team, has made an unusually elegant looking film for the genre.</snippet>
+         <url>http://www.variety.com/VE1117936903.html</url>
+         <critic>Todd McCarthy</critic>
+      </review>
+      <review>
+         <snippet>The gadgetry is absolutely dazzling, the action is mostly exhilarating, the comedy is scintillating and the whole enormous enterprise, spawned by Marvel comics, throbs with dramatic energy because the man inside the shiny red robotic rig is a daring choice for an action hero, and an inspired one.</snippet>
+         <url>http://online.wsj.com/article/SB120968871765461373.html</url>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>You hire an actor for his strengths, and Downey would not be strong as a one-dimensional mighty-man. He is strong because he is smart, quick and funny, and because we sense his public persona masks deep private wounds. By building on that, Favreau found his movie, and it's a good one.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20080601/REVIEWS/467306179/1023</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>Is it possible to have yet another expensive excursion into this genre that seems in any way fresh, original and alive? The answer, surprisingly, is yes.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/361402_iron02q.html</url>
+         <critic>William Arnold</critic>
+      </review>
+      <review>
+         <snippet>Downey and Favreau and the special-effects team transform the trying-out of the armor and its powers into slapstick cadenzas. But equally entertaining is Stark's and Potts' recognition that they share more than a mere working chemistry.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/reviews/bal-li.iron01may01,0,2604562.story</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>Loyal assistant, Pepper Potts, isn't much of a part, but Gwyneth Paltrow is a presence. She stands around looking amused and flabbergastingly pretty, slinging wisecracks with serene aplomb.</snippet>
+         <url>http://nymag.com/movies/reviews/46460/</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>Downey plays off his own bad-boy image wonderfully. The writers give him great lines to work with and ditto that for his Girl Friday, Gwyneth Paltrow's Pepper Potts, whose own svelte lines cannot be improved on.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?JSESSIONID=lLFzLJYcC2mrDxHtLQMrvJT3vTmnqrh0Tcgzhlm3pyMqw8CdjS2W!-1543868831&amp;&amp;rid=11021</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>Iron Man, too, is something that people will see regardless of the reviews, but here is the point: Where Michael Bay (Transformers) has mastered a kind of sensory-assaulting pop art, Favreau is a born storyteller who engages the audience's imagination rather than crushing it in a tsunami of digital noise.</snippet>
+         <url>http://www.villagevoice.com/film/0818,mighty-avenger,427197,20.html</url>
+         <critic>Scott Foundas</critic>
+      </review>
+      <review>
+         <snippet>Some of us knows that there's an American style -- best displayed in the big, smart, kid-friendly epic -- that few other cinemas even aspire to, and none can touch. When it works, as it does here, it rekindles even a cynic's movie love. So cheers to Downey, Favreau and the Iron Man production company. They don't call it Marvel for nothing.</snippet>
+         <url>http://www.time.com/time/arts/article/0,8599,1736742,00.html</url>
+         <critic>Richard Corliss</critic>
+      </review>
+      <review>
+         <snippet>All praise to acting dynamo Robert Downey Jr., who brings so much creative juice to the party that Iron Man achieves instant liftoff.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/15287470/review/20532910/iron_man</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>When it comes to tone, Iron Man achieves something at which many of even its most celebrated predecessors have failed: it doesn't FEEL like a superhero movie. Instead, it's bigger and more inclusive.</snippet>
+         <url>http://www.reelviews.net/movies/i/iron_man.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>With such smarts and outstanding special effects, I eagerly await a second Iron Man movie, which of course is virtually promised in the final scene.</snippet>
+         <url>http://www.nypost.com/seven/05012008/entertainment/movies/steels_the_screen_108909.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>Until a final conflict that more resembles a monster-truck jam than a superhero showdown, Iron Man is solid gold.</snippet>
+         <url>http://www.philly.com/philly/entertainment/movies/20080430_Tony_Stark__a_most_dissolute_and_disarming_arms_NO_HEAD_SPECIFIED.html</url>
+         <critic>Carrie Rickey</critic>
+      </review>
+      <review>
+         <snippet>As big-budget comic book adaptations go, this one's a gratifying freak--the right kind of conflicted, as well as quick-witted. It's a lot of fun.</snippet>
+         <url>http://chicago.metromix.com/movies/movie_review/movie-review-iron-man/396977/content</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>Even at his coolest, Downey's Iron Man remains a ghostly, neurotic crusader -- one whose life, in the Marvel tradition, has become a grand spectacle of overcompensation.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20196644,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>Iron Man is the rare comic-book movie that makes the prospect of a sequel seem like a promise instead of a threat.</snippet>
+         <url>http://www.avclub.com/content/cinema/iron_man</url>
+         <critic>Nathan Rabin</critic>
+      </review>
+      <review>
+         <snippet>There are more compelling stories to be found in the comic book world, and there are more expressive directors than Jon Favreau. But on the bases of wit, verve, spirit and whiz-bangery, it's pretty tough to find fault with.</snippet>
+         <url>http://blog.oregonlive.com/madaboutmovies/2008/05/review_soaring_high_with_iron.html</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>The result is the first comic-book movie in a while that actually feels like a classic comic book: fast, furious and flip. Forget about superheroes with love problems and tortured souls.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2008/05/02/2008-05-02_robert_downey_jr_puts_the_pedal_to_the_m.html</url>
+         <critic>Joe Neumaier</critic>
+      </review>
+      <review>
+         <snippet>Downey and Favreau give the movie a quirky flavor it can call its own. For that we can be grateful.</snippet>
+         <url>http://www.newsweek.com/id/135033</url>
+         <critic>David Ansen</critic>
+      </review>
+      <review>
+         <snippet>Has the advantage of being an unusually good superhero picture. Or at least -- since it certainly has its problems -- a superhero movie that's good in unusual ways.</snippet>
+         <url>http://movies.nytimes.com/2008/05/02/movies/02iron.html?ref=movies</url>
+         <critic>A.O. Scott</critic>
+      </review>
+      <review>
+         <snippet>When it's idling in neutral, and we're watching Stark putter in his workshop or seduce unsuspecting journalists, Iron Man abounds in that rarest of superpowers: charm.</snippet>
+         <url>http://www.slate.com/id/2190364/</url>
+         <critic>Dana Stevens</critic>
+      </review>
+      <review>
+         <snippet>The movie's climactic battle scene is mildly thrilling -- although it's not nearly as exciting as simply watching Downey and Bridges work together. Bridges makes a great villain precisely because he's such a relaxed, affable presence.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2008/05/01/iron_man/</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>And Favreau? If you'd told me 12 years ago that Swingers' comic linchpin would end up helming one of the best, most visceral, and downright fun foray of all the comic-book franchises waiting in the CGI wings, I'd have told you to amscray, kid. But what the hell? Turns out irony's good for your blood.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A617502</url>
+         <critic>Marc Savlov</critic>
+      </review>
+      <review>
+         <snippet>A brain-free ride on a cinematic bullet train.</snippet>
+         <url>http://www.charlotte.com/434/story/604753.html</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>Iron Man's biggest strength is that the fantastically armored suit doesn't overpower the intriguingly flawed character encased within.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2008-04-30-iron-man_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>An action sci-fi blockbuster extravaganza that provides cartoon thrills for thinking people. It's the best movie of its kind since the second "Spider-Man" movie four years ago.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2008/05/01/DD7F10EG56.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>A dark delight that combines pop-culture wit and genuine emotional depth.</snippet>
+         <url>http://www.tvguide.com/movies/iron-man/review/292484</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>Iron Man is the first Marvel Comics superhero movie I would willingly sit through a second time. This is the result not just of what the movie does, but what the movie doesn't do.</snippet>
+         <url>http://www.premiere.com/moviereviews/4553/iron-man.html</url>
+         <critic>Glenn Kenny</critic>
+      </review>
+      <review>
+         <snippet>Cynical, hip, politically opportunistic and loaded with kick-ass comic action.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20080501.wironman0501/BNStory/Entertainment/home</url>
+         <critic>Liam Lacey</critic>
+      </review>
+      <review>
+         <snippet>It's a fantastic special effect because it doesn't look like a special effect: The movie sells the illusion that the suit could maybe, possibly, exist.</snippet>
+         <url>http://www.miamiherald.com/1054/story/516640.html</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>The movie is so clever and smoothly paced that it's easy to overlook the odious story line.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/33080_IRON_MAN.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>As comic book movies go, Iron Man is a solid entry. Downey and company help drag Favreau out of the genre holes he digs, making for a decent experience.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=10942</url>
+         <critic>Pete Vonder Haar</critic>
+      </review>
+      <review>
+         <snippet>Downey appears to like all this make-believe. Even the clunky dialogue sounds witty out of his mouth. This is not a part that makes great demands on his talent, and his slummy approach to it is amusing.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=9318</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>Though Iron Man is diverting enough in the comic-book-movie mode, there is one thing it doesn't have, and that is dramatic unity. Unlike the irreducible element that is its namesake, Iron Man the movie is an alloy, a combination of several different and disconnected components that don't manage to unite to make a coherent whole.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-iron1-2008may01,0,3415915.story</url>
+         <critic>Kenneth Turan</critic>
+      </review>
+      <review>
+         <snippet>It's not sure where to go once the final Iron Man suit is constructed, and seems in a rush to get there, but Downey Jr and the supporting cast are so perfectly placed we're already looking forward to the bound-to-be-better sequel.</snippet>
+         <url>http://www.empireonline.com/reviews/reviewcomplete.asp?FID=9756</url>
+         <critic>Dan Jolin</critic>
+      </review>
+      <review>
+         <snippet>I suppose it's asking too much for a great actor to be matched up with a great director on a project like this. On the other hand, there's always the sequel.</snippet>
+         <url>http://www.csmonitor.com/2008/0502/p25s12-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>[Downey] can make offhandedness mesmerizing, even soulful; he passes through the key moments in this cloddish story as if he were ad-libbing his inner life.</snippet>
+         <url>http://www.newyorker.com/arts/critics/cinema/2008/05/05/080505crci_cinema_denby</url>
+         <critic>David Denby</critic>
+      </review>
+      <review>
+         <snippet>It succeeds only fitfully. Toggling between Stark's impish goatee and Iron Man's full-metal body condom, and amid so many generic fireballs, kill shots and earsplitting thumps, bumps and crunches, the film finally collapses under its own weight.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1125867&amp;categories=Movies&amp;nm=1</url>
+         <critic>Ann Hornaday</critic>
+      </review>
+   </reviews>
+   <US_Gross>$318,313,199</US_Gross>
+   <production_budget>$186,000,000</production_budget>
+   <weekend_gross>$102,118,668</weekend_gross>
+   <number_of_screens>4,105</number_of_screens>
+   <oscar_winning_actors_present/>
+   <num_oscar_winning_actors>1</num_oscar_winning_actors>
+   <oscar_winning_actor>gwyneth paltrow</oscar_winning_actor>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Women in Trouble</name>
+   <company>Screen Media Films</company>
+   <genres>
+      <genre>Comedy</genre>
+   </genres>
+   <authors>
+      <author>Sebastian Gutierrez</author>
+   </authors>
+   <directors>
+      <director>Sebastian Gutierrez</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Carla Gugino</actor>
+      <actor>Adrianne Palicki</actor>
+      <actor>Connie Britton</actor>
+      <actor>Marley Shelton</actor>
+      <actor>Cameron Richardson</actor>
+      <actor>Josh Brolin</actor>
+      <actor>Simon Baker</actor>
+   </actors>
+   <release_date>November 13, 2009</release_date>
+   <running_time>92</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>Delivers plenty of smart dialogue and devises a number of excellent reasons to photograph his cast in situations that suggest the working title for the film might have been "Women in Underwear."</snippet>
+         <url>http://www.nypost.com/p/entertainment/movies/sisterhood_of_struggle_HqjKMlW99YlU7j9OS95weN</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>The sexual humor is often bawdy, and Gutierrez goes right up to the edge of camp.</snippet>
+         <url>http://www.latimes.com/entertainment/news/la-et-women13-2009nov13,0,6228387.story</url>
+         <critic>Kevin Thomas</critic>
+      </review>
+      <review>
+         <snippet>Gutierrez's script can't supply female characters as believable as Almodovar's, but in the director's chair he gives his cast room to compensate with funny, self-aware performances.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film-reviews/women-in-trouble-film-review-1003952358.story</url>
+         <critic>John DeFore</critic>
+      </review>
+      <review>
+         <snippet>A wildly uneven but compulsively watchable mix of high camp and grand passions, soap opera and softcore sex. Very much in the deliriously lewd style of Pedro Almodovar.</snippet>
+         <url>http://www.variety.com/review/VE1117939977.html?categoryid=31&amp;cs=1&amp;query=women+in+trouble</url>
+         <critic>Joe Leydon</critic>
+      </review>
+      <review>
+         <snippet>What does it all mean? Nothing much greater than the sum of its seriocomic vignettes. To that end, Women In Trouble tends to sputter to life whenever the stories get racy.</snippet>
+         <url>http://www.avclub.com/articles/women-in-trouble,35309/</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>Awkwardly mixes blue material with sob stories.</snippet>
+         <url>http://www.villagevoice.com/2009-11-10/film/women-in-trouble-awkwardly-mixes-blue-material-with-sob-stories/</url>
+         <critic>Melissa Anderson</critic>
+      </review>
+      <review>
+         <snippet>The amateurish production values might be pardonable if the clichés -- the hard-core porn star with the soft heart, the therapist who needs to heal herself -- inside the poorly lighted, badly shot images weren’t so absurd and often insulting.</snippet>
+         <url>http://movies.nytimes.com/2009/11/13/movies/13women.html?ref=movies</url>
+         <critic>Manohla Dargis</critic>
+      </review>
+      <review>
+         <snippet>Writer-director Sebastian Gutierrez seems to think his characters are oh-so-edgy, and maybe they would be -- if it were 1982.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2009/11/13/2009-11-13_short_movie_reviews_the_messenger_women_in_trouble_and_disturbing_the_universe.html</url>
+         <critic>Joe Neumaier</critic>
+      </review>
+      <review>
+         <snippet>Even if Women in Trouble didn’t keep bringing to mind a superior artist, the film would still be badly written (DOA tangents about cunnilingus and kink don’t make dialogue edgy, only vulgar), not to mention unevenly paced and an embarrassment to all involved.</snippet>
+         <url>http://newyork.timeout.com/articles/film/80545/women-in-trouble-film-review</url>
+         <critic>David Fear</critic>
+      </review>
+   </reviews>
+   <US_Gross>$18,521</US_Gross>
+   <weekend_gross>$12,784</weekend_gross>
+   <number_of_screens>3</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

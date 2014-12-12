@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Emmanuel&amp;#039;s Gift</name>
+   <company>First Look Pictures Releasing</company>
+   <genres>
+      <genre>Documentary</genre>
+   </genres>
+   <authors>
+      <author>Lisa Lax</author>
+      <author>Liz Massie</author>
+      <author>Nancy Stern</author>
+   </authors>
+   <directors>
+      <director>Lisa Lax</director>
+      <director>Nancy Stern</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Oprah Winfrey (narrator)</actor>
+   </actors>
+   <release_date>October 21, 2005</release_date>
+   <running_time>80</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>A touching and almost ridiculously inspirational story for all of us.</snippet>
+         <url>http://www.filmthreat.com/Reviews.asp?Id=7225</url>
+         <critic>Merle Bertrand</critic>
+      </review>
+      <review>
+         <snippet>An inspirational movie about a inspiring figure: Emmanuel Ofosu Yeboah of Ghana.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-0501021-movies-review-gift,0,1939804.story?coll=mmx-movies_top_heds</url>
+         <critic>Michael Wilmington</critic>
+      </review>
+      <review>
+         <snippet>Ten percent of Ghana's 20 million people are disabled, yet the film makes little attempt to explain why.</snippet>
+         <url>http://www.nypost.com/movies/56317.htm</url>
+         <critic>V.A. Musetto</critic>
+      </review>
+      <review>
+         <snippet>Sincere but fairly soft piece of ennobling journalism that gives a positive spin to some of Africa's seemingly intractable problems.</snippet>
+         <url>http://www.variety.com/review/VE1117926479?categoryid=31&amp;cs=1</url>
+         <critic>Robert Koehler</critic>
+      </review>
+      <review>
+         <snippet>Yeboah is so levelheaded about his own accomplishments that the swelling score and emotional narration from Oprah Winfrey feel embarrassingly sentimental.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/moviereviews/story/357797p-304686c.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>Directed in the breathless inspirational tones of an infomercial, the film's an acceptable document of a thoroughly remarkable individual.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=8585</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>The heroic struggle of its subject is clearly meant to inspire, but it also seems destined to shame weak-willed viewers who'd crumble under much less formidable obstacles.</snippet>
+         <url>http://avclub.com/content/node/41723</url>
+         <critic>Nathan Rabin</critic>
+      </review>
+      <review>
+         <snippet>This feel-good profile barely touches on the political and cultural ramifications of Emmanuel's work. Narration by Oprah increases the aura of a civics lesson.</snippet>
+         <url>http://www.villagevoice.com/film/0542,tracking4,68979,20.html</url>
+         <critic>Ben Kenigsberg</critic>
+      </review>
+      <review>
+         <snippet>Samson Chan's color-saturated visuals add punch to the absorbing narrative, but overall this documentary plays like slickly packaged TV fare, right down to the plugs for Nike.</snippet>
+         <url>http://spacefinder.chicagoreader.com/movies/briefs/28696_EMMANUELS_GIFT.html</url>
+         <critic>Andrea Gronvall</critic>
+      </review>
+      <review>
+         <snippet>Sadly, Emmanuel's Gift is a powerful story of political change almost smothered by contrivance.</snippet>
+         <url>http://www.nytimes.com/2005/10/21/movies/21gift.html</url>
+         <critic>Jeannette Catsoulis</critic>
+      </review>
+   </reviews>
+   <US_Gross>$23,578</US_Gross>
+   <weekend_gross>$14,642</weekend_gross>
+   <number_of_screens>6</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

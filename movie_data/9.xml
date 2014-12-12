@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>9</name>
+   <company>Focus Features</company>
+   <genres>
+      <genre>Adventure</genre>
+      <genre>Animation</genre>
+      <genre>Fantasy</genre>
+      <genre>Scifi</genre>
+   </genres>
+   <authors>
+      <author>Pamela Pettler</author>
+   </authors>
+   <directors>
+      <director>Shane Acker</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Elijah Wood</actor>
+      <actor>Jennifer Connelly</actor>
+      <actor>Martin Lau</actor>
+      <actor>Christopher Plummer</actor>
+      <actor>John C. Reilly</actor>
+      <actor>Crispin Glover</actor>
+   </actors>
+   <release_date>September 9, 2009</release_date>
+   <running_time>79</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>Any optimism in 9, which is bound to try the fortitude of meeker children, feels hard-won. It actually ends in a bittersweet mystery.</snippet>
+         <url>http://www.boston.com/ae/movies/articles/2009/09/09/9_introduces_a_new_dimension_of_dark_animation/</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>Storyboarded with precision, and enhanced with a resonant score by Deborah Lurie, Acker’s handsome, feature-length 9 is, for all its visual flights of fancy, grounded in an apocalypse-proof message graspable by any schoolchild.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20303089,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>At barely an-hour-and-a-quarter in length, it's one of those very rare feature films that you wish were longer.</snippet>
+         <url>http://blog.oregonlive.com/madaboutmovies/2009/09/valley_of_the_rag_dolls_9.html</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>Taking your very small child to this movie is only a slightly better idea than a trip to "The Final Destination." With that warning out of the way, this action adventure is a big treat for more mature animation and science-fiction fans and a triumph for the young director.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2009/09/08/DDU319IU58.DTL</url>
+         <critic>Peter Hartlaub</critic>
+      </review>
+      <review>
+         <snippet>IF you ask me, Shane Acker's post-apocalyp tic animated film 9 is better than the live-ac tion flick "District 9." Beyond their similar titles, these sci-fi social commentaries are both expanded from shorts under the sponsorship of a world-class director.</snippet>
+         <url>http://www.nypost.com/p/entertainment/movie/reviews/demise_and_dolls_kLFMtq51BoOWwQzFMsgglL</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>Watching 9 , we know how 8 feels. Sci-fi fans will find heaven in Shane Acker's feature-film debut.</snippet>
+         <url>http://www.theglobeandmail.com/news/arts/9/article1279555/</url>
+         <critic>Stephen Cole</critic>
+      </review>
+      <review>
+         <snippet>It’s a perfectly functional, fairly scary kids’ film, with plenty of craft and creativity to keep adults occupied. But with a story as sophisticated as its visuals, it could have been much more.</snippet>
+         <url>http://www.avclub.com/articles/9,32656/</url>
+         <critic>Tasha Robinson</critic>
+      </review>
+      <review>
+         <snippet>This is post-apocalyptic adventure as imagined for a teen crowd, and what it lacks in depth it makes up for in action. With a slight running time of 80 minutes, 9 doesn't contain an ounce of fat on its animated bones.</snippet>
+         <url>http://www.reelviews.net/php_review_template.php?identifier=1792</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>The best reason to see it is simply because of the creativity of its visuals. They're entrancing.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20090909/REVIEWS/909099998</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>Not a perfect 10, but its imperfection is what makes it gripping and bewitching.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-nine-review-0908,0,285453.story</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>Every effort to expand the range of feature-length animation beyond the confines of cautious family fare is to be welcomed, and budding techno and fantasy geeks are likely to be intrigued and enthralled.</snippet>
+         <url>http://movies.nytimes.com/2009/09/09/movies/09nine.html?ref=movies</url>
+         <critic>A.O. Scott</critic>
+      </review>
+      <review>
+         <snippet>And here's the strangest thing of all: it works. [September 14, 2009, pg.ll4]</snippet>
+         <url/>
+         <critic>Anthony Lane</critic>
+      </review>
+      <review>
+         <snippet>9, though animated, isn't really a movie for kids. The problem is that, despite its strikingly original set-up and its cool steampunk visual vibe, it's not much of a movie for grown-ups, either.</snippet>
+         <url>http://www.nola.com/movies/index.ssf/2009/09/9_an_animated_tale_of_life_aft.html</url>
+         <critic>Mike Scott</critic>
+      </review>
+      <review>
+         <snippet>I only wish this richly imaginative  movie had stayed truer to the dark heart of its visuals.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/18295252/review/30065630/9</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>Something has gone slightly awry, however, en route from the 11-minute film to the 79-minute edition of 9.</snippet>
+         <url>http://featuresblogs.chicagotribune.com/talking_pictures/</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>The film isn't particularly original, but its dark mood, end-of-times landscape and unique characters will seem fresher to the young audience for which it's aiming than to jaded sci-fi veterans.</snippet>
+         <url>http://www.miamiherald.com/entertainment/movies/reviews/story/1221955.html</url>
+         <critic>Connie Ogle</critic>
+      </review>
+      <review>
+         <snippet>In 50 years, film lovers will look back on 9 as the debut feature of an original talent.</snippet>
+         <url>http://www.philly.com/inquirer/columnists/carrie_rickey/20090909_A_doll_who_s_No__9_dares_to_ask_why.html</url>
+         <critic>Carrie Rickey</critic>
+      </review>
+      <review>
+         <snippet>Sobering stuff for an animated movie that pitches itself somewhere between cutesy children’s entertainment and hectoring Grimm’s fairy tale. The problem with 9, though, is that it lacks a consistent tone.</snippet>
+         <url>http://newyork.timeout.com/articles/film/78423/9-film-review</url>
+         <critic>Keith Uhlich</critic>
+      </review>
+      <review>
+         <snippet>The result is never as gripping in narrative terms--a well-worn litany of dystopian-future chestnuts--as it is visually.</snippet>
+         <url>http://www.villagevoice.com/2009-09-08/film/9-shane-acker-s-animated-post-apocalyptic-hellscape/</url>
+         <critic>Scott Foundas</critic>
+      </review>
+      <review>
+         <snippet>Design aspects are arresting and the filmmaker's abilities are obvious, but the basic survival story remains slight, just as the general setting, no matter how artfully imagined, is by now pretty familiar.</snippet>
+         <url>http://www.variety.com/review/VE1117940840.html?categoryid=31&amp;cs=1</url>
+         <critic>Todd McCarthy</critic>
+      </review>
+      <review>
+         <snippet>Does 9 rival last year's "Wall E" as the best post-apocalyptic "cartoon"? The short answer is Nein. 9 is, however, a visual stunner.</snippet>
+         <url>http://www.washingtonpost.com/wp-dyn/content/article/2009/09/08/AR2009090803459.html</url>
+         <critic>Michael Cavna</critic>
+      </review>
+      <review>
+         <snippet>Shane Acker's underwritten but beautifully animated debut is both an ode to technology and a warning against it. Perhaps unintentionally, the film itself echoes those themes.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2009/09/11/2009-09-11_short_film_reviews_9_.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>Danny Elfman's swooping orchestral soundtrack only adds to the sense of by-the-numbers familiarity. Elfman's signature sound is so associated with Tim Burton movies that it overwhelms this film's chances of carving out an aesthetic space of its own.</snippet>
+         <url>http://www.slate.com/id/2227799/</url>
+         <critic>Dana Stevens</critic>
+      </review>
+      <review>
+         <snippet>This expanded version only suffers, albeit in grim visual splendor, from the extrapolation.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A827943</url>
+         <critic>Marc Savlov</critic>
+      </review>
+      <review>
+         <snippet>Actually, the problem with wunderkind director Shane Acker's "stitchpunk" animated fantasy 9 isn't so much that it bears a sped-up, dumbed-down resemblance to "The Lord of the Rings," although it does. It's more that Acker's dark and whimsical creation, so clearly in the tradition of his mentor Tim Burton, is wondrous to behold but offers only an indifferent and generic mishmash of quest fantasy and post-apocalyptic science fiction when it comes to story.</snippet>
+         <url>http://www.salon.com/ent/movies/btm/feature/2009/09/09/9_review/index.html</url>
+         <critic>Andrew O&amp;#039;Hehir</critic>
+      </review>
+      <review>
+         <snippet>Shane Acker has expanded his Oscar-nominated short 9 into a full-length feature whose splendid visuals are dragged down by a tedious story.</snippet>
+         <url>http://www.chicagoreader.com/chicago/MovieTimes?oid=977545</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>9 never adds up to much. It's a dark adult film that gives itself over to the chases and frights of a kiddie movie.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film-reviews/9-film-review-1004004014.story</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>Long on imaginative design but less substantial in narrative, this dreary story of fighting the power is more numbing than thought-provoking.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2009-09-08-nine_N.htm?loc=interstitialskip</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>Although it has a great look and offers a few thrills, the animated film 9 is one of this year's biggest disappointments.</snippet>
+         <url>http://www.stltoday.com/stltoday/entertainment/reviews.nsf/movie/story/33AFC6262917887B8625762C00078B7B?OpenDocument</url>
+         <critic>Calvin Wilson</critic>
+      </review>
+      <review>
+         <snippet>For all the Saturday-matinee heroics, the movie is dreary and monotonous, the vision junky in more ways than one.</snippet>
+         <url>http://nymag.com/movies/reviews/58859/index1.html</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>The nine characters aren’t machines, exactly, but they aren’t people or animals either. They’re little cloth pouches that can move, communicate, and make facial expressions that range from ornery to cute. At some point during the movie I began mentally referring to them as the Owlish Beanbags.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=11868</url>
+         <critic>Nick Antosca</critic>
+      </review>
+   </reviews>
+   <US_Gross>$31,749,894</US_Gross>
+   <production_budget>$30,000,000</production_budget>
+   <weekend_gross>$15,160,926</weekend_gross>
+   <number_of_screens>1,661</number_of_screens>
+   <highest_grossing_actors_present/>
+   <num_highest_grossing_actors>1</num_highest_grossing_actors>
+   <highest_grossing_actor>elijah wood</highest_grossing_actor>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Solitude</name>
+   <company>Indican Pictures</company>
+   <genres>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author>Susan Kraker</author>
+      <author>Pi Ware</author>
+   </authors>
+   <directors>
+      <director>Susan Kraker</director>
+      <director>Pi Ware</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Patrick Belton</actor>
+      <actor>Mary Thornton</actor>
+      <actor>Ronne Orenna</actor>
+   </actors>
+   <release_date>January 7, 2005</release_date>
+   <running_time>99</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>Orenna, Thornton and Belton deliver strong, surprisingly subtle performances that make the modest fireworks genuinely engaging.</snippet>
+         <url>http://tvguide.com/movies/database/ShowMovie.asp?MI=45864</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>Ultimately feels like a clinical study without wider resonance.</snippet>
+         <url>http://movies2.nytimes.com/2005/01/07/movies/07soli.html</url>
+         <critic>Dave Kehr</critic>
+      </review>
+      <review>
+         <snippet>Good ensemble performances in front of the camera are supported by clever shooting and cutting, which work, not just deftly but unobtrusively so, with and within the readily apparent technical limitations at hand.</snippet>
+         <url>http://www.filmthreat.com/Reviews.asp?Id=5963</url>
+         <critic>Merle Bertrand</critic>
+      </review>
+      <review>
+         <snippet>Despite good thesping, particularly from Belton, it's hard to imagine why anyone would want to spend time with this trio.</snippet>
+         <url>http://www.variety.com/review/VE1117919362?categoryid=31&amp;cs=1</url>
+         <critic>Andy Klein</critic>
+      </review>
+   </reviews>
+   <US_Gross>$6,260</US_Gross>
+   <production_budget>$200,000</production_budget>
+   <weekend_gross>$1,480</weekend_gross>
+   <number_of_screens>2</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Bella</name>
+   <company>Roadside Attractions</company>
+   <genres>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author>Leo Severino</author>
+      <author>Patrick Million</author>
+      <author>Alejandro Gomez Monteverde</author>
+   </authors>
+   <directors>
+      <director>Alejandro Gomez Monteverde</director>
+   </directors>
+   <origins>
+      <origin>MexicoUSA</origin>
+   </origins>
+   <actors>
+      <actor>Eduardo Verástegui</actor>
+      <actor>Tammy Blanchard</actor>
+      <actor>Manny Perez</actor>
+      <actor>Ali Lry</actor>
+      <actor>Angélica Aragón</actor>
+      <actor>Jaime Tirelli</actor>
+      <actor>Ramon Rodriguez</actor>
+   </actors>
+   <release_date>October 26, 2007</release_date>
+   <running_time>91</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>The movie is a little more lightweight than the usual People's Choice Award winner at Toronto, but why not? It was the best-liked film at the 2006 festival, and I can understand that.</snippet>
+         <url>http://www.rogerebert.com/apps/pbcs.dll/article?AID=/20071025/REVIEWS/710250301/1023</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>Cynics need not apply, but I found Bella a real heart tugger.</snippet>
+         <url>http://www.nypost.com/seven/10262007/entertainment/movies/simmering_romance.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>A tearjerker that earns its sobs with heartfelt emotions.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2007/10/26/DDQLSJV85.DTL&amp;type=movies</url>
+         <critic>Ruthe Stein</critic>
+      </review>
+      <review>
+         <snippet>May have more heart than head, but it's also just as interesting for what it leaves out of its romantic story as for what it retains.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/32307_BELLA.html</url>
+         <critic>Jonathan Rosenbaum</critic>
+      </review>
+      <review>
+         <snippet>Bella is, indeed, a beautiful film. The bustling, cab-crowded thoroughfares of New York City have rarely looked as inviting and the coastline as momentously beachy as they do in this film.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A553180</url>
+         <critic>Marc Savlov</critic>
+      </review>
+      <review>
+         <snippet>Well-acted first-feature.</snippet>
+         <url>http://www.tvguide.com/movies/bella/review/290746</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>Mexican-born helmer Alejandro Monteverde's debut will be remembered as a curious case of a mediocre film that wows crowds.</snippet>
+         <url>http://www.variety.com/review/VE1117932633.html?categoryid=31&amp;cs=1&amp;p=0</url>
+         <critic>Robert Koehler</critic>
+      </review>
+      <review>
+         <snippet>The melodrama and cheap theatrics of the story’s off-center segments drag the whole thing down.</snippet>
+         <url>http://chicago.metromix.com/movies/movie_review/movie-review-bella/238750/content</url>
+         <critic>Tasha Robinson</critic>
+      </review>
+      <review>
+         <snippet>Certainly a sweet, life-affirming picture, but it's just not authentic or captivating enough to justify its wildly concocted scenario.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-bella26oct26,0,3877023.story?coll=cl-mreview</url>
+         <critic>Gary Goldstein</critic>
+      </review>
+      <review>
+         <snippet>What are you going to do when your lead actress offers a performance that's as unlikable as the woman she's portraying? Maybe it's the script (flimsy, formulaic), or filmmaker Alejandro Gomez Monteverde's conspicuous direction, but Tammy Blanchard's Nina, a waitress with a dour disposition and an unwanted pregnancy, pretty much sucks the life out of this well-meaning melodrama.</snippet>
+         <url>http://www.philly.com/inquirer/columnists/steven_rea/20071026_Bella___.html</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>In stories like this defiantly unsubtle, structurally clunky specimen, causes women who are considering abortion to think again, and self-selecting audiences to enjoy a light, luxurious weep.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20158935,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>If you have an appetite for well-made treacle, then Bella should go down a treat.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20080410.bella11nat/BNStory/Entertainment/home</url>
+         <critic>Rick Groen</critic>
+      </review>
+      <review>
+         <snippet>Manages to be utterly predictable without making any sense at all.</snippet>
+         <url>http://www.villagevoice.com/film/0743,wallace,78128,20.html</url>
+         <critic>Julia Wallace</critic>
+      </review>
+      <review>
+         <snippet>If Bella (the title doesn’t make sense until the last scene) is a mediocre cup of mush, the response to it suggests how desperate some people are for an urban fairy tale with a happy ending, no matter how ludicrous.</snippet>
+         <url>http://movies.nytimes.com/2007/10/26/movies/26bell.html?ref=movies</url>
+         <critic>Stephen Holden</critic>
+      </review>
+      <review>
+         <snippet>In this bilingual morality movie about love, family, and fate, however, the unpredictability turns out to be highly predictable.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=10928</url>
+         <critic>Erin Meister</critic>
+      </review>
+      <review>
+         <snippet>The film is more of an exercise in pandering and propaganda -- give your baby up for adoption, you selfish pig! -- than the heartfelt drama it aims to be.</snippet>
+         <url>http://www.miamiherald.com/1054/story/283991.html</url>
+         <critic>Connie Ogle</critic>
+      </review>
+      <review>
+         <snippet>The emotions at play in Bella are no doubt heartfelt--and must have resonated with a few hundred people, anyway--but they're so cut-and-dried that the mawkish script virtually writes itself.</snippet>
+         <url>http://www.avclub.com/content/cinema/bella</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>A Mexican movie in which the outcome is never in doubt, the scenes are endless -- sorry, we meant poetic-- and the false beard on the central character's face looks as though it could use a little extra gum.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1135839&amp;categories=Movies&amp;nm=1</url>
+         <critic>Desson Thomson</critic>
+      </review>
+   </reviews>
+   <US_Gross>$8,093,373</US_Gross>
+   <production_budget>$3,300,000</production_budget>
+   <weekend_gross>$1,328,448</weekend_gross>
+   <number_of_screens>165</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

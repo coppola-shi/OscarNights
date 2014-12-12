@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Through the Fire</name>
+   <company>Cinema Libre Studio</company>
+   <genres>
+      <genre>Documentary</genre>
+   </genres>
+   <authors>
+      <author/>
+   </authors>
+   <directors>
+      <director>Jonathan Hock</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Dwayne Tiny Morton</actor>
+      <actor>Rick Pitino</actor>
+      <actor>Sebastian Telfair</actor>
+      <actor>Jamel Thomas</actor>
+      <actor>Daniel Turner</actor>
+   </actors>
+   <release_date>February 10, 2006</release_date>
+   <running_time>103</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>An up-close, engaging and ultimately moving look at Telfair's family, his final high-school season and his decision to forsake college for the NBA.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/1139433922237500.xml&amp;coll=7</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>A highly satisfying documentary tracking the hoop dreams of basketball bright light Sebastian Telfair as he made that rare leap from high school all-star to NBA draft pick.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1001479666</url>
+         <critic>Michael Rechtshaffen</critic>
+      </review>
+      <review>
+         <snippet>Behind the cheering and popping flashbulbs of Through the Fire lurks another, much darker movie, one that questions the relationship between sneaker manufacturers and financially deprived kids with exceptional talent.</snippet>
+         <url>http://movies2.nytimes.com/2006/02/10/movies/10telf.html</url>
+         <critic>Jeannette Catsoulis</critic>
+      </review>
+      <review>
+         <snippet>Superb, ultimately exhilarating account of Coney Island basketball phenom Sebastian Telfair's senior year at Lincoln High.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/moviereviews/story/390159p-330844c.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>It's hard to blame Telfair for letting his celebrity go to his head. If I were on the cover of Sports Illustrated in the 12th grade, there'd be no living with me either.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=8794</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>Entertaining and compelling.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2006/03/31/DDG9AI0F5L1.DTL#flick2</url>
+         <critic>Peter Hartlaub</critic>
+      </review>
+      <review>
+         <snippet>Though some will see this fast-paced film as proof that hoop dreams really can come true, the real strength of Through the Fire lies in its careful, often indirect questioning of the moral universe of professional sports and big-money endorsements.</snippet>
+         <url>http://www.laweekly.com/index.php?option=com_lawcontent&amp;task=view&amp;id=12621&amp;Itemid=9</url>
+         <critic>James C. Taylor</critic>
+      </review>
+      <review>
+         <snippet>Upbeat Urbanworld documentary prizewinner, full of strong personalities and crisply edited court action.</snippet>
+         <url>http://www.variety.com/review/VE1117927669?categoryid=31&amp;cs=1</url>
+         <critic>Ronnie Scheib</critic>
+      </review>
+      <review>
+         <snippet>It's slickly shot and structured like a Bruckheimer sports weepie, but director Jonathan Hock also shows the image-production of Telfair as star.</snippet>
+         <url>http://www.villagevoice.com/film/0606,sweeney,72108,20.html</url>
+         <critic>R. Emmet Sweeney</critic>
+      </review>
+      <review>
+         <snippet>It's a pleasure to see the articulate, disciplined Telfair succeed where so many other young men have failed, but ultimately his path to success is so smoothly upbeat that there isn't much urgency to it.</snippet>
+         <url>http://online.tvguide.com/movies/database/ShowMovie.asp?MI=46731</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>Fails to show indignation that rich white guys are trying to get even richer at the expense of a naive black kid from the ghetto.</snippet>
+         <url>http://www.nypost.com/movies/63265.htm</url>
+         <critic>V.A. Musetto</critic>
+      </review>
+      <review>
+         <snippet>Through The Fire posits Telfair's good fortune as the belated fulfillment of Jamal's dreams and his family's desire to leave the projects, but it rarely gives a thought to the many thousands of gifted inner-city ballers who devote their lives to a goal that never materializes.</snippet>
+         <url>http://www.avclub.com/content/node/45231</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>Through the Fire is a fraud masquerading as a documentary.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=8632</url>
+         <critic>Phil Hall</critic>
+      </review>
+   </reviews>
+   <US_Gross>$14,769</US_Gross>
+   <weekend_gross>$14,769</weekend_gross>
+   <number_of_screens>8</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Bart Got a Room</name>
+   <company>Plum Pictures</company>
+   <genres>
+      <genre>Comedy</genre>
+   </genres>
+   <authors>
+      <author>Brian Hecker</author>
+   </authors>
+   <directors>
+      <director>Brian Hecker</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>William H. Macy</actor>
+      <actor>Cheryl Hines</actor>
+      <actor>Steven Kaplan</actor>
+      <actor>Alia Shawkat</actor>
+      <actor>Ashley Benson</actor>
+   </actors>
+   <release_date>April 3, 2009</release_date>
+   <running_time>80</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>Gut-bustingly funny.</snippet>
+         <url>http://www.nypost.com/seven/04032009/entertainment/movies/tuxedo__check__hormones__check__date__162580.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>Here's something you don't see every day: a high-school comedy for old poops.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20090430.wbart0501/BNStory/Entertainment/home</url>
+         <critic>Stephen Cole</critic>
+      </review>
+      <review>
+         <snippet>Accept the challenge. What's good enough for Bart is good enough for you.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2009/04/02/2009-04-02_skip_the_geeky_bart_got_a_room_and_itll_.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>Hecker makes good use of the south Florida locations, and the song selection -- including many Big Band favorites -- is winning.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?rid=11029</url>
+         <critic>Stephen Farber</critic>
+      </review>
+      <review>
+         <snippet>A light, funny coming-of-ager set in the endearingly un-hip retirement community of Hollywood, Fla.</snippet>
+         <url>http://www.variety.com/review/VE1117936962.html?categoryid=31&amp;cs=1&amp;query=bart+got+a+room</url>
+         <critic>Alissa Simon</critic>
+      </review>
+      <review>
+         <snippet>The mysterious Bart and the mythology of the senior prom as the defining moment in the life of a teenager are the unseen specters hovering over the slight comedy Bart Got a Room.</snippet>
+         <url>http://www.latimes.com/entertainment/la-et-bart3-2009apr03,0,6777806.story</url>
+         <critic>Betsy Sharkey</critic>
+      </review>
+      <review>
+         <snippet>The movie imprisons its talented cast (including Alia Shawkat as Danny’s overlooked soul mate and Brandon Hardesty as his worldly best friend) in roles that leave little room for anything but caricature.</snippet>
+         <url>http://movies.nytimes.com/2009/04/03/movies/03bart.html?ref=movies</url>
+         <critic>Jeannette Catsoulis</critic>
+      </review>
+      <review>
+         <snippet>With 19 producers, one wonders how many rich Floridians invested in what might be the year's most unambitious comedy.</snippet>
+         <url>http://www.villagevoice.com/2009-04-01/film/bart-got-a-room-may-be-the-year-s-most-unambitious-comedy/</url>
+         <critic>Aaron Hillis</critic>
+      </review>
+   </reviews>
+   <US_Gross>$53,760</US_Gross>
+   <weekend_gross>$32,764</weekend_gross>
+   <number_of_screens>11</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

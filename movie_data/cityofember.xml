@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>City of Ember</name>
+   <company>FoxWalden</company>
+   <genres>
+      <genre>Adventure</genre>
+      <genre>FamilyKids</genre>
+      <genre>Fantasy</genre>
+   </genres>
+   <authors>
+      <author>Jeanne Duprau</author>
+      <author>Caroline Thompson</author>
+   </authors>
+   <directors>
+      <director>Gil Kenan</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Bill Murray</actor>
+      <actor>Tim Robbins</actor>
+      <actor>Saoirse Ronan</actor>
+      <actor>Harry Treadaway</actor>
+      <actor>Martin Lau</actor>
+      <actor>Marianne Jean-Baptiste</actor>
+      <actor>Toby Jones</actor>
+      <actor>Mary Kay Place</actor>
+   </actors>
+   <release_date>October 10, 2008</release_date>
+   <running_time>95</running_time>
+   <rating>PG</rating>
+   <reviews>
+      <review>
+         <snippet>A fun and moving family film with a subtly dark feel rarely seen in kids' movies since the '80s, City of Ember succeeds despite its shortcomings, not only because of its fun and inspiring story, but because most of its flaws are things kids won't notice anyway.</snippet>
+         <url>http://movies.tvguide.com/city-ember/review/295108</url>
+         <critic>Cammila Albertson</critic>
+      </review>
+      <review>
+         <snippet>An impressive and imaginative fantasy.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2008/10/09/DDU113DRCL.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>If older kids and adults seek out this picture, which 20th Century Fox and Walden Media  clearly aren't sure how to sell, they may well find themselves drawn into a subterranean world of considerable imagination.</snippet>
+         <url>http://chicago.metromix.com/movies/movie_review/movie-review-city-of/664698/content</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>City of Ember has almost anything one could want from a science fiction-based family adventure film: likeable characters, an imaginative setting, and a fast pace.</snippet>
+         <url>http://www.reelviews.net/php_review_template.php?identifier=1367</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>It scores few points for originality, but it's a fuzzier, less pretentious and more enjoyable movie.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/382569_ember10q.html</url>
+         <critic>William Arnold</critic>
+      </review>
+      <review>
+         <snippet>Ember is seldom riveting, but it's consistently compelling, and its uncompromising literal and metaphorical darkness renders its climax enormously satisfying.</snippet>
+         <url>http://www.avclub.com/content/cinema/city_of_ember</url>
+         <critic>Nathan Rabin</critic>
+      </review>
+      <review>
+         <snippet>It's not an entirely convincing trip, but it is the sort of satisfying movie you wished they would make more often.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1145241&amp;categories=Movies</url>
+         <critic>Neely Tucker</critic>
+      </review>
+      <review>
+         <snippet>The story subtly evokes Rand and scripture, colliding secular and spiritual values, and, as such, appeals to the blue- and red-minded alike.</snippet>
+         <url>http://www.laweekly.com/2008-10-09/film-tv/movie-reviews-city-of-ember-the-express-rocknrolla/2</url>
+         <critic>Ed Gonzales</critic>
+      </review>
+      <review>
+         <snippet>The story, which follows two kids who try to save their burg from blackouts, isn't well-executed, losing itself to unclear mythology and sci-fi gibberish.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20232459,00.html</url>
+         <critic>Gregory Kirschling</critic>
+      </review>
+      <review>
+         <snippet>Entertainment-wise, City of Ember is a good family deal: exciting and simple enough for anyone over 8 to follow yet mature and mildly satirical enough for parents.</snippet>
+         <url>http://www.oregonlive.com/movies/index.ssf/2008/10/movie_review_saving_the_world.html</url>
+         <critic>Stan Hall</critic>
+      </review>
+      <review>
+         <snippet>For a kiddie adventure, the movie, based on the Jeanne DuPrau book, has a pleasingly moody, eerie quality.</snippet>
+         <url>http://www.nypost.com/seven/10102008/entertainment/movies/flick_sparks_interest_132904.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>It's lumpy, odd and tonally all over the place, but its vision gets to you, and its payoff delivers a tough kid's catharsis.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/reviews/bal-to.city10oct10,0,5876775.story</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>City of Ember lacks the vision and scope of "WALL-E," but it's based on a pretty good kids' book and it makes a pretty good "Twilight Zone" episode, with hope dangling at the end rather than one of Rod Serling's cosmic black jokes.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=10499</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>The movie begs for a a third-act showdown but, instead, the dramatic tension is allowed to leak away.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20081010.wember10/BNStory/Entertainment/home</url>
+         <critic>Liam Lacey</critic>
+      </review>
+      <review>
+         <snippet>At its best when sticking to a classic sci-fi-fantasy format. But when it tries to be a generic thrill ride, it loses its originality and peculiar charm.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2008-10-09-city-of-ember_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>It's innocent and sometimes kind of charming. The sets are entertaining. There are parallels in appearance and theme to a low-rent "Dark City."</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20081008/REVIEWS/810089995</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>All the running, the hiding, the escaping (from giant moles, from giant Murray) are decidedly less exciting, and compelling, than City of Ember wants to be.</snippet>
+         <url>http://www.philly.com/inquirer/columnists/steven_rea/20081010__City_of_Ember___Post-apocalyptic_fantasy.html</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>With Ember's hydro-electro-punk charms, Kenan's convinced us he's one of Hollywood's most exciting (and excited!) visualists. But on the evidence of this, his storytelling skills still need honing.</snippet>
+         <url>http://www.empireonline.com/reviews/reviewcomplete.asp?FID=10517</url>
+         <critic>Dan Jolin</critic>
+      </review>
+      <review>
+         <snippet>Though the film ultimately falls short of its considerable promise, there's more than enough here to keep thoughtful moviegoers - of any age - intrigued.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2008/10/09/2008-10-09_city_of_ember_goes_underground_.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>Ultimately, it's undone by the overfamiliar nature of Doon and Lina's quest, the outcome of which, while breathlessly paced, is never really in question.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A683545</url>
+         <critic>Marc Savlov</critic>
+      </review>
+      <review>
+         <snippet>Stalls at the intersection of fantasy and science fiction.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?JSESSIONID=dQhDLnnWHsQ4W5wQSDnrRm9lT88n8DyPbft9ThfqRKzL2tRxp1Tz!1819155073&amp;&amp;rid=11798</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>A fabulously designed underground metropolis proves more involving than the teenagers running through its streets in City of Ember, a good-looking but no more than serviceable adaptation of Jeanne Duprau's 2003 novel.</snippet>
+         <url>http://www.variety.com/review/VE1117938656.html?categoryid=31&amp;cs=1</url>
+         <critic>Justin Chang</critic>
+      </review>
+      <review>
+         <snippet>You long for things to go bump in the night, but the movie muffles every risk in a blanket of bland.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/17564589/review/23501905/city_of_ember</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>None of this means that the film is necessarily enjoyable to watch, however, which is often the problem when the rigors of inspired storytelling can't live up to an imaginatively designed filmic world.</snippet>
+         <url>http://www.latimes.com/entertainment/news/reviews/la-et-ember10-2008oct10,0,4786585.story</url>
+         <critic>Robert Abele</critic>
+      </review>
+      <review>
+         <snippet>At only 95 minutes, the movie feels as though it had been shredded in the editing room. In Hollywood-speak, it has a weak second act.</snippet>
+         <url>http://movies.nytimes.com/2008/10/10/movies/10embe.html</url>
+         <critic>Stephen Holden</critic>
+      </review>
+      <review>
+         <snippet>The movie is an exceedingly slight tale whose entire second half consists primarily of special effects and wonderful set designs.</snippet>
+         <url>http://www.miamiherald.com/entertainment/movies/reviews/story/718765.html</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>A murky, directionless plot sinks this big-budget fantasy despite Martin Laing's elaborate production design; the dark, industrial-looking sets often recall "Brazil" but without that film's thrilling sense of an imagination run amok.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/33683_CITY_OF_EMBER.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+   </reviews>
+   <US_Gross>$7,871,693</US_Gross>
+   <production_budget>$38,000,000</production_budget>
+   <weekend_gross>$3,129,473</weekend_gross>
+   <number_of_screens>2,022</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

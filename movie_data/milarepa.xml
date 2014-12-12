@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Milarepa</name>
+   <company>Luminous Velocity Releasing</company>
+   <genres>
+      <genre>Action</genre>
+      <genre>Adventure</genre>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author>Tenzing Choyang Gyari</author>
+      <author>Neten Chokling</author>
+   </authors>
+   <directors>
+      <director>Neten Chokling</director>
+   </directors>
+   <origins>
+      <origin>IndiaBhutan</origin>
+   </origins>
+   <actors>
+      <actor>Orgyen Tobgyal</actor>
+      <actor>Kelsang Chukie Tethtong</actor>
+      <actor>Jamyang Lodro</actor>
+      <actor>Jamyang Nyima</actor>
+   </actors>
+   <release_date>September 7, 2007</release_date>
+   <running_time>90</running_time>
+   <rating/>
+   <reviews>
+      <review>
+         <snippet>Those expecting a reflective Buddhist piece will be surprised. First-time director Neten Chokling's film actually is a powerful revenge drama.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?&amp;rid=9766</url>
+         <critic>Richard James Havis</critic>
+      </review>
+      <review>
+         <snippet>Buddhist legend brings warnings of bad karma in Milarepa, a worthy and engaging period pic from Bhutan.</snippet>
+         <url>http://www.variety.com/review/VE1117929806.html?categoryid=31&amp;cs=1&amp;query=%22Milarepa%22</url>
+         <critic>Russell Edwards</critic>
+      </review>
+      <review>
+         <snippet>What really reaches us is the collective presence of the cast, most of them monks and other acting amateurs. They seem uniformly imbued with inherent grace and effortless spiritual bearing. And their smallest of gestures exude the kind of un-self-conscious gravitas that constitutes all fables.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1131966&amp;categories=Movies&amp;nm=1</url>
+         <critic>Desson Thomson</critic>
+      </review>
+      <review>
+         <snippet>Based on the story of Milarepa (1043 - 1123), who renounced the violence and vengeance of his early life to become a revered Tibetan Buddhist saint, lama Neten Chokling's directing debut ends on a frustrating spiritual cliffhanger.</snippet>
+         <url>http://www.tvguide.com/detail/movie.aspx?tvobjectid=290374&amp;more=ucmoviereview</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>Engages on a narrative level; however, Chokling’s direction fails to give the story any period texture or visceral emotion.</snippet>
+         <url>http://www.laweekly.com/film+tv/film-reviews/film-reviews-king-of-california-mr-woodcock-shadow-company/17215/?page=2</url>
+         <critic>James C. Taylor</critic>
+      </review>
+      <review>
+         <snippet>It's doubtful Milarepa will be opening in Beijing any time soon; all the more reason it deserves a look.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-saint14sep14,0,7079112.story?coll=cl-mreview</url>
+         <critic>John Anderson</critic>
+      </review>
+      <review>
+         <snippet>There are stunning locales but not much subtlety on display in Milarepa, a straight-as-an-arrow mythical-historical telling of a mystic’s early life.</snippet>
+         <url>http://movies.nytimes.com/2007/09/07/movies/07roun-005.html?ref=movies</url>
+         <critic>Laura Kern</critic>
+      </review>
+      <review>
+         <snippet>The spectacular scenery and compelling message counterbalance the somewhat plodding pace and wooden performances.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2007/09/21/DD6TS9EBL.DTL</url>
+         <critic>David Wiegand</critic>
+      </review>
+      <review>
+         <snippet>The strangest part is that half the movie’s arc is missing, but the credits promise its arrival in 2009 as Milarepa Part II: Path to Liberation.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A539239</url>
+         <critic>Marrit Ingman</critic>
+      </review>
+      <review>
+         <snippet>Despite timely and worthwhile subject matter, there is nothing very inspired or inspiring in what makes it to the screen. Maybe they're saving all of that for the sequel, too.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=10688</url>
+         <critic>Janice Page</critic>
+      </review>
+   </reviews>
+   <US_Gross>$204,784</US_Gross>
+   <weekend_gross>$8,330</weekend_gross>
+   <number_of_screens>1</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

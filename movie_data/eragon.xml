@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Eragon</name>
+   <company>Fox 2000 Pictures</company>
+   <genres>
+      <genre>Action</genre>
+      <genre>Adventure</genre>
+      <genre>FamilyKids</genre>
+      <genre>Fantasy</genre>
+   </genres>
+   <authors>
+      <author>Peter Buchman</author>
+      <author>Lawrence Konner</author>
+      <author>Mark Rosenthal</author>
+      <author>Jesse Wigutow</author>
+   </authors>
+   <directors>
+      <director>Stefen Fangmeier</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Edward Speleers</actor>
+      <actor>Sienna Guillory</actor>
+      <actor>Garrett Hedlund</actor>
+      <actor>Djimon Hounsou</actor>
+      <actor>Jeremy Irons</actor>
+      <actor>John Malkovich</actor>
+      <actor>Robert Carlyle</actor>
+      <actor>Gary Lewis</actor>
+      <actor>Rachel Weisz</actor>
+      <actor>Joss Stone</actor>
+   </actors>
+   <release_date>December 15, 2006</release_date>
+   <running_time>104</running_time>
+   <rating>PG</rating>
+   <reviews>
+      <review>
+         <snippet>Eragon may not be a big Oscar contender, but in a movie season filled with blood diamonds, fascist soldiers and Idi Amin, it provides a much-needed afternoon of PG-rated family-friendly adventure.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2006/12/15/DDGNRMVNRV1.DTL&amp;type=movies</url>
+         <critic>Peter Hartlaub</critic>
+      </review>
+      <review>
+         <snippet>I wish Eragon's cinematography were crisper, the music less Wagnerian, and the acting more consistent. But this movie isn't for me. It's for my 10-year-old, for whom the subtleties of narrative, photography and acting mean nothing.</snippet>
+         <url>http://ae.philly.com/entertainment/ui/philly/movie.html?id=767788&amp;reviewId=21951</url>
+         <critic>Carrie Rickey</critic>
+      </review>
+      <review>
+         <snippet>Eragon is a bit cheesy, but I rather liked it. It's sincere cheese... The special effects -- which include glowing-eyed heroes and villains, and flights over the mythical land of Alagaesia depicted in "dragon vision" -- are refreshing in their slightly out-of-date air.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-061215-movies-review-eragon,0,230200.story?coll=mmx-movies_top_heds</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>It's a pleasant enough fantastical adventure, but it does feel naggingly derivative.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2006-12-14-eragon-review_x.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>This likable adventure is basically "Lassie" with scales and should appeal to the books' large audience of adolescent boys.</snippet>
+         <url>http://tvguide.com/detail/movie.aspx?tvobjectid=284462&amp;more=ucmoviereview</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>The holiday movie season's only epic fantasy adventure, certainly gets no points for originality. It's such a clone of "The Lord of the Rings," it probably could lose a plagiarism suit. There's also a heavy dash of "Harry Potter." All bases are covered.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/295961_eragon15q.html</url>
+         <critic>William Arnold</critic>
+      </review>
+      <review>
+         <snippet>You're most likely find that Eragon is less a gem and more cubic zirconia -- nice to look at but not as preeeecioussss as its recent fantasy bretheren.</snippet>
+         <url>http://www.premiere.com/moviereviews/3323/eragon.html</url>
+         <critic>Laine Ewen</critic>
+      </review>
+      <review>
+         <snippet>The star of this fantasy adventure for young audiences is a charmer from the moment she is hatched (from a huge blue egg that starts to rock like a Mexican jumping bean). Her name is Saphira, she speaks with the voice of Rachel Weisz, and it doesn't matter that she's too young to breathe fire -- at first -- or that she waddles a bit on the ground, because she lives and breathes the joy of flight, which is exactly what was missing from most of Harry Potter's solos on a broom.</snippet>
+         <url/>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>The mess that's been made with all this money is maddening. This isn't economical moviemaking. It's a deluxe trailer for "Eragon 2."</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=7982</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>There is little complexity in the social, cultural or political shape of this world. So this film, directed by visual effects master Stefen Fangmeier and written by Peter Buchman in a straightforward manner, cannot escape the rote nature of such a fantasy.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?JSESSIONID=FCt1GyG2lt5HMlMLkVSy1nC9CfhK6nt1MyP0pq2qb8BQqTGySvWR!-110099270&amp;&amp;rid=8550</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>It's not only the mythical, mind-reading creature at the story's center that prevents the film from taking flight. A worn-out plot and a novice actor also contribute to the disappointment.</snippet>
+         <url>http://ae.miami.com/entertainment/ui/miami/movie.html;jsessionid=0B0AD9299234F6C0A367F8D22C764D80.prodapp14_ae_02?id=767788&amp;reviewId=21959&amp;startDate=12%2F15%2F2006</url>
+         <critic>Connie Ogle</critic>
+      </review>
+      <review>
+         <snippet>An exercise in competence guaranteed neither to offend the initiated nor to charm anyone else.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/LAC.20061215.ERAGON15/TPStory/TPEntertainment/Movies/</url>
+         <critic>Rick Groen</critic>
+      </review>
+      <review>
+         <snippet>If Eragon proves anything, it's that not all dragons produce magic.</snippet>
+         <url>http://www.avclub.com/content/node/56684</url>
+         <critic>Keith Phipps</critic>
+      </review>
+      <review>
+         <snippet>A sword-and-sorcery saga that desperately wants to be another "Lord of the Rings," Eragon succeeds in being only the palest of imitations.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-to.eragon15dec15,0,1867549.story?coll=bal-movies-utility</url>
+         <critic>Chris Kaltenbach</critic>
+      </review>
+      <review>
+         <snippet>Director Stefen Fangmeier, a well-regarded special-effects man and second-unit director ("Master and Commander," "Galaxy Quest") does a superb job visualizing the CGI dragon. But Fangmeier is working with a script without a single memorable line and far too many characters and creatures with silly names.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/1166048703313920.xml&amp;coll=7</url>
+         <critic>M. E. Russell</critic>
+      </review>
+      <review>
+         <snippet>Though the movie, which was adapted from a book written by Christopher Paolini when he was a teenager, aims high by ripping off the classics (even down to Eragon’s murdered uncle), what it most recalls are the cheesy lost sword-and-sorcery epics from the '80s, awful movies in the vein of "Yor: The Hunter From the Future" and "The Blade Master."</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1571353_1_0_,00.html</url>
+         <critic>Gregory Kirshling</critic>
+      </review>
+      <review>
+         <snippet>With the "Lord of the Rings" trilogy completed and the next "Chronicles of Narnia" movie two years away, fantasy aficionados needing a Yuletide fix may have to settle for this dull sword-and-sorcery epic.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/30857_ERAGON.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>Eragon is likely to center on its place among the likes of "Dragonheart," "Reign of Fire" and the rest of the mediocre dragon flicks.</snippet>
+         <url>http://www.calendarlive.com/movies/cl-et-eragon15dec15,0,1571535.story</url>
+         <critic>Alex Chun</critic>
+      </review>
+      <review>
+         <snippet>Though I don't think giving it a cuddly human personality and the vocals of Rachel Weisz helps much, the thing itself, part dog, part fish, part weasel, part dinosaur, is a terrific illusion, and the technical team manages to really sell the idea of flight. Too bad the acting is so lame, the story so derivative and the thing so long.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1111248&amp;categories=Movies&amp;nm=1</url>
+         <critic>Stephen Hunter</critic>
+      </review>
+      <review>
+         <snippet>Appropriating all the external trappings of big-budget fantasy but none of the requisite soul, this leaden epic never soars like the CG-rendered fire-breather at the core of its derivative mythology.</snippet>
+         <url>http://www.variety.com/review/VE1117932309.html?categoryid=31&amp;cs=1</url>
+         <critic>Justin Chang</critic>
+      </review>
+      <review>
+         <snippet>If some of the characters won't be returning for the sequel, no matter. In all likelihood, neither will the audience.</snippet>
+         <url>http://movies2.nytimes.com/2006/12/15/movies/15erag.html?ref=movies</url>
+         <critic>Jeannette Catsoulis</critic>
+      </review>
+      <review>
+         <snippet>Turns out to be as heavy and earthbound as an injured dragon.</snippet>
+         <url>http://www.nydailynews.com/12-15-2006/entertainment/col/story/480310p-403951c.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>The only interesting character is the dragon, who grows from an adorably dependent baby to a protective, intelligent adult voiced by Rachel Weisz.</snippet>
+         <url>http://ae.charlotte.com/entertainment/ui/charlotte/movie.html;jsessionid=3E4952FF3FAE556D31B40FDDA1FB1B5D.prodapp14_ae_01?id=767788&amp;reviewId=21944&amp;startDate=12%2F15%2F2006</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>When the studio tells us that parental guidance is suggested, does it occur to them that they should have taken their own advice?</snippet>
+         <url>http://www.nypost.com/seven/12152006/entertainment/movies/dragon_us_down_movies_kyle_smith.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>It's hard to imagine anyone having the patience to sit through this movie except perhaps a handful of 11-year old boys seeking vicarious wish fulfillment.</snippet>
+         <url>http://www.reelviews.net/movies/e/eragon.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>In a time of darkness, under the evil reign of John Malkovich -- who sits upon a throne in a different sound stage from the rest of the cast -- a hero shall rise. But lo, there will be little rejoicing, for this dragon rider (newcomer Edward Speleers) is but a nancy boy, about as imposing as Lance Bass, and somehow in possession of the only soap and clean clothes in all the land.</snippet>
+         <url>http://www.laweekly.com/film+tv/film-reviews/film-reviews/15204/</url>
+         <critic>Luke Y. Thompson</critic>
+      </review>
+      <review>
+         <snippet>Dear George Lucas: What gives with this Eragon jazz? I mean, gee whiz, did you seriously think that we wouldn't recognize you, the Great Man, as the guiding, um, FORCE behind this dull retelling of "Star Wars"?</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A428138</url>
+         <critic>Marc Savlov</critic>
+      </review>
+      <review>
+         <snippet>Technically competent, but essentially a fantasy movie that mistakes industrial light for magic. As dragon movies go, Dragonslayer, Reign Of Fire and even Dragonheart can rest easy.</snippet>
+         <url>http://www.empireonline.com/reviews/review.asp?FID=11295</url>
+         <critic>Chris Hewitt</critic>
+      </review>
+      <review>
+         <snippet>Eragon is laughably bad, mind-bogglingly derivative, and easily one of the worst movies of the year.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=9497</url>
+         <critic>Pete Vonder Haar</critic>
+      </review>
+   </reviews>
+   <US_Gross>$75,030,163</US_Gross>
+   <production_budget>$100,000,000</production_budget>
+   <weekend_gross>$23,239,907</weekend_gross>
+   <number_of_screens>3,020</number_of_screens>
+   <oscar_winning_actors_present/>
+   <num_oscar_winning_actors>1</num_oscar_winning_actors>
+   <oscar_winning_actor>jeremy irons</oscar_winning_actor>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Delgo</name>
+   <company>Fathom Studios</company>
+   <genres>
+      <genre>Adventure</genre>
+      <genre>Animation</genre>
+      <genre>Comedy</genre>
+      <genre>Fantasy</genre>
+      <genre>Romance</genre>
+   </genres>
+   <authors>
+      <author>Carl Dream</author>
+      <author>Patrick J. Cowan</author>
+      <author>Jennifer A. Jones</author>
+   </authors>
+   <directors>
+      <director>Marc F. Adler</director>
+      <director>Jason Maurer</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Freddie Prinze Jr.</actor>
+      <actor>Jennifer Love Hewitt</actor>
+      <actor>Val Kilmer</actor>
+      <actor>Chris Kattan</actor>
+      <actor>Kelly Ripa</actor>
+      <actor>Michael Clarke Duncan</actor>
+      <actor>Eric Idle</actor>
+      <actor>Malcolm McDowell</actor>
+   </actors>
+   <release_date>December 12, 2008</release_date>
+   <running_time>minutes,</running_time>
+   <rating>PG</rating>
+   <reviews>
+      <review>
+         <snippet>The battles are boring and the jokes as flat as old 7-Up, but the film's color palette and creatures -- from teeny buzzing critters to a monster that looks like a giant dust mite -- offer a lot to see. It's just not enough to save the convoluted story.</snippet>
+         <url>http://www.washingtonpost.com/gog/movies/delgo,1154664.html</url>
+         <critic>Jane Horwitz</critic>
+      </review>
+      <review>
+         <snippet>Delgo demonstrates how hard it is to create a memorable, credible-looking piece of animated entertainment.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=12483</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>Delgo is blocky and hastily coloured in. Characters are stiff; there is little variety in movement. It's a cheapo product ideally suited for a Saturday-morning pyjama vigil in front of a small screen. And the film suffers from a poverty of imagination to boot.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20081211.wdelgo1212/BNStory/Entertainment/home</url>
+         <critic>Stephen Cole</critic>
+      </review>
+      <review>
+         <snippet>Too leaden for adults and too baffling for kids.</snippet>
+         <url>http://movies.nytimes.com/2008/12/12/movies/12delg.html?ref=movies</url>
+         <critic>Jeannette Catsoulis</critic>
+      </review>
+      <review>
+         <snippet>The story is tedious, noisy and banal. It is also rather dark and convoluted for children, though it does have the familiar bombast of a video game.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2008-12-11-delgo_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>Delgo is a dud.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A712188</url>
+         <critic>Marc Savlov</critic>
+      </review>
+      <review>
+         <snippet>A few magic rocks and tepid battle scenes do little to inspire interest in the goings-on as Malcolm McDowell and Eric Idle spout villainy and punch lines, respectively.</snippet>
+         <url>http://www.nypost.com/seven/12122008/entertainment/movies/delgo_143820.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>You'll just wonder why this isn't a video game you can actually play.</snippet>
+         <url>http://www.villagevoice.com/2008-12-10/film/delgo-makes-great-video-game-fodder/</url>
+         <critic>Luke Y. Thompson</critic>
+      </review>
+      <review>
+         <snippet>It says plenty about how torpid the storytelling in Delgo is that the end credits are probably the best thing in the film.</snippet>
+         <url>http://www.latimes.com/entertainment/news/reviews/la-et-delgo12-2008dec12,0,7543676.story</url>
+         <critic>Mark Olsen</critic>
+      </review>
+      <review>
+         <snippet>Too grim for kids and too dumb for grown-ups.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20245344,00.html</url>
+         <critic>Adam Markovitz</critic>
+      </review>
+   </reviews>
+   <US_Gross>$915,840</US_Gross>
+   <weekend_gross>$511,920</weekend_gross>
+   <number_of_screens>2,160</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

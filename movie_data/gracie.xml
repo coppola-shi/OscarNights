@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Gracie</name>
+   <company>Picturehouse Entertainment</company>
+   <genres>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author>Lisa Marie Petersen</author>
+      <author>Karen Janszen</author>
+      <author>Andrew Shue</author>
+      <author>Davis Guggenheim</author>
+   </authors>
+   <directors>
+      <director>Davis Guggenheim</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Carly Schroeder</actor>
+      <actor>Elisabeth Shue</actor>
+      <actor>Dermot Mulroney</actor>
+      <actor>Andrew Shue</actor>
+      <actor>Jesse Lee Soffer</actor>
+      <actor>Joshua Caras</actor>
+   </actors>
+   <release_date>June 1, 2007</release_date>
+   <running_time>95</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>There's a reason the underdog sports formula is followed over and over: When it's executed as skillfully as it is here, the damned thing works every time.</snippet>
+         <url>http://www.avclub.com/content/cinema/gracie</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>A familiar but rewarding little parable.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/318017_gracie01q.html</url>
+         <critic>William Arnold</critic>
+      </review>
+      <review>
+         <snippet>Guggenheim doesn't bring much visual style to the game. But he brings heart (and some Bruce Springsteen on the soundtrack) to the story of a lost Jersey girl redeemed by sport. Yeah, I cried. And cheered. You will too.</snippet>
+         <url>http://www.philly.com/inquirer/columnists/carrie_rickey/20070601_In_a_moving_story__a_girl_finds_her_way_through_soccer.html</url>
+         <critic>Carrie Rickey</critic>
+      </review>
+      <review>
+         <snippet>An inspirational sports movie, soccer subdivision, and it stops at every expected station of the cross on its road to the triumphant against-all-odds finale (in sudden-death overtime, yet). Yet it also feels appealingly handmade in a way most jock dramas don't.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=9620</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>For all its faults, Gracie is made with enough grace to get us rooting for the protagonist.</snippet>
+         <url>http://www.reelviews.net/movies/g/gracie.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>Dermot Mulroney takes the largest male role, that of the driven ex-soccer star and patriarch of the onscreen family. From certain angles he looks like a Shue too.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-070601-movies-review-gracie,0,5936415.story?coll=mmx-movies_top_heds</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>The New Jersey locations and soundtrack help ground the story in a particular time and place, and Schroeder delivers a terrific performance.</snippet>
+         <url>http://www.tvguide.com/movies/gracie/review/287517</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>An earnest, well-acted, poignant drama that nevertheless runs afoul of sports movie clichés.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-gracie1jun01,0,7598824.story?coll=cl-mreview</url>
+         <critic>Lael Loewenstein</critic>
+      </review>
+      <review>
+         <snippet>A familiar underdog story told with unusual sensitivity.</snippet>
+         <url>http://movies2.nytimes.com/2007/05/31/movies/01grac.html?ref=movies</url>
+         <critic>Jeannette Catsoulis</critic>
+      </review>
+      <review>
+         <snippet>Directed by Davis Guggenheim ("An Inconvenient Truth"), the movie is heavy on hokum but easy to like, thanks to the spunky Schroeder.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1132084&amp;categories=Movies&amp;nm=1</url>
+         <critic>Desson Thomson</critic>
+      </review>
+      <review>
+         <snippet>A gentle, easygoing picture -- it's not exactly dramatically gripping, but somehow, its spirit carries it through.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2007/06/01/gracie/index.html</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>Guggenheim managed to turn a Power Point presentation into a crowd-pleasing Academy Award winner, but he can't do much to free Gracie from its constraints and clichés.</snippet>
+         <url>http://ae.miami.com/entertainment/ui/miami/movie.html;jsessionid=7D71B5E3FB6F3EEE787DCCB9657A7DF0.prodapp15_ae_02?id=889211&amp;reviewId=22478&amp;startDate=06%2F01%2F2007</url>
+         <critic>Connie Ogle</critic>
+      </review>
+      <review>
+         <snippet>Falls into the category of heart-warming sports yarns, and, if television still made movies-of-the-week, it would enjoy a rightful home.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20070621.wgracie22/BNStory/Entertainment/home</url>
+         <critic>Rick Groen</critic>
+      </review>
+      <review>
+         <snippet>Gracie is ably played by Carly Schroeder, and the tale of her uphill battle to play competitive soccer is based on the youthful activism of actress Elisabeth Shue. Shue was the first person in her New Jersey community to break down the hurdles erected to keep girls from the sport.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2007-05-31-gracie_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>For all the personal ties to the material, the film too often reaches for broad-strokes inspiration in a way that feels generic.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?JSESSIONID=DKmyGcnCpwm5GGdF6QgXph2Lhf4BHnjrzKbtp2hQ3VxlJn0kyDXK!-1450789326&amp;&amp;rid=9290</url>
+         <critic>Sheri Linden</critic>
+      </review>
+      <review>
+         <snippet>Firing on all formulaic cylinders, Gracie is heavy with tidy meaning and mealy morality; the most dubious idea here is that if you don't let a girl play soccer, she just may turn to cigarettes, halter tops, and sex with the starting forward</snippet>
+         <url>http://www.villagevoice.com/film/0722,orange,76806,20.html</url>
+         <critic>Michelle Orange</critic>
+      </review>
+      <review>
+         <snippet>Modestly engaging but thoroughly predictable.</snippet>
+         <url>http://www.variety.com/review/VE1117933794.html?categoryid=31&amp;cs=1</url>
+         <critic>Joe Leydon</critic>
+      </review>
+      <review>
+         <snippet>You miss the knockabout edge of "Bend It Like Beckham" -- though the ending, in its Pavlovian sports-flick way, pumps you up.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20040676,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>The genuine sense of loss and nicely observed family details don't stand a chance against the generic buildup to the big game.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/31678_GRACIE.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>A nicely confident Schroeder strides though the movie as if it's a masterpiece, and Mulroney is equally charismatic. But they can't quite save Gracie from feeling like a vanity project that will appeal mostly to middle-school soccer teams, and various extended members of the Shue family.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2007/06/01/2007-06-01_soccer_tale_tripped_up_by_cliches.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>The script is simply shameless, taking some of the details of the Shues' lives and then slathering them with a thick layer of Hollywood frosting.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/1180565759161510.xml&amp;coll=7</url>
+         <critic>Stephen Whitty</critic>
+      </review>
+      <review>
+         <snippet>Gracie is painfully earnest, which might be OK were it not also painfully trite, painfully cliched and painfully formulaic.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-to.gracie01jun01,0,6590748.story?coll=bal-movies-utility</url>
+         <critic>Chris Kaltenbach</critic>
+      </review>
+      <review>
+         <snippet>There's a lot of angry prejudice toward women playing soccer in the film, and a semi-fun "Footloose"-esque scene in which Gracie petitions the school board for the freedom to play. But melodrama reigns supreme as the film disintegrates into movie-of-the-week predictability.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A479266</url>
+         <critic>Toddy Burton</critic>
+      </review>
+      <review>
+         <snippet>Considering that Gracie says nothing that hasn't been said in dozens of films, one does wonder whether Hollywood is being as diligent as it could be in digging up fresh story ideas.</snippet>
+         <url>http://www.nypost.com/seven/06012007/entertainment/movies/old_shues_on_another_foot_movies_kyle_smith.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>Sporadic on-field violence is only a tiny reason that Gracie disappoints, but it's indicative of the film's greater problem. Producers Elisabeth and Andrew Shue seem so intent on creating a hero out of the main character and villains out of almost everyone else, that they've completely distorted reality.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2007/06/01/DDGOJQ475C1.DTL&amp;type=movies</url>
+         <critic>Peter Hartlaub</critic>
+      </review>
+   </reviews>
+   <US_Gross>$2,956,339</US_Gross>
+   <production_budget>$9,000,000</production_budget>
+   <weekend_gross>$1,355,904</weekend_gross>
+   <number_of_screens>1,164</number_of_screens>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

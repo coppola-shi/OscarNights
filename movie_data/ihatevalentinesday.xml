@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>I Hate Valentine&amp;#039;s Day</name>
+   <company>IFC Films</company>
+   <genres>
+      <genre>Comedy</genre>
+      <genre>Romance</genre>
+   </genres>
+   <authors>
+      <author>Nia Vardalos</author>
+   </authors>
+   <directors>
+      <director>Nia Vardalos</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Nia Vardalos</actor>
+      <actor>John Corbett</actor>
+      <actor>James Purefoy</actor>
+   </actors>
+   <release_date>July 3, 2009</release_date>
+   <running_time>89</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>Although the movie was clearly made on the cheap, cinematography, sets and costumes belie the modest budget. No one will be thunderstruck by the insights buried in "Valentine's Day," but couples seeking romantic fluff probably will find just enough humor and heart to satisfy them.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film-reviews/i-hate-valentine-s-day-film-review-1003988869.story</url>
+         <critic>Stephen Farber</critic>
+      </review>
+      <review>
+         <snippet>A charmless rom-com.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20290042,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>A plodding mediocrity with an almost mercenary adherence to formula.</snippet>
+         <url>http://www.variety.com/review/VE1117940575.html?categoryid=31&amp;cs=1</url>
+         <critic>Andrew Barker</critic>
+      </review>
+      <review>
+         <snippet>The movie is set up as a valentine to Vardalos. She should try sending herself flowers.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20090701/REVIEWS/907019987</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>This is a film with a mission: Get to the grand-gesture climax without disturbing any clichés in its path.</snippet>
+         <url>http://www.latimes.com/entertainment/news/la-et-valentine3-2009jul03,0,4094454.story</url>
+         <critic>Robert Abele</critic>
+      </review>
+      <review>
+         <snippet>Vardalos calls her film "the ultimate indie experiment," and if that's what is meant by ham-fisted pacing, writing, and acting, this is as ultimate and as indie as it gets.</snippet>
+         <url>http://www.villagevoice.com/2009-07-01/film/i-hate-valentine-s-day-vardalos-ham-fisted-greek-wedding-rebound-flick/</url>
+         <critic>Ella Taylor</critic>
+      </review>
+      <review>
+         <snippet>I Hate Valentine's Day is a horror show masquerading as a romantic comedy. Maybe Vardalos is just in the wrong line of work.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2009/07/01/valentines_day/index.html</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>You might blame Nora Ephron, whose screenplay for “When Harry Met Sally” established the formula that I Hate Valentine’s Day runs into the ground. Compared with this, Ms. Ephron is Chekhov.</snippet>
+         <url>http://movies.nytimes.com/2009/07/03/movies/03hate.html?ref=movies</url>
+         <critic>Stephen Holden</critic>
+      </review>
+      <review>
+         <snippet>This is probably the year's worst romantic comedy -- and that's saying something in a year that includes "Ghosts of Girlfriends Past" and "Whatever Works."</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2009-07-02-i-hate-valentines-day_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>Unfortunately, Vardalos has no one else to blame for a shockingly amateurish effort that goes from bad (her oddly insincere performance) to worse (consistently sloppy camera work) to make-it-stop (it would be an insult to television to call the script sitcomish).</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2009/07/02/2009-07-02_sorry_nia_vardalos_we_hate_valentines_day_too.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>Stick a fork in Nia Vardalos. I've been to funerals that were a lot more fun than I Hate Valentine's Day, her second alleged romantic comedy in less than a month.</snippet>
+         <url>http://www.nypost.com/seven/07032009/entertainment/movies/big__fat_flop_proves_honeymoons_over_177334.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>A nauseating, stridently phony rom-com.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/34525_I_HATE_VALENTINES_DAY.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>An unspeakable nadir in the career of its writer-director-star.</snippet>
+         <url>http://www.avclub.com/articles/i-hate-valentines-day,29952/</url>
+         <critic>Nathan Rabin</critic>
+      </review>
+   </reviews>
+   <US_Gross>$11,004</US_Gross>
+   <weekend_gross>$5,009</weekend_gross>
+   <number_of_screens>3</number_of_screens>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>true</independence_release>
+   <labor_release>false</labor_release>
+</movie>

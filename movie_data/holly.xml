@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Holly</name>
+   <company>Priority Films</company>
+   <genres>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author>Guy Jacobson</author>
+      <author>Guy Moshe</author>
+   </authors>
+   <directors>
+      <director>Guy Moshe</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Ron Livingston</actor>
+      <actor>Chris Penn</actor>
+      <actor>Udo Kier</actor>
+      <actor>Virginie Ledoyen</actor>
+      <actor>Thuy Nguyen</actor>
+   </actors>
+   <release_date>November 9, 2007</release_date>
+   <running_time>114</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>The filmmaker's vision is harrowingly ugly and profoundly upsetting every step of the way.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/341585_holly30q.html</url>
+         <critic>William Arnold</critic>
+      </review>
+      <review>
+         <snippet>An unsparing look at child prostitution is a hard sell for audiences, but this movie is a memorable achievement, far superior to the recently released "Trade," another movie about sex trafficking.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?&amp;rid=10183</url>
+         <critic>Stephen Farber</critic>
+      </review>
+      <review>
+         <snippet>Though treading a firm, clear-eyed line between education and exploitation, the well-acted and technically proficient drama -- too chaste to scandalize, too dark for general audiences -- works as a mobilizing tool for its cause.</snippet>
+         <url>http://www.variety.com/review/VE1117931364.html?categoryid=31&amp;cs=1&amp;p=0</url>
+         <critic>Eddie Cockrell</critic>
+      </review>
+      <review>
+         <snippet>Though the storytelling is haphazard, artistry often transcends mere good intentions. Director Guy Moshe scavenges color from the torn fringes of Phnom Penh, and the composer Tôn-Thât Tiêt provides a spare score, laying bleary sadness over the art-house muckracking.</snippet>
+         <url>http://www.villagevoice.com/film/0745,pinkerton,78267,20.html</url>
+         <critic>Nick Pinkerton</critic>
+      </review>
+      <review>
+         <snippet>A fairly good movie about an evil subject.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/119629414436690.xml&amp;coll=7</url>
+         <critic>M. E. Russell</critic>
+      </review>
+      <review>
+         <snippet>In Moshe’s new film, Livingston throws himself with defeated gusto into the role of Patrick.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A564605</url>
+         <critic>Josh Rosenblatt</critic>
+      </review>
+      <review>
+         <snippet>Half drama, half social tract, Guy Moshe's feature debut is meant to illustrate the horrors of child prostitution in Southeast Asia. The intentions, unfortunately, are more notable than the execution.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2007/11/09/2007-11-09_short_takes_more_movie_reviews.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>Might have been more effective as a documentary.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2007/11/30/DD6RTKKMA.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>An emotional thriller that is by turns contrived and impassioned.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1144691&amp;categories=Movies&amp;nm=1</url>
+         <critic>Ann Hornaday</critic>
+      </review>
+      <review>
+         <snippet>The film's meandering narrative, melodramatic conclusion and underdeveloped characters overshadow the genuinely shocking abuses it condemns.</snippet>
+         <url>http://www.tvguide.com/movies/holly/review/102286</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>A dawdling, myopic drama.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20158934,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>There’s a riveting story lurking inside Holly, a documentary-fiction hybrid about sex trafficking in Cambodia. It’s just not the one the filmmakers want to tell.</snippet>
+         <url>http://movies.nytimes.com/2007/11/09/movies/09holl.html?ref=movies</url>
+         <critic>Jeannette Catsoulis</critic>
+      </review>
+      <review>
+         <snippet>A dreary message movie.</snippet>
+         <url>http://www.nypost.com/seven/11092007/entertainment/movies/holly_396162.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+   </reviews>
+   <US_Gross>$163,069</US_Gross>
+   <weekend_gross>$32,406</weekend_gross>
+   <number_of_screens>1</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

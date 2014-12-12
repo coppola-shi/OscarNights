@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Paranoid Park</name>
+   <company>IFC First Take</company>
+   <genres>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author>Blake Nelson</author>
+      <author>Gus Van Sant</author>
+   </authors>
+   <directors>
+      <director>Gus Van Sant</director>
+   </directors>
+   <origins>
+      <origin>FranceUSA</origin>
+   </origins>
+   <actors>
+      <actor>Gabe Nevins</actor>
+      <actor>Daniel Liu</actor>
+      <actor>Taylor Momsen</actor>
+      <actor>Jake Miller</actor>
+      <actor>Lauren McKinney</actor>
+   </actors>
+   <release_date>March 7, 2008</release_date>
+   <running_time>90</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>The pleasing circularity of Gus Van Sant's masterful Paranoid Park is not only a function of the film's narrative structure but reflects the arc of its maker's career. Few directors have revisited their earliest concerns with such vigor.</snippet>
+         <url>http://www.villagevoice.com/film/0810,350959,350959,20.html</url>
+         <critic>J. Hoberman</critic>
+      </review>
+      <review>
+         <snippet>A haunting, voluptuously beautiful portrait of a teenage boy who, after being suddenly caught in midflight, falls to earth.</snippet>
+         <url>http://movies.nytimes.com/2008/03/07/movies/07para.html?ref=movies</url>
+         <critic>Manohla Dargis</critic>
+      </review>
+      <review>
+         <snippet>Appropriately structured like a ride on skateboard: It swoops back and forth in time, hovers in midair, twists back on itself over and over again, then rolls into silence.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2008/03/13/DDK1VHRDU.DTL&amp;type=movies</url>
+         <critic>David Wiegand</critic>
+      </review>
+      <review>
+         <snippet>Youth and death meet again in Gus Van Sant’s Paranoid Park, a gorgeously stark, mesmerizingly elliptical story told in the same lyrical-prosaic style that has characterized his latest films.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-paranoid14mar14,0,3801259.story</url>
+         <critic>Carina Chocano</critic>
+      </review>
+      <review>
+         <snippet>It's a film assembled from moments out of time, destined forever to weigh down the boy at their center.</snippet>
+         <url>http://www.avclub.com/content/cinema/paranoid_park</url>
+         <critic>Keith Phipps</critic>
+      </review>
+      <review>
+         <snippet>Through immaculate use of picture, sound and time, the director adds another panel to his series of pictures about disaffected, disconnected youth.</snippet>
+         <url>http://www.variety.com/index.asp?layout=festivals&amp;jump=review&amp;reviewid=VE1117933712&amp;cs=1&amp;p=0</url>
+         <critic>Todd McCarthy</critic>
+      </review>
+      <review>
+         <snippet>Paranoid Park is a supernaturally perfect fusion of Van Sant’s current conceptual-art-project head-trip aesthetic and Blake Nelson’s finely tuned first-person “young adult” novel.</snippet>
+         <url>http://nymag.com/movies/reviews/44751/</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>It's a new and inspired vision of a familiar state of being -- teenage anomie amidst the crumbling wreckage of a middle-class American family. In the space of 78 minutes, Mr. Van Sant and his cinematographer, the peerless Christopher Doyle, manage to suffuse that state with haunting sadness, ubiquitous danger, pulsing power and flickers of hope.</snippet>
+         <url>http://online.wsj.com/article/SB120544686754634911.html</url>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>Paranoid Park shows the Portland-based director to be working at the pinnacle of his art in every frame, in every composition. It's breathtaking, heartbreaking, tragic, gorgeous, and true all at the same time.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A602923</url>
+         <critic>Marc Savlov</critic>
+      </review>
+      <review>
+         <snippet>“Elephant” may have won the Palme d’Or at Cannes but it really didn’t have anything to say about anything. Modest and artful, Paranoid Park says a great deal.</snippet>
+         <url>http://chicago.metromix.com/movies/movie_review/movie-review-paranoid-park/336636/content</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>It might seem, from 2002's "Gerry" to his ersatz Kurt Cobain biopic, "Last Days," that Gus Van Sant has been making the same movie: an enigmatic and poetic paean to (teenaged) male beauty, disaffection and inscrutability.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20080319.park20/BNStory/Entertainment/home</url>
+         <critic>Jason McBride</critic>
+      </review>
+      <review>
+         <snippet>The story of Paranoid Park may center on an extreme and unusual case, but it's Van Sant's understanding of -- and compassion for -- the hell of growing up that makes the film such a profound and lasting pleasure.</snippet>
+         <url>http://www.miamiherald.com/1054/story/471979.html</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>It's terribly strong -- in structural ingenuity, emotional pull, and particularly visual beauty.</snippet>
+         <url>http://www.premiere.com/moviereviews/4444/paranoid-park.html</url>
+         <critic>Glenn Kenny</critic>
+      </review>
+      <review>
+         <snippet>The film's sound design, sampling Beethoven and Nino Rota, among others, links up with visual miracles performed by Rain Kathy Li and Wong Kar-Wai's noted cinematographer, Christopher Doyle (In the Mood for Love), to take us inside Alex's head. The result, a defiant slap at slick Hollywood formula, is mesmerizing.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/14721953/review/18947761/paranoid_park</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>Paranoid Park has the slightly glum insularity of minimalist fiction, but it's the first of Van Sant's blitzed-generation films in which a young man wakes up instead of shutting down.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20183712,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>In Paranoid Park, Gus Van Sant enters the world of high school kids just as he did in "Elephant," achieving this time a much sharper, more focused portrait of how these rapidly maturing young people act, think, speak and behave.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/imdb/reviews/article_display.jsp?rid=9251&amp;vnu_special_account_code=thrsiteimdbpro</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>Van Sant is such an assured filmmaker that Paranoid Park is almost inescapably absorbing; he has found a particularly engaging leading man in Miller, whose expressive, even painterly face goes from blank to angelic in the blink of a long-lashed eye.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1143213&amp;categories=Movies&amp;nm=1</url>
+         <critic>Ann Hornaday</critic>
+      </review>
+      <review>
+         <snippet>Van Sant has been quoted in recent media reports as being done with the type of filmmaking that these four movies represent. If that's true, then Paranoid Park is a fine summation of what he learned from making them.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/1205956508317100.xml&amp;coll=7</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>It's all confusing, woozy and slightly stoned, and feels very much like adolescence.</snippet>
+         <url>http://www.tvguide.com/movies/paranoid-park/review/292689</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>The story's fractured structure - and Christopher Doyle's dreamlike cinematography - make for a striking mood piece.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2008/03/07/2008-03-07_short_takes_more_movie_reviews.html?page=0</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>Slight but fascinating.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=11034</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>Paranoid Park is a rare breed: a movie about teenagers in which the characters talk like real teenagers, act like real teenagers, and are played by real teenagers.</snippet>
+         <url>http://www.reelviews.net/movies/p/paranoid_park.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>The fluid film cinematography of Christopher Doyle and Rain Kathy Li, intercut with grainy Super-8 shots of park regulars, tracks the skaters in their free-flying, free-styling and free-falling grace. In these privileged moments, the film is close to transcendence, defying time, space and gravity.</snippet>
+         <url>http://www.philly.com/inquirer/columnists/carrie_rickey/20080321_An_impressionistic_teen_drama.html</url>
+         <critic>Carrie Rickey</critic>
+      </review>
+      <review>
+         <snippet>The chief triumph here, it seems to me though, is one of style over substance. The disaffected kids who shuffle through its universe have nothing to say, nothing to tell us. I’m not sure the movie has a whole lot more.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=10887</url>
+         <critic>Rick Kisonak</critic>
+      </review>
+      <review>
+         <snippet>If Paranoid Park is mainly an accumulation of the signs and symbols and images inside Van Sant's own head, that's artistically legitimate. When he makes a feeble effort to connect Alex's plight to the Iraq war and the cultural climate of Bush-era America, I just don't buy it.</snippet>
+         <url>http://www.salon.com/ent/movies/btm/feature/2008/03/06/paranoid/</url>
+         <critic>Andrew O&amp;#039;Hehir</critic>
+      </review>
+      <review>
+         <snippet>Paranoid Park is a movie about its teen hero's inability to express his feelings: to himself, to his parents, to his friends and, unfortunately, to the audience.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/355805_paranoid21q.html</url>
+         <critic>William Arnold</critic>
+      </review>
+      <review>
+         <snippet>There's some striking camerawork by Christopher Doyle (in 35-millimeter) and Rain Kathy Li (in Super-8), though this doesn't alter the overall feeling of random, nihilistic drift.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/32892_PARANOID_PARK.html</url>
+         <critic>Jonathan Rosenbaum</critic>
+      </review>
+   </reviews>
+   <US_Gross>$486,021</US_Gross>
+   <weekend_gross>$29,828</weekend_gross>
+   <number_of_screens>2</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

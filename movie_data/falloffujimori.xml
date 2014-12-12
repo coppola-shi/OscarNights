@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Fall of Fujimori, The</name>
+   <company>Stardust Pictures / Cinema Libre Studio</company>
+   <genres>
+      <genre>Documentary</genre>
+   </genres>
+   <authors>
+      <author/>
+   </authors>
+   <directors>
+      <director>Ellen Perry</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Alberto Fujimori</actor>
+      <actor>Keiko Fujimori</actor>
+      <actor>Susana Higuchi</actor>
+      <actor>Vladimiro Montesinos</actor>
+      <actor>Gustavo Goritti</actor>
+   </actors>
+   <release_date>January 18, 2006</release_date>
+   <running_time>83</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>It's a fascinating, haunting, unintentionally gruesome spectacle with, as Perry has said, echoes of Shakespearean tragedy.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2006/01/12/btm/index2.html?CP=IMD&amp;DN=110</url>
+         <critic>Andrew O&amp;#039;Hehir</critic>
+      </review>
+      <review>
+         <snippet>A cautionary essay on the risks to democracy posed by the fight against terrorism.</snippet>
+         <url>http://movies2.nytimes.com/2006/01/18/movies/18fuji.html</url>
+         <critic>Dana Stevens</critic>
+      </review>
+      <review>
+         <snippet>Fujimori comes off as amiable and in full denial, recalling the positive headlines of his presidency - and there were many - while laying the scandals off on Montesinos.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/moviereviews/story/384269p-326097c.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>If the end justifies the means, it would be hard to deny that the legacy of Alberto Fujimori, the disgraced former President of Peru, is largely triumphant.</snippet>
+         <url>http://www.avclub.com/content/node/44519</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>Perry - who also produced, wrote and lensed - was able to talk Fujimori into letting her interview him on camera in Japan. He puts on a great show.</snippet>
+         <url>http://www.nypost.com/movies/60654.htm</url>
+         <critic>V.A. Musetto</critic>
+      </review>
+      <review>
+         <snippet>Although they’re not revealing in a "Barbara Walters gets the guest to cry" sense, the interview segments are queasily fascinating.</snippet>
+         <url>http://www.laweekly.com/film+tv/film-reviews/film-reviews/13430/</url>
+         <critic>Adam Nayman</critic>
+      </review>
+      <review>
+         <snippet>A confoundingly mercurial figure, Fujimori is a fascinating subject. But in her focus on the man, Perry fails to paint a broader picture of a racially diverse and extremely complex country.</snippet>
+         <url>http://www.calendarlive.com/movies/chocano/cl-et-fall5may05,0,3656209.story</url>
+         <critic>Carina Chocano</critic>
+      </review>
+      <review>
+         <snippet>Ellen Perry seems keenly aware, there is really no need to embellish the Fujimori story, which has enough unlikely melodrama for six Italian operas.</snippet>
+         <url>http://www.variety.com/index.asp?layout=sundance2005&amp;nav=reviews&amp;content=reviews&amp;reviewid=VE1117926060&amp;categoryid=1865&amp;cs=</url>
+         <critic>John Anderson</critic>
+      </review>
+      <review>
+         <snippet>The Fall of Fujimori is more-or less-than the flip side to last week's Film Forum Peru primer "State of Fear": It's a prismatic shudder, a maddening manifestation of historical ambivalence.</snippet>
+         <url>http://www.villagevoice.com/film/0603,atkinson,71803,20.html</url>
+         <critic>Michael Atkinson</critic>
+      </review>
+      <review>
+         <snippet>To her credit, Perry isn't taken in by Fujimori's attempts to distance himself from the controversies that plagued his presidency. Helped by Kim Roberts's excellent editing, she succinctly chronicles his unlikely ascent and subsequent collapse.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/capsules/27692_FALL_OF_FUJIMORI</url>
+         <critic>Joshua Katzman</critic>
+      </review>
+      <review>
+         <snippet>Perry creates an objective yet not overly dry character study of the man, now a fugitive living in Japan, as he recalls his days in power.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=681</url>
+         <critic>Jeremy Mathews</critic>
+      </review>
+   </reviews>
+   <US_Gross>$4,630</US_Gross>
+   <weekend_gross>$4,630</weekend_gross>
+   <number_of_screens>1</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Edge of Love, The</name>
+   <company>Capitol Films</company>
+   <genres>
+      <genre>Drama</genre>
+      <genre>Romance</genre>
+   </genres>
+   <authors>
+      <author>Sharman Mac</author>
+      <author>Donald</author>
+   </authors>
+   <directors>
+      <director>John Maybury</director>
+   </directors>
+   <origins>
+      <origin>UK</origin>
+   </origins>
+   <actors>
+      <actor>Keira Knightley</actor>
+      <actor>Sienna Miller</actor>
+      <actor>Cillian Murphy</actor>
+      <actor>Matthew Rhys</actor>
+   </actors>
+   <release_date>March 13, 2009</release_date>
+   <running_time>110</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>The cast is strong and the first act has an intriguingly dreamy quality, but it gives way to a soggy ending.</snippet>
+         <url>http://www.empireonline.com/reviews/review.asp?DVDID=117917</url>
+         <critic>Olly Richards</critic>
+      </review>
+      <review>
+         <snippet>The film belongs to the women, with Knightley going from strength to strength (and showing she can sing!) and Miller again proving that she has everything it takes to be a major movie star.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?&amp;rid=11261</url>
+         <critic>Ray Bennett</critic>
+      </review>
+      <review>
+         <snippet>While the period drama has several redeeming features, tonally it's all over the map, veering between artsy stylization and hum-drum, sometimes almost twee melodrama.</snippet>
+         <url>http://www.variety.com/review/VE1117937461.html?categoryid=31&amp;cs=1&amp;query=edge+of+love</url>
+         <critic>Leslie Felperin</critic>
+      </review>
+      <review>
+         <snippet>The Edge Of Love is more like a museum piece, placing historical figures in frozen positions, and asking us to judge them as the curators do.</snippet>
+         <url>http://www.avclub.com/articles/the-edge-of-love,25302/</url>
+         <critic>Noel Murray</critic>
+      </review>
+      <review>
+         <snippet>That none of the protagonists earns the audience's sympathy is more likely a failure of the real-life characters rather than the actors, who deliver fine performances -- especially Rhys, who seems to be channeling Richard Burton channeling Dylan Thomas at his most manipulatively loutish.</snippet>
+         <url>http://www.washingtonpost.com/gog/movies/the-edge-of-love,1152403.html</url>
+         <critic>Ann Hornaday</critic>
+      </review>
+      <review>
+         <snippet>Holds a lot of promise in its first hour and never completely falls apart, but it's ultimately not the movie it might have been.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2009/04/02/MVJR16Q3VM.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>The best thing The Edge of Love could do for you is to send you back to Thomas's poetry. Dash this folderol.</snippet>
+         <url>http://www.csmonitor.com/2009/0314/p25s03-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>Sometimes glossy, sometimes hard-edged, the film alternates between glitz and unpleasantness and ends as a kind of glum soap opera, too glam to be bleak and too bleak to be so glam.</snippet>
+         <url>http://www.latimes.com/entertainment/news/reviews/la-et-edge13-2009mar13,0,1206228.story</url>
+         <critic>Kenneth Turan</critic>
+      </review>
+      <review>
+         <snippet>The Edge of Love may be intended as a biopic of Welsh poet Dylan Thomas, but it’s destined to be remembered as the movie that brought Keira Knightley and Sienna Miller into the same bathtub.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2009/03/19/2009-03-19_edge_of_love_isnt_so_edgy__despite_keira.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>The story here, plucked from Thomas's life and embellished, proves almost entirely devoid of interest.</snippet>
+         <url>http://movies.nytimes.com/2009/03/20/movies/20edge1.html?ref=movies</url>
+         <critic>Manohla Dargis</critic>
+      </review>
+      <review>
+         <snippet>A "great poet" movie, the poet in this case being Dylan Thomas, and it's utter bollocks.</snippet>
+         <url>http://www.boston.com/ae/movies/articles/2009/04/03/the_edge_of_love/</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>A stagy, arty, and uncompelling account of the Welsh writer and his menage-y relations.</snippet>
+         <url>http://www.philly.com/inquirer/columnists/steven_rea/20090320_Messy__arty_telling_of_a_messy_Dylan_Thomas_scandal.html</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>Director John Maybury showed a defter hand with the artist biopic in his 1998 Francis Bacon film, "Love Is the Devil." Here he repeatedly falls into the genre’s traps, creating an inert, claustrophobic movie.</snippet>
+         <url>http://www.laweekly.com/2009-03-12/film-tv/movie-reviews-miss-march-race-to-witch-mountain-sunshine-cleaning/</url>
+         <critic>Melissa Anderson</critic>
+      </review>
+   </reviews>
+   <US_Gross>$33,260</US_Gross>
+   <weekend_gross>$3,944</weekend_gross>
+   <number_of_screens>1</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

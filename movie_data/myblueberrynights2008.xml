@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>My Blueberry Nights</name>
+   <company>The Weinstein Company</company>
+   <genres>
+      <genre>Drama</genre>
+      <genre>Romance</genre>
+   </genres>
+   <authors>
+      <author>Wong Kar Wai</author>
+      <author>Lawrence Block</author>
+   </authors>
+   <directors>
+      <director>Wong Kar Wai</director>
+   </directors>
+   <origins>
+      <origin>HongKongChinaFrance</origin>
+   </origins>
+   <actors>
+      <actor>Jude Law</actor>
+      <actor>Norah Jones</actor>
+      <actor>Natalie Portman</actor>
+      <actor>Rachel Weisz</actor>
+      <actor>David Strathairn</actor>
+   </actors>
+   <release_date>April 4, 2008</release_date>
+   <running_time>90</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>Captures the overwhelming and uncontrollable emotional assault of loving and living through captured moments and sensuous images.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/359476_blueberry18q.html</url>
+         <critic>Sean Axmaker</critic>
+      </review>
+      <review>
+         <snippet>Wildly romantic.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2008/04/17/DD46105VIB.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>It's a stylish and sweet film with moments of affecting brilliance that counterbalance its flaws.</snippet>
+         <url>http://blog.oregonlive.com/madaboutmovies/2008/04/review_my_blueberry_nights_pie.html</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>Despite its flaws, the film has the same dreamy, romantic melancholy that distinguishes Wong's best films.</snippet>
+         <url>http://www.tvguide.com/movies/blueberry-nights/review/293187</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>Wong's visions of a New York café, a Memphis bar, and a Vegas casino--not to mention the swaths of beautiful country in the Southwest--have that enveloping quality that make his films so persistently seductive. The natives should feel flattered.</snippet>
+         <url>http://www.avclub.com/content/cinema/my_blueberry_nights</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>Norah Jones, making her big-screen debut as a wistful wanderer, is a beautiful blank, and the fragments barely add up to a movie.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20187701,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>All this is frustrating, as the picture contains a few grace notes that remind one what an acute filmmaker Wong can be.</snippet>
+         <url>http://www.premiere.com/moviereviews/4488/my-blueberry-nights.html</url>
+         <critic>Glenn Kenny</critic>
+      </review>
+      <review>
+         <snippet>Music and nostalgia are what fuel all this filmmaker's movies, though, even a half-baked translation like this one.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=10503</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>The director is chasing a mood here -- a mood, an atmosphere and feelings -- much as he did in "In the Mood for Love."</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?&amp;rid=9208</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>As much a trifle as its title suggests, My Blueberry Nights sees Hong Kong stylist Wong Kar Wai applying his characteristic visual and thematic doodles to a wispy story of lovelorn Yanks.</snippet>
+         <url>http://www.variety.com/index.asp?layout=festivals&amp;jump=review&amp;reviewid=VE1117933646&amp;cs=1&amp;p=0</url>
+         <critic>Todd McCarthy</critic>
+      </review>
+      <review>
+         <snippet>The disappointment here doesn't have much to do with Wong doing America--he's been doing America for years, even in Chinese--but with Wong doing Wong, and not up to his own standard.</snippet>
+         <url>http://www.villagevoice.com/film/0814,american-pie,396138,20.html</url>
+         <critic>Michelle Orange</critic>
+      </review>
+      <review>
+         <snippet>My Blueberry Nights may not quite be what fans of either Jones or Wong Kar-wai -- directing his first film in English -- are expecting. It's a late-night, lovelorn mood piece in a minor key, not complicated or convoluted, finally more confection than substance.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2007/05/17/cannes_2/index.html?CP=IMD&amp;DN=110</url>
+         <critic>Andrew O&amp;#039;Hehir</critic>
+      </review>
+      <review>
+         <snippet>Isn’t eye candy; it’s a drool-worthy slice of eye pie.</snippet>
+         <url>http://chicago.metromix.com/movies/movie_review/movie-review-my-blueberry/380514/content</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>Often ponderous, sometimes pretentious and mostly clichéd, this contrived meditation on longing and loss feels like a missed opportunity.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2008-04-03-blueberry-nights_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>Alternately precious and vapid, the movie attempts to wrest metaphors from a jar of house keys, and eternal verities from pastry. Slice the pie how you will, it's still half-baked.</snippet>
+         <url>http://online.wsj.com/article/SB120728209874389083.html</url>
+         <critic>Joanne Kaufman</critic>
+      </review>
+      <review>
+         <snippet>The biggest problem is Wong's decision to cast Norah Jones as Elizabeth, a New Yorker who hits the road after a love affair goes bad. Jones, in her first movie, can't act. (There, I said it!)</snippet>
+         <url>http://www.nypost.com/seven/04042008/entertainment/movies/wong_way_for_norah_104879.htm</url>
+         <critic>V.A. Musetto</critic>
+      </review>
+      <review>
+         <snippet>After 90 minutes of My Blueberry Nights, which pass pleasantly enough, with swirly, mood-saturated colors; lovely faces; and nice music, you may feel a bit logy yourself -- filled up, sugar-addled, but not really satisfied.</snippet>
+         <url>http://movies.nytimes.com/2008/04/04/movies/04blue.html?ref=movies</url>
+         <critic>A.O. Scott</critic>
+      </review>
+      <review>
+         <snippet>A stunner of a movie. But all those gorgeous images never add up to a full picture.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2008/04/04/2008-04-04_my_blueberry_nights_is_not_so_tasty.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>The Hong Kong director Wong Kar Wai has an undeservedly high reputation as a master stylist. He's more like a master window dresser.</snippet>
+         <url>http://www.csmonitor.com/2008/0404/p15s02-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>The use of recognizable movie stars doesn't help, r serve Wong's style. My Blueberry Nights" should have played like a memory, but its hard-living, luckless losers are too beautiful to be believed.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-blueberry4apr04,0,4176150.story</url>
+         <critic>Carina Chocano</critic>
+      </review>
+      <review>
+         <snippet>There's a curious mismatch between the surface of the movie and what lies beneath it. Wong's technique is layered and detailed like a couture gown, but the story it hangs on is as generic as a seamstress's dress form.</snippet>
+         <url>http://www.slate.com/id/2188157/</url>
+         <critic>Dana Stevens</critic>
+      </review>
+      <review>
+         <snippet>Even with dyed hair, heavy makeup and a cigarette dangling from her bottom lip, Portman still looks like a schoolgirl pretending to be somebody's mom.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20080509.wnights09/BNStory/Entertainment/home</url>
+         <critic>Liam Lacey</critic>
+      </review>
+      <review>
+         <snippet>There are momentary pleasures, to be sure – a corker of a kiss here, an Otis Redding-backed barroom slink there – but frankly, I'm a little weary of Wong wearing "that same old shaggy dress."</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A615537</url>
+         <critic>Kimberley Jones</critic>
+      </review>
+      <review>
+         <snippet>It's beautiful to look at, but there's little there to savor.</snippet>
+         <url>http://www.miamiherald.com/1054/story/507644.html</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>In these dusty American settings, the wistful melancholy of Wong's earlier movies seems fairly contrived.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/33050_MY_BLUEBERRY_NIGHTS.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>Fractured, tentative, oh-so-artsy and very much in the style of Wong's previous Hong Kong-set boy-meets-girl movies. But this time, the effect is contrived: a star-driven pseudo-indie affair that will please neither celebrity worshipers nor cineastes.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1138486&amp;categories=Movies&amp;nm=1</url>
+         <critic>Desson Thomson</critic>
+      </review>
+   </reviews>
+   <US_Gross>$866,778</US_Gross>
+   <weekend_gross>$74,146</weekend_gross>
+   <number_of_screens>6</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

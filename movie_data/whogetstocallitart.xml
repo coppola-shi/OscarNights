@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Who Gets to Call It Art?</name>
+   <company>Palm Pictures</company>
+   <genres>
+      <genre>Documentary</genre>
+   </genres>
+   <authors>
+      <author/>
+   </authors>
+   <directors>
+      <director>Peter Rosen</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Henry Geldzahler</actor>
+      <actor>Frank Stella</actor>
+      <actor>Jasper Johns</actor>
+      <actor>Larry Poons</actor>
+      <actor>James Rosenquist</actor>
+      <actor>Mark Di Suvero</actor>
+      <actor>David Hockney</actor>
+      <actor>Andy Warhol</actor>
+   </actors>
+   <release_date>February 1, 2006</release_date>
+   <running_time>78</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>One of the greatest art documentaries ever made. Through an imaginative mixture of rare footage, audio recordings and contemporary interviews with the living legends of modern art, Rosen has created a cinematic portrait which is, in itself, a work of art.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=8137</url>
+         <critic>Phil Hall</critic>
+      </review>
+      <review>
+         <snippet>Lively, intelligent collage, both richly complex and immediately accessible.</snippet>
+         <url>http://www.variety.com/review/VE1117928756?categoryid=31&amp;cs=1</url>
+         <critic>Ronnie Scheib</critic>
+      </review>
+      <review>
+         <snippet>Shot with a Peter Greenaway-like austere impudence and edited brilliantly (by Jed Parker), this is an entertaining movie, and a moving one--even if, like me, you're not especially fond of these paintings or that scene.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-060623-movies-review-art,0,689993.story?coll=mmx-movies_top_heds</url>
+         <critic>Michael Wilmington</critic>
+      </review>
+      <review>
+         <snippet>Comes closer than most to seeing the whole picture.</snippet>
+         <url>http://www.avclub.com/content/node/44946</url>
+         <critic>Noel Murray</critic>
+      </review>
+      <review>
+         <snippet>Paints an entertaining picture of the cherubic gentleman, who as the first curator of contemporary art at the Metropolitan Museum of Art brought new excitement to the stodgy institution.</snippet>
+         <url>http://www.nypost.com/movies/62810.htm</url>
+         <critic>V.A. Musetto</critic>
+      </review>
+      <review>
+         <snippet>Fun, lively, and a tad superficial.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/29933_WHO_GETS_TO_CALL_IT_ART.html</url>
+         <critic>Fred Camper</critic>
+      </review>
+      <review>
+         <snippet>The film's appeal is for the eyes. Because Henry got to call it art, it's on display once again.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/moviereviews/story/387983p-329181c.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>The film's flippant style ultimately undermines its material - Rosen's decision not to immediately identify interviewees is especially irritating - and, ironically, makes the American art scene of the '60s appear as shallow and trendy as its detractors always claimed it was.</snippet>
+         <url>http://online.tvguide.com/movies/database/ShowMovie.asp?MI=46724</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>A TV-style compilation of big-name talking heads and occasionally fascinating footage, the film convokes an impressive cast of interviewees—David Hockney, Frank Stella, and Ellsworth Kelly among them--yet seems too dazzled by their luminance to squeeze a substantial analysis of Geldzahler from their pithy testimonials.</snippet>
+         <url>http://www.villagevoice.com/film/0605,halter,72011,20.html</url>
+         <critic>Ed Halter</critic>
+      </review>
+      <review>
+         <snippet>This glib, largely uninformative and poorly organized précis of the post-World War II art scene, with its emphasis on New York in the 1960's and the curator Henry Geldzahler, succeeds neither as history nor as art history.</snippet>
+         <url>http://movies2.nytimes.com/2006/02/01/movies/01gets.html</url>
+         <critic>Manohla Dargis</critic>
+      </review>
+   </reviews>
+   <US_Gross>$27,344</US_Gross>
+   <weekend_gross>$11,185</weekend_gross>
+   <number_of_screens>1</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

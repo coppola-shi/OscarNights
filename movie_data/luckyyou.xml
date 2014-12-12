@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Lucky You</name>
+   <company>Warner Bros. Pictures</company>
+   <genres>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author>Eric Roth</author>
+      <author>Curtis Hanson</author>
+   </authors>
+   <directors>
+      <director>Curtis Hanson</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Eric Bana</actor>
+      <actor>Drew Barrymore</actor>
+      <actor>Robert Duvall</actor>
+      <actor>Debra Messing</actor>
+      <actor>Horatio Sanz</actor>
+      <actor>Jean Smart</actor>
+      <actor>Kelvin Han Yee</actor>
+      <actor>Charles Martin Smith</actor>
+   </actors>
+   <release_date>May 4, 2007</release_date>
+   <running_time>124</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>The compelling and interesting aspect of Lucky You is not so much the compulsion that drives the main character but the way in which he interacts with those around him. The movie isn't a downer, but neither does it end with all loose ends nicely tied off. In this case, redemption does not equate with salvation.</snippet>
+         <url>http://www.reelviews.net/movies/l/lucky_you.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>A relaxed-looking expert piece that immerses us in another world. At the end, Hanson has a bonus. He and his producers hired Bob Dylan for the Oscar-winning "Things Have Changed" in "Wonder Boys," and Hanson brings Dylan back here, for a folky, bluesy number called "Huck's Tune."</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-070504-movies-review-lucky,0,3794423.story?coll=mmx-movies_top_heds</url>
+         <critic>Michael Wilmington</critic>
+      </review>
+      <review>
+         <snippet>At its best it's refreshingly offhanded. It's a hit-and-miss movie that's worth seeing for the hits.</snippet>
+         <url>http://www.csmonitor.com/2007/0504/p14s02-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>A well-acted character piece.</snippet>
+         <url>http://www.tvguide.com/movies/lucky/review/287651</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>Always good with actors, Hanson brings out a beaten-down charm in Bana that works nicely against the hotheaded authority the actor shows in the gambling scenes, while Duvall is, like the veteran card shark he plays, a master of subtle gestures. The low card here is Barrymore, somewhat awkwardly shoehorned into this boys' club to provide some romantic relief.</snippet>
+         <url>http://www.laweekly.com/film+tv/film-reviews/film-reviews-lucky-you-waitress-rock-the-bells/16271/?page=2</url>
+         <critic>Scott Foundas</critic>
+      </review>
+      <review>
+         <snippet>Even if you think you know where Lucky You is headed, there's something pleasurable about watching it unfold, maybe chiefly because Hanson isn't trying too hard.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2007/05/04/lucky_you/index.html</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>Not in any sense a great movie, a masterpiece that future generations will want to rediscover. But it is a solid, well-made, generally gripping and intelligent movie -- and how many of those have lately been made in America?</snippet>
+         <url>http://www.time.com/time/arts/article/0,8599,1617668,00.html</url>
+         <critic>Richard Schickel</critic>
+      </review>
+      <review>
+         <snippet>It's the first Hanson movie in a decade that doesn't quite click into place.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/314249_lucky04q.html</url>
+         <critic>William Arnold</critic>
+      </review>
+      <review>
+         <snippet>Starts off promisingly, then grows as lifeless as a poker face.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2007-05-03-lucky-you_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>Playing the character with this much girlish innocence is risky. Barrymore can seem dumb, but as Lucky You unfolds, we realize that the character is just a device to bring viewers into the parallel universe of poker.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=7915</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>Like "The Hustler," this absorbing Las Vegas story about a professional poker player (Eric Bana) uses gambling to tell a tale of moral regeneration. But Bana can't carry a picture like Paul Newman, and poker proves less photogenic than pool.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/31574_LUCKY_YOU.html</url>
+         <critic>Jonathan Rosenbaum</critic>
+      </review>
+      <review>
+         <snippet>A 'realistic' Vegas movie that will set no-one's soul on fire, but is further proof that Hanson can lend his talents to any style of movie.</snippet>
+         <url>http://www.empireonline.com/reviews/review.asp?FID=10353</url>
+         <critic>Ian Nathan</critic>
+      </review>
+      <review>
+         <snippet>At key moments, Lucky You loses its nerve.</snippet>
+         <url>http://www.newyorker.com/arts/critics/cinema/2007/05/14/070514crci_cinema_denby</url>
+         <critic>David Denby</critic>
+      </review>
+      <review>
+         <snippet>The result is that most of the picture plays out as a series of scenes in which our hero sits there, gets angry and loses all his money.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2007/05/04/DDG0LPJQM61.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>Even the title is off. I haven't heard an honest "Lucky You" since I was in sixth grade. For most people it registers as a sneer.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-to.lucky04may04,0,1059286.story?coll=bal-artslife-movies</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>Curiously lifeless, Lucky You feels like poker without stakes; it goes through the motions with nothing to play for.</snippet>
+         <url>http://www.avclub.com/content/cinema/lucky_you</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>Long, utterly predictable and always bland.</snippet>
+         <url>http://ae.charlotte.com/entertainment/ui/charlotte/movie.html;jsessionid=0ACD2748F2F98C846FDD2D82ED1CE107.prodapp15_ae_02?id=868140&amp;reviewId=22424&amp;startDate=05%2F04%2F2007</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>If you're not a rabid fan of Texas hold 'em -- the poker phenomenon that swept the country a couple of years ago but is hardly cutting edge now -- you might want to step quickly away from Lucky You.</snippet>
+         <url>http://ae.miami.com/entertainment/ui/miami/movie.html?id=868140&amp;reviewId=22427</url>
+         <critic>Connie Ogle</critic>
+      </review>
+      <review>
+         <snippet>I watched this movie thinking that it used the idea of taking a chance on cards as a metaphor for taking a chance on love. I was dead wrong.</snippet>
+         <url>http://www.philly.com/inquirer/columnists/carrie_rickey/20070504_Taking_a_chance_on_boredom.html</url>
+         <critic>Carrie Rickey</critic>
+      </review>
+      <review>
+         <snippet>If anyone could take a movie about a bunch of jerks who play poker and make it interesting, it should be Curtis Hanson. Or rather, it should have been.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/1178148310157000.xml&amp;coll=7</url>
+         <critic>M. E. Russell</critic>
+      </review>
+      <review>
+         <snippet>Even though it is sometimes dull and generally thin, there is something winning about the movie's genial lack of ambition.</snippet>
+         <url>http://movies2.nytimes.com/2007/05/04/movies/04luck.html?ref=movies</url>
+         <critic>A.O. Scott</critic>
+      </review>
+      <review>
+         <snippet>Poker has proven itself a popular spectator sport on television -- at least in the short run -- but as scripted drama, where you can pretty much guess the winner of a given hand, it's dull, dull, dull.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?JSESSIONID=vpTLG6cJTzpJTwnmvynxZphnfPzpvGt3BQyttYMvSWsQKCXVszwL!-1712070785&amp;&amp;rid=9132</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>The result is dull and lifeless.</snippet>
+         <url>http://www.variety.com/review/VE1117933515.html?categoryid=31&amp;cs=1</url>
+         <critic>Brian Lowry</critic>
+      </review>
+      <review>
+         <snippet>Had Lucky You played strictly as a father-son drama set against the background of competitive Texas Hold 'Em, it would've been a much better movie based on the strength of Hanson's direction and Duvall's performance alone. But no, somewhere along the line they had to make this a romance, and that's the movie's fatal flaw.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=9988</url>
+         <critic>Pete Vonder Haar</critic>
+      </review>
+      <review>
+         <snippet>Perhaps this is just a bad performance by Bana; he's not shown me anything yet. But there's a more basic problem. If money is just a way of keeping score, and Huck doesn't care whether he's flush or busted, why should we?</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2007/05/04/2007-05-04_try_your_luck-2.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>Really, all this movie is about is the joy of checks, calls, folds, rivers, and the acquired thrill of knowing what those words mean.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20037367,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>Lucky You is redeemed slightly by the presence of Duvall as Huck's father, poker legend L.C. Cheever, who clearly spent more time being Huck's teacher than his dad. Their inevitable face-off at the final table of the World Poker Championship has just enough Oedipal overtones to give the movie a little heft.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A470700</url>
+         <critic>Josh Rosenblatt</critic>
+      </review>
+      <review>
+         <snippet>So what's Hanson exploring this time? His boring side, apparently.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20070504.wlucky0504/BNStory/Entertainment/home</url>
+         <critic>Liam Lacey</critic>
+      </review>
+      <review>
+         <snippet>This spring, boredom has a new name: Lucky You.  In the poker flick, an announcer calling a climactic poker match uses a Texas hold 'em term frequently, saying, "And the flop. And the flop. And the flop." This movie reviews itself.</snippet>
+         <url>http://www.nypost.com/seven/05042007/entertainment/movies/texas_bore_em_movies_kyle_smith.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+   </reviews>
+   <US_Gross>$5,755,286</US_Gross>
+   <production_budget>$55,000,000</production_budget>
+   <weekend_gross>$2,710,445</weekend_gross>
+   <number_of_screens>2,525</number_of_screens>
+   <oscar_winning_actors_present/>
+   <num_oscar_winning_actors>1</num_oscar_winning_actors>
+   <oscar_winning_actor>robert duvall</oscar_winning_actor>
+   <highest_grossing_actors_present/>
+   <num_highest_grossing_actors>1</num_highest_grossing_actors>
+   <highest_grossing_actor>robert duvall</highest_grossing_actor>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

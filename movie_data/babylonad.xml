@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Babylon A.D.</name>
+   <company>20th Century Fox</company>
+   <genres>
+      <genre>Action</genre>
+      <genre>Adventure</genre>
+      <genre>Scifi</genre>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>Maurice G. Dantec</author>
+      <author>Eric Besnard</author>
+      <author>Mathieu Kassovitz</author>
+      <author>Joseph Simas</author>
+   </authors>
+   <directors>
+      <director>Mathieu Kassovitz</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+      <origin>France</origin>
+   </origins>
+   <actors>
+      <actor>Vin Diesel</actor>
+      <actor>Mélanie Thierry</actor>
+      <actor>Michelle Yeoh</actor>
+      <actor>Lambert Wilson</actor>
+      <actor>Mark Strong</actor>
+      <actor>Jérôme Le Banner</actor>
+      <actor>Charlotte Rampling</actor>
+      <actor>Joel Kirby</actor>
+   </actors>
+   <release_date>August 29, 2008</release_date>
+   <running_time>90</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>Rich with atmosphere but too similar to films ranging from "Children of Men" to "Doomsday" to carve out its own distinctive niche.</snippet>
+         <url>http://movies.tvguide.com/babylon-ad/292575</url>
+         <critic>Staff (Not credited)</critic>
+      </review>
+      <review>
+         <snippet>If nothing else, it's nice to see an action movie that takes Europe, not America, as its grounding point.</snippet>
+         <url>http://www.laweekly.com/2008-08-28/film-tv/movie-reviews-beautiful-losers-death-note/</url>
+         <critic>Vadim Rizov</critic>
+      </review>
+      <review>
+         <snippet>This is not a terrible movie, but it's too familiar by half and too confusing by a third.</snippet>
+         <url>http://www.latimes.com/entertainment/news/reviews/la-et-babylon1-2008sep01,0,1125832.story</url>
+         <critic>Michael Ordona</critic>
+      </review>
+      <review>
+         <snippet>A noisier, costlier version of "Children of Men," yet lacking that film's social-political significance and jaw-dropping direction.</snippet>
+         <url>http://www.variety.com/review/VE1117938029.html?categoryid=31&amp;cs=1&amp;query=Babylon+A%2ED%2E</url>
+         <critic>Jordan Mintzer</critic>
+      </review>
+      <review>
+         <snippet>Brawny but brainless techno-twaddle.</snippet>
+         <url>http://www.empireonline.com/reviews/reviewcomplete.asp?FID=11229</url>
+         <critic>James Dyer</critic>
+      </review>
+      <review>
+         <snippet>The lackluster acting and horrendous dialogue don't help.</snippet>
+         <url>http://www.reelviews.net/php_review_template.php?identifier=1325</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>The storyline is a sinkhole that swallows up any sense and suspense.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20080901.wbabylon01/BNStory/Entertainment/home</url>
+         <critic>Jason Anderson</critic>
+      </review>
+      <review>
+         <snippet>When martial arts star Michelle Yeoh shows up as a pious, butt-kicking nun, you have to wonder if Kassovitz isn't accidentally cribbing from Mel Brooks, too.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20222678,00.html</url>
+         <critic>Adam Markovitz</critic>
+      </review>
+      <review>
+         <snippet>As long it sticks to that chase, Babylon A.D. remains a sub-passable lead-footed action film with neat scenery.</snippet>
+         <url>http://www.avclub.com/content/cinema/babylon_a_d</url>
+         <critic>Keith Phipps</critic>
+      </review>
+      <review>
+         <snippet>It's not a great action dust-up by any means.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A664795</url>
+         <critic>Marc Savlov</critic>
+      </review>
+      <review>
+         <snippet>When this Vin Diesel vehicle isn't pointlessly frenzied, it's narratively inert, wasting some decent production design, and a French-flavored cast primed for fun.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=10162</url>
+         <critic>Tom Russo</critic>
+      </review>
+      <review>
+         <snippet>Wants to be three different films at one time but sadly never asks much from Diesel other than to grunt, stomp around, and reprise the role that made him a star.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=11165</url>
+         <critic>Felix Vasques Jr.</critic>
+      </review>
+      <review>
+         <snippet>Our judgments, in any case, may be superfluous, since the director, Mathieu Kassovitz, has already publicly described it as "pure violence and stupidity."</snippet>
+         <url>http://movies.nytimes.com/2008/08/30/movies/30baby.html?ref=movies</url>
+         <critic>A.O. Scott</critic>
+      </review>
+      <review>
+         <snippet>The plot makes absolutely no sense.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2008/08/29/2008-08-29_babylon_ad_pu.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>A towering heap of nihilistic nonsense that plays like a cornball "Children of God."</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?JSESSIONID=8zhRL41QXp5yvvppLQy8S62Gf1bp05T8w53DLj15PnRDxx3Lcy8B!-318199786&amp;&amp;rid=11561</url>
+         <critic>Michael Rechtshaffen</critic>
+      </review>
+   </reviews>
+   <US_Gross>$22,532,572</US_Gross>
+   <production_budget>$45,000,000</production_budget>
+   <weekend_gross>$9,484,627</weekend_gross>
+   <number_of_screens>3,390</number_of_screens>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>true</labor_release>
+</movie>

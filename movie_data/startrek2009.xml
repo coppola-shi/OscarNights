@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Star Trek</name>
+   <company>Paramount Pictures</company>
+   <genres>
+      <genre>Action</genre>
+      <genre>Adventure</genre>
+      <genre>Drama</genre>
+      <genre>Scifi</genre>
+   </genres>
+   <authors>
+      <author>Gene Roddenberry</author>
+      <author>Alex Kurtzman</author>
+      <author>Roberto Orci</author>
+   </authors>
+   <directors>
+      <director>J.J. Abrams</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>John Cho</actor>
+      <actor>Ben Cross</actor>
+      <actor/>
+      <actor>Bruce Greenwood</actor>
+      <actor>Simon Pegg</actor>
+      <actor/>
+      <actor>Chris Pine</actor>
+      <actor>Zachary Quinto</actor>
+      <actor/>
+      <actor>Winona Ryder</actor>
+      <actor>Zoe Saldana</actor>
+      <actor/>
+      <actor>Karl Urban</actor>
+      <actor/>
+      <actor>Anton Yelchin</actor>
+      <actor/>
+      <actor>Eric Bana</actor>
+      <actor>Leonard Nimoy</actor>
+   </actors>
+   <release_date>May 7, 2009</release_date>
+   <running_time>122</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>Paced at warp speed with spectacular action sequences rendered brilliantly and with a cast so expert that all the familiar characters are instantly identifiable.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film-reviews/film-review-star-trek-1003964428.story</url>
+         <critic>Ray Bennett</critic>
+      </review>
+      <review>
+         <snippet>Blasting onto the screen at warp speed and remaining there for two hours, the new and improved Star Trek will transport fans to sci-fi nirvana.</snippet>
+         <url>http://www.variety.com/review/VE1117940096.html?categoryid=31&amp;cs=1</url>
+         <critic>Todd McCarthy</critic>
+      </review>
+      <review>
+         <snippet>The new Star Trek is more than a coat of paint on a space-age wagon train. It's an exciting, stellar-yet-earthy blast that successfully blends the hip and the classic.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2009/05/05/2009-05-05_star_trek_a_gem_of_a_film_review.html</url>
+         <critic>Joe Neumaier</critic>
+      </review>
+      <review>
+         <snippet>Not only does this Star Trek proffer smart thrills and slick kicks, but it builds upon the original's history–from its very first pilot episode to Robert Wise's 1979 "Star Trek: The Motion Picture" and beyond–while creating an entirely new future.</snippet>
+         <url>http://www.villagevoice.com/2009-05-06/film/j-j-abrams-s-star-trek-proof-that-a-franchise-can-live-long-and-prosper/</url>
+         <critic>Robert Wilonsky</critic>
+      </review>
+      <review>
+         <snippet>In the pop high it delivers, this is the greatest prequel ever made.</snippet>
+         <url>http://www.boston.com/ae/movies/articles/2009/05/05/a_fresh_frontier/</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>This installment has achieved a nearly impossible hat trick. It's a movie that is exegetically correct enough to appease the most hard-core buffs, while opening up the final frontier to a whole new generation of fans who have yet to appreciate Star Trek's ineffable combination of sci-fi action, campy humor and yin-yang philosophical tussle between logic and emotion.</snippet>
+         <url>http://www.washingtonpost.com/wp-dyn/content/article/2009/05/06/AR2009050603913.html</url>
+         <critic>Ann Hornaday</critic>
+      </review>
+      <review>
+         <snippet>Full of life, wit, smarts, thrills and sheer gratifying entertainment that it launches the mind on a stream of merry somersaults.</snippet>
+         <url>http://blog.oregonlive.com/madaboutmovies/2009/05/review_boldly_going_star_trek.html</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>The clever and infectious reboot of the amazingly enduring sci-fi classic, director J.J. Abrams crafts an origin myth that avoids any hint of the origin doldrums. That's because he rewires us back into the original Star Trek's primal appeal.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20276708,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>It's hard to imagine anyone caring much why we're plunging ahead at warp speed, when the ride is so insanely satisfying.</snippet>
+         <url>http://www.npr.org/templates/story/story.php?storyId=103864956</url>
+         <critic>Bob Mondello</critic>
+      </review>
+      <review>
+         <snippet>An affectionate, exuberant picture that seeks to bring even those who don't know Klingon from Portuguese into the embrace of a pop-culture phenomenon.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2009/05/08/star_trek/index.html</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>Isn't just a pleasurable rethink of your geek uncle's favorite science-fiction series. It's also a testament to television's power as mythmaker, as a source for some of the fundamental stories we tell about ourselves, who we are and where we came from.</snippet>
+         <url>http://movies.nytimes.com/2009/05/08/movies/08trek.html?ref=movies</url>
+         <critic>Manohla Dargis</critic>
+      </review>
+      <review>
+         <snippet>Star Trek goes back to the legend's roots with a boldness that brings a fatigued franchise back to life.</snippet>
+         <url>http://online.wsj.com/article/film_review.html</url>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>Retains the original Star Trek's spirit of optimism, curiosity, and humor.</snippet>
+         <url>http://www.slate.com/id/2217854/</url>
+         <critic>Dana Stevens</critic>
+      </review>
+      <review>
+         <snippet>It's not necessary to be a longtime fan of the Star Trek universe to appreciate the sheer emotional punch and swagger of this rough and randy Enterprise crew.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A771800</url>
+         <critic>Marc Savlov</critic>
+      </review>
+      <review>
+         <snippet>The result is more exciting than the last four ST pictures put together, more fun than a barrel of Tribbles, and the most satisfying action-adventure since last year's "Iron Man."</snippet>
+         <url>http://www.philly.com/philly/entertainment/movies/20090506_Star_Trek_prequel_a_warp-speed_success.html</url>
+         <critic>Carrie Rickey</critic>
+      </review>
+      <review>
+         <snippet>Vigorously played as a young man by Chris Pine, Kirk is a brilliant, sports-car driving, bar-brawling rebel who is finally shamed into joining Starfleet Academy.</snippet>
+         <url>http://www.nypost.com/seven/05062009/entertainment/movies/spock___awe__167890.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>A burst of pure filmmaking exhilaration that manages to pay homage to the classic 1960s TV series and still boldly go where no man, William Shatner and Leonard Nimoy included, has gone before.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/20314046/review/27993027/star_trek</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>It fulfills its promise of rebooting the series while leaving us wanting more, and it does so with style and energy to spare. Now that's an origins tale that truly delivers.</snippet>
+         <url>http://movies.tvguide.com/star-trek/review/290685</url>
+         <critic>Jason Buchanan</critic>
+      </review>
+      <review>
+         <snippet>We were also glad to see they didn't ignore the humorous elements that made the original so great. Plus, the casting is spot on.</snippet>
+         <url>http://www.premiere.com/Review/Movies/Star-Trek</url>
+         <critic>Patrick Parker</critic>
+      </review>
+      <review>
+         <snippet>Gripping action and vulnerable heroes writ large. It boldly goes somewhere different and makes it hard to leave the film not hoping for a return voyage soon.</snippet>
+         <url>http://www.avclub.com/articles/star-trek,27714/</url>
+         <critic>Keith Phipps</critic>
+      </review>
+      <review>
+         <snippet>It's a real family film, relatively light on the violence and funny without being overly crude; it even has some touching moments.</snippet>
+         <url>http://www.time.com/time/arts/article/0,8599,1896513,00.html</url>
+         <critic>Mary Pols</critic>
+      </review>
+      <review>
+         <snippet>Though it has its over-caffeinated aspects and its missteps, this Star Trek has in general bridged the gap between the old and the new with alacrity and purpose.</snippet>
+         <url>http://www.latimes.com/entertainment/news/la-et-trek7-2009may07,0,7954153.story</url>
+         <critic>Kenneth Turan</critic>
+      </review>
+      <review>
+         <snippet>Star Trek is pretty damn enjoyable. By resetting the franchise to what is essentially Year One, Abrams has the luxury of...gently reshaping the core characters.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=11718</url>
+         <critic>Pete Vonder Haar</critic>
+      </review>
+      <review>
+         <snippet>Odd-number curse be gone. The most exhilarating Trek to date marks a new future for Kirk and co. If this can boldly go on to seek out ideas to match its speed and style, a franchise is reborn.</snippet>
+         <url>http://www.empireonline.com/reviews/reviewcomplete.asp?FID=134061</url>
+         <critic>Colin Kennedy</critic>
+      </review>
+      <review>
+         <snippet>Abrams and his writers (Roberto Orci and Alex Kurtzman) have come up with a way to make you dig the souped-up new scenery while pining for the familiar--a good thing.</snippet>
+         <url>http://nymag.com/movies/reviews/56428/</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>Ultimately, when the end credits roll, we're left with the sense that Star Trek represents a good beginning. As a film tasked with getting all the characters together, re-booting a timeline, and finding a way to return a veteran actor to his beloved role, Star Trek works.</snippet>
+         <url>http://www.reelviews.net/php_review_template.php?identifier=1617</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>Breathlessly paced bordering on manic, but propulsively entertaining.</snippet>
+         <url>http://www.chicagotribune.com/entertainment/movies/chi-tc-mov-star-trek-0505-0507may07,0,627726.story</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>There is considerable fun in discovering the hows and whys the crew of the U.S.S. Enterprise came together, and each member has at least one moment in the spotlight, including the esteemed helmsman Sulu.</snippet>
+         <url>http://www.miamiherald.com/entertainment/movies/reviews/story/1035950.html</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>When it comes to sheer spectacle, Star Trek, as re-imagined by J.J. Abrams, delivers.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2009-05-06-star-trek_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>What makes this movie ultra-contemporary is the way Abrams has re-imagined Spock and Kirk as a team of rivals.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/reviews/bal-star-trek-review-0507,0,6929917.story</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>The young cast is mostly callow and TV-bland and the special effects don't quite seem worth that hefty price tag, but overall this is a presentable addition to the franchise.</snippet>
+         <url>http://www.csmonitor.com/2009/0508/p17s02-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>At its best, the effect is like seeing life panoramically, past and future, simultaneous and magnificent.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2009/05/07/MVR617GFVR.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>Smart and youthful, with a well-balanced package of humour, romance, crisp action and character-based drama, Star Trek gives popcorn movies a good name.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20090506.wtrek0507/BNStory/Entertainment/home</url>
+         <critic>Liam Lacey</critic>
+      </review>
+      <review>
+         <snippet>This new Star Trek is nonsense, no question ("Prepare the red matter!"), but at least it's not boggy nonsense, the way most of the other movies were, and it powers along, unheeding of its own absurdity, with a drive and a confidence that the producers of the original TV series might have smiled upon.</snippet>
+         <url>http://www.newyorker.com/arts/critics/cinema/2009/05/18/090518crci_cinema_lane</url>
+         <critic>Anthony Lane</critic>
+      </review>
+      <review>
+         <snippet>The movie deals with narrative housekeeping. Perhaps the next one will engage these characters in a more challenging and devious story, one more about testing their personalities than re-establishing them. In the meantime, you want space opera, you got it.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20090506/REVIEWS/905069997</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>The visual effects are predictably excellent -- sometimes, in the case of a three-man free fall through space, unexpectedly lyrical -- but most of the movie's dramatic conflicts feel strictly pro forma.</snippet>
+         <url>http://www.laweekly.com/2009-05-07/film-tv/movie-reviews-adoration-julia-little-ashes/2</url>
+         <critic>Scott Foundas</critic>
+      </review>
+      <review>
+         <snippet>A relatively mindless thrill ride that would have made the old NBC execs grin from ear to ear.</snippet>
+         <url>http://www.chicagoreader.com/features/stories/moviereviews/090507/</url>
+         <critic>J.R. Jones</critic>
+      </review>
+   </reviews>
+   <US_Gross>$257,730,019</US_Gross>
+   <production_budget>$140,000,000</production_budget>
+   <weekend_gross>$79,204,289</weekend_gross>
+   <number_of_screens>3,849</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

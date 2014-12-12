@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Splinterheads</name>
+   <company>Paladin</company>
+   <genres>
+      <genre>Comedy</genre>
+   </genres>
+   <authors>
+      <author>Brant Sersen</author>
+   </authors>
+   <directors>
+      <director>Brant Sersen</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Rachael Taylor</actor>
+      <actor>Thomas Middleditch</actor>
+      <actor>Christopher McDonald</actor>
+      <actor>Lea Thompson</actor>
+   </actors>
+   <release_date>November 6, 2009</release_date>
+   <running_time>minutes,</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>Splinterheads, which aims to be a quirkier "Adventureland," never rises above mildly amusing.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20317543,00.html</url>
+         <critic>Chris Nashawaty</critic>
+      </review>
+      <review>
+         <snippet>Splinterheads gains traction from an eclectic cast that knows how to work a line.</snippet>
+         <url>http://movies.nytimes.com/2009/11/06/movies/06splinter.html?ref=movies</url>
+         <critic>Jeannette Catsoulis</critic>
+      </review>
+      <review>
+         <snippet>Writer-director Brant Sersen's amiable indie comedy -- even less edgy than Greg Mottola's theme-park-set "Adventureland" -- attempts to compensate for its too-familiar romantic setup by defining its characters through idiosyncratic hobbies and traits.</snippet>
+         <url>http://www.variety.com/review/VE1117941551.html?categoryid=31&amp;cs=1</url>
+         <critic>Peter Debruge</critic>
+      </review>
+      <review>
+         <snippet>Touching in its dorkiness.</snippet>
+         <url>http://www.villagevoice.com/2009-11-03/film/more-fat-guys-screamin-about-pussy-in-splinterheads/</url>
+         <critic>Nick Pinkerton</critic>
+      </review>
+      <review>
+         <snippet>Equal parts Hollywood meet-cute and quirky coming-of-age tale.</snippet>
+         <url>http://newyork.timeout.com/articles/film/80312/splinterheads-film-review</url>
+         <critic>Andrew Grant</critic>
+      </review>
+      <review>
+         <snippet>Amiable and proficient, this indie romantic comedy is never more or less than reliable.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A906875</url>
+         <critic>Marjorie Baumgarten</critic>
+      </review>
+      <review>
+         <snippet>Splinterheads might suffice some late night on cable, but that's about it.</snippet>
+         <url>http://www.nypost.com/p/entertainment/movies/remove_this_splinter_JZoBVBxXtn2FXMbs226eKN</url>
+         <critic>V.A. Musetto</critic>
+      </review>
+      <review>
+         <snippet>If you want genuine laughs and romance in a carnival setting, go rent "Adventureland."</snippet>
+         <url>http://www.oregonlive.com/movies/index.ssf/2009/11/review_splinterheads_lacks_lau.html</url>
+         <critic>Staff (Not credited)</critic>
+      </review>
+   </reviews>
+   <US_Gross>$16,392</US_Gross>
+   <weekend_gross>$10,515</weekend_gross>
+   <number_of_screens>1</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

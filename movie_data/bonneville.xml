@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Bonneville</name>
+   <company>SenArt/Scranton-Lacy Films</company>
+   <genres>
+      <genre>Comedy</genre>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author>Daniel D. Davis</author>
+   </authors>
+   <directors>
+      <director>Christopher N. Rowley</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Jessica Lange</actor>
+      <actor>Joan Allen</actor>
+      <actor>Kathy Bates</actor>
+      <actor>Tom Skerritt</actor>
+      <actor>Christine Baranski</actor>
+   </actors>
+   <release_date>February 29, 2008</release_date>
+   <running_time>93</running_time>
+   <rating>PG</rating>
+   <reviews>
+      <review>
+         <snippet>Scarcely original and in no way earthshaking, but its notable cast is a pleasure to behold.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-bonneville30-2008may30,0,3858737.story</url>
+         <critic>Kevin Thomas</critic>
+      </review>
+      <review>
+         <snippet>Put three old friends in a convertible for a cross-country road trip to a loved one's funeral, and what do you get? Very few surprises, in this feel-good fluff that, despite offering nothing novel, could do well with older audiences who rightly feel that too few films are being made with them in mind.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/imdb/reviews/article_display.jsp?rid=1003123930&amp;vnu_special_account_code=thrsiteimdbpro</url>
+         <critic>John DeFore</critic>
+      </review>
+      <review>
+         <snippet>A bland road movie running on empty. It's depressing to see a deluxe cast wasted on such by-the-numbers material -- from predictable plot to fabricated Hallmark sentiment to strenuous milking of warm-and-fuzzy laughs from the irrepressible spirit of three women whose youth is behind them.</snippet>
+         <url>http://www.variety.com/review/VE1117931570.html?categoryid=31&amp;cs=1&amp;p=0</url>
+         <critic>David Rooney</critic>
+      </review>
+      <review>
+         <snippet>Ladies! Thelma and Louise drove a '66T-bird, remember?! They picked up a young male hitchhiker 17 years before you did, and they too, um, interacted with a trucker and admired magnificent American sunsets -- is it coming back to you? Nope, it's not, which is exactly why the tires are so low on this creaky vehicle.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20180588,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>The prodigiously talented Allen, Bates and Lange give it their all, but there's a limit to what even they can do with platitudes and prefabricated homilies.</snippet>
+         <url>http://www.tvguide.com/movies/bonneville/review/292462</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>Except for Ms. Lange’s silent, expressive close-ups, which render flashbacks unnecessary, the women’s journey is aesthetically and dramatically unremarkable.</snippet>
+         <url>http://movies.nytimes.com/2008/02/29/movies/29bonn.html?ref=movies</url>
+         <critic>Matt Zoller Seitz</critic>
+      </review>
+      <review>
+         <snippet>No surprises here, though the stars make it surprisingly watchable.</snippet>
+         <url>http://www.nypost.com/seven/02292008/entertainment/movies/bonneville_99722.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>Bonneville does provide at least one important service: The next time an older actress complains that there are no good projects for women of a certain age, she'll be able to hold this clunker up as Exhibit A.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2008/02/29/2008-02-29_bonneville_has_driven_cast_on_road_to_no.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>When you've got three of the nation's best actresses in leading roles, it doesn't matter if your script is only adequate and the audience really has to squint here and there to believe what's happening on the screen.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2008/04/10/DDDS102V7U.DTL&amp;type=movies</url>
+         <critic>David Wiegand</critic>
+      </review>
+      <review>
+         <snippet>This rarity in cinema--a graying cast in a female-bonding adventure--couldn't be more dull-humored or predictably maudlin without just calling itself "The Bucket List 2."</snippet>
+         <url>http://www.villagevoice.com/film/0809,313806,313806,20.html</url>
+         <critic>Aaron Hillis</critic>
+      </review>
+   </reviews>
+   <US_Gross>$488,393</US_Gross>
+   <weekend_gross>$174,571</weekend_gross>
+   <number_of_screens>101</number_of_screens>
+   <oscar_winning_actors_present/>
+   <num_oscar_winning_actors>2</num_oscar_winning_actors>
+   <oscar_winning_actor>kathy bates</oscar_winning_actor>
+   <oscar_winning_actor>jessica lange</oscar_winning_actor>
+   <highest_grossing_actors_present/>
+   <num_highest_grossing_actors>1</num_highest_grossing_actors>
+   <highest_grossing_actor>kathy bates</highest_grossing_actor>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

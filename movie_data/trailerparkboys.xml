@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Trailer Park Boys: The Movie</name>
+   <company>Screen Media Films</company>
+   <genres>
+      <genre>Comedy</genre>
+   </genres>
+   <authors>
+      <author>Mike Clattenburg</author>
+      <author>Robb Wells</author>
+   </authors>
+   <directors>
+      <director>Mike Clattenburg</director>
+   </directors>
+   <origins>
+      <origin>Canada</origin>
+   </origins>
+   <actors>
+      <actor>Robb Wells</actor>
+      <actor>John Paul Tremblay</actor>
+      <actor>John Dunsworth</actor>
+   </actors>
+   <release_date>January 25, 2008</release_date>
+   <running_time>95</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>Functions swimmingly as both a bigscreen inflation of smallscreen icons and a fairly hilarious stand-alone.</snippet>
+         <url>http://www.variety.com/review/VE1117935928.html?categoryid=31&amp;cs=1</url>
+         <critic>Ronnie Scheib</critic>
+      </review>
+      <review>
+         <snippet>I'm sure the pot-laced antics of these trashy dudes are, like, totally hilarious on Canadian TV, but they don't translate well to America or the big screen.</snippet>
+         <url>http://www.villagevoice.com/film/0804,wallace,78929,20.html</url>
+         <critic>Julia Wallace</critic>
+      </review>
+      <review>
+         <snippet>Like a feature-length version of the television sitcom “My Name Is Earl,” only Canadian -- and not funny.</snippet>
+         <url>http://movies.nytimes.com/2008/01/25/movies/25trai.html?ref=movies</url>
+         <critic>Jeannette Catsoulis</critic>
+      </review>
+      <review>
+         <snippet>Proof that the US has no monopoly on white-trash humor.</snippet>
+         <url>http://www.tvguide.com/detail/movie.aspx?tvobjectid=292232&amp;more=ucmoviereview</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>Apparently, the show’s appeal is due to the good-heartedness of its undereducated anti-heroes, but their kind of dumb grows old fast.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2008/01/25/2008-01-25_short_takes_more_movies_out_this_week.html?page=1</url>
+         <critic>Jack Mathews</critic>
+      </review>
+   </reviews>
+   <US_Gross>$3,833,507</US_Gross>
+   <weekend_gross>$1,597,979</weekend_gross>
+   <number_of_screens>204</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

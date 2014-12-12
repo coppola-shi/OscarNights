@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Eden</name>
+   <company>Liberation Entertainment</company>
+   <genres>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author>Eugene O&amp;#039;Brien</author>
+   </authors>
+   <directors>
+      <director>Declan Reicks</director>
+   </directors>
+   <origins>
+      <origin>Ireland</origin>
+   </origins>
+   <actors>
+      <actor>Eileen Walsh</actor>
+      <actor>Aidan Kelly</actor>
+      <actor>Padraic Delaney</actor>
+      <actor>Karl Shiels</actor>
+      <actor>Lesley Conroy</actor>
+      <actor>Kate O&amp;#039;Toole</actor>
+   </actors>
+   <release_date>November 14, 2008</release_date>
+   <running_time>83</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>This portrait of an imploding marriage is remarkable for every reason that counts in a good film.</snippet>
+         <url>http://www.villagevoice.com/2008-11-12/film/eden-offers-an-honest-look-into-an-imploding-marriage/</url>
+         <critic>F. X. Feeney</critic>
+      </review>
+      <review>
+         <snippet>A picture so modest and minor-key that the emotional bruise it leaves may take days to develop.</snippet>
+         <url>http://movies.nytimes.com/2008/11/14/movies/14eden.html?ref=movies</url>
+         <critic>Jeannette Catsoulis</critic>
+      </review>
+      <review>
+         <snippet>A compelling Irish drama.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2008/12/05/DDP614G2MQ.DTL&amp;type=movies</url>
+         <critic>Ruthe Stein</critic>
+      </review>
+      <review>
+         <snippet>Well crafted and acted, Declan Recks' Irish domestic drama Eden, adapted from his own play by Eugene O'Brien, offers an intimate portrait of a husband and wife who have stopped communicating with each other.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?rid=11370</url>
+         <critic>Ray Bennett</critic>
+      </review>
+      <review>
+         <snippet>Thrumming with anguish and erotic vitality, Eden paints a heartbreaking portrait of a newly affluent country (freed from dour priests, whiskey-soaked revolutionaries and shawl-clad women) afflicted with emotional growing pains.</snippet>
+         <url>http://www.salon.com/ent/movies/btm/feature/2008/11/15/roundup/</url>
+         <critic>Andrew O&amp;#039;Hehir</critic>
+      </review>
+      <review>
+         <snippet>Eden lacks the technique to give its stifled domestic-erotic feelings their full power.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20239821,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>This domestic drama from the producers of "Once" could be about the pair from that gentle romance - a decade later.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2008/11/14/2008-11-14_movies_opening_this_weekend_a_christmas_.html</url>
+         <critic>Joe Neumaier</critic>
+      </review>
+      <review>
+         <snippet>Director Declan Recks underlines every emotion, every brooding pause, working against the spare dialogue with fancy-footwork camera moves and an insistent score.</snippet>
+         <url>http://www.latimes.com/entertainment/news/reviews/la-et-capsules21-2008nov21,0,749856.story</url>
+         <critic>Sheri Linden</critic>
+      </review>
+      <review>
+         <snippet>Picture loses its delicate edge when it builds to a prescribed dramatic flashpoint within an overly compressed timeframe</snippet>
+         <url>http://www.variety.com/review/VE1117936981.html?categoryid=31&amp;cs=1&amp;query=Eden</url>
+         <critic>Ronnie Scheib</critic>
+      </review>
+      <review>
+         <snippet>An Irish indie that is well-observed and well-acted - but ultimately, not much more exciting than the love lives of its lead characters.</snippet>
+         <url>http://www.nypost.com/seven/11142008/entertainment/movies/eden_138554.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>Eden is "Once" after two kids and 10 years of marriage have sucked the music out of life.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=12709</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>Although its low-key realism is admirable, Eden doesn't really work: the long silences, the aching stares, the telling props, Breda's quivering blues, Billy's drunkenness, his distraction. There might as well be a sign stuck to the Farrells' front door: Dysfunctional family lives here.</snippet>
+         <url>http://www.philly.com/inquirer/columnists/steven_rea/20081212_A_gloomy_Irish_marital_portrait.html</url>
+         <critic>Steven Rea</critic>
+      </review>
+   </reviews>
+   <US_Gross>$16,967</US_Gross>
+   <weekend_gross>$3,084</weekend_gross>
+   <number_of_screens>1</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

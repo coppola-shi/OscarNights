@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Halloween</name>
+   <company>MGM</company>
+   <genres>
+      <genre>Horror</genre>
+   </genres>
+   <authors>
+      <author>John Carpenter</author>
+      <author>Debra Hill</author>
+      <author>Rob Zombie</author>
+   </authors>
+   <directors>
+      <director>Rob Zombie</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Scout Taylor-Compton</actor>
+      <actor>Tyler Mane</actor>
+      <actor>Malcolm McDowell</actor>
+      <actor>Brad Dourif</actor>
+      <actor>Daeg Faerch</actor>
+      <actor>Sheri Moon</actor>
+      <actor>William Forsythe</actor>
+      <actor>Udo Kier</actor>
+   </actors>
+   <release_date>August 31, 2007</release_date>
+   <running_time>109</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>Zombie delivers a scary horror movie immediately recognizable as his own -- something that will come as a welcome relief to fans who've diligently sat through seven "Halloween" sequels in hopes of one day reliving the original's terrifying magic.</snippet>
+         <url>http://www.tvguide.com/movies/halloween/review/289890</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>Horrific as it is, Halloween isn’t so much a horror film as a biopic, and a superb one at that.</snippet>
+         <url>http://www.laweekly.com/film+tv/film-reviews/film-reviews-summercamp-self-medicated-the-nines-and-more/17127/</url>
+         <critic>Nathan Lee</critic>
+      </review>
+      <review>
+         <snippet>Halloween is a real, classic-style horror movie, not an exercise in gross special effects. Oh, and for those who’ve missed Carpenter’s classic, this will scare the candy corn out of you, but the original is still champion.</snippet>
+         <url>http://www.premiere.com/moviereviews/4043/halloween.html</url>
+         <critic>Paul Semel</critic>
+      </review>
+      <review>
+         <snippet>This Myers is more problem child than bogeyman.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20054838,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>As it stands, he made a noble attempt, and it could've been a Hell of a lot worse, but it's not as great a film as its potential hints at.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=10259</url>
+         <critic>Mark Bell</critic>
+      </review>
+      <review>
+         <snippet>As usual, Zombie has added an element of camp fun to the proceedings with his clever casting of B-movie icons in small roles, including Dee Wallace, Brad Dourif, Danny Trejo and Sid Haig.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?JSESSIONID=qzT4GdnJ71hRvd83V2ts6DCfPgGshjMnybZRgyhhnDrlC86sRybb!544843913&amp;&amp;rid=9719</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>The new Halloween has sympathy for the Devil, but not enough.</snippet>
+         <url>http://movies.nytimes.com/2007/09/01/movies/01hall.html?ref=movies</url>
+         <critic>Matt Zoller Seitz</critic>
+      </review>
+      <review>
+         <snippet>This latest unsuccessful stab at Carpenter's masterwork just proves that the original Halloween is as unbeatable as its masked leading man.</snippet>
+         <url>http://www.avclub.com/content/cinema/halloween</url>
+         <critic>Steven Hyden</critic>
+      </review>
+      <review>
+         <snippet>This is not a good movie but, considering what Halloween has evolved into over the course of seven sequels, it's perhaps better than it has a right to be.</snippet>
+         <url>http://www.reelviews.net/movies/h/halloween2007.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>Filmgoers looking for copious amounts of mindless violence won't be disappointed.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2007/08/31/DDHPRT64J.DTL&amp;type=movies</url>
+         <critic>Peter Hartlaub</critic>
+      </review>
+      <review>
+         <snippet>It's a more polished, high-fidelity version of a story that's played out on screen many times since 1978, but once Zombie runs out of subtext, he's right back to the same old slasher text: "Blood. Guts. The end."</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-halloween1sep01,0,702728.story?coll=cl-mreview</url>
+         <critic>Tasha Robinson</critic>
+      </review>
+      <review>
+         <snippet>Zombie continues to have a true, unflinching artist's eye for the sublimely horrific (a woodsy murder sequence is pregnant with disturbing, painterly compositions), that eye is wasted here on an unnecessarily moribund history of sociopathy as it relates to Halloween in Haddonfield, Illinois.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A530408</url>
+         <critic>Marc Savlov</critic>
+      </review>
+      <review>
+         <snippet>There is just no tension built prior to the murders.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2007/09/01/2007-09-01_rob_zombie_hacks_away_at_halloween_horro.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>Like kudzu vine, killer bees and herpes, we may never be rid of it.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20070903.whalloween03/BNStory/Entertainment/home</url>
+         <critic>Jason Anderson</critic>
+      </review>
+      <review>
+         <snippet>The set-up is tediously slow, while the later murders are packed so tightly it's like watching a blender on high speed.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/32028_HALLOWEEN_ZOMBIE.html</url>
+         <critic>Andrea Gronvall</critic>
+      </review>
+      <review>
+         <snippet>Leaves nothing to the imagination: Michael Myers is always right there in plain sight, committing mayhem sans suspenseful buildup or mystique.</snippet>
+         <url>http://www.variety.com/review/VE1117934509.html?categoryid=31&amp;cs=1</url>
+         <critic>Dennis Harvey</critic>
+      </review>
+      <review>
+         <snippet>As with Zombie's two previous schlock horror features, "House of 1000 Corpses" and "The Devil's Rejects," the atmosphere here isn't so much tense and jolting as unnervingly weird and gory, but it's effective.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=9443</url>
+         <critic>Tom Russo</critic>
+      </review>
+      <review>
+         <snippet>A film that contains dialogue so nasty and stupid, you'd swear (right along with the characters) that the booker for "Jerry Springer" wrote it (Zombie did).</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1132071&amp;categories=Movies&amp;nm=1</url>
+         <critic>Richard Harrington</critic>
+      </review>
+   </reviews>
+   <US_Gross>$58,269,151</US_Gross>
+   <weekend_gross>$26,362,367</weekend_gross>
+   <number_of_screens>3,472</number_of_screens>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>true</labor_release>
+</movie>

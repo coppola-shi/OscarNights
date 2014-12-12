@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Nobody Knows</name>
+   <company>IFC Films</company>
+   <genres>
+      <genre>Drama</genre>
+      <genre>Foreign</genre>
+   </genres>
+   <authors>
+      <author>Hirokazu Koreeda</author>
+   </authors>
+   <directors>
+      <director>Hirokazu Koreeda</director>
+   </directors>
+   <origins>
+      <origin>Japan</origin>
+   </origins>
+   <actors>
+      <actor>Yûya Yagira</actor>
+      <actor>Ayu Kitaura</actor>
+      <actor>Hiei Kimura</actor>
+      <actor>Momoko Shimizu</actor>
+      <actor>Hanae Kan</actor>
+      <actor>You</actor>
+      <actor>Kazumi Kushida</actor>
+      <actor>Yukiko Okamoto</actor>
+   </actors>
+   <release_date>February 4, 2005</release_date>
+   <running_time>141</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>Yagira's performance is so extraordinary, it won him the best actor prize at the 2004 Cannes film festival.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1023941_1_0_,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>The film, winsome and tragic at once and finely attuned to the rhythms of childhood, always seems quite close to real life.</snippet>
+         <url>http://sfgate.com/cgi-bin/article.cgi?f=/c/a/2005/02/18/DDGIMBCISB1.DTL&amp;type=movies</url>
+         <critic>Carla Meyer</critic>
+      </review>
+      <review>
+         <snippet>Nobody Knows, by the often excellent Japanese filmmaker Hirokazu Kore-eda, is one of those special movies that can give us a new way of seeing.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-050217-movies-review-mw-nobody.story</url>
+         <critic>Michael Wilmington</critic>
+      </review>
+      <review>
+         <snippet>[The children's] remarkable lack of self-consciousness ... and Kore-eda's quasi-documentary style give this movie a stunning credibility.</snippet>
+         <url>http://www.washingtonpost.com/wp-dyn/articles/A50172-2005Feb24.html</url>
+         <critic>Desson Thomson</critic>
+      </review>
+      <review>
+         <snippet>It's a quietly powerful work, pulsing with gentle humor and a gripping sense of imminent calamity and dread.</snippet>
+         <url>http://ae.philly.com/entertainment/ui/philly/movie.html?id=252931&amp;reviewId=17437</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>Beautiful, elevating and achingly sad.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/215392_limited11.html</url>
+         <critic>Sean Axmaker</critic>
+      </review>
+      <review>
+         <snippet>Moves at a stately pace; it's a long film, to boot. But there's real drama and pathos in the story, in the blend of matter-of-factness and potential catastrophe, in the depiction of innocence imperiled.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/1109854946220541.xml</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>The kids in Nobody Knows are most decidedly not crazy, and we come to care for them to an almost excruciating degree.</snippet>
+         <url>http://www.washingtonpost.com/wp-dyn/articles/A51896-2005Feb24.html</url>
+         <critic>Ann Hornaday</critic>
+      </review>
+      <review>
+         <snippet>Pure and universal.</snippet>
+         <url>http://www.slate.com/id/2113405/</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>Apart from a singer named You who plays Keiko, the members of the cast are non-professionals. You may find that hard to believe when you see this astonishing film, as I hope you will.</snippet>
+         <url/>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>Unfolds with such leisurely, terrible beauty, it takes a while to realize that what we are witnessing is the children's long slide into beggary, exacerbated by the slow torture of faint hope.</snippet>
+         <url>http://www.laweekly.com/ink/05/12/film-taylor2.php</url>
+         <critic>Ella Taylor</critic>
+      </review>
+      <review>
+         <snippet>Not for the faint of heart, though it has no scenes of overt violence, and barely a tear is shed. It is also strangely thrilling, not only because of the quiet assurance of Mr. Kore-eda's direction, but also because of his alert, humane sense of sympathy.</snippet>
+         <url>http://movies2.nytimes.com/2005/02/04/movies/04nobo.html?oref=login</url>
+         <critic>Dana Stevens</critic>
+      </review>
+      <review>
+         <snippet>Yuya Yagira, winner of the best actor award at Cannes this year, is superb as the protective eldest child; he and his other nonprofessional costars are quietly heartbreaking.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/capsules/26859_NOBODY_KNOWS</url>
+         <critic>Jim Healy</critic>
+      </review>
+      <review>
+         <snippet>Nobody Knows is the rare film that successfully tells its tale of childhood from the children’s point of view.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A265222</url>
+         <critic>Marjorie Baumgarten</critic>
+      </review>
+      <review>
+         <snippet>You won't forget Nobody Knows, the quietly harrowing tale of four abandoned Japanese children.</snippet>
+         <url>http://ae.miami.com/entertainment/ui/miami/movie.html?id=252931&amp;reviewId=18213</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>Spare and elegant and harrowing, it's an ode to childhood trust being stretched until it snaps.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=7290</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>Kore-eda expresses the terror of the kids' predicament with a touch that's equally tender and dispassionate.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-to.nobody11mar11,1,7071288.story?coll=bal-artslife-movies</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>Kore-eda presents the deeply moving story in a documentary style that is both gentle and compelling.</snippet>
+         <url>http://www.nypost.com/movies/39807.htm</url>
+         <critic>V.A. Musetto</critic>
+      </review>
+      <review>
+         <snippet>There are moments in Yagira's performance that will break your heart.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20050217/REVIEWS/50203006/1001</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>Nothing short of mesmerizing.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/ArticleNews/TPStory/LAC/20050218/NOBODY18/TPEntertainment/Film</url>
+         <critic>Stephen Cole</critic>
+      </review>
+      <review>
+         <snippet>There is not much progress in the film: actions are repeated and repeated...Yet the film is sustained--and, for the most part, well sustained--by the children.</snippet>
+         <url>http://www.tnr.com/doc.mhtml?i=20050228&amp;s=kauffmann022805</url>
+         <critic>Stanley Kauffmann</critic>
+      </review>
+      <review>
+         <snippet>Kore-eda doesn't create the simultaneous sense of being destroyed and exalted that the greatest humanist movies do, but he's stayed true to his title.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2005/02/04/nobody_knows/index.html</url>
+         <critic>Charles Taylor</critic>
+      </review>
+      <review>
+         <snippet>Kore-eda sketches the inner, spiritual and emotional lives of the children with subtlety and sensitivity, delivering the goods after a seemingly directionless first half.</snippet>
+         <url>http://www.variety.com/index.asp?layout=cannes2004&amp;content=review&amp;reviewid=VE1117923830&amp;categoryid=1724&amp;cs=</url>
+         <critic>Derek Elley</critic>
+      </review>
+      <review>
+         <snippet>I certainly came out of Nobody Knows feeling numb; only later, reflecting on the fact that the movie was inspired by a true story, did it occur to me that the numbness could have been deliberate, and that what suffused this picture was a mist of anger.</snippet>
+         <url>http://www.newyorker.com/critics/cinema/?050207crci_cinema</url>
+         <critic>Anthony Lane</critic>
+      </review>
+      <review>
+         <snippet>It's a heart-sundering vision of preadolescent helplessness that rivals passages of "Landscape in the Mist" and "Ponette."</snippet>
+         <url>http://www.villagevoice.com/film/0505,atkinson,60630,20.html</url>
+         <critic>Michael Atkinson</critic>
+      </review>
+      <review>
+         <snippet>Loosely structured around four seasons, Nobody Knows unfolds in a long series of episodes that slowly progress from lightly comic to bracingly sad as the situation deteriorates.</snippet>
+         <url>http://www.theavclub.com/review_pop.php?review_id=8185</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>Japanese auteur Hirokazu Kore-eda's most accessible film to date is also his most wrenching.</snippet>
+         <url>http://tvguide.com/movies/database/showmovie.asp?MI=45902</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>A beautiful but depressing film.</snippet>
+         <url>http://listings.dallasobserver.com/gyrobase/Film/ShowFilm</url>
+         <critic>Jean Oppenheimer</critic>
+      </review>
+      <review>
+         <snippet>Luminous, melancholy and ultimately heartbreaking.</snippet>
+         <url>http://www.miami.com/mld/miamiherald/entertainment/movies/11509534.htm</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>Excellent, troubling social commentary based on a true story.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/moviereviews/story/277768p-237734c.html</url>
+         <critic>Jami Bernard</critic>
+      </review>
+      <review>
+         <snippet>Beguiling but long-winded.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-nobody11feb11,2,5230370.story</url>
+         <critic>Kevin Thomas</critic>
+      </review>
+   </reviews>
+   <US_Gross>$683,575</US_Gross>
+   <weekend_gross>$32,393</weekend_gross>
+   <number_of_screens>2</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

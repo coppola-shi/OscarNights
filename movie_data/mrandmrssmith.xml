@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Mr. and Mrs. Smith</name>
+   <company>Twentieth Century Fox Film Corp.</company>
+   <genres>
+      <genre>Action</genre>
+      <genre>Adventure</genre>
+      <genre>Romance</genre>
+   </genres>
+   <authors>
+      <author>Simon Kinberg</author>
+   </authors>
+   <directors>
+      <director>Doug Liman</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Brad Pitt</actor>
+      <actor>Angelina Jolie</actor>
+      <actor>Adam Brody</actor>
+      <actor>Kerry Washington</actor>
+      <actor>Vince Vaughn</actor>
+      <actor>Angela Bassett</actor>
+      <actor>William Fichtner</actor>
+      <actor>Keith David</actor>
+   </actors>
+   <release_date>June 10, 2005</release_date>
+   <running_time>115</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>A full-on action flick, subversive rom-com and weapons-grade star vehicle that’s drenched in Tinseltown glitz, from a director who knows how to put the money on the screen while his tongue’s firmly in his cheek.</snippet>
+         <url>http://www.empireonline.co.uk/site/incinemas/ReviewInFull.asp?FID=11174</url>
+         <critic>Simon Braund</critic>
+      </review>
+      <review>
+         <snippet>A cool summer thriller whose laughs don't slow down the suspense.</snippet>
+         <url>http://newyorkmetro.com/nymetro/movies/reviews/11930/</url>
+         <critic>Ken Tucker</critic>
+      </review>
+      <review>
+         <snippet>Expertly tossing off the type of well-sharpened banter that was the domain of Gable and Lombard and Tracy and Hepburn, Brad Pitt and Angelina Jolie -- no matter what their off-camera status -- make one swell combative couple.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1000938451</url>
+         <critic>Michael Rechtshaffen</critic>
+      </review>
+      <review>
+         <snippet>Plays like an old-fashioned romantic comedy with updated hardware.</snippet>
+         <url>http://www.theavclub.com/review.php?review_id=8568</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>A kicky, twisted thrill ride, with enough laughs to leaven what can be read, at heart, as a metaphor for the modern marriage.</snippet>
+         <url>http://www.washingtonpost.com/wp-dyn/content/article/2005/06/09/AR2005060900616.html</url>
+         <critic>Michael O&amp;#039;Sullivan</critic>
+      </review>
+      <review>
+         <snippet>Jolie and Pitt project more than just body heat. They convey a multi-faceted attraction, toss off clever repartee and dazzle audiences with their seemingly natural connection. And that's worth watching.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2005-06-09-mr-and-mrs-smith_x.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>The screen smokes with sexual heat. But what's really erotic is how much fun the actors seem to be having.</snippet>
+         <url>http://www.nydailynews.com/entertainment/story/317083p-271220c.html</url>
+         <critic>Jami Bernard</critic>
+      </review>
+      <review>
+         <snippet>What makes the movie work is that Pitt and Jolie have fun together on the screen, and they're able to find a rhythm that allows them to be understated and amused even during the most alarming developments.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20050609/REVIEWS/50524003</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>Alas, around about the third act, the idea grows tired and the whole thing gets derailed. Too bad, because it's a good ride until it isn't.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/ArticleNews/TPStory/LAC/20050610/SMITH10/TPEntertainment/Film</url>
+         <critic>Rick Groen</critic>
+      </review>
+      <review>
+         <snippet>Features some of the best fight and chase footage you'll see all summer.</snippet>
+         <url>http://www.premiere.com/article.asp?section_id=2&amp;article_id=2170</url>
+         <critic>Peter Debruge</critic>
+      </review>
+      <review>
+         <snippet>Here is "Who's Afraid of Virginia Woolf" inflated to lethal proportion, or "The War of the Roses" reimagined as World War III.</snippet>
+         <url>http://www.dallasobserver.com/Issues/2005-06-09/film/film2.html</url>
+         <critic>Bill Gallo</critic>
+      </review>
+      <review>
+         <snippet>A tongue-in-cheek allegory on the hazards of harboring secrets in a relationship, Mr. &amp; Mrs. Smith is most entertaining when the Smiths are hell-bent on mutual annihilation.</snippet>
+         <url>http://www.villagevoice.com/film/0523,lim1,64721,20.html</url>
+         <critic>Dennis Lim</critic>
+      </review>
+      <review>
+         <snippet>Imagine "The War of the Roses" remade as a James Bond fantasy, with appropriately high-tech weaponry, and you have some idea of what Doug Liman's heavily armed comedy has in store.</snippet>
+         <url>http://www.msnbc.msn.com/id/8100178/site/newsweek/</url>
+         <critic>David Ansen</critic>
+      </review>
+      <review>
+         <snippet>As he proved with "The Bourne Identity," director Doug Liman can devise an enjoyable little action movie.</snippet>
+         <url>http://www.filmthreat.com/Reviews.asp?Id=7574</url>
+         <critic>Clint Morris</critic>
+      </review>
+      <review>
+         <snippet>There's a car chase that's more fluid and inventive than the much-touted freeway sequence in "The Matrix Reloaded," and the stars are nimble enough to make their acrobatics credible--no matter how many stunt doubles the picture employed.</snippet>
+         <url>http://www.slate.com/id/2120487/</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>In the end, star charisma and Liman's style win us over and we relax into a sophisticated summertime diversion that is noticeably intended for adults.</snippet>
+         <url>http://www.calendarlive.com/movies/turan/cl-et-smith10jun10,0,623152.story</url>
+         <critic>Kenneth Turan</critic>
+      </review>
+      <review>
+         <snippet>Some people will see Mr. and Mrs. Smith as cynical, but I think its heart is deeply romantic, admittedly in an anvil-on-the-head kind of way. It's a love story not for the faint of heart. In other words, it's a lot like marriage.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2005/06/10/mr_mrs_smith/index.html</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>The fact that Pitt and Jolie have not been associated with this type of action is something of a help, but what was needed was the off-balance tickle that--to fantasize--Cary Grant and Rosalind Russell would have given it.</snippet>
+         <url>http://www.tnr.com/doc.mhtml?i=20050704&amp;s=kauffmann070405</url>
+         <critic>Stanley Kauffmann</critic>
+      </review>
+      <review>
+         <snippet>For all the nimbleness of its first half and the chemical zing of Pitt and Jolie, the film devolves into a fractious and explosive mess, hitting the same note of ''ironic'' violence over and over.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1070053_1_0_,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>Mr. &amp; Mrs. Smith kicks off with panache and star power - and quickly wears out its welcome.</snippet>
+         <url>http://ae.philly.com/entertainment/ui/philly/movie.html?id=325971&amp;reviewId=18238</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>The problem with Mr. and Mrs. Smith is that it's really two movies in one. The first is a sly comedy/thriller worthy of Hitchcock, and the other is a big, noisy summer action flick.</snippet>
+         <url>http://movie-reviews.colossus.net/movies/m/mr_mrs_smith.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>An exhaustingly elaborate romantic fantasy actioner.</snippet>
+         <url>http://www.variety.com/review/VE1117927239?categoryid=31&amp;cs=1</url>
+         <critic>Todd McCarthy</critic>
+      </review>
+      <review>
+         <snippet>The movie reminded me of a relatively new product, the little translucent wafer that you put on your tongue to freshen your breath. One hit of intense flavor and the thing dissolves without a trace.</snippet>
+         <url/>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>If the two most gorgeous people in the world alternately bantering and making out isn't enough to compel the attention of the average American moviegoer, then we are truly doomed.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/1118311511318380.xml&amp;coll=7</url>
+         <critic>Marc Mohan</critic>
+      </review>
+      <review>
+         <snippet>An action comedy for suburban women that's as toothless as a newborn, and nearly as stupid. It tries so hard to be cute that it practically drools on your shoulder.</snippet>
+         <url>http://www.nypost.com/movies/24987.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>Only Vince Vaughn registers hilariously as John's boss.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/_/id/6824319?pageid=rs.ReviewsMovieArchive&amp;pageregion=mainRegion</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>Pitt coasts through the movie in second gear. I have no idea what he's trying to accomplish with his tight-lipped, low-key performance; maybe he's angling to replace Tom Cruise in "Mission: Impossible IV."</snippet>
+         <url>http://ae.charlotte.com/entertainment/ui/charlotte/movie.html?id=325971&amp;reviewId=18226&amp;startDate=NEXT7</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>It's a perfect role for Jolie, whose seductive looks always seem to be concealing something dangerous, even predatory, and she brings out a looseness in Pitt, who fares much better in comedic roles than when playing things straight and stoic (i.e. Troy).</snippet>
+         <url>http://ae.miami.com/entertainment/ui/miami/movie.html?id=325971&amp;reviewId=18214</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>Jolie has a gangly inelegance that suggests a giraffe trying to hang wallpaper -- but the entire movie is predicated on a spark between its prettier-than-thou stars that seems to have bypassed the screen and ignited in the tabloids instead.</snippet>
+         <url>http://www.laweekly.com/film/film_results.php?showid=3435&amp;Sumbit.x=47&amp;Sumbit.y=14</url>
+         <critic>Scott Foundas</critic>
+      </review>
+      <review>
+         <snippet>This romantic-comedy action movie is a fizzle.</snippet>
+         <url>http://alliance.zap2it.com/custom/metromix/main_template/0,1846,8-25973-1,00.html</url>
+         <critic>Michael Wilmington</critic>
+      </review>
+      <review>
+         <snippet>Maybe my priorities are wrong, but this inquiring mind wants to know when these two will find a movie entirely worthy of his understatement and her naughtiness. This one has its moments, but it's also littered with action-flick junk.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=7192</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>By the time the film winds itself up, the sophisticated fizz of its first 45 minutes has been smothered by explosive bombast.</snippet>
+         <url>http://tvguide.com/movies/database/ShowMovie.asp?MI=46073</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>Uneven, ineffective mash-up of sex comedy and artillery-heavy action.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A273811</url>
+         <critic>Kimberley Jones</critic>
+      </review>
+      <review>
+         <snippet>The movie is a technological and publicity triumph, and a calamity in every other way.</snippet>
+         <url>http://www.newyorker.com/critics/cinema/?050613crci_cinema</url>
+         <critic>David Denby</critic>
+      </review>
+      <review>
+         <snippet>What counts in a movie like this are stars so dazzling that we won't really notice or at least mind the cut-rate writing and occasionally incoherent action. Sometimes Mr. Pitt and Ms. Jolie succeed in their mutual role as sucker bait, sometimes they don't, which is why their new joint venture is alternately a goof and a drag.</snippet>
+         <url>http://movies2.nytimes.com/2005/06/10/movies/10smit.html</url>
+         <critic>Manohla Dargis</critic>
+      </review>
+      <review>
+         <snippet>To watch Mr. &amp; Mrs. Smith, which continually sacrifices its potential for sophisticated fun on the altar of style and physical stunts, is to realize how far we've come from the great movies of, say, George Cukor or Howard Hawks.</snippet>
+         <url>http://www.washingtonpost.com/wp-dyn/content/article/2005/06/09/AR2005060902144.html</url>
+         <critic>Ann Hornaday</critic>
+      </review>
+      <review>
+         <snippet>It's hard to know what these stars are ready for after this fiasco. Maybe a fitness video.</snippet>
+         <url>http://www.baltimoresun.com/features/lifestyle/bal-to.smith10jun10,1,5792790.story?coll=bal-movies-utility</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>A deeply stupid and offensive action comedy-romance.</snippet>
+         <url>http://www.chicagoreader.com/movies/archives/2005/0605/050610_1.html</url>
+         <critic>Jonathan Rosenbaum</critic>
+      </review>
+      <review>
+         <snippet>It may be emblematic of new-millennium Hollywood that this movie has turned out to be one more emotionless, brainless, overproduced action film.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/227872_smith10q.html</url>
+         <critic>William Arnold</critic>
+      </review>
+      <review>
+         <snippet>The film is glossy, but awful. Frenetic, but awful. Expensive, but awful. ... And awful.</snippet>
+         <url>http://sfgate.com/cgi-bin/article.cgi?f=/c/a/2005/06/10/DDGFDD5KI11.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>The movie is a mish-mash of action-adventure clichés, book-ended with lame attempts at psychological interest. Written, directed, and acted with ham-fisted heaviness.</snippet>
+         <url>http://www.csmonitor.com/2005/0610/p14s01-almo.html</url>
+         <critic>David Sterritt</critic>
+      </review>
+   </reviews>
+   <US_Gross>$186,336,279</US_Gross>
+   <production_budget>$110,000,000</production_budget>
+   <weekend_gross>$50,342,878</weekend_gross>
+   <number_of_screens>3,424</number_of_screens>
+   <highest_grossing_actors_present/>
+   <num_highest_grossing_actors>1</num_highest_grossing_actors>
+   <highest_grossing_actor>brad pitt</highest_grossing_actor>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

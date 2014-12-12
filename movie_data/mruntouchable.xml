@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Mr. Untouchable</name>
+   <company>Magnolia Pictures</company>
+   <genres>
+      <genre>Documentary</genre>
+   </genres>
+   <authors>
+      <author/>
+   </authors>
+   <directors>
+      <director>Marc Levin</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Leroy &amp;#039;Nicky&amp;#039; Barnes</actor>
+      <actor>Thelma Grant</actor>
+      <actor>Carol Hawkins-Williams</actor>
+      <actor>Joseph Jazz Hayden</actor>
+      <actor>Leon Scrap Batts</actor>
+   </actors>
+   <release_date>October 26, 2007</release_date>
+   <running_time>92</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>As interesting, certainly, as “American Gangster,” and operating with a truer street sense of the characters involved.</snippet>
+         <url>http://chicago.metromix.com/movies/movie_review/movie-review-mr-untouchable/238737/content</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>If Barnes ultimately emerges as a heartless, duplicitous villain, he's nevertheless got the devil's slippery, seductive charm.</snippet>
+         <url>http://www.avclub.com/content/cinema/mr_untouchable</url>
+         <critic>Nathan Rabin</critic>
+      </review>
+      <review>
+         <snippet>What emerges is a portrait of a complex man - one who had no qualms about murder and drugs but who won a national poetry contest and read "Moby-Dick" while in jail. Go figure.</snippet>
+         <url>http://www.nypost.com/seven/10262007/entertainment/movies/mr_untouchable.htm</url>
+         <critic>V.A. Musetto</critic>
+      </review>
+      <review>
+         <snippet>It's not a pretty picture, but it sure is a compelling one.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2007/10/26/2007-10-26_short_takes_more_movie_reviews-1.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>The "black Godfather" comes off as a cold-blooded narcissist whose vision of the American Dream is as twisted as it seems to have been rewarding.</snippet>
+         <url>http://www.philly.com/inquirer/columnists/steven_rea/20071026_Mr__Untouchable____.html</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>It's undeniably fascinating, but you might want to take a shower after hanging out with this unsavory bunch.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?JSESSIONID=Xy87Hv5MtQCw7FyCQtcGRGXPDLZMlCLQSP2pHdJWYHxtVJ2wP12h!-1632089767&amp;&amp;rid=10098</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>A slick package all around. Adroitly edited, filled with fine music like Curtis Mayfield's "Pusherman" and more people flashing needles than at a garment worker's convention, this film is less a dispassionate examination than a celebratory infomercial on its central character.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-untouchable26oct26,0,2893075.story?coll=cl-mreview</url>
+         <critic>Kenneth Turan</critic>
+      </review>
+      <review>
+         <snippet>It's fast and furious, and it proves that crime doesn't pay, unless you know how to do it right.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1139743&amp;categories=Movies&amp;nm=1</url>
+         <critic>Stephen Hunter</critic>
+      </review>
+      <review>
+         <snippet>A fascinating first-person account of drug kingpin and ruthless gangster Nicky Barnes, whose outrageous story of rise, rule, rage, and revenge requires no such stylistic filler.</snippet>
+         <url>http://www.villagevoice.com/film/0743,various,78123,20.html</url>
+         <critic>Michelle Orange</critic>
+      </review>
+      <review>
+         <snippet>Barnes, now in his seventies and relocated by the Witness Protection Program, is shot only in silhouette, but there's plenty of footage of him in his heyday, dressed to the pimpalicious nines and playing to the cameras like a movie star.</snippet>
+         <url>http://www.tvguide.com/movies/mr-untouchable/review/291078</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>There is some acknowledgment of the terrible effects of the drug trade on residents of Harlem and other poor New York neighborhoods, but for the most part Mr. Untouchable clings to the standard hip-hop mythology of the pusher as entrepreneur, rebel, celebrity and folk hero.</snippet>
+         <url>http://movies.nytimes.com/2007/10/26/movies/26unto.html?ref=movies</url>
+         <critic>A.O. Scott</critic>
+      </review>
+      <review>
+         <snippet>Machiavelli epigrams and 70s soul classics embellish this slice of thug life, which succumbs to the usual hypocrisy of condemning Barnes while grooving on his cars, clothes, and jewels.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/31907_MISTER_UNTOUCHABLE.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>Alternately seduced and repelled by its subject, the garish and power-hungry Harlem gangster and '70s cocaine kingpin Nicky Barnes, Mr. Untouchable is one seriously confused documentary.</snippet>
+         <url>http://www.variety.com/review/VE1117933949.html?categoryid=31&amp;cs=1&amp;p=0</url>
+         <critic>Robert Koehler</critic>
+      </review>
+   </reviews>
+   <US_Gross>$103,590</US_Gross>
+   <weekend_gross>$48,280</weekend_gross>
+   <number_of_screens>26</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

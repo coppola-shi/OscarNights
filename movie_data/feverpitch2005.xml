@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Fever Pitch</name>
+   <company>Twentieth Century Fox Film Corp.</company>
+   <genres>
+      <genre>Comedy</genre>
+      <genre>Romance</genre>
+   </genres>
+   <authors>
+      <author>Lowell Ganz</author>
+      <author>Babaloo Mandel</author>
+      <author>Nick Hornby</author>
+   </authors>
+   <directors>
+      <director>Bobby Farrelly</director>
+      <director>Peter Farrelly</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Drew Barrymore</actor>
+      <actor>Jimmy Fallon</actor>
+      <actor>Jason Spevack</actor>
+      <actor>Jack Kehler</actor>
+      <actor>Scott Severance</actor>
+      <actor>Jessamy Finet</actor>
+      <actor>Maureen Keiller</actor>
+      <actor>Lenny Clarke</actor>
+      <actor>Ione Skye</actor>
+   </actors>
+   <release_date>April 8, 2005</release_date>
+   <running_time>minutes,</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>It's been a while since a movie made the game of love this winning.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1045759_1_0_,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>The movie has been directed by the Farrelly brothers...Here, they're sensitive and warm-hearted, never push too hard, empathize with the characters, allow Lindsey and Ben to become people we care about.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20050407/REVIEWS/50323004/1001</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>Baseball, Boston and Drew Barrymore. Certainly sounds like a winning combination.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-to.fever08apr08,1,6043478.story?coll=bal-artslife-movies</url>
+         <critic>Chris Kaltenbach</critic>
+      </review>
+      <review>
+         <snippet>The Farrelly brothers are growing up, which in this case isn't a bad thing. With a tacked-on ending made necessary by the Boston Red Sox's improbable World Series run last fall, Fever Pitch proves a charming romantic comedy against "A Beautiful Mind"-type framework.</snippet>
+         <url>http://www.variety.com/review/VE1117926723?categoryid=31&amp;cs=1</url>
+         <critic>Brian Lowry</critic>
+      </review>
+      <review>
+         <snippet>A curious mix of smarts and schmaltz.</snippet>
+         <url>http://movie-reviews.colossus.net/movies/f/fever_pitch2005.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>Effortlessly entertaining romantic comedy.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=7188</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>The gall of Peter and Bobby Farrelly. To think that a romantic comedy might work absent a sleazy wager or maddening miscommunication takes a lot of chutzpah.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-050407-movies-review-ab-fever.story</url>
+         <critic>Allison Benedikt</critic>
+      </review>
+      <review>
+         <snippet>The picture's consistently entertaining and, though it has few brilliant comic peaks, it never plunges into boring valleys.</snippet>
+         <url>http://ae.philly.com/entertainment/ui/philly/movie.html?id=283541&amp;reviewId=17745</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>Fever Pitch works. At times, it works brilliantly.</snippet>
+         <url>http://ae.philly.com/entertainment/ui/philly/movie.html?id=283541&amp;reviewId=17756</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>Sails by on cute dialogue, some funny visual gags, and two enormously likable leads.</snippet>
+         <url>http://dallasobserver.com/issues/2005-04-07/film/film.html</url>
+         <critic>Jean Oppenheimer</critic>
+      </review>
+      <review>
+         <snippet>Ultimately goes the distance, it gets the job done with a halfhearted bunt rather than a solid line drive.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1000865410</url>
+         <critic>Michael Rechtshaffen</critic>
+      </review>
+      <review>
+         <snippet>Sweet and often hilarious.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-fever8apr08,2,5594842.story</url>
+         <critic>Carina Chocano</critic>
+      </review>
+      <review>
+         <snippet>This is Hollywood Hornby: not terrible, but not worth crossing a busy street for, and nowhere near as memorable as what the Sox did last year.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/111286803967500.xml</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>As a motion picture, Fever Pitch is merely competent.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/ArticleNews/TPStory/LAC/20050408/FEVER08/TPEntertainment/Film</url>
+         <critic>Rick Groen</critic>
+      </review>
+      <review>
+         <snippet>By contrast, other Hornby screen adaptations are "About a Boy" and "High Fidelity"- superb comedies both and, in Fidelity's case, a treatise on male obsession with far more depth and even more laughs.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2005-04-07-fever-pitch_x.htm</url>
+         <critic>Mike Clark</critic>
+      </review>
+      <review>
+         <snippet>Relationship comedy like this is mother's milk to Drew Barrymore, who, as usual, is adorable and perfect.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/moviereviews/story/297833p-254807c.html</url>
+         <critic>Jami Bernard</critic>
+      </review>
+      <review>
+         <snippet>For all its various failures, Fever Pitch taps expertly into our nostalgia for an era when baseball really was the American pastime, unsullied by money, drugs or celebrity.</snippet>
+         <url/>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>To call this "Farrelly brothers lite" may be a little redundant, but aside from the odd vomit gag, it goes relatively easy on their usual working-class taboo busting.</snippet>
+         <url>http://spacefinder.chicagoreader.com/movies/briefs/27626_FEVER_PITCH_FARRELLY.html</url>
+         <critic>Jonathan Rosenbaum</critic>
+      </review>
+      <review>
+         <snippet>Has a slapdash feeling to it.</snippet>
+         <url>http://www.newyorker.com/critics/cinema/?050418crci_cinema</url>
+         <critic>David Denby</critic>
+      </review>
+      <review>
+         <snippet>Barrymore has rarely been so bright and effortlessly charming, but it's all lost on Fallon, who often resembles one of those unfortunate SNL guests who freeze up on live TV, completely out of their element. If Fallon wants a life after SNL, he might want to try another medium.</snippet>
+         <url>http://www.theavclub.com/review_pop.php?review_id=8368</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>Still, despite the visual clumsiness and the production's tattered seams, I found myself rooting for this movie anyway, partly because Lindsey and Ben make a nice fit, as do the actors playing them, partly because the Farrellys bring so much heart to their movies, and partly because Ms. Barrymore inspires more goodwill than any other young actress I can think of working today in American movies.</snippet>
+         <url>http://movies2.nytimes.com/2005/04/08/movies/08feve.html?</url>
+         <critic>Manohla Dargis</critic>
+      </review>
+      <review>
+         <snippet>If you're rooting for Barrymore and Fallon, then why not their team? In the movies, there are enough happy endings for everyone.</snippet>
+         <url>http://tvguide.com/movies/database/showmovie.asp?MI=45965</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>I prefer the Farrellys when they're disreputable and push the boundaries of taste, because they're otherwise a tad sentimental.</snippet>
+         <url>http://www.slate.com/id/2116417/</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>Not a Farrelly brothers classic, and (some testicle-washing aside) not much in the way of their trademark gross-out humour, but the boys from Boston do an admirable job of transferring Hornby's story into the States and onto the baseball diamond.</snippet>
+         <url>http://www.empireonline.co.uk/site/incinemas/ReviewInFull.asp?FID=11287</url>
+         <critic>Miles Fielder</critic>
+      </review>
+      <review>
+         <snippet>Passably entertaining.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/219218_fever08q.html</url>
+         <critic>William Arnold</critic>
+      </review>
+      <review>
+         <snippet>The movie is so soggy and anonymous, I had to remind myself that the Farrelly brothers, Peter and Bobby, directed it. It's sad to watch the kingpins of gross-out try to dial down to cute. Swung at and missed.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/_/id/6823862?pageid=rs.ReviewsMovieArchive&amp;pageregion=mainRegion</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>Fever Pitch is surprisingly devoid of jokes, or romance, or any of the other basic elements you'd expect to find in a romantic comedy. The only thing the Farrellys get right is the obsession.</snippet>
+         <url>http://ae.philly.com/entertainment/ui/philly/movie.html?id=283541&amp;reviewId=17731</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>But the ickiest thing about Fever Pitch is its reverential Field of Dreams music.</snippet>
+         <url>http://www.villagevoice.com/film/0515,hoberman2,62954,20.html</url>
+         <critic>J. Hoberman</critic>
+      </review>
+      <review>
+         <snippet>If anything, Fever Pitch will give Bosox fans one more chance to relive, in big-screen glory, those fleeting, flavorsome days.</snippet>
+         <url>http://www.washingtonpost.com/wp-dyn/articles/A35878-2005Apr7.html</url>
+         <critic>Ann Hornaday</critic>
+      </review>
+      <review>
+         <snippet>One-dimensional fluff piece.</snippet>
+         <url>http://www.premiere.com/article.asp?section_id=2&amp;article_id=2076</url>
+         <critic>Aaron Hillis</critic>
+      </review>
+      <review>
+         <snippet>A romantic comedy that flirts with something serious but never gets past the flirting stage.</snippet>
+         <url>http://sfgate.com/cgi-bin/article.cgi?f=/c/a/2005/04/08/DDGFGC45VQ1.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>Fever Pitch lacks that Farrelly spark, that warm, crazy glint.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2005/04/08/fever_pitch/index.html</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>Rarely have filmmakers had a more wildly improbable happy ending forced on them. Well, you need all the help you can get, divine or otherwise, when your two stars - Drew Barrymore and Jimmy Fallon - have no chemistry whatsoever.</snippet>
+         <url>http://www.nypost.com/movies/42264.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>Honestly, this movie would've worked a lot better had the Red Sox not won the World Series.</snippet>
+         <url>http://www.filmthreat.com/Reviews.asp?Id=7346</url>
+         <critic>Pete Vonder Haar</critic>
+      </review>
+      <review>
+         <snippet>Unfunny, charmless and hopelessly ordinary.</snippet>
+         <url>http://www.laweekly.com/ink/05/20/film-foundas2.php</url>
+         <critic>Scott Foundas</critic>
+      </review>
+      <review>
+         <snippet>It's almost too dull to pan.</snippet>
+         <url>http://www.washingtonpost.com/wp-dyn/articles/A34093-2005Apr7.html</url>
+         <critic>Desson Thomson</critic>
+      </review>
+      <review>
+         <snippet>Ultimately, it's a bore. Don't see the movie – read the book, play the game.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A265231</url>
+         <critic>Marc Savlov</critic>
+      </review>
+   </reviews>
+   <US_Gross>$42,071,069</US_Gross>
+   <production_budget>$40,000,000</production_budget>
+   <weekend_gross>$12,400,125</weekend_gross>
+   <number_of_screens>3,267</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

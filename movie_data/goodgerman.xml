@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Good German, The</name>
+   <company>Warner Bros. Pictures</company>
+   <genres>
+      <genre>Drama</genre>
+      <genre>Mystery</genre>
+      <genre>Romance</genre>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>Paul Attanasio</author>
+      <author>Joseph Kanon</author>
+   </authors>
+   <directors>
+      <director>Steven Soderbergh</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>George Clooney</actor>
+      <actor>Cate Blanchett</actor>
+      <actor>Tobey Maguire</actor>
+      <actor>Beau Bridges</actor>
+      <actor>Tony Curran</actor>
+      <actor>Lel Orser</actor>
+      <actor>Jack Thompson</actor>
+      <actor>Robin Weigert</actor>
+   </actors>
+   <release_date>December 15, 2006</release_date>
+   <running_time>105</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>This is Soderbergh's show, and a haunting and hypnotic show it is.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/9569555/review/12626060/the_good_german</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>With a few self-conscious exceptions, Soderbergh makes an earnest attempt to return to that place and time in both history and American filmmaking, and his risk-taking pays fascinating dividends.</snippet>
+         <url>http://www.avclub.com/content/node/56665</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>Blanchett gets everything right -- the accent, her German dialogue, the weary sexuality (deliberately reminiscent of Marlene Dietrich) and the amorality her character has embraced.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?JSESSIONID=FyZJWshNLjppBmwrNZm6vVgnLf0HQDNVW2N2yg16tRvw1gB6bt2l!-720130996&amp;&amp;rid=8466</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>The leisure-time viewer will say, ''Hey, this is sort of like "Casablanca," so why play it again?''</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1569426_1_0_,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>While Clooney and especially Blanchett give solid performances, and McGuire plays effectively against type, the movie is best appreciated as an exercise in vintage Hollywood style.</snippet>
+         <url>http://www.nypost.com/seven/12152006/entertainment/movies/vintage_point_movies_lou_lumenick.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>Set in postwar Berlin, the story involves prostitution, black marketeering, and the death camps, and the tension between the visual style and the adult story makes the movie pretty engrossing -- it's an R-rated "Casablanca."</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/critic.html#30896</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>Sumptuous, clever and cold.</snippet>
+         <url>http://www.laweekly.com/film+tv/film/the-good-german-out-of-the-past/15202/</url>
+         <critic>Ella Taylor</critic>
+      </review>
+      <review>
+         <snippet>The Good German, Steven Soderbergh's film noir homage, is nearly perfect when it comes to style and tone, but it concentrates so single-mindedly on the mechanics of the narrative that it loses sight of its characters.</snippet>
+         <url>http://www.reelviews.net/movies/g/good_german.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>But for all the profane language and sexual frankness, Soderbergh's film is no more cynical or world-weary than its inspirations, and in the end, it feels like a clever trick wrapped around a hollow center.</snippet>
+         <url>http://tvguide.com/detail/movie.aspx?tvobjectid=284463&amp;more=ucmoviereview</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>Here's what's good about The Good German: The look is fantastic; technically, the movie is a retro marvel. Here's what's bad: The script sucks; it keeps promising to be clever, engaging, subtle and completely fails to deliver.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20061215.wgerman15/BNStory/Entertainment/home</url>
+         <critic>Rick Groen</critic>
+      </review>
+      <review>
+         <snippet>Overall, while the film is a gorgeous, nostalgic cinema experience, and there's definitely a multiple of mini-plots to unravel while you work towards the final resolution, the film comes up as a bit of a dud.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=9502</url>
+         <critic>Mark Bell</critic>
+      </review>
+      <review>
+         <snippet>The Good German is a prime example of a movie made by highly skilled and intelligent filmmakers that nevertheless seems misguided from the get-go.</snippet>
+         <url>http://www.csmonitor.com/2006/1215/p14s02-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>I hold Soderbergh in high esteem, but as handsome a technical achievement as it is, The Good German plays to me as a failed experiment.</snippet>
+         <url>http://www.premiere.com/moviereviews/3311/the-good-german.html</url>
+         <critic>Glenn Kenny</critic>
+      </review>
+      <review>
+         <snippet>Soderbergh's homage to film noir and wartime thrillers, is technically stunning but narratively and thematically hollow.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2006-12-14-good-german-review_x.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>It does get mired in its obsession with its own style.</snippet>
+         <url>http://www.calendarlive.com/movies/cl-et-german15dec15,0,981709.story</url>
+         <critic>Carina Chocano</critic>
+      </review>
+      <review>
+         <snippet>For actor and director, the project seems like trying on a new coat, and it doesn't fit either of them.</snippet>
+         <url>http://www.variety.com/awardcentral_review/VE1117932224.html?nav=reviews07&amp;categoryid=2352&amp;cs=1</url>
+         <critic>Todd McCarthy</critic>
+      </review>
+      <review>
+         <snippet>Soderbergh doesn't miss a trick, and for a while it's fun for us to share in his fun. But there comes a moment when his Euro-noir film turns into another sort of exercise for the audience: an exercise in boredom.</snippet>
+         <url>http://www.time.com/time/magazine/article/0,9171,1565553,00.html</url>
+         <critic>Richard Schickel</critic>
+      </review>
+      <review>
+         <snippet>Steven Soderbergh is usually an inspired chameleon, perfectly suiting his style to his content. But The Good German is an ambitious miss...It's all very beautiful, high-minded, and remote.</snippet>
+         <url>http://nymag.com/movies/reviews/25324/index1.html</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>How, then, does The Good German--adapted by Paul Attanasio from Joseph Kanon's novel--wind up so insubstantial, its impact lasting no longer than a cigarette?</snippet>
+         <url>http://www.newyorker.com/critics/cinema/?061218crci_cinema</url>
+         <critic>Anthony Lane</critic>
+      </review>
+      <review>
+         <snippet>Attempting a frame-by-frame duplication of Warner Bros. '40s filmmaking--even the extroverted acting style apes the period--Soderbergh has produced a movie so self-conscious that it's drained of all life.</snippet>
+         <url>http://www.msnbc.msn.com/id/16115744/site/newsweek/page/4/</url>
+         <critic>David Ansen</critic>
+      </review>
+      <review>
+         <snippet>If you feel anything other than admiration for its craftsmanship, let me know; The Good German is as emotionally cold and unconvincing as any movie I've seen this year.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/moviereviews/story/480351p-403952c.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>Of The Good German, it can be said that the operation was a brilliant success, even if the patient is not merely dead but most sincerely dead. The movie, in other words, lies there as if on a slab in a morgue, while you admire the corpse for its beauty.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1123561&amp;categories=Movies&amp;nm=1</url>
+         <critic>Stephen Hunter</critic>
+      </review>
+      <review>
+         <snippet>Fascinating in concept but a disaster in execution.</snippet>
+         <url>http://ae.miami.com/entertainment/ui/miami/movie.html?id=584278&amp;reviewId=22014</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>Far from the worst movie of 2006, but it may be the most disappointing. It should have been wonderful -- a delicious tribute to classic Hollywood -- but it simply doesn't come off.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/296788_german22q.html</url>
+         <critic>William Arnold</critic>
+      </review>
+      <review>
+         <snippet>I could have managed to bear all the film's shortcomings if it weren't for Clooney. Where was he during the making of this film? His face is there, he knows his lines, he moves as needed, but any traces of the intelligence and rapport, the subtlety and understanding, that have marked his best work are excruciatingly missing. Clooney behaves as if he discovered after he had committed to the film that he really didn't like the script as much as he thought he did but would go through with it anyway. The result is puppetry.</snippet>
+         <url>http://www.tnr.com/doc.mhtml?i=20070122&amp;s=kauffmann012207</url>
+         <critic>Stanley Kauffmann</critic>
+      </review>
+      <review>
+         <snippet>This should have been Soderbergh gold. Instead it is mostly unengaging and dull, proof positive that they don't make them like they used to.</snippet>
+         <url>http://www.empireonline.com/reviews/review.asp?FID=11055</url>
+         <critic>Ian Freer</critic>
+      </review>
+      <review>
+         <snippet>However flavorsome though, The Good German is seriously deficient in the stars' star power and narrative excitement. The movie is lovingly framed, carefully lit, and fatally insipid. The direction is slack; the pacing is perfunctory.</snippet>
+         <url>http://www.villagevoice.com/film/0650,hoberman,75275,20.html</url>
+         <critic>J. Hoberman</critic>
+      </review>
+      <review>
+         <snippet>Steven Soderbergh's new film is a puzzle wrapped in a mystery inside a perversity. The puzzle is Mr. Soderbergh's approach to what might have been an intriguing experiment, rather than the off-putting one it turned out to be.</snippet>
+         <url/>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>In his genre pastiche The Good German, Steven Soderbergh has tried to resurrect the magic of classical Hollywood, principally by sucking out all the air, energy and pleasure from his own filmmaking.</snippet>
+         <url>http://movies2.nytimes.com/2006/12/15/movies/15germ.html?ref=movies</url>
+         <critic>Manohla Dargis</critic>
+      </review>
+      <review>
+         <snippet>Tobey Maguire, terribly miscast and squeaky (that voice - it belongs to a kid!).</snippet>
+         <url>http://ae.philly.com/entertainment/ui/philly/movie.html?id=584278&amp;reviewId=21993</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>There's a great movie somewhere in The Good German, but it's buried under three tons of run-amok formalism.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=9121</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>The Good German is just stiff. When Soderbergh tries one of those patented swoop-in-on-the-diagonal moves at a key dramatic moment, the effect is comic. And at that precise moment, the story starts dying a slow, oxygen-deprived death.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-061222-movies-review-german,0,5739821.story?coll=mmx-movies_top_heds</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>With The Good German, Soderbergh -- generally a terrific and creative filmmaker -- apes a style, and a way of seeing, that he clearly doesn't understand. It feels like a hit to the stomach.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2006/12/15/good_german/index.html</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>Blanchett's performance is Soderbergh's biggest mistake. He either encourages or permits her to play Lena as a Greta Garbo caricature, which is mildly amusing if you're interested in Garbo, but if you're interested in Lena and The Good German, you're out of luck.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2006/12/22/DDGNRN3GFQ1.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+   </reviews>
+   <US_Gross>$1,308,696</US_Gross>
+   <production_budget>$32,000,000</production_budget>
+   <weekend_gross>$76,817</weekend_gross>
+   <number_of_screens>5</number_of_screens>
+   <oscar_winning_directors_present/>
+   <num_oscar_winning_directors>1</num_oscar_winning_directors>
+   <oscar_winning_director>steven soderbergh</oscar_winning_director>
+   <highest_grossing_actors_present/>
+   <num_highest_grossing_actors>1</num_highest_grossing_actors>
+   <highest_grossing_actor>cate blanchett</highest_grossing_actor>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Silk</name>
+   <company>Picturehouse</company>
+   <genres>
+      <genre>Drama</genre>
+      <genre>Romance</genre>
+   </genres>
+   <authors>
+      <author>Michael Golding</author>
+      <author>François Girard</author>
+      <author>Alessandro Baricco</author>
+   </authors>
+   <directors>
+      <director>François Girard</director>
+   </directors>
+   <origins>
+      <origin>CanadaFranceItalyUKJapan</origin>
+   </origins>
+   <actors>
+      <actor>Michael Pitt</actor>
+      <actor>Kôji Yakusho</actor>
+      <actor>Keira Knightley</actor>
+      <actor>Alfred Molina</actor>
+      <actor>Mark Rendall</actor>
+      <actor>Sei Ashina</actor>
+   </actors>
+   <release_date>September 14, 2007</release_date>
+   <running_time>110</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>As sensuous as its title, Silk is an exquisitely felt love story that unfolds as delicately as a blooming flower. And as slowly.</snippet>
+         <url>http://www.nypost.com/seven/09142007/entertainment/movies/silk_worms_its_way_into_hearts.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>Sensual but profoundly silly, Silk is ultimately little more than softcore porn with arthouse trappings, a moony, dopily romantic "Red Shoe Diaries" variation for the NPR set.</snippet>
+         <url>http://www.avclub.com/content/cinema/silk</url>
+         <critic>Nathan Rabin</critic>
+      </review>
+      <review>
+         <snippet>Though elegantly staged, Silk is badly written and indifferently cast.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20070927.silk28nat/BNStory/Entertainment/home</url>
+         <critic>Stephen Cole</critic>
+      </review>
+      <review>
+         <snippet>Beautiful but flimsy film.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2007/09/14/DDOFS304B.DTL#flick</url>
+         <critic>Joshua Kosman</critic>
+      </review>
+      <review>
+         <snippet>A visually arresting period piece.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/32089_SILK.html</url>
+         <critic>Joshua Katzman</critic>
+      </review>
+      <review>
+         <snippet>Cinematographer Alain Dostie's stunning, painterly cinematography is the best -- and perhaps only -- reason to endure this stunted epic.</snippet>
+         <url>http://www.tvguide.com/movies/silk/review/290037</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>Everything is brought together at the end in a flash of revelation that is spectacularly underwhelming.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20070913/REVIEWS/709130307</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>Failing to make a lick of rational sense, Silk grasps at poetic straws.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/331561_silk14q.html</url>
+         <critic>Bill White</critic>
+      </review>
+      <review>
+         <snippet>Though the film aspires to the epic with pretensions of deeper philosophical meaning, it ultimately settles for being the "Escape (The Piña Colada Song)" of historical romances.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-silk14sep14,0,7947132.story?coll=cl-mreview</url>
+         <critic>Kevin Crust</critic>
+      </review>
+      <review>
+         <snippet>Wan, generically pretty adaptation of Alessandro Baricco's 1996 novel.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20056252,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>Mr. Pitt is a reasonably photogenic specimen. But this actor, whose typical screen character is a broken, androgynous man-child, is disastrously miscast.</snippet>
+         <url>http://movies.nytimes.com/2007/09/14/movies/14silk.html?ref=movies</url>
+         <critic>Stephen Holden</critic>
+      </review>
+      <review>
+         <snippet>By the end of Francois Gerard's plodding, uninvolving melodrama, his boredom will have nothing on yours.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2007/09/14/2007-09-14_short_takes_more_movies_coming_out_this_.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>By any standards, Silk is a bad movie: pretentious, stillborn, devoid of emotion.</snippet>
+         <url>http://www.reelviews.net/movies/s/silk.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>Silk is a snooze. Vacuous, arid and terminally dull, this adaptation of Alessandro Baricco's freak bestseller hasn't a trace of real life or energy to it, and is hamstrung by a lethargic lead performance by Michael Pitt.</snippet>
+         <url>http://www.variety.com/review/VE1117934689.html?categoryid=31&amp;cs=1</url>
+         <critic>Todd McCarthy</critic>
+      </review>
+      <review>
+         <snippet>Silk isn’t just bad. It’s utterly mad. It stutters and hiccups from scene to scene, from country to country, but never once does it make narrative or emotional sense.</snippet>
+         <url>http://www.villagevoice.com/film/0737,wallace,77789,20.html</url>
+         <critic>Julia Wallace</critic>
+      </review>
+   </reviews>
+   <US_Gross>$1,103,075</US_Gross>
+   <weekend_gross>$126,537</weekend_gross>
+   <number_of_screens>122</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

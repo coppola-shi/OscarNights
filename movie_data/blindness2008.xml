@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Blindness</name>
+   <company>Miramax Films</company>
+   <genres>
+      <genre>Drama</genre>
+      <genre>Mystery</genre>
+      <genre>Romance</genre>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>Don Mc</author>
+      <author>Kellar</author>
+   </authors>
+   <directors>
+      <director>Fernando Meirelles</director>
+   </directors>
+   <origins>
+      <origin>Canada</origin>
+      <origin>Brazil</origin>
+      <origin>Japan</origin>
+   </origins>
+   <actors>
+      <actor>Mark Ruffalo</actor>
+      <actor>Julianne Moore</actor>
+      <actor>Gael Garcia Bernal</actor>
+      <actor>Sra Oh</actor>
+      <actor>Danny Glover</actor>
+   </actors>
+   <release_date>October 3, 2008</release_date>
+   <running_time>120</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>Meirelles adds another perspective, that the epidemic might be a good thing if, by being thrown into the darkness together, we may once again recognize the human family to which we all belong.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/381516_blindness03q.html</url>
+         <critic>Bill White</critic>
+      </review>
+      <review>
+         <snippet>It's a rattling, heartrending performance (Moore) in, yes, a long, hard slough of a film – one that is well worth the journey, if not a repeat trip.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A679339</url>
+         <critic>Kimberley Jones</critic>
+      </review>
+      <review>
+         <snippet>It engaged me throughout and I found the ending to be surprisingly hopeful.</snippet>
+         <url>http://www.reelviews.net/php_review_template.php?identifier=1349</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>At times almost unbearably ugly, but by the time you walk out of the theater, you know you've seen something.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2008/10/02/DD2P139PKC.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>Visually nervy, beautifully acted, intense and philosophically compelling, it struggles to connect emotionally as it wrestles with the challenging source material.</snippet>
+         <url>http://www.oregonlive.com/movies/index.ssf/2008/10/movie_review_blindness_1.html</url>
+         <critic>Stan Hall</critic>
+      </review>
+      <review>
+         <snippet>A perversely enjoyable, occasionally harrowing adaptation of José Saramago's 1995 disaster allegory.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=11005</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>I kept hoping the meaning would click into place, but it never quite did.</snippet>
+         <url>http://www.nypost.com/seven/10032008/entertainment/movies/not_a_pretty_sight_131867.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>It's more like a filmed allegory.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20081003.wblindness03/BNStory/Entertainment/home</url>
+         <critic>Liam Lacey</critic>
+      </review>
+      <review>
+         <snippet>Handicapped by pretensions to making big statements, Blindness is still gripping, disturbing and intermittently powerful.</snippet>
+         <url>http://www.empireonline.com/reviews/review.asp?FID=135540</url>
+         <critic>Staff (Not credited)</critic>
+      </review>
+      <review>
+         <snippet>Moore is always watchable, Ruffalo and Bernal get a nice rivalry going without ever establishing eye contact (as it were), and Danny Glover has some nice moments in an underdeveloped part as an older man who finds, to his benefit, that love is blind.</snippet>
+         <url>http://www.npr.org/templates/story/story.php?storyId=95220597</url>
+         <critic>Bob Mondello</critic>
+      </review>
+      <review>
+         <snippet>As the players enact the fall and rebirth of civilization, Meirelles suggests that even a society gone to hell looks better with a little music-video-like pizzazz.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20228558,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>There's a good movie here, but we get it in pieces that are sometimes hard to decipher.</snippet>
+         <url>http://www.avclub.com/content/cinema/blindness</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>A brilliant idea that seems to lack the vision to be great.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2008-10-02-blindness_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>An arresting, often riveting film that is fascinating to look at but not nearly so interesting to watch.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=%20%20%201088500&amp;categories=Movies</url>
+         <critic>Neely Tucker</critic>
+      </review>
+      <review>
+         <snippet>Not a great film, mainly because it can't transcend -- and, indeed, lays bare -- the intellectual flimsiness of its source. But it is, nonetheless, full of examples of what good filmmaking looks like. For all its chin-rubbing, brow-furrowing attitudes, it does not, in the end, give you much to think about. But there is, nonetheless, a lot here to see.</snippet>
+         <url>http://movies.nytimes.com/2008/10/03/movies/03blin.html?ref=movies</url>
+         <critic>A.O. Scott</critic>
+      </review>
+      <review>
+         <snippet>Blindness is provocative cinema. But it also is predictable cinema: It startles but does not surprise.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?rid=11086</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>Meirelles' slickly crafted drama rarely achieves the visceral force, tragic scope and human resonance of Saramago's prose.</snippet>
+         <url>http://www.variety.com/review/VE1117937131.html?categoryid=31&amp;cs=1&amp;query=blindness</url>
+         <critic>Justin Chang</critic>
+      </review>
+      <review>
+         <snippet>Murky and grainy, and showing human beings at their grimmest - thievery, rape, betrayal, murder - Blindness is no barrel of laughs. But it IS a barrel of pretentious metaphorical musings.</snippet>
+         <url>http://www.philly.com/inquirer/columnists/steven_rea/20081002_Directed_by_Fernando_Meirelles__With_Julianne_Moore_Blindness.html</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>This film is very different: chilly, methodical, a slave to 10-ton metaphor as opposed to metaphoric provocation.</snippet>
+         <url>http://chicago.metromix.com/movies/movie_review/movie-review-blindness/640401/content</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>For all its pretension and artiness, Blindness is more like M. Night Shyamalan's "The Happening" (which at least had the decency to be fast-paced and short), right down to its upbeat and inane conclusion.</snippet>
+         <url>http://www.miamiherald.com/entertainment/movies/reviews/story/709819.html</url>
+         <critic>Connie Ogle</critic>
+      </review>
+      <review>
+         <snippet>You get the film's message, that mankind does not react well when challenged by unpleasantness it can't explain away, within the first 15 minutes -- leaving more than 100 minutes to ponderously belabor the point.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/reviews/bal-blindness1003,0,4356803.story</url>
+         <critic>Chris Kaltenbach</critic>
+      </review>
+      <review>
+         <snippet>The trouble with Blindness is that it’s so preoccupied with shouldering this symbolic weight that it gradually forgets to tell a story--to keep faith with the directives of common sense.</snippet>
+         <url>http://www.newyorker.com/arts/critics/cinema/2008/10/06/081006crci_cinema_lane</url>
+         <critic>Anthony Lane</critic>
+      </review>
+      <review>
+         <snippet>Unflinching at best and treacly at worst, the film unveils its apocalyptic scenario with visceral intensity, but lacks the emotional sophistication to rise above schadenfreude kicks.</snippet>
+         <url>http://www.villagevoice.com/2008-10-01/film/blindness-adap-nails-the-bleak-before-succumbing-to-the-sap/</url>
+         <critic>Anthony Kaufman</critic>
+      </review>
+      <review>
+         <snippet>An extended metaphor for the condition of man, and boy is it extended. In the course of two hours that crawl by like four and a half.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2008/10/03/blindness/</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>Blindness is one of the most unpleasant, not to say unendurable, films I've ever seen.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20081002/REVIEWS/810020302</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>A feel-nothing movie – a series of disconnected, implausible incidents that end as arbitrarily as they began, in an effort to inspire emotions the picture never justifies.</snippet>
+         <url>http://events.charlotteobserver.com/reviews/show/31559-review-blindness</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>What was presumably intended to play like a fable plays, instead, like an overly long car commercial crossed with a scare-mongering public service announcement.</snippet>
+         <url>http://www.latimes.com/entertainment/news/reviews/la-et-blindness3-2008oct03,0,665953.story</url>
+         <critic>Carina Chocano</critic>
+      </review>
+      <review>
+         <snippet>After a powerful opening, when we see the first victim suddenly go blind while driving in traffic, the film devolves into a dystopian freak show and wastes many wonderful performers, including Mark Ruffalo and Julianne Moore.</snippet>
+         <url>http://www.csmonitor.com/2008/1004/p25s04-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>Piles on the indignities, violence and island-of-man turmoil.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2008/10/03/2008-10-03_untitled__dig03dx.html</url>
+         <critic>Staff (Not credited)</critic>
+      </review>
+      <review>
+         <snippet>The able cast can't swim through the muck.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=11233</url>
+         <critic>Matthew Sorrento</critic>
+      </review>
+      <review>
+         <snippet>This ends on an uplifting and philosophical note, equating moral blindness with the literal sort, which you'll probably appreciate if you haven't already slit your wrists.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/33640_BLINDNESS.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+   </reviews>
+   <US_Gross>$3,073,392</US_Gross>
+   <production_budget>$25,000,000</production_budget>
+   <weekend_gross>$1,950,260</weekend_gross>
+   <number_of_screens>1,690</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

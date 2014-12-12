@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Hunting Party, The</name>
+   <company>The Weinstein Company</company>
+   <genres>
+      <genre>Action</genre>
+      <genre>Adventure</genre>
+      <genre>Comedy</genre>
+      <genre>Drama</genre>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>Richard Shepard</author>
+   </authors>
+   <directors>
+      <director>Richard Shepard</director>
+   </directors>
+   <origins>
+      <origin>USACroatiaBosniaHerzegovina</origin>
+   </origins>
+   <actors>
+      <actor>Goran Kostic</actor>
+      <actor>Diane Kruger</actor>
+      <actor>Terrence Howard</actor>
+      <actor>Richard Gere</actor>
+      <actor>James Brolin</actor>
+      <actor>Jesse Eisenberg</actor>
+   </actors>
+   <release_date>September 7, 2007</release_date>
+   <running_time>103</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>Like many of the best movies about war and its lingering echo, The Hunting Party is full of dark humor. Writer-director Richard Shepard, maker of 2005's "The Matador," is becoming a master at finding the right tone, balancing the seriousness of his characters' purpose with the madness of their intentions.</snippet>
+         <url>http://www.villagevoice.com/film/0736,wilonsky_ts,77689,20.html</url>
+         <critic>Robert Wilonsky</critic>
+      </review>
+      <review>
+         <snippet>What makes The Hunting Party an original, gonzo treat is the way that Shepard plants the movie's tone somewhere between hair-trigger investigative danger and the from-the-frying-pan-into-the-fire glee of a Hope/Crosby picture.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20054830,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>It's a hilariously half-baked scheme, one that quickly turns them from hunters to hunted, but the strength of The Hunting Party is its shaggy-dog quality.</snippet>
+         <url>http://www.avclub.com/content/cinema/the_hunting_party</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>The Hunting Party does a good job of illustrating Winston Churchill's observation, "There is nothing more exhilarating than to be shot at without result."</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20070913.whuntingreview0913/BNStory/Entertainment/home</url>
+         <critic>Stephen Cole</critic>
+      </review>
+      <review>
+         <snippet>When a movie is a hybrid of this sort, it can be tough to strike just the right tone. Mostly, The Hunting Party manages.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2007-09-20-hunting-party_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>Throw in some business with the CIA, add a small army of Serbian thugs and a mysterious Croatian beauty, and The Hunting Party picks up speed, careening through the forests where the Fox may or may not be hiding out. Whatever fate awaits, it can't be good. But it can be fun.</snippet>
+         <url>http://www.philly.com/philly/entertainment/movies/20070921_Can_it_be_time_for_a_satire_about_Bosnia_.html</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>Writer-director Richard Shepard assembles all the elements for a dark suspense comedy only to lose his way in a surfeit of plot mechanics and unlikely behavior.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/imdb/reviews/article_display.jsp?rid=9702&amp;vnu_special_account_code=thrsiteimdbpro</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>Alternately glib, superficial and amusing, pic vainly attempts to absorb some degree of Serbian irony into a story that's unavoidably lessened by its privileged American vantage point.</snippet>
+         <url>http://www.variety.com/review/VE1117934534.html?categoryid=31&amp;cs=1&amp;p=0</url>
+         <critic>Robert Koehler</critic>
+      </review>
+      <review>
+         <snippet>As energetic and irreverent as it is -- the movie never finds the inspired blend of edgy black comedy and gleeful journalistic adventure that it's after.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/332490_hunt21q.html</url>
+         <critic>William Arnold</critic>
+      </review>
+      <review>
+         <snippet>The characters are flat, too: Richard Gere plays your typical desperate, embittered war reporter; Terrence Howard is your typical cameraman/sidekick/narrator; and Jesse Eisenberg rounds out the standard-issue trio as your typical nervous rookie, in over his head.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/119023173024980.xml&amp;coll=7</url>
+         <critic>Marc Mohan</critic>
+      </review>
+      <review>
+         <snippet>The title of The Hunting Party doesn’t evoke much in particular. “War Correspondents Gone WILD!” would be more like it if the film itself--messy, but fairly stimulating--had more of the scamp in its soul.</snippet>
+         <url>http://chicago.metromix.com/movies/review/movie-review-the-hunting/193790/content</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>Everything about this political thriller is ridiculous.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2007/09/07/2007-09-07_hunting_party_is_search_for_monster__clu.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>By the time the end credits roll, you're still not sure what kind of movie The Hunting Party is supposed to be, other than just queasy.</snippet>
+         <url>http://www.miamiherald.com/1054/story/243982.html</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>Genocide is hard to decorate with the trimmings of dark farce. The Hunting Party wants to get at political truths through audaciousness, but it keeps bumping into that problem of taste, only to back down.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=10637</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>Truth be told, none of it is actual living, and all of it is secondhand re-spinning of such better movies as "The Year of Living Dangerously" and "Welcome to Sarajevo." To use an antiquated newsman's cliche: Get me rewrite.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1137197&amp;categories=Movies&amp;nm=1</url>
+         <critic>Desson Thomson</critic>
+      </review>
+      <review>
+         <snippet>Shepard, who directed "The Matador" and the pilot for "Ugly Betty," can't quite get the disparate elements of The Hunting Party to mesh into a satisfying whole.</snippet>
+         <url>http://www.nypost.com/seven/09072007/entertainment/movies/balkan_tale_balks.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>A dismal misfire that attempts to make black comedy out of the adventures of war correspondents and the dirty business of international politics.</snippet>
+         <url>http://www.tvguide.com/detail/movie.aspx?tvobjectid=290377&amp;more=ucmoviereview</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>A misfired, misguided would-be satire.</snippet>
+         <url>http://movies.nytimes.com/2007/09/07/movies/07hunt.html?ref=movies</url>
+         <critic>Manohla Dargis</critic>
+      </review>
+      <review>
+         <snippet>Black comedy becomes funnier as the action becomes darker and more perilous, but The Hunting Party fails to locate the absurdity in the central situations and goes for midget jokes instead. In the end, you're not sure if you're supposed to be watching "The Three Amigos" or "Hotel Rwanda."</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-hunting7sep07,0,1530500.story?coll=cl-mreview</url>
+         <critic>Carina Chocano</critic>
+      </review>
+      <review>
+         <snippet>The movie often seems glib in the face of tragedy. And when, near the end, Shepard tries to pour on the hearts and flowers by showing us just what made Simon crack up on camera, the bathos is icky. The whole movie is icky.</snippet>
+         <url>http://www.csmonitor.com/2007/0907/p14s02-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>The action plot is lousy with cliched suspense scenes of back-road executions halted at the last possible instant.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/32063_HUNTING_PARTY.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>A complete bust, but the ways in which it fails are interesting.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2007/09/21/DDBQRR58N.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+   </reviews>
+   <US_Gross>$876,671</US_Gross>
+   <weekend_gross>$39,609</weekend_gross>
+   <number_of_screens>4</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

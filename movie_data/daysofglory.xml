@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Days of Glory</name>
+   <company>IFC Films / The Weinstein Company</company>
+   <genres>
+      <genre>Foreign</genre>
+      <genre>War</genre>
+   </genres>
+   <authors>
+      <author>Rachid Bouchareb</author>
+      <author>Olivier Lorelle</author>
+   </authors>
+   <directors>
+      <director>Rachid Bouchareb</director>
+   </directors>
+   <origins>
+      <origin>FranceMoroccoAlgeriaBelgium</origin>
+   </origins>
+   <actors>
+      <actor>Jamel Debbouze</actor>
+      <actor>Samy Naceri</actor>
+      <actor>Roschdy Zem</actor>
+      <actor>Sami Bouajila</actor>
+      <actor>Bernard Blancan</actor>
+      <actor>Mathieu Simonet</actor>
+      <actor>Benoît Giros</actor>
+      <actor>Mélanie Laurent</actor>
+   </actors>
+   <release_date>December 6, 2006</release_date>
+   <running_time>123</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>A splendid war movie. The combat sequences are harrowing -- all the more so for the director's spare, sharp-eyed style -- and the performances are phenomenally fine.</snippet>
+         <url/>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>This is a supreme example of how a filmmaker can make a work of fiction based on fact that, without didacticism or heavy-handed moralizing, leaves us feeling more connected not just with history but with what makes us human in the first place.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2007/02/16/days_of_glory/index.html</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>On the list of WWII stories criminally ignored by six decades of combat movies in the past 60 years, the heroics of French colonial soldiers ranks pretty high. But Rachid Bouchareb's powerful drama -- which won the 2006 Cannes Film Festival's best-actors award for its superb ensemble cast and was nominated for a best foreign-language-film Oscar, went a long way toward rectifying the situation, both on screen and in real life.</snippet>
+         <url>http://tvguide.com/detail/movie.aspx?tvobjectid=286361&amp;more=ucmoviereview</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>The ensemble cast shared the best-actor award at the 2006 Cannes film festival -- and rightly so.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1569493_1_0_,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>Indigènes is a stupendous work--and why that new title stinks to heaven.</snippet>
+         <url>http://nymag.com/movies/reviews/27843/index.html</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>As directed by Rachid Bouchareb, himself born in France to Algerian immigrants, "Days of Glory" is a kind of a North African "Saving Private Ryan," a taut, involving film that delivers all the things we look for in war movies and does so with intelligence and integrity.</snippet>
+         <url>http://www.calendarlive.com/printedition/calendar/cl-et-days6dec06,0,4303771.story</url>
+         <critic>Kenneth Turan</critic>
+      </review>
+      <review>
+         <snippet>Its social impact is part of what makes this movie memorable. But as with almost any exceptional, truthful war picture, Days of Glory moves us because we know the soldiers -- because we share their fear, triumph and pain.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-070223-movies-review-glory,0,58874.story?coll=mmx-movies_top_heds</url>
+         <critic>Michael Wilmington</critic>
+      </review>
+      <review>
+         <snippet>Not only a stirring history lesson and an action-packed war film, Glory is also a ferocious statement about enduring discrimination that resounds today.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2007-02-20-days-of-glory_x.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>Bouchareb's film helped shame the French government into raising pensions for more than 80,000 of these veterans. Here's that rare movie that really did change things. I'll be damned.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/12369900/review/13527784/days_of_glory_indigenes</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>A movingly acted, terrifically old-fashioned World War II picture rethought as a post-colonial rebuke.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=9752</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>An unusually engrossing World War II epic.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/305699_glory02q.html</url>
+         <critic>William Arnold</critic>
+      </review>
+      <review>
+         <snippet>A war film more of sober, grim reflection than balls-out escapades. Yet it grips consistently, its bursts of combat delivering gut-punches of veracity.</snippet>
+         <url>http://www.empireonline.com/reviews/review.asp?FID=134784</url>
+         <critic>Dan Jolin</critic>
+      </review>
+      <review>
+         <snippet>The performances are so passionate and the characters (even minor ones) so deftly sketched that it's impossible not to get swept up. You watch the battle scenes from behind your hands, just praying that these guys make it.</snippet>
+         <url>http://www.slate.com/id/2159930/fr/flyout</url>
+         <critic>Dana Stevens</critic>
+      </review>
+      <review>
+         <snippet>With strong visuals and even stronger emotions, Rachid Bouchareb's Days of Glory makes a powerful war film about a particularly unique subject.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?&amp;rid=295</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>It is a chronicle of courage and sacrifice, of danger and solidarity, of heroism and futility, told with power, grace and feeling and brought alive by first-rate acting. A damn good war movie.</snippet>
+         <url>http://movies2.nytimes.com/2006/12/06/movies/06glor.html?ref=movies</url>
+         <critic>A.O. Scott</critic>
+      </review>
+      <review>
+         <snippet>Days Of Glory isn't subtle in its exploration of the racial politics of warfare, but its grim, cynical portrayal of young men considered worthy enough to die for a foreign country, yet unworthy of being treated as equals, proves bluntly powerful.</snippet>
+         <url>http://www.avclub.com/content/node/56229</url>
+         <critic>Nathan Rabin</critic>
+      </review>
+      <review>
+         <snippet>Conventional, but intensely passionate, war movie.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/moviereviews/story/478212p-402212c.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>The battle scenes and a few of the human vignettes are powerful, but too often the film falls back on conventional plot mechanics.</snippet>
+         <url>http://www.csmonitor.com/2007/0216/p14s01-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>In recounting this conflicted tale, director Rachid Bouchareb displays some valour of his own, resisting what must have been a strong temptation to deal in aggrieved agitprop, and instead, quietly but powerfully, confining his attentions to a small group of indigenous soldiers.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20070222.wdays23/BNStory/Entertainment/home</url>
+         <critic>Rick Groen</critic>
+      </review>
+      <review>
+         <snippet>The notions of sacrifice, patriotism, race and self-identity are compellingly questioned, and the battle sequences are realized with stirring intensity.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/1174506916223060.xml&amp;coll=7</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>Is there anything new here? Honestly, not really. The content is the same, the plot the familiar litany of ordeals leavened by soapy interludes. But the fight that develops is taut, tough and extremely bitter; it's never showy in the grinding, big-movie Spielbergian way, but a portrait of the war's daily interface with hell in a very small space, as the four stand against a much larger unit.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1105862&amp;categories=Movies&amp;nm=1</url>
+         <critic>Stephen Hunter</critic>
+      </review>
+      <review>
+         <snippet>Committed performances and strong widescreen lensing carry the message with a righteous, if heavy weight.</snippet>
+         <url>http://www.variety.com/awardcentral_review/VE1117930650.html?nav=reviews07&amp;categoryid=2352&amp;cs=1&amp;p=0</url>
+         <critic>Jay Weissberg</critic>
+      </review>
+      <review>
+         <snippet>Days of Glory is as moving as it is ingenuous, with each doomed character symbolizing a different response to the collective dilemma these men face as Arabs with divided loyalties.</snippet>
+         <url>http://www.villagevoice.com/film/0649,taylor,75230,20.html</url>
+         <critic>Ella Taylor</critic>
+      </review>
+      <review>
+         <snippet>Days of Glory has good intentions and a well-executed combat scene, but it could do with more originality.</snippet>
+         <url>http://www.nypost.com/seven/12062006/entertainment/movies/days_of_glory_movies_v_a__musetto.htm</url>
+         <critic>V.A. Musetto</critic>
+      </review>
+      <review>
+         <snippet>The story here isn't much, and the truth it reveals, to them and us, isn't earthshaking, just quiet and somber.</snippet>
+         <url>http://sfgate.com/cgi-bin/article.cgi?f=/c/a/2007/02/23/DDGDNO8SJG1.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+   </reviews>
+   <US_Gross>$320,700</US_Gross>
+   <production_budget>$18,900,000</production_budget>
+   <weekend_gross>$101,288</weekend_gross>
+   <number_of_screens>18</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Where the Wild Things Are</name>
+   <company>Warner Bros. Pictures</company>
+   <genres>
+      <genre>Adventure</genre>
+      <genre>Drama</genre>
+      <genre>FamilyKids</genre>
+      <genre>Fantasy</genre>
+   </genres>
+   <authors>
+      <author>Spike Jonze</author>
+      <author>Dave Eggers</author>
+   </authors>
+   <directors>
+      <director>Spike Jonze</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Catherine Keener</actor>
+      <actor>Max Records</actor>
+      <actor>Mark Ruffalo</actor>
+      <actor>Lauren Ambrose</actor>
+      <actor>James Golfini</actor>
+      <actor>Catherine O&amp;#039;Hara</actor>
+      <actor>Forest Whitaker</actor>
+   </actors>
+   <release_date>October 16, 2009</release_date>
+   <running_time>101</running_time>
+   <rating>PG</rating>
+   <reviews>
+      <review>
+         <snippet>This is one of the year's best. To paraphrase the Wild Thing named KW, I could eat it up, I love it so.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20312172,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>What he’s (Jonze) ended up with strikes me as one of the most empathic and psychologically acute of all movies about childhood -- a "Wizard of Oz" for the dysfunctional-family era.</snippet>
+         <url>http://www.laweekly.com/2009-10-15/film-tv/beasty-boy/</url>
+         <critic>Scott Foundas</critic>
+      </review>
+      <review>
+         <snippet>Not since Robert Altman took on “Popeye” a generation ago, and lost, has a major director addressed such a well-loved, all-ages title. This time everything works, from tip to tail.</snippet>
+         <url>http://featuresblogs.chicagotribune.com/talking_pictures/</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>Jonze has filmed a fantasy as if it were absolutely real, allowing us to see the world as Max sees it, full of beauty and terror. The brilliant songs, by Karen O (of the Yeah Yeah Yeahs) and the Kids, enhance the film's power.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/21677529/review/30494716/where_the_wild_things_are</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>As wish-fulfillments go, this is a movie lover's dream.</snippet>
+         <url>http://online.wsj.com/article/film_review.html</url>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>With Where the Wild Things Are Jonze has made a work of art that stands up to its source and, in some instances, surpasses it.</snippet>
+         <url>http://movies.nytimes.com/2009/10/16/movies/16where.html?ref=movies</url>
+         <critic>Manohla Dargis</critic>
+      </review>
+      <review>
+         <snippet>In elaborating on the original book so boldly, and repopulating it so richly, Jonze has protected Where the Wild Things Are as an inviolable literary work. In preserving its darkest spirit, he's created a potent, fully realized variation on its most highly charged themes.</snippet>
+         <url>http://www.washingtonpost.com/gog/movies/where-the-wild-things-are,1145251/critic-review.html#reviewNum1</url>
+         <critic>Ann Hornaday</critic>
+      </review>
+      <review>
+         <snippet>His (Jonze) obvious affection for, and veneration of, Maurice Sendak's 1963 Caldecott Medal-winning children's book is palpable in his near-perfect live-action adaptation, a dreamy -- and, like Sendak's book, faintly nightmarish -- exploration of one child's tantrum-y side.</snippet>
+         <url>http://www.nola.com/movies/index.ssf/2009/10/post_21.html</url>
+         <critic>Mike Scott</critic>
+      </review>
+      <review>
+         <snippet>Spike Jonze has recently said in interviews that his chief goal ...was to try to capture the feeling of being 9. By that measure--by just about any measure, really--he succeeded wildly.</snippet>
+         <url>http://www.avclub.com/articles/where-the-wild-things-are,34168/</url>
+         <critic>Josh Modell</critic>
+      </review>
+      <review>
+         <snippet>His film captures the wonderment of dreaming - and the reality of waking.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=11934</url>
+         <critic>Matthew Sorrento</critic>
+      </review>
+      <review>
+         <snippet>I don't want to oversell the thing. It is, quite simply, something very special indeed.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A893281</url>
+         <critic>Kimberley Jones</critic>
+      </review>
+      <review>
+         <snippet>Like the book, the movie blends a primitive quality with an imaginative artfulness. It also amplifies upon the story's gentle, sly wit.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2009-10-15-wild-things-review_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>There are some great, rapturous moments in Where the Wild Things Are. Jonze is humbled before the wonders of a child's imagination, and so are we.</snippet>
+         <url>http://www.csmonitor.com/2009/1016/p17s05-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>A film for anyone who’s ever climbed trees, grazed knees or basked in the comfort of a parent’s sympathy as they’ve pulled you off the ground crying. It’ll make your inner child run wild.</snippet>
+         <url>http://www.empireonline.com/reviews/reviewcomplete.asp?FID=133177</url>
+         <critic>Dan Jolin</critic>
+      </review>
+      <review>
+         <snippet>The film treats kids' inner lives as more than a fantasy, which is a rare and beautiful thing.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2009/10/15/2009-10-15_where_the_wild_things_are_.html</url>
+         <critic>Joe Neumaier</critic>
+      </review>
+      <review>
+         <snippet>For all the artfulness, the feel of the film is rough-hewn, almost primitive. It’s a fabulous tree house of a movie.</snippet>
+         <url>http://nymag.com/movies/reviews/59897/</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>The movie felt long to me, and there were some stretches during which I was less than riveted. Is it possible that there wasn't enough Sendak story to justify a feature-length film?</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20091014/REVIEWS/910149993</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>The result is an involving experience for all but the most fidgety children and an opportunity for parents to enjoy (rather than endure) a motion picture with their offspring.</snippet>
+         <url>http://www.reelviews.net/php_review_template.php?identifier=1824</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>A satisfyingly moody, melancholy, madcap live-action romp.</snippet>
+         <url>http://www.philly.com/inquirer/columnists/steven_rea/20091016_It_s_a_moody__madcap_live-action_romp.html</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>This version of Where the Wilds Things Are isn’t about childhood at all but about childhood’s end and what’s gained and lost by it. That’s why very young kids, dull Disney princesses, overprotective parents, and self-serious grown-ups should probably stay away.</snippet>
+         <url>http://www.boston.com/ae/movies/articles/2009/10/16/where_the_wild_things_are_takes_sendaks_story_on_a_voyage_to_the_end_of_childhood/</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>It IS a film that deflates you too often, despite its efforts to impart a sense of soaring.  In the end, where the Wild Things are is in your imagination and in Sendak’s pages, not in this big-hearted but ultimately faint simulation.</snippet>
+         <url>http://blog.oregonlive.com/madaboutmovies/2009/10/review_whats_the_rumpus_where.html</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>Jonze lets the magic ebb away in a sorry mesh of strained relationships.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-where-the-wild-things-are-review-1015,0,6771030.story</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>To their credit, the creative team has retained the handmade look and unruly spirit of Maurice Sendak's bedtime fable; to their discredit, they haven't added enough narrative or emotional dimension to make it an effective movie.</snippet>
+         <url>http://www.stltoday.com/stltoday/entertainment/reviews.nsf/movie/story/3E5444D5357DF72F8625764F0069A514?OpenDocument</url>
+         <critic>Joe Williams</critic>
+      </review>
+      <review>
+         <snippet>Where the film falters is Jonze and novelist Dave Eggers' adaptation, which fails to invest this world with strong emotions.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film-reviews/where-the-wild-things-are-film-review-1004021258.story</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>Director Spike Jonze's sharp instincts and vibrant visual style can't quite compensate for the lack of narrative eventfulness that increasingly bogs down this bright-minded picture.</snippet>
+         <url>http://www.variety.com/review/VE1117941353.html?categoryid=31&amp;cs=1</url>
+         <critic>Todd McCarthy</critic>
+      </review>
+      <review>
+         <snippet>Wild Things isn't overlong, but it is underwhelming.</snippet>
+         <url>http://www.villagevoice.com/2009-10-13/film/spike-jonze-can-t-quite-get-spirit-of-wild-things-on-screen/</url>
+         <critic>J. Hoberman</critic>
+      </review>
+      <review>
+         <snippet>I have a vision of eight-year-olds leaving the movie in bewilderment. Why are the creatures so unhappy? That question doesn’t return a child to safety or anywhere else. Of one thing I am sure: children will be relieved when Max gets away from this anxious crew.</snippet>
+         <url>http://www.newyorker.com/arts/critics/cinema/2009/10/19/091019crci_cinema_denby</url>
+         <critic>David Denby</critic>
+      </review>
+      <review>
+         <snippet>Mature folks may wonder why a simple and simply beautiful story from their youth has been buried under layers of emotion Woody Allen's psychiatrist might want to pick over.</snippet>
+         <url>http://events.charlotteobserver.com/reviews/show/57396-review-where-the-wild-things-are</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>The film lacks the menace and danger of Sendak's book, along with the beautiful simplicity and delicated, understated portrait of a lonely, misunderstood boy.</snippet>
+         <url>http://www.miamiherald.com/entertainment/movies/reviews/story/1283683.html</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>Warmly and gently handled, though the central story, detailing the personal politics between him and the six childlike monsters, steadily loses steam.</snippet>
+         <url>http://www.chicagoreader.com/chicago/MovieTimes?film=978119</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>It's just too bad the end result isn't a better movie.</snippet>
+         <url>http://www.slate.com/id/2232549/</url>
+         <critic>Dana Stevens</critic>
+      </review>
+      <review>
+         <snippet>The most daring thing that Jonze and Eggers have done is make a children's film that might not really be for kids.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2009/10/15/MVHQ1A5N9K.DTL</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>In their overly earnest attempt to flesh Sendak’s story out to 100 minutes, Jonze and his co-screenwriter, novelist Dave Eggers, have laboriously spelled out motivations (divorce is bad!), elaborated back stories -- and added reams of less-than-inspired dialogue.</snippet>
+         <url>http://www.nypost.com/p/entertainment/movies/return_to_sendak_TXhNxmrIUwweAXiJop6AkN</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>Less an adaptation of its source material than a therapeutic response to it.</snippet>
+         <url>http://www.theglobeandmail.com/news/arts/where-the-wild-things-are/article1325210/</url>
+         <critic>Liam Lacey</critic>
+      </review>
+      <review>
+         <snippet>When faced as a director with the rudderless screenplay he (Jonze) co-wrote with Eggers, he's been powerless to energize it in any involving way. Sometimes you are better off with 10 sentences than tens of millions of dollars, and this is one of those times.</snippet>
+         <url>http://www.latimes.com/entertainment/news/la-et-wild-things16-2009oct16,0,3795491.story</url>
+         <critic>Kenneth Turan</critic>
+      </review>
+      <review>
+         <snippet>Jonze's ideas, visual and otherwise, spill out in a faux-philosophical ramble that isn't nearly as deep as he thinks it is; at best, it's a scrambled tone poem. Even the look of the picture becomes tiresome after a while -- it starts to seem depressive and shaggy and tired.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2009/10/16/where_the_wild_things_are/index.html</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>The true soulfulness of Sendak’s parable never emerges.</snippet>
+         <url>http://newyork.timeout.com/articles/film/79585/where-the-wild-things-are-film-review</url>
+         <critic>Keith Uhlich</critic>
+      </review>
+   </reviews>
+   <US_Gross>$77,233,467</US_Gross>
+   <production_budget>$100,000,000</production_budget>
+   <weekend_gross>$32,695,407</weekend_gross>
+   <number_of_screens>3,735</number_of_screens>
+   <oscar_winning_actors_present/>
+   <num_oscar_winning_actors>1</num_oscar_winning_actors>
+   <oscar_winning_actor>forest whitaker</oscar_winning_actor>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

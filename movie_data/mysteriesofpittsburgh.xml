@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Mysteries of Pittsburgh, The</name>
+   <company>Peace Arch Entertainment</company>
+   <genres>
+      <genre>Adventure</genre>
+      <genre>Comedy</genre>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author>Michael Chabon</author>
+      <author>Rawson Marshall Thurber</author>
+   </authors>
+   <directors>
+      <director>Rawson Marshall Thurber</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Jon Foster</actor>
+      <actor>Sienna Miller</actor>
+      <actor>Peter Sarsgaard</actor>
+      <actor>Mena Suvari</actor>
+      <actor>Nick Nolte</actor>
+   </actors>
+   <release_date>April 10, 2009</release_date>
+   <running_time>95</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>In the film's most flamboyant role, Peter Sarsgaard's devil-ish charisma and cold bluster is frightening.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?rid=10498</url>
+         <critic>Duane Byrge</critic>
+      </review>
+      <review>
+         <snippet>The full warmth and idiosyncrasy of Chabon's original is missed in an adaptation that feels more impersonally observed. But Lawson's pic, (with the director making a left turn from prior feature "Dodgeball," which he says was a money gig undertaken to hasten this dream project) is entertaining and involving enough on its own terms.</snippet>
+         <url>http://www.variety.com/review/VE1117935891.html?categoryid=31&amp;cs=1&amp;query=The+mysteries+of+Pittsburgh</url>
+         <critic>Dennis Harvey</critic>
+      </review>
+      <review>
+         <snippet>Disappointed fans of Michael Chabon will have to watch "Wonder Boys" for solace, for The Mysteries of Pittsburgh boasts only one core mystery: how one can take such promising material and render it completely unmemorable?</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=10612</url>
+         <critic>Jamie Tipps</critic>
+      </review>
+      <review>
+         <snippet>Pleasant-to-watch, easily forgotten drama.</snippet>
+         <url>http://www.washingtonpost.com/gog/movies/mysteriesofpittsburgh,1146073.html</url>
+         <critic>Dan Zak</critic>
+      </review>
+      <review>
+         <snippet>Earnest but unconvincing film.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2009/04/09/DDIG16OVAC.DTL&amp;type=movies</url>
+         <critic>David Wiegand</critic>
+      </review>
+      <review>
+         <snippet>Remember the final page of Gatsby, a real American tragedy, when the green light beckons us into an ever-receding future? Now that was a mystery. This is, well, Pittsburgh.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20090409.waPittsburgh10/BNStory/Entertainment/home</url>
+         <critic>Rick Groen</critic>
+      </review>
+      <review>
+         <snippet>The movie is all the more artificial because it has been made with great, almost painful, earnestness.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20090409/REVIEWS/904099991</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>Only Sarsgaard shows a pulse, creating a self-destructive, omnisexual rogue who, for all his faults, would probably be great company. The same can't be said for the film around him.</snippet>
+         <url>http://www.avclub.com/articles/the-mysteries-of-pittsburgh,26411/</url>
+         <critic>Keith Phipps</critic>
+      </review>
+      <review>
+         <snippet>Marries an unengaging love triangle to a flat visual style, nearly squashing the one good thing in it -- a scruffy, slouching performance from Peter Sarsgaard.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2009/04/09/2009-04-09_mysteries_of_pittsburgh_is_kinda_the_pits.html</url>
+         <critic>Joe Neumaier</critic>
+      </review>
+      <review>
+         <snippet>A coming-of-ager that nearly slaughters you by minute 30 with the relentlessness of its protagonist's voiceovers.</snippet>
+         <url>http://www.chicagotribune.com/entertainment/movies/chi-0410-mysteriesofpittsburgh-rapr10,0,1504232.story</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>Almost nothing works in this movie.</snippet>
+         <url>http://www.boston.com/ae/movies/articles/2009/04/10/attempt_at_adaptation_unravels_in_mysteries/</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>You know a movie's got problems when the most memo rable thing about it is Sienna Miller's mustache.</snippet>
+         <url>http://www.nypost.com/seven/04102009/entertainment/movies/hardly_worth_a_pitt_stop_163698.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>A clumsy and confused adaptation of Michael Chabon's 1988 novel.</snippet>
+         <url>http://movies.nytimes.com/2009/04/10/movies/10pitt.html?ref=movies</url>
+         <critic>A.O. Scott</critic>
+      </review>
+      <review>
+         <snippet>A stillborn rendering of Michael Chabon's first novel.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20270915,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>Mena Suvari, as Art's vindictive ex-fuckbuddy, gives sole signs of life--Miller is so void of presence that one can forget she's in the movie from scene to scene.</snippet>
+         <url>http://www.villagevoice.com/2009-04-08/film/chabon-enthusiasts-will-find-much-to-disdain-in-the-mysteries-of-pittsburgh/</url>
+         <critic>Nick Pinkerton</critic>
+      </review>
+   </reviews>
+   <US_Gross>$80,283</US_Gross>
+   <weekend_gross>$32,783</weekend_gross>
+   <number_of_screens>20</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

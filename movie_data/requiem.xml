@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Requiem</name>
+   <company>IFC First Take Films</company>
+   <genres>
+      <genre>Drama</genre>
+      <genre>Foreign</genre>
+      <genre>Horror</genre>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>Bernd Lange</author>
+   </authors>
+   <directors>
+      <director>Hans-Christian Schmid</director>
+   </directors>
+   <origins>
+      <origin>Germany</origin>
+   </origins>
+   <actors>
+      <actor>Sra Hüller</actor>
+      <actor>Burghart Klaußner</actor>
+      <actor>Imogen Kogge</actor>
+      <actor>Anna Blomeier</actor>
+      <actor>Nicholas Reinke</actor>
+      <actor>Jens Harzer</actor>
+      <actor>Walter Schmidinger</actor>
+      <actor>Friederike Adolph</actor>
+   </actors>
+   <release_date>October 20, 2006</release_date>
+   <running_time>93</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>Requiem, the new film from German director Hans-Christian Schmid, is absolutely astonishing. See it if you possibly can.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2006/10/19/btm/index2.html</url>
+         <critic>Andrew O&amp;#039;Hehir</critic>
+      </review>
+      <review>
+         <snippet>Requiem is drawn from an incident that was also the basis for last year's demon-seed hit, "The Exorcism of Emily Rose."</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1550542_1_0_,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>Stunningly played story of faith vs. family.</snippet>
+         <url>http://www.variety.com/index.asp?layout=features2006&amp;content=jump&amp;jump=review&amp;head=berlin&amp;nav=RBerlin&amp;articleid=VE1117929672&amp;cs=1&amp;p=0</url>
+         <critic>Eddie Cockrell</critic>
+      </review>
+      <review>
+         <snippet>An exorcism movie for the rest of us, the gripping German drama Requiem contains not a single special effect. It doesn't need one. It has terrific actors fully invested in a casual-seeming, docudramatic brand of storytelling, notably Sandra Hueller.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-061117-movies-review-requiem,0,3013809.story?coll=mmx-movies_top_heds</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>Bogumil Godfrejow's raw cinematography and Huller's poignant, close-to-the-bone performance transform what might have been a morbid curiosity into an entirely enthralling, quietly terrifying experience.</snippet>
+         <url>http://tvguide.com/detail/movie.aspx?tvobjectid=283979&amp;more=ucmoviereview</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>In its subtlety, complexity and dexterity, Requiem is a notably original work.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-requiem3nov03,0,6646907.story</url>
+         <critic>Kevin Thomas</critic>
+      </review>
+      <review>
+         <snippet>A tragic tale of teen rebellion and misplaced faith, this is a sober and sobering account of a young girl's untimely end, made enthralling by great performances and restrained direction.</snippet>
+         <url>http://www.empireonline.com/reviews/review.asp?FID=134636</url>
+         <critic>Helen O&amp;#039;Hara</critic>
+      </review>
+      <review>
+         <snippet>Requiem is a moving study of a tortured young woman more at peace with medieval ritual than with modern medicine.</snippet>
+         <url>http://movies2.nytimes.com/2006/10/20/movies/20requ.html?ref=movies</url>
+         <critic>Jeannette Catsoulis</critic>
+      </review>
+      <review>
+         <snippet>Sandra Hüller, a young German stage actress making a harrowing feature debut, invests Michaela's terrified, possibly schizophrenic outbursts with unholy conviction.</snippet>
+         <url>http://www.villagevoice.com/film/0642,ridley,74780,20.html</url>
+         <critic>Jim Ridley</critic>
+      </review>
+      <review>
+         <snippet>While "Exorcism" focused on a murder-trial battle between the priest and a prosecutor, Schmid's film beautifully details the behavior, events and socio-religious pressures that lead to the decision to perform such an extreme ritual.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1002035012</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>Though its heroine's mysterious seizures and blackouts are terrifying in the way they undermine her quest for self-determination, Requiem isn't a horror movie so much as a thwarted coming-of-age story, like "Carrie" without the bloody reckoning.</snippet>
+         <url>http://www.avclub.com/content/node/54265</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>Anybody who's ever seen a movie about exorcism knows that, in cases like this, the first thing to do is call 1-800-PRIEST, which the family does.</snippet>
+         <url>http://www.nypost.com/seven/10202006/entertainment/movies/exorcism_tale_possesses_right_touch_movies_v_a__musetto.htm</url>
+         <critic>V.A. Musetto</critic>
+      </review>
+      <review>
+         <snippet>The nonsensationalistic results are also somewhat ho-hum--and oddly less convincing than Friedkin's lurid mess, let alone the elegant satanism sagas of Tourneur and Polanski.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/30496_REQUIEM.html</url>
+         <critic>Martin Rubin</critic>
+      </review>
+   </reviews>
+   <US_Gross>$9,600</US_Gross>
+   <weekend_gross>$3,309</weekend_gross>
+   <number_of_screens>2</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Kung Fu Hustle</name>
+   <company>Sony Pictures Classics</company>
+   <genres>
+      <genre>Action</genre>
+      <genre>Comedy</genre>
+      <genre>Foreign</genre>
+   </genres>
+   <authors>
+      <author>Tsang Kan Cheong</author>
+      <author>Stephen Chow</author>
+      <author>Xin Huo</author>
+      <author>Chan Man Keung</author>
+   </authors>
+   <directors>
+      <director>Stephen Chow</director>
+   </directors>
+   <origins>
+      <origin>ChinaHongKong</origin>
+   </origins>
+   <actors>
+      <actor>Stephen Chow</actor>
+      <actor>Wah Yuen</actor>
+      <actor>Qiu Yuen</actor>
+      <actor>Siu Lung Leung</actor>
+      <actor>Dong Zhi Hua</actor>
+      <actor>Kwok Kuen Chan</actor>
+      <actor>Chiu Chi Ling</actor>
+      <actor>Leung Siu Lung</actor>
+   </actors>
+   <release_date>April 8, 2005</release_date>
+   <running_time>95</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>Kung Fu Hustle is something you rarely encounter in theaters: a genuinely original comedy.</snippet>
+         <url>http://www.filmthreat.com/Reviews.asp?Id=6730</url>
+         <critic>Phil Hall</critic>
+      </review>
+      <review>
+         <snippet>With a delirious mix of the sublime and the silly, Hong Kong comedy king Stephen Chow Sing-chi has taken the kung fu comedy genre to new heights of chop-socky hilarity.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1000681658</url>
+         <critic>Andrew Sun</critic>
+      </review>
+      <review>
+         <snippet>The movie refers glancingly to dozens of Hollywood classics, from "West Side Story" to "City Lights," but at heart it is a debt of honor richly paid by Stephen Chow to his martial-arts forebears and to the traditions that shaped his sensibility. His gong fu is the best.</snippet>
+         <url>http://www.laweekly.com/film/film_results.php?showid=3352&amp;Sumbit.x=57&amp;Sumbit.y=17</url>
+         <critic>David Chute</critic>
+      </review>
+      <review>
+         <snippet>Chow's savagely funny cinematic love letter places Hong Kong legends Yuen Wah, Leung Siu Lung and former Bond girl Yuen Qiu in well-cast pivotal parts, establishing Kung Fu Hustle not only as an endearing homage to a genre's history, but an astonishing piece of cinema in its own right.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-050421-movies-review-rke-hustle.story</url>
+         <critic>Robert K. Elder</critic>
+      </review>
+      <review>
+         <snippet>Moviemaking doesn't get much smarter, funnier, handsomer, better than this.</snippet>
+         <url>http://www.time.com/time/magazine/article/0,9171,1050289,00.html</url>
+         <critic>Richard Corliss</critic>
+      </review>
+      <review>
+         <snippet>It's a short, sharp, shock to the cinematic system that's virtually impossible to dislike, and if you don't leave the theatre grinning your face off, then buddy, movies just aren't for you.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A265212</url>
+         <critic>Marc Savlov</critic>
+      </review>
+      <review>
+         <snippet>All of Kung Fu Hustle is like that: You don't just watch it, you ride with it, laughing all the way.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1045766_1_0_,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>It's a visual feast that only a crack director could provide, and it's mounted within a story and setting that, played utterly straight, might still have made a good movie.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/1113991219245530.xml&amp;coll=7</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>Brilliantly choreographed and shot, Kung Fu Hustle is often grisly, visually spectacular and unabashedly silly, sometimes all at once.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-hustle8apr08,2,2086995.story?coll=cl-mreview</url>
+         <critic>Carina Chocano</critic>
+      </review>
+      <review>
+         <snippet>Gut-Bustingly funny moves are pretty rare, so hustle over to Kung Fu Hustle, actor-director Ste phen Chow's exhilaratingly hilarious and affectionate send-up of Hong Kong action flicks.</snippet>
+         <url>http://www.nypost.com/movies/42255.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>Guaranteed to deliver more innovative eye candy and smarter fun-per-second than most of this summer's fare, and that one-two punch ought to knock you off your seat.</snippet>
+         <url>http://www.premiere.com/article.asp?section_id=2&amp;article_id=2115</url>
+         <critic>Aaron Hillis</critic>
+      </review>
+      <review>
+         <snippet>Raymond Wong, who has become Chow's favorite composer, iced this cake with music that sounds like Beethoven, Henry Mancini's jazz and all the James Bond themes run together in a blender.</snippet>
+         <url>http://ae.philly.com/entertainment/ui/philly/movie.html?id=284552&amp;reviewId=17814</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>In a farce like this, where the story is merely a string of martial-arts movie cliches lined up to be parodied, that has its own rewards.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/221082_kungfu22q.html</url>
+         <critic>Sean Axmaker</critic>
+      </review>
+      <review>
+         <snippet>The inspiration appears to be equal parts "Looney Tunes" and Capcom video games like "Street Fighter II." All the energy that was missing from the recent "Mask" sequel is here, and then some.</snippet>
+         <url>http://dallasobserver.com/issues/2005-04-21/film/film2.html</url>
+         <critic>Luke Y. Thompson</critic>
+      </review>
+      <review>
+         <snippet>It won't be long before you feel the compulsion to watch again. There is too much to appreciate in one sitting.</snippet>
+         <url>http://www.washingtonpost.com/wp-dyn/articles/A6934-2005Apr21.html</url>
+         <critic>Desson Thomson</critic>
+      </review>
+      <review>
+         <snippet>Defies all laws of gravity in its pursuit of thrills and laughs—and it's so disarmingly eager to please that only a stone-faced kung fu purist could object.</snippet>
+         <url>http://www.msnbc.msn.com/id/7433770/site/newsweek/</url>
+         <critic>David Ansen</critic>
+      </review>
+      <review>
+         <snippet>Its crowd-pleasing, action-packed brand of frenetic parody promises to spread Chow's mythos even further.</snippet>
+         <url>http://www.theavclub.com/review_pop.php?review_id=8372</url>
+         <critic>Tasha Robinson</critic>
+      </review>
+      <review>
+         <snippet>Chow manages to have his cake and eat it too: Kung Fu Hustle is a kung fu parody that's also a terrific kung fu movie.</snippet>
+         <url>http://www.villagevoice.com/film/0514,hoberman1,62729,20.html</url>
+         <critic>J. Hoberman</critic>
+      </review>
+      <review>
+         <snippet>Half-amazing, half-ridiculous, thoroughly exhilarating.</snippet>
+         <url>http://newyorkmetro.com/nymetro/movies/reviews/11636/</url>
+         <critic>Ken Tucker</critic>
+      </review>
+      <review>
+         <snippet>Kung Fu Hustle pummels "The Matrix" trilogy into a puddle.</snippet>
+         <url>http://www.empireonline.co.uk/site/incinemas/ReviewInFull.asp?FID=11062</url>
+         <critic>Simon Crook</critic>
+      </review>
+      <review>
+         <snippet>Viewers will discover that the film has something to offer nearly everyone, whether they are a novice or a black belt in kung fu cinema.</snippet>
+         <url>http://movie-reviews.colossus.net/movies/k/kung_fu.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>Does the plot spin out of control? You bet. But dumb fun this smart is a gift.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/_/id/6821997?pageid=rs.ReviewsMovieArchive&amp;pageregion=mainRegion</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>Kung Fu Hustle is to "House of Flying Daggers" what "Blazing Saddles" is to "Unforgiven."</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-to.kungfu22apr22,1,4772939.story?coll=bal-artslife-movies</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>Like a meal prepared by an extreme chef, ''Hustle" is more than a bit of a mess. It still tastes like nothing you've ever had before.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=7451</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>This is the kind of movie where you laugh occasionally and have a silly grin most of the rest of the time.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20050421/REVIEWS/50411001/1001</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>Vivid and madcap but fails to connect on any emotional level.</snippet>
+         <url>http://sfgate.com/cgi-bin/article.cgi?f=/c/a/2005/04/22/DDGGHCC3DI1.DTL&amp;type=movies</url>
+         <critic>Ruthe Stein</critic>
+      </review>
+      <review>
+         <snippet>A celebration of Hong Kong action cinema that mocks gravity, both emotional and physical.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/ArticleNews/TPStory/LAC/20050422/KUNG22/TPEntertainment/Film</url>
+         <critic>Liam Lacey</critic>
+      </review>
+      <review>
+         <snippet>Hustle's approach to a simple good-vs.-evil plot is eccentrically exuberant.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2005-04-21-kung-fu-hustle_x.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>For all its excitement Kung Fu Hustle is mostly a marvel of comedic ingenuity and mile-a-minute creativity run wild. You've never seen anything like it.</snippet>
+         <url>http://ae.philly.com/entertainment/ui/philly/movie.html?id=284552&amp;reviewId=17816</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>Chow's newfound patience and attentiveness to stasis, tinged with nostalgia, are promising indications of where he's taking his art as he attempts to influence the commercial cinema that's long influenced him.</snippet>
+         <url>http://www.chireader.com/movies/archives/2005/0405/050422.html</url>
+         <critic>Kevin B. Lee</critic>
+      </review>
+      <review>
+         <snippet>At times, the picture evokes such stylized musicals as "The Band Wagon"; at others, it seems to whirr every kung-fu movie ever made into the most luscious action smoothie you'll ever imbibe.</snippet>
+         <url>http://www.slate.com/id/2116417/</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>Chow depends way too much on jokey computer graphics that make the whole thing feel like a superhero comic, instead of athleticism or charisma or good storytelling, and that Kung Fu Hustle wears itself out long before it's over.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2005/04/07/kung_fu/index.html</url>
+         <critic>Andrew O&amp;#039;Hehir</critic>
+      </review>
+      <review>
+         <snippet>For all its punches, kicks, whacks and thumps, the movie does not have much impact, and for all its affectionate nostalgia, it produces a strange kind of amnesia. It knocks the sense right out of your head, and its own as well.</snippet>
+         <url>http://movies2.nytimes.com/2005/04/08/movies/08kung.html</url>
+         <critic>Dana Stevens</critic>
+      </review>
+      <review>
+         <snippet>The upside: Chow has energy and invention to burn. The downside: He doesn't know when he blisters his audience.</snippet>
+         <url>http://ae.philly.com/entertainment/ui/philly/movie.html?id=284552&amp;reviewId=17825</url>
+         <critic>Carrie Rickey</critic>
+      </review>
+      <review>
+         <snippet>A giant leap forward in Stephen Chow's ongoing assault on Jackie Chan's status as reigning balletic clown-master of martial-arts mayhem, this extravagantly nutty crime comedy is a work of some kind of genius. Not everybody's kind of genius, to be sure.</snippet>
+         <url>http://tvguide.com/movies/database/showmovie.asp?MI=46005</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>The overly broad martial-arts comedy Kung Fu Hustle was obviously made with skill and affection for its many cinematic sources, yet I found the tone, timing and emotional involvement off by just enough to irritate rather than enchant.</snippet>
+         <url>http://www.nydailynews.com/04-08-2005/entertainment/col/story/297813p-254813c.html</url>
+         <critic>Jami Bernard</critic>
+      </review>
+      <review>
+         <snippet>Devoid of genuine inspiration or involving character development.</snippet>
+         <url>http://www.variety.com/index.asp?layout=sundance2005&amp;nav=reviews&amp;content=reviews&amp;reviewid=VE1117924940&amp;categoryid=1865&amp;cs=</url>
+         <critic>Derek Elley</critic>
+      </review>
+      <review>
+         <snippet>For all its stylishness, verve and moments of visual poetry, the relentlessly punishing slapstick and overall cruel tone left me cold.</snippet>
+         <url>http://www.washingtonpost.com/wp-dyn/articles/A8065-2005Apr21.html</url>
+         <critic>Ann Hornaday</critic>
+      </review>
+   </reviews>
+   <US_Gross>$17,104,669</US_Gross>
+   <production_budget>$20,000,000</production_budget>
+   <weekend_gross>$269,225</weekend_gross>
+   <number_of_screens>7</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Dave Chappelle&amp;#039;s Block Party</name>
+   <company>Focus Features</company>
+   <genres>
+      <genre>Comedy</genre>
+      <genre>Documentary</genre>
+      <genre>Musical</genre>
+   </genres>
+   <authors>
+      <author>Dave Chappelle</author>
+   </authors>
+   <directors>
+      <director>Michel Gondry</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Dave Chappelle</actor>
+      <actor>Kanye West</actor>
+      <actor>Mos Def</actor>
+      <actor>Erykah Badu</actor>
+      <actor>Talib Kweli</actor>
+      <actor>The Fugees</actor>
+      <actor>Andre 4000</actor>
+      <actor>Cody Chestnutt</actor>
+   </actors>
+   <release_date>March 3, 2006</release_date>
+   <running_time>100</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>The enthralling spirit of Dave Chappelle's Block Party, its mood of exuberant democracy, extends to every rap and soul performance in the film.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1168841_1_0_,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>Once in a great while there's a movie that's so funny, infectious and welcoming - a movie that makes you feel so good about America and the people in it - you just want to climb inside the screen and live there. That's the case with Dave Chappelle's Block Party - part comedy, part concert film, part avant-garde experiment, and all of it a joy.</snippet>
+         <url>http://www.nydailynews.com/03-03-2006/entertainment/col/story/396345p-335854c.html</url>
+         <critic>Jami Bernard</critic>
+      </review>
+      <review>
+         <snippet>The movie they've assembled is in the vein of 1973's "Wattstax," but it's much more than a concert documentary. It's a jubilant, civic-minded lollapalooza.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=8674</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>It's the best kind of complaint. You can see why the $50 million man refers to something he gave away as "the best single day of my career."</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/1141257377241460.xml&amp;coll=7</url>
+         <critic>M. E. Russell</critic>
+      </review>
+      <review>
+         <snippet>At a time when our country feels divided to the point of cracking, Dave Chappelle's Block Party feels like a salve. It's a defiant act of optimistic patriotism.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2006/03/03/chappelle/index.html</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>Most fun of all, however, is basking in Chappelle's ability to be effortlessly funny. Whether he's making believe he's a pimp in a Dayton clothing store or charming little kids in the Bed-Stuy day-care center that was concert headquarters, his personality infuses the film with infectious good feelings.</snippet>
+         <url>http://www.calendarlive.com/movies/turan/cl-et-dave3mar03,0,1241732.story</url>
+         <critic>Kenneth Turan</critic>
+      </review>
+      <review>
+         <snippet>The comedian has had his ups and downs recently, but the film is pure up, a wonderfully genial and inclusive record -- not that the music is devoid of anger or social protest -- of a day-long, freestyle show.</snippet>
+         <url/>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>The film, from its deadpan start to its languorous finish, provides the most joyous moviegoing experience in years.</snippet>
+         <url>http://www.dallasobserver.com/Issues/2006-03-02/film/film.html</url>
+         <critic>Robert Wilonsky</critic>
+      </review>
+      <review>
+         <snippet>The word "community" has become a cliche, but this party, both backstage and before the crowd, illustrates a specific sense of cultural community and the singular bliss of standing on a city street in late-summer rain for a once-in-a-lifetime concert.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1002115111</url>
+         <critic>Sheri Linden</critic>
+      </review>
+      <review>
+         <snippet>Mr. Chappelle looks and sounds alternately ebullient and weary. It was directed by Michel Gondry, the madcap genius behind "Eternal Sunshine of the Spotless Mind," but in its tone and vibe feels like Mr. Chappelle's all the way.</snippet>
+         <url>http://movies2.nytimes.com/2006/03/03/movies/03chap.html</url>
+         <critic>Manohla Dargis</critic>
+      </review>
+      <review>
+         <snippet>An uplifting, funny and engaging star-studded affair.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-060303-movies-review-party,0,5961716.story?coll=mmx-movies_top_heds</url>
+         <critic>Allison Benedikt</critic>
+      </review>
+      <review>
+         <snippet>Some of the movie's sunniest moments arrive as Chappelle ambles through Ohio. He's an observational comic with a drawling syntax that's almost as sly as Mark Twain's.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-to.chappelle03mar03,0,5004064.story?coll=bal-artslife-movies</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>Block Party is largely a giant love-fest, which is fitting given the staggering amount of simpatico musical and comic talent on display, though some conflict surfaces nevertheless.</snippet>
+         <url>http://www.avclub.com/content/node/45837</url>
+         <critic>Nathan Rabin</critic>
+      </review>
+      <review>
+         <snippet>There is a clear festive buzz, as attendees laugh, bob and listen to Chappelle's impish, inventive comedy, and some of the best music hip-hop has to offer.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1117983&amp;lat=200.0&amp;lon=200.0&amp;displaySearchLocation=&amp;nm=1&amp;categories=Movies</url>
+         <critic>Desson Thomson</critic>
+      </review>
+      <review>
+         <snippet>A wholly entertaining film, both as a musical experience and in seeing a fairly relaxed Dave Chappelle doing some of what he does best.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=8803</url>
+         <critic>Pete Vonder Haar</critic>
+      </review>
+      <review>
+         <snippet>Results in moments of real beauty that make you grateful Chappelle chose an aesthete for directing chores. And yet, in terms of content, the film doesn't quite reach the bar set by its historic predecessor (Wattstax).</snippet>
+         <url>http://www.laweekly.com/film/12800/party-over-here/</url>
+         <critic>Ernest Hardy</critic>
+      </review>
+      <review>
+         <snippet>A heady spirit of spontaneity permeates the proceedings, suggesting the entire pic, much like the concert it documents, was conceived, planned and completed in a single burst of creative enthusiasm.</snippet>
+         <url>http://www.variety.com/review/VE1117929791?categoryid=31&amp;cs=1</url>
+         <critic>Joe Leydon</critic>
+      </review>
+      <review>
+         <snippet>This picture remains faithful to the underlying affability of both Chappelle and Gondry, orchestrating a feel-good homestyle vibe that, while peppered with moments of sly political commentary, never harshes its own, slightly bittersweet mellow.</snippet>
+         <url>http://www.villagevoice.com/film/0609,halter,72353,20.html</url>
+         <critic>Ed Halter</critic>
+      </review>
+      <review>
+         <snippet>What gives the film its layers is the refusal to cut straight to the music.</snippet>
+         <url>http://www.empireonline.com/reviews/review.asp?FID=133548</url>
+         <critic>Helen O&amp;#039;Hara</critic>
+      </review>
+      <review>
+         <snippet>No background material is going to help the viewer who isn't already aware of why a Fugees reunion is such a cool thing to witness, but it's impossible not to get caught up in this party's good vibe.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A343761</url>
+         <critic>Marjorie Baumgarten</critic>
+      </review>
+      <review>
+         <snippet>As for the movie, I've seen better comedy films and better concert films. It noodles around too much and gets distracted from the music. Michel Gondry, who directed, makes good fiction films but is not an instinctive documentarian and forgets that even a fly on the wall should occasionally find some peanut butter. As the record of a state of mind, however, the film is uncanny.</snippet>
+         <url>http://www.rogerebert.com/apps/pbcs.dll/article?AID=/20060302/REVIEWS/60301011/1023</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>The film doesn't shy away from the political side of hip-hop.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/261505_dave03q.html</url>
+         <critic>Bill White</critic>
+      </review>
+      <review>
+         <snippet>Besides being filled with Chappelle's hilarious sense of humor, the movie features life-affirming messages and great music by serious rap artists with political, socio-cultural and spiritual themes.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2006-03-02-block-party_x.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>The result is this infectious documentary, which combines some inspired musical performances with Chappelle's perpetually hilarious commentary.</snippet>
+         <url>http://ae.miami.com/entertainment/ui/miami/movie.html?id=548886&amp;reviewId=20249</url>
+         <critic>Connie Ogle</critic>
+      </review>
+      <review>
+         <snippet>Ain't nothin' but a party, y'all.</snippet>
+         <url>http://ae.philly.com/entertainment/ui/philly/movie.html?id=548886&amp;reviewId=20257&amp;startDate=03%2F03%2F2006</url>
+         <critic>David Hiltbrand</critic>
+      </review>
+      <review>
+         <snippet>The freestyle approach is an apt fit with the freestyle, spontaneous comedy, as both the playful director and affable star capture moments on the fly.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/LAC.20060303.DAVE03/TPStory/TPEntertainment/</url>
+         <critic>Liam Lacey</critic>
+      </review>
+      <review>
+         <snippet>The film's highlights are far and away the musical performances.</snippet>
+         <url>http://online.tvguide.com/movies/database/Movie-Review.asp?MI=46772</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>A return to rowdy form for Chappelle.</snippet>
+         <url>http://sfgate.com/cgi-bin/article.cgi?f=/c/a/2006/03/03/DDGUOHGMPN12.DTL&amp;type=movies</url>
+         <critic>Peter Hartlaub</critic>
+      </review>
+      <review>
+         <snippet>It's a hell of a show, though none of the artists gets more than a single number, and most of Chappelle's comic interludes are half-baked. Funnier and more engaging are his perambulations around the neighborhood.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/29370_DAVE_CHAPPELLES_BLOCK_PARTY.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>Strictly for fans of the musical acts and those who think everything Chappelle does is genius.</snippet>
+         <url>http://www.nypost.com/movies/64546.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+   </reviews>
+   <US_Gross>$11,718,595</US_Gross>
+   <production_budget>$3,000,000</production_budget>
+   <weekend_gross>$6,214,723</weekend_gross>
+   <number_of_screens>1,200</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

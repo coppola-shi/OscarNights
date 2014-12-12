@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Horton Hears a Who!</name>
+   <company>20th Century Fox</company>
+   <genres>
+      <genre>Adventure</genre>
+      <genre>Animation</genre>
+      <genre>FamilyKids</genre>
+   </genres>
+   <authors>
+      <author>Dr. Seuss</author>
+      <author>Cinco Paul</author>
+      <author>Ken Daurio</author>
+   </authors>
+   <directors>
+      <director>Steve Martino</director>
+      <director>Jimmy Hayward</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Jim Carrey</actor>
+      <actor>Steve Carell</actor>
+      <actor>Carol Burnett</actor>
+      <actor>Seth Rogen</actor>
+      <actor>Will Arnett</actor>
+      <actor>Isla Fisher</actor>
+      <actor>Dan Fogler</actor>
+      <actor>Amy Poehler</actor>
+   </actors>
+   <release_date>March 14, 2008</release_date>
+   <running_time>minutes,</running_time>
+   <rating>G</rating>
+   <reviews>
+      <review>
+         <snippet>If I ran the circus, the gang that made the sturdy, witty, inventively animated Dr. Seuss' Horton Hears a Who! would get first dibs on any future movie productions of the Theodor Seuss Geisel canon.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20183691,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>Stays true to the spirit and characters of the book while embellishing it to overflowing.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-to.horton14mar14,0,3230050.story</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>I don't wish to give offense here, but it certainly doesn't hurt that Mary Lou is voiced by that famously small bundle of energy Isla Fisher. (She's 5-foot-2.)</snippet>
+         <url>http://www.csmonitor.com/2008/0314/p12s01-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>Finally! For the first time, Hollywood has made a whimsical, witty, feature-length version of Dr. Seuss that's neither overblown nor smutty nor emotionally hollow.</snippet>
+         <url>http://www.charlotte.com/434/story/535097.html</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>The look of the story is an undeniable treat, and the message it weaves is both funny and sweet. Horton Hears a Who! is razzle-dazzling and artful, and it builds on Seuss' words by the clever cart-full.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2008-03-13-horton_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>It's a loving and attentive take on a charming classic.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/354916_horton14q.html</url>
+         <critic>Travis Nichols</critic>
+      </review>
+      <review>
+         <snippet>Warm, playful and inventive, this tale of an elephant with a spirit as generous as his waistline comes juiced with the genially goofy animation of the folks who brought us "Ice Age" (and, less memorably, "Robots") coupled with a respectful doffing of the cap to Geisel’s exuberantly wacky visual style.</snippet>
+         <url>http://www.laweekly.com/film+tv/film-reviews/movie-reviews-beaufort-horton-hears-a-who-the-unforeseen/18524/</url>
+         <critic>Ella Taylor</critic>
+      </review>
+      <review>
+         <snippet>A delight, brimming with colorful, elastic characters and bountiful wit.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?JSESSIONID=6b1kHV1Wb2fvYVRykH2ML3mJhLxNQhjQtNJ10L53GgHpNTTQQF9J!-1042196257&amp;&amp;rid=10786</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>It's a feature-length reparation for the appalling live-action versions of Seuss' books we've endured over the last few years.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2008/03/14/horton/</url>
+         <critic>Mary Elizabeth Williams</critic>
+      </review>
+      <review>
+         <snippet>You may leave the movie with Seussian anapests dancing in your happy head. Here's mine: A treat for the eye, an epic event/ This film is delightful, one hundred percent.</snippet>
+         <url>http://www.time.com/time/arts/article/0,8599,1722350,00.html</url>
+         <critic>Richard Corliss</critic>
+      </review>
+      <review>
+         <snippet>Horton Hears a Who wisely preserves most of Seuss' verse in voiceover narration, but the main dialogue, while it doesn't rhyme, preserves the author's humanistic humor and whimsy.</snippet>
+         <url>http://www.miamiherald.com/1054/story/454469.html</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>Listen closely: It's the sound of a million Who fans cheering.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2008/03/14/2008-03-14_horton_hears_a_who_is_a_real_hoot.html</url>
+         <critic>Joe Neumaier</critic>
+      </review>
+      <review>
+         <snippet>For its intended audience, Horton's agenda is overt: Listen, be a friend, and most important - have fun!</snippet>
+         <url>http://www.philly.com/philly/entertainment/movies/20080314_Seuss_thats_a_delight__not_a_fright.html</url>
+         <critic>Carrie Rickey</critic>
+      </review>
+      <review>
+         <snippet>After the terrifying grotesques that were the live-action "How the Grinch Stole Christmas" and "The Cat in the Hat," it was easy to dread a feature-length Horton Hears a Who!. But -- surprise -- the computer-animated "Horton" is largely funny and faithful to the spirit of the Dr. Seuss book.</snippet>
+         <url>http://www.oregonlive.com/movies/index.ssf/2008/03/review_hortons_cartoon_success.html</url>
+         <critic>M. E. Russell</critic>
+      </review>
+      <review>
+         <snippet>I meant what I said
+And I said what I meant
+A flick pretty faithful
+'Bout 80 per cent.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20080313.whorton14/BNStory/Entertainment/home</url>
+         <critic>Rick Groen</critic>
+      </review>
+      <review>
+         <snippet>Frequently charming, beautifully drawn and far more faithful in spirit to the source material than those dreadful Ron Howard-Brian Grazer productions.</snippet>
+         <url>http://www.nypost.com/seven/03142008/entertainment/movies/woo_who__101838.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>Jim Carrey re-invents Horton much as Robin Williams did with the Genie of the Lamp in Disney's animated "Aladdin."</snippet>
+         <url>http://www.reelviews.net/movies/h/horton_hears.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>It's rendered in shiny, state-of-the-art CG animation, not the charming pen-and-ink drawings with which Seuss illustrated his own books or the hand-drawn artistry Chuck Jones brought to the 1970 Horton Hears a Who! short. But considering the messes that came before, that's a minor quibble.</snippet>
+         <url>http://www.tvguide.com/movies/dr-seuss-horton/review/292323</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>The tolerance and loopy poetry of the beloved book by Dr. Seuss have been nicely captured.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/critic.html#32868</url>
+         <critic>Andrea Gronvall</critic>
+      </review>
+      <review>
+         <snippet>It does honor the book's flavor and spirit with a bright, funny treatment. Voice performers Jim Carrey (as Horton) and Steve Carell (the Mayor) play their roles just right, without making the movie about them.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1142501&amp;categories=Movies&amp;nm=1</url>
+         <critic>Desson Thomson</critic>
+      </review>
+      <review>
+         <snippet>The real stars of the movie are the animators, who imbue even the overgrowth in Horton's jungle with a certain floppy Seuss-ishness.</snippet>
+         <url>http://www.variety.com/review/VE1117936443.html?categoryid=31&amp;cs=1</url>
+         <critic>John Anderson</critic>
+      </review>
+      <review>
+         <snippet>Horton Hears a Who! has blessedly been conceived and executed in reverence to Seuss's story, padding out the original narrative with some meaningful new ideas and casting a mercifully muzzled Jim Carrey as the titular beast.</snippet>
+         <url>http://www.villagevoice.com/film/0811,374089,374089,20.html</url>
+         <critic>Ed Gonzalez</critic>
+      </review>
+      <review>
+         <snippet>Unlike so many computer-animated movies, "Horton" doesn't have that garish, sealed-in-plastic effect that can be so claustrophobic.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-who14mar14,0,7565366.story</url>
+         <critic>Carina Chocano</critic>
+      </review>
+      <review>
+         <snippet>Even if Horton's world can't shine like Whoville, this movie's visuals keeps things vivid, while digital animation is so often crisp, precise, and cold.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=10836</url>
+         <critic>Matthew Sorrento</critic>
+      </review>
+      <review>
+         <snippet>In the mold of their previous films "Ice Age" and "Robots": a nice blend of rudimentary and inventive touches.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A600933</url>
+         <critic>Marjorie Baumgarten</critic>
+      </review>
+      <review>
+         <snippet>Someday, if we’re all good little boys and girls, the world will hand us a Dr. Seuss film half as wonderful as one of the books. Meantime we have the competent, clinical computer animation and relative inoffensiveness of Dr. Seuss’ Horton Hears a Who! to pass the time.</snippet>
+         <url>http://chicago.metromix.com/movies/movie_review/movie-review-horton-hears/336632/content</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>It's a tough balancing act and probably a futile one. As greedily as Hollywood looks upon these books as a franchise to strip-mine, the hard fact remains that what's good about them - Ted Geisel's untrendy gentleness, humor, and intelligence - resists translation to the big screen.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=9581</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>Charming, funny and great turns from a cast with no finger-wagging. But if you don’t like psychosis-inducing imagery, steer clear.</snippet>
+         <url>http://www.empireonline.com/reviews/review.asp?FID=133069</url>
+         <critic>Staff (Not credited)</critic>
+      </review>
+      <review>
+         <snippet>Endearing, though sometimes belabored.</snippet>
+         <url>http://online.wsj.com/article/SB120544686754634911.html</url>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>There are aspects of “Horton,”... that are fresh and enjoyable, and bits that will gratify even a dogmatic and orthodox Seussian.</snippet>
+         <url>http://movies.nytimes.com/2008/03/14/movies/14hort.html?ref=movies</url>
+         <critic>A.O. Scott</critic>
+      </review>
+      <review>
+         <snippet>Just because the live-action Seusses have dialed down expectations doesn't mean that Horton shouldn't aspire to more than time-wasting mediocrity. There are precious childhoods at stake here.</snippet>
+         <url>http://www.avclub.com/content/cinema/horton_hears_a_who</url>
+         <critic>Scott Tobias</critic>
+      </review>
+   </reviews>
+   <US_Gross>$154,529,439</US_Gross>
+   <production_budget>$85,000,000</production_budget>
+   <weekend_gross>$45,012,998</weekend_gross>
+   <number_of_screens>3,954</number_of_screens>
+   <highest_grossing_actors_present/>
+   <num_highest_grossing_actors>1</num_highest_grossing_actors>
+   <highest_grossing_actor>jim carrey</highest_grossing_actor>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

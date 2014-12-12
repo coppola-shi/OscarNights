@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Curious Case of Benjamin Button, The</name>
+   <company>Paramount Pictures</company>
+   <genres>
+      <genre>Drama</genre>
+      <genre>Fantasy</genre>
+      <genre>Mystery</genre>
+      <genre>Romance</genre>
+   </genres>
+   <authors>
+      <author>Eric Roth</author>
+      <author>Robin Swicord</author>
+   </authors>
+   <directors>
+      <director>David Fincher</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Brad Pitt</actor>
+      <actor>Cate Blanchett</actor>
+      <actor>Taraji P. Henson</actor>
+      <actor>Julia Ormond</actor>
+      <actor>Jason Flemyng</actor>
+      <actor>Elias Koteas</actor>
+      <actor>Tilda Swinton</actor>
+   </actors>
+   <release_date>December 25, 2008</release_date>
+   <running_time>159</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>Superbly made and winningly acted by Brad Pitt in his most impressive outing to date.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film-reviews/film-review-the-curious-case-of-benjamin-1003897184.story</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>It takes a world-class storyteller and a great yarn to rivet your attention for nearly three hours. This very classy, old-school movie - employing cutting-edge technology that will make your eyes pop - did it for me.</snippet>
+         <url>http://www.nypost.com/seven/12242008/entertainment/movies/its_brad_brad_brad_brad_world_145688.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>Naturally, Pitt and Blanchett are outstanding. Fincher's meticulous attention to detail is unerring, down to the light fixtures.</snippet>
+         <url>http://www.premiere.com/Review/Movies/The-Curious-Case-of-Benjamin-Button</url>
+         <critic>Jenni Miller</critic>
+      </review>
+      <review>
+         <snippet>Brad Pitt's sensitive performance helps make 'Benjamin Button' a timeless masterpiece.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/reviews/bal-li.button25dec25,0,6628729.story</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>Benjamin Button is all of a visionary piece, and it's a soul-filling vision.</snippet>
+         <url>http://online.wsj.com/article/SB123015087021633387.html</url>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>This film's manifold pleasures come in a series of small packages, with treats inside as tasty as they are unexpected.</snippet>
+         <url>http://www.time.com/time/specials/packages/article/0,28804,1868288_1868293,00.html</url>
+         <critic>Richard Corliss</critic>
+      </review>
+      <review>
+         <snippet>Aptly for a film so concerned with time, Button is 13 minutes shy of three hours and just flies by. If this is Fincher selling out, can he sell out more often please?</snippet>
+         <url>http://www.empireonline.com/reviews/review.asp?FID=10606</url>
+         <critic>Ian Freer</critic>
+      </review>
+      <review>
+         <snippet>A curious case indeed: an extravagantly ambitious movie that's easy to admire but a challenge to love.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20248898,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>With his usual intelligence, technical virtuosity (the reverse-aging effects are astounding) and storytelling panache, director Fincher gives the film a power and unity that make nearly three hours go by in a flash and pulls its diverse elements together to be something unique for a Hollywood movie -- a true spiritual experience.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/393365_button25q.html</url>
+         <critic>William Arnold</critic>
+      </review>
+      <review>
+         <snippet>Lyrical, original, misshapen and deeply felt, this is one flawed beauty of a movie.</snippet>
+         <url>http://www.newsweek.com/id/171182</url>
+         <critic>David Ansen</critic>
+      </review>
+      <review>
+         <snippet>This is a long, impeccably detailed, richly textured movie about a most unusual life, and although it's far from perfect, the sum of it achieves what Fincher set out to do in the first place: Make you blubber like a 6-year-old who just found his pet turtle lying belly-up.</snippet>
+         <url>http://www.miamiherald.com/entertainment/movies/reviews/story/824537.html</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>There's no denying the film's power of compulsion and the sense that, when it's all over, it means something. Most viewers will be entertained and moved, and some will find their intellect aroused.</snippet>
+         <url>http://www.reelviews.net/php_review_template.php?identifier=1430</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>It's long, like life, but like life it continually fascinates.</snippet>
+         <url>http://blog.oregonlive.com/madaboutmovies/2008/12/the_curious_case_of_the_curiou.html</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>Above all, The Curious Case of Benjamin Button is a triumph of technique.</snippet>
+         <url>http://movies.nytimes.com/2008/12/25/movies/25butt.html?ref=movies</url>
+         <critic>A.O. Scott</critic>
+      </review>
+      <review>
+         <snippet>This odd, epic tale of a man who ages backwards is presented in an impeccable classical manner, every detail tended to with fastidious devotion.</snippet>
+         <url>http://www.variety.com/review/VE1117939098.html?categoryid=2880&amp;cs=1&amp;query=curious+case+of+benjamin+button</url>
+         <critic>Todd McCarthy</critic>
+      </review>
+      <review>
+         <snippet>Benjamin never questions his fate and ­never actually gets to enjoy being a kid. At least there's a thoughtful middle part, where the enigmatic Blanchett comes alive and Benjamin seems haunted by life -- someone we recognize, and not just a vessel tossed about by time.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2008/12/24/2008-12-24_brad_pitt_tale_the_curious_case_of_benja.html</url>
+         <critic>Joe Neumaier</critic>
+      </review>
+      <review>
+         <snippet>Worth seeing just for the superb prosthetic makeup and seamless computer-generated effects in which Pitt's head is digitally imposed onto older bodies.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2008-12-23-benjamin-button_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>What Button shows is that Ben is ultimately not the hero of his own life or his own movie. He gets inside our head, that's for sure, but, frustratingly, we never get inside his.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/15086798/review/24991089/curious_case_of_benjamin_button</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>Question: Is life still like a box of chocolates if you're going in reverse? The answer, in the case of the curiously Gumpian The Curious Case of Benjamin Button, is a gooey yes.</snippet>
+         <url>http://www.philly.com/inquirer/columnists/steven_rea/20081223_Question__Is_life_still_like_a_box_of_chocolates.html</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>Yet it's worth seeing because the sights are truly something. Claudio Miranda's pearly cinematography, Donald Graham Burt's luscious production design, the visual effects supervised by Eric Barba--everything blends, and none of the seams show.</snippet>
+         <url>http://www.chicagotribune.com/entertainment/movies/chi-benjaminbutton-review-1225dec26,0,5832927.story</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>Button has a wide-eyed innocence that almost never palls. It strays far from the mind of F. Scott Fitzgerald, but often enough it came near to my heart.</snippet>
+         <url>http://events.charlotteobserver.com/reviews/show/36902-review-the-curious-case-of-benjamin-button</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>Perhaps the movie might have made more sense if the actors could have taken each other's roles: Pitt always seems light and ageless, while Blanchett never seems to have been young.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20081223.wbutton1224/BNStory/Entertainment/home</url>
+         <critic>Liam Lacey</critic>
+      </review>
+      <review>
+         <snippet>Brimming with intriguing concepts and brilliant visual effects, making it a stimulating treat for both the eyes and the intellect.</snippet>
+         <url>http://movies.tvguide.com/curious-case-benjamin-button/review/293210</url>
+         <critic>Jason Buchanan</critic>
+      </review>
+      <review>
+         <snippet>A gravely beautiful drama about the mysteries of aging and death.</snippet>
+         <url>http://www.chicagoreader.com/features/stories/moviereviews/081225/</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>At its most profound, Benjamin Button isn't about anything more important than Pitt's very handsomeness, which, for a surprising stretch of time, is a wonderful subject for study.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=10534</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>The movie's premise devalues any relationship, makes futile any friendship or romance, and spits, not into the face of destiny, but backward into the maw of time. It even undermines the charm of compound interest.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20081223/REVIEWS/812239995</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>Attains a level of quiet grace. It's too bad that I can barely remember the movie after only a week. Nothing lasts, indeed.</snippet>
+         <url>http://nymag.com/movies/reviews/52914/index1.html</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>It's so almost moving -- a meticulously crafted mechanical bird -- that it nearly feels like the real thing.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2008/12/25/benjamin_button/</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>Often astonishingly beautiful, but in a way that's the problem: You wonder what visionaries such as Tim Burton or Michel Gondry might have done with the material. As it is, "Benjamin Button" is little more than "Gump" by way of "Dorian Gray." It plays too safe when it should be letting its freak flag fly.</snippet>
+         <url>http://www.washingtonpost.com/gog/movies/the-curious-case-of-benjamin-button,1144213.html</url>
+         <critic>Ann Hornaday</critic>
+      </review>
+      <review>
+         <snippet>Based flimsily on a minor F. Scott Fitzgerald story, it's an anecdote stretched to would-be epic proportions.</snippet>
+         <url>http://www.csmonitor.com/2009/0102/p25s01-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>Benjamin Button is pretty much just "Gump" with better cinematography.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=11441</url>
+         <critic>Pete Vonder Haar</critic>
+      </review>
+      <review>
+         <snippet>Realized through old-fashioned camera mastery and newfangled special effects, it’s a stunning technical accomplishment, but one seemingly designed only to broadcast banal sentiments, when it says anything at all.</snippet>
+         <url>http://www.avclub.com/content/cinema/the_curious_case_of_benjamin</url>
+         <critic>Keith Phipps</critic>
+      </review>
+      <review>
+         <snippet>As enervating as it is long -- and at 2 hours and 47 minutes it is quite long -- this version of the F. Scott Fitzgerald fantasy short story is a baffling project, an endurance test of a movie that feels like it was made on a dare.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-button25-2008dec25,0,3522895.story</url>
+         <critic>Kenneth Turan</critic>
+      </review>
+      <review>
+         <snippet>Pitt's great in character roles, as a comic grotesque or an unrepentant scoundrel. (See Burn After Reading or, for that matter, Fight Club.) But as a passive, introspective leading man like Benjamin, he's just dull.</snippet>
+         <url>http://www.slate.com/id/2207404/pagenum/2</url>
+         <critic>Dana Stevens</critic>
+      </review>
+      <review>
+         <snippet>Everything that was sharp in the original text has been rounded and buffed.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A716015</url>
+         <critic>Kimberley Jones</critic>
+      </review>
+      <review>
+         <snippet>Benjamin Button is to the first half of the 20th century what "Gump" was to the second -- a panorama of the American experience as seen from the perspective of a wide-eyed Candide. Here as there, Roth reduces our complex times to a parade of shockingly straight-faced kitsch.</snippet>
+         <url>http://www.villagevoice.com/2008-12-24/film/benjamin-button-features-pitt-and-blanchett-in-orgy-of-excess/</url>
+         <critic>Scott Foundas</critic>
+      </review>
+      <review>
+         <snippet>The movie's excruciating length is without dramatic or thematic justification.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2008/12/24/DDVS14SO29.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+   </reviews>
+   <US_Gross>$127,509,326</US_Gross>
+   <production_budget>$160,000,000</production_budget>
+   <weekend_gross>$38,725,647</weekend_gross>
+   <number_of_screens>2,988</number_of_screens>
+   <highest_grossing_actors_present/>
+   <num_highest_grossing_actors>2</num_highest_grossing_actors>
+   <highest_grossing_actor>cate blanchett</highest_grossing_actor>
+   <highest_grossing_actor>brad pitt</highest_grossing_actor>
+   <summer_release>false</summer_release>
+   <christmas_release>true</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

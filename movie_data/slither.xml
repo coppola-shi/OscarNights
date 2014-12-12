@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Slither</name>
+   <company>Universal Pictures</company>
+   <genres>
+      <genre>Comedy</genre>
+      <genre>Horror</genre>
+      <genre>Scifi</genre>
+   </genres>
+   <authors>
+      <author>James Gunn</author>
+   </authors>
+   <directors>
+      <director>James Gunn</director>
+   </directors>
+   <origins>
+      <origin>CanadaUSA</origin>
+   </origins>
+   <actors>
+      <actor>Nathan Fillion</actor>
+      <actor>Elizabeth Banks</actor>
+      <actor>Michael Rooker</actor>
+      <actor>Gregg Henry</actor>
+      <actor>Tania Saulnier</actor>
+      <actor>Brenda James</actor>
+      <actor>Don Thompson</actor>
+      <actor>Jennifer Copping</actor>
+   </actors>
+   <release_date>March 31, 2006</release_date>
+   <running_time>minutes,</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>If your idea of fun involves zombies, monstrous physical transformations and alien slugs bent on world domination, look no further than James Gunn's gleeful homage to all things gross and horrible actually makes good on the "horror comedy" label by being both flat-out creepy and darkly funny.</snippet>
+         <url>http://online.tvguide.com/movies/database/Movie-Review.asp?MI=46664</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>There are times (and plenty of them) when Slither slops over from smart, affectionate homage into unmodulated frat goofiness as Gunn cannibalizes so many horror plots with such high spirits.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1178164_1_0_,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>Though it occasionally dips too deep into a well of redneck humor, Slither cleverly exploits the nervous laughter that fills a theater whenever a horror movie gets too frightening to bear.</snippet>
+         <url>http://www.avclub.com/content/node/46894</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>It's the kind of movie that used to be called "trashy good fun," only there's nothing trashy about it: Gunn, who scripted the 2004 "Dawn of the Dead" remake, is clearly punch-drunk with horror-movie love; Slither is, among other things, a freewheeling homage to "The Blob, Invasion of the Body Snatchers" and just about everything by George Romero.</snippet>
+         <url>http://www.laweekly.com/film-reviews/13010/film-reviews/</url>
+         <critic>Scott Foundas</critic>
+      </review>
+      <review>
+         <snippet>Slither begins briskly, gradually accelerates and eventually achieves a breakneck momentum that makes the wild ride even more exhilarating.</snippet>
+         <url>http://www.variety.com/review/VE1117929975?categoryid=31&amp;cs=1</url>
+         <critic>Joe Leydon</critic>
+      </review>
+      <review>
+         <snippet>Undeniably funny and gooey to boot, Slither may not be groundbreaking but it is a rarity: a horror-comedy that does both its genre-parents proud.</snippet>
+         <url>http://www.empireonline.com/incinemas/reviewcomplete.asp?FID=133047</url>
+         <critic>James Dyer</critic>
+      </review>
+      <review>
+         <snippet>Of course, Slither isn't for everyone, but if you've a yen for gallons of grue and a smart, sassy story to boot, you couldn't do better than Gunn's hellishly fun horror show.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A350481</url>
+         <critic>Marc Savlov</critic>
+      </review>
+      <review>
+         <snippet>The acting is playful aces all around: Fillion gives good exhausted incredulity, Banks gives good virginal idiocy, and Rooker gives great conflicted monster arrogance even before the aliens get him.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=8181</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>In a variety of forms, Slither excels in imaginative gore and shows that first-time director James Gunn has learned much about the joys of linking humor and horror.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2006/03/31/DDG9AI0BO31.DTL&amp;type=movies</url>
+         <critic>Neva Chonin</critic>
+      </review>
+      <review>
+         <snippet>Slither is neither repetitive nor reverent. It is a dark and hilarious spoof of those movies, one in which both the characters and the audience seem to be in on the jokes.</snippet>
+         <url>http://www.nydailynews.com/03-31-2006/entertainment/col/story/404644p-342493c.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>Aside from Henry, Gunn's cast is on a collective wavelength. Banks, whose perkiness carries a slightly demented edge, matches up well with Nathan Fillion, who plays the lovelorn police chief.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-060331-movies-review-slither,0,7147178.story?coll=mmx-movies_top_heds</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>A funny, freaky, fiendishly good flick that might just find a following beyond the standard cadre of horror fanatics.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/264955_slither31q.html</url>
+         <critic>Winda Benedetti</critic>
+      </review>
+      <review>
+         <snippet>Like "Tremors," only ickier, Slither is a tongue-in-cheek horror flick that skewers the genre while delivering seat-squirming scares.</snippet>
+         <url>http://www.philly.com/mld/philly/entertainment/movies/14226568.htm</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>Gross-out horror comedy is my least favorite genre, but this movie's so skillful I have to take my hat off to it.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/29526_SLITHER.html</url>
+         <critic>Jonathan Rosenbaum</critic>
+      </review>
+      <review>
+         <snippet>This is not a thinking man's horror movie. I wouldn't be surprised if there were slugs that could find gaping holes in the plot. But there's something winning about this grab bag of orally fixated invertebrates and mucus-covered Noids.</snippet>
+         <url>http://www.slate.com/id/2139033/?nav=fo</url>
+         <critic>Josh Levin</critic>
+      </review>
+      <review>
+         <snippet>Gunn maintains the ideal glib pitch for most of the picture, flirting with camp but never hanging around it long enough to water down the squirm-inducing stuff.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1002275140</url>
+         <critic>Michael Rechtshaffen</critic>
+      </review>
+      <review>
+         <snippet>Gunn doesn't reinvent the wheel but he does tighten its spokes a bit with some terrifying sequences and a witty, deadpan screenplay, and he leaves the audience hungry--for "Slither 2."</snippet>
+         <url>http://www.villagevoice.com/film/0613,singer,72694,20.html</url>
+         <critic>Matt Singer</critic>
+      </review>
+      <review>
+         <snippet>Slither is what it is, unapologetically, and unlike Gunn's work on "Dawn of the Dead," it's probably too weird to be a crossover hit. Either you've got worms in your heart or you don't.</snippet>
+         <url>http://www.dallasobserver.com/Issues/2006-03-30/film/film3.html</url>
+         <critic>Jordan Harper</critic>
+      </review>
+      <review>
+         <snippet>While Slither sometimes feels like a monster-mash, what makes it work is how nimbly it slaloms from yucks to yuks, slip-sliding from horror to comedy and back again on its gore-slicked foundation.</snippet>
+         <url>http://movies2.nytimes.com/2006/03/31/movies/31slit.html</url>
+         <critic>Manohla Dargis</critic>
+      </review>
+      <review>
+         <snippet>Slither is a gross, disgusting, but undeniably amusing treat laden with homages and in-jokes.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-slither31mar31,0,147318.story</url>
+         <critic>Kevin Crust</critic>
+      </review>
+      <review>
+         <snippet>This is one horror film that could make the syllabus at Bob Jones U. The way the squid blasts its tentacles into doe-eyed girls seems designed to steer your daughters away from sex until they're about 40.</snippet>
+         <url>http://www.nypost.com/movies/66290.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>This is well-crafted retro horror, too familiar to be really scary but smart enough to be fun. And funny too, with the kind of pure laughs that grow organically from the script, untainted by the chemical spray of irony.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/LAC.20060331.SLITHER31/TPStory/TPEntertainment/</url>
+         <critic>Rick Groen</critic>
+      </review>
+      <review>
+         <snippet>Let's get this straight from the start: Slither isn't great art, but that doesn't mean it isn't good entertainment.</snippet>
+         <url>http://movie-reviews.colossus.net/movies/s/slither.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>Slither is old-school gooey, slimy, silly B-movie fun.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2006-03-30-slither_x.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>Slither purports to be a "horror comedy" but in embracing the hybrid, it falls flat, never committing full-out to mining for giggles or gasps.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1112902&amp;lat=200.0&amp;lon=200.0&amp;displaySearchLocation=&amp;nm=1&amp;categories=Movies</url>
+         <critic>Teresa Wiltz</critic>
+      </review>
+      <review>
+         <snippet>There are better movies opening this weekend. There are better movies opening every weekend. But Slither has a competence to it, an ability to manipulate obligatory horror scenes in a way that works.</snippet>
+         <url>http://www.rogerebert.com/apps/pbcs.dll/article?AID=/20060330/REVIEWS/603300307/1023</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>B movies are fun because they're rinky dink. I got the joke and just didn't like the joke even though I respect Gunn for doing what he wanted to do.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=8772</url>
+         <critic>Don R. Lewis</critic>
+      </review>
+   </reviews>
+   <US_Gross>$7,802,450</US_Gross>
+   <production_budget>$15,250,000</production_budget>
+   <weekend_gross>$3,880,270</weekend_gross>
+   <number_of_screens>1,945</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>President&amp;#039;s Last Bang, The</name>
+   <company>Kino International</company>
+   <genres>
+      <genre>Comedy</genre>
+      <genre>Drama</genre>
+      <genre>Foreign</genre>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>Im Sang-soo</author>
+   </authors>
+   <directors>
+      <director>Im Sang-soo</director>
+   </directors>
+   <origins>
+      <origin>SouthKorea</origin>
+   </origins>
+   <actors>
+      <actor>Han Sukgyu</actor>
+      <actor>Baik Yoonshik</actor>
+      <actor>Song Jaeho</actor>
+      <actor>Kim Eungsoo</actor>
+      <actor>Yang Kwon Byunggil</actor>
+      <actor>Jeong Wonjoong</actor>
+      <actor>Cho Sanggun</actor>
+      <actor>Cho Eunji</actor>
+   </actors>
+   <release_date>October 14, 2005</release_date>
+   <running_time>102</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>The funniest film you'll see this year about a political assassination.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/251351_limited09.html</url>
+         <critic>Sean Axmaker</critic>
+      </review>
+      <review>
+         <snippet>Though The President's Last Bang is undeniably dense-with more than a dozen significant characters-the particulars aren't too tough to understand.</snippet>
+         <url>http://avclub.com/content/node/44320</url>
+         <critic>Noel Murray</critic>
+      </review>
+      <review>
+         <snippet>This meticulously well-made picture is disarmingly funny at times - not least during the ballet of bloody absurdity that is the assassination itself - but also subdued and straight-faced, with one eye planted on 1979 and the other on the violent student demonstrations looming in the distance.</snippet>
+         <url>http://www.laweekly.com/film/film_results.php?showid=3667&amp;Sumbit.x=54&amp;Sumbit.y=19</url>
+         <critic>Scott Foundas</critic>
+      </review>
+      <review>
+         <snippet>An outrageous, savagely comical account of the disastrous circumstances surrounding the assassination of dictatorial South Korean President Park Chung Hee in 1979.</snippet>
+         <url>http://www.calendarlive.com/movies/cl-et-bang25nov25,0,560815.story</url>
+         <critic>Kevin Thomas</critic>
+      </review>
+      <review>
+         <snippet>Take the real-life 1979 assassination of Park Chung-hee, the despotic, hedonistic, seal-testicle-loving president of South Korea, and stage it as if the Marx Brothers were running the country, and you might get The President's Last Bang.</snippet>
+         <url>http://www.nypost.com/movies/55333.htm</url>
+         <critic>V.A. Musetto</critic>
+      </review>
+      <review>
+         <snippet>Almost satirical.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2005/11/18/DDGR3FPGAV1.DTL&amp;type=movies</url>
+         <critic>G. Allen Johnson</critic>
+      </review>
+      <review>
+         <snippet>This South Korean political satire might not have historical resonance for
+American audiences -- it's loosely based on the 1979 assassination of dictator Park Chunghee by his own people -- but it takes the same comically dim view of governmental power and procedure as "Dr. Strangelove."</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/moviereviews/story/355623p-302912c.html</url>
+         <critic>Jami Bernard</critic>
+      </review>
+      <review>
+         <snippet>Writer-director Im Sang Soo's coolly stylized political satire doesn't provide a lot of answers, unfortunately, but it does show how the future of a nation might turn on a few drunken insults thrown around at a high-level dinner party.</snippet>
+         <url>http://www.boston.com/ae/movies/articles/2006/03/03/bang_is_coolly_comic_gloss_on_korean_intrigue/</url>
+         <critic>Janice Page</critic>
+      </review>
+      <review>
+         <snippet>Tight, sober and strangely comical.</snippet>
+         <url>http://movies2.nytimes.com/2005/10/14/movies/14bang.html</url>
+         <critic>Dana Stevens</critic>
+      </review>
+      <review>
+         <snippet>South Korean cinema finally gets its first full-blown political satire with The President's Last Bang, a virtuoso slice of sustained black humor.</snippet>
+         <url>http://www.variety.com/review/VE1117927102?categoryid=1929&amp;cs=1&amp;s=h&amp;p=0</url>
+         <critic>Derek Elley</critic>
+      </review>
+      <review>
+         <snippet>From mid-movie on, confusion escalates (along with one's incredulity).</snippet>
+         <url>http://www.villagevoice.com/film/0541,hoberman2,68707,20.html</url>
+         <critic>J. Hoberman</critic>
+      </review>
+   </reviews>
+   <US_Gross>$9,724</US_Gross>
+   <weekend_gross>$1,862</weekend_gross>
+   <number_of_screens>3</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

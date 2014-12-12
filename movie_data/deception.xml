@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Deception</name>
+   <company>20th Century Fox</company>
+   <genres>
+      <genre>Action</genre>
+      <genre>Drama</genre>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>Mark Bomback</author>
+   </authors>
+   <directors>
+      <director>Marcel Langenegger</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Hugh Jackman</actor>
+      <actor>Ewan McGregor</actor>
+      <actor>Michelle Williams</actor>
+      <actor>Maggie Q</actor>
+      <actor>Natasha Henstridge</actor>
+      <actor>Rachael Taylor</actor>
+   </actors>
+   <release_date>April 25, 2008</release_date>
+   <running_time>108</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>Jackman and McGregor are a delight to watch.</snippet>
+         <url>http://www.tvguide.com/movies/deception/review/293100</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>This vision of Gotham is as fastidious as the cockpit of a BMW. But rather than sell luxury sedans, Deception offers a fantasy even big money can't buy -- Wall Street as a cross between a James Bond adventure and a Victoria’s Secret spread.</snippet>
+         <url>http://www.laweekly.com/film+tv/film-reviews/movie-reviews-body-of-war-four-minutes-shotgun/18773/?page=2</url>
+         <critic>Sam Sweet</critic>
+      </review>
+      <review>
+         <snippet>With her arresting, off-kilter look of bruised desire, Michelle Williams ends up being the most interesting aspect of this somber corn.</snippet>
+         <url>http://chicago.metromix.com/movies/movie_review/movie-review-deception/388161/content</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>Deception is not the cool, noirish thriller it tries to be. Despite a cast that includes double-crossers Hugh Jackman and Ewan McGregor and Michelle Williams caught in the middle, the film is a yawn.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2008-04-24-also-opening_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>The dynamic between Jackman and McGregor bears an uncanny resemblance to that of Aaron Eckhart and Matt Malloy from "In The Company Of Men": the cool, suave, experienced philosopher of excess and his weaker, more earnest pupil.</snippet>
+         <url>http://www.avclub.com/content/cinema/deception</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>An overwrought and ultimately silly thriller.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2008/04/24/DDOL10AKPS.DTL&amp;type=movies</url>
+         <critic>Ruthe Stein</critic>
+      </review>
+      <review>
+         <snippet>The film's first-time director, the TV-commercial-trained Marcel Langenegger, is out to emulate Hitchcock with dashes of "Vertigo," "Strangers on a Train" and more. But his homage is uninspired and disconnected, and his film is a bore.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/360478_deception25q.html</url>
+         <critic>William Arnold</critic>
+      </review>
+      <review>
+         <snippet>To his credit, Langenegger keeps things relatively simple instead of resorting to lots of fast cutting and fancy camera angles. To his detriment, the picture he has made barely moves at all. This no-style style isn't restraint; it's a kind of indifference to filmmaking.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2008/04/25/deception/</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>Mildly titillating, but not very good.</snippet>
+         <url>http://www.empireonline.com/reviews/reviewcomplete.asp?FID=135597</url>
+         <critic>Kim Newman</critic>
+      </review>
+      <review>
+         <snippet>Why Hugh Jackman was so excited by Mark Bomback's script to star and produce the film is as big a mystery as why such talents-on-a-roll as Ewan McGregor and Michelle Williams joined the cast.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?JSESSIONID=ChhRLRHLpsvHHw1p1RBTcyWT1VzpvCSVz2tQ5n3zNzxqsDGQSThv!-1431123142&amp;&amp;rid=11016</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>Strip out Deception's fleeting nudity and what's left is a throwback to "B" movie days -- a thin thriller, burdened by clunky dialogue and prone to telegraphing its twists.</snippet>
+         <url>http://www.variety.com/review/VE1117936892.html?categoryid=31&amp;cs=1</url>
+         <critic>Brian Lowry</critic>
+      </review>
+      <review>
+         <snippet>A lamentably slack and dishonest genre exercise.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20080425.wdeception25/BNStory/Entertainment/home</url>
+         <critic>Stephen Cole</critic>
+      </review>
+      <review>
+         <snippet>To succeed, Deception requires viewers to be both inattentive and stupid. There's not a twist in this flimsy and moth-eaten plot that isn't both contrived and transparent and not a character who hasn't been hopelessly manipulated by the needs of the narrative.</snippet>
+         <url>http://www.reelviews.net/movies/d/deception2008.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>Deception is another example of when genre-fication (the forcing of otherwise intriguing stories into the straitjackets of horror, thriller or other genres) reduces our entertainment to head-shaking banality.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1144487&amp;categories=Movies&amp;nm=1</url>
+         <critic>Desson Thomson</critic>
+      </review>
+      <review>
+         <snippet>A would-be erotic thriller with no heat and zero chills, Deception has the kind of glassy, glossy sheen and risible story that mean to suggest "Basic Instinct" but instead invoke lesser laughers like "Jade" and "Sliver."</snippet>
+         <url>http://movies.nytimes.com/2008/04/25/movies/25dece.html?ref=movies</url>
+         <critic>Manohla Dargis</critic>
+      </review>
+      <review>
+         <snippet>Jackman and McGregor throw their best American accents behind the effort, but Michelle Williams seems fairly bored as the sex-club partner who wins McGregor's heart. I'm with her.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/33081_DECEPTION_LANGENEGGER.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>Deception would be laughably bad if it weren't so rotely inert.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-deception25apr25,0,2395156.story</url>
+         <critic>Mark Olsen</critic>
+      </review>
+      <review>
+         <snippet>Quickly devolves into a nonprescription alternative to Ambien.</snippet>
+         <url>http://www.nypost.com/seven/04252008/entertainment/movies/auditors_tale_wont_add_up_107943.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>Everything is wrong pretty much from the start of this misbegotten adventure.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20195584,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>Bomback's script is the worst thing a thriller can be - a flip-flopper, using quick character changes for plot twists. And Langenegger's direction rarely sustains a mood or tone, only a sleek veneer of luxury and knowingness.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/reviews/bal-to.deception25apr25,0,644290.story</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>The movie actually does feel like an Americanized work of Hong Kong moviemaking. But the desperate, derivative style, the nonsense plotting, and leggy, horny women are applied like too much MSG.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=11207</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>Whether you view it as intellectually dishonest or just plain sloppy, Deception is a movie that more than lives up to its title.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A614784</url>
+         <critic>Steve Davis</critic>
+      </review>
+      <review>
+         <snippet>The real culprit is first-time director Marcel Langenegger, who seems to have studied for his debut by watching nothing but Cinemax. The score hints at ominous activities that never happen, a rain machine provides the only atmosphere and the actors have to suffer through the silliest sex scenes in recent memory.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2008/04/25/2008-04-25_a_betrayal_of_tryst_in_deception.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+   </reviews>
+   <US_Gross>$4,598,506</US_Gross>
+   <weekend_gross>$2,312,146</weekend_gross>
+   <number_of_screens>2,001</number_of_screens>
+   <highest_grossing_actors_present/>
+   <num_highest_grossing_actors>1</num_highest_grossing_actors>
+   <highest_grossing_actor>ewan mcgregor</highest_grossing_actor>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

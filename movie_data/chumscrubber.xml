@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Chumscrubber, The</name>
+   <company>Newmarket Films</company>
+   <genres>
+      <genre>Comedy</genre>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author>Zac Stanford</author>
+      <author>Arie Posin</author>
+   </authors>
+   <directors>
+      <director>Arie Posin</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Jamie Bell</actor>
+      <actor>Glenn Close</actor>
+      <actor>Ralph Fiennes</actor>
+      <actor>William Fichtner</actor>
+      <actor>Carrie-Anne Moss</actor>
+      <actor>Josh Janowicz</actor>
+      <actor>Camilla Belle</actor>
+      <actor>Lou Taylor Pucci</actor>
+      <actor>Justin Chatwin</actor>
+      <actor>John Heard</actor>
+      <actor>Allison Janney</actor>
+      <actor>Rita Wilson</actor>
+   </actors>
+   <release_date>August 5, 2005</release_date>
+   <running_time>102</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>At once dreamily surreal, acutely intelligent, and strikingly tough-minded, this pitch-dark dramatic comedy recalls David Lynch and "Donnie Darko" while remaining fresh and original to its core. A stunning directorial debut.</snippet>
+         <url>http://www.csmonitor.com/2005/0805/p14s01-almo.html</url>
+         <critic>David Sterritt</critic>
+      </review>
+      <review>
+         <snippet>A frustrating combination of inspiration and routine, acuity and dullness, originality and fashion. Part web-of-life indie film, part troubled teen drama, part suburban satire, part comic book fantasy, it vacillates between the engaging and the silly, buoyed by energetic performances but pulled underwater by self-satisfied writing and direction.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/1123063237114990.xml&amp;coll=7</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>Either a bit more humor or a bit more heart could exponentially improve things.</snippet>
+         <url>http://listings.dallasobserver.com/gyrobase/Film/ShowFilm</url>
+         <critic>Luke Y. Thompson</critic>
+      </review>
+      <review>
+         <snippet>Every adult in the movie is a caricature: Close, Janney and Wilson are compendiums of such broad, unattractive traits they make the ladies of "Desperate Housewives" look complex. The men, meanwhile, are weak, clueless and preening, with the exception of Fiennes, who's nuts.</snippet>
+         <url>http://www.calendarlive.com/movies/chocano/cl-et-chumscrubber11nov11,0,606226.story</url>
+         <critic>Carina Chocano</critic>
+      </review>
+      <review>
+         <snippet>A series of pretentious social commentary punctuated by windows of excellence that only make it more frustrating.</snippet>
+         <url>http://www.filmthreat.com/Reviews.asp?Id=6858</url>
+         <critic>Jeremy Mathews</critic>
+      </review>
+      <review>
+         <snippet>It's a Big Idea movie that comes out only half-baked.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A282520</url>
+         <critic>Kimberley Jones</critic>
+      </review>
+      <review>
+         <snippet>The few genuine moments of connection --  are as refreshing as they are out of place. They only highlight how false and affected the rest of the film is.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/235293_chumscrubber05q.html</url>
+         <critic>Sean Axmaker</critic>
+      </review>
+      <review>
+         <snippet>A tragic waste of acting talent, with nothing new to say. Can we please now politely close the door on middle-class repression before we get really angry?</snippet>
+         <url>http://www.empireonline.com/reviews/review.asp?FID=11343</url>
+         <critic>Olly Richards</critic>
+      </review>
+      <review>
+         <snippet>An insufferable, self-conscious cult movie, The Chumscrubber smugly heaps on half-baked ideas about media violence, the homogeneity of suburbia and the disintegration of the American family.</snippet>
+         <url>http://www.variety.com/index.asp?layout=sundance2005&amp;nav=reviews&amp;content=reviews&amp;reviewid=VE1117926411&amp;categoryid=1865&amp;cs=</url>
+         <critic>Scott Foundas</critic>
+      </review>
+      <review>
+         <snippet>The resulting film is an example of how a film with camera and acting skills in its corner can still fall flat on its face.</snippet>
+         <url>http://avclub.com/content/node/25617</url>
+         <critic>Staff (Not credited)</critic>
+      </review>
+      <review>
+         <snippet>An appallingly clumsy and stupid take on drugs, kidnapping and suicide in suburbia.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/_/id/6822022?pageid=rs.ReviewsMovieArchive&amp;pageregion=mainRegion</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>Shrill, smug would-be satire.</snippet>
+         <url>http://www.laweekly.com/film/film_results.php?showid=3647&amp;Sumbit.x=56&amp;Sumbit.y=16</url>
+         <critic>Scott Foundas</critic>
+      </review>
+   </reviews>
+   <US_Gross>$49,526</US_Gross>
+   <production_budget>$6,800,000</production_budget>
+   <weekend_gross>$28,548</weekend_gross>
+   <number_of_screens>28</number_of_screens>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

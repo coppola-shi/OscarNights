@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Fat Girls</name>
+   <company>Regent Releasing</company>
+   <genres>
+      <genre>Comedy</genre>
+   </genres>
+   <authors>
+      <author>Ash Christian</author>
+   </authors>
+   <directors>
+      <director>Ash Christian</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Ash Christian</actor>
+      <actor>Jonathan Caouette</actor>
+      <actor>Robin de Jesus</actor>
+      <actor>Ashley Fink</actor>
+      <actor>Ellen Albertini Dow</actor>
+      <actor>Alexa Havins</actor>
+      <actor>Deborah Theaker</actor>
+      <actor>Justin Bruening</actor>
+   </actors>
+   <release_date>November 2, 2007</release_date>
+   <running_time>82</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>Big-Hearted and often quite funny if crudely made, Fat Girls cleverly subverts the clichés of high school comedies to serve an autobiographical story about an overweight gay teen in a small Texas town.</snippet>
+         <url>http://www.nypost.com/seven/11022007/entertainment/movies/fat_girls_738514.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>Christian infuses this familiar story with gentle empathy, which goes a long way in balancing out the more amateurish choices.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2007/11/02/2007-11-02_short_takes_more_movie_reviews.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>Without insight, memorable dialogue or interesting characters, Fat Girls quickly wears thin.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-capsules2nov02,0,4922312.story?coll=cl-mreview</url>
+         <critic>Staff (Not credited)</critic>
+      </review>
+      <review>
+         <snippet>Wins no points for delicacy. Still, it does score some laughs.</snippet>
+         <url>http://www.variety.com/review/VE1117930899.html?categoryid=31&amp;cs=1&amp;p=0</url>
+         <critic>Dennis Harvey</critic>
+      </review>
+      <review>
+         <snippet>This film goes to some lengths not to be another high-school movie, which means prom stinks and no one can sing. Given Fat Girls' honesty, and its delicately drawn examples of social hopelessness, the sudden, sugary, puzzling finale feels out of character. It's as though the film forgot how to talk to us.</snippet>
+         <url>http://www.villagevoice.com/film/0744,deutsch,78186,20.html</url>
+         <critic>Abigail Deutsch</critic>
+      </review>
+      <review>
+         <snippet>To call Christian's film unpolished is an understatement.</snippet>
+         <url>http://www.tvguide.com/detail/movie.aspx?tvobjectid=291128&amp;more=ucmoviereview</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>In the words of his own character, this young filmmaker hasn't found his "inner fat girl."</snippet>
+         <url>http://www.avclub.com/content/cinema/fat_girls</url>
+         <critic>Noel Murray</critic>
+      </review>
+      <review>
+         <snippet>Ends up stranded between two concepts, either of which might have yielded a more satisfying film.</snippet>
+         <url>http://movies.nytimes.com/2007/11/02/movies/02fat.html?ref=movies</url>
+         <critic>Stephen Holden</critic>
+      </review>
+   </reviews>
+   <US_Gross>$11,204</US_Gross>
+   <weekend_gross>$4,465</weekend_gross>
+   <number_of_screens>2</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

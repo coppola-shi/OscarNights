@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Pirates of the Caribbean: At World&amp;#039;s End</name>
+   <company>Buena Vista Pictures</company>
+   <genres>
+      <genre>Action</genre>
+      <genre>Adventure</genre>
+      <genre>Comedy</genre>
+      <genre>Fantasy</genre>
+   </genres>
+   <authors>
+      <author>Ted Elliott</author>
+      <author>Terry Rossio</author>
+      <author>Stuart Beattie</author>
+      <author>Jay Wolpert</author>
+   </authors>
+   <directors>
+      <director>Gore Verbinski</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Johnny Depp</actor>
+      <actor>Geoffrey Rush</actor>
+      <actor>Orlo Bloom</actor>
+      <actor>Keira Knightley</actor>
+      <actor>Jack Davenport</actor>
+      <actor>Bill Nighy</actor>
+      <actor>Jonathan Pryce</actor>
+      <actor>Lee Arenberg</actor>
+   </actors>
+   <release_date>May 25, 2007</release_date>
+   <running_time>168</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>The most visually spectacular, action-packed and surreal of the adventures of Capt. Jack Sparrow (Johnny Depp).</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-070525-movies-review-pirates,0,6487220.story?coll=mmx-movies_top_heds</url>
+         <critic>Michael Wilmington</critic>
+      </review>
+      <review>
+         <snippet>I won't be able to talk anybody into or out of the Pirates of the Caribbean experience now, so I'll simply offer sage advice: Hit the bathroom just before it starts. To miss any five-minute chunk of this densely plotted trilogy-capper will leave you confused.</snippet>
+         <url>http://ae.miami.com/entertainment/ui/miami/movie.html;jsessionid=AC217E2FC38D6009C2E0DCEF258ABE3B.prodapp14_ae_02?id=860507&amp;reviewId=22457&amp;startDate=05%2F24%2F2007</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>Exciting, distracting and quite possibly permanently concentration impairing, what Pirates of the Caribbean: At World's End offers is a wonderfully scenic medley of impressive action sequences so lengthy, elaborate and numerous that remembering what came before becomes a kind of test of mental focus.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-pirates23may23,0,6312309.story?coll=cl-mreview</url>
+         <critic>Carina Chocano</critic>
+      </review>
+      <review>
+         <snippet>More than ever, Depp masterfully keeps the enterprise afloat, even when the sheer weight of all those other characters threatens to throw it off-course.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?&amp;rid=9270</url>
+         <critic>Michael Rechtshaffen</critic>
+      </review>
+      <review>
+         <snippet>The cannibals, coconuts and landlocked locations have been replaced by the high-seas high jinks that made the first film so enjoyable.</snippet>
+         <url>http://movies2.nytimes.com/2007/05/24/movies/24pira.html?ref=movies</url>
+         <critic>Jeannette Catsoulis</critic>
+      </review>
+      <review>
+         <snippet>Funner, biggerer, brighterer, bolderer, Pirates of the Caribbean: At World's End is not only okay, it may even be close to good. A lavish spectacle illuminated by Johnny Depp's swishing pirate captain, the movie has its dull moments, but not many.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1132313&amp;categories=Movies&amp;nm=1</url>
+         <critic>Stephen Hunter</critic>
+      </review>
+      <review>
+         <snippet>Depp plays multiple versions of Sparrow, who now suffers from a split personality; his shtick is funny, but the players are all upstaged by the astonishing special effects, superior to those of earlier installments in creating a wondrous and menacing world.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/31637_PIRATES_OF_THE_CARIBBEAN:_AT_WORLD&amp;#039;S_END.html</url>
+         <critic>Andrea Gronvall</critic>
+      </review>
+      <review>
+         <snippet>Depp and Rush are still in there plugging away. They’re troupers, but the series is all used up. If there is to be another sequel it will have to be called "Pirates of the Caribbean – At Wit's End."</snippet>
+         <url>http://www.csmonitor.com/2007/0525/p11s02-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>It's almost three hours long, and that's a lot of time to invest in what is, essentially, a theme-park attraction you can't ride.</snippet>
+         <url>http://www.tvguide.com/movies/pirates-caribbean-worlds/review/285365</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>You can bet your parrot "Pirates" will be back, even if "At World's End" hasn't the foggiest idea when to quit.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=8930</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>A sumptuous feast for the eyes and an occasionally exhilarating stimulant to the heart. But beware my hearty: It will tie your rum-soaked brain in knots.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2007/05/23/2007-05-23_all_at_sea.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>The last 60 minutes offer adventure as rousing as anything provided in either of the previous installments. Unfortunately, that doesn't account for the other 108 minutes of this gorged, self-indulgent, and uneven production.</snippet>
+         <url>http://www.reelviews.net/movies/p/pirates_caribbean3.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>The plot's a trippy, twisty mess, and it's far too long, but it looks fantastic and makes some bold choices in its execution. And once again Jack's back to save the day.</snippet>
+         <url>http://www.empireonline.com/reviews/review.asp?FID=11118</url>
+         <critic>Helen O&amp;#039;Hara</critic>
+      </review>
+      <review>
+         <snippet>The third voyage in the "Priates" trilogy could be touted as "The biggest, loudest and second-best (or second-worst) 'Pirates' ever!" -- not necessarily a ringing endorsement, but honest.</snippet>
+         <url>http://www.variety.com/review/VE1117933737.html?categoryid=31&amp;cs=1</url>
+         <critic>Brian Lowry</critic>
+      </review>
+      <review>
+         <snippet>Like all abstract art, At World's End is best approached non-narratively, as an experience rather than a story.</snippet>
+         <url>http://www.slate.com/id/2166977/fr/flyout</url>
+         <critic>Dana Stevens</critic>
+      </review>
+      <review>
+         <snippet>The action IS pretty engaging, Sao Feng and his gang of South Asian cutthroats are a nice addition, and the constant plot explication does require you to pay attention.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=10048</url>
+         <critic>Pete Vonder Haar</critic>
+      </review>
+      <review>
+         <snippet>It's an even more tedious storytelling mess, with a plot so muddled it's impossible to accurately describe, generating zero interest in its characters and grinding on for nearly three endless hours.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/316947_pirates24q.html</url>
+         <critic>William Arnold</critic>
+      </review>
+      <review>
+         <snippet>The longest and talkiest installment in the blockbuster Pirates trilogy, At World's End doesn't even have the decency to provide a good action sequence until more than two hours in.</snippet>
+         <url>http://ae.miami.com/entertainment/ui/miami/movie.html;jsessionid=A17344297FC1D1120AE4F54210E701F1.prodapp15_ae_02?id=860507&amp;reviewId=22461&amp;startDate=05%2F24%2F2007</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>Even Depp's increasingly tired antics can't lighten the dour mood; in fact, Sparrow is completely overshadowed here by Rush's lively turn as Barbossa.</snippet>
+         <url>http://www.premiere.com/moviereviews/3827/pirates-of-the-caribbean-at-worlds-end.html</url>
+         <critic>Ethan Alter</critic>
+      </review>
+      <review>
+         <snippet>The longest, grimmest and least funny of the trilogy.</snippet>
+         <url>http://www.msnbc.msn.com/id/18864101/site/newsweek/</url>
+         <critic>David Ansen</critic>
+      </review>
+      <review>
+         <snippet>The good news first: Keith Richards totally rocks it playing pirate daddy to Johnny Depp's Capt. Jack Sparrow. The deep rumble of his voice and those hooded eyes that narrowly open like the creaky gates of hell make him what the rest of this three-peat is not: authentically scary...So what's the bad news? Richards is onscreen for barely two minutes.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/9474908/review/14756791/pirates_of_the_caribbean_at_worlds_end</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>Knightley's Elizabeth becomes a pirate captain this time. You know a franchise has run its course when it has a buccaneer heroine who looks as if she'd hate to get her face smudged.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20039931,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>It's not a total shipwreck, but abandon hope all ye seeking a coherent, much less satisfying, narrative. Expect instead a reported $300 million worth of eye candy, delivered with enormous technical skill.</snippet>
+         <url>http://www.nypost.com/seven/05242007/entertainment/movies/ahoy_vey__movies_lou_lumenick.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>Ultimately the voyage is so choppy and long (2 hours, 48 minutes) that into the third hour I found myself yawning, "Yo-ho-hum and a very sore bum."</snippet>
+         <url>http://www.philly.com/inquirer/columnists/carrie_rickey/20070524_Out_of_their_Depp.html</url>
+         <critic>Carrie Rickey</critic>
+      </review>
+      <review>
+         <snippet>What started out as a fleet one-off swashbuckler with novel supernatural elements has become loaded and graceless, with each new entry barreling across the goal line like William "The Refrigerator" Perry.</snippet>
+         <url>http://www.avclub.com/content/cinema/pirates_of_the_caribbean_at</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>Long before the third, fourth, or fifth climax in this endless, obligatory summer diversion, I slunk into my seat in a passive, inattentive stupor, fully submitting to the fact that I hadn't the slightest idea what the hell was going on.</snippet>
+         <url>http://www.villagevoice.com/film/0721,lee,76727,20.html</url>
+         <critic>Nathan Lee</critic>
+      </review>
+      <review>
+         <snippet>"Gentlemen, I wash my hands of this weirdness," Captain Jack says. Sir, you speak for us all.</snippet>
+         <url>http://www.newyorker.com/arts/critics/cinema/2007/06/04/070604crci_cinema_lane?currentPage=2</url>
+         <critic>Anthony Lane</critic>
+      </review>
+      <review>
+         <snippet>Their film is not so much thought out as strung together -- colorful incident upon colorful incident, but without logic, gathering suspense or any attempt to establish emotional connections between audience and actors.</snippet>
+         <url>http://www.time.com/time/arts/article/0,8599,1625401,00.html</url>
+         <critic>Richard Schickel</critic>
+      </review>
+      <review>
+         <snippet>Like the Flying Dutchman, this third Pirates outing is an empty vessel haunted by the ghosts of its sabre-rattling betters.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A475071</url>
+         <critic>Marc Savlov</critic>
+      </review>
+      <review>
+         <snippet>This is a glazed, inhuman, cluttered piece of work, a storytelling mishmash that buries the considerable charms of its actors under heavy drifts of silt.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2007/05/25/pirates/index.html</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>A ponderous pirate saga, 168 minutes long, with more doldrums than "The Rime of the Ancient Mariner." Those doldrums are relieved from time to time by spectacular effects.</snippet>
+         <url>http://online.wsj.com/article/SB118004768283814001.html</url>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>The whole d--- thing can be summed up in three little words: yo ho hum.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20070525.wpirates25/BNStory/Entertainment/home</url>
+         <critic>Rick Groen</critic>
+      </review>
+      <review>
+         <snippet>The pirate ship has hit foul waters, and even the sharp wit and charm of everyone's favorite buccaneer can't save it.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2007-05-23-pirates-review_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>A movie made at wits' end. There are four or five authentic laughs in the whole 170-minute extravaganza.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-to.pirates24may24,0,2058472.story?coll=bal-artslife-movies</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>The loudest, dumbest, slowest, least entertaining and most annoying by a very comfortable margin.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/1179878103327560.xml&amp;coll=7</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>Has no narrative throughline, no emotional spine. It's a mess.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2007/05/24/DDGCEPVKR71.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+   </reviews>
+   <US_Gross>$309,420,425</US_Gross>
+   <production_budget>$300,000,000</production_budget>
+   <weekend_gross>$127,972,864</weekend_gross>
+   <number_of_screens>4,362</number_of_screens>
+   <oscar_winning_actors_present/>
+   <num_oscar_winning_actors>1</num_oscar_winning_actors>
+   <oscar_winning_actor>geoffrey rush</oscar_winning_actor>
+   <highest_grossing_actors_present/>
+   <num_highest_grossing_actors>1</num_highest_grossing_actors>
+   <highest_grossing_actor>johnny depp</highest_grossing_actor>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>true</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

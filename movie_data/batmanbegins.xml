@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Batman Begins</name>
+   <company>Warner Bros.</company>
+   <genres>
+      <genre>Action</genre>
+      <genre>Adventure</genre>
+      <genre>Fantasy</genre>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>Christopher Nolan</author>
+      <author>David S. Goyer</author>
+      <author>Bob Kane</author>
+   </authors>
+   <directors>
+      <director>Christopher Nolan</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Christian Bale</actor>
+      <actor>Michael Caine</actor>
+      <actor>Liam Neeson</actor>
+      <actor>Morgan Freeman</actor>
+      <actor>Gary Oldman</actor>
+      <actor>Ken Watanabe</actor>
+      <actor>Katie Holmes</actor>
+      <actor>Cillian Murphy</actor>
+   </actors>
+   <release_date>June 15, 2005</release_date>
+   <running_time>140</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>For the first time since "X-Men," I was on the edge of my seat anticipating a sequel, wondering who'd play the Joker and how quickly Nolan - it must be Nolan! - can bring the next chapter of this story to the screen.</snippet>
+         <url>http://ae.charlotte.com/entertainment/ui/charlotte/movie.html?id=325798&amp;reviewId=18272&amp;startDate=06%2F14%2F2005</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>This is the Batman movie I've been waiting for; more correctly, this is the movie I did not realize I was waiting for, because I didn't realize that more emphasis on story and character and less emphasis on high-tech action was just what was needed. The movie works dramatically in addition to being an entertainment. There's something to it.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20050613/REVIEWS/50525003</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>A great movie, period. It's great because it's so real.</snippet>
+         <url>http://www.nypost.com/movies/48343.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>A rousing, reverent, often brilliant re-creation of a seminal comics character, Batman Begins proves Batman is at home in the 21st century as he was in the 20th.</snippet>
+         <url>http://www.theavclub.com/review.php?review_id=8602</url>
+         <critic>Keith Phipps</critic>
+      </review>
+      <review>
+         <snippet>A confidently original, engrossing interpretation.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1072735_1_0_,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>It's witty, gripping good fun.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/111882942485980.xml&amp;coll=7</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>Technically, the film is consistently impressive. It creates a grimly gothic vision of a crime-ridden and depression-ravaged Gotham City, a dandy pair of chase sequences involving the new generation Batmobile and a range of innovative visual effects.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/228283_batman14q.html</url>
+         <critic>William Arnold</critic>
+      </review>
+      <review>
+         <snippet>A carefully thought out and consummately well-made piece of work, a serious comic-book adaptation that is driven by story, psychology and reality, not special effects.</snippet>
+         <url>http://www.calendarlive.com/movies/turan/cl-et-batman14jun14,0,4819786.story</url>
+         <critic>Kenneth Turan</critic>
+      </review>
+      <review>
+         <snippet>For Christopher Nolan to turn Batman Begins into such a smart, gritty, brooding, visceral experience is astonishing. Truly, Batman does begin again.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1000946415</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>Conceived in the shadow of American pop rather than in its bright light, this tense, effective iteration of Bob Kane's original comic book owes its power and pleasures to a director who takes his material seriously and to a star who shoulders that seriousness with ease.</snippet>
+         <url>http://movies2.nytimes.com/2005/06/15/movies/15batm.html?</url>
+         <critic>Manohla Dargis</critic>
+      </review>
+      <review>
+         <snippet>Batman Begins emerges from the darkness and leaves a powerful, lasting impression.</snippet>
+         <url>http://www.washingtonpost.com/wp-dyn/content/article/2005/06/16/AR2005061600732.html</url>
+         <critic>Desson Thomson</critic>
+      </review>
+      <review>
+         <snippet>The action scenes are, for the most part, kinetic and exciting - things that have rarely been true of fights and chases in the superhero's previous incarnations.</snippet>
+         <url>http://movie-reviews.colossus.net/movies/b/batman_begins.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>Not just one of the best "comic book" movies ever made, but also one of the best films of the year.</snippet>
+         <url>http://www.filmthreat.com/Reviews.asp?Id=7605</url>
+         <critic>Pete Vonder Haar</critic>
+      </review>
+      <review>
+         <snippet>Significantly grittier than previous Bat-beginnings, this finds new things to do with, and say about, a character who's been around since 1938.</snippet>
+         <url>http://www.empireonline.co.uk/site/incinemas/ReviewInFull.asp?FID=9770</url>
+         <critic>Kim Newman</critic>
+      </review>
+      <review>
+         <snippet>Of course, a Batman movie is nothing without a Bruce Wayne, and, by a mile, Bale is the best of a lot that has ranged from the square-jawed slapstick of Adam West to the more dedbonair stylings of Michael Keaton, Val Kilmer and George Clooney.</snippet>
+         <url>http://www.laweekly.com/ink/05/29/film-foundas.php</url>
+         <critic>Scott Foundas</critic>
+      </review>
+      <review>
+         <snippet>At times it feels almost too busy with plotting. There's so much going on, and so much to take in, that it leaves you winded. But that's origin stories for you. No one ever said setting up a savior would be simple.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A273804</url>
+         <critic>Marc Savlov</critic>
+      </review>
+      <review>
+         <snippet>The buildup is steadily engrossing. That's because Nolan keeps the emphasis on character, not gadgets. Gotham looks lived in, not art-directed.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/_/id/6164421?pageid=rs.ReviewsMovieArchive&amp;pageregion=mainRegion</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>What you get out of Batman Begins depends on what you bring to it. It is the most faithful to the origins of the comic strip and it sets up a series very different from the four made by Tim Burton and Joel Schumacher between 1989 and 1997.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/moviereviews/story/318738p-272542c.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>Nolan is a fascinating, offbeat choice for a huge movie franchise such as this. Just as Bale turns Batman into a near-tragic obsessive -- a Scarlet Pimpernel with the soul of a Hamlet and Monte Cristo -- Nolan turns Batman Begins into something much closer to Miller's "Dark Knight" interpretation.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-050609-movies-review-batman,0,5014324.story?coll=mmx-movies_top_heds</url>
+         <critic>Michael Wilmington</critic>
+      </review>
+      <review>
+         <snippet>In Batman Begins, Christian Bale gives us the best Bruce Wayne that has ever graced the screen.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=6870</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>Batman Begins is a mature take on material often relegated to the kiddie file, and it's simply the latest proof that, when treated properly, comic books are a viable art form for all ages. Bring on the sequel.</snippet>
+         <url>http://ae.miami.com/entertainment/ui/miami/movie.html?id=325798&amp;reviewId=18277</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>Best of all, there's just the pleasure of seeing something that's both fantastic to the eye and emotionally dimensional. This is how to make action movies.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?file=/c/a/2005/06/14/DDGQ4D73TK1.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>A mostly successful attempt to resuscitate a series soiled by silliness, sloppiness and Joel Schumacher.</snippet>
+         <url>http://www.msnbc.msn.com/id/8184319/site/newsweek/</url>
+         <critic>David Ansen</critic>
+      </review>
+      <review>
+         <snippet>The movie is satisfying, though -- at least by the standards of that depressing phenomenon, the superhero "franchise."</snippet>
+         <url>http://www.slate.com/id/2120893/</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>Ambitious, well made but not exactly rousing.</snippet>
+         <url>http://www.variety.com/review/VE1117927300?categoryid=31&amp;cs=1</url>
+         <critic>Todd McCarthy</critic>
+      </review>
+      <review>
+         <snippet>Batman Begins summons up moments of great eloquence and power. If only its cast of characters was as fully inhabited as its turbulent city.</snippet>
+         <url/>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>Not bad for summer jollies, au contraire, but -- "Holy Raised Bar, Batman!" -- let's pray that the next installment measures up to the sequel summits of "Spider-Man 2" and "X2."</snippet>
+         <url>http://www.premiere.com/article.asp?section_id=2&amp;article_id=2177</url>
+         <critic>Aaron Hillis</critic>
+      </review>
+      <review>
+         <snippet>All of the story is so absurdly humourless that it is dramatically inert, as if Nolan had decided the only way to make the Batman character more substantial was to put weights on his wings.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/ArticleNews/TPStory/LAC/20050614/BATMAN14/TPEntertainment/Film</url>
+         <critic>Liam Lacey</critic>
+      </review>
+      <review>
+         <snippet>The early going -- say, an hour -- is spent in a fatigued daze. A few powerful jabs eventually punch things up.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2005-06-13-batman-begins_x.htm</url>
+         <critic>Mike Clark</critic>
+      </review>
+      <review>
+         <snippet>Burton gives us SuperDude; Nolan gives us Sir Subdued.</snippet>
+         <url>http://ae.philly.com/entertainment/ui/philly/movie.html?id=325798&amp;reviewId=18275</url>
+         <critic>Carrie Rickey</critic>
+      </review>
+      <review>
+         <snippet>The result is handsome and logical, but missing the spark that would make it thrilling.</snippet>
+         <url>http://tvguide.com/Movies/database/ShowMovie.asp?MI=46074</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>Nolan and his co-screenwriter David Goyer can only press the big buttons so hard—it's still an old-school superhero summer movie, the plotting tortuous, the characters relegated to one-scene-one-emotion simplicity, the digitized action a never ending club mix of chases and mano a manos.</snippet>
+         <url>http://www.villagevoice.com/film/0524,atkinson1,64916,20.html</url>
+         <critic>Michael Atkinson</critic>
+      </review>
+      <review>
+         <snippet>Begins, at two-hours-plus, is a nonstarter.</snippet>
+         <url>http://newyorkmetro.com/nymetro/movies/reviews/11930/index1.html</url>
+         <critic>Ken Tucker</critic>
+      </review>
+      <review>
+         <snippet>The young Welsh-born actor Christian Bale is a serious fellow, but the most interesting thing about him--a glinting sense of superiority--gets erased by the dull earnestness of the screenplay, and the filmmakers haven't developed an adequate villain for him to go up against.</snippet>
+         <url>http://www.newyorker.com/critics/cinema/?050613crci_cinema</url>
+         <critic>David Denby</critic>
+      </review>
+      <review>
+         <snippet>Nolan's effort is not dishonorable, but what it needs, and doesn't have, is a Joker in the deck--some antic human antimatter to give it the giddy lift of perversity that a bunch of impersonal explosions, no matter how well managed, can't supply.</snippet>
+         <url>http://www.time.com/time/magazine/article/0,9171,1069107,00.html</url>
+         <critic>Richard Schickel</critic>
+      </review>
+      <review>
+         <snippet>Batman Begins is obvious from the get-go - and almost no fun.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-to.batman15jun15,1,3274798.story?coll=bal-movies-utility&amp;ctrack=1&amp;cset=true</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>A good as the performances are, and as dutiful as Nolan has been in preserving the Kane legacy in Batman Begins, there's something joyless about the enterprise.</snippet>
+         <url>http://www.washingtonpost.com/wp-dyn/content/article/2005/06/14/AR2005061401661.html</url>
+         <critic>Ann Hornaday</critic>
+      </review>
+      <review>
+         <snippet>There are strong turns by Michael Caine as Alfred the butler and Tom Wilkinson as a ruthless crime boss.</snippet>
+         <url>http://www.chicagoreader.com/movies/archives/2005/0605/050617.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>Delivers enough action to please Saturday-night crowds, if not the surreal wit that made the first two "Batman" movies, directed by Tim Burton, so entertaining.</snippet>
+         <url>http://www.csmonitor.com/2005/0617/p14s01-almo.html</url>
+         <critic>David Sterritt</critic>
+      </review>
+      <review>
+         <snippet>Needs much more energy and kinetic flow -- less dolor and more dolomite.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2005/06/15/batman_begins/index.html</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>Even if there were a great movie here, it would have been undermined by two lead actors who are barely even there, asked to deliver lines they can't handle: Bale, playing the Batman with clipped wings, and Katie Holmes as an assistant district attorney who doesn't have the gravitas to pass as an intern. Come back, Alicia Silverstone; all is forgiven.</snippet>
+         <url>http://dallasobserver.com/Issues/2005-06-16/film/film.html</url>
+         <critic>Robert Wilonsky</critic>
+      </review>
+   </reviews>
+   <US_Gross>$205,343,774</US_Gross>
+   <production_budget>$150,000,000</production_budget>
+   <weekend_gross>$72,896,986</weekend_gross>
+   <number_of_screens>3,858</number_of_screens>
+   <highest_grossing_actors_present/>
+   <num_highest_grossing_actors>3</num_highest_grossing_actors>
+   <highest_grossing_actor>morgan freeman</highest_grossing_actor>
+   <highest_grossing_actor>gary oldman</highest_grossing_actor>
+   <highest_grossing_actor>michael caine</highest_grossing_actor>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

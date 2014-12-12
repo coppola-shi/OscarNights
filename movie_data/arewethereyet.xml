@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Are We There Yet?</name>
+   <company>Columbia Pictures / Sony Pictures Entertainment</company>
+   <genres>
+      <genre>Comedy</genre>
+      <genre>FamilyKids</genre>
+   </genres>
+   <authors>
+      <author>Steven Gary Banks</author>
+      <author>Claudia Grazioso</author>
+      <author>J. David Stem</author>
+      <author>David N. Weiss</author>
+   </authors>
+   <directors>
+      <director>Brian Levant</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Ice Cube</actor>
+      <actor>Nia Long</actor>
+      <actor>Aleisha Allen</actor>
+      <actor>Philip Bolden</actor>
+      <actor>Jay Mohr</actor>
+      <actor>M.C. Gainey</actor>
+      <actor>C. Ernst Harth</actor>
+      <actor>Nichelle Nichols</actor>
+      <actor>Henry Simmons</actor>
+   </actors>
+   <release_date>January 21, 2005</release_date>
+   <running_time>90</running_time>
+   <rating>PG</rating>
+   <reviews>
+      <review>
+         <snippet>Won't make your day, but it won't kill it either.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-050119-movies-review-mw-thereyet.story</url>
+         <critic>Michael Wilmington</critic>
+      </review>
+      <review>
+         <snippet>Cube is cute and Long is lovely, but the youngsters are too brash and smug to bear. At least there's a heartwarming end to the excursion.</snippet>
+         <url>http://www.csmonitor.com/2005/0121/p14s01-almo.html</url>
+         <critic>David Sterritt</critic>
+      </review>
+      <review>
+         <snippet>This is not the plot of your typical Ice Cube movie. It does, however, combine the plots of at least three John Hughes movies.</snippet>
+         <url>http://ae.philly.com/entertainment/ui/philly/movie.html?id=227267&amp;reviewId=17144</url>
+         <critic>Carrie Rickey</critic>
+      </review>
+      <review>
+         <snippet>It's been a while since we saw a bad John Hughes comedy, and Are We There Yet? more than fits the bill (even though Hughes had absolutely nothing to do with it).</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1018644_1_0_,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>I would have loved to see a genuine love story involving Ice Cube, Nia Long, and the challenge of a lifelong bachelor dating a woman with children. Sad that a story like that couldn't get made, but this shrill "comedy" could.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20050120/REVIEWS/50113005</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>I can't recall ever having seen a single bad Ice Cube performance, and his utter charm even in flimsy material like this only reaffirms his gifts.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2005/01/21/there_yet/index.html</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>All the excessive slapstick and juvenile antics keep the audience from making any kind of connection with the characters and prevents Are We There Yet? from being anything more than another disposable January release.</snippet>
+         <url>http://www.filmthreat.com/Reviews.asp?Id=7032</url>
+         <critic>Pete Vonder Haar</critic>
+      </review>
+      <review>
+         <snippet>It's all a big, boring failure of slapstick and degradation.   Of course, that's not to say your kids won't like it.</snippet>
+         <url>http://dallasobserver.com/issues/2005-01-20/film/film2.html</url>
+         <critic>Melissa Levine</critic>
+      </review>
+      <review>
+         <snippet>Surely the only thing more excruciating than being trapped in a car with a bratty child is having to sit through a road-trip movie that features two of them.</snippet>
+         <url>http://www.laweekly.com/film/film_results.php?showid=3251&amp;Sumbit.x=44&amp;Sumbit.y=8</url>
+         <critic>Chuck Wilson</critic>
+      </review>
+      <review>
+         <snippet>The always charismatic Ice Cube makes Are We There Yet? watchable.</snippet>
+         <url>http://movies2.nytimes.com/2005/01/21/movies/21ther.html</url>
+         <critic>Dana Stevens</critic>
+      </review>
+      <review>
+         <snippet>Ice Cube tries his hand at family comedy in this phony story.</snippet>
+         <url>http://spacefinder.chicagoreader.com/movies/briefs/27301_ARE_WE_THERE_YET.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>Are We There Yet? traps the affable Ice Cube in a dismal kiddy slapstick saga that even his considerable charisma can do little to enhance.</snippet>
+         <url>http://www.variety.com/review/VE1117925904?categoryid=31&amp;cs=1</url>
+         <critic>Scott Foundas</critic>
+      </review>
+      <review>
+         <snippet>Levant and his screenwriting posse attempt to wring maximum hilarity from this setup, but it's just too schizoid.</snippet>
+         <url>http://www.villagevoice.com/film/0503,holcomb,60141,20.html</url>
+         <critic>Mark Holcomb</critic>
+      </review>
+      <review>
+         <snippet>Not worth the ride.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2005-01-20-are-we-there-yet_x.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>Have we such short memories that we have already forgotten last year's feeble "Johnson Family Vacation?"</snippet>
+         <url>http://www.austinchronicle.com/gbase/Calendar/Film?Film=oid%3A247383</url>
+         <critic>Marjorie Baumgarten</critic>
+      </review>
+      <review>
+         <snippet>Gets nowhere. Its star Ice Cube remains characteristically amiable, but this thuddingly miscalculated comedy is way beneath him.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-arewethere21jan21,2,5078742.story</url>
+         <critic>Kevin Thomas</critic>
+      </review>
+      <review>
+         <snippet>Runs 96 minutes but feels like so much more. There is only one gag.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1000761128</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>I started out this journey actually liking children. By the end of the movie, I wasn't so sure.</snippet>
+         <url>http://www.washingtonpost.com/wp-dyn/articles/A23759-2005Jan20.html</url>
+         <critic>Michael O&amp;#039;Sullivan</critic>
+      </review>
+      <review>
+         <snippet>The humor's a tad too raunchy for the kids, and the predictable plot won't win over any of the parents.</snippet>
+         <url>http://www.washingtonpost.com/wp-dyn/articles/A25248-2005Jan20.html</url>
+         <critic>Teresa Wiltz</critic>
+      </review>
+      <review>
+         <snippet>Uh oh, pull over, I think I'm gonna be carsick.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/ArticleNews/movie/MOVIEREVIEWS/20050121/THERE21</url>
+         <critic>Leah McLaren</critic>
+      </review>
+      <review>
+         <snippet>Will have most audiences asking, "Can we leave now?"</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-to.there21jan21,1,5125954.story?coll=bal-artslife-movies</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>This gnarly and illogical little sitcom is bound to make any adult reconsider that next outing with the kids.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=7077</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>Sour slapstick assault with a tin heart and counterfeit sentimentality.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/208703_thereyet21q.html</url>
+         <critic>Sean Axmaker</critic>
+      </review>
+      <review>
+         <snippet>The affable Ice Cube is all that makes this forced, unfunny film watchable, and, frankly, it's hard watching him waste his efforts on a movie so woefully cynical.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/moviereviews/story/273458p-234041c.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>A vulgar, grating alleged "family" comedy.</snippet>
+         <url>http://www.nypost.com/movies/38543.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>Repetitive, predictable comedy.</snippet>
+         <url>http://tvguide.com/movies/database/showmovie.asp?MI=45879</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>All too effectively conveys the claustrophobic horror of being shackled in a small space with two whiny, hateful children.</snippet>
+         <url>http://www.theavclub.com/review_pop.php?review_id=8139</url>
+         <critic>Nathan Rabin</critic>
+      </review>
+      <review>
+         <snippet>Four screenwriters are credited with this sloppy piece of work. Divide the embarrassment into quarters.</snippet>
+         <url>http://sfgate.com/cgi-bin/article.cgi?f=/c/a/2005/01/21/DDGLBAT0JA1.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+   </reviews>
+   <US_Gross>$82,674,398</US_Gross>
+   <production_budget>$20,000,000</production_budget>
+   <weekend_gross>$18,575,214</weekend_gross>
+   <number_of_screens>2,709</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

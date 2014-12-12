@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Dragonball Evolution</name>
+   <company>20th Century Fox</company>
+   <genres>
+      <genre>Action</genre>
+      <genre>Adventure</genre>
+      <genre>Fantasy</genre>
+      <genre>Scifi</genre>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>Akira Toriyama</author>
+      <author>Ben Ramsey</author>
+   </authors>
+   <directors>
+      <director>James Wong</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+      <origin>HongKong</origin>
+   </origins>
+   <actors>
+      <actor>Justin Chatwin</actor>
+      <actor>James Marsters</actor>
+      <actor>Jamie Chung</actor>
+      <actor>Emmy Rossum</actor>
+      <actor>Eriko Tamura</actor>
+      <actor>Joon Park</actor>
+      <actor>Chow Yun-Fat</actor>
+      <actor>Ernie Hudson</actor>
+   </actors>
+   <release_date>April 10, 2009</release_date>
+   <running_time>84</running_time>
+   <rating>PG</rating>
+   <reviews>
+      <review>
+         <snippet>May or may not appeal to fans of the Japanese fantasy franchise it is based on, but aficionados of apocalyptic teenybopper kung fu extravaganzas are in for a real treat.</snippet>
+         <url>http://www.nytimes.com/2009/04/11/movies/11drag.html?_r=1&amp;ref=movies</url>
+         <critic>Nathan Lee</critic>
+      </review>
+      <review>
+         <snippet>Far more entertaining than it deserves to be, unless you're a 10-year-old boy, in which case it's only the greatest movie ever made.</snippet>
+         <url>http://www.villagevoice.com/2009-04-08/film/dragonball-evolution-a-cartoonish-coming-of-ager/</url>
+         <critic>Aaron Hillis</critic>
+      </review>
+      <review>
+         <snippet>Nearly all the actors seem to be having a good time, and the action moves so fast that you don't mind when something nuts happens.</snippet>
+         <url>http://www.boston.com/ae/movies/articles/2009/04/11/a_quest_with_kicks_and_smirks/</url>
+         <critic>Joel Brown</critic>
+      </review>
+      <review>
+         <snippet>A popular Japanese manga series gets a pleasing if paint-by-numbers live-action makeover in Dragonball Evolution, which half-heartedly tries to keep the faith for its pubescent male fanbase.</snippet>
+         <url>http://www.variety.com/review/VE1117939940.html?categoryid=31&amp;cs=1&amp;query=dragonball+evolution</url>
+         <critic>Russell Edwards</critic>
+      </review>
+      <review>
+         <snippet>Marvel at the fact that something this trippy made it to our local multiplex.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20271790,00.html</url>
+         <critic>Adam Markovitz</critic>
+      </review>
+      <review>
+         <snippet>The film is crammed with treats for old-school "Dragonball" fans, from the inclusion of all these characters (who don't actually do much) to the moment when spiky-haired Goku dons his orange gi. For everyone else, this amounts to another seen-it-before, probably-willing-to-see-it-again distraction.</snippet>
+         <url>http://www.avclub.com/articles/dragonball-evolution,26511/</url>
+         <critic>Tasha Robinson</critic>
+      </review>
+      <review>
+         <snippet>Director James Wong ("Final Destination") and writer Ben Ramsey are utterly blasé in their approach to the series' mythology and structure, cobbling together an 84-minute movie that seems to exist only to rile up fanboys. On that count -- and that count alone -- Dragonball Evolution triumphs.</snippet>
+         <url>http://www.latimes.com/entertainment/la-etw-dragonball10-2009apr10,0,1504060.story</url>
+         <critic>Glenn Whipp</critic>
+      </review>
+      <review>
+         <snippet>Bottom line: costumed Goku and Chi Chi cosplayers may argue the finer points of this adaptation, but it is fairly dazzling it its own overextended, futurist-teenpulp fashion, and Chow makes a vastly more entertaining Roshi than he did a King.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A763700</url>
+         <critic>Marc Savlov</critic>
+      </review>
+      <review>
+         <snippet>Just know there's a whole lot more great stuff out there than just what Evolution has in store for you -- namely, the anime that it was based on.</snippet>
+         <url>http://movies.tvguide.com/dragonball-evolution/review/297096</url>
+         <critic>Jeremy Wheeler</critic>
+      </review>
+      <review>
+         <snippet>Completely lacking in visual, narrative or stylistic coherence, the film also suffers from cheap-looking visual effects and poorly staged and edited action sequences that will not exactly please the fanboys.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film-reviews/film-review-dragonball-evolution-1003961459.story</url>
+         <critic>Frank Scheck</critic>
+      </review>
+   </reviews>
+   <US_Gross>$9,362,785</US_Gross>
+   <weekend_gross>$4,756,488</weekend_gross>
+   <number_of_screens>2,181</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

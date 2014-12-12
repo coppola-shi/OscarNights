@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Love in the Time of Cholera</name>
+   <company>New Line Cinema</company>
+   <genres>
+      <genre>Drama</genre>
+      <genre>Romance</genre>
+   </genres>
+   <authors>
+      <author>Ronald Harwood</author>
+   </authors>
+   <directors>
+      <director>Mike Newell</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Javier Bardem</actor>
+      <actor>Giovanna Mezzogiorno</actor>
+      <actor>Benjamin Bratt</actor>
+      <actor>Catalina Sino Moreno</actor>
+      <actor>John Leguizamo</actor>
+      <actor>Laura Harring</actor>
+      <actor>Ferna Motenegro</actor>
+      <actor>Hector Elizondo</actor>
+   </actors>
+   <release_date>November 16, 2007</release_date>
+   <running_time>138</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>It’s a well-crafted, handsome period piece, and pleasant to watch, but the intensity of an obsessional style--something that matches Florentino’s crazy single-mindedness--is beyond Newell’s range. The director of “Donnie Brasco” and “Four Weddings and a Funeral” doesn’t paint with the camera; he doesn’t seize on certain visual motifs, as he should, and turn them into the equivalent of a lover’s devotion to fetishes.</snippet>
+         <url>http://www.newyorker.com/arts/critics/cinema/2007/11/19/071119crci_cinema_denby</url>
+         <critic>David Denby</critic>
+      </review>
+      <review>
+         <snippet>When characters are required to grow old over the course of a decades-spanning story, as in Love in the Time of Cholera, it's still a hit-or-miss proposition whether the combination of makeup and performance skills will convince us that a character is 40 years older than the actor.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/1195077313232330.xml&amp;coll=7</url>
+         <critic>Marc Mohan</critic>
+      </review>
+      <review>
+         <snippet>Sometimes less truly is more, and Love in the Time of Cholera is proof.</snippet>
+         <url>http://www.miamiherald.com/1054/story/308578.html</url>
+         <critic>Connie Ogle</critic>
+      </review>
+      <review>
+         <snippet>As one unfamiliar with the novel, I found it hard to tease out its meaning from this handsomely mounted, well-acted, aggressively elliptical adaptation.</snippet>
+         <url>http://www.philly.com/philly/entertainment/movies/20071116_Bringing_a_book_to_the_screen__but__perhaps__too_much_of_it.html</url>
+         <critic>Carrie Rickey</critic>
+      </review>
+      <review>
+         <snippet>"Love" would be intolerably boring were it not for the frequent injections of humor, thanks largely to Hector Elizondo as Florentino's uncle, and for Bardem's ultimately winning performance.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2007/11/16/2007-11-16_you_cant_hurry_love_in_cholera_but_come_.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>Shot on location in vibrant Cartagena, the film's strong suit is aesthetic. Cinematographer Alfonso Beato, designer Wolf Kroeger and costume designer Marit Allen evoke aged exotic locales, rugged rural settings and dimly lit period interiors. A closing, aerial image has a breathtaking, spiritual beauty.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/imdb/reviews/article_display.jsp?rid=10192&amp;vnu_special_account_code=thrsiteimdbpro</url>
+         <critic>Sura Wood</critic>
+      </review>
+      <review>
+         <snippet>This romantic drama by director Mike Newell preserves the odd playfulness of Gabriel Garcia Marquez's international best seller but sacrifices its eroticism and intricate nonlinear plotting.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/32434_LOVE_IN_THE_TIME_OF_CHOLERA.html</url>
+         <critic>Andrea Gronvall</critic>
+      </review>
+      <review>
+         <snippet>Today, the 1985 novel is the No. 1-selling paperback in North America. Sadly, the movie is a bonfire where the novel was a blaze of fireworks.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20071116.wcholera16/BNStory/Entertainment/home</url>
+         <critic>Stephen Cole</critic>
+      </review>
+      <review>
+         <snippet>Newell has done some fine work in all sorts of genres, from “Four Weddings and a Funeral” to “Harry Potter and the Goblet of Fire,” but in “Cholera” he seems to be chronicling a half-century of events, passions and desires as a tourist, not a native.</snippet>
+         <url>http://chicago.metromix.com/movies/movie_review/movie-review-love-in/251955/content</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>Newell's rendering of the iconic novel is dull and creatively off-kilter, lacking the surreal magic and robust passion of Márquez's signature magical realism style and never fully engaging the viewer.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2007-11-15-time-of-cholera_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>If you've seen "Gone With the Wind," you've seen what Love in the Time of Cholera isn't.</snippet>
+         <url>http://www.nypost.com/seven/11162007/entertainment/movies/cholera_in_need_of_doctoring_105049.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>Despite a magnificent performance by Javier Bardem, the film not only falls short of the novel's magic, but fails to generate much of its own.</snippet>
+         <url>http://www.variety.com/review/VE1117935399.html?categoryid=31&amp;cs=1</url>
+         <critic>John Anderson</critic>
+      </review>
+      <review>
+         <snippet>Newell's film arrives loaded with problems. The most superficial, but undeniably distracting, involves the way characters age at different rates and under makeup of varying believability.</snippet>
+         <url>http://www.avclub.com/content/cinema/love_in_the_time_of_cholera</url>
+         <critic>Keith Phipps</critic>
+      </review>
+      <review>
+         <snippet>More mediocre than magical.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/339832_cholera16q.html</url>
+         <critic>William Arnold</critic>
+      </review>
+      <review>
+         <snippet>Lush, extravagant, sad and touching, Love in the Time of Cholera still feels weirdly insubstantial when all the febrile passion has abated. Like a fever it breaks, passes and is forgotten.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1138074&amp;categories=Movies&amp;nm=1</url>
+         <critic>Ann Hornaday</critic>
+      </review>
+      <review>
+         <snippet>Eventually arrives at a lovely place, but it arrives limping. Small but nagging problems drag it down, such as weird acting choices, bizarre casting and strange aging makeup.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2007/11/16/DD6KTC351.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>Little of the fragile wisdom with which García Márquez imbued that idea has survived this timid Hollywood treatment.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=10284</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>That, after all these years of playing hard-to-get, the novel has made it to the screen in the form of a plodding, tone-deaf, overripe, overheated Oscar-baiting telenovela smacks of just the kind of deliciously ironic prank an 80-year-old Colombian Nobel laureate could really get behind.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-cholera16nov16,0,7697757.story?coll=cl-mreview</url>
+         <critic>Carina Chocano</critic>
+      </review>
+      <review>
+         <snippet>The movie version of Love in the Time of Cholera doesn't have the drive or the dynamism to be an artistic nightmare. It's more like a dead dream, the kind that leaves nothing more behind in the light of day than a sickly cloud.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/reviews/bal-to.cholera16nov16,0,5162816.story</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>Forget the heat of passion: The movie never breaks a sweat.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2007/11/16/cholera/</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>Is love a disease, as Marquez possibly wanted us to believe? Maybe, but in the case of this adaptation, it’s more of a laughing sickness.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=10418</url>
+         <critic>Pete Vonder Haar</critic>
+      </review>
+      <review>
+         <snippet>Faithful to the outline of the novel but emotionally and spiritually anemic, it slides into the void between art and entertainment, where well-intended would-be screen epics often land with a thud.</snippet>
+         <url>http://movies.nytimes.com/2007/11/16/movies/16chol.html?ref=movies</url>
+         <critic>Stephen Holden</critic>
+      </review>
+      <review>
+         <snippet>Is there another great modern writer so hard to translate successfully into cinema? Saul Bellow? Again, it's all in the language. The only thing Saul and Gabo have in common is the Nobel Prize. Now that's interesting.</snippet>
+         <url>http://www.rogerebert.com/apps/pbcs.dll/article?AID=/20071115/REVIEWS/711150301/1023</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>Huge in scope and beautifully shot on location in South America, this ambitious production is undone by terrible casting choices.</snippet>
+         <url>http://www.tvguide.com/movies/love-time-cholera/review/291162</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>Newell has followed up a respectable adaptation of a Harry Potter novel with an ignominious translation of something more delicate and literate. It's hard to recommend this movie to anyone except perhaps the MST3K crew.</snippet>
+         <url>http://www.reelviews.net/movies/l/love_cholera.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>Easily the worst adaptation of a major novel by a Nobel Prize–winning author. Easily.</snippet>
+         <url>http://www.villagevoice.com/film/0746,wilonsky,78327,20.html</url>
+         <critic>Robert Wilonsky</critic>
+      </review>
+      <review>
+         <snippet>Not surprisingly, it’s better to just read the book.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A560410</url>
+         <critic>Toddy Burton</critic>
+      </review>
+      <review>
+         <snippet>As for the splendid Spaniard Javier Bardem, now knocking socks off in "No Country for Old Men," his lot is worst of all. He's miscast as the romantic Florentino.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20160212,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>What doesn't work at all -- saving the worst for last -- is a ship-sinking performance by John Leguizamo as Lorenzo.</snippet>
+         <url>http://www.premiere.com/moviereviews/4261/love-in-the-time-of-cholera.html</url>
+         <critic>Ryan Stewart</critic>
+      </review>
+   </reviews>
+   <US_Gross>$4,617,608</US_Gross>
+   <production_budget>$45,000,000</production_budget>
+   <weekend_gross>$1,924,860</weekend_gross>
+   <number_of_screens>852</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

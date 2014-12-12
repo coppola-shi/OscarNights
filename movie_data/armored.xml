@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Armored</name>
+   <company>Screen Gems (Sony)</company>
+   <genres>
+      <genre>Action</genre>
+      <genre>Drama</genre>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>James V. Simpson</author>
+   </authors>
+   <directors>
+      <director>Nimrod Antal</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Matt Dillon</actor>
+      <actor>Jean Reno</actor>
+      <actor>Laurence Fishburne</actor>
+      <actor>Skeet Ulrich</actor>
+      <actor>Amaury Nolasco</actor>
+      <actor>Andre Jamal Kinney</actor>
+      <actor>Milo Ventimiglia</actor>
+      <actor>Fred Ward</actor>
+      <actor>Columbus Short</actor>
+   </actors>
+   <release_date>December 4, 2009</release_date>
+   <running_time>88</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>A solid heist flick elevated by its ensemble cast and the visual eye of Hungarian-born director Nimrod Antal ("Kontroll").</snippet>
+         <url>http://www.latimes.com/entertainment/news/la-etw-armored4-2009dec05,0,5098231.story</url>
+         <critic>Glenn Whipp</critic>
+      </review>
+      <review>
+         <snippet>A movie like Armored has been done better in the past. But it has also been done much, much worse, and Antal knows enough not to mess with the sturdy bones of the thing.</snippet>
+         <url>http://www.boston.com/ae/movies/articles/2009/12/05/heist_film_armored_is_a_no_frills_thriller/</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>An unabashed B movie: basic, brutal and sometimes clumsy, but far from dumb, and not bad at all.</snippet>
+         <url>http://movies.nytimes.com/2009/12/05/movies/05armored.html?ref=movies</url>
+         <critic>A.O. Scott</critic>
+      </review>
+      <review>
+         <snippet>Antal and his performers’ pure B-movie esprit is undeniable.</snippet>
+         <url>http://newyork.timeout.com/articles/film/81291/armored-film-review</url>
+         <critic>Keith Uhlich</critic>
+      </review>
+      <review>
+         <snippet>Director Nimrod Antal’s grungy gang-of-thieves pic is tough and, for this genre, surprisingly ethical.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2009/12/04/2009-12-04_armored_.html</url>
+         <critic>Joe Neumaier</critic>
+      </review>
+      <review>
+         <snippet>Alas, Armored is one predictable and forgettable movie that should consider itself very lucky not to have gone straight to DVD.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20324808,00.html</url>
+         <critic>Clark Collis</critic>
+      </review>
+      <review>
+         <snippet>A so-so heist-gone-awry thriller, light on the thrills, Armored doesn't exactly take its audience captive.</snippet>
+         <url>http://www.variety.com/review/VE1117941727.html?categoryid=31&amp;cs=1</url>
+         <critic>Rob Nelson</critic>
+      </review>
+      <review>
+         <snippet>An initially intriguing plot line makes a messy getaway in this throwback heist movie.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film-reviews/armored-film-review-1004051215.story</url>
+         <critic>Michael Rechtshaffen</critic>
+      </review>
+      <review>
+         <snippet>This unambitious caper flick takes a while to get moving but gradually develops a modest meat-and-potatoes appeal, compromised in the third act by a whopping and perfectly avoidable plot hole.</snippet>
+         <url>http://www.chicagoreader.com/chicago/MovieTimes?oid=977579</url>
+         <critic>Cliff Doerksen</critic>
+      </review>
+      <review>
+         <snippet>The camaraderie in the Eagle Shield Transport locker room is strained stuff, despite a capable ensemble cast that includes Matt Dillon and Larry Fishburne.</snippet>
+         <url>http://www.laweekly.com/2009-12-03/film-tv/movie-reviews-armored-brothers-everybody-39-s-fine/</url>
+         <critic>Nick Pinkerton</critic>
+      </review>
+      <review>
+         <snippet>It's hardly a classic of the genre, but then again, like Armour hot dogs: it's Comfort Food for Men.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A923164</url>
+         <critic>Marc Savlov</critic>
+      </review>
+      <review>
+         <snippet>It lacks that extra layer or two to make it interesting. The script and direction is all bones, no flesh.</snippet>
+         <url>http://www.avclub.com/articles/armored,36029/</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>A rule of thumb for characters in heist movies: If the idiots hatching the scheme swear it's "foolproof," it isn't. If they say they've got a rock-solid alibi, they don't. If they're convinced nothing could possibly go wrong, something will.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2009/12/07/DDNC1AVB8N.DTL</url>
+         <critic>Amy Biancolli</critic>
+      </review>
+   </reviews>
+   <US_Gross>$15,988,876</US_Gross>
+   <weekend_gross>$6,511,128</weekend_gross>
+   <number_of_screens>1,915</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

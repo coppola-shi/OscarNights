@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Constellation</name>
+   <company>Freestyle Releasing</company>
+   <genres>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author>Jordan Walker-Pearlman</author>
+   </authors>
+   <directors>
+      <director>Jordan Walker-Pearlman</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Billy Dee Williams</actor>
+      <actor>Gabrielle Union</actor>
+      <actor>Melissa De Sousa</actor>
+      <actor>Hill Harper</actor>
+      <actor>Zoe Saldana</actor>
+      <actor>Ever Carradine</actor>
+      <actor>Rae Dawn Chong</actor>
+      <actor>Lesley Ann Warren</actor>
+   </actors>
+   <release_date>February 2, 2007</release_date>
+   <running_time>96</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>Exceptionally strong cast is pictures beating heart.</snippet>
+         <url>http://www.variety.com/review/VE1117926485.html?categoryid=31&amp;cs=1&amp;p=0</url>
+         <critic>Robert Koehler</critic>
+      </review>
+      <review>
+         <snippet>The central story, in which Helms has to make up his mind whether to attend his sister's funeral, is too limited a conflict to hang a movie on. Ultimately, audiences will have to satisfy themselves with the collective presence of these actors and the movie's obviously good-hearted intentions.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1106214&amp;categories=Movies&amp;nm=1</url>
+         <critic>Desson Thomson</critic>
+      </review>
+      <review>
+         <snippet>Writer-director Jordan Walker-Pearlman can't adequately handle either of his tasks: The script is as sappy as the direction is awkward. Fortunately, he was smart enough to enlist a cast of pros who can ably sidestep the project's many potholes.</snippet>
+         <url>http://www.nydailynews.com/02-02-2007/entertainment/movies/story/493883p-415996c.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>There are effective scenes and powerful performances scattered among long sequences in which various members of the family gaze into space as they contemplate the burden of the past, walk aimlessly through Atlanta or have odd encounters with strangers.</snippet>
+         <url>http://tvguide.com/detail/movie.aspx?tvobjectid=286001&amp;more=ucmoviereview</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>Only Williams makes any real emotional connection: I'm not sure I'd call his performance good, but there's something fascinating about seeing the man once heralded as "the black Clark Gable" three decades removed from heartthrob status, heavy and sullen-looking, weighed down by the burdens of time and age.</snippet>
+         <url>http://www.laweekly.com/film+tv/film-reviews/film-reviews/15538/</url>
+         <critic>Scott Foundas</critic>
+      </review>
+      <review>
+         <snippet>Deeply odd films are often deeply personal ones, and Constellation, a dazed, inchoate drama about a mixed-race Alabama family, tells a story that's clearly close to the heart of writer-director Jordan Walker-Pearlman.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20010680,00.html</url>
+         <critic>Scott Brown</critic>
+      </review>
+      <review>
+         <snippet>Heavy-handedness prevails, with the schmaltzy original score as unconvincing as the script. An over-reliance on song, from pop to Puccini to Ellington to hip-hop, doesn't compensate for what's lacking in the storytelling.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?&amp;rid=8742</url>
+         <critic>Sheri Linden</critic>
+      </review>
+      <review>
+         <snippet>Walker-Pearlman's strengths lie in these characterizations and his ability to draw subtle performances from his actors. However, the powerfully understated moments are undercut by the film's unwieldy structure. Any emotional momentum that builds is lost with the interminable flashbacks.</snippet>
+         <url>http://www.calendarlive.com/printedition/calendar/cl-et-constellation2feb02,0,1753774.story</url>
+         <critic>Kevin Crust</critic>
+      </review>
+      <review>
+         <snippet>If earnestness equaled skill, Constellation would be a classic.</snippet>
+         <url>http://www.nytimes.com/2007/02/01/movies/02cons.html?ref=movies</url>
+         <critic>Matt Zoller Seitz</critic>
+      </review>
+      <review>
+         <snippet>Williams appears to be having trouble keeping his eyes open, and the audience will, too.</snippet>
+         <url>http://www.nypost.com/seven/02022007/entertainment/movies/constellation_movies_kyle_smith.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+   </reviews>
+   <US_Gross>$306,533</US_Gross>
+   <weekend_gross>$215,801</weekend_gross>
+   <number_of_screens>238</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

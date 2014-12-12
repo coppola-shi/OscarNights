@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Objective, The</name>
+   <company>IFC Films</company>
+   <genres>
+      <genre>Horror</genre>
+      <genre>Scifi</genre>
+      <genre>SuspenseThriller</genre>
+      <genre>War</genre>
+   </genres>
+   <authors>
+      <author>Mark A. Patton</author>
+      <author>Daniel Myrick</author>
+      <author>Wesley Clark</author>
+   </authors>
+   <directors>
+      <director>Daniel Myrick</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+      <origin>Morocco</origin>
+   </origins>
+   <actors>
+      <actor>Jonas Ball</actor>
+      <actor>Matt Anderson</actor>
+      <actor>Jon Huertas</actor>
+      <actor>Michael C. Williams</actor>
+      <actor>Sam Hunger</actor>
+      <actor>Jeff Prewett</actor>
+   </actors>
+   <release_date>February 6, 2009</release_date>
+   <running_time>90</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>This war-horror movie basically plays like "Blair Witch" in Afghanistan.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?rid=11026</url>
+         <critic>Frank Scheck</critic>
+      </review>
+      <review>
+         <snippet>The scenes of servicemen feel somehow false, a screenwriter's idea of military life rather than the real thing. Myrick does an admirable job of spinning tension from a group of guys mostly standing around, but too often the film's portentous tone seems more silly than suspenseful.</snippet>
+         <url>http://www.latimes.com/entertainment/news/reviews/la-et-capsules13-2009mar13,0,5014281.story</url>
+         <critic>Mark Olsen</critic>
+      </review>
+      <review>
+         <snippet>With a low-budget look, cliched dialogue, a stale plot and so-so acting, this supernatural thriller is unlikely to achieve the phenomenal success of its fabled predecessor.</snippet>
+         <url>http://www.variety.com/review/VE1117936944.html?categoryid=31&amp;cs=1&amp;query=the+objective</url>
+         <critic>Alissa Simon</critic>
+      </review>
+      <review>
+         <snippet>It plays like a disastrous Sci-Fi Channel castoff, thanks in no small part to Myrick's odd decision to include incessant voice-over narration by Ball, which plays like a really terrible in-character DVD commentary track.</snippet>
+         <url>http://www.laweekly.com/2009-03-12/film-tv/movie-reviews-miss-march-race-to-witch-mountain-sunshine-cleaning/</url>
+         <critic>Luke Y. Thompson</critic>
+      </review>
+   </reviews>
+   <US_Gross>$95</US_Gross>
+   <weekend_gross>$95</weekend_gross>
+   <number_of_screens>1</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

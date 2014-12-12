@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Aurora Borealis</name>
+   <company>Regent Releasing</company>
+   <genres>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author>Brent Boyd</author>
+   </authors>
+   <directors>
+      <director>James C.E. Burke</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Joshua Jackson</actor>
+      <actor>Donald Sutherl</actor>
+      <actor>Louise Fletcher</actor>
+      <actor>Juliette Lewis</actor>
+      <actor>Steven Pasquale</actor>
+      <actor>Zack Ward</actor>
+      <actor>Timm Sharp</actor>
+   </actors>
+   <release_date>September 15, 2006</release_date>
+   <running_time>110</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>The real surprise here is Lewis, who seems to have finally hit on a role that balances her usual flakiness with smarts and an offbeat poignancy, and she delivers the strongest work of her adult career.</snippet>
+         <url>http://tvguide.com/detail/movie.aspx?tvobjectid=281262&amp;more=ucmoviereview</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>Alternately breezy and profound, pic hits enough emotional chords to connect with audiences, which will be charmed by a newly mature Joshua Jackson, a deeply aged Donald Sutherland and a friskily romantic Juliette Lewis.</snippet>
+         <url>http://www.variety.com/review/VE1117929688?categoryid=31&amp;cs=1&amp;s=h&amp;p=0</url>
+         <critic>Robert Koehler</critic>
+      </review>
+      <review>
+         <snippet>Juliette Lewis makes Aurora Borealis into a funnier, richer, more powerful film than it has any reason to be.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2006/09/14/btm/index3.html</url>
+         <critic>Andrew O&amp;#039;Hehir</critic>
+      </review>
+      <review>
+         <snippet>Lewis, in particular, is a charmer; it's a loss that she never became an A-lister. And Jackson is, as always, earnestness itself. The movie would be a quality guilty-gloopy pleasure if it weren't so deadly overlong.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1534393_1_0_,00.html</url>
+         <critic>Gregory Kirshling</critic>
+      </review>
+      <review>
+         <snippet>The latest "Dawson's Creek" alumnus to break out of his WB bonds, Joshua Jackson proves himself all grown up in this sweetly scrappy indie.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/moviereviews/story/452639p-380724c.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>Although it is overloaded with backstory and often tries too hard, Aurora Borealis finds a reasonable balance between romance and family drama.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1002275008</url>
+         <critic>Sheri Linden</critic>
+      </review>
+      <review>
+         <snippet>Aurora Borealisulth -- yes, that title eventually comes home to roost -- doesn't offend in any way, but it's so self-consciously quaint, so unwaveringly "nice," that you nearly wish it did.</snippet>
+         <url>http://www.villagevoice.com/film/0637,foundas,74448,20.html</url>
+         <critic>Scott Foundas</critic>
+      </review>
+      <review>
+         <snippet>Most successful in capturing the emotional elements of its story, the film relies on its excellent cast to balance out sketchily drawn characters and the unfortunate obviousness of its plot.</snippet>
+         <url>http://www.calendarlive.com/movies/cl-et-aurora22sep22,0,3659523.story</url>
+         <critic>Kevin Crust</critic>
+      </review>
+      <review>
+         <snippet>True, the film doesn't need 110 minutes to tell a story this pat, but hey, in dark times, it takes longer to deliver a feel-good message.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2006/09/29/DDGFELE9JD1.DTL#flick</url>
+         <critic>Neva Chonin</critic>
+      </review>
+      <review>
+         <snippet>The script offers neither character revelations nor plot twists. It unfolds by the numbers, like the product of an amateur screenwriter's salon. Its second-hand ideas originate in movies ranging from 1960's "The Apartment" to 1997's "The Ice Storm."</snippet>
+         <url>http://seattlepi.nwsource.com/movies/287690_aurora06q.html</url>
+         <critic>Bill White</critic>
+      </review>
+      <review>
+         <snippet>An unremarkable comedy-drama.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=9305</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>The fixation of independent movies on the arrested development of bourgeois dullards may have less to do with the relevance of the topic than the class of people who get to make movies. Whatever the case, James Burke directs from a screenplay by Brent Boyd.</snippet>
+         <url>http://movies2.nytimes.com/2006/09/15/movies/15auro.html?ref=movies</url>
+         <critic>Nathan Lee</critic>
+      </review>
+      <review>
+         <snippet>Think you're depressed now? Wait till you see Aurora Borealis, which spends almost two hours watching Ronald Shorter, a suicidal old man, die.</snippet>
+         <url>http://www.nypost.com/entertainment/movies/grim_weeper_is_a_bit_too_grim_movies_v_a__musetto.htm</url>
+         <critic>V.A. Musetto</critic>
+      </review>
+   </reviews>
+   <US_Gross>$60,729</US_Gross>
+   <weekend_gross>$4,321</weekend_gross>
+   <number_of_screens>4</number_of_screens>
+   <oscar_winning_actors_present/>
+   <num_oscar_winning_actors>1</num_oscar_winning_actors>
+   <oscar_winning_actor>louise fletcher</oscar_winning_actor>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

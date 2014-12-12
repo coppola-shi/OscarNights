@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Anamorph</name>
+   <company>IFC First Take</company>
+   <genres>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>Henry Miller</author>
+      <author>Tom Phelan</author>
+   </authors>
+   <directors>
+      <director>Henry Miller</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Willem Dafoe</actor>
+      <actor>Scott Speedman</actor>
+      <actor>Peter Stormare</actor>
+      <actor>Clea DuVall</actor>
+      <actor>James Rebhorn</actor>
+      <actor>Amy Carlson</actor>
+      <actor>Yul Vazquez</actor>
+   </actors>
+   <release_date>April 18, 2008</release_date>
+   <running_time>minutes,</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>The unfortunate fact is that it's more than a little dull when it isn't preposterous.</snippet>
+         <url>http://www.tvguide.com/movies/anamorph/review/293196</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>Mr. Miller and his co-writer, Tom Phelan, manage to get under your skin largely with borrowed implements, though they receive solid support from Willem Dafoe and the resourceful veteran cinematographer Fred Murphy.</snippet>
+         <url>http://movies.nytimes.com/2008/04/18/movies/18anam.html?ref=movies</url>
+         <critic>Manohla Dargis</critic>
+      </review>
+      <review>
+         <snippet>There are undeniably arresting moments along the way, thanks to Dafoe's subtly intense performance and the well-crafted visuals.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?JSESSIONID=0v42LJdc2kyyWzfbbH0G9TcFTfPPXB4RpppvnTtNJtSGgJ8np0pG!1051653258&amp;&amp;rid=10979</url>
+         <critic>Frank Scheck</critic>
+      </review>
+      <review>
+         <snippet>Any resemblance between these and the real-world practice known as murder--committed for trifling old human motivations like blind anger and money--is strictly coincidental.</snippet>
+         <url>http://www.villagevoice.com/film/0816,tracking-1,411824,20.html</url>
+         <critic>Jim Ridley</critic>
+      </review>
+      <review>
+         <snippet>Beyond its cool, reflective surfaces and infinite plays with perspective lies nothing -- character, relationships, motives all seemingly irrelevant. Even Willem Dafoe as a haunted cop cannot ground these artfully grisly optical illusions, unconnected to any comprehensible storyline.</snippet>
+         <url>http://www.variety.com/review/VE1117936825.html?categoryid=31&amp;cs=1</url>
+         <critic>Ronnie Scheib</critic>
+      </review>
+      <review>
+         <snippet>The long shadow of David Fincher's "Seven" falls on Anamorph, a moody, ultimately unexciting thriller.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2008/04/18/2008-04-18_short_takes_more_movie_reviews.html</url>
+         <critic>Joe Neumaier</critic>
+      </review>
+      <review>
+         <snippet>A serial-killer flick told like an art lecture, Anamorph manages to be gruesome yet dull.</snippet>
+         <url>http://www.nypost.com/seven/04182008/entertainment/movies/stop__or_ill_discuss_art_106957.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>Director H.S. Miller thinks he's made something broodingly visionary when you're more likely to be aesthetically shaken up by one of Mad magazine's Fold-Ins.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-capsules2-2008may02,0,53018.story</url>
+         <critic>Michael Wilmington</critic>
+      </review>
+   </reviews>
+   <US_Gross>$6,873</US_Gross>
+   <weekend_gross>$3,120</weekend_gross>
+   <number_of_screens>1</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

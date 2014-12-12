@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Sicko</name>
+   <company>The Weinstein Company</company>
+   <genres>
+      <genre>Documentary</genre>
+   </genres>
+   <authors>
+      <author>Michael Moore</author>
+   </authors>
+   <directors>
+      <director>Michael Moore</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Michael Moore</actor>
+   </actors>
+   <release_date>June 29, 2007</release_date>
+   <running_time>113</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>Sicko will scare people, and it probably should.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2007/06/29/DDGD8QN3IQ1.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>Infuriating and funny, the film forges a disturbing diagram from the avarice and chaos of a slapdash, heartless system.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-to.sicko29jun29,0,6241236.story?coll=bal-movies-utility</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>Sicko is likely Moore's most important, most impressive, most provocative film, and it's different from his others in significant ways.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-sicko29jun29,0,258778.story?coll=cl-mreview</url>
+         <critic>Kenneth Turan</critic>
+      </review>
+      <review>
+         <snippet>Michael Moore intelligently, comically and incisively diagnoses and calls for the treatment of a sick U.S. health care system.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?JSESSIONID=vVhxGFMDHDQ7NxPmlyFShcnY8KZcG1s18L4tB15kgkZDhJXrpJhy!1659900360&amp;&amp;rid=9248</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>Though we will differ on the methods of improving the American health care system, Sicko's enduring contribution is the undeniable evidence that the system is broken. If the film brings the debate out into the open of our movie lobbies and living rooms, it can’t be long before the conversation trickles into the corridors of Congress.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A495795</url>
+         <critic>Marjorie Baumgarten</critic>
+      </review>
+      <review>
+         <snippet>Moore's most assured, least antagonistic and potentially most important film.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2007/06/19/2007-06-19_sicko_is_boffo.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>In a summer of dumb, shameless drivel, Moore delivers a movie of robust mind and heart. You'll laugh till it hurts.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/14706803/review/15039821/sicko</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>Highly entertaining and informative.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2007-06-21-sicko_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>I have only one complaint, and it is this: Every American should be as fortunate as I have been. As Moore makes clear in his film, some 50 million Americans have no insurance and no way to get it.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/section?category=RT</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>It is not a polemic but a plea.</snippet>
+         <url>http://www.philly.com/inquirer/columnists/carrie_rickey/20070629_Moores_Sicko_shows_U_S__health_care_in_critical_condition.html</url>
+         <critic>Carrie Rickey</critic>
+      </review>
+      <review>
+         <snippet>Sicko is Moore's best, most focused movie to date -- much more persuasive than the enraged and self-righteous "Fahrenheit 9/11."</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=10471</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>Barring a middle-class revolt, it's extremely unlikely that, whatever its virtues, universal healthcare could ever take hold in America. Still, I'm glad Moore made his film.</snippet>
+         <url>http://www.csmonitor.com/2007/0629/p15s01-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>With less lampooning and satirical asides, Sicko may be less "entertaining" than Moore's previous films, but it's also more affecting and effective.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/321671_sicko29q.html</url>
+         <critic>Sean Axmaker</critic>
+      </review>
+      <review>
+         <snippet>The Cuban escapade, designed to provoke, backfires when he loses focus by including Cuban firefighters in an homage to 9/11 first responders.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20044198,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>Horrifying, heart-breaking, often hilarious - Moore’s latest shock doc is a potent polemic.</snippet>
+         <url>http://www.empireonline.com/reviews/reviewcomplete.asp?FID=135029</url>
+         <critic>Simon Crook</critic>
+      </review>
+      <review>
+         <snippet>As both harangue and movie tragicomedy, Sicko is socko.</snippet>
+         <url>http://www.time.com/time/arts/article/0,8599,1623337,00.html</url>
+         <critic>Richard Corliss</critic>
+      </review>
+      <review>
+         <snippet>The movie is a great piece of populist outrage and a dangerously good comedy about a looming American tragedy.</snippet>
+         <url>http://www.laweekly.com/film+tv/film/sickos-bitter-pill/16718/</url>
+         <critic>Ella Taylor</critic>
+      </review>
+      <review>
+         <snippet>Sicko is Moore’s best film: a documentary that mixes outrage, hope, and gonzo stunts in the right proportions; that poses profound questions about the connection between health care and work.</snippet>
+         <url>http://nymag.com/movies/reviews/33977/</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>This being a Michael Moore film, the filmmaker is as enraging as the subject: His belligerent court-jester shtick wears thin fast and undermines the segments on universal health-care systems in Canada, the U.K., France and Cuba.</snippet>
+         <url>http://www.tvguide.com/detail/movie.aspx?tvobjectid=288832&amp;more=ucmoviereview</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>Sicko doesn't formulate a way out of this heartless craps game we're playing. It is, however, a very entertaining position paper, and a reminder that we should do better by more of our citizenry.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-070629-movies-review-sicko,0,5559287.story?coll=mmx-movies_top_heds</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>The problem with Sicko--one endemic to Moore documentaries in general--is that it never confronts any challenges to its position, which can make it seem like the crudest sort of agitprop.</snippet>
+         <url>http://www.avclub.com/content/cinema/sicko</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>This is a movie, not a position paper, and Moore aims to entertain as he informs.</snippet>
+         <url>http://www.premiere.com/moviereviews/3894/sicko.html</url>
+         <critic>Glenn Kenny</critic>
+      </review>
+      <review>
+         <snippet>As a documentary, this movie has the same problems as all of those in Moore's oeuvre; as a polemic or a visual op-ed piece, it's an effective piece of filmmaking.</snippet>
+         <url>http://www.reelviews.net/movies/s/sicko.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>The film contains the usual Moore plusses and minuses, now familiar to anyone who's watched even one of his films.</snippet>
+         <url>http://ae.charlotte.com/entertainment/ui/charlotte/movie.html;jsessionid=B27E293D64EF40A450402482A2AF60C1.prodapp15_ae_02?id=904556&amp;reviewId=22540&amp;startDate=06%2F29%2F2007</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>Moore's movies may not always be fully accurate in their details, but they almost always spur vital national conversation.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/118297592721000.xml&amp;coll=7</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>Sicko occasionally returns to Bush, but it doles out the smacks equally on both sides of the political spectrum (Sen. Hillary Clinton gets hers, too).</snippet>
+         <url>http://www.miamiherald.com/231/story/154186.html</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>The only country in the Western world without a universal system – is indeed Sicko. But if that social wound is gapingly obvious, so is this documentary.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20070629.wsicko29/BNStory/Entertainment/home</url>
+         <critic>Rick Groen</critic>
+      </review>
+      <review>
+         <snippet>An affecting and entertaining dissection of the American health care industry, showing how it benefits the few at the expense of the many.</snippet>
+         <url>http://www.variety.com/index.asp?layout=festivals&amp;jump=review&amp;reviewid=VE1117933678&amp;cs=1&amp;p=0</url>
+         <critic>Alissa Simon</critic>
+      </review>
+      <review>
+         <snippet>Lots of Sicko stands as boffo political theater, but its major domo lost me by losing his sense of humor.</snippet>
+         <url>http://online.wsj.com/article/SB118307125242752135.html</url>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>Though it has its share of voice-over exposition and comic stock footage, the film's real purpose is to aggregate individual health-care horror stories into a portrait of the profit-driven and (literally) inhospitable place our country has become.</snippet>
+         <url>http://www.slate.com/id/2169458/fr/flyout</url>
+         <critic>Dana Stevens</critic>
+      </review>
+      <review>
+         <snippet>There are fewer jokes this time around, and Moore makes a point of not even appearing on-screen for a good 40 minutes, putting more emphasis on his arguments and less on his comic persona.</snippet>
+         <url>http://www.chicagoreader.com/features/stories/moviereviews/2007/070629/</url>
+         <critic>Jonathan Rosenbaum</critic>
+      </review>
+      <review>
+         <snippet>It’s as a rhetorician that Moore is most original and effectively demagogic.</snippet>
+         <url>http://www.villagevoice.com/film/0726,hoberman,77031,20.html</url>
+         <critic>J. Hoberman</critic>
+      </review>
+      <review>
+         <snippet>Sicko Is flawed and occasionally stretches to make its point, but the movie's message speaks for itself.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=10124</url>
+         <critic>Pete Vonder Haar</critic>
+      </review>
+      <review>
+         <snippet>While Sicko is the most persuasive and least aggravating of all of Moore's movies, it still bears many of the frustrating Moore earmarks -- most notably, a deliberately simplistic desire to render everything in black-and-white terms, as if he didn't trust his audience enough to follow him into some of the far more complex gray areas.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2007/06/22/sicko/index.html</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>Sicko is the least controversial and most broadly appealing of Mr. Moore’s movies. (It is also, perhaps improbably, the funniest and the most tightly edited.) The argument it inspires will mainly be about the nature of the cure, and it is here that Mr. Moore’s contribution will be most provocative and also, therefore, most useful.</snippet>
+         <url>http://movies2.nytimes.com/2007/06/22/movies/22sick.html?ref=movies</url>
+         <critic>A.O. Scott</critic>
+      </review>
+      <review>
+         <snippet>The simplicity of Sicko's argument is also its power.</snippet>
+         <url>http://www.msnbc.msn.com/id/19361022/site/newsweek/</url>
+         <critic>David Ansen</critic>
+      </review>
+      <review>
+         <snippet>Ladies and gentlemen, I think we can agree on two things: The American health-care system is busted and Michael Moore is not the guy to fix it. His Sicko, an investigation and indictment of a system choking on paperwork, greed, bad policy and countervailing goals, turns out to be a fuzzy, toothless collection of anecdotes, a few stunts and a bromide-rich conclusion.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1137198&amp;categories=Movies&amp;nm=1</url>
+         <critic>Stephen Hunter</critic>
+      </review>
+      <review>
+         <snippet>Michael Moore has teased and bullied his way to some brilliant highs in his career as a political entertainer, but he scrapes bottom in his new documentary, Sicko.</snippet>
+         <url>http://www.newyorker.com/arts/critics/cinema/2007/07/02/070702crci_cinema_denby</url>
+         <critic>David Denby</critic>
+      </review>
+      <review>
+         <snippet>The silliness of Moore's oeuvre is so self-evident that being able to spot it is not liberal or conservative, either; it's a basic intelligence test, like the ability to match square peg with square hole. His documentaries are political slapstick that could have been made by a third Farrelly brother or a fourth Stooge.</snippet>
+         <url>http://www.nypost.com/seven/06192007/entertainment/movies/botched_operation_movies_kyle_smith.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+   </reviews>
+   <US_Gross>$24,538,513</US_Gross>
+   <production_budget>$9,000,000</production_budget>
+   <weekend_gross>$68,969</weekend_gross>
+   <number_of_screens>1</number_of_screens>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

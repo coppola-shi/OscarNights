@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Prom Night</name>
+   <company>Screen Gems (Sony)</company>
+   <genres>
+      <genre>Horror</genre>
+      <genre>Mystery</genre>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>J.S. Cardone</author>
+   </authors>
+   <directors>
+      <director>Nelson Mc</director>
+      <director>Cormick</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Brittany Snow</actor>
+      <actor>Scott Porter</actor>
+      <actor>Dana Davis</actor>
+      <actor>Brianne Davis</actor>
+      <actor>Collins Pennie</actor>
+      <actor>Kelly Blatz</actor>
+      <actor>James Ransone</actor>
+      <actor>Johnathon Schaech</actor>
+   </actors>
+   <release_date>April 11, 2008</release_date>
+   <running_time>88</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>A surprisingly effective teen-skewing thriller that soft-pedals graphic violence (in marked contrast to the R-rated 1980 original) while generating a fair degree of suspense.</snippet>
+         <url>http://www.variety.com/review/VE1117936781.html?categoryid=31&amp;cs=1</url>
+         <critic>Joe Leydon</critic>
+      </review>
+      <review>
+         <snippet>Formulaic to the core, this reworking of the fondly remembered high-school slasher picture works surprisingly well on its own terms.</snippet>
+         <url>http://www.tvguide.com/movies/prom-night/review/293096</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>Without the gore, this old school slasher rehash is one anemic bore.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?&amp;rid=10951</url>
+         <critic>Michael Rechtshaffen</critic>
+      </review>
+      <review>
+         <snippet>This is as listless, mindless and utterly useless a piece of corporate brain-clog as one is likely to come across for quite some time.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-prom14apr14,0,3879305.story</url>
+         <critic>Mark Olsen</critic>
+      </review>
+      <review>
+         <snippet>Despite having the same title and a similar premise to a 1980 Jamie Lee Curtis flick (kids getting slaughtered on prom night), this is NOT a remake. In fact, it really doesn't have much of a plot. It's basically "The O.C." with a body count.</snippet>
+         <url>http://www.reelviews.net/movies/p/prom_night.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>Viewers' own evenings, meanwhile, will likely be ruined by unimaginative direction, inane dialogue, and Schaech's passing resemblance to Forrest Gump.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20192064,00.html</url>
+         <critic>Clark Collis</critic>
+      </review>
+      <review>
+         <snippet>McCormick and screenwriter J.S. Cardone don’t have one original thought between them, but they do appear to share an obsession with characters opening hotel-room closets in which the steel hangers gleam ominously.</snippet>
+         <url>http://www.laweekly.com/film+tv/film-reviews/movie-reviews-bra-boys-super-high-me-alexandra/18679/?page=2</url>
+         <critic>Chuck Wilson</critic>
+      </review>
+      <review>
+         <snippet>The movie offers less gore than the average Band-Aid commercial and fewer scares than the elimination episodes of "Dancing With the Stars."</snippet>
+         <url>http://movies.nytimes.com/2008/04/12/movies/12prom.html?ref=movies</url>
+         <critic>Jeannette Catsoulis</critic>
+      </review>
+      <review>
+         <snippet>There's really nothing much to Prom Night: No twists, no atmosphere, no big Grand Guignol setpieces, not a single moment when it tries to do something novel with the event, the killings, the villain, or the victims. It's a little like going on a tour of the slaughterhouse, where death is meted out with mechanical regularity, but visitors are kept at a safe, PG-13 distance from all the butchering.</snippet>
+         <url>http://www.avclub.com/content/cinema/prom_night</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>When Jamie Lee Curtis ran from a killer in 1980's "Prom Night," she was 22 and had a unique gift for belting out fear. She was the Beverly Sills of slasher flicks. That "Prom Night" was dumb, but it wasn't insulting in the way this remake is.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=9988</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>A bland, timid and thoroughly un-thrilling teen thriller.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20080414.wprom14/BNStory/Entertainment/home</url>
+         <critic>Jason Anderson</critic>
+      </review>
+      <review>
+         <snippet>A nearly bloodless slasher film with fewer surprises than a broken jack-in-the-box.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A609746</url>
+         <critic>Marc Savlov</critic>
+      </review>
+   </reviews>
+   <US_Gross>$43,869,350</US_Gross>
+   <production_budget>$18,000,000</production_budget>
+   <weekend_gross>$20,804,941</weekend_gross>
+   <number_of_screens>2,700</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

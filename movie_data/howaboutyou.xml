@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>How About You</name>
+   <company>Strand Releasing</company>
+   <genres>
+      <genre>Comedy</genre>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author>Jean Pasley</author>
+   </authors>
+   <directors>
+      <director>Anthony Byrne</director>
+   </directors>
+   <origins>
+      <origin>Ireland</origin>
+   </origins>
+   <actors>
+      <actor>Hayley Atwell</actor>
+      <actor>Joss Ackl</actor>
+      <actor>Brenda Fricker</actor>
+      <actor>Orla Brady</actor>
+      <actor>Vanessa Redgrave</actor>
+   </actors>
+   <release_date>November 14, 2008</release_date>
+   <running_time>100</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>A bit abrupt about its mood-changing revelations and a bit sketchy about its put-out-to-pasture characters. But it's a warmly engaging romp nonetheless.</snippet>
+         <url>http://www.npr.org/templates/story/story.php?storyId=96966050</url>
+         <critic>Bob Mondello</critic>
+      </review>
+      <review>
+         <snippet>A remarkable cast for a small, non-mainstream effort.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2009/01/08/DDAK1556QR.DTL&amp;type=movies</url>
+         <critic>Walter Addiego</critic>
+      </review>
+      <review>
+         <snippet>It's all terribly sentimental without being truly terrible.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=12601</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>In the course of How About You, much champagne is consumed, pot is smoked, and a good time is had by all, the audience included. Redgrave even sings the title song.</snippet>
+         <url>http://www.nypost.com/seven/11142008/entertainment/movies/not_yet_retired_of_living_138532.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>As the reigning inhabitant, Redgrave adopts the swanning gestures of Maggie Smith in this mild adaptation of a Maeve Binchy story.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20239819,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>The only crowds this stodgy little movie is likely to please tend to be home on a Saturday night, watching PBS.</snippet>
+         <url>http://www.villagevoice.com/2008-11-12/film/how-about-you-offers-stellar-cast-to-the-saturday-night-pbs-set/</url>
+         <critic>Ella Taylor</critic>
+      </review>
+      <review>
+         <snippet>How About You is not without its moments of insight, but its emotional arc is a straight line from A to B, a path made all the more obvious by the heart-tugging score.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?rid=10793</url>
+         <critic>Sheri Linden</critic>
+      </review>
+      <review>
+         <snippet>Appeal[s] to the delicate palates of an audience that craves the movie equivalent of tea and biscuits: stiff upper lips conceal hearts of gold, and all psychological conflicts are resolved with tearful confessions of vulnerability.</snippet>
+         <url>http://movies.nytimes.com/2008/11/14/movies/14abou.html?ref=movies</url>
+         <critic>Stephen Holden</critic>
+      </review>
+      <review>
+         <snippet>Nothing in How About You is the least bit surprising; the film hits its marks with dreary precision.</snippet>
+         <url>http://www.avclub.com/content/cinema/how_about_you</url>
+         <critic>Noel Murray</critic>
+      </review>
+      <review>
+         <snippet>Comedic and sentimental beats are as predictable as the storytelling is sloppy.</snippet>
+         <url>http://www.variety.com/review/VE1117938773.html?categoryid=31&amp;cs=1&amp;query=how+about+you</url>
+         <critic>Dennis Harvey</critic>
+      </review>
+      <review>
+         <snippet>Anthony Byrne's lazy drama is insulting to just about everyone, including Maeve Binchy, who wrote the short story on which it was based. But nobody fares well, especially cast members Vanessa Redgrave, Brenda Fricker and Imelda Staunton.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2008/11/14/2008-11-14_movies_opening_this_weekend_a_christmas_.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+   </reviews>
+   <US_Gross>$77,588</US_Gross>
+   <weekend_gross>$6,022</weekend_gross>
+   <number_of_screens>1</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

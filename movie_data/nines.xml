@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Nines, The</name>
+   <company>Newmarket Films</company>
+   <genres>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author>John August</author>
+   </authors>
+   <directors>
+      <director>John August</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Ryan Reynolds</actor>
+      <actor>Hope Davis</actor>
+      <actor>Melissa McCarthy</actor>
+      <actor>Elle Fanning</actor>
+      <actor>Dahlia Salem</actor>
+   </actors>
+   <release_date>August 31, 2007</release_date>
+   <running_time>99</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>John August directs it briskly, as a gossip-era "Twilight Zone" of image and reality.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20053549,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>It's an intricate, at times incoherent, but often funny and consistently fascinating trio of stories with the same actors in different but related roles.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2007/08/31/2007-08-31_the_nines_is_a_puzzling_trio_of_playful_.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>Rather than come across as fantastic or dreamlike, the stories have a vivid, hyperreal quality to them.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-nines31aug31,0,2688185.story?coll=cl-mreview</url>
+         <critic>Carina Chocano</critic>
+      </review>
+      <review>
+         <snippet>This movie is metaphysical fun, and while some elements are predictable, it’s an engaging mystery.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=9618</url>
+         <critic>Jamie Tipps</critic>
+      </review>
+      <review>
+         <snippet>It's an overall heady conceit about image and invention, clever and fun with compelling lead performances -- especially Reynolds, who finally gets to show some chops in a career littered with Van Wilder–grade junk.</snippet>
+         <url>http://www.premiere.com/moviereviews/4039/the-nines.html</url>
+         <critic>Aaron Hillis</critic>
+      </review>
+      <review>
+         <snippet>The payoff fizzles, but the buildup is intriguing until it topples under its own weight.</snippet>
+         <url>http://www.tvguide.com/movies/nines/review/290036</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>The Nines arcs from witty Hollywood insiderdom to a climactic metaphysical leap that may leave many viewers nonplussed. Nonetheless, there's more than enough intelligence, intrigue and performance dazzle to make this an adventuresome gizmo for grownups.</snippet>
+         <url>http://www.variety.com/index.asp?layout=features2007&amp;content=jump&amp;jump=review&amp;dept=berlin&amp;nav=RBerlin&amp;articleid=VE1117932542&amp;cs=1&amp;p=0</url>
+         <critic>Dennis Harvey</critic>
+      </review>
+      <review>
+         <snippet>The movie never fails to be crisply written and cannily delivered, but it's way too steeped in TV-culture inside jokes for its own good, and August's attempts to suffuse the whole thing with ontological or theological meaning are ultimately pretty dumb.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2007/08/30/btm/index1.html</url>
+         <critic>Andrew O&amp;#039;Hehir</critic>
+      </review>
+      <review>
+         <snippet>Think of it as a kind of “Twilight Zone 2007” in which the paranoia endemic to an industry that runs on illusion, hype and extravagant grandiosity comes home to roost.</snippet>
+         <url>http://movies.nytimes.com/2007/08/31/movies/31nine.html?ref=movies</url>
+         <critic>Stephen Holden</critic>
+      </review>
+      <review>
+         <snippet>Wavers uncomfortably between satire and dime-store existentialism on the big screen. It's sort of as if Charlie Kaufman rewrote "The Fountain."</snippet>
+         <url>http://www.nypost.com/seven/08312007/entertainment/movies/3_tales__multiple_problems.htm</url>
+         <critic>V.A. Musetto</critic>
+      </review>
+      <review>
+         <snippet>The Nines is the feature-film-directing debut from screenwriter John August (Go, Big Fish), but it feels much more like some Bizarro World collaboration between Jean-Paul Sartre and Charlie Kaufman, and not in a good way, either.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A542296</url>
+         <critic>Marc Savlov</critic>
+      </review>
+      <review>
+         <snippet>It's hardly a novel idea, but at least when Kaufman, David Lynch, or Michel Gondry invites us on a tour of his chaotic subconscious, it's a fascinating place to visit. Plunging into August's gray matter is more like a season in vacation hell.</snippet>
+         <url>http://www.villagevoice.com/film/0735,foundas,77627,20.html</url>
+         <critic>Scott Foundas</critic>
+      </review>
+   </reviews>
+   <US_Gross>$63,165</US_Gross>
+   <weekend_gross>$23,617</weekend_gross>
+   <number_of_screens>2</number_of_screens>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>true</labor_release>
+</movie>

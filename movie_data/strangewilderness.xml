@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Strange Wilderness</name>
+   <company>Paramount Pictures</company>
+   <genres>
+      <genre>Comedy</genre>
+   </genres>
+   <authors>
+      <author>Peter Gaulke</author>
+      <author>Fred Wolf</author>
+   </authors>
+   <directors>
+      <director>Fred Wolf</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Steve Zahn</actor>
+      <actor>Jonah Hill</actor>
+      <actor>Allen Covert</actor>
+      <actor>Harry Hamlin</actor>
+      <actor>Robert Patrick</actor>
+      <actor>Justin Long</actor>
+      <actor>Jeff Garlin</actor>
+      <actor>Ernest Borgnine</actor>
+   </actors>
+   <release_date>February 1, 2008</release_date>
+   <running_time>87</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>Strange Wilderness has three bad comic ideas for every good joke, and it botches many of those, too, thanks to slack comic timing and a nonexistent grasp of storytelling basics. But just when the flop-sweat stench is about to become unbearable, Strange Wilderness stumbles upon an uproarious, laugh-out moment, and suddenly it's tolerable again for another few minutes.</snippet>
+         <url>http://www.avclub.com/content/cinema/strange_wilderness</url>
+         <critic>Steven Hyden</critic>
+      </review>
+      <review>
+         <snippet>This one has the feel of being penned on rolling papers, with room to spare.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A585472</url>
+         <critic>Kimberley Jones</critic>
+      </review>
+      <review>
+         <snippet>Aside from the waste of a talented cast, the only thing that really caught my attention was the tomblike silence of the audience--at least until the bong jokes started.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/32717_STRANGE_WILDERNESS.html</url>
+         <critic>Reece Pendleton</critic>
+      </review>
+      <review>
+         <snippet>By far the funniest part of Strange Wilderness is the trailer for "Harold &amp; Kumar Escape From Guantanamo Bay" that's running before it.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=10643</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>Despite the presence of funny guys such as Zahn, Garlin, Justin Long and Jonah Hill, along with veteran character actors Ernest Borgnine, Joe Don Baker and Robert Patrick, the movie fails to be even passably funny.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-strange4feb04,0,6520396.story</url>
+         <critic>Kevin Crust</critic>
+      </review>
+      <review>
+         <snippet>The result is a slacker comedy that goes slacker by the second, trying hard to be rude and crude but suggesting an old John Candy-Dan Aykroyd movie with bongs and more swearing.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?JSESSIONID=vLxpHjmNqqg6nJsCDphNvWSp5M9rhTQtM5GptNLf3WMmcnTCcdyG!1301584386&amp;&amp;rid=10589</url>
+         <critic>Michael Rechtshaffen</critic>
+      </review>
+      <review>
+         <snippet>What rankles isn’t the gross-out humor or the verbal non sequiturs, which are expected, even welcome, in this sort of movie. It’s the smug sense of entitlement -- that of intoxicated dweebs tittering endlessly and obnoxiously at their own supposed cleverness. “Harold and Kumar Go to White Castle” is the gold standard in this genre. Strange Wilderness is a counterfeit bill.</snippet>
+         <url>http://movies.nytimes.com/2008/02/02/movies/02wild.html?ref=movies</url>
+         <critic>Matt Zoller Seitz</critic>
+      </review>
+      <review>
+         <snippet>Obviously the product of minimal effort by all parties involved, Strange Wilderness is a slovenly, slapped-together stoner comedy.</snippet>
+         <url>http://www.variety.com/review/VE1117936033.html?categoryid=31&amp;cs=1</url>
+         <critic>Joe Leydon</critic>
+      </review>
+      <review>
+         <snippet>No snob to low-brow ridiculousness when it’s actually unexpected, I’ll admit to being amused exactly once, when Zahn gets deep-throated by a gigantic prop turkey who, despite the mouthful, keeps on flapping.</snippet>
+         <url>http://www.laweekly.com/film+tv/film-reviews/caramel-over-her-dead-body-tre-the-eye/18261/?page=2</url>
+         <critic>Aaron Hillis</critic>
+      </review>
+      <review>
+         <snippet>You'd have to be more than merely intoxicated to find anything about this dismal stoner comedy remotely funny. You'd have to be unconscious.</snippet>
+         <url>http://www.tvguide.com/movies/strange-wilderness/review/292202</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>The vibe isn't mellow, nor predictably, affably dumb. Rather, this is a slapdash effort whose faux-Farrelly brothers humour is papered over with an unremitting, distasteful malice, featuring a cast that's completely wasted, in both senses of the word.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20080204.wstrange05/BNStory/Entertainment/home</url>
+         <critic>Jason McBride</critic>
+      </review>
+      <review>
+         <snippet>It's a movie that manages to grow more idiotic by the scene.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=10751</url>
+         <critic>Matthew Sorrento</critic>
+      </review>
+   </reviews>
+   <US_Gross>$6,575,282</US_Gross>
+   <weekend_gross>$3,001,719</weekend_gross>
+   <number_of_screens>1,208</number_of_screens>
+   <oscar_winning_actors_present/>
+   <num_oscar_winning_actors>1</num_oscar_winning_actors>
+   <oscar_winning_actor>ernest borgnine</oscar_winning_actor>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

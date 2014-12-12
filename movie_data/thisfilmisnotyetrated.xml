@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>This Film Is Not Yet Rated</name>
+   <company>IFC Films</company>
+   <genres>
+      <genre>Documentary</genre>
+   </genres>
+   <authors>
+      <author>Kirby Dick</author>
+      <author>Eddie Schmidt</author>
+      <author>Matt Patterson</author>
+   </authors>
+   <directors>
+      <director>Kirby Dick</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Kirby Dick</actor>
+      <actor>John Waters</actor>
+      <actor>Kevin Smith</actor>
+      <actor>Matt Stone</actor>
+      <actor>Kimberly Peirce</actor>
+      <actor>Darren Aronofsky</actor>
+      <actor>Atom Egoyan</actor>
+      <actor>Maria Bello</actor>
+   </actors>
+   <release_date>September 1, 2006</release_date>
+   <running_time>97</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>It's vital that everyone who cares about film see this documentary.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=8441</url>
+         <critic>Eric Campos</critic>
+      </review>
+      <review>
+         <snippet>Funny, muckraking documentary.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/286005_limited22.html</url>
+         <critic>William Arnold</critic>
+      </review>
+      <review>
+         <snippet>Fascinating, amusing and ultimately disturbing.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/moviereviews/story/448391p-377440c.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>Kirby Dick's indispensable guerrilla attack on the film-ratings system gives Hollywood a swift, smart and hilarious kick in its institutional, hypocritical ass.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/_/id/9144789/rid/11077776/</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>It thoroughly eviscerates the MPAA and makes a solid case that the culture has paid the price for its censorious practices. His (Dick's) attacks are the equivalent of shooting ducks in a barrel, but these ducks had it coming.</snippet>
+         <url>http://www.avclub.com/content/node/52175</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>Has a bright, dishy spirit.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1483931_1_0_,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>A revealing, compelling, scabrous and funny look into a system characterized by through-the-looking-glass logic and Kremlin-style secrecy.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/115819355531350.xml&amp;coll=7</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>Remarkably entertaining.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1121190&amp;categories=Movies&amp;nm=1</url>
+         <critic>Philip Kennicott</critic>
+      </review>
+      <review>
+         <snippet>An impassioned piece of activist filmmaking that's as persuasive and entertaining as it is disturbing.</snippet>
+         <url>http://www.calendarlive.com/movies/cl-et-rated1sep01,0,1263356.story</url>
+         <critic>Carina Chocano</critic>
+      </review>
+      <review>
+         <snippet>The movie is both clever and ruthless at exposing the ratings board's inconsistencies and hypocrisy.</snippet>
+         <url>http://www.slate.com/id/2148744</url>
+         <critic>Dana Stevens</critic>
+      </review>
+      <review>
+         <snippet>Feisty, intellectually engaging.</snippet>
+         <url>http://movies2.nytimes.com/2006/09/01/movies/01rate.html?adxnnl=1&amp;ref=movies&amp;adxnnlx=1157068819-eqyeh3vjleg/84s0Rceb1Q</url>
+         <critic>Dana Stevens</critic>
+      </review>
+      <review>
+         <snippet>In the ultimate test, Kirby submits this very documentary to the tender mercies of the MPAA. It gets slapped with an NC-17 for graphic content. He appeals. He loses -- ten votes to zip.</snippet>
+         <url/>
+         <critic>Joanne Kaufman</critic>
+      </review>
+      <review>
+         <snippet>Intriguing and often hilarious.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2006/08/31/btm/index1.html</url>
+         <critic>Andrew O&amp;#039;Hehir</critic>
+      </review>
+      <review>
+         <snippet>Never really addresses why aspects of the ratings don't work, proposes concrete improvements or compares the system to those in other countries. Still, picture's bracing, hilarious and out-there elements make it a landmark.</snippet>
+         <url>http://www.variety.com/index.asp?layout=features2006&amp;content=jump&amp;jump=review&amp;head=sundance&amp;nav=RSundance&amp;articleid=VE1117929375&amp;cs=1&amp;s=h&amp;p=0</url>
+         <critic>Todd McCarthy</critic>
+      </review>
+      <review>
+         <snippet>Yet, like it or not, the MPAA ratings is a system in which we all participate – which makes this film important to see if anything is ever going to change.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A403885</url>
+         <critic>Marjorie Baumgarten</critic>
+      </review>
+      <review>
+         <snippet>Hugely entertaining catalog of MPAA follies.</snippet>
+         <url>http://ae.philly.com/entertainment/ui/philly/movie.html?id=589042&amp;reviewId=21450</url>
+         <critic>Carrie Rickey</critic>
+      </review>
+      <review>
+         <snippet>Gets under your skin as another thought-provoking wake-up call about the power of studios and the corporations that back them.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20070119.wrated19/BNStory/Entertainment/home</url>
+         <critic>Jennie Punter</critic>
+      </review>
+      <review>
+         <snippet>Ultimately, Dick subordinates scholarship to passion, which may be exactly what it takes to convince mainstream moviegoers that they should care about a system that shortchanges THEM when they go to the movies.</snippet>
+         <url>http://online.tvguide.com/newsearch/detail.aspx?tvobjectid=282554&amp;more=ucmoviereview</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>While This Film Is Not Yet Rated does not suggest an alternative to the ratings board, it does expose this Tinseltown sham to some well-deserved public ridicule.</snippet>
+         <url>http://www.nypost.com/entertainment/movies/presenting_yet_another_hollywood_farce_movies_lou_lumenick.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>The filmmaker doesn't exactly let anyone off the hook.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=8914</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>Extremely amusing.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2006/09/15/DDGSEL4J9E1.DTL&amp;type=movies</url>
+         <critic>Ruthe Stein</critic>
+      </review>
+      <review>
+         <snippet>Despite being a little rough around the edges (as is often the case with the work of maverick documentarians), This Film Is Not Yet Rated is more than just an angry diatribe against the MPAA.</snippet>
+         <url>http://www.reelviews.net/movies/t/this_film.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>There is no question that the organization is a riveting subject for a film.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2006-08-31-not-yet-rated-review_x.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>Any investigation into Hollywood inevitably mutates into a noir.</snippet>
+         <url>http://www.villagevoice.com/film/0635,hoberman,74315,20.html</url>
+         <critic>J. Hoberman</critic>
+      </review>
+      <review>
+         <snippet>Unlike the object of its scathing attention, Kirby Dick's documentary about the Motion Picture Association of America's ratings board is merry and bright and loads of fun.</snippet>
+         <url>http://www.laweekly.com/film+tv/film/this-review-has-been-approved-for-mature-audiences-only/14369/</url>
+         <critic>Ella Taylor</critic>
+      </review>
+      <review>
+         <snippet>Dick's strongest points are that these raters receive no training and are given no standards by which to judge movies. Experts in child psychology or media or social studies are not consulted. Nor are they allowed on the board. The days of counting F-words or pelvic thrusts need to end, and in the film's quieter moments, Dick makes this case compellingly.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1001919304</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>As the movie shows, the whole furtive business of ratings is indeed ridiculous and should be overhauled.</snippet>
+         <url>http://www.newyorker.com/critics/cinema/?060828crci_cinema</url>
+         <critic>Anthony Lane</critic>
+      </review>
+      <review>
+         <snippet>This Film Is Not Yet Rated has a refreshingly snotty sense of humor.</snippet>
+         <url>http://dallasobserver.com/Issues/2006-09-28/film/film.html</url>
+         <critic>Rob Nelson</critic>
+      </review>
+      <review>
+         <snippet>This Film Is Not Yet Rated performs a great service, though not especially well.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-to.rated22sep22,0,5459377.story?coll=bal-artslife-movies</url>
+         <critic>Chris Kaltenbach</critic>
+      </review>
+      <review>
+         <snippet>100 percent right about our corrupt and hypocritical industry-controlled movie ratings system. Being right, however, doesn't automatically make for a strong documentary. I enjoyed a lot of it. Yet fully half of what's on screen is beside its own point.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-060915-movies-review-rated,0,906219.story?coll=mmx-movies_top_heds</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>Raises some probing questions about the secrecy of ratings decisions in a way that entertains and educates audiences with or without agendas to protect film integrity.</snippet>
+         <url>http://www.premiere.com/article.asp?section_id=2&amp;article_id=3062</url>
+         <critic>Jared Shimizu</critic>
+      </review>
+      <review>
+         <snippet>Packed with amusing graphics, animated sequences and damning testimonies, this is a landmark denunciation of Hollywood infantilisation and protectionism.</snippet>
+         <url>http://www.empireonline.com/reviews/review.asp?FID=134542</url>
+         <critic>David Parkinson</critic>
+      </review>
+      <review>
+         <snippet>The main activity charted in the documentary is a kind of adolescent mischief, as Dick and a private investigator seek to uncover and expose the anonymous MPAA employees.</snippet>
+         <url>http://www.chicagoreader.com/features/stories/moviereviews/060915/</url>
+         <critic>Jonathan Rosenbaum</critic>
+      </review>
+   </reviews>
+   <US_Gross>$306,845</US_Gross>
+   <weekend_gross>$30,664</weekend_gross>
+   <number_of_screens>2</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>true</labor_release>
+</movie>

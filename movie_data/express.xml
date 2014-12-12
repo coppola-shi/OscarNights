@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Express, The</name>
+   <company>Universal Pictures</company>
+   <genres>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author>Robert Gallagher</author>
+      <author>Charles Leavitt</author>
+   </authors>
+   <directors>
+      <director>Gary Fleder</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Dennis Quaid</actor>
+      <actor>Rob Brown</actor>
+      <actor>Omar Benson Miller</actor>
+      <actor>Clancy Brown</actor>
+      <actor>Charles S. Dutton</actor>
+   </actors>
+   <release_date>October 10, 2008</release_date>
+   <running_time>129</running_time>
+   <rating>PG</rating>
+   <reviews>
+      <review>
+         <snippet>Rob Brown (Stop-Loss) gives a graceful, understated performance as Ernie Davis.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/critic.html#33654</url>
+         <critic>Andrea Gronvall</critic>
+      </review>
+      <review>
+         <snippet>Even if you already knew the facts, you won’' be able to help but reflect in awe at how much progress in the fight against discrimination has been made on a societal level.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=11252</url>
+         <critic>Stina Chyn</critic>
+      </review>
+      <review>
+         <snippet>While Ernie's on-field accomplishments were extraordinary, it was the environment in which he struggled to achieve them that makes him the worthy subject of a motion picture.</snippet>
+         <url>http://www.reelviews.net/php_review_template.php?identifier=1364</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>Involving and inspiring in the way a good movie about sports almost always is.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20081008/REVIEWS/810089991</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>Despite appealing performances and kinetic football scenes, the storytelling is mostly conventional.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2008-10-09-ernie-davis-express_N.htm</url>
+         <critic>Mike Clark</critic>
+      </review>
+      <review>
+         <snippet>Deserves plenty of credit for exploring racial issues story in more realistic terms.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2008/10/09/DDTH13DL4N.DTL&amp;type=movies</url>
+         <critic>Peter Hartlaub</critic>
+      </review>
+      <review>
+         <snippet>If a movie of this kind didn't traffic in overstatement, it wouldn't be doing its job, which is to provide a strong dose of simple, rousing emotion.</snippet>
+         <url>http://movies.nytimes.com/2008/10/10/movies/10expr.html?ref=movies</url>
+         <critic>A.O. Scott</critic>
+      </review>
+      <review>
+         <snippet>The Express finesses a cinematic hat trick: It's entertaining, deeply moving and genuinely important.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1145250&amp;categories=Movies</url>
+         <critic>Ann Hornaday</critic>
+      </review>
+      <review>
+         <snippet>Thanks to a rock-solid performance by Dennis Quaid, nice historical touches and energetic direction by Gary Fleder, the tried-and-true formula is given a welcome shot of adrenaline.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?rid=11722</url>
+         <critic>Michael Rechtshaffen</critic>
+      </review>
+      <review>
+         <snippet>Has Dennis Quaid really never played a college football coach before? With his handsome, craggy face and likable intensity, he was born for the job, and he's the main attraction in The Express.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20231572,00.html</url>
+         <critic>Gregory Kirschling</critic>
+      </review>
+      <review>
+         <snippet>Though The Express may stretch the limits of probability, holding up Davis as an athletic superman incapable of losing, it's also that rare sports film that isn't afraid to dabble in personal and social ambiguity.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A683554</url>
+         <critic>Josh Rosenblatt</critic>
+      </review>
+      <review>
+         <snippet>A decent football movie, just about good enough to be the 40th best episode of "Friday Night Lights" . . . which has aired 39 episodes.</snippet>
+         <url>http://www.nypost.com/seven/10102008/entertainment/movies/backfield_emotion_132905.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>Many inspirational sports movies provide only junk food for thought; this one contains some authentic reflections of sport in the civil rights era.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/reviews/bal-to.express10oct10,0,5804392.story</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>Davis led an unquestionably inspirational life, but The Express, however heartfelt, is uninspired.</snippet>
+         <url>http://movies.tvguide.com/express/review/295531</url>
+         <critic>Perry Seibert</critic>
+      </review>
+      <review>
+         <snippet>While never as trailblazing as its subject, The Express is a worthy addition to the lengthy canon of sports biopics</snippet>
+         <url>http://www.empireonline.com/reviews/review.asp?FID=135853</url>
+         <critic>William Thomas</critic>
+      </review>
+      <review>
+         <snippet>Sports biodramas generally take one of two tacks: gauzily sentimental or scrappy tale of struggle. The Express runs the thin line between the two and, to its benefit, more often than not hits the first mark.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2008/10/09/2008-10-09_dennis_quaid_and_rob_brown_go_aboard_the.html</url>
+         <critic>Joe Neumaier</critic>
+      </review>
+      <review>
+         <snippet>Crowdpleasing and oh-so-predictable.</snippet>
+         <url>http://www.variety.com/review/VE1117938515.html?categoryid=31&amp;cs=1&amp;query=the+express</url>
+         <critic>John Anderson</critic>
+      </review>
+      <review>
+         <snippet>It's a fine moral and an admirable statement, but it's the portrait of an icon rather than the story of the person thrust into that position.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/382572_express10q.html</url>
+         <critic>Sean Axmaker</critic>
+      </review>
+      <review>
+         <snippet>Maybe the real Ernie Davis really was this perfect, but the movie plays as if the filmmakers didn't want to offend his family.</snippet>
+         <url>http://www.oregonlive.com/movies/index.ssf/2008/10/movie_review_winning_one_hard.html</url>
+         <critic>M. E. Russell</critic>
+      </review>
+      <review>
+         <snippet>This movie is especially egregious since it bundles the civil rights era, garden-variety bigotry, and the achievements of Ernie Davis, the first African-American to win the Heisman Trophy.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=10551</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>Any one of these narrative components might have made for a worthy picture. But that would have taken a more imaginative writer than Charles Leavitt and a more sensitive director than Gary Fleder.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20081010.wexpress10/BNStory/Entertainment/home</url>
+         <critic>Rick Groen</critic>
+      </review>
+      <review>
+         <snippet>If one will pardon the obvious analogy, The Express ends up feeling like a fumble at the goal line, coming across as simple-minded and melodramatic.</snippet>
+         <url>http://www.latimes.com/entertainment/news/reviews/la-et-express10-2008oct10,0,3395433.story</url>
+         <critic>Mark Olsen</critic>
+      </review>
+      <review>
+         <snippet>Too often The Express sidelines its own main character in favor of the lemon-sucking, jaw-jutting glower patented by Quaid.</snippet>
+         <url>http://chicago.metromix.com/movies/movie_review/movie-review-the-express/664663/content</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>The Express eventually reaches its triumph-of-the-human-spirit climax, but it yanks too hard on the heart strings during the long journey there.</snippet>
+         <url>http://www.philly.com/philly/entertainment/movies/20081010__quot_The_Express_quot__a_schmaltzy_flick_about_a_dying_athlete.html</url>
+         <critic>David Hiltbrand</critic>
+      </review>
+      <review>
+         <snippet>Long on inspiration, short on specifics.</snippet>
+         <url>http://www.avclub.com/content/cinema/the_express</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>The Express may prove valuable to movie historians since it's a compendium of virtually every sports movie cliché ever contrived.</snippet>
+         <url>http://www.csmonitor.com/2008/1011/p25s03-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>Like all formulaic biopics, The Express sacrifices the details for the Big Picture--hagiography without the humanity.</snippet>
+         <url>http://www.villagevoice.com/2008-10-08/film/the-express-makes-a-footnote-into-a-legend/</url>
+         <critic>Robert Wilonsky</critic>
+      </review>
+   </reviews>
+   <US_Gross>$9,793,406</US_Gross>
+   <production_budget>$37,500,000</production_budget>
+   <weekend_gross>$4,562,675</weekend_gross>
+   <number_of_screens>2,808</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

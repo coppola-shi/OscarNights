@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Thank You for Smoking</name>
+   <company>Fox Searchlight Pictures</company>
+   <genres>
+      <genre>Comedy</genre>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author>Jason Reitman</author>
+      <author>Christopher Buckley</author>
+   </authors>
+   <directors>
+      <director>Jason Reitman</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Aaron Eckhart</actor>
+      <actor>Maria Bello</actor>
+      <actor>Cameron Bright</actor>
+      <actor>Adam Brody</actor>
+      <actor>Sam Elliott</actor>
+      <actor>Katie Holmes</actor>
+      <actor>William H. Macy</actor>
+      <actor>Robert Duvall</actor>
+      <actor>Rob Lowe</actor>
+   </actors>
+   <release_date>March 17, 2006</release_date>
+   <running_time>92</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>A sly, smart and very funny caricature of corporate politics and image culture.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/264928_smoking31q.html</url>
+         <critic>Sean Axmaker</critic>
+      </review>
+      <review>
+         <snippet>Funny stuff.</snippet>
+         <url>http://ae.philly.com/entertainment/ui/philly/movie.html?id=559453&amp;reviewId=20402</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>Fierce, fast and funny.</snippet>
+         <url>http://ae.charlotte.com/entertainment/ui/charlotte/movie.html?id=559453&amp;reviewId=20480&amp;startDate=04%2F07%2F2006</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>The razor-sharp satire Thank You for Smoking is the wittiest dark comedy of the year thus far. It has appeal to all sides of the political spectrum.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2006-03-16-thank-you-smoking_x.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>The first film in a long time with a true gift of gab. A lot of the time people actually talk fast in it. Its wisecracks actually crack wise.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-060324-movies-review-smoking,0,2751664.story?coll=mmx-movies_top_heds</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>Here is a satire both savage and elegant, a dagger instead of a shotgun.</snippet>
+         <url>http://www.rogerebert.com/apps/pbcs.dll/article?AID=/20060323/REVIEWS/60314009/1023</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>Both sides of the political fence will feel royally skewered. All that's lacking is a warning from the Surgeon General: This film will make you laugh till it hurts.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/_/id/7622069/rid/9440863/</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>It's more fun than a turkey shoot. It's also one of the most entertaining riffs on American culture in years.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/moviereviews/story/400520p-339078c.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>Much like his father Ivan (Ghostbusters), first-time director Jason Reitman has a broad, anything-goes comedic sensibility that allows silly gags and incidental humor to sneak in alongside the satirical barbs.</snippet>
+         <url>http://www.avclub.com/content/node/46314</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>Cynical and cheerily merciless.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1173456_1_0_,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>A very smart and funny movie directed by Jason Reitman, who also shrewdly adapted the screenplay from Christopher Buckley's savagely satiric novel.</snippet>
+         <url>http://www.calendarlive.com/movies/turan/cl-et-smoking17mar17,0,923325.story</url>
+         <critic>Kenneth Turan</critic>
+      </review>
+      <review>
+         <snippet>It's got a bust-out performance from Eckhart that's worth remembering.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/1143512732150890.xml&amp;coll=7</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>Really a blistering satire about spin and the manipulation of the media.</snippet>
+         <url>http://ae.charlotte.com/entertainment/ui/charlotte/movie.html?id=559453&amp;reviewId=20489</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>This is the kind of comedy that gives you two meaty underhanded jokes for every big obvious guffaw. It doesn't add up to much more than that, but there's no earthly reason why it ought to.</snippet>
+         <url>http://www.premiere.com/article.asp?section_id=2&amp;article_id=2675</url>
+         <critic>Glenn Kenny</critic>
+      </review>
+      <review>
+         <snippet>Eckhart is dazzling as a born phony.</snippet>
+         <url>http://online.tvguide.com/movies/database/Movie-Review.asp?MI=46774</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>Like its protagonist, the movie is smart, soulless, glib, and utterly charming -- just the thing to warm up a movie season that's been late to bloom.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=8476</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>A glib satire with a slick surface, lots of snappy patter and nothing to sell but its own cleverness.</snippet>
+         <url>http://sfgate.com/cgi-bin/article.cgi?f=/c/a/2006/03/24/DDGR9HSGIG1.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>In some ways, Thank You for Smoking does not bemoan smoking as much as it bemoans people's willingness to be duped by smooth-tongued orators.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-to.smoking24mar24,0,3500257.story?coll=bal-artslife-movies</url>
+         <critic>Chris Kaltenbach</critic>
+      </review>
+      <review>
+         <snippet>Snarky and enjoyable, but it could have been a ferocious black comedy. No Thank You For Playing It Safe.</snippet>
+         <url>http://www.csmonitor.com/2006/0317/p14s01-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>The movie is strangely demure in its attempts to be wild.</snippet>
+         <url>http://www.nypost.com/movies/65438.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>As sleek, clever and cocky as its anti-heroic protagonist, Nick Naylor (Aaron Eckhart), a hard-driving lobbyist for the tobacco industry who can turn the most unpromising PR quagmire to his own advantage with a few well-turned lies posing as rational argument.</snippet>
+         <url>http://www.laweekly.com/film/12910/huffing-and-puffing/</url>
+         <critic>Ella Taylor</critic>
+      </review>
+      <review>
+         <snippet>Of all the funny things in Thank You for Smoking, and there are many, the most striking is Robert Duvall's absolutely mirthless laugh.</snippet>
+         <url/>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>Glibly funny and eager to please.</snippet>
+         <url>http://movies2.nytimes.com/2006/03/17/movies/17smok.html</url>
+         <critic>Manohla Dargis</critic>
+      </review>
+      <review>
+         <snippet>The movie is amusing and clever but only skin deep. It lacks the acidity and rage of a satire such as "Network."</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1001096285</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>Playing a Big Tobacco lobbyist, Aaron Eckhart puts his golden news-anchor good looks and smooth conviction to better use than in any pic since his breakthrough film, "In the Company of Men."</snippet>
+         <url>http://www.variety.com/review/VE1117928152?categoryid=31&amp;cs=1</url>
+         <critic>David Rooney</critic>
+      </review>
+      <review>
+         <snippet>As the substantially faithful movie version demonstrates, the story of Thank You for Smoking resides in that libertarian netherworld where the far left and the far right march shoulder to shoulder.</snippet>
+         <url>http://www.chicagoreader.com/movies/archives/2006/0306/060324.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>Thank You for Smoking is a nifty but slight movie. Some of the writing is obvious, and the dramatic structure is flimsy, if not downright arbitrary. But Eckhart, in a sure-handed performance, holds the picture together.</snippet>
+         <url>http://www.newyorker.com/critics/cinema/?060403crci_cinema</url>
+         <critic>David Denby</critic>
+      </review>
+      <review>
+         <snippet>A slick and star-studded comedy trumpeting a glib libertarianism that talks a good game but is as woolly headed as the liberalism fixed in its sights.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/LAC.20060324.THANK24/TPStory/TPEntertainment/</url>
+         <critic>Simon Houpt</critic>
+      </review>
+      <review>
+         <snippet>Despite its many strengths, Thank You for Smoking hovers around mediocrity, and its lasting impression is like a puff of smoke that is dissipated by a strong gust of wind.</snippet>
+         <url>http://movie-reviews.colossus.net/movies/t/thank_smoking.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>To work onscreen, Thank You for Smoking needed to be fast, scruffy, and offhand. But even the good lines here last a self-congratulatory beat too long. Aaron Eckhart is likable, but he's too hangdog and naturalistic for a part that could have used a brisk young Jack Lemmon type.</snippet>
+         <url>http://nymag.com/movies/listings/rv_51548.htm</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>The film isn't as funny as the highly publicized conflict over the sell of its distribution rights might have you believe, but does contain a series of energized and entertaining performances that stop it from being a complete failure.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=8440</url>
+         <critic>Jeremy Mathews</critic>
+      </review>
+      <review>
+         <snippet>Instead of hitting the gas and allowing the scenario to rock 'n' roll with g-forces, Reitman keeps his movie small, unvaried, slack, and deliberately and oddly, completely smoke-free.</snippet>
+         <url>http://www.villagevoice.com/film/0611,atkinson,72510,20.html</url>
+         <critic>Michael Atkinson</critic>
+      </review>
+      <review>
+         <snippet>As a satire on Tobacco Inc.'s outrageous ability to market carbon monoxide as the elixir of life, this movie should be packing more nicotine.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1115743&amp;lat=200.0&amp;lon=200.0&amp;displaySearchLocation=&amp;nm=1&amp;categories=Movies</url>
+         <critic>Desson Thomson</critic>
+      </review>
+      <review>
+         <snippet>The chief problem with Thank You for Smoking, isn't that it's over the top; it's that it fits so neatly UNDER the top.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2006/03/17/smoking/index.html</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>A laudably amoral and superbly caustic comedy for those who like their satire strong and unfiltered.</snippet>
+         <url>http://www.empireonline.com/reviews/review.asp?FID=133712</url>
+         <critic>Dan Jolin</critic>
+      </review>
+      <review>
+         <snippet>For a film that's ostensibly about modern American society's love affair with addictive behavior – sex, drugs, rock &amp; roll – its bark is much worse than its bite.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A350470</url>
+         <critic>Marc Savlov</critic>
+      </review>
+   </reviews>
+   <US_Gross>$24,793,509</US_Gross>
+   <production_budget>$7,500,000</production_budget>
+   <weekend_gross>$262,923</weekend_gross>
+   <number_of_screens>5</number_of_screens>
+   <oscar_winning_actors_present/>
+   <num_oscar_winning_actors>1</num_oscar_winning_actors>
+   <oscar_winning_actor>robert duvall</oscar_winning_actor>
+   <highest_grossing_actors_present/>
+   <num_highest_grossing_actors>1</num_highest_grossing_actors>
+   <highest_grossing_actor>robert duvall</highest_grossing_actor>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

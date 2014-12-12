@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Dirty</name>
+   <company>Silver Nitrate Releasing</company>
+   <genres>
+      <genre>Crime</genre>
+      <genre>Drama</genre>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>Chris Fisher</author>
+      <author>Gil Reavill</author>
+      <author>Eric Saks</author>
+   </authors>
+   <directors>
+      <director>Chris Fisher</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Cuba Gooding Jr.</actor>
+      <actor>Clifton Collins Jr.</actor>
+      <actor>Cole Hauser</actor>
+      <actor>Wyclef Jean</actor>
+      <actor>Keith David</actor>
+      <actor>Robert LaSardo</actor>
+      <actor>Taboo</actor>
+      <actor>Wood Harris</actor>
+   </actors>
+   <release_date>February 24, 2006</release_date>
+   <running_time>97</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>The cop genre receives a shot of adrenaline in helmer Chris Fisher's Dirty, a no-nonsense dramatic response to the LAPD Rampart scandals of the '90s.</snippet>
+         <url>http://www.variety.com/review/VE1117928833?categoryid=31&amp;cs=1</url>
+         <critic>Robert Koehler</critic>
+      </review>
+      <review>
+         <snippet>Like the best pulp, though, it gets its hooks into you faster than you can start to wonder why you should possibly care about what happens to any of its despicable characters, and, before you know it, you’ve been pulled deep into its Dantean vision.</snippet>
+         <url>http://www.laweekly.com/film/12749/dirty-deeds/</url>
+         <critic>Scott Foundas</critic>
+      </review>
+      <review>
+         <snippet>When the florid speeches of volcanic rage and frustration draw to a close - and when Collins  and Gooding complete their acting exercises - we still have no clue who these men are and what sent them down their intersecting moral dark alleys.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1162017_1_0_,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>Desperate-to-shock slice of sleaze life.</snippet>
+         <url>http://online.tvguide.com/movies/database/Movie-Review.asp?MI=46758</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>As good as the leads and the supporting cast are, and as much action as gets packed into the film's relatively brief running time, none of it draws us in dramatically.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-dirty24feb24,0,6685884.story</url>
+         <critic>Kevin Crust</critic>
+      </review>
+      <review>
+         <snippet>Cuba Gooding Jr. and Clifton Collins Jr. (excellent as Perry Smith in "Capote") habitually rise above their clichéd roles.</snippet>
+         <url>http://www.villagevoice.com/film/0608,strong,72276,20.html</url>
+         <critic>Benjamin Strong</critic>
+      </review>
+      <review>
+         <snippet>"Filthy" may have been a better title for Dirty. The rough language is not just pervasive, as the MPAA's R rating describes it, it's assaultive. The violence is not merely "strong," it's incessant, sadistic and broadly unbelievable.</snippet>
+         <url>http://www.nydailynews.com/02-24-2006/entertainment/col/story/394289p-334128c.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>A facile exercise in nihilism posing as an indie "Training Day" with street cred. Don't believe it.</snippet>
+         <url>http://movies2.nytimes.com/2006/02/24/movies/24dirt.html</url>
+         <critic>Stephen Holden</critic>
+      </review>
+      <review>
+         <snippet>The production values on Dirty are so painfully amateurish that it is often hard to determine what is happening. The cinematography is murky and shaky, the editing is dull and clumsy, and the sound recording isn't exactly pristine. Not that any of this matters when you have a script where every third word is scatological.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=8668</url>
+         <critic>Phil Hall</critic>
+      </review>
+      <review>
+         <snippet>An excruciating indie knockoff of "Training Day."</snippet>
+         <url>http://www.nypost.com/movies/64087.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+   </reviews>
+   <US_Gross>$271,078</US_Gross>
+   <weekend_gross>$95,521</weekend_gross>
+   <number_of_screens>35</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

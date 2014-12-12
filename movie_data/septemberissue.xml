@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>September Issue, The</name>
+   <company>Roadside Attractions</company>
+   <genres>
+      <genre>Documentary</genre>
+   </genres>
+   <authors>
+      <author/>
+   </authors>
+   <directors>
+      <director>R.J. Cutler</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Anna Wintour</actor>
+      <actor>Grace Coddington</actor>
+      <actor>Andre Leon Talley</actor>
+      <actor>Patrick Demarchelier</actor>
+      <actor>Oscar De La Renta</actor>
+   </actors>
+   <release_date>August 28, 2009</release_date>
+   <running_time>90</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>Lusciously revealing fly-on-the-wall portrait of Anna Wintour.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20300268,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>A wonderful film, and one with vast appeal. Giving us everything we have come to expect from our fashion-centered programming and more, we are left with the sense that we have uncovered a mystery.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=11502</url>
+         <critic>Whitney Borup</critic>
+      </review>
+      <review>
+         <snippet>Filled with vivacity, charm and, yes, beauty.</snippet>
+         <url>http://blog.oregonlive.com/madaboutmovies/2009/09/review_the_september_issue_unc.html</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>A splendid study of the forces and passions behind the world’s biggest fashion magazine.</snippet>
+         <url>http://www.empireonline.com/reviews/reviewcomplete.asp?FID=136539</url>
+         <critic>Damon Wise</critic>
+      </review>
+      <review>
+         <snippet>Though most will visit R.J. Cutler's subtle, supple documentary hoping to peek beneath the formidable bangs of Vogue editor Anna Wintour, they will be disappointed: This is a movie whose ambitions range wider than the contents of her guarded psyche.</snippet>
+         <url>http://www.npr.org/templates/story/story.php?storyId=112205015</url>
+         <critic>Jeannette Catsoulis</critic>
+      </review>
+      <review>
+         <snippet>Beaded with amusing moments.</snippet>
+         <url>http://www.nypost.com/seven/08272009/entertainment/movies/all_about_anna_186708.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>What comes across is that she is, after all, a very good editor.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20090909/REVIEWS/909099995</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>As for getting close to Wintour -- or even explaining the unfathomable mystery that can be haute couture -- the film comes up empty.</snippet>
+         <url>http://www.miamiherald.com/entertainment/movies/reviews/story/1226126.html</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>Compulsively entertaining documentary.</snippet>
+         <url>http://www.philly.com/inquirer/columnists/carrie_rickey/20090911_The_yin_and_yang_of_Vogue_s_success.html</url>
+         <critic>Carrie Rickey</critic>
+      </review>
+      <review>
+         <snippet>A crisp and entertaining documentary.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2009/09/10/MV8K19KR1H.DTL&amp;type=movies</url>
+         <critic>Amy Biancolli</critic>
+      </review>
+      <review>
+         <snippet>For all its ballyhoo'd full access to Vogue's inner workings, the movie's cinéma-vérité approach feels perilously close to advertorial.</snippet>
+         <url>http://www.theglobeandmail.com/news/arts/the-september-issue/article1334396/</url>
+         <critic>Liam Lacey</critic>
+      </review>
+      <review>
+         <snippet>A subversively entertaining documentary.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/25457765/review/30065642/the_september_issue</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>While it doesn't scratch much below the surface, The September Issue is an entertainingly voyeuristic glimpse into the fashion world.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2009-09-10-september-issue_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>What the movie unfolds is how the magazine is inextricable from Wintour’s vision of it.</snippet>
+         <url>http://www.boston.com/ae/movies/articles/2009/09/11/the_september_issue_goes_behind_the_scenes_at_vogue_magazine/</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>This entertaining, glib movie is about the maintenance of a brand that Ms. Wintour has brilliantly cultivated since she assumed her place at the top of the editorial masthead in 1988 and which the documentary’s director, R. J. Cutler, has helped polish with a take so flattering he might as well work there.</snippet>
+         <url>http://movies.nytimes.com/2009/08/28/movies/28issue.html?ref=movies</url>
+         <critic>Manohla Dargis</critic>
+      </review>
+      <review>
+         <snippet>A slight, if often riveting, behind-the-scenes documentary.</snippet>
+         <url>http://www.latimes.com/entertainment/news/la-et-september11-2009sep11,0,1228083.story</url>
+         <critic>Sheri Linden</critic>
+      </review>
+      <review>
+         <snippet>When it's all over, we still don't know who Wintour really is.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2009/08/28/2009-08-28_the_september_issue_wintour.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>Consistent with her ice queen reputation, Wintour is often disconcertingly direct and frequently unfeeling, though not without a dry sense of humor.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film-reviews/film-review-the-september-issue-1003934496.story</url>
+         <critic>Justin Lowe</critic>
+      </review>
+      <review>
+         <snippet>A dishy and engrossing peek inside the fashion world’s corridors of power -- every bit as slickly packaged as the publication it seeks to uncover.</snippet>
+         <url>http://www.variety.com/review/VE1117939369.html?categoryid=31&amp;cs=1&amp;query=the+september+issue</url>
+         <critic>Justin Chang</critic>
+      </review>
+      <review>
+         <snippet>Wintour's arctic imperiousness has a way of creating the most masochistic deference, a dynamic that R.J Cutler superficially explores--and becomes prone to--in his documentary The September Issue.</snippet>
+         <url>http://www.villagevoice.com/2009-08-25/film/the-september-issue-captures-vogue-s-wintour-at-her-peak/</url>
+         <critic>Melissa Anderson</critic>
+      </review>
+      <review>
+         <snippet>Behind the gloss of Vogue, a revealing look at work, creativity and two strong women</snippet>
+         <url>http://www.salon.com/ent/movies/review/2009/08/27/september_issue/index.html</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>A fascinating, frustrating documentary.</snippet>
+         <url>http://www.avclub.com/articles/the-september-issue,32206/</url>
+         <critic>Nathan Rabin</critic>
+      </review>
+      <review>
+         <snippet>Like a time capsule from another era of journalism, The September Issue chronicles a distant past that flourished not but two years ago.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A831859</url>
+         <critic>Marjorie Baumgarten</critic>
+      </review>
+      <review>
+         <snippet>What's most conspicuously missing from this ensemble is some input from the advertisers who subsidize Wintour's tyranny, and the readers who are seduced into buying her beautiful four-pound paperweights.</snippet>
+         <url>http://www.stltoday.com/stltoday/entertainment/reviews.nsf/movie/story/99BAFEC1B0B96C528625762C00662EEB?OpenDocument</url>
+         <critic>Joe Williams</critic>
+      </review>
+      <review>
+         <snippet>The doc’s breakout star is Vogue creative director Grace Coddington, a former model whose plain appearance (the end result of a horrible car accident) and frumpy clothing belie her genius for fashion. She counters her boss every chance she can get and provides the film with a much-needed emotional center.</snippet>
+         <url>http://newyork.timeout.com/articles/film/77931/the-september-issue-film-review</url>
+         <critic>Keith Uhlich</critic>
+      </review>
+      <review>
+         <snippet>It's delicious and ensnaring and easy on the eyes, but it can't give you the definitive truth about notoriously frosty Vogue editor Anna Wintour.</snippet>
+         <url>http://www.washingtonpost.com/gog/movies/the-september-issue,1157091/critic-review.html#reviewNum1</url>
+         <critic>Ruth McCann</critic>
+      </review>
+      <review>
+         <snippet>The September Issue fixates on status and professional one-upmanship; if you want to see a movie that actually treats fashion as personal expression--in other words, art--keep a lookout for Anne Fontaine’s forthcoming biopic "Coco Before Chanel."</snippet>
+         <url>http://www.chicagoreader.com/chicago/MovieTimes?oid=1002990</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>The press notes boast that Mr. Cutler was given "unprecedented access" and the right of final cut; these advantages don't seem to have done much for this listless film.</snippet>
+         <url>http://online.wsj.com/article/film_review.html</url>
+         <critic>Joanne Kaufman</critic>
+      </review>
+   </reviews>
+   <US_Gross>$3,820,700</US_Gross>
+   <weekend_gross>$220,416</weekend_gross>
+   <number_of_screens>6</number_of_screens>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

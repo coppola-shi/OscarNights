@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Shrink</name>
+   <company>Roadside Attractions</company>
+   <genres>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author>Thomas Moffett</author>
+   </authors>
+   <directors>
+      <director>Jonas Pate</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Kevin Spacey</actor>
+      <actor>Saffron Burrows</actor>
+      <actor>Jack Huston</actor>
+      <actor>Griffin Dunne</actor>
+      <actor>Robin Williams</actor>
+      <actor>Pell James</actor>
+      <actor>Robert Loggia</actor>
+      <actor>Keke Palmer</actor>
+   </actors>
+   <release_date>July 24, 2009</release_date>
+   <running_time>110</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>Grief and suicide seem unlikely subjects for a comedy. But Shrink tries gamely to mine edgy humor from the darkest places.
+Sometimes it works. Other times, its Hollywood-centric focus feels like a re-heated cinemash of "The Wackness," "Crash" and "The Player."</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2009-07-23-shrink_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>Kevin Spacey brings another of his cynical, bitter characters to life -- very smart, and fresh out of hope -- but the movie doesn't give him much of anywhere to take it.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20090729/REVIEWS/907299993</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>Shrink offers a roster of wonderfully eccentric characterizations, shoehorned into a dramatic structure that's just a little too formulaic.</snippet>
+         <url>http://www.salon.com/ent/movies/btm/feature/2009/07/23/spacey/index.html</url>
+         <critic>Andrew O&amp;#039;Hehir</critic>
+      </review>
+      <review>
+         <snippet>The film may be too inside-baseball, with strained sympathy and contrived emotions.</snippet>
+         <url>http://www.variety.com/review/VE1117939427.html?categoryid=31&amp;cs=1&amp;query=shrink</url>
+         <critic>John Anderson</critic>
+      </review>
+      <review>
+         <snippet>You do wish Pate and writer Thomas Moffett had gone for more wit given the outlandishness of the melodrama since it would be more fun to laugh at this than take it seriously.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film-reviews/film-review-shrink-1003933835.story</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>These characters are mostly too sketchy and their connections too contrived for Shrink to jell as an incisive ensemble piece.</snippet>
+         <url>http://movies.nytimes.com/2009/07/24/movies/24shrink.html?ref=movies</url>
+         <critic>Stephen Holden</critic>
+      </review>
+      <review>
+         <snippet>Starts promisingly, but Jonas Pate directs his fine cast straight into a swamp of schmaltz as every loose thread of plot gets patly resolved.</snippet>
+         <url>http://www.nypost.com/seven/07242009/entertainment/movies/its_too_schmaltzy_in_the_final_analysis_181006.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>Shrink is no worse than the average Hollywood comedy. But it shows, more obviously than most, the bankruptcy of standard-issue American pop narrative, circa 2009.</snippet>
+         <url>http://www.washingtonpost.com/gog/movies/shrink,1157538.html</url>
+         <critic>Philip Kennicott</critic>
+      </review>
+      <review>
+         <snippet>No one knows why bad things happen to good people. But we do know why bad things happen to good film ideas. They get ruined by poor scripts and indifferent direction. The evidence desemaine– Shrink.</snippet>
+         <url>http://www.theglobeandmail.com/news/arts/shrink/article1236663/</url>
+         <critic>Michael Posner</critic>
+      </review>
+      <review>
+         <snippet>The plot relies heavily on pat betrayal, forced coincidences - and the sort of closure that lands, with a thud, in a tidy package of cliches. Yet some of the humor is delicious.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2009/07/30/MV2819138B.DTL&amp;type=movies</url>
+         <critic>Amy Biancolli</critic>
+      </review>
+      <review>
+         <snippet>The script of Shrink, written by Thomas Moffett, plays like "Crash" without the angst or the perpetual racial conflagrations.</snippet>
+         <url>http://www.chicagotribune.com/entertainment/movies/chi-tc-mov-shrink-0729-0731jul31,0,611748.story</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>Shrink is exactly like virtually all his (Spacey) post-"American Beauty" vehicles: flashy, phony, nakedly melodramatic, and full of big actorly moments disconnected from real life.</snippet>
+         <url>http://www.avclub.com/articles/shrink,30780/</url>
+         <critic>Nathan Rabin</critic>
+      </review>
+      <review>
+         <snippet>It wants to be "Good Will Hunting" set in the land of "Entourage," but its bummed-out touchy-feeliness is every bit as concocted as its overly jaded showbiz corruption.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20293056,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>Pate's eye isn't bad, but Thomas Moffett's screenplay is self-serious piffle.</snippet>
+         <url>http://www.villagevoice.com/2009-07-22/film/kevin-spacey-s-shrink-chain-smokes-pot-goes-hollywood/</url>
+         <critic>Vadim Rizov</critic>
+      </review>
+      <review>
+         <snippet>Spacey is the film's primary draw, but the cast is uniformly solid -- a crucial asset when the screenplay and direction are not.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2009/07/24/2009-07-24_short_movie_reviews_shrink_the_answer_man_and_the_english_surgeon.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>Ironically for a film revolving around psychotherapy, Shrink doesn't stand up to analysis.</snippet>
+         <url>http://www.latimes.com/entertainment/news/la-et-capsules24-2009jul24,0,512931.story</url>
+         <critic>Gary Goldstein</critic>
+      </review>
+      <review>
+         <snippet>A well-chosen cast props up this otherwise shallow story.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A820628</url>
+         <critic>Marjorie Baumgarten</critic>
+      </review>
+      <review>
+         <snippet>A pity-party of Hollywood narcissism.</snippet>
+         <url>http://www.philly.com/philly/entertainment/movies/20090731_In_Hollywood__neurosis_takes_a_starring_role.html</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>The more Shrink tries to get you invested in the emotional turmoil of its characters, the more you want to reach into the screen and shake them and tell them to get over themselves.</snippet>
+         <url>http://www.miamiherald.com/entertainment/movies/reviews/story/1163603.html</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>This movie brings to mind much better cable TV shows like the marijuana comedy "Weeds,’" the one-on-one psychodramas of "In Treatment," and the astonishingly cinematic "Breaking Bad."</snippet>
+         <url>http://www.boston.com/ae/movies/articles/2009/07/31/this_shrink_has_serious_issues/</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>Director Jonas Pate should be run through a wood chipper for daring to quote "Fargo."</snippet>
+         <url>http://www.chicagoreader.com/chicago/MovieTimes?film=1010820</url>
+         <critic>Cliff Doerksen</critic>
+      </review>
+   </reviews>
+   <US_Gross>$189,621</US_Gross>
+   <weekend_gross>$16,443</weekend_gross>
+   <number_of_screens>2</number_of_screens>
+   <oscar_winning_actors_present/>
+   <num_oscar_winning_actors>1</num_oscar_winning_actors>
+   <oscar_winning_actor>kevin spacey</oscar_winning_actor>
+   <highest_grossing_actors_present/>
+   <num_highest_grossing_actors>1</num_highest_grossing_actors>
+   <highest_grossing_actor>robin williams</highest_grossing_actor>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

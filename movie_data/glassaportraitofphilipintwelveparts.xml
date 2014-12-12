@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Glass: A Portrait of Philip in Twelve Parts</name>
+   <company>Koch Lorber Films</company>
+   <genres>
+      <genre>Documentary</genre>
+   </genres>
+   <authors>
+      <author/>
+   </authors>
+   <directors>
+      <director>Scott Hicks</director>
+   </directors>
+   <origins>
+      <origin>AustraliaUSA</origin>
+   </origins>
+   <actors>
+      <actor>Philip Glass</actor>
+      <actor>Errol Morris</actor>
+      <actor>Woody Allen</actor>
+   </actors>
+   <release_date>April 18, 2008</release_date>
+   <running_time>115</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>With his self-deprecating demeanor and easy laugh, Glass is a congenial presence, and now and then he lets an insight drop.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2008/04/20/PK8T102NHO.DTL</url>
+         <critic>Joshua Kosman</critic>
+      </review>
+      <review>
+         <snippet>As fascinating as Glass often is, it's simultaneously too conventional and not conventional enough.</snippet>
+         <url>http://www.avclub.com/content/cinema/glass_a_portrait_of_philip_in</url>
+         <critic>Noel Murray</critic>
+      </review>
+      <review>
+         <snippet>The lack of a credible external perspective beyond the narrative provided by Glass, his friends, family, and associates, makes the film feel too cozy.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=11891</url>
+         <critic>Jeremy Eichler</critic>
+      </review>
+      <review>
+         <snippet>Much like its subject: affable, quotable and emotionally guarded in the extreme.</snippet>
+         <url>http://movies.nytimes.com/2008/04/18/movies/18glas.html?ref=movies</url>
+         <critic>Jeannette Catsoulis</critic>
+      </review>
+      <review>
+         <snippet>Another superficial film about music from Scott Hicks ("Shine"), picture runs a distant second to the superior new film on John Adams and Peter Sellars, "Wonders Are Many," which really captures how a composer works.</snippet>
+         <url>http://www.variety.com/review/VE1117934931.html?categoryid=31&amp;cs=1&amp;p=0</url>
+         <critic>Robert Koehler</critic>
+      </review>
+      <review>
+         <snippet>Glass is a stupefyingly dull portrait of a man who doesn't seem to be lying when he says, "I have so few secrets."</snippet>
+         <url>http://www.villagevoice.com/film/0816,glass-a-portrait-of-philip-in-twelve-parts,411809,20.html</url>
+         <critic>Vadim Rizov</critic>
+      </review>
+   </reviews>
+   <US_Gross>$20,018</US_Gross>
+   <weekend_gross>$5,546</weekend_gross>
+   <number_of_screens>1</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

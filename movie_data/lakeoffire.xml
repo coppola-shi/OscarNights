@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Lake of Fire</name>
+   <company>THINKFilm</company>
+   <genres>
+      <genre>Documentary</genre>
+   </genres>
+   <authors>
+      <author>Tony Kaye</author>
+   </authors>
+   <directors>
+      <director>Tony Kaye</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Noam Chomsky</actor>
+      <actor>Alan M. Dershowitz</actor>
+      <actor>Rall Terry</actor>
+   </actors>
+   <release_date>October 3, 2007</release_date>
+   <running_time>152</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>If nothing else, the film puts the lie to the notion that an abortion could ever be frivolous or lightly considered. On that point, everyone in Lake Of Fire agrees, whether they acknowledge the other side or not.</snippet>
+         <url>http://www.avclub.com/content/cinema/lake_of_fire</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>An extraordinary docu achievement. Handsomely filmed on silvery 35mm and high-definition by Kaye himself, the shrewdly edited picture balances a full spectrum of views from all sides of the abortion debate without obviously taking a position itself.</snippet>
+         <url>http://www.variety.com/review/VE1117931656.html?categoryid=31&amp;cs=1&amp;p=0</url>
+         <critic>Leslie Felperin</critic>
+      </review>
+      <review>
+         <snippet>Lake of Fire centers on abortion, but Kaye understands that while dead fetuses are the hook, the agenda covers the whole life cycle.</snippet>
+         <url>http://nymag.com/listings/movie/lake-of-fire/</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>Does find a spot closer to the middle than most.</snippet>
+         <url>http://www.tvguide.com/detail/movie.aspx?tvobjectid=290844&amp;more=ucmoviereview</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>This is a brave, unflinching, sometimes virtually unwatchable documentary that makes such an effective case for both pro-choice and pro-life that it is impossible to determine which side the filmmaker, Tony Kaye, stands on. All you can conclude at the end is that both sides have effective advocates, but the pro-lifers also have some alarming people on their team.</snippet>
+         <url>http://www.rogerebert.com/apps/pbcs.dll/article?AID=/20071025/REVIEWS/710250305/1023</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>After 152 epic minutes, ‘Lake of Fire’ comes down to this: If you’re not living this woman’s life, maybe you shouldn’t tell her what to do.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=10360</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>The longer it goes on, the less your mind settles. You may not believe in a hell in which a lake of fire rages, but we live in a nation and at a time when many people have little lakes of fire in their heads and hearts. Kaye is determined that we never forget that truth or its price.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/1193293929323110.xml&amp;coll=7</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>Highly compelling, if overlong and overwrought.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2007/10/04/btm/index1.html</url>
+         <critic>Andrew O&amp;#039;Hehir</critic>
+      </review>
+      <review>
+         <snippet>You may not leave the theater having switched sides, but you'll probably respect the other side more, and that in itself would be a victory for human life.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/critic.html#32164</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>Smart, visually appealing, and consistently engaging.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/imdb/reviews/article_display.jsp?rid=1003123137&amp;vnu_special_account_code=thrsiteimdbpro</url>
+         <critic>John DeFore</critic>
+      </review>
+      <review>
+         <snippet>At once monumental and ghostly.</snippet>
+         <url>http://www.villagevoice.com/film/0740,hoberman,77941,20.html</url>
+         <critic>J. Hoberman</critic>
+      </review>
+      <review>
+         <snippet>A great abortion documentary might leave you guessing which side of the debate the director was on. Lake of Fire is not that film, but it comes somewhat close.</snippet>
+         <url>http://www.nypost.com/seven/10032007/entertainment/movies/doc_brings_abortion_controvers.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>It's impossible to watch Tony Kaye's theatrically supercharged, equal-opportunity button-pusher without experiencing a welter of emotions -- which is just what the filmmaker planned.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20132407,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>By the end of Lake of Fire, you know full well you’re in the presence of a deeply conflicted filmmaker, bound to make all sides uneasy, even enraged.</snippet>
+         <url>http://chicago.metromix.com/movies/movie_review/movie-review-lake-of/238669/content</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>One lesson of Lake of Fire is the galvanizing power of the visual image. Sometimes a picture is worth a thousand words, and sometimes pictures are not enough.</snippet>
+         <url>http://movies.nytimes.com/2007/10/03/movies/03fire.html?ref=movies</url>
+         <critic>Manohla Dargis</critic>
+      </review>
+   </reviews>
+   <US_Gross>$25,317</US_Gross>
+   <production_budget>$6,000,000</production_budget>
+   <weekend_gross>$3,779</weekend_gross>
+   <number_of_screens>1</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

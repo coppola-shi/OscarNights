@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Simpsons Movie, The</name>
+   <company>20th Century Fox</company>
+   <genres>
+      <genre>Animation</genre>
+      <genre>Comedy</genre>
+   </genres>
+   <authors>
+      <author>Matt Groening, Sam Simon</author>
+      <author>James L. Brooks</author>
+      <author>Al Jean, Ian Maxtone-Graham, George Meyer, David Mirkin, Mike Reiss</author>
+      <author>Mike Scully, Matt Selman, John Swartzwelder, Jon Vitti</author>
+   </authors>
+   <directors>
+      <director>David Silverman</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Dan Castellaneta</actor>
+      <actor>Julie Kavner</actor>
+      <actor>Nancy Cartwright</actor>
+      <actor>Yeardley Smith</actor>
+      <actor>Hank Azaria</actor>
+      <actor>Harry Shearer</actor>
+      <actor>Pamela Hayden</actor>
+      <actor>Kelsey Grammer</actor>
+   </actors>
+   <release_date>July 27, 2007</release_date>
+   <running_time>minutes,</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>The show has been the gold standard for satirical TV ever since it debuted in 1989. This long-awaited movie adaptation has plenty of laughs, plus an assortment of milestones for fans.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/critic.html#31842</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>Like "Hairspray," it's not just a spinoff but a wised-up family comedy that's spirited and inventive. It retains the farcical belligerence of the TV comedy but also heightens the series' oddball warmth and expands on its Hellzapoppin' slapstick.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-to.simpsons27jul27,0,5043202.story</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>The genius is in the writing and in keeping all gambits created by the individual writers in sync, so the piece has a tonal consistency and a narrative flow. A lost art in Hollywood? It's really one of the best movies of the year.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1133801&amp;categories=Movies&amp;nm=1</url>
+         <critic>Stephen Hunter</critic>
+      </review>
+      <review>
+         <snippet>The movie is best when it just riffs on our compacted memories of the past 18 years of episodes. Fortunately, that's most of the time.</snippet>
+         <url>http://www.csmonitor.com/2007/0727/p14s02-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>A 90-minute, years-in-the-making comic wind-up machine that begins by mocking its own audience for paying good money to see what it can watch at home for free and proceeds from there through the most wickedly funny arsenal of assaults on big government, organized religion and corporate America this side of "Borat."</snippet>
+         <url>http://www.laweekly.com/film+tv/film/the-simpsons-movie-longer-wider-deeper/16898/</url>
+         <critic>Scott Foundas</critic>
+      </review>
+      <review>
+         <snippet>The Simpsons Movie, in the end, is as good as an average episode of "The Simpsons." In other words, I’d be willing to watch it only -- excuse me while I crunch some numbers here -- 20 or 30 more times.</snippet>
+         <url>http://movies.nytimes.com/2007/07/27/movies/27simp.html?ref=movies</url>
+         <critic>A.O. Scott</critic>
+      </review>
+      <review>
+         <snippet>So, for those of you who were wondering if a great TV show could top itself at feature-film length, the good news is that The Simpsons did it! But "South Park" did it first.</snippet>
+         <url>http://www.time.com/time/arts/article/0,8599,1647331,00.html</url>
+         <critic>Richard Corliss</critic>
+      </review>
+      <review>
+         <snippet>If this is in fact merely a longer Simpsons episode, it's a damn good Simpsons episode.</snippet>
+         <url>http://www.premiere.com/moviereviews/3973/the-simpsons-movie.html</url>
+         <critic>Glenn Kenny</critic>
+      </review>
+      <review>
+         <snippet>The good news is that this is not merely a few episodes cobbled together: It's a real movie.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2007-07-25-simpsons-review_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>The result is two-tiered humor, broad enough to appeal to anybody but overlaid with jokes that will be funnier if you know the show.</snippet>
+         <url>http://ae.charlotte.com/entertainment/ui/charlotte/movie.html?id=914156&amp;reviewId=22581&amp;startDate=NEXT7</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>The best thing about this long-awaited feature-length project, a classic Simpsonian interplay of family psychology, social commentary, and brainy visual and verbal jokes tossed off at rat-a-tat speed, is how relaxed it manages to be.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20047960,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>Though it never regains the inspiration or comic density of its brilliant first 20 minutes, The Simpsons Movie keeps the laughs coming from start to finish, a feat as rare and wonderful in film as it has been through 18 years of television.</snippet>
+         <url>http://www.avclub.com/content/cinema/the_simpsons_movie</url>
+         <critic>Nathan Rabin</critic>
+      </review>
+      <review>
+         <snippet>After 18 seasons and some 400 episodes of their Fox TV series, the family created by Matt Groening, the family that put the dys in dysfunctional, makes a seamless transition from the shag carpet to the red carpet in the long-awaited Simpsons Movie.</snippet>
+         <url>http://online.wsj.com/article/SB118549118685879584.html</url>
+         <critic>Joanne Kaufman</critic>
+      </review>
+      <review>
+         <snippet>In some ways, it reminded me of the final "Seinfeld" episode. As much as I laughed throughout, I kept wondering what was with all the emotional lessons.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-simpsons27jul27,0,1091343.story?coll=cl-mreview</url>
+         <critic>Carina Chocano</critic>
+      </review>
+      <review>
+         <snippet>It's caustic, irreverent, constantly amusing and a tiny bit rude. Not a lot, though. This isn't the "Beavis and Butt-Head" or "South Park" movie. It's almost -- dare I say it -- charming.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?JSESSIONID=vYDJGmsJMvvj6hDMKS2qXmyz6MwF0tlQyrTyxzQY1CJLSL79wwSm!-473563217&amp;&amp;rid=9547</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>Put simply, if somebody had to make a "Simpsons" movie, this is pretty much what it should be -- clever, irreverent, satirical and outfitted with a larger-than-22-minutes plot, capable (just barely) of sustaining a narrative roughly four times the length of a standard episode.</snippet>
+         <url>http://www.variety.com/review/VE1117934252.html?categoryid=31&amp;cs=1</url>
+         <critic>Brian Lowry</critic>
+      </review>
+      <review>
+         <snippet>The picture works because, despite the fact that it took nearly six years for the filmmakers to bring it to the screen, it doesn't strive for greatness. It's fleet, concise and clever in a nut-ball way.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2007/07/27/simpsons/index.html</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>Nearly all of the show's minor supporting characters--Moe Szyslak, Cletus the Slack-Jawed Yokel, Hans Moleman--get to make at least an appearance, though it would have been nice to see larger speaking roles for favorites like Apu and Mr. Smithers.</snippet>
+         <url>http://www.slate.com/id/2171230/</url>
+         <critic>Dana Stevens</critic>
+      </review>
+      <review>
+         <snippet>It’s funny, it’s smart, and it pokes fun at exactly the things it should (organized religion, big business, and audience itself).</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=10186</url>
+         <critic>Pete Vonder Haar</critic>
+      </review>
+      <review>
+         <snippet>The most ingenious thing about the movie is how it plays to diehards and neophytes alike. Every Simpsons character gets at least a fleeting appearance (and occasionally, director David Silverstein uses the widescreen format to cram in as many of them into one shot as he can).</snippet>
+         <url>http://www.miamiherald.com/231/story/182690.html</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>A very funny, solidly entertaining movie that, despite its unshakable obsesion with undergarments, is as sweet as a Kwik-E-Mart Squishee.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2007/07/27/2007-07-27_homers_odyssey-3.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>The Simpsons Movie is finally here. And guess what? It's funny. But not that funny.</snippet>
+         <url>http://www.philly.com/inquirer/columnists/steven_rea/20070727_Cover__ITS_THE_SIMPSONS_MOVIE.html</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>It's amusing enough and breezy enough not to disappoint. But it never dazzles or challenges or truly delights. And that leaves me fairly certain that whatever Bart Simpson would say about it probably couldn't be printed in a family newspaper.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/1185393314110730.xml&amp;coll=7</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>On the positive side, it's still four back-to-back Simpsons episodes, which is still better than most of what either television or the movies have to offer.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20070726.wsimpsonsrevu0727/BNStory/Entertainment/home</url>
+         <critic>Liam Lacey</critic>
+      </review>
+      <review>
+         <snippet>Though it does have a handful of dirty jokes meant to earn the audience-pleasing PG-13 rating and features Marge swearing, it falls short of classic status.</snippet>
+         <url>http://www.nypost.com/seven/07252007/entertainment/movies/way_to_doh__movies_kyle_smith.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>The movie is funny, sassy and intelligent in that moronic Simpsons' way.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20070725/REVIEWS/707250301</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>No one will be bored with the feature film... but everyone who knows the show well will have a nagging feeling that something is missing.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?file=/c/a/2007/07/26/DD1BR6PSO2.DTL&amp;type=movies</url>
+         <critic>David Wiegand</critic>
+      </review>
+      <review>
+         <snippet>As much as I enjoyed the movie -- and I laughed all the way through it -- the truth is that the big screen adds nothing special to the "Simpsons" experience.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/325049_simpsons26q.html</url>
+         <critic>William Arnold</critic>
+      </review>
+      <review>
+         <snippet>The Simpsons is interested in being a family film, although this is one of those rare animated occasions when adults are the primary audience. I, for one, couldn't be happier.</snippet>
+         <url>http://www.reelviews.net/movies/s/simpsons_movie.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>Best of all, though the Simpson clan is 18 years older, they're not one bit wiser.</snippet>
+         <url>http://www.tvguide.com/movies/simpsons-movie/review/284608</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>It's hard not to like it. And in both senses of the phrase, America keeps asking for it.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-070727-movies-review-simpsons,0,5395014.story?coll=mmx-movies_top_heds</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>It’s intermittently very funny. But it doesn’t make the existential leap to the big screen, and it doesn’t have the density of gags or the lunatic free-association of the best episodes.</snippet>
+         <url>http://nymag.com/movies/reviews/35531/index1.html</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>Homer's rendition of "spider pig" is comedy gold.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A506317</url>
+         <critic>Toddy Burton</critic>
+      </review>
+      <review>
+         <snippet>Homer even jokes that it takes a sucker to pay for a show you can get for free on TV. D'oh! That hurts.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/15087184/review/15710549/simpsons_movie</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>It would be a stretch to call The Simpsons Movie more than a crisper, livelier-looking episode of the series. The change in mediums changes nothing.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=9021</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>The message is just as clear with Simpsonian antics -- if it ain't broke, don't make a movie…</snippet>
+         <url>http://www.empireonline.com/reviews/reviewcomplete.asp?FID=11196</url>
+         <critic>Ian Nathan</critic>
+      </review>
+   </reviews>
+   <US_Gross>$183,135,014</US_Gross>
+   <production_budget>$72,500,000</production_budget>
+   <weekend_gross>$74,036,787</weekend_gross>
+   <number_of_screens>3,922</number_of_screens>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

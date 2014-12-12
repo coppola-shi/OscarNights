@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Hollywood Dreams</name>
+   <company>Rainbow Releasing</company>
+   <genres>
+      <genre>Comedy</genre>
+      <genre>Drama</genre>
+      <genre>Romance</genre>
+   </genres>
+   <authors>
+      <author>Henry Jaglom</author>
+   </authors>
+   <directors>
+      <director>Henry Jaglom</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Tanna Frederick</actor>
+      <actor>Justin Kirk</actor>
+      <actor>Zack Norman</actor>
+      <actor>David Proval</actor>
+      <actor>Karen Black</actor>
+      <actor>Melissa Leo</actor>
+   </actors>
+   <release_date>May 18, 2007</release_date>
+   <running_time>101</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>Frederick is the key to the movie and she's definitely an impressive new talent, someone who can really hold the screen and who delivers something striking or memorable in every scene.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-070608-movies-review-dreams,0,946501.story?coll=mmx-movies_top_heds</url>
+         <critic>Michael Wilmington</critic>
+      </review>
+      <review>
+         <snippet>The movie buzzes with the quirky rhythms of Jaglom's patented improvisational shooting style, and those of Frederick herself, whose go-for-broke zaniness recalls that of a former Jaglom ingenue, Karen Black.</snippet>
+         <url>http://www.villagevoice.com/film/0720,foundas,76660,20.html</url>
+         <critic>Scott Foundas</critic>
+      </review>
+      <review>
+         <snippet>Jaglom's scruffy style doesn't carry it through. He puts enough toxic insincerity on screen to singe, though.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20041521,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>Once again brushing aside critical drubbings and public indifference, determined independent auteur Henry Jaglom follows up the abysmal "Let's Go Shopping" with something far better: an old-school Hollywood cautionary tale about -- what else? -- Hollywood.</snippet>
+         <url>http://www.tvguide.com/movies/hollywood-dreams/review/287522</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>A must for Jaglom fans. For other viewers, it will depend upon how much they can take of Jaglom's improvisational style and Frederick's over-the-top, tear-filled acting.</snippet>
+         <url>http://www.nypost.com/seven/05252007/entertainment/movies/to_live__die___cry__in_l_a__movies_v_a__musetto.htm</url>
+         <critic>V.A. Musetto</critic>
+      </review>
+      <review>
+         <snippet>Knowing but never jaded, Hollywood Dreams is driven by Ms. Frederick's no-boundaries commitment to her broken character, a performance that's as startling as it is touching. In Mr. Jaglom's maverick hands, the appeal of illusion over reality is both fatal and irresistible.</snippet>
+         <url>http://movies2.nytimes.com/2007/05/25/movies/25holl.html?ref=movies</url>
+         <critic>Jeannette Catsoulis</critic>
+      </review>
+      <review>
+         <snippet>It's unclear whether Frederick's an awful actress or a tremendous one pretending to be awful, but either way, it's hard to pity her nasal, pushy, babyish Iowa girl.</snippet>
+         <url>http://www.avclub.com/content/cinema/hollywood_dreams</url>
+         <critic>Tasha Robinson</critic>
+      </review>
+      <review>
+         <snippet>It's a very mixed bag. When it's good, Hollywood Dreams is corrosively funny and unexpectedly poignant. And when it's bad, it's over-the-top bad.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-dreams18may18,0,4376076.story?coll=cl-mreview</url>
+         <critic>Lael Loewenstein</critic>
+      </review>
+      <review>
+         <snippet>Though it boasts slightly more narrative structure than his other work, Jaglom's script still serves as a catalyst for wild improvisation, suggesting the inside-jokey result was more fun to make than to watch.</snippet>
+         <url>http://www.variety.com/review/VE1117932124.html?cs=1&amp;p=0</url>
+         <critic>Peter Debruge</critic>
+      </review>
+      <review>
+         <snippet>Does a number of sly things.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2007/06/01/DDGOJQ47581.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>It's not unusual for a Henry Jaglom film to fall into a black hole of narcissism, but he has outdone himself with his latest, a satire on Hollywood's unshakable self-absorption.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2007/05/25/2007-05-25_short_takes.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>Meant to be an insider's tale, but it feels like it comes from the cinema of hangers-on.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=10385</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>Jaglom's 14th consists of his usual weakly improvised relationship comedy.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/31679_HOLLYWOOD_DREAMS.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+   </reviews>
+   <US_Gross>$171,255</US_Gross>
+   <weekend_gross>$3,960</weekend_gross>
+   <number_of_screens>4</number_of_screens>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

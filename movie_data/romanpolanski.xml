@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Roman Polanski: Wanted and Desired</name>
+   <company>THINKFilm</company>
+   <genres>
+      <genre>Documentary</genre>
+   </genres>
+   <authors>
+      <author>Marina Zenovich</author>
+   </authors>
+   <directors>
+      <director>Marina Zenovich</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+      <origin>UK</origin>
+   </origins>
+   <actors>
+      <actor>Roman Polanski</actor>
+   </actors>
+   <release_date>July 11, 2008</release_date>
+   <running_time>99</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>This is a superb picture, sharp, open-minded, wised-up and cinematically accomplished.</snippet>
+         <url>http://chicago.metromix.com/movies/movie_review/movie-review-roman-polanski/519758/content</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>As an anatomy not only of Polanski's psyche but also of the legal system he confronted, it's as baroquely compelling as "The Dark Knight."</snippet>
+         <url>http://www.csmonitor.com/2008/0719/p25s03-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>A mesmerizing portrait of the director as acclaimed artist and tortured human being.</snippet>
+         <url>http://www.variety.com/index.asp?layout=festivals&amp;jump=review&amp;id=2471&amp;reviewid=VE1117935833&amp;cs=1</url>
+         <critic>Justin Chang</critic>
+      </review>
+      <review>
+         <snippet>The most significant fact of the film is that the prosecutor Gunson, a straight-laced Mormon, agrees with the defender Dalton that justice was not served.</snippet>
+         <url>http://www.rogerebert.com/apps/pbcs.dll/article?AID=/20080724/REVIEWS/694288051/1023</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>Falls short of being a great film because it lacks a certain ambition.</snippet>
+         <url>http://www.avclub.com/content/cinema/roman_polanski_wanted_and</url>
+         <critic>Noel Murray</critic>
+      </review>
+      <review>
+         <snippet>Its one-week theatrical run will make it eligible for Academy Award consideration, though given that organization's often pitiful record when it comes to nonfiction film, it seems unlikely that a movie this subtly intelligent would make its short list.</snippet>
+         <url>http://movies.nytimes.com/2008/03/31/movies/31roma.html?ref=movies</url>
+         <critic>Manohla Dargis</critic>
+      </review>
+      <review>
+         <snippet>It was a true media circus, and despite Polanski's work before and since, the film shows how it will forever be his first association in the public consciousness. In the U.S., at least.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2008/07/11/2008-07-11_short_takes_roman_polanski_wanted_and_de.html</url>
+         <critic>Joe Neumaier</critic>
+      </review>
+      <review>
+         <snippet>Engrossing and well-researched documentary.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/imdb/reviews/article_display.jsp?rid=10483&amp;vnu_special_account_code=thrsiteimdbpro</url>
+         <critic>James Greenberg</critic>
+      </review>
+      <review>
+         <snippet>The mesmerizing narrative recounts a media circus of unrivaled malignance.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/critic.html#33359</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>I wish Zenovich wasn't forced to skate surfaces when it comes to Polanski's perspective -- his interviews are vague and archival -- but she skillfully works around him to craft a maddening look at one of Hollywood's most infamous trials.</snippet>
+         <url>http://www.oregonlive.com/movies/index.ssf/2008/09/movie_review_the_true_hollywoo.html</url>
+         <critic>M. E. Russell</critic>
+      </review>
+      <review>
+         <snippet>The phrase in the title "wanted and desired" is offered by a producer friend of Polanski's who describes him as "wanted" in the United States, but "desired" in Europe, where sexual behaviour is treated more honestly and artists' dark sides are celebrated.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20080725.wroman25/BNStory/Entertainment/home</url>
+         <critic>Liam Lacey</critic>
+      </review>
+      <review>
+         <snippet>The film walks a fine line between contempt for Polanski's crimes and sympathy for his trials and his screwed-up psyche, and it manages both while showing us why he fled the U.S. rather than face the corrupted judicial circus.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/372055_limited25.html</url>
+         <critic>Sean Axmaker</critic>
+      </review>
+      <review>
+         <snippet>The film is most remarkable when it exposes the ease with which the press and a self-obsessed judge can pervert the country's justice system.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=10629</url>
+         <critic>Jeremy Mathews</critic>
+      </review>
+      <review>
+         <snippet>If you go into "Wanted and Desired" with preconceptions, prepare to feel them challenged and altered, even if they are ultimately confirmed. The facts speak loudly.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=12053</url>
+         <critic>Matthew Gilbert</critic>
+      </review>
+      <review>
+         <snippet>Lively, exasperating documentary.</snippet>
+         <url>http://www.villagevoice.com/2008-07-09/film/roman-polanski-wanted-and-desired/</url>
+         <critic>Ella Taylor</critic>
+      </review>
+      <review>
+         <snippet>With a subject like Roman Polanski, you don't really need to do much to capture audience interest. But maybe that's the reason Roman Polanski: Wanted and Desired doesn't live up to its promise.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2008/07/24/DDRT11VDGI.DTL&amp;type=movies</url>
+         <critic>David Wiegand</critic>
+      </review>
+   </reviews>
+   <US_Gross>$59,192</US_Gross>
+   <weekend_gross>$4,613</weekend_gross>
+   <number_of_screens>1</number_of_screens>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

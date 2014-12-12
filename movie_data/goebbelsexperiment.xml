@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Goebbels Experiment, The</name>
+   <company>First Run Features</company>
+   <genres>
+      <genre>Documentary</genre>
+      <genre>Foreign</genre>
+   </genres>
+   <authors>
+      <author>Lutz Hachmeister</author>
+      <author>Michael Kloft</author>
+   </authors>
+   <directors>
+      <director>Lutz Hachmeister</director>
+   </directors>
+   <origins>
+      <origin>GermanyUK</origin>
+   </origins>
+   <actors>
+      <actor>Kenneth Branagh (narrator in English)</actor>
+      <actor>Udo Samel (narrator in German)</actor>
+   </actors>
+   <release_date>August 12, 2005</release_date>
+   <running_time>107</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>A fascinating, veritable self-portrait, masterfully culled from a trove of archival materials.</snippet>
+         <url>http://www.calendarlive.com/movies/cl-et-capsules14oct14,0,6491475.story</url>
+         <critic>Kevin Thomas</critic>
+      </review>
+      <review>
+         <snippet>A rare and chilling glimpse into a brilliant but toxic mind.</snippet>
+         <url>http://movies2.nytimes.com/2005/08/12/movies/12goeb.html</url>
+         <critic>Jeannette Catsoulis</critic>
+      </review>
+      <review>
+         <snippet>Brilliantly edited for drama and irony, The Goebbels Experiment juxtaposes little-seen German propaganda films with excerpts from Goebbels' diary.</snippet>
+         <url>http://www.laweekly.com/film/film_results.php?showid=3601&amp;Sumbit.x=33&amp;Sumbit.y=13</url>
+         <critic>Ella Taylor</critic>
+      </review>
+      <review>
+         <snippet>Informative and illuminating.</snippet>
+         <url>http://www.csmonitor.com/2005/0812/p14s01-almo.html</url>
+         <critic>David Sterritt</critic>
+      </review>
+      <review>
+         <snippet>Seeing what Hitler's propaganda minister saw, hearing only his diary entries and what he heard, we effectively live inside the monster's head.</snippet>
+         <url>http://www.nypost.com/movies/51707.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>Weirdly enthralling film.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=8290</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>Would be funny if it weren't so horrifying.</snippet>
+         <url>http://online.tvguide.com/movies/database/showmovie.asp?MI=46333</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>Ultimately, the project suffers from a nearly complete lack of contextualization. We could surely use some background on Goebbels' complicity in mass genocide while listening to him brag about his beautiful, healthy children and happy family life.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/moviereviews/story/336670p-287367c.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>Mostly though, The Goebbels Experiment proves that historical figures have the worst perspective on themselves.</snippet>
+         <url>http://avclub.com/content/node/25625</url>
+         <critic>Noel Murray</critic>
+      </review>
+      <review>
+         <snippet>A man whose name has become a byword for pure evil gets a disarming makeover in The Goebbels Experiment.  Far from being the horror show expected from its title, Lutz Hachmeister's cool, almost anti-dramatic docu paints a portrait of an insecure manic-depressive solely through extracts from Joseph Goebbels' own voluminous diaries.</snippet>
+         <url>http://www.variety.com/review/VE1117926674?categoryid=31&amp;cs=1</url>
+         <critic>Derek Elley</critic>
+      </review>
+      <review>
+         <snippet>The master propagandist comes across here as a brooding, insecure megalomaniac--or at times, a bitchy member of a particularly malevolent high school clique, an effect enhanced by some of narrator Kenneth Branagh's English line readings.</snippet>
+         <url>http://www.villagevoice.com/film/0532,track5,66687,20.html</url>
+         <critic>Joshua Land</critic>
+      </review>
+   </reviews>
+   <US_Gross>$47,211</US_Gross>
+   <weekend_gross>$6,769</weekend_gross>
+   <number_of_screens>1</number_of_screens>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Electric Shadows</name>
+   <company>First Run Features</company>
+   <genres>
+      <genre>Drama</genre>
+      <genre>Foreign</genre>
+   </genres>
+   <authors>
+      <author>Cheng Qingsong</author>
+      <author>Ziao Jiang</author>
+   </authors>
+   <directors>
+      <director>Xiao Jiang</director>
+   </directors>
+   <origins>
+      <origin>China</origin>
+   </origins>
+   <actors>
+      <actor>Jiang Yihong</actor>
+      <actor>Li Haibin</actor>
+      <actor>Guan Xiaotong</actor>
+      <actor>Zhang Yijing</actor>
+      <actor>Qi Zhongyang</actor>
+      <actor>Wang Zhengjia</actor>
+      <actor>Zhang Haoqi</actor>
+      <actor>Xia Yuqing</actor>
+   </actors>
+   <release_date>December 16, 2005</release_date>
+   <running_time>93</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>Xiao's bittersweet film is superficially a swoony love letter to the cinema. But her valentine has a hidden sting, rooted in some hard truths about movie mania.</snippet>
+         <url>http://online.tvguide.com/movies/database/ShowMovie.asp?MI=46614</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>Things take several turns for the worse as the story plays out, and the film loses much of its charm. But it's a fascinating artifact, and never more so than when it features clips from Chinese and, of all things, Albanian propaganda films.</snippet>
+         <url>http://www.csmonitor.com/2005/1230/p14s02-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>The Chinese pleaser Electric Shadows belongs to a genre they don't teach in film school: Triple S, as in sweet, sappy and sentimental.</snippet>
+         <url>http://www.nypost.com/movies/59739.htm</url>
+         <critic>V.A. Musetto</critic>
+      </review>
+      <review>
+         <snippet>Plays as an enthralling but implausible Asian soap opera.</snippet>
+         <url>http://www.nytimes.com/2005/12/16/movies/16shad.html</url>
+         <critic>Stephen Holden</critic>
+      </review>
+      <review>
+         <snippet>With her debut, Xiao Jiang has created the Chinese equivalent of "Cinema Paradiso." The Beijing Film Academy graduate's confident first feature is a lovely, elegant paean to the joy and liberty that films offer as a symbol.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1000632298</url>
+         <critic>Andrew Sun</critic>
+      </review>
+      <review>
+         <snippet>A fairly conventional heartwarmer, lifted by likable performances, good-looking production values and (for movie buffs) a story centered on an outdoor cinema in rural China.</snippet>
+         <url>http://www.variety.com/review/VE1117925373?categoryid=31&amp;cs=1</url>
+         <critic>Derek Elley</critic>
+      </review>
+      <review>
+         <snippet>Electric Shadows is committed to movies-as-escape swoonery, but the script's late disasters are also predicated on cinema and filmgoing, suggesting an ambivalence the rest of the film seems oblivious to.</snippet>
+         <url>http://www.villagevoice.com/film/0550,atkinson,70909,20.html</url>
+         <critic>Michael Atkinson</critic>
+      </review>
+   </reviews>
+   <US_Gross>$7,129</US_Gross>
+   <weekend_gross>$784</weekend_gross>
+   <number_of_screens>1</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Spread</name>
+   <company>Anchor Bay Films</company>
+   <genres>
+      <genre>Comedy</genre>
+   </genres>
+   <authors>
+      <author>Jason Dean Hall</author>
+   </authors>
+   <directors>
+      <director>David Mac</director>
+      <director>Kenzie</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Ashton Kutcher</actor>
+      <actor>Anne Heche</actor>
+      <actor>Margarita Levieva</actor>
+      <actor>Sebastian Stan</actor>
+      <actor>Rachel Blanchard</actor>
+      <actor>Sonia Rockwell</actor>
+   </actors>
+   <release_date>August 14, 2009</release_date>
+   <running_time>97</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>Mackenzie delivers that story as a blend of sex comedy, dark satire, and morality tale that recalls various aspects of "Shampoo" and "Less Than Zero" and "The Graduate," but has a couple of nifty surprises and a poisonous sting in its tail that's all its own.</snippet>
+         <url>http://www.salon.com/ent/movies/btm/feature/2009/08/13/spread/index.html</url>
+         <critic>Andrew O&amp;#039;Hehir</critic>
+      </review>
+      <review>
+         <snippet>Props to Kutcher for going to surprising, painful places. There's something haunted in his portrayal that hits hard and sticks.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/25457787/review/29554761/spread</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>Kutcher gives a surprisingly proficient performance as does Heche who is the shining star of the film.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=11520</url>
+         <critic>Scott Knopf</critic>
+      </review>
+      <review>
+         <snippet>One of the best things about this film is that ultimately nobody in it is attractive.</snippet>
+         <url>http://www.theglobeandmail.com/news/arts/spread/article1250849/</url>
+         <critic>James Bradshaw</critic>
+      </review>
+      <review>
+         <snippet>If only Spread were half as entertaining as a Van Halen video.</snippet>
+         <url>http://www.latimes.com/entertainment/news/la-et-spread14-2009aug14,0,7163129.story</url>
+         <critic>Glenn Whipp</critic>
+      </review>
+      <review>
+         <snippet>More skin is shown in Spread than in most Hollywood movies. But despite twitches of insight into its characters and their world, Spread refuses go more than skin deep.</snippet>
+         <url>http://movies.nytimes.com/2009/08/14/movies/14spread.html?ref=movies</url>
+         <critic>Stephen Holden</critic>
+      </review>
+      <review>
+         <snippet>The whole movie is pat -- very pleased with itself for being so up front about the ways of a 21st-century man-whore.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20297386,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>Although Kutcher deserves some ­credit for trying to spread his professional wings, it quickly becomes clear that he's in over his head.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2009/08/14/2009-08-14_short_movie_reviews_spread_ponyo_it_might_get_loud.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>It comes off as an unpleasant, unrealistic morality tale. Loaded with music and pretty bodies, the film has a chance to lasso a young, indiscriminate audience of Kutcher fans.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film-reviews/film-review-spread-1003931689.story</url>
+         <critic>James Greenberg</critic>
+      </review>
+      <review>
+         <snippet>With "Shampoo" and "American Gigolo" now distant memories, the time evidently seemed ripe for another Hollywood stud movie. Despite Ashton Kutcher’s believability as an older woman’s kept boy, Spread isn’t a patch on those previous films.</snippet>
+         <url>http://www.variety.com/review/VE1117939440.html?categoryid=31&amp;cs=1&amp;query=spread</url>
+         <critic>Todd McCarthy</critic>
+      </review>
+      <review>
+         <snippet>A witless homage to "Shampoo" and "American Gigolo" that's brain-dead on arrival.</snippet>
+         <url>http://www.nypost.com/seven/08142009/entertainment/movies/dont_be_caught_spread_184416.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>Spread becomes a sloggy, tepid comeuppance tale.</snippet>
+         <url>http://www.villagevoice.com/2009-08-11/film/spread-melts-into-sloggy-comeuppance-tale/</url>
+         <critic>Melissa Anderson</critic>
+      </review>
+      <review>
+         <snippet>Lamely tries to update "Breakfast at Tiffany’s" for the Twitter set. Too bad Truman Capote’s not around for rewrites.</snippet>
+         <url>http://newyork.timeout.com/articles/film/77694/spread-film-review</url>
+         <critic>Stephen Garrett</critic>
+      </review>
+   </reviews>
+   <US_Gross>$250,617</US_Gross>
+   <weekend_gross>$122,948</weekend_gross>
+   <number_of_screens>103</number_of_screens>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

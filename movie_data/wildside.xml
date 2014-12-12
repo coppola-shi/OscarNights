@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Wild Side</name>
+   <company>Wellspring Media</company>
+   <genres>
+      <genre>Drama</genre>
+      <genre>Foreign</genre>
+   </genres>
+   <authors>
+      <author>Stéphane Bouquet</author>
+      <author>Sébastien Lifshitz</author>
+   </authors>
+   <directors>
+      <director>Sébastien Lifshitz</director>
+   </directors>
+   <origins>
+      <origin>France</origin>
+   </origins>
+   <actors>
+      <actor>Stéphanie Michelini</actor>
+      <actor>Yasmine Belmadi</actor>
+      <actor>Edouard Nikitine</actor>
+      <actor>Josiane Stoléru</actor>
+      <actor>Antony Hegarty</actor>
+      <actor>Liliane Nataf</actor>
+   </actors>
+   <release_date>June 10, 2005</release_date>
+   <running_time>93</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>This process unfolds in terse, compelling fashion with ravishing camerawork by Agnès Godard.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-capsules24jun24,0,122074.story</url>
+         <critic>Kevin Thomas</critic>
+      </review>
+      <review>
+         <snippet>Though Lifshitz's attitude toward sex and sexuality ranks among the most progressive in contemporary movies, he doesn't belabor it; seen through his eyes, Wild Side is a love story in which love is unrestrained by matters of gender or sexual orientation or even the number of lovers.</snippet>
+         <url>http://www.laweekly.com/film/film_results.php?showid=3454&amp;Sumbit.x=48&amp;Sumbit.y=14</url>
+         <critic>Scott Foundas</critic>
+      </review>
+      <review>
+         <snippet>Viewers are either going to walk out after 10 minutes or, like this tolerant critic, get caught up in the sordid lives of the three misfits and stick around for the ambiguous ending.</snippet>
+         <url>http://www.nypost.com/movies/24956.htm</url>
+         <critic>V.A. Musetto</critic>
+      </review>
+      <review>
+         <snippet>Stony and statuesque, Michelini is an excellent casting choice: Her impassive face and dispassionate voice serve as a carefully constructed protective mask that hides her pain, and which she rarely lets slip.</snippet>
+         <url>http://tvguide.com/movies/database/ShowMovie.asp?MI=46159</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>Lifshitz successfully maneuvers his trio of outcasts toward a state of grace: His vision of misfit utopianism, in its own quiet way, is as defiant as anything in Fassbinder.</snippet>
+         <url>http://www.villagevoice.com/film/0523,tracking1,64682,20.html</url>
+         <critic>Dennis Lim</critic>
+      </review>
+      <review>
+         <snippet>The primary impression is lots of moping and mooning, plus a song at the beginning with some of the worst lyrics you've ever heard.</snippet>
+         <url>http://www.csmonitor.com/2005/0610/p14s01-almo.html</url>
+         <critic>David Sterritt</critic>
+      </review>
+      <review>
+         <snippet>Too elliptical and poetically structured to cohere as more than an intense mood piece with social ramifications. The movie is so enraptured with its own romantic desolation that its narrative drive becomes sidetracked.</snippet>
+         <url>http://movies2.nytimes.com/2005/06/10/movies/10wild.html</url>
+         <critic>Stephen Holden</critic>
+      </review>
+      <review>
+         <snippet>Sex frequently disguises itself as friendship and love in Wild Side, a morbid and self-important homosexual "Jules &amp; Jim" for the new millennium.</snippet>
+         <url>http://www.variety.com/review/VE1117923203?categoryid=31&amp;cs=1</url>
+         <critic>Russell Edwards</critic>
+      </review>
+      <review>
+         <snippet>Wild Side is sometimes maddening to watch, but will haunt you for days afterward.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2005/06/09/btm/index3.html</url>
+         <critic>Andrew O&amp;#039;Hehir</critic>
+      </review>
+      <review>
+         <snippet>A sustained mood piece of disquieting intensity, but its almost unbearable air of morose ennui becomes hard to take even in small doses, let alone in a highly concentrated torrent of misery like this.</snippet>
+         <url>http://www.theavclub.com/review.php?review_id=8616</url>
+         <critic>Nathan Rabin</critic>
+      </review>
+   </reviews>
+   <US_Gross>$15,355</US_Gross>
+   <weekend_gross>$4,268</weekend_gross>
+   <number_of_screens>1</number_of_screens>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

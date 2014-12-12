@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Bob Funk</name>
+   <company>Cinema Epoch</company>
+   <genres>
+      <genre>Comedy</genre>
+   </genres>
+   <authors>
+      <author>Craig Carlisle</author>
+   </authors>
+   <directors>
+      <director>Craig Carlisle</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Rachael Leigh Cook</actor>
+      <actor>Grace Zabriskie</actor>
+      <actor>Amy Ryan</actor>
+      <actor>Eddie Jemison</actor>
+      <actor>Stephen Root</actor>
+      <actor>Michael Leydon Campbell</actor>
+      <actor>Lucy Davis</actor>
+      <actor>Khleo Thomas</actor>
+   </actors>
+   <release_date>March 20, 2009</release_date>
+   <running_time>minutes,</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>If you can get through the tedious first half of Bob Funk, there's actually a decent little character study waiting on the other side.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-funk27-2009feb27,0,7280217.story</url>
+         <critic>Gary Goldstein</critic>
+      </review>
+      <review>
+         <snippet>Looks like a comedy, acts like a comedy and sounds like a comedy, but it isn't funny. This is a problem in a movie that aims for laughs.</snippet>
+         <url>http://movies.nytimes.com/2009/03/20/movies/20funk.html?ref=movies</url>
+         <critic>Nathan Lee</critic>
+      </review>
+      <review>
+         <snippet>With all due respect to Leo Tolstoy, all unhappy film families in which someone ascends those "12 steps" are exactly alike.</snippet>
+         <url>http://www.villagevoice.com/2009-03-18/film/michael-leydon-campbell-rages-and-pukes-in-bob-funk/</url>
+         <critic>Melissa Anderson</critic>
+      </review>
+   </reviews>
+   <US_Gross>$4,085</US_Gross>
+   <weekend_gross>$4,085</weekend_gross>
+   <number_of_screens>1</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

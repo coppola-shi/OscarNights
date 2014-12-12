@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Brideshead Revisited</name>
+   <company>Miramax Films</company>
+   <genres>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author>Jeremy Brock</author>
+      <author>Andrew Davies</author>
+      <author>Evelyn Waugh</author>
+   </authors>
+   <directors>
+      <director>Julian Jarrold</director>
+   </directors>
+   <origins>
+      <origin>UK</origin>
+   </origins>
+   <actors>
+      <actor>Matthew Goode</actor>
+      <actor>Ben Whishaw</actor>
+      <actor>Hayley Atwell</actor>
+      <actor>Emma Thompson</actor>
+      <actor>Michael Gambon</actor>
+   </actors>
+   <release_date>July 25, 2008</release_date>
+   <running_time>135</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>It's rare to find a work that explores issues of faith without veering into religious fundamentalism or militant atheism, which is reason enough to revisit Brideshead one more time.</snippet>
+         <url>http://www.avclub.com/content/cinema/brideshead_revisited</url>
+         <critic>Sam Adams</critic>
+      </review>
+      <review>
+         <snippet>It shifts the focus from Charles and Sebastian's youthful idyll to the stronger, more provocative relationship between Charles and Julia, wherein lies Waugh's concerns with materialism and velvet-gloved dual grip of family and religion.</snippet>
+         <url>http://www.tvguide.com/movies/brideshead-revisited/review/293501</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>It's a great piece of work in a movie that, whatever its failings, deserves to be seen even if you swear undying allegiance to the BBC mini-series.</snippet>
+         <url>http://www.csmonitor.com/2008/0726/p25s02-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>You could wish for more, but for that there's still the epic-length miniseries. If you want just two hours of mournful, lovely melodrama of manners, this is a fine choice.</snippet>
+         <url>http://blog.oregonlive.com/madaboutmovies/2008/07/movie_review_the_best_and_wors.html</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>Offers lush and compelling drama drawn from Evelyn Waugh's beloved novel. Purists may blanch at the screenplay's changes to the source material's narrative fine points, but its spirit survives intact.</snippet>
+         <url>http://www.variety.com/review/VE1117937762.html?categoryid=31&amp;cs=1</url>
+         <critic>Dennis Harvey</critic>
+      </review>
+      <review>
+         <snippet>The film, a distinctly secular take on Waugh's religiosity, is far more interested in the battle of blind faith vs. rigid unbelief and its devastating effects. Herein, everyone is complicated – by their station, their philosophy, their God – and everyone is complicit.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A653434</url>
+         <critic>Kimberley Jones</critic>
+      </review>
+      <review>
+         <snippet>Often powerful, though presented throughout with British understatement.</snippet>
+         <url>http://www.charlotteobserver.com/161/story/99996.html</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>There are times when Brideshead Revisited shows its seams. For those with an affinity for this kind of movie - and you know whether this applies to you - Brideshead Revisited is a worthy, although not superior, motion picture.</snippet>
+         <url>http://www.reelviews.net/php_review_template.php?identifier=1217</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>The film is plush and passionate and graced with elegant performances. Best is that of Emma Thompson as Brideshead's matriarch, Lady Marchmain, who resembles a cross between Helen Mirren's Queen Elizabeth II and Pope Benedict.</snippet>
+         <url>http://www.philly.com/inquirer/columnists/carrie_rickey/20080725_Passionate__elegant_and_brisk_interpretation_of_Waugh_s_saga.html</url>
+         <critic>Carrie Rickey</critic>
+      </review>
+      <review>
+         <snippet>Overnuanced, a world of delicate cruelty, where most of the wounds take place without breaking the skin or even a sweat.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20080725.wbride25/BNStory/Entertainment/home</url>
+         <critic>Liam Lacey</critic>
+      </review>
+      <review>
+         <snippet>The saga ultimately lacks the emotional wallop of the TV version. But its clever writing, strong performances and sumptuous production design make for a rich experience nonetheless.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2008-07-24-brideshead-revisited_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>While elegantly mounted and well acted, the movie is not the equal of the TV production, in part because so much material had to be compressed into such a shorter time. It is also not the equal of the recent film "Atonement," which in an oblique way touches on similar issues.</snippet>
+         <url>http://www.rogerebert.com/apps/pbcs.dll/article?AID=/20080724/REVIEWS/412160639/1023</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>The one performer who seems at home with the gravity of it all is Emma Thompson.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20214608,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>The real question is whether the film moves the "Brideshead" ball down the playing field in any meaningful way since the acclaimed miniseries. And I'd have to say that it doesn't so much advance it as it shrinks it into a golf-ball-size nugget.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1106476&amp;categories=Movies&amp;nm=1</url>
+         <critic>Michael O&amp;#039;Sullivan</critic>
+      </review>
+      <review>
+         <snippet>This is a world of dinner jackets and evening gowns, casual jaunts to Venice and Morocco; it's about elegance, style, money and perhaps too heady a mix of drink, religion and intrigue.</snippet>
+         <url>http://www.npr.org/templates/story/story.php?storyId=92780897</url>
+         <critic>Bob Mondello</critic>
+      </review>
+      <review>
+         <snippet>Though I can imagine Waugh rolling his eyes at the very idea of Brideshead Revisited as "a heartbreaking romantic epic," this remake is, often inadvertently, closer to the novel's spirit than the sepulchral television series, albeit still not half as waggishly Waugh-ish as "Bright Young Things," Stephen Fry's delightfully naughty interpretation of "Vile Bodies."</snippet>
+         <url>http://www.villagevoice.com/2008-07-23/film/julian-jarrold-s-brideshead-revisited/</url>
+         <critic>Ella Taylor</critic>
+      </review>
+      <review>
+         <snippet>The remarkable thing about Jarrold's movie is how much of the book it manages to capture.</snippet>
+         <url>http://www.newsweek.com/id/146903</url>
+         <critic>David Ansen</critic>
+      </review>
+      <review>
+         <snippet>Brideshead Revisited is untaxing, pleasant enough to watch. But I'm still waiting to be seriously discomfited by it.</snippet>
+         <url>http://www.time.com/time/arts/article/0,8599,1826496,00.html</url>
+         <critic>Richard Schickel</critic>
+      </review>
+      <review>
+         <snippet>Bound to seem, at best, a kind of CliffsNotes guide to the novel's highlights, especially if the casting is not all that inspired.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/372076_brideshead25q.html</url>
+         <critic>William Arnold</critic>
+      </review>
+      <review>
+         <snippet>The new film seems a little nervous about the religious content; it's more interested in the swoony bits between Charles and Julia.</snippet>
+         <url>http://chicago.metromix.com/movies/movie_review/movie-review-brideshead-revisited/519810/content</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>As familiar as the costumes and decoration are, the conflicts are unsettlingly vivid and strange.</snippet>
+         <url>http://www.nypost.com/seven/07252008/entertainment/movies/the_waugh_of_averages_121419.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>This new Brideshead Revisted, though imperfectly revised, is not entirely regrettable.</snippet>
+         <url>http://www.miamiherald.com/entertainment/movies/reviews/story/623989.html</url>
+         <critic>Connie Ogle</critic>
+      </review>
+      <review>
+         <snippet>That the film is neither a true triumph nor a total disaster makes it somewhat difficult to justify revisiting "Brideshead," apart from the hope it will inspire someone somewhere to pick up the book.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-brideshead25-2008jul25,0,3483902.story</url>
+         <critic>Mark Olsen</critic>
+      </review>
+      <review>
+         <snippet>Although it has its involving moments, the watered-down Waugh fails to make any kind of lasting connection.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?JSESSIONID=5kDfLDWGLDbzL6SxkYyPp4QHJ0xf8kSxK31cfqxsx0Gt14MQTX1G!-945851126&amp;&amp;rid=11446</url>
+         <critic>Michael Rechtshaffen</critic>
+      </review>
+      <review>
+         <snippet>Julian Jarrold's adaptation of the Evelyn Waugh novel isn't entirely faithful, but it conveys the book's universal themes.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/33367_BRIDESHEAD_REVISITED.html</url>
+         <critic>Albert Williams</critic>
+      </review>
+      <review>
+         <snippet>A very noble movie, which makes it interesting at times, but not often enough.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2008/07/24/DDQ411TRG0.DTL&amp;type=movies</url>
+         <critic>David Wiegand</critic>
+      </review>
+      <review>
+         <snippet>The film plays fast and loose with the book, until its emotional depths, spiritual conflicts, and Waugh's discreet humor have been wrung out.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=11680</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>Jarrold's reduction of the story is so archetypal that it's indistinguishable from soap opera.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/reviews/bal-to.brideshead01aug01,0,7239248.story</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>Okay for those who dote on ‘classics illustrated’ in the Merchant Ivory line, but not as fluid as all that.</snippet>
+         <url>http://www.empireonline.com/reviews/reviewcomplete.asp?FID=10094</url>
+         <critic>Angie Errigo</critic>
+      </review>
+      <review>
+         <snippet>Mr. Goode shows all the charisma of a stalk of boiled asparagus molded into the likeness of Jeremy Irons.</snippet>
+         <url>http://movies.nytimes.com/2008/07/25/movies/25brid.html?ref=movies</url>
+         <critic>A.O. Scott</critic>
+      </review>
+      <review>
+         <snippet>May feel especially like a statue covered in drapery. Unfortunately, the movie's attempts to steam things up feel about as exciting as an after-dinner mint.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2008/07/25/2008-07-25_lifestyles_of_the_rich_and_fatuous_in_br.html</url>
+         <critic>Joe Neumaier</critic>
+      </review>
+      <review>
+         <snippet>The world didn't need a superficial big-screen adaptation of a rich, dense book that's about, among many other things, the passage of time. The perplexity is why the film is so lifeless and remote.</snippet>
+         <url>http://online.wsj.com/article/SB121694419329882987.html</url>
+         <critic>Joe Morgenstern</critic>
+      </review>
+   </reviews>
+   <US_Gross>$6,432,256</US_Gross>
+   <weekend_gross>$339,616</weekend_gross>
+   <number_of_screens>33</number_of_screens>
+   <oscar_winning_actors_present/>
+   <num_oscar_winning_actors>1</num_oscar_winning_actors>
+   <oscar_winning_actor>emma thompson</oscar_winning_actor>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

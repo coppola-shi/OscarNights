@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Penelope</name>
+   <company>Summit Entertainment</company>
+   <genres>
+      <genre>Comedy</genre>
+      <genre>Drama</genre>
+      <genre>Fantasy</genre>
+   </genres>
+   <authors>
+      <author>Leslie Caveny</author>
+   </authors>
+   <directors>
+      <director>Mark Palansky</director>
+   </directors>
+   <origins>
+      <origin>UKUSA</origin>
+   </origins>
+   <actors>
+      <actor>Christina Ricci</actor>
+      <actor>James McAvoy</actor>
+      <actor>Catherine O&amp;#039;Hara</actor>
+      <actor>Reese Witherspoon</actor>
+      <actor>Peter Dinklage</actor>
+      <actor>Richard E. Grant</actor>
+      <actor>Simon Woods</actor>
+      <actor>Ronni Ancona</actor>
+   </actors>
+   <release_date>February 29, 2008</release_date>
+   <running_time>102</running_time>
+   <rating>PG</rating>
+   <reviews>
+      <review>
+         <snippet>An extraordinarily charming movie.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=10108</url>
+         <critic>Jamie Tipps</critic>
+      </review>
+      <review>
+         <snippet>There are some flat moments, to be sure, and Palansky's direction can be a bit unsteady and awkward, but he doesn't wallow in the eccentricities or the modestly self-empowering moral. This fairy tale feels pleasantly down-to-earth.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/353045_penelope29q.html</url>
+         <critic>Sean Axmaker</critic>
+      </review>
+      <review>
+         <snippet>A sweet, unassuming surprise.</snippet>
+         <url>http://www.tvguide.com/movies/penelope/review/292144</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>This half-baked fairy tale always seems to be on the verge of becoming charming but despite a good cast it never quite succeeds.</snippet>
+         <url>http://www.csmonitor.com/2008/0229/p15s01-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>Aimed at tweenage girls and mushy romantics of all age and stripe, Penelope has a quick gait and a nice comic tone.</snippet>
+         <url>http://www.philly.com/inquirer/columnists/steven_rea/20080229_Sniffing_out_a_happy_message.html</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>More tart than sweet, this contemporary fairy tale provides a worthy vehicle for the fearless Christina Ricci.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/32818_PENELOPE.html</url>
+         <critic>Andrea Gronvall</critic>
+      </review>
+      <review>
+         <snippet>Anyone willing to tolerate the tortured premise of the story will be paid off handsomely by several winning performances and a moral that makes most of the absurdity worthwhile.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1132298&amp;categories=Movies&amp;nm=1</url>
+         <critic>John Anderson</critic>
+      </review>
+      <review>
+         <snippet>The result is an entertaining comedy for young girls and older girls who still like a good romantic fable.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?&amp;rid=10726</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>Reese Witherspoon, whose production company made Penelope, contributes an inflated cameo that feels forced.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/1204154710173890.xml&amp;coll=7</url>
+         <critic>Marc Mohan</critic>
+      </review>
+      <review>
+         <snippet>An endearing premise and fanciful spirit aren't quite enough to rescue a film that has more heart than smarts.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2008/02/29/2008-02-29_for_riccis_penelope_looks_aint_no_pig_th-1.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>It's not the best of modern fairy tales but it's sincere and Christina Ricci's earnest and vulnerable performance touches the heart. Penelope is flawed but not irredeemably so.</snippet>
+         <url>http://www.reelviews.net/movies/p/penelope.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>I wish it were truly special instead of an interesting near-miss.</snippet>
+         <url>http://chicago.metromix.com/movies/movie_review/movie-review-penelope/320000/content</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>Though the film has a strong cast, humor and a satirical take on celebrity culture, the story is spotty.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2008-02-28-penelope_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>A first film from director Mark Palansky, written by sitcom veteran Leslie Caveny        (Everybody Loves Raymond, Mad About You), and the two are obviously indebted to the fanciful imagination of Tim Burton.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20080228.wpenelope29/BNStory/Entertainment/home</url>
+         <critic>Liam Lacey</critic>
+      </review>
+      <review>
+         <snippet>Ricci is appealingly human, and some acknowledgement of the importance of female friendship, in addition to romance, is faintly touching.</snippet>
+         <url>http://www.villagevoice.com/film/0809,313599,313599,20.html</url>
+         <critic>Nick Pinkerton</critic>
+      </review>
+      <review>
+         <snippet>First-time director Mark Palansky is trying for a deft, hip, modern fairy-tale feel, but the odd material, sprawling story, and complicated tonal balancing act get away from him, and the film winds up as a poorly paced tug-of-war between sweet quirk and sloppy camp.</snippet>
+         <url>http://www.avclub.com/content/cinema/penelope</url>
+         <critic>Tasha Robinson</critic>
+      </review>
+      <review>
+         <snippet>There are usually good reasons why a movie gets shelved for more than a year, however well-acted it may be and however well-meaning its message. Many are on view in Penelope.</snippet>
+         <url>http://www.charlotte.com/145/story/514295.html</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>The whimsical ugly-duckling fable becomes more uneven as it proceeds, straining too hard to manufacture its quirky charms.</snippet>
+         <url>http://www.variety.com/review/VE1117931527.html?categoryid=31&amp;cs=1&amp;p=0</url>
+         <critic>David Rooney</critic>
+      </review>
+      <review>
+         <snippet>I found the sight of McAvoy as a piano player in jazzy-seedy duds a lot more disconcerting than Ricci's porcine prosthesis.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/reviews/bal-to.penelope29feb29,0,2770170.story</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>There's no real rigor or craft applied to this story -- just mood, tone, neo-gothic imagery and frantic attitude. If only Penelope knew what it truly wished to be and how to go about it. Which is probably what this overly coy fantasy's modestly appealing title character wishes as well.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-penelope29feb29,0,913077.story</url>
+         <critic>Gene Seymour</critic>
+      </review>
+      <review>
+         <snippet>Surprisingly pedestrian.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2008/02/29/DD0QV9PQ8.DTL&amp;type=movies</url>
+         <critic>Walter Addiego</critic>
+      </review>
+      <review>
+         <snippet>Too heavy on applied charm and too flimsy when it comes to plot. The picture has a hapless, meandering quality that's tolerable at first but ultimately becomes maddening, as if it were a cartoon narrative recounted by a distracted 4-year-old.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2008/02/29/penelope/</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>It’s as if Caveny had so many ideas that she simply couldn’t bear to leave any of them crumpled up on her office floor.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A596094</url>
+         <critic>Josh Rosenblatt</critic>
+      </review>
+      <review>
+         <snippet>Penelope is dead on arrival.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/14705955/review/18723403/penelope</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>This story could have gone in a number of more inspiring allegorical directions but winds up your average bedtime story instead.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=9886</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>Under Mark Palansky's uninspired direction, magic eludes Penelope in scene after scene.</snippet>
+         <url>http://www.nypost.com/seven/02292008/entertainment/movies/delayed_flick_runs_snout_of_energy_99719.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>A hopeless jumble of visual and linguistic styles.</snippet>
+         <url>http://movies.nytimes.com/2008/02/29/movies/29pene.html?ref=movies</url>
+         <critic>Stephen Holden</critic>
+      </review>
+      <review>
+         <snippet>Penelope was in a trough of trouble before the oink on the script was dry.</snippet>
+         <url>http://online.wsj.com/article/SB120424490845501357.html</url>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>Is there anything more dull than an ineptly cynical fairy tale?</snippet>
+         <url>http://www.ew.com/ew/article/0,,20180596,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+   </reviews>
+   <US_Gross>$10,011,996</US_Gross>
+   <weekend_gross>$3,802,144</weekend_gross>
+   <number_of_screens>1,196</number_of_screens>
+   <oscar_winning_actors_present/>
+   <num_oscar_winning_actors>1</num_oscar_winning_actors>
+   <oscar_winning_actor>reese witherspoon</oscar_winning_actor>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

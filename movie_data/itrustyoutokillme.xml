@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>I Trust You to Kill Me</name>
+   <company>First Independent Pictures</company>
+   <genres>
+      <genre>Documentary</genre>
+      <genre>Musical</genre>
+   </genres>
+   <authors>
+      <author/>
+   </authors>
+   <directors>
+      <director>Manu Boyer</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Kiefer Sutherl</actor>
+      <actor>Rocco DeLuca &amp; The Burden</actor>
+      <actor>David Beste</actor>
+      <actor>Ryan Carman</actor>
+      <actor>Greg Velasquez</actor>
+      <actor>Jude Cole</actor>
+   </actors>
+   <release_date>September 8, 2006</release_date>
+   <running_time>105</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>Deftly mixing alternating tracks of playful rowdiness, thoughtful introspection, ferociously slamming rock and not-so-quiet desperation, helmer Manu Boyer scores impressively with I Trust You to Kill Me, arguably the best rockumentary since "Some Kind of Monster."</snippet>
+         <url>http://www.variety.com/review/VE1117930406?categoryid=31&amp;cs=1&amp;s=h&amp;p=0</url>
+         <critic>Joe Leydon</critic>
+      </review>
+      <review>
+         <snippet>Even when he looks like a complete dolt, Sutherland still comes off sympathetically, as a cool guy.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1537092_1_0_,00.html</url>
+         <critic>Gregory Kirshling</critic>
+      </review>
+      <review>
+         <snippet>Who knew the rock 'n' roll life could be so mild?</snippet>
+         <url>http://online.tvguide.com/newsearch/detail.aspx?tvobjectid=283143&amp;more=ucmoviereview</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>Has enough virtues -- principally Sutherland's presence and the quality of the music -- to make it an enjoyable trip.</snippet>
+         <url>http://www.calendarlive.com/movies/cl-et-trust15sep15,0,1471518.story</url>
+         <critic>Michael Ordona</critic>
+      </review>
+      <review>
+         <snippet>Too bad nearly half the film is about DeLuca, who has an irritating Freddie Mercury wail and is both obnoxious ("We'll play downstairs after midnight or we won't play at all") and moronic.</snippet>
+         <url>http://www.nypost.com/entertainment/movies/i_trust_you_to_kill_me_movies_kyle_smith.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>More vanity project than full-fledged film, Manu Boyer's modest chronicle is best left to diehard Kiefer Sutherland fans.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/moviereviews/story/450513p-379034c.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>A rather standard out-on-the-road rock doc except for one unique and under-explored twist: The "24" star, after signing the band to his label, impulsively decided to accompany them on this barnstorming adventure as their tour manager.</snippet>
+         <url>http://www.laweekly.com/film+tv/film-reviews/film-reviews/14478/</url>
+         <critic>Tim Grierson</critic>
+      </review>
+      <review>
+         <snippet>Perhaps you are wondering why a little-known band called Rocco DeLuca and the Burden merits a glossy feature-length documentary of its whirlwind European tour. After watching Manu Boyer's film, you may still wonder.</snippet>
+         <url>http://www.villagevoice.com/film/0636,ridley,74385,20.html</url>
+         <critic>Jim Ridley</critic>
+      </review>
+      <review>
+         <snippet>Inconsequential documentary.</snippet>
+         <url>http://movies2.nytimes.com/2006/09/08/movies/08trus.html?ref=movies</url>
+         <critic>Dana Stevens</critic>
+      </review>
+      <review>
+         <snippet>Although Sutherland is an amiable and charismatic figure, his lack of emotional expressiveness doesn't help matters here. The film does, however, offer the spectacle of his getting a tattoo of the film's title (one of the band's songs) in Icelandic.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1003190143</url>
+         <critic>Frank Scheck</critic>
+      </review>
+      <review>
+         <snippet>Doesn't accomplish its objective.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2006/09/29/DDGFELE9JD1.DTL#flick2</url>
+         <critic>Peter Hartlaub</critic>
+      </review>
+   </reviews>
+   <US_Gross>$12,854</US_Gross>
+   <weekend_gross>$5,888</weekend_gross>
+   <number_of_screens>1</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

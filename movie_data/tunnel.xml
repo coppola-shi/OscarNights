@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Tunnel, The</name>
+   <company>Avatar / Home Vision Entertainment</company>
+   <genres>
+      <genre>Drama</genre>
+      <genre>FamilyKids</genre>
+      <genre>Foreign</genre>
+      <genre>Mystery</genre>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>Johannes W. Betz</author>
+   </authors>
+   <directors>
+      <director>Roland Suso Richter</director>
+   </directors>
+   <origins>
+      <origin>Germany</origin>
+   </origins>
+   <actors>
+      <actor>Heino Ferch</actor>
+      <actor>Nicolette Krebitz</actor>
+      <actor>Sebastian Koch</actor>
+      <actor>Alexra Maria Lara</actor>
+      <actor>Claudia Michelsen</actor>
+      <actor>Felix Eitner</actor>
+      <actor>Mehmet Kurtulus</actor>
+      <actor>Heinrich Schmieder</actor>
+   </actors>
+   <release_date>April 29, 2005</release_date>
+   <running_time>160</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>Anyhow, either as history at its most inspiring or moviemaking at its most exciting, The Tunnel is a trip.</snippet>
+         <url>http://www.washingtonpost.com/wp-dyn/content/article/2005/08/18/AR2005081801718.html</url>
+         <critic>Stephen Hunter</critic>
+      </review>
+      <review>
+         <snippet>It is the kind of superbly crafted, intelligent entertainment — a classic suspense thriller — that nowadays is as welcome as it is rare.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-tunnel16sep16,0,3313720.story</url>
+         <critic>Kevin Thomas</critic>
+      </review>
+      <review>
+         <snippet>Director Roland Suso Richter gives a raw, frank but sophisticated account of the excruciating logistics of this great escape, and the appalling, inspiring blend of betrayal and courage that attended the group's herculean efforts.</snippet>
+         <url>http://www.laweekly.com/film/film_results.php?showid=3555&amp;Sumbit.x=59&amp;Sumbit.y=14</url>
+         <critic>Ella Taylor</critic>
+      </review>
+      <review>
+         <snippet>A cracking slice of old-fashioned, widescreen entertainment.</snippet>
+         <url>http://www.variety.com/review/VE1117797749?categoryid=31&amp;cs=1</url>
+         <critic>Derek Elley</critic>
+      </review>
+      <review>
+         <snippet>Good old-fashioned movie storytelling that steadily builds, over the course of nearly three hours, to a white-knuckle conclusion that satisfies on nearly every level.</snippet>
+         <url>http://www.washingtonpost.com/wp-dyn/content/article/2005/08/18/AR2005081800549.html</url>
+         <critic>Michael O&amp;#039;Sullivan</critic>
+      </review>
+      <review>
+         <snippet>Though the film is as long as the escape route, Richter's brisk direction keeps us riveted through the suspenseful finish of his vivid history lesson.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/moviereviews/story/304646p-260635c.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>So many twists and turns, it seems like fiction.</snippet>
+         <url>http://sfgate.com/cgi-bin/article.cgi?f=/c/a/2005/06/10/DDGMHD5KC41.DTL#flick4</url>
+         <critic>Jonathan Curiel</critic>
+      </review>
+      <review>
+         <snippet>There are few moments when you're not totally absorbed by the film.</snippet>
+         <url>http://www.miami.com/mld/miamiherald/entertainment/movies/11963278.htm</url>
+         <critic>Marta Barber</critic>
+      </review>
+      <review>
+         <snippet>The Tunnel boasts the kind of plot that would seem ridiculously implausible if it weren't based on a true story.</snippet>
+         <url>http://www.theavclub.com/review.php?review_id=8442</url>
+         <critic>Nathan Rabin</critic>
+      </review>
+      <review>
+         <snippet>The film convincingly portrays the devastating, life-altering hardships and restrictions that the residents of the divided Berlin endured.</snippet>
+         <url>http://movies2.nytimes.com/2005/04/29/movies/29tunn.html</url>
+         <critic>Laura Kern</critic>
+      </review>
+      <review>
+         <snippet>Well-cast and sporadically gripping.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/241837_limited23.html</url>
+         <critic>William Arnold</critic>
+      </review>
+      <review>
+         <snippet>Director Roland Suso Richter maintains tension for 2 1/2 hours, even though the resolution is almost surreal.</snippet>
+         <url>http://www.nypost.com/movies/43177.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>Genuinely gripping, balancing the travails of constructing the tunnel against the characters' stories with considerable skill.</snippet>
+         <url>http://tvguide.com/movies/database/showmovie.asp?MI=46090</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>Director Roland Suso Richter skillfully wields the wall as a metaphor for isolation, but his pacing needs work: He cuts from an emotional death to a rowdy scene of sex on a kitchen table. Well, that's one way to mourn.</snippet>
+         <url>http://www.villagevoice.com/film/0517,tracking1,63397,20.html</url>
+         <critic>Matt Singer</critic>
+      </review>
+   </reviews>
+   <US_Gross>$46,296</US_Gross>
+   <weekend_gross>$5,583</weekend_gross>
+   <number_of_screens>2</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

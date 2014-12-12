@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>12 Rounds</name>
+   <company>20th Century Fox</company>
+   <genres>
+      <genre>Action</genre>
+   </genres>
+   <authors>
+      <author>Daniel Kunka</author>
+   </authors>
+   <directors>
+      <director>Renny Harlin</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>John Cena</actor>
+      <actor>Steve Harris</actor>
+      <actor>Ashley Scott</actor>
+      <actor>Aidan Gillen</actor>
+      <actor>Brian White</actor>
+      <actor>Gonzalo Menendez</actor>
+   </actors>
+   <release_date>March 27, 2009</release_date>
+   <running_time>108</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>Escapist fun that provides an effective showcase for the blue-collar charisma and bulky good looks of its hyper-athletic lead, four-time World Champion wrestler John Cena (think Matt Damon, only twice the size).</snippet>
+         <url>http://www.latimes.com/entertainment/la-etw-12rounds28-2009mar28,0,1936289.story</url>
+         <critic>Gary Goldstein</critic>
+      </review>
+      <review>
+         <snippet>Derivative it may be, but with its echoes of "Speed," "Lethal Weapon" and "Die Hard With A Vengeance," this is a welcome throwback for audiences raised on '90s action flicks -- what they used to call "a pulse-pounding roller-coaster thrill-ride of a movie."</snippet>
+         <url>http://www.empireonline.com/reviews/review.asp?FID=135981</url>
+         <critic>Genevieve Harrison</critic>
+      </review>
+      <review>
+         <snippet>There's something strangely charming about films that are all artifice, explosions, and naked calculation. 12 Rounds is at least honest trash: It never pretends to be anything other than manic schlock.</snippet>
+         <url>http://www.avclub.com/articles/12-rounds,25844/</url>
+         <critic>Nathan Rabin</critic>
+      </review>
+      <review>
+         <snippet>This is the kind of amiable time-killer that belongs on a basic-cable weekend afternoon.</snippet>
+         <url>http://www.laweekly.com/2009-03-26/film-tv/movie-reviews-the-haunting-in-connecticut-three-monkeys-12-rounds/2</url>
+         <critic>Vadim Rizov</critic>
+      </review>
+      <review>
+         <snippet>You will probably find yourself praying for this duel's knock-out punch to arrive long before it actually does.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20268537,00.html</url>
+         <critic>Clark Collis</critic>
+      </review>
+      <review>
+         <snippet>I defy you to hate John Cena. Really. You can try all you want, but I don't think you'll make it.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A757178</url>
+         <critic>Josh Rosenblatt</critic>
+      </review>
+      <review>
+         <snippet>As one of the WWE's marquee pro wrestlers, John Cena is some actor. As a straight actor . . . he's a great wrestler.</snippet>
+         <url>http://www.boston.com/ae/movies/articles/2009/03/28/12_rounds/</url>
+         <critic>Tom Russo</critic>
+      </review>
+      <review>
+         <snippet>Noisy, cut into a head-snapping blur with little room for Cena to even try showing emotion, 12 Rounds is an occasionally exciting but always empty experience.</snippet>
+         <url>http://www.chicagotribune.com/entertainment/movies/chi-0327-12-rounds-review,0,2446965.story</url>
+         <critic>Roger Moore</critic>
+      </review>
+      <review>
+         <snippet>There are, as you may have guessed, 12 rounds of this arbitrary nonsense. Annoying as the conceit may be, it neatly functions as a means to gauge how much is left to endure.</snippet>
+         <url>http://www.nytimes.com/2009/03/28/movies/28roun.html?_r=1&amp;ref=movies</url>
+         <critic>Nathan Lee</critic>
+      </review>
+      <review>
+         <snippet>It's not fun and it gets tiring real fast.</snippet>
+         <url>http://movies.tvguide.com/detail/movie.aspx?tvobjectid=297003&amp;more=ucmoviereview</url>
+         <critic>Jeremy Wheeler</critic>
+      </review>
+      <review>
+         <snippet>12 Rounds is the unholy stepchild of "Die Hard with a Vengeance" and "Speed," starring a man whose lack of range makes Steven Seagal seem nuanced by comparison.</snippet>
+         <url>http://www.reelviews.net/php_review_template.php?identifier=1557</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>Cena is no Jason Statham. His stolid seriousness sucks the life right out of any scene in which he's required to speak. It's a bad sign when you repeatedly wish a runaway trolley would silence the hero.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film-reviews/film-review-12-rounds-1003956534.story</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>The viewer, even from a seated position, deserves a championship belt for surviving this overlong actioner.</snippet>
+         <url>http://www.variety.com/review/VE1117939955.html?categoryid=31&amp;cs=1</url>
+         <critic>Rob Nelson</critic>
+      </review>
+   </reviews>
+   <US_Gross>$12,234,694</US_Gross>
+   <production_budget>$20,000,000</production_budget>
+   <weekend_gross>$5,329,240</weekend_gross>
+   <number_of_screens>2,331</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

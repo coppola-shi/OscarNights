@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Yes Man</name>
+   <company>Warner Bros. Pictures</company>
+   <genres>
+      <genre>Comedy</genre>
+   </genres>
+   <authors>
+      <author>Nicholas Stoller</author>
+      <author>Jarrad Paul</author>
+      <author>Andrew Mogel</author>
+   </authors>
+   <directors>
+      <director>Peyton Reed</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Jim Carrey</actor>
+      <actor>Zooey Deschanel</actor>
+      <actor>Bradley Cooper</actor>
+      <actor>Rhys Darby</actor>
+      <actor>John Michael Higgins</actor>
+      <actor>Danny Masterson</actor>
+      <actor>Terence Stamp</actor>
+   </actors>
+   <release_date>December 19, 2008</release_date>
+   <running_time>104</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>Undemanding, light, and enjoyable.</snippet>
+         <url>http://www.reelviews.net/php_review_template.php?identifier=1425</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>Starts out wobbly but ends up quite nicely, primarily because Carrey has a wonderful acting partner in Zooey Deschanel.</snippet>
+         <url>http://www.chicagotribune.com/entertainment/movies/chi-yesman-review-1219dec19,0,3464479.story</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>It's even better as a love story that just happens to make you laugh.</snippet>
+         <url>http://www.miamiherald.com/entertainment/movies/reviews/story/817630.html</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>Carrey's most satisfying live-action effort since "Eternal Sunshine of the Spotless Mind."</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film-reviews/film-review-yes-man-1003922575.story</url>
+         <critic>Michael Rechtshaffen</critic>
+      </review>
+      <review>
+         <snippet>This is basically a nerd-loosening-his-tie romantic comedy done in the manic-compulsive mode of "Liar Liar."</snippet>
+         <url>http://www.ew.com/ew/article/0,,20247554,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>Of all the roles where the star has played a character transformed from ordinary to goofy ("The Mask," "Me, Myself &amp; Irene," "Liar Liar"), this is the one where he seems the most human, achieving that elusive quality in a Carrey film: tolerability.</snippet>
+         <url>http://www.oregonlive.com/movies/index.ssf/2008/12/movie_review_yes_man.html</url>
+         <critic>Marc Mohan</critic>
+      </review>
+      <review>
+         <snippet>Like many previous Carrey vehicles, the point of this one directed by Peyton Reed is that one should not live at the extremes, but should achieve a balance between low and high, no and yes.</snippet>
+         <url>http://www.philly.com/inquirer/columnists/carrie_rickey/20081219_Jim_Carrey_goes_with_less_no__mo__yes.html</url>
+         <critic>Carrie Rickey</critic>
+      </review>
+      <review>
+         <snippet>Yes, yes, it's Liar Liar 2.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2008-12-18-yes-man_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>Genial but slim, picture is certainly a light-hearted alternative to weighty year-end awards bait, but the conceit isn't realized fully enough.</snippet>
+         <url>http://www.variety.com/review/VE1117939206.html?categoryid=31&amp;cs=1</url>
+         <critic>Brian Lowry</critic>
+      </review>
+      <review>
+         <snippet>It's charming enough with some nice comedy touches, but the initially intriguing premise is soon railroaded out of sight by its desire to conform to a tried-and-tested cinematic formula.</snippet>
+         <url>http://www.empireonline.com/reviews/review.asp?FID=135302</url>
+         <critic>Philip Wilding</critic>
+      </review>
+      <review>
+         <snippet>If the slightly generic Yes Man is symbolic of the new, happier Jim Carrey, then it is a small price to pay for his piece of mind.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=11447</url>
+         <critic>Scott Mendelson</critic>
+      </review>
+      <review>
+         <snippet>Though it's a star vehicle, Carrey seems only marginally interested in rehashing the role of sweet spaz, and so he almost feels miscast.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/392791_yesman19q.html</url>
+         <critic>Travis Nichols</critic>
+      </review>
+      <review>
+         <snippet>The biggest problem with this movie - not that it's mediocre, dull, or barely written (though it's guilty on all counts). It's that Carrey himself is miscast.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=11388</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>Yes Man is nothing more than warmed-over holiday seconds, a repackaged best-of for those who already own the hits.</snippet>
+         <url>http://www.villagevoice.com/2008-12-17/film/yes-man-repackages-jim-carrey-s-best-of-s-for-those-who-already-own-the-hits/</url>
+         <critic>Robert Wilonsky</critic>
+      </review>
+      <review>
+         <snippet>If you're thinking "yuck," you're right. I added the extra star for Zooey Deschanel, who is so delicious as his honey that you want not to say no to Yes Man.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/18272307/review/25087318/yes_man</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>Yes Man proves utterly formulaic.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A715653</url>
+         <critic>Theresa Everline</critic>
+      </review>
+      <review>
+         <snippet>Jim Carrey works the premise for all it's worth, but it doesn't allow him to bust loose and fly.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20081217/REVIEWS/812179985</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>Yes Man isn't without a few simple charms, but it ends up being about as funny, profound, and memorable as the average bumper sticker.</snippet>
+         <url>http://movies.tvguide.com/yes-man/review/296178</url>
+         <critic>Perry Seibert</critic>
+      </review>
+      <review>
+         <snippet>The film contains so many plugs for Warner Bros. movies like the "Harry Potter" series and "300" that it could almost double as an infomercial.</snippet>
+         <url>http://www.avclub.com/content/cinema/yes_man</url>
+         <critic>Keith Phipps</critic>
+      </review>
+      <review>
+         <snippet>It's nice to see a high-concept comedy with such a generous concept.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/33972_YES_MAN.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>This picture evaporates midway through because the story itself is a one-liner. Yet it also has a cast that gets into the silliness.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/reviews/bal-to.yes19dec19,0,2544764.story</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>Yes Man puts him back in the same old quandary and, once again, Carrey lacks an identity. Alas, this time, he also lacks a script.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20081219.wyes19/BNStory/Entertainment/home</url>
+         <critic>Rick Groen</critic>
+      </review>
+      <review>
+         <snippet>Though the movie is no more than agreeable, it does provide a swell showcase for New Zealand wundercomic Rhys Darby (Murray the hapless agent on HBO's Flight of the Conchords) and gives the astrally adorable Zooey Deschanel a rare shot at a lead role in a big Hollywood movie.</snippet>
+         <url>http://www.time.com/time/arts/article/0,8599,1867752,00.html</url>
+         <critic>Richard Corliss</critic>
+      </review>
+      <review>
+         <snippet>An appealing Deschanel does her best, but the pair is mismatched in every way, from age to attitude. The entire movie is hung on Carrey's shtick, so if you're a fan, you'll have a decent time.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2008/12/18/2008-12-18_jim_carreys_yes_man_relies_on_old_schtic.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>Yes Man rarely rises to genuine hilarity. It takes no risks, finds no inspiration and settles, like its hero, into a dull, noncommittal middle ground. Should you see this movie? Maybe. Whatever. I don't care.</snippet>
+         <url>http://movies.nytimes.com/2008/12/19/movies/19yes.html?ref=movies</url>
+         <critic>A.O. Scott</critic>
+      </review>
+      <review>
+         <snippet>Enjoyable enough for what it is, a clever idea developed by fits and starts.</snippet>
+         <url>http://online.wsj.com/article/SB122963414294619431.html</url>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>The first time I saw Yes Man, I thought the concept was getting kind of stale toward the end. As it turns out, that was only the trailer.</snippet>
+         <url>http://www.nypost.com/seven/12192008/entertainment/movies/oh__no__yes_is_a_mess_144826.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>Even though Carrey is a bit mellower these days, the schtick feels dated. He's doing material from the '90s.</snippet>
+         <url>http://www.washingtonpost.com/gog/movies/yes-man,1145572.html</url>
+         <critic>Dan Zak</critic>
+      </review>
+      <review>
+         <snippet>The comedy, to the extent there is any, consists mainly of Carrey's verbal asides and strained reactions to people. The script gives him very little to work with.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2008/12/18/DD6N14PD61.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>With Yes Man, Carrey has bled the well dry, doing everything he knows how to do, over and over again, just to prove that he still knows how to do it. It's exhilarating to see brilliance in a comic; but by the time you start smelling it, the game is over.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2008/12/19/yes_man/</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+   </reviews>
+   <US_Gross>$97,690,976</US_Gross>
+   <production_budget>$50,000,000</production_budget>
+   <weekend_gross>$18,262,471</weekend_gross>
+   <number_of_screens>3,434</number_of_screens>
+   <highest_grossing_actors_present/>
+   <num_highest_grossing_actors>1</num_highest_grossing_actors>
+   <highest_grossing_actor>jim carrey</highest_grossing_actor>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Inside Man</name>
+   <company>Universal Pictures</company>
+   <genres>
+      <genre>Crime</genre>
+      <genre>Drama</genre>
+      <genre>Mystery</genre>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>Russell Gewirtz</author>
+   </authors>
+   <directors>
+      <director>Spike Lee</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Denzel Washington</actor>
+      <actor>Clive Owen</actor>
+      <actor>Jodie Foster</actor>
+      <actor>Willem Dafoe</actor>
+      <actor>Christopher Plummer</actor>
+      <actor>Chiwetel Ejiofor</actor>
+   </actors>
+   <release_date>March 24, 2006</release_date>
+   <running_time>129</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>The thrills in Spike Lee's singularly savvy thriller are in small unexpected moments.</snippet>
+         <url>http://sfgate.com/cgi-bin/article.cgi?f=/c/a/2006/03/24/DDGR9HSH6M1.DTL&amp;type=movies</url>
+         <critic>Ruthe Stein</critic>
+      </review>
+      <review>
+         <snippet>The jazzish score, by Lee's music man, Terence Blanchard, is typically intrusive. But the mood is right, the twists are new. And with one casting inspiration, Inside Man furthers the rising stardom of Chiwetel Ejiofor (Serenity).</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1175623_1_0_,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>This is the mother lode all action/suspense directors search for and Lee, who usually doesn't work in that genre, has hit it.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1002199011</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>A superior nail-biter.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/critic.html#29489</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>As with all of Lee's films, there's much more going on beneath the surface than is immediately apparent.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A349096</url>
+         <critic>Marc Savlov</critic>
+      </review>
+      <review>
+         <snippet>Inside Man may be a cat-and-mouse game, but it's far from predictable. What could have been a straightforward thriller is unusually clever, visually captivating and unfailingly entertaining.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2006-03-23-inside-man_x.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>Washington hasn't been this relaxed in years. When he feels like it he can be the most charismatic star in the movies.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=8180</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>With juicy supporting roles for Chiwetel Ejiofor and Willem Dafoe as Washington's fellow officers, the film works best when the characters are just sitting back and shooting the breeze, which is what they're doing much of the time. Here, puzzling out a robbery is more fun than stopping it.</snippet>
+         <url>http://www.avclub.com/content/node/46643</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>Working with someone else's material and a story outside the mainstream of his (Lee) work, he delivers laughs, puzzles, tension and the immense gift of fine actors at their delicious, familiar best.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/1143068106190900.xml&amp;coll=7</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>It twists in on itself mercilessly, rarely pausing to let the viewers catch up, but that's OK. A movie like this depends on staying at least a step ahead of its audience, and this one surely does.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-to.inside24mar24,0,2190648.story?coll=bal-artslife-movies</url>
+         <critic>Chris Kaltenbach</critic>
+      </review>
+      <review>
+         <snippet>Smartly plotted by newcomer Russell Gewirtz and smoothly directed by, of all people, Spike Lee, Inside Man is a deft and satisfying entertainment, an elegant, expertly acted puzzler that is just off-base and out-of-the-ordinary enough to keep us consistently involved.</snippet>
+         <url>http://www.calendarlive.com/movies/turan/cl-et-inside24mar24,0,3832143.story</url>
+         <critic>Kenneth Turan</critic>
+      </review>
+      <review>
+         <snippet>It's Foster who rules the movie like an ice queen.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2006/03/24/inside_man/index.html</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>The movie crackles with the serio-comic tension of thin-skinned New Yorkers thrown together in a crisis.</snippet>
+         <url>http://www.msnbc.msn.com/id/12015263/site/newsweek/</url>
+         <critic>David Ansen</critic>
+      </review>
+      <review>
+         <snippet>Boils with humor, surprise and dramatic energy.</snippet>
+         <url/>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>The best Spike Lee movie to come along since 1992's "Malcolm X." It's also the first Spike Lee movie since "Malcolm X" to star Denzel Washington, and just as Jimmy Stewart and Alfred Hitchcock brought out the best in each other, Denzel and Spike need each other like vermouth and gin.</snippet>
+         <url>http://www.slate.com/id/2138562/?nav=fo</url>
+         <critic>Grady Hendrix</critic>
+      </review>
+      <review>
+         <snippet>The heist at the heart of Inside Man is brilliant, and so is the movie.</snippet>
+         <url>http://www.laweekly.com/film/12962/inside-job/</url>
+         <critic>Scott Foundas</critic>
+      </review>
+      <review>
+         <snippet>A deft, tense, pure thriller, the movie has great star turns and is brilliantly directed, but it began as an extremely well-crated screenplay by Russell Gewirtz. It's professionally entertaining.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1112903&amp;lat=200.0&amp;lon=200.0&amp;displaySearchLocation=&amp;nm=1&amp;categories=Movies</url>
+         <critic>Stephen Hunter</critic>
+      </review>
+      <review>
+         <snippet>Filled with playful noise and nonsense, clever feints and digressions, Inside Man has a story to tell, but its most sustained pleasures come from its performances, especially the three leads.</snippet>
+         <url>http://movies2.nytimes.com/2006/03/24/movies/24man.html</url>
+         <critic>Manohla Dargis</critic>
+      </review>
+      <review>
+         <snippet>I found myself savoring a thriller (as well as a Spike Lee “joint”) that wasn't, for a change, in my face.</snippet>
+         <url>http://nymag.com/movies/listings/rv_50986.htm</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>It's certainly a Spike Lee film, but no Spike Lee Joint. Still, he's delivered a pacy, vigorous and frequently masterful take on a well-worn genre.</snippet>
+         <url>http://www.empireonline.com/incinemas/ReviewComplete.asp?FID=11053</url>
+         <critic>Sam Toy</critic>
+      </review>
+      <review>
+         <snippet>The suspense crackles, the acting sizzles and the script, by promising first-timer Russell Gewirtz, keeps tossing surprises like grenades.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/_/id/7381635/rid/9514531/</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>A workmanlike thriller that provides solid performances; a mixture of comedy, tension, and drama; and an engaging storyline. But there's nothing extraordinary about the movie.</snippet>
+         <url>http://movie-reviews.colossus.net/movies/i/inside_man.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>The script's flaws are most keenly felt in the Jodie Foster storyline, to the point where her character seems more like a bumbling screw-up than a supposedly sought-after facilitator. Whenever Lee turns the camera back to Denzel and Clive though, the movie works.</snippet>
+         <url>http://www.premiere.com/article.asp?section_id=2&amp;article_id=2689</url>
+         <critic>Ethan Alter</critic>
+      </review>
+      <review>
+         <snippet>Well acted and hugely entertaining, the film strikes a near-flawless balance between sly pop-culture allusions and the details of how business gets done under pressure.</snippet>
+         <url>http://online.tvguide.com/movies/database/Movie-Review.asp?MI=46767</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>It's got style and charisma to spare, with all the characters acting from fiery reserves of self-interest, including Christopher Plummer as a bank president with a secret in his safe-deposit box.</snippet>
+         <url>http://www.nydailynews.com/03-24-2006/entertainment/col/story/402544p-340788c.html</url>
+         <critic>Jami Bernard</critic>
+      </review>
+      <review>
+         <snippet>Has a doozy of a surprise ending that doesn't really stand up under close scrutiny - but you'll have so much fun getting there, it's easy to go along with Lee and company for the ride.</snippet>
+         <url>http://www.nypost.com/movies/65906.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>Go with the flow, and it remains a taut and well-engineered thriller. Poke at plot incongruities, as I was doing literally on the way to the parking lot, and it starts to unravel.</snippet>
+         <url>http://ae.charlotte.com/entertainment/ui/charlotte/movie.html?id=564235&amp;reviewId=null&amp;startDate=NEXT7</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>Unexpectedly funny, leisurely paced and oblivious to the demands of its genre, Inside Man has a loose, playful vibe that's at odds with its grave life-and-death scenario.</snippet>
+         <url>http://ae.miami.com/entertainment/ui/miami/movie.html?id=564235&amp;reviewId=20390&amp;startDate=03%2F23%2F2006</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>Lee transforms a generic cops-crooks-and-hostages scenario into a smart, sharp heist movie by the sheer force of his love for, and knowledge of, the city where he lives.</snippet>
+         <url>http://ae.philly.com/entertainment/ui/philly/movie.html?id=564235&amp;reviewId=20401</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>The primary weakness is in the story itself, which at times seems like mere background for the snappy banter and knowing glances.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=8855</url>
+         <critic>Pete Vonder Haar</critic>
+      </review>
+      <review>
+         <snippet>Inside Man certainly functions as a genre film, but the backbeat of inane banter and schoolyard trash-talking serves to promote an infectious sense of levity.</snippet>
+         <url>http://www.villagevoice.com/film/0612,hoberman,72609,20.html</url>
+         <critic>J. Hoberman</critic>
+      </review>
+      <review>
+         <snippet>The more it sags as a thriller, the more it jabs and jangles as a study of racial abrasion.</snippet>
+         <url>http://www.newyorker.com/critics/cinema/?060327crci_cinema</url>
+         <critic>Anthony Lane</critic>
+      </review>
+      <review>
+         <snippet>A flashy cast, clever script and vibrant showcasing of New York City as the ultimate melting pot are strong plusses for Spike Lee's most mainstream studio venture.</snippet>
+         <url>http://www.variety.com/review/VE1117929955?categoryid=31&amp;cs=1</url>
+         <critic>Todd McCarthy</critic>
+      </review>
+      <review>
+         <snippet>In Sidney Lumet's "Dog Day Afternoon," which only looks better with the years, New York was as much a character in that film as its people. It was a movie that took its cue from the energy of the city. The Inside Man takes its cue mostly from other movies.</snippet>
+         <url>http://www.csmonitor.com/2006/0324/p11s03-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>The best scene in Inside Man is one of the simplest, a cat-and-mouser, wherein the hostage negotiator played by Washington pays a visit to Foster's wily manipulator. These two play it so cool, yet so clearly enjoy each other's onscreen company, it's a ticklish reminder of the simple pleasures of screen acting.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-060324-movies-review-man,0,5544245.story?coll=mmx-movies_top_heds</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>As the end credits are rolling: What happened? Suddenly, the film stalls, and everything that looked great -- the mechanics of the caper, the grafted-on wit and wisdom -- starts to feel repetitious and a tad gimmicky.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/LAC.20060324.INSIDE24/TPStory/TPEntertainment/</url>
+         <critic>Rick Groen</critic>
+      </review>
+      <review>
+         <snippet>The whole plot smells fishy. It's not that the movie is hiding something, but that when it's revealed, it's been left sitting too long at room temperature. Inside Man goes to much difficulty to arrive at too little.</snippet>
+         <url>http://www.rogerebert.com/apps/pbcs.dll/article?AID=/20060323/REVIEWS/60314002/1023</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>Inside Man is irrelevant, another semi-high-tech mega-heist movie, the rhythms and tropes of which we are all as familiar with as we are with the wallpaper facing our toilets.</snippet>
+         <url>http://www.dallasobserver.com/Issues/2006-03-23/film/film2.html</url>
+         <critic>Michael Atkinson</critic>
+      </review>
+      <review>
+         <snippet>A fairly routine heist drama and a never especially believable puzzle film.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/264111_inside24q.html</url>
+         <critic>William Arnold</critic>
+      </review>
+   </reviews>
+   <US_Gross>$88,634,237</US_Gross>
+   <production_budget>$50,000,000</production_budget>
+   <weekend_gross>$28,954,945</weekend_gross>
+   <number_of_screens>2,818</number_of_screens>
+   <oscar_winning_actors_present/>
+   <num_oscar_winning_actors>2</num_oscar_winning_actors>
+   <oscar_winning_actor>denzel washington</oscar_winning_actor>
+   <oscar_winning_actor>jodie foster</oscar_winning_actor>
+   <highest_grossing_actors_present/>
+   <num_highest_grossing_actors>1</num_highest_grossing_actors>
+   <highest_grossing_actor>denzel washington</highest_grossing_actor>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

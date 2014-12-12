@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Last Sin Eater, The</name>
+   <company>Fox Faith / The Bigger Picture</company>
+   <genres>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author>Brian Bird</author>
+      <author>Michael Landon Jr.Francine Rivers</author>
+   </authors>
+   <directors>
+      <director>Michael Landon Jr.</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Louise Fletcher</actor>
+      <actor>Henry Thomas</actor>
+      <actor>Liana Liberato</actor>
+      <actor>Soren Fulton</actor>
+      <actor>A.J. Buckley</actor>
+      <actor>Stewart Finlay-McLennan</actor>
+      <actor>Peter Wingfield</actor>
+      <actor>Elizabeth Lackey</actor>
+   </actors>
+   <release_date>February 9, 2007</release_date>
+   <running_time>141</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>Handsomely produced, earnestly performed and 100 percent irony-free, The Last Sin Eater is religious art for mainstream consumption.</snippet>
+         <url>http://www.nytimes.com/2007/02/09/movies/09last.html?ref=movies</url>
+         <critic>Matt Zoller Seitz</critic>
+      </review>
+      <review>
+         <snippet>The Last Sin Eater has a specific audience in its sights, one that doesn't mind the film's characters having their problems solved by the healing power of truth and faith.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/302959_sineater09q.html</url>
+         <critic>Manny Lewis</critic>
+      </review>
+      <review>
+         <snippet>The lovely shots of Appalachian vistas are spoiled by cheesy special effects straight from the 1960s Chroma-Key era.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-070209-movies-review-sin,0,3508045.story?coll=mmx-movies_top_heds</url>
+         <critic>Louis R. Carlozo</critic>
+      </review>
+      <review>
+         <snippet>Clearly targeted at Christians looking to reaffirm their faith. Its chances of crossover success with the secular crowd seem remote, given the dramatic shortcomings.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1131660&amp;categories=Movies&amp;nm=1</url>
+         <critic>Desson Thomson</critic>
+      </review>
+      <review>
+         <snippet>Michael Landon Jr.'s respectfully sincere but only fitfully involving film.</snippet>
+         <url>http://www.variety.com/review/VE1117932724.html?categoryid=31&amp;cs=1</url>
+         <critic>Joe Leydon</critic>
+      </review>
+      <review>
+         <snippet>The voice-over narration is obvious, but overall the message is integrated into an unusual story that's enhanced by Liberato's and Fulton's appealing performances as the youngsters who see through their elders' lies and help right a terrible wrong.</snippet>
+         <url>http://tvguide.com/detail/movie.aspx?tvobjectid=286204&amp;more=ucmoviereview</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>Folks wanting to hear the usual New Testament message will be pleased; others may feel that the tension dissolves in homilies and wish the main character weren't led around by a blonde-haired little angel in a white dress.</snippet>
+         <url>http://ae.charlotte.com/entertainment/ui/charlotte/movie.html?id=802844&amp;reviewId=22188&amp;startDate=NEXT7</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>The transgression that dogs much faith-based art - and leaves its stain on The Last Sin Eater - is the inability to divorce art from agenda; that is, you can feel the filmmaker forcing the round peg of evangelism into the square hole of creative excellence.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-to.sin09feb09,0,2999992.story?coll=bal-artslife-movies</url>
+         <critic>Louis R. Carlozo</critic>
+      </review>
+      <review>
+         <snippet>The miscasting of Fletcher--still a forbidding screen presence--as a kindly grandmother is only one of many missteps that director Michael Landon Jr. (yes, it's his son) makes in The Last Sin Eater.</snippet>
+         <url>http://www.villagevoice.com/film/0706,grose,75753,20.html</url>
+         <critic>Jessica Grose</critic>
+      </review>
+      <review>
+         <snippet>The cast includes Oscar winner Louise Fletcher (Nurse Ratched herself) and Henry Thomas of "E.T.," and the special effects look like they were executed on somebody's laptop.</snippet>
+         <url>http://www.nypost.com/seven/02092007/entertainment/movies/not_much_to_chew_on_movies_lou_lumenick.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>Whether their goal is to nourish the faithful or lure the heathens is not always clear. The only thing that's clear is that The Last Sin Eater serves neither of these higher purposes.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A443306</url>
+         <critic>Marjorie Baumgarten</critic>
+      </review>
+   </reviews>
+   <US_Gross>$388,390</US_Gross>
+   <production_budget>$2,200,000</production_budget>
+   <weekend_gross>$246,483</weekend_gross>
+   <number_of_screens>429</number_of_screens>
+   <oscar_winning_actors_present/>
+   <num_oscar_winning_actors>1</num_oscar_winning_actors>
+   <oscar_winning_actor>louise fletcher</oscar_winning_actor>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

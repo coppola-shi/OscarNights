@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Brothers Bloom, The</name>
+   <company>Summit Entertainment</company>
+   <genres>
+      <genre>Adventure</genre>
+      <genre>Comedy</genre>
+      <genre>Crime</genre>
+      <genre>Drama</genre>
+      <genre>Romance</genre>
+   </genres>
+   <authors>
+      <author>Rian Johnson</author>
+   </authors>
+   <directors>
+      <director>Rian Johnson</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Rachel Weisz</actor>
+      <actor>Adrien Brody</actor>
+      <actor>Mark Ruffalo</actor>
+      <actor>Rinko Kikuchi</actor>
+      <actor>Robbie Coltrane</actor>
+   </actors>
+   <release_date>May 15, 2009</release_date>
+   <running_time>109</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>The Brothers Bloom has it all: charming romance, jaunty adventure story, witty dialogue, gorgeous cinematography and superb performances.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2009-05-14-bloom-review_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>Hugely entertaining.</snippet>
+         <url>http://www.oregonlive.com/movies/index.ssf/2009/05/review_dirty_rotten_scoundrels.html</url>
+         <critic>M. E. Russell</critic>
+      </review>
+      <review>
+         <snippet>The Brothers Bloom with satisfy those with a yearning for lighthearted heist tales, comedies, and offbeat romances.</snippet>
+         <url>http://www.reelviews.net/php_review_template.php?identifier=1638</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>The jaunty, energetic first 10 minutes of  The Brothers Bloom are easily the best first 10 minutes of any film I've seen this year. And while the succeeding hour and 43 minutes doesn't hold up to the movie's opening scenes, the whole endeavor is still an awfully good time.</snippet>
+         <url>http://archives.chicagotribune.com/2008/oct/16/entertainment/chi-brothers-bloom-movie-1016oct16</url>
+         <critic>Jessica Reaves</critic>
+      </review>
+      <review>
+         <snippet>This time we expect to be played, but the twist is that we're also touched -- which, the film implies, is the cinema's own form of deception.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20278663,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>Johnson has infused The Brothers Bloom with so much heart and beauty that one can and should easily overlook its discomfiting moments. The truth is, the film's even more profound and touching upon second viewing.</snippet>
+         <url>http://www.villagevoice.com/2009-05-13/film/the-brothers-bloom-is-no-joke/</url>
+         <critic>Robert Wilonsky</critic>
+      </review>
+      <review>
+         <snippet>A little bit of screwball comedy and a lot of film noir, add a dash of suspense-drama, and half a dozen card tricks too, then you have the recipe for making The Brothers Bloom.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=11754</url>
+         <critic>Stina Chyn</critic>
+      </review>
+      <review>
+         <snippet>The Brothers Bloom is all about exploding forms, tropes and archetypes. But it's also a charmer, a witty sandbagging of one's resistance to fairy tale and a movie afflicted with a kind of comic Tourette's syndrome.</snippet>
+         <url>http://www.washingtonpost.com/gog/movies/the-brothers-bloom,1145429.html</url>
+         <critic>John Anderson</critic>
+      </review>
+      <review>
+         <snippet>Never achieves the satisfaction of a real crackerjack con movie.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A783959</url>
+         <critic>Kimberley Jones</critic>
+      </review>
+      <review>
+         <snippet>Johnson sets viewers up for greatness, but ultimately offers much milder pleasures. The film isn’t an outright con, but it’s easy to feel a little misled by the end.</snippet>
+         <url>http://www.avclub.com/articles/the-brothers-bloom,27950/?utm_source=channel_film</url>
+         <critic>Keith Phipps</critic>
+      </review>
+      <review>
+         <snippet>Weisz infuses comic complexity into the ensemble, which is at times genuinely funny.</snippet>
+         <url>http://www.premiere.com/Review/Movies/The-Brothers-Bloom</url>
+         <critic>Jordan Burchette</critic>
+      </review>
+      <review>
+         <snippet>This movie is lively at times, it's lovely to look at, and the actors are persuasive in very difficult material. But around and around it goes, and where it stops, nobody by that point much cares.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20090520/REVIEWS/905209987</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>Even after the plot has left you behind, you still watch The Brothers Bloom with a smile, because the actors are so engaging.</snippet>
+         <url>http://www.miamiherald.com/entertainment/movies/reviews/story/1069004.html</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>The Brothers Bloom is much more interested in showing off its own smarts, such as they are, than in challenging the audience's.</snippet>
+         <url>http://www.csmonitor.com/2009/0529/p17s04-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>The old carnival phrase "Close, but no cigar" comes to mind when watching The Brothers Bloom , a globetrotting heist film that starts off terrifically and then progressively deflates.</snippet>
+         <url>http://www.theglobeandmail.com/news/arts/the-brothers-bloom/article1146898/</url>
+         <critic>Liam Lacey</critic>
+      </review>
+      <review>
+         <snippet>Emotionally, The Brothers Bloom hasn't a trace of detachment or cynicism. Even if you don't quite comprehend the ending (there seem to be 12 of them), you'll still feel the wallop of its consequences.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2009/05/21/MV6G17O2AD.DTL&amp;type=movies</url>
+         <critic>Amy Binacolli</critic>
+      </review>
+      <review>
+         <snippet>High-style goofballing and globetrotting can get you pretty far, but maybe not as far as Johnson wants us to go.</snippet>
+         <url>http://www.salon.com/ent/movies/btm/feature/2009/05/16/roundup/index.html</url>
+         <critic>Andrew O&amp;#039;Hehir</critic>
+      </review>
+      <review>
+         <snippet>Breezily enjoyable for about 10 minutes, until you realize the entire movie is going to be pitched at the same exuberantly manic pace. It's like being trapped in an elevator with a performing poodle that doesn't know when to quit.</snippet>
+         <url>http://www.boston.com/ae/movies/articles/2009/05/22/cascade_of_cute_cons_doesnt_know_when_to_quit/</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>Rian Johnson's film is a scam wrapped in a sham.</snippet>
+         <url>http://www.philly.com/philly/entertainment/movies/20090522_The_Brothers_Bloom___.html</url>
+         <critic>Carrie Rickey</critic>
+      </review>
+      <review>
+         <snippet>Like Anderson, Johnson has a fine eye for color, great taste in music, and a knack for painterly compositions, but the world he creates is airless and ultimately empty.</snippet>
+         <url>http://www.slate.com/id/2218399/</url>
+         <critic>Dana Stevens</critic>
+      </review>
+      <review>
+         <snippet>The movie fails to add up to the sum of its laborious parts. There's no emotional investment in any of the characters, and you can see the writer-director's windup con coming a mile away.</snippet>
+         <url>http://www.nypost.com/seven/05152009/entertainment/movies/runs_out_of_scheme_169299.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>As much as you admire the stagecraft and the technical skills on display, when all is said and done, that's all it is: a fancy, not-quite-two-hour stunt.</snippet>
+         <url>http://movies.nytimes.com/2009/05/15/movies/15bloo.html?ref=movies</url>
+         <critic>Stephen Holden</critic>
+      </review>
+      <review>
+         <snippet>It often seems precious and overconceived, its accumulating crosses and double-crosses as devoid of consequence as a child's backyard game.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/capsules/33765_BROTHERS_BLOOM</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>A couple of rather Dickensian supporting roles by Robbie Coltrane and Maximilian Schell fall embarrassingly flat as they are more creations of costumes and makeup than actual flesh-and-blood. But then the same can be said for the entire movie.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?rid=11612</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>The leads aren't only miscast -- Brody over-mopes and the usually wonderful Ruffalo seems out of sorts as a rascally schemer -- but interest in the con plot fades as the director's bag of tricks empties further.</snippet>
+         <url>http://www.latimes.com/entertainment/news/la-et-bloom15-2009may15,0,4140416.story</url>
+         <critic>Robert Abele</critic>
+      </review>
+      <review>
+         <snippet>An overstuffed failure that mistakes sleight storytelling for dazzling entertainment.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2009/05/14/2009-05-14_the_brothers_bloom_is_an_overstuffed_fail.html</url>
+         <critic>Staff (Not credited)</critic>
+      </review>
+   </reviews>
+   <US_Gross>$3,531,756</US_Gross>
+   <weekend_gross>$90,400</weekend_gross>
+   <number_of_screens>4</number_of_screens>
+   <oscar_winning_actors_present/>
+   <num_oscar_winning_actors>1</num_oscar_winning_actors>
+   <oscar_winning_actor>adrien brody</oscar_winning_actor>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

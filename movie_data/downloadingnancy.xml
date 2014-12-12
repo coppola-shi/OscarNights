@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Downloading Nancy</name>
+   <company>Strand Releasing</company>
+   <genres>
+      <genre>Drama</genre>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>Pamela Cuming</author>
+      <author>Lee Ross</author>
+   </authors>
+   <directors>
+      <director>Johan Renck</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Maria Bello</actor>
+      <actor>Jason Patric</actor>
+      <actor>Rufus Sewel</actor>
+      <actor>Amy Brenneman</actor>
+   </actors>
+   <release_date>June 5, 2009</release_date>
+   <running_time>102</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>There are brutal scenes with razor blades and other impromptu devices of erotic torment, but what makes the movie a trial to sit through isn't just the heroine's pain-freak tastes.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20282751,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>An icky S&amp;M thriller.</snippet>
+         <url>http://www.nypost.com/seven/06052009/entertainment/movies/downloading_nancy_172615.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>In short, this is a movie about bruised people bruising each other, and if Downloading Nancy had more of an openly pulpy sensibility, then the repugnant premise might’ve had some lasting impact.</snippet>
+         <url>http://www.avclub.com/articles/downloading-nancy,28815/</url>
+         <critic>Noel Murray</critic>
+      </review>
+      <review>
+         <snippet>On a moment to moment basis, however, picture continuously skirts very close to the ludicrous in its advanced-stage grimness and outre forms of torture foreplay.</snippet>
+         <url>http://www.variety.com/review/VE1117935894.html?categoryid=31&amp;cs=1&amp;query=downloading+nancy</url>
+         <critic>Todd McCarthy</critic>
+      </review>
+      <review>
+         <snippet>Downloading Nancy is an excruciating experience.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=10545</url>
+         <critic>Jamie Tipps</critic>
+      </review>
+      <review>
+         <snippet>To her credit, Bello makes a real commitment to this spiteful, self-absorbed character, though the credibility she generates through sheer force of will is no match for the gimmicky plot twist that arrives at the story’s midpoint and sends the movie spinning off into stupid-land.</snippet>
+         <url>http://www.chicagoreader.com/chicago/MovieTimes?oid=1003564</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>Ill conceived and unworthy (and dull and ridiculous).</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2009/07/09/MVA818JTN0.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>The Swedish video and commercial director seeks artistic adventure but winds up with pointless self-indulgence.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?rid=10501</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>Unpleasantly icy film based on a true story.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2009/06/05/2009-06-05_film_briefs_tennessee_herb__dorothy_downloading_nancy.html</url>
+         <critic>Joe Neumaier</critic>
+      </review>
+      <review>
+         <snippet>The jump cuts and nonlinear narrative are gratuitously stylish, and when you peel away this film's complex performances, at the core of its drawn-out suicide spectacle is pain so extreme, so alienating, and, in the end, so pointless.</snippet>
+         <url>http://www.villagevoice.com/2009-06-03/film/downloading-nancy-delves-into-schizoid-realm-of-s-m/</url>
+         <critic>Elena Oumano</critic>
+      </review>
+      <review>
+         <snippet>A nasty exploitation flick tarted up with art-house actors and psychobabble.</snippet>
+         <url>http://movies.nytimes.com/2009/06/05/movies/05nanc.html?ref=movies</url>
+         <critic>Manohla Dargis</critic>
+      </review>
+   </reviews>
+   <US_Gross>$22,282</US_Gross>
+   <weekend_gross>$10,324</weekend_gross>
+   <number_of_screens>5</number_of_screens>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

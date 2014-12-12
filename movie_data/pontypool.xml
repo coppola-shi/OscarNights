@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Pontypool</name>
+   <company>IFC Films</company>
+   <genres>
+      <genre>Horror</genre>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>Tony Burgess</author>
+   </authors>
+   <directors>
+      <director>Bruce Mc</director>
+      <director>Donald</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Stephen McHattie</actor>
+      <actor>Lisa Houle</actor>
+      <actor>Georgina Reilly</actor>
+   </actors>
+   <release_date>May 29, 2009</release_date>
+   <running_time>95</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>Think of this witty, economically gory little tour de force as "28 Days Later" written by linguist Noam Chomsky.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20281265,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>Primarily though, the film works as a tour de force for McHattie--a veteran character actor making the most of his character’s long, fluid monologues--and as a sly commentary on journalistic responsibility.</snippet>
+         <url>http://www.avclub.com/articles/pontypool,28529/?utm_source=channel_film</url>
+         <critic>Noel Murray</critic>
+      </review>
+      <review>
+         <snippet>Between its ridiculous setup and its hard-to-care-about ending, McDonald still manages to craft an engaging suspense film that -- when you're not scratching your head in puzzlement -- will have you on the edge of your seat.</snippet>
+         <url>http://www.nola.com/movies/index.ssf/2009/06/pontypool_a_zombietastic_thril.html</url>
+         <critic>Mike Scott</critic>
+      </review>
+      <review>
+         <snippet>A horror flick that's all talk and (almost) no action? The risk pays off better than you'd think.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2009/05/29/2009-05-29_short_takes_.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>Efficient enough to attract a cult audience.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film-reviews/film-review-pontypool-1003978501.story</url>
+         <critic>Stephen Farber</critic>
+      </review>
+      <review>
+         <snippet>Pontypool doesn't jell--its pretensions way exceed its reach--yet it's madly suggestive, and it rekindled my affection for the genre.</snippet>
+         <url>http://nymag.com/movies/reviews/56929/</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>A small Canadian horror film that makes the most of its minuscule budget.</snippet>
+         <url>http://movies.nytimes.com/2009/05/29/movies/29pont.html?ref=movies</url>
+         <critic>Stephen Holden</critic>
+      </review>
+      <review>
+         <snippet>The premise has potential, but there's no follow- through. And there's no actual zombie mayhem; we learn everything secondhand -- from phone calls to the station.</snippet>
+         <url>http://www.nypost.com/seven/05292009/entertainment/movies/deaths_call_in_show_171418.htm</url>
+         <critic>V.A. Musetto</critic>
+      </review>
+      <review>
+         <snippet>A zombie flick sans bite.</snippet>
+         <url>http://www.variety.com/review/VE1117938407.html?categoryid=2863&amp;cs=1&amp;query=pontypool</url>
+         <critic>Rob Nelson</critic>
+      </review>
+      <review>
+         <snippet>For a film about the perils of too much talk, there's quite a lot of babbling presented as profundity. The political statements in Pontypool, much like those in another recent Canadian offering, Atom Egoyan's trite terrorism hand-wringer "Adoration," seem all the less provocative for appearing several years too late--McDonald's film might have had more punch if it were released when Bluetooth first rolled out.</snippet>
+         <url>http://www.villagevoice.com/2009-05-27/film/pontypool-babbles-a-lot-for-a-zombie-flick/</url>
+         <critic>Melissa Anderson</critic>
+      </review>
+      <review>
+         <snippet>Pontypool is something like a claustrophobic, locked-in-the-barn zombie movie, only almost without zombies.</snippet>
+         <url>http://www.salon.com/ent/movies/btm/feature/2009/05/30/munyurangabo/index.html</url>
+         <critic>Andrew O&amp;#039;Hehir</critic>
+      </review>
+   </reviews>
+   <US_Gross>$3,865</US_Gross>
+   <weekend_gross>$1,541</weekend_gross>
+   <number_of_screens>1</number_of_screens>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

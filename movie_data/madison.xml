@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Madison</name>
+   <company>MGM Studios</company>
+   <genres>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author>William Bindley</author>
+      <author>Scott Bindley</author>
+   </authors>
+   <directors>
+      <director>William Bindley</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Jake Lloyd</actor>
+      <actor>Mary McCormack</actor>
+      <actor>James Caviezel</actor>
+      <actor>Bruce Dern</actor>
+      <actor>Reed Diamond</actor>
+      <actor>Richard Lee Jackson</actor>
+   </actors>
+   <release_date>April 22, 2005</release_date>
+   <running_time>105</running_time>
+   <rating>PG</rating>
+   <reviews>
+      <review>
+         <snippet>The result is a feeling of quiet heroism--people doing things because it's right to do them, even if it's not easy.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-050421-movies-review-me-madison.story</url>
+         <critic>Michael Esposito</critic>
+      </review>
+      <review>
+         <snippet>What is it about Indiana that inspires movies about small-town dreamers who come from behind to win?</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20050421/REVIEWS/50413002/1001</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>Inspirational but uninspired sports movie.</snippet>
+         <url>http://www.variety.com/review/VE1117926860?categoryid=31&amp;cs=1</url>
+         <critic>Justin Chang</critic>
+      </review>
+      <review>
+         <snippet>If not for the race sequences and the intriguing presence of Caviezel, who made this film before "The Passion of the Christ" and who one hopes will take on even more roles befitting his peculiar sad-eyed charisma, the film would amount to a well-intentioned snooze.</snippet>
+         <url>http://www.laweekly.com/film/film_results.php?showid=3367&amp;Sumbit.x=41&amp;Sumbit.y=9</url>
+         <critic>Kim Morgan</critic>
+      </review>
+      <review>
+         <snippet>While Madison is earnest and inoffensive, it offers no surprises, few fascinating characters and a hackneyed script.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/221084_madison22q.html</url>
+         <critic>William Arnold</critic>
+      </review>
+      <review>
+         <snippet>Tends toward the generic, and Jim Caviezel is hopelessly bland in the lead. Among the bright spots are Mary McCormack as the hero's wife and Bruce Dern as the wise old motorboat guru.</snippet>
+         <url>http://spacefinder.chicagoreader.com/movies/briefs/27914_MADISON.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>This otherwise amiable family film plods whenever the action returns to dry land.</snippet>
+         <url>http://tvguide.com/movies/database/showmovie.asp?MI=43938</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>Wants to be both heartwarming and quirky but is sometimes just cutesy instead.</snippet>
+         <url>http://movies2.nytimes.com/2005/04/22/movies/22madi.html</url>
+         <critic>Anita Gates</critic>
+      </review>
+      <review>
+         <snippet>The drama gets stuck in a dispiritingly dull rut and fails to build toward what is supposed to be a something of a crowd-rousing triumph over adversity.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1000884769</url>
+         <critic>Michael Rechtshaffen</critic>
+      </review>
+      <review>
+         <snippet>Madison couldn't be more wholesome if they served it with a tall glass of fresh milk.</snippet>
+         <url>http://www.theavclub.com/review.php?review_id=8417</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>Director and co-writer William Bindley engages every move in the underdog playbook, including, but not limited to, the time the good citizens of Bedford Falls chipped in to make up George Bailey's shortfall in "It's a Wonderful Life."</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1051992_1_0_,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>Madison peddles condescending hokum as heartland values.</snippet>
+         <url>http://www.villagevoice.com/film/0516,tracking1,63121,20.html</url>
+         <critic>Benjamin Strong</critic>
+      </review>
+      <review>
+         <snippet>Benefits from Caviezel's ability to project earnestness better than nearly any actor currently working, but its near-comic predictability, "What else could go wrong?" plotting and cliché-ridden screenplay sink it.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-capsules22apr22,2,7389705.story</url>
+         <critic>Kevin Crust</critic>
+      </review>
+      <review>
+         <snippet>By the time this corn festival is over, you'll be crying out for the relative toughness of the average Jimmy Stewart film.</snippet>
+         <url>http://www.nypost.com/movies/42980.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>There isn't a scene, an action or a character that rings true, yet the narrative summary of the events that inspired it is a matter of record.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/story/302267p-258753c.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+   </reviews>
+   <US_Gross>$517,262</US_Gross>
+   <production_budget>$14,000,000</production_budget>
+   <weekend_gross>$268,370</weekend_gross>
+   <number_of_screens>93</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>On the Outs</name>
+   <company>Youth House Productions / Fader Films</company>
+   <genres>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author>Lori Silverbush</author>
+   </authors>
+   <directors>
+      <director>Lori Silverbush</director>
+      <director>Michael Skolnik</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Anny Mariano</actor>
+      <actor>Judy Marte</actor>
+      <actor>Paola Mendoza</actor>
+      <actor>Dominic Colon</actor>
+      <actor>Flaco Navaja</actor>
+      <actor>Danny Rivera</actor>
+      <actor>Don Parma</actor>
+      <actor>Earl Thomason</actor>
+   </actors>
+   <release_date>July 13, 2005</release_date>
+   <running_time>86</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>On the Outs parses the hopes and terrors of blasted lives with an empathy that never cheapens into pity. The movie wounds as much as it heals, and that's its true power.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1087389_1_0_,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>A gritty, well-acted, documentary-style drama.</snippet>
+         <url>http://www.nypost.com/movies/50014.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>What makes the film feel genuine, however, are the performances.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/moviereviews/story/327434p-279889c.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>The excellent performances by the three leads, and the filmmakers' refusal to sugarcoat reality, elevate the film far beyond after-school special territory into something far more lasting.</snippet>
+         <url>http://ae.miami.com/entertainment/ui/miami/movie.html?id=523289&amp;reviewId=19969</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>Certainly not the first film to show how a crushing urban environment can make a sensible-sounding antidrug slogan like "just say no" seem like so much nonsense, but it's one of the strongest.</snippet>
+         <url>http://movies2.nytimes.com/2005/07/13/movies/13outs.html?</url>
+         <critic>Stephen Holden</critic>
+      </review>
+      <review>
+         <snippet>Powerful, documentary-style drama draws on the real-life experiences of "at risk" teenage girls.</snippet>
+         <url>http://tvguide.com/movies/database/ShowMovie.asp?MI=46305</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>Skillfully entwines stories of three young women drifting in and out of a Jersey City juvenile detention center.</snippet>
+         <url>http://www.variety.com/review/VE1117925197?categoryid=31&amp;cs=1</url>
+         <critic>Joe Leydon</critic>
+      </review>
+      <review>
+         <snippet>A scared-straight after-school special, but actually good.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2006/01/12/btm/index1.html?CP=IMD&amp;DN=110</url>
+         <critic>Andrew O&amp;#039;Hehir</critic>
+      </review>
+      <review>
+         <snippet>Bracing and remarkably compact drama, which invests some standard movie tropes of rough-and-tumble urban life with deep feeling and urgency.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-outs20jan20,0,204685.story</url>
+         <critic>Jan Stuart</critic>
+      </review>
+      <review>
+         <snippet>A compelling albeit highly discouraging portrait.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1001882000</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>It's all too easy to dismiss the characters' troubles as entirely of their own making. But the cast's fearless, evocative performances help a great deal.</snippet>
+         <url>http://www.theonionavclub.com/review.php?review_id=8698</url>
+         <critic>Tasha Robinson</critic>
+      </review>
+      <review>
+         <snippet>Most importantly, the environment feels real: the accents, the snaps, the working moms and warehouse crack nooks, every dilapidated stairwell, every bodega and lovingly appointed teenage bedroom sanctuary.</snippet>
+         <url>http://www.villagevoice.com/film/0528,sinagra,65802,20.html</url>
+         <critic>Laura Sinagra</critic>
+      </review>
+      <review>
+         <snippet>On the Outs has its rewards, especially in the mesmerizing performance of Marte.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1110911&amp;lat=200.0&amp;lon=200.0&amp;displaySearchLocation=&amp;nm=1&amp;categories=Movies</url>
+         <critic>Ann Hornaday</critic>
+      </review>
+      <review>
+         <snippet>Well-meaning but mediocre.</snippet>
+         <url>http://www.laweekly.com/index.php?option=com_lawcontent&amp;task=view&amp;id=12438&amp;Itemid=9</url>
+         <critic>Ernest Hardy</critic>
+      </review>
+   </reviews>
+   <US_Gross>$49,772</US_Gross>
+   <production_budget>$250,000</production_budget>
+   <weekend_gross>$25,460</weekend_gross>
+   <number_of_screens>1</number_of_screens>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

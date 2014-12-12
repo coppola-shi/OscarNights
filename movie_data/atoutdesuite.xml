@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>A Tout de Suite</name>
+   <company>Cinema Guild</company>
+   <genres>
+      <genre>Drama</genre>
+      <genre>Foreign</genre>
+   </genres>
+   <authors>
+      <author>Benoît Jacquot</author>
+      <author>Elisabeth Fanger</author>
+   </authors>
+   <directors>
+      <director>Benoît Jacquot</director>
+   </directors>
+   <origins>
+      <origin>France</origin>
+   </origins>
+   <actors>
+      <actor>Nicolas Duvauchelle</actor>
+      <actor>Isild Le Besco</actor>
+      <actor>Ouassini Embarek</actor>
+      <actor>Laurence Cordier</actor>
+      <actor>Forini Kodoukaki</actor>
+      <actor>Léonor Graser</actor>
+      <actor>Emmanuelle Bercot</actor>
+      <actor>Odile Vuillemin</actor>
+   </actors>
+   <release_date>April 29, 2005</release_date>
+   <running_time>95</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>It's hard to imagine many films surpassing or even equaling the effect of this supple, breathtakingly direct, small French film.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-tout20may20,0,4136860.story</url>
+         <critic>Kevin Thomas</critic>
+      </review>
+      <review>
+         <snippet>Le Besco gives an unforgettable performance in a movie that's sweet and sad, formally near-perfect but never cynical.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2005/04/28/btm/index2.html</url>
+         <critic>Andrew O&amp;#039;Hehir</critic>
+      </review>
+      <review>
+         <snippet>Absorbing thriller.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/capsules/26862_RIGHT_NOW</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>The downbeat story unfolds in quick, incisive slashes in which the combination of minimal dialogue and gorgeous black-and-white photography lends the movie a chilly documentary realism.</snippet>
+         <url>http://movies2.nytimes.com/2005/04/29/movies/29suit.html?adxnnl=1&amp;adxnnlx=1114733864-WsOxP1vUo356hujQK0ZYDQ</url>
+         <critic>Stephen Holden</critic>
+      </review>
+      <review>
+         <snippet>An exceptionally perceptive film about what it's like to be 19 years old.</snippet>
+         <url>http://sfgate.com/cgi-bin/article.cgi?f=/c/a/2005/06/17/DDGTID9GDV1.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>The result is a painful and poignant film at once empathetic and critical, more soberly unnerving than exciting, but never less than compelling.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/237144_limited19.html</url>
+         <critic>Sean Axmaker</critic>
+      </review>
+      <review>
+         <snippet>One of those rich girl/bad boy things that defy understanding and leave you on the outside. Fascinated, but on the outside.</snippet>
+         <url>http://www.washingtonpost.com/wp-dyn/content/article/2005/06/23/AR2005062301869.html</url>
+         <critic>Stephen Hunter</critic>
+      </review>
+      <review>
+         <snippet>Set in Paris in 1975, this sensitive, low-key film is another exquisitely crafted volume in French director Benoit Jacquot's collection of films about young Frenchwomen at pivotal points in their lives.</snippet>
+         <url>http://tvguide.com/movies/database/ShowMovie.asp?MI=46082</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>Based on true events, À Tout De Suite reveals the seductions of criminal life to be something like Stockholm Syndrome for Le Besco.</snippet>
+         <url>http://www.theavclub.com/cinema/index.php?issue=4117&amp;r=2</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>Less a tale of desperado lovers than a cruel story of youth, Tout de Suite is framed largely in close-up, with few transitional shots and a narrative that grows increasingly fragmented.</snippet>
+         <url>http://www.villagevoice.com/film/0517,hoberman2,63408,20.html</url>
+         <critic>J. Hoberman</critic>
+      </review>
+      <review>
+         <snippet>Though it happens two-thirds into the movie, when Lili is abandoned by the others in Greece without either luggage or money, Le Besco's vulnerability draws us into her predicament.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/moviereviews/story/304646p-260635c.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>Like all of Jacquot's movies, it's not crazy enough.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=8261</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>Strikingly crafted but rather empty drama.</snippet>
+         <url>http://www.variety.com/index.asp?layout=cannes2004&amp;content=review&amp;reviewid=VE1117923851&amp;categoryid=1724&amp;cs=</url>
+         <critic>David Rooney</critic>
+      </review>
+      <review>
+         <snippet>A series of beautifully bleak black-and-white images of the sexy actress Islid Le Besco staring gravely out of windows.</snippet>
+         <url>http://www.nypost.com/movies/43173.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>Short on details and long on extreme, unflattering close-ups.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-to.suite08jul08,1,393605.story?coll=bal-artslife-movies</url>
+         <critic>Chris Kaltenbach</critic>
+      </review>
+      <review>
+         <snippet>In the end, A Tout de Suite leads to not much more of a point than one woman's loss of innocence.</snippet>
+         <url>http://www.washingtonpost.com/wp-dyn/content/article/2005/06/23/AR2005062300988.html</url>
+         <critic>Desson Thomson</critic>
+      </review>
+      <review>
+         <snippet>Jacquot seems unwilling to either shape his story or offer commentary, a standard New Wave strategy that, in this instance, makes for a tale as vague as it is nouvelle.</snippet>
+         <url>http://www.laweekly.com/film/film_results.php?showid=3406&amp;Sumbit.x=59&amp;Sumbit.y=9</url>
+         <critic>Ella Taylor</critic>
+      </review>
+      <review>
+         <snippet>Its gorgeous black-and-white photography, dirty and matte, will almost convince you that anything this slow, small and bereft of dialogue must be important.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-050825-movies-review-suite,0,4641796.story?coll=mmx-movies_top_heds</url>
+         <critic>Allison Benedikt</critic>
+      </review>
+      <review>
+         <snippet>It's a slow and laborious persona piece.</snippet>
+         <url>http://listings.dallasobserver.com/gyrobase/Film/ShowFilm</url>
+         <critic>Melissa Levine</critic>
+      </review>
+   </reviews>
+   <US_Gross>$248,565</US_Gross>
+   <weekend_gross>$15,637</weekend_gross>
+   <number_of_screens>1</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

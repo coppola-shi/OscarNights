@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Gran Torino</name>
+   <company>Warner Bros. Pictures</company>
+   <genres>
+      <genre>Action</genre>
+      <genre>Drama</genre>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>Dave Johannson</author>
+      <author>Nick Schenk</author>
+   </authors>
+   <directors>
+      <director>Clint Eastwood</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Clint Eastwood</actor>
+      <actor>Bee Vang</actor>
+      <actor>Ahney Her</actor>
+      <actor>Christopher Carley</actor>
+   </actors>
+   <release_date>December 12, 2008</release_date>
+   <running_time>minutes,</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>A movie at once understated and radical, deceptively unremarkable in presentation and ballsy in its earnestness. Don't let the star's overly familiar squint fool you: This is subtle, perceptive stuff.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20245342,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>Above all, it feels like a summation of everything he (Eastwood) represents as a filmmaker and a movie star, and perhaps also a farewell.</snippet>
+         <url>http://www.villagevoice.com/2008-12-10/film/clint-eastwood-finds-salvation-in-gran-torino/</url>
+         <critic>Scott Foundas</critic>
+      </review>
+      <review>
+         <snippet>Perhaps the best thing about Schenk's script is that it enticed Eastwood to end his self-imposed acting hiatus and bring his one-of-a-kind aura back to the screen.</snippet>
+         <url>http://www.latimes.com/entertainment/news/reviews/la-et-torino12-2008dec12,0,2314630.story</url>
+         <critic>Kenneth Turan</critic>
+      </review>
+      <review>
+         <snippet>Mr. Eastwood is also an adept director of his own performances and, perhaps more important, a canny manipulator of his own iconographic presence.</snippet>
+         <url>http://movies.nytimes.com/2008/12/12/movies/12tori.html?ref=movies</url>
+         <critic>Manohla Dargis</critic>
+      </review>
+      <review>
+         <snippet>Eastwood finds the humorous aspects of the character as well, no more so than when the appetite of the widower who lives on beef jerky and Pabst Blue Ribbon becomes the center of attention among the Hmong women cooks.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A722805</url>
+         <critic>Marjorie Baumgarten</critic>
+      </review>
+      <review>
+         <snippet>The movie is supremely entertaining -- and often hilarious.</snippet>
+         <url>http://www.miamiherald.com/entertainment/movies/reviews/story/824513.html</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>A lifetime in movies runs through this prime vintage Eastwood performance. You can't take your eyes off him. The no-frills, no-bull Gran Torino made my day.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/23306978/review/24991126/gran_torino</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>It's also a terrific, career-capping role for Eastwood, who claims he's now retired as an actor. He shows off his comic chops more fully than in any film since "Bronco Billy" more than a quarter-century ago.</snippet>
+         <url>http://www.nypost.com/seven/12122008/entertainment/movies/go_ahead__steal_my_car_143803.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>Stars Eastwood as an American icon once again -- this time as a cantankerous, racist, beer-chugging retired Detroit autoworker who keeps his shotgun ready to lock and load. Dirty Harry on a pension, we're thinking, until we realize that only the autoworker retired; Dirty Harry is still on the job.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20081217/REVIEWS/812179989</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>It's a meditation, as affecting as it is entertaining, on the limits of violence and the power of unchained empathy.</snippet>
+         <url>http://online.wsj.com/article/film_review.html</url>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>If you can survive the F-bombs and the near-constant ethnic invective, Gran Torino is not to be missed, if only as the gutsy, thoroughly unexpected valedictory of an icon fully willing to spend every bit of his considerable capital.</snippet>
+         <url>http://www.washingtonpost.com/gog/movies/gran-torino,1154693.html</url>
+         <critic>Ann Hornaday</critic>
+      </review>
+      <review>
+         <snippet>The movie was not written for Eastwood, but it still seems to be all about him--his past characters, his myth, his old role as a dispenser of raw justice.</snippet>
+         <url>http://www.newyorker.com/arts/critics/cinema/2008/12/22/081222crci_cinema_denby?currentPage=2</url>
+         <critic>David Denby</critic>
+      </review>
+      <review>
+         <snippet>Simply terrific, enormously watchable and an absolute must for all Eastwood fans. Gotta say it: this film will make your day.</snippet>
+         <url>http://www.empireonline.com/reviews/reviewcomplete.asp?FID=135768</url>
+         <critic>Angie Errigo</critic>
+      </review>
+      <review>
+         <snippet>This is Eastwood's first acting job since "Million Dollar Baby," and his range, like his raspiness, is fairly one-note.</snippet>
+         <url>http://www.csmonitor.com/2009/0110/p25s02-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>Gran Torino amounts to one more elegiac movement in Eastwood's astonishing late-career symphony.</snippet>
+         <url>http://blog.oregonlive.com/madaboutmovies/2009/01/movie_review_gran_torino.html</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>For those who gripe that America doesn't make cars or movies like it used to, Clint Eastwood has two words for you: Gran Torino.</snippet>
+         <url>http://www.philly.com/inquirer/columnists/carrie_rickey/20081223_Clint_Eastwoods_crusty_tale_of_a_crusty_character.html</url>
+         <critic>Carrie Rickey</critic>
+      </review>
+      <review>
+         <snippet>This movie seems even rougher around the edges than much of his past work. Still, it's hard to resist.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/393380_grantorino25q.html</url>
+         <critic>William Arnold</critic>
+      </review>
+      <review>
+         <snippet>Earnest and understated, Gran Torino is an unflinching examination of themes that have fascinated Eastwood in most of his recent films: family, war, loss, faith and unexpected human connection.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2008-12-11-torino-review_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>An amazingly over-the-top anti-racism parable but, despite its obvious shortcomings, it is nevertheless effective and affecting.</snippet>
+         <url>http://www.reelviews.net/php_review_template.php?identifier=1418</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>Eastwood directs with his usual relaxed pace and bursts of intensity, a style that's pleasing to watch--and which, also as usual, never fully compensates for any shortcomings of the script handed to him.</snippet>
+         <url>http://www.avclub.com/content/cinema/gran_torino</url>
+         <critic>Keith Phipps</critic>
+      </review>
+      <review>
+         <snippet>Eastwood's furthest venture yet into the comic possibilities of his flintier-than-thou persona.</snippet>
+         <url>http://www.slate.com/id/2206514/</url>
+         <critic>Dana Stevens</critic>
+      </review>
+      <review>
+         <snippet>Highlighted by the star's vastly entertaining performance, this funny, broad but ultimately serious-minded drama about an old-timer driven to put things right in his deteriorating neighborhood looks to be a big audience-pleaser.</snippet>
+         <url>http://www.variety.com/review/VE1117939157.html?categoryid=31&amp;cs=1</url>
+         <critic>Todd McCarthy</critic>
+      </review>
+      <review>
+         <snippet>The movie is ludicrous, but Eastwood’s consistency is poignant. He has an agenda and sticks to it.</snippet>
+         <url>http://nymag.com/movies/reviews/52914/index3.html</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>Gran Torino is not a masterpiece. It’s a fun character drama that features a knowing but winning final performance by Clint Eastwood and just enough commentary to make it worth discussing.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=11427</url>
+         <critic>Scott Mendelson</critic>
+      </review>
+      <review>
+         <snippet>Until Gran Torino starts rumbling headlong toward its tone-deaf, self-serious ending -- the script is by Nick Schenk -- it's often enjoyable, satisfying and funny.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2008/12/12/gran_torino/</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>An endlessly fascinating movie. If only it were a good one.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=12756</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>Eastwood has always had the gift for comedy in his acting repertoire, but he indulges in it only rarely. His fans might embrace this return to comedy.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film-reviews/film-review-gran-torino-1003919698.story</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>Eastwood's performance is the movie's centerpiece, and as you might expect, it's just tough enough to hold everything together.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2008/12/11/2008-12-11_with_gran_torino_nobody_gangs_up_on_clin.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>Eastwood's foursquare directorial aesthetic tends to heighten, rather than camouflage, a screenplay's shortcomings.</snippet>
+         <url>http://www.chicagotribune.com/entertainment/movies/chi-grantorino-review-1219dec19,0,6284870.story</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>Maybe this mixed-up and weird, awful but awfully likable movie is what Dirty Harry had coming to him, after all.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2008/12/18/DDP314PT74.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>Eastwood is still a primal force on-screen, but his unusual practice of shooting scripts as written, which served him well on "Unforgiven" and "Million Dollar Baby," here leaves him exposed to Nick Schenk's familiar situations and awkward dialogue.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/33977_GRAN_TORINO.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>Gran Torino skids into the narrative ditch. By the time it jolts to an ending, followed by Clint rasping a tune to the closing credits, you're more likely to be rolling your eyes than dabbing them.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20081219.wgran19/BNStory/Entertainment/home</url>
+         <critic>Liam Lacey</critic>
+      </review>
+      <review>
+         <snippet>Nick Schenk's well-intentioned script employs the creaky old Hollywood device of reversing everything set up in its first half.</snippet>
+         <url>http://events.charlotteobserver.com/reviews/show/37608-review-gran-torino</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>It's no compliment to say a movie is "all of a piece" if the piece is all worn out. For all its surface harshness, this movie is a star vehicle at once rickety and cozy.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/reviews/bal-to.gran09jan09,0,5881362.story</url>
+         <critic>Michael Sragow</critic>
+      </review>
+   </reviews>
+   <US_Gross>$148,095,302</US_Gross>
+   <weekend_gross>$271,720</weekend_gross>
+   <number_of_screens>6</number_of_screens>
+   <oscar_winning_directors_present/>
+   <num_oscar_winning_directors>1</num_oscar_winning_directors>
+   <oscar_winning_director>clint eastwood</oscar_winning_director>
+   <highest_grossing_actors_present/>
+   <num_highest_grossing_actors>1</num_highest_grossing_actors>
+   <highest_grossing_actor>clint eastwood</highest_grossing_actor>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

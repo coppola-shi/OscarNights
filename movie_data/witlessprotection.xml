@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Witless Protection</name>
+   <company>Lionsgate</company>
+   <genres>
+      <genre>Comedy</genre>
+   </genres>
+   <authors>
+      <author>Charles Robert Carner</author>
+   </authors>
+   <directors>
+      <director>Charles Robert Carner</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Larry The Cable Guy</actor>
+      <actor>Jenny McCarthy</actor>
+      <actor>Peter Stormare</actor>
+      <actor>Eric Roberts</actor>
+      <actor>Ivana Milicevic</actor>
+      <actor>Joe Mantegna</actor>
+   </actors>
+   <release_date>February 22, 2008</release_date>
+   <running_time>97</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>The slapstick and action set pieces are lame, and its performances range from competent to annoying.</snippet>
+         <url>http://movies.nytimes.com/2008/02/23/movies/23witl.html?ref=movies</url>
+         <critic>Matt Zoller Seitz</critic>
+      </review>
+      <review>
+         <snippet>At least a fright-wigged Joe Mantegna, delivering an execrable cameo as a whacked-out doctor, has a good excuse for his presence; the writer-director is one of his former film students.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?JSESSIONID=V3sPH12QVJyyn9XQFX55nG1gRDJQy8B5NLXkfB1cRJqQq5BM2qgp!-435314106&amp;&amp;rid=10714</url>
+         <critic>Frank Scheck</critic>
+      </review>
+      <review>
+         <snippet>If you need a GPS unit to find your own backside, you'll be laughing uproariously at Witless Protection, a movie that's far more interesting politically than dramatically -- or, God knows, comically.</snippet>
+         <url>http://www.variety.com/review/VE1117936290.html?categoryid=31&amp;cs=1</url>
+         <critic>John Anderson</critic>
+      </review>
+      <review>
+         <snippet>Still, it’s hard to despise the movie, especially when Peter Stormare shows up over-enunciating the most brilliantly awful English accent of all time.</snippet>
+         <url>http://www.laweekly.com/film+tv/film-reviews/movie-reviews-be-kind-rewind-men-in-the-nude-the-signal/18391/?page=2</url>
+         <critic>Luke Y. Thompson</critic>
+      </review>
+      <review>
+         <snippet>It's mostly harmless dum-dum stuff, though.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=11095</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>Larry The Cable Guy is a cancerous boil on the ass of comedy, but it's still sort of shocking how little effort he puts into his movies.</snippet>
+         <url>http://www.avclub.com/content/cinema/witless_protection</url>
+         <critic>Steven Hyden</critic>
+      </review>
+   </reviews>
+   <US_Gross>$4,151,836</US_Gross>
+   <weekend_gross>$2,116,692</weekend_gross>
+   <number_of_screens>1,333</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

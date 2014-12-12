@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Igor</name>
+   <company/>
+   <genres>
+      <genre>Animation</genre>
+      <genre>Comedy</genre>
+   </genres>
+   <authors>
+      <author>Chris Mc</author>
+      <author>Kenna</author>
+   </authors>
+   <directors>
+      <director>Anthony Leondis</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+      <origin>France</origin>
+   </origins>
+   <actors>
+      <actor>John Cusack</actor>
+      <actor>Steve Buscemi</actor>
+      <actor>John Cleese</actor>
+      <actor>Jennifer Coolidge</actor>
+      <actor>Arsenio Hall</actor>
+      <actor>Sean Hayes</actor>
+      <actor>Eddie Izzard</actor>
+      <actor>Jay Leno</actor>
+   </actors>
+   <release_date>September 19, 2008</release_date>
+   <running_time>87</running_time>
+   <rating>PG</rating>
+   <reviews>
+      <review>
+         <snippet>This is what "Nightmare" fans have been waiting fifteen years for.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=11202</url>
+         <critic>Eric Campos</critic>
+      </review>
+      <review>
+         <snippet>Much of it will probably go right over the heads of kids who aren't familiar with classic movies or the naughtiness of Eddie Izzard.</snippet>
+         <url>http://movies.tvguide.com/igor/review/295317</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>While the stitches holding together the plot are clearly visible, Igor breathes some enjoyable life into its stolen grab-bag of gimmicks.</snippet>
+         <url>http://www.avclub.com/content/cinema/igor</url>
+         <critic>Tasha Robinson</critic>
+      </review>
+      <review>
+         <snippet>If Mel Brooks were to team up with Tim Burton, the result might be something like the loony and colorfully tantalizing animated film Igor.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2008-09-18-igor_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>With an uneven and overstuffed script you appreciate the corner-of-the-mouth comments as delivered by Steve Buscemi.</snippet>
+         <url>http://chicago.metromix.com/movies/movie_review/movie-review-igor/618199/content</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>Although the visuals tantalize and the actors providing the voices add a lot of sass, the result is only so-so.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?JSESSIONID=y7L9LQ5bqhdBRhvYr290XywB1gpLyQTlVPyb3XdqQbmyy01BPHPD!817092819&amp;&amp;rid=11688</url>
+         <critic>Stephen Farber</critic>
+      </review>
+      <review>
+         <snippet>The visuals are a kick; the groan-inducing dialogue isn't.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20226384,00.html</url>
+         <critic>Adam Markovitz</critic>
+      </review>
+      <review>
+         <snippet>Though it has clever moments, it doesn't come close to the polished animation, wit and originality of the big green guy (Shrek).</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1138126&amp;categories=Movies</url>
+         <critic>Mike Mayo</critic>
+      </review>
+      <review>
+         <snippet>Sparky voice performances and heart make up for this family film's theft of Tim Burton's sensibility.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2008/09/19/2008-09-19_short_takes_for_the_weekend_of_september.html</url>
+         <critic>Joe Neumaier</critic>
+      </review>
+      <review>
+         <snippet>In style and tone, Igor seems more like a short from the adult-oriented "Spike &amp; Mike's Festival of Animation."</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2008/09/18/DDFN12VP9T.DTL&amp;type=movies</url>
+         <critic>Peter Hartlaub</critic>
+      </review>
+      <review>
+         <snippet>Molly Shannon is dementedly charming as Eva.</snippet>
+         <url>http://www.nypost.com/seven/09192008/entertainment/movies/going_hunchback_to_the_drawing_board_129730.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>Too bad Igor didn't jolt the film to life with his Frankenstein shenanigans.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/379641_igor19q.html</url>
+         <critic>Sean Axmaker</critic>
+      </review>
+      <review>
+         <snippet>An animated twist on the Frankenstein story that never sparks to life.</snippet>
+         <url>http://movies.nytimes.com/2008/09/19/movies/19igor.html?ref=movies</url>
+         <critic>Jeannette Catsoulis</critic>
+      </review>
+      <review>
+         <snippet>You can't blame John Cusack for jumping at the chance to play Igor.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=10169</url>
+         <critic>Janice Page</critic>
+      </review>
+      <review>
+         <snippet>Pixar this isn't, but neither is it "Mary Shelley's Veggie Tales." If only.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A672984</url>
+         <critic>Marc Savlov</critic>
+      </review>
+      <review>
+         <snippet>One of those fever-pitched computer-generated whizbangs in which every character spits out lines like a caffeinated Catskills comic.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-igor19-2008sep19,0,2819193.story</url>
+         <critic>Robert Abele</critic>
+      </review>
+      <review>
+         <snippet>With its belabored gags, misfired pop-culture references and garish visuals crammed together like so many disjointed body parts, this manic kidpic cranks up the annoy-o-meter early on and rarely lets up.</snippet>
+         <url>http://www.variety.com/review/VE1117938366.html?categoryid=31&amp;cs=1</url>
+         <critic>Justin Chang</critic>
+      </review>
+      <review>
+         <snippet>One of those non-stop jabbering cartoons in which most of the lines sound like the spontaneous riffs from a couple of comics sitting around a diner.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20080918.wigor19/BNStory/Entertainment/home</url>
+         <critic>Liam Lacey</critic>
+      </review>
+      <review>
+         <snippet>So bad it's scary.</snippet>
+         <url>http://www.laweekly.com/2008-09-18/film-tv/movie-reviews-save-me-take-out-hounddog/</url>
+         <critic>Robert Wilonsky</critic>
+      </review>
+   </reviews>
+   <US_Gross>$19,528,188</US_Gross>
+   <production_budget>$30,000,000</production_budget>
+   <weekend_gross>$7,803,347</weekend_gross>
+   <number_of_screens>2,339</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

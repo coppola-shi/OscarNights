@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Miss March</name>
+   <company>Fox Searchlight Pictures</company>
+   <genres>
+      <genre>Comedy</genre>
+   </genres>
+   <authors>
+      <author>Zach Cregger</author>
+      <author>Trevor Moore</author>
+   </authors>
+   <directors>
+      <director>Zach Cregger</director>
+      <director>Trevor Moore</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Zach Cregger</actor>
+      <actor>Trevor Moore</actor>
+      <actor>Raquel Alessi</actor>
+      <actor>Molly Stanton</actor>
+      <actor>Craig Robinson</actor>
+   </actors>
+   <release_date>March 13, 2009</release_date>
+   <running_time>89</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>The problem with Miss March is that it isn't very funny.</snippet>
+         <url>http://movies.nytimes.com/2009/03/13/movies/13marc.html?ref=movies</url>
+         <critic>Rachel Saltz</critic>
+      </review>
+      <review>
+         <snippet>Miss March is overall a raggedy, unfocused affair that wastes both directors' acting talent and feels like too much work between the laughs.</snippet>
+         <url>http://www.variety.com/review/VE1117939861.html?categoryid=31&amp;cs=1</url>
+         <critic>John Anderson</critic>
+      </review>
+      <review>
+         <snippet>Robinson is hilarious, at least in the early going. Sadly, Robinson is all that stands between Miss March and complete worthlessness.</snippet>
+         <url>http://www.avclub.com/articles/miss-march,25018/</url>
+         <critic>Nathan Rabin</critic>
+      </review>
+      <review>
+         <snippet>A sex comedy that appears to have been made by people who've never actually had sex.</snippet>
+         <url>http://www.boston.com/ae/movies/articles/2009/03/14/nothing_exciting_about_miss_march/</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>Writer-director-stars Zach Cregger and Trevor Moore, of the Whitest Kids U'Know, here prove the crassest, most maladroit moviemakers you know.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20265655,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>Certainly, it's gross, and maybe even a bit shocking, but these filmmakers are smart enough to realize that raising the bar on crassness in teen sex comedies is a zero sum game.</snippet>
+         <url>http://movies.tvguide.com/detail/movie.aspx?tvobjectid=296867&amp;more=ucmoviereview</url>
+         <critic>Josh Ralske</critic>
+      </review>
+      <review>
+         <snippet>It takes a really bad stupid comedy to make you appreciate well-done stupid comedies. 
+And boy is Miss March a stupid comedy.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2009/03/12/2009-03-12_miss_march_is_one_stupid_comedy__in_a_ba.html</url>
+         <critic>Joe Neumaier</critic>
+      </review>
+      <review>
+         <snippet>For a horny-road-trip flick that's actually funny, check out last year's "Sex Drive," which just came out on video.</snippet>
+         <url>http://www.nypost.com/seven/03132009/entertainment/movies/dont_be_centerfooled_by_flat_film_159258.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>This is bad. Not bad in a way that it might be fun to see when inebriated. Bad in a way from which only death provides immunity.</snippet>
+         <url>http://www.reelviews.net/php_review_template.php?identifier=1515</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>Here's the deal: The worst sex cartoon in Playboy's long history can't compete with the sheer vacuousness of this inane comedy.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film-reviews/film-review-miss-march-1003951125.story</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>Even a 15-year-old boy would find this movie to be a chore.</snippet>
+         <url>http://www.latimes.com/entertainment/news/reviews/la-et-missmarch13-2009mar13,0,449756.story</url>
+         <critic>Glenn Whipp</critic>
+      </review>
+      <review>
+         <snippet>It's time to start recognizing that not all escapist entertainment is created equal. And that some of it isn't even entertainment. Miss March is, to use the vernacular of the escapist moviegoer, the biggest pile of crap I've seen in ages.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2009/03/13/miss_march/index.html</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>The meanest and least inspired kids U know.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/34199_MISS_MARCH.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>Only a moron would expect a dude road-trip-sex comedy to be more than an aggressive expression of male sexual anxiety. But really, when did women become such vile creatures.</snippet>
+         <url>http://www.laweekly.com/2009-03-12/film-tv/movie-reviews-miss-march-race-to-witch-mountain-sunshine-cleaning/</url>
+         <critic>Melissa Anderson</critic>
+      </review>
+      <review>
+         <snippet>As the straight-man virgin, Cregger is almost entirely devoid of personality; as his hyperkinetic sidekick, Moore may have the most unlikable personality in movie history.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A753276</url>
+         <critic>Josh Rosenblatt</critic>
+      </review>
+   </reviews>
+   <US_Gross>$4,542,775</US_Gross>
+   <weekend_gross>$2,409,156</weekend_gross>
+   <number_of_screens>1,742</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

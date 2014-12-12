@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Sunshine Cleaning</name>
+   <company>Overture Films</company>
+   <genres>
+      <genre>Comedy</genre>
+      <genre>Crime</genre>
+   </genres>
+   <authors>
+      <author>Megan Holley</author>
+   </authors>
+   <directors>
+      <director>Christine Jeffs</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Amy Adams</actor>
+      <actor>Emily Blunt</actor>
+      <actor>Alan Arkin</actor>
+      <actor>Steve Zahn</actor>
+      <actor>Mary Lynn Rajskub</actor>
+      <actor>Clifton Collins Jr.</actor>
+      <actor>Jason Spevack</actor>
+   </actors>
+   <release_date>March 13, 2009</release_date>
+   <running_time>102</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>A smartly done morality tale that couldn't be more in sync with these troubled times.</snippet>
+         <url>http://www.latimes.com/entertainment/news/reviews/la-et-sunshine13-2009mar13,0,4279595.story</url>
+         <critic>Betsy Sharkey</critic>
+      </review>
+      <review>
+         <snippet>Beneath its morbid exterior, Sunshine Cleaning projects a tender portrait of how people help out others and seek a better life for themselves.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=11648</url>
+         <critic>Stina Chyn</critic>
+      </review>
+      <review>
+         <snippet>It's a solid indie effort with plenty of nice character strokes by screenwriter Megan Holley and razor-sharp performances by Amy Adams and Emily Blunt.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/critic.html#34214</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>That Sunshine Cleaning was made by women is best revealed in the filmmakers' willingness to let the story breathe on its own terms, without bringing in anything extraneous, unwelcome and exciting.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2009/03/19/DDM416JHEQ.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>Amy Adams beguiled audiences in "Junebug" and "Enchanted" and breathed humanity into the histrionic "Doubt." In the eccentric comedy-drama Sunshine Cleaning, set in the least picturesque parts of Albuquerque, N.M., she tops her own proven talent for epiphany.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/reviews/bal-to.sunshine27mar27,0,2887475.story</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>Its overall ability to balance humor and drama, attention to emotional detail and a few winning performances outweighs its maudlin tendencies.</snippet>
+         <url>http://www.miamiherald.com/entertainment/movies/reviews/story/967960.html</url>
+         <critic>Connie Ogle</critic>
+      </review>
+      <review>
+         <snippet>Kudos to Clifton Collins Jr., who appears as a dispenser of cleaning products and common sense.</snippet>
+         <url>http://www.philly.com/philly/entertainment/movies/20090320_Cleaning_up_crime_scenes_-_and_her_toxic_life.html</url>
+         <critic>Carrie Rickey</critic>
+      </review>
+      <review>
+         <snippet>The director, New Zealander Christine Jeffs ("Sylvia"), loosens the plotting as best she can, letting the interactions breathe. Her work, and the film, is strictly about the performers.</snippet>
+         <url>http://www.chicagotribune.com/entertainment/movies/chi-tc-mov-sunshine-cleaning-031mar20,0,756730.story</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>Dark humor intersperses with poignant moments. Though the conclusion feels forced, the movie works.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2009-03-12-sunshine-cleaning_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>This bittersweet comedy is a fine showcase for a pair of distinctive and appealing talents.</snippet>
+         <url>http://www.nypost.com/seven/03132009/entertainment/movies/these_two_clean_up__159263.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>It's a solid depiction of a relatable story, and it's absolutely modest about all of it, especially stylistically, where things stay remarkably reeled in.</snippet>
+         <url>http://movies.tvguide.com/detail/movie.aspx?tvobjectid=296870&amp;more=ucmoviereview</url>
+         <critic>Cammila Albertson</critic>
+      </review>
+      <review>
+         <snippet>Perhaps the most compelling reason to see Sunshine Cleaning is the pairing of two of the best and most charismatic young actresses today.</snippet>
+         <url>http://www.reelviews.net/php_review_template.php?identifier=1534</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>This funny and touching movie depends on two can-do actresses to scrub past the biohazard of noxious clichés that threaten to intrude. Adams and Blunt get the job done.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/18138975/review/26479712/sunshine_cleaning</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>Amy Adams and Emily Blunt are two highly attractive, naturally funny actresses on the cusp of stardom so their pairing here as two lost souls is genius.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?rid=10491</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>Though this well-observed, wry drama is determined to be quirky, its most endearing quality, like that of its heroines, is a willingness to wallow in foul moods and come out the other side.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2009/03/12/2009-03-12_amy_adams_emily_blunt_are_endearing_wall.html</url>
+         <critic>Joe Neumaier</critic>
+      </review>
+      <review>
+         <snippet>Alan Arkin virtually reprises his Oscar-winning role from "Little Miss Sunshine."</snippet>
+         <url>http://www.slate.com/id/2213559/</url>
+         <critic>Dana Stevens</critic>
+      </review>
+      <review>
+         <snippet>You'll miss out on some really great stuff if you don't see this surprising movie.</snippet>
+         <url>http://online.wsj.com/article/SB123689237471111537.html</url>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>Alan Arkin is charm itself as the girls' dreamy father. Indeed, director Christine Jeffs coaxes only good work from the whole of her cast.</snippet>
+         <url>http://blog.oregonlive.com/madaboutmovies/2009/03/movie_review_a_family_full_of.html</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>This peachcolored comedy about a wacky family who shove their sadness into a bulging closet is being marketed as ''from the producers of Little Miss Sunshine'' All that's missing from the formula is a Volkswagen Microbus.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20264860,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>The best thing to come out of Sunshine Cleaning is the confirmation that Adams, one of Hollywood's most delightful comediennes, is also capable of piercing drama.</snippet>
+         <url>http://www.csmonitor.com/2009/0314/p25s04-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>This is definitely one to make you feel good all over.</snippet>
+         <url>http://www.premiere.com/Review/Movies/Sunshine-Cleaning</url>
+         <critic>Olivia Putnal and Krista Soriano</critic>
+      </review>
+      <review>
+         <snippet>An intelligent, often touching, sometimes pedestrian drama.</snippet>
+         <url>http://www.boston.com/ae/movies/articles/2009/03/20/sunshine_lands_on_crime_scenes_struggles/</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>Could have been a little more darkly comic in places but the performances are superb.</snippet>
+         <url>http://www.empireonline.com/reviews/reviewcomplete.asp?FID=134818</url>
+         <critic>Angie Errigo</critic>
+      </review>
+      <review>
+         <snippet>There is a time and a place for scruffy independent also-rans like this, and that time and place is the 2 a.m. slot on IFC.</snippet>
+         <url>http://www.avclub.com/articles/sunshine-cleaning,25021/</url>
+         <critic>Nathan Rabin</critic>
+      </review>
+      <review>
+         <snippet>Director Christine Jeffs, who previously helmed "Rain" and "Sylvia," tries to strike a balance between the yarn's dark currents and offbeat comedy, but the result is often uneasy, with the humor receding as things progress.</snippet>
+         <url>http://www.variety.com/review/VE1117935867.html?categoryid=31&amp;cs=1&amp;query=sunshine+cleaning</url>
+         <critic>Todd McCarthy</critic>
+      </review>
+      <review>
+         <snippet>More than a year after its first twirl at Sundance, this Amy Adams–Emily Blunt dramedy finally shrugs its way into theaters, and it feels almost like an afterthought.</snippet>
+         <url>http://www.villagevoice.com/2009-03-11/film/sunshine-cleaning-has-makings-of-a-great-showtime-series/</url>
+         <critic>Robert Wilonsky</critic>
+      </review>
+      <review>
+         <snippet>The material might have promise as a black comedy, but its attempt to put on a smiling face is unconvincing.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20090318/REVIEWS/903189983</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>How you'll feel about Sunshine Cleaning probably depends on your tolerance for slender, semi-hip comedic dramas about oddball families grappling with sometimes overwhelming problems.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2009/03/13/sunshine_cleaning/index.html</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>It's like an elevated form of sitcom acting, which may be inevitable because this movie, and all its quirky/heartfelt kin, are an elevated version of the sitcom itself.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20090326.wsunshine0327/BNStory/Entertainment/home</url>
+         <critic>Rick Groen</critic>
+      </review>
+      <review>
+         <snippet>Sunshine Cleaning doesn't exist in relation to the outside world but only to other movies. Its characters aren't human beings but cultural signifiers and indie-movie stereotypes created to survive in the laboratory safety of the festival circuit but never meant to actually walk the streets or talk to strangers.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A758329</url>
+         <critic>Josh Rosenblatt</critic>
+      </review>
+      <review>
+         <snippet>A boring, choppy dramedy.</snippet>
+         <url>http://www.washingtonpost.com/gog/movies/sunshine-cleaning,1155903.html</url>
+         <critic>Dan Zak</critic>
+      </review>
+      <review>
+         <snippet>All in all, it's a mess, and much as Ms. Blunt pouts, Ms. Adams twinkles, and Mr. Arkin growls, there's nothing they can do to clean it up.</snippet>
+         <url>http://movies.nytimes.com/2009/03/13/movies/13suns.html</url>
+         <critic>A.O. Scott</critic>
+      </review>
+   </reviews>
+   <US_Gross>$12,062,558</US_Gross>
+   <weekend_gross>$219,190</weekend_gross>
+   <number_of_screens>4</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

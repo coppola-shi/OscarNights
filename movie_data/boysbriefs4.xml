@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Boys Briefs 4</name>
+   <company>Picture This! Entertainment</company>
+   <genres>
+      <genre>Drama</genre>
+      <genre>GayLesbian</genre>
+      <genre>Short</genre>
+   </genres>
+   <authors>
+      <author>Cath Moore,Welby Ings, Bastian Schweitzer,Greg Atkins, Armen Kazazian,Mary Feuer and John Militello</author>
+   </authors>
+   <directors>
+      <director>Tony Krawitz,Welby Ings, Bastian Schweitzer,Greg Atkins, Armen Kazazian,Mary Feuer</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Jesse Lee</actor>
+      <actor>Bryan Bevege</actor>
+      <actor>Tammy Warwick</actor>
+      <actor>Luke Thompson</actor>
+      <actor>Nancy Beatty</actor>
+      <actor>Greg Atkins</actor>
+      <actor>D. Garnet Harding</actor>
+      <actor>Aron Tager</actor>
+      <actor>P.J. Lazic</actor>
+      <actor>Bryan Marshall</actor>
+      <actor>Sam Barlow</actor>
+      <actor>Sebastian Lamour</actor>
+      <actor>Salim Kéchiouche</actor>
+      <actor>Ama Lear</actor>
+      <actor>Stéphane Roll</actor>
+      <actor>Timothy Lee DePriest</actor>
+      <actor>John Militello</actor>
+   </actors>
+   <release_date>July 21, 2006</release_date>
+   <running_time>106</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>Boys Briefs 4 has much to offer sophisticated straight audiences -- even though the central figures are all male hustlers. With succinct storytelling and strong acting, the emphasis is not on sex but rather on what the experiences of the hustlers and those they encounter reveal about the world in which they live.</snippet>
+         <url>http://www.calendarlive.com/movies/cl-et-boys18aug18,0,1665744.story</url>
+         <critic>Kevin Thomas</critic>
+      </review>
+      <review>
+         <snippet>Glum collection of festival-circuit flotsam.</snippet>
+         <url>http://www.villagevoice.com/film/0629,ridley,73907,20.html</url>
+         <critic>Jim Ridley</critic>
+      </review>
+      <review>
+         <snippet>Though the eye candy is consistently nice, the shorts travel through and wrap up in tediously familiar territory. Like the jaded-before-their-time boys in the film, you've seen this all before.</snippet>
+         <url>http://www.laweekly.com/film+tv/film-reviews/film-reviews/14245/</url>
+         <critic>Ernest Hardy</critic>
+      </review>
+      <review>
+         <snippet>We're a long way from the hustler poetics of "My Own Private Idaho."</snippet>
+         <url>http://movies2.nytimes.com/2006/07/21/movies/21brie.html</url>
+         <critic>Nathan Lee</critic>
+      </review>
+   </reviews>
+   <US_Gross>$27,449</US_Gross>
+   <weekend_gross>$5,919</weekend_gross>
+   <number_of_screens>1</number_of_screens>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

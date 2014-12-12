@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Righteous Kill</name>
+   <company>Overture Films</company>
+   <genres>
+      <genre>Crime</genre>
+      <genre>Drama</genre>
+      <genre>Mystery</genre>
+   </genres>
+   <authors>
+      <author>Russell Gewirtz</author>
+   </authors>
+   <directors>
+      <director>Jon Avnet</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Robert De Niro</actor>
+      <actor>Al Pacino</actor>
+      <actor>50 Cent</actor>
+      <actor>Donnie Wahlberg</actor>
+      <actor>Carla Gugino</actor>
+   </actors>
+   <release_date>September 12, 2008</release_date>
+   <running_time>100</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>I'd like to recognize Russell Gewirtz for a screenplay that boasts humor, an impressive plot twist, and for setting up plenty of room for De Niro and Pacino to get their grooves back in order.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=11193</url>
+         <critic>Stina Chyn</critic>
+      </review>
+      <review>
+         <snippet>Despite how easy it would be to write off Righteous Kill as one sorry excuse for lazy filmmaking, there is still something utterly mesmerizing in the palpable chemistry between the two leading men.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2008/09/12/righteous_kill/</url>
+         <critic>Mary Elizabeth Williams</critic>
+      </review>
+      <review>
+         <snippet>A twisty, turny and ultimately silly thriller from "Inside Man's" Russell Gewirtz.</snippet>
+         <url>http://www.philly.com/philly/entertainment/movies/20080912_Despite_Pacino_and_De_Niro___quot_Kill_quot__is_no_thrill_quot_.html</url>
+         <critic>Carrie Rickey</critic>
+      </review>
+      <review>
+         <snippet>An ordinary cop picture boosted by two charismatic superstars but hindered by its dearth of surprises.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?JSESSIONID=kVWlLJWfMyPBy8JZkG12wvbXgJRJV6TyW2Lc6s1nvsXgYXhG7Lq9!-1378948968&amp;&amp;rid=11671</url>
+         <critic>Luke Sader</critic>
+      </review>
+      <review>
+         <snippet>A relatively harmless movie that becomes killing-a-mockingbird sinful for what it does to its leads.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2008/09/11/DDRI12RU45.DTL&amp;type=movies</url>
+         <critic>Peter Hartlaub</critic>
+      </review>
+      <review>
+         <snippet>The entire movie is one big build-up to a twist that, while not exactly cheating, plays is an awfully cheap trick.</snippet>
+         <url>http://movies.tvguide.com/righteous-kill/review/292919</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>It's astonishing how much intensity and focus these two have lost, but the picture itself is not all that bad -- if you can get the collapsing-career thing out of your head.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1147381&amp;categories=Movies</url>
+         <critic>Neely Tucker</critic>
+      </review>
+      <review>
+         <snippet>In pairing the two icons, Righteous Kill is definitely an event. What it isn't is much of a movie. Such a waste.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20080911.wkill12/BNStory/Entertainment/home</url>
+         <critic>Rick Groen</critic>
+      </review>
+      <review>
+         <snippet>Righteous Kill's script is credited to "Inside Man's" Russell Gewirtz, and you wonder how the sleek, nuanced flow of that earlier movie evaded this one.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-righteous12-2008sep12,0,4885460.story</url>
+         <critic>Gene Seymour</critic>
+      </review>
+      <review>
+         <snippet>The movie, which has more than 10 credited producers, feels like one of those slick, for-the-money projects Hollywood studios cook up via graph charts and marketing surveys.</snippet>
+         <url>http://www.miamiherald.com/entertainment/movies/reviews/story/687284.html</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>Its failure to live up to even modest expectations is a blow. There's nothing righteous to be found here.</snippet>
+         <url>http://www.reelviews.net/php_review_template.php?identifier=1331</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>Watching these old pros play longtime buddies is a pleasure, especially since they're together in most scenes. But this thriller by Jon Avnet (88 Minutes) is mostly by the numbers, and its surprise ending, though effective, feels somewhat forced.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/33532_RIGHTEOUS_KILL.html</url>
+         <critic>Joshua Katzman</critic>
+      </review>
+      <review>
+         <snippet>Slack, morally ambiguous, decidedly sub-Dexter serial-killer-cop story that's been cooked up for them  (De Niro/Pacino).</snippet>
+         <url>http://www.npr.org/templates/story/story.php?storyId=94484794</url>
+         <critic>Bob Mondello</critic>
+      </review>
+      <review>
+         <snippet>Trudging through a thriller that would have felt warmed over in 1988, the pair investigate a serial killer.</snippet>
+         <url>http://www.avclub.com/content/cinema/righteous_kill</url>
+         <critic>Keith Phipps</critic>
+      </review>
+      <review>
+         <snippet>Unable or unwilling to match the visceral chops and moral provocations of superior serial-killer chillers, Righteous Kill is content to be a twisty genre exercise; it's like "Seven" as reimagined by M. Night Shyamalan.</snippet>
+         <url>http://www.variety.com/review/VE1117938307.html?categoryid=31&amp;cs=1</url>
+         <critic>Justin Chang</critic>
+      </review>
+      <review>
+         <snippet>A clutter of recycled cop-movie and serial-killer film clichés.</snippet>
+         <url>http://movies.nytimes.com/2008/09/12/movies/12righ.html?ref=movies</url>
+         <critic>Manohla Dargis</critic>
+      </review>
+      <review>
+         <snippet>Of the supporting performances, Gugino, Leguizamo and Wahlberg offer solid turns, but are let down by dialogue.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2008/09/11/2008-09-11_righteous_kill_fails_to_deliver.html</url>
+         <critic>Joe Neumaier</critic>
+      </review>
+      <review>
+         <snippet>Instead of the meeting of maestros at the top of their form, Righteous Kill has the feeling of Roger Clemens and Barry Bonds facing off for the first time in an exhibition game. It's like Old Timers' Day at the Motion Picture Home.</snippet>
+         <url>http://www.time.com/time/arts/article/0,8599,1840806,00.html</url>
+         <critic>Richard Corliss</critic>
+      </review>
+      <review>
+         <snippet>It's a sad state of affairs when the best news about Righteous Kill is that it isn't awful.</snippet>
+         <url>http://www.laweekly.com/2008-09-11/film-tv/put-heading-here/2</url>
+         <critic>Tim Grierson</critic>
+      </review>
+      <review>
+         <snippet>Under the guidance of Jon Avnet, they're (De Niro/Pacino) both playing New York police detectives - partners, no less - in the cop-and-serial-killer tale Righteous Kill, and they're thunderously mediocre.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/reviews/bal-to.righteous12sep12,0,4562675.story</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>When actors are as great as De Niro and Pacino, watching them in a movie like Righteous Kill is deadly.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=11609</url>
+         <critic>Jason Matloff</critic>
+      </review>
+      <review>
+         <snippet>By the time the movie reaches its protracted conclusion, it feels like a slog. Pacino has a few funny lines, as does Leguizamo, but not nearly enough to save the film from collapsing under the weight of its own self-righteous tedium.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2008-09-11-righteous-review_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>The movie is hectic, exhausting, and baffling. It's an embarrassment.</snippet>
+         <url>http://www.newyorker.com/arts/critics/cinema/2008/09/29/080929crci_cinema_denby?currentPage=2</url>
+         <critic>David Denby</critic>
+      </review>
+      <review>
+         <snippet>It's not much fun to see these two reduced to "Mad TV" parodies of themselves.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20225652,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>Righteous Kill, a.k.a. The Al and Bob Show, is a cop flick with all the drama of "Law and Order: AARP." This movie defines drag-ass.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/18139290/review/22961620/righteous_kill</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>A slow-moving, ridiculous police thriller that would have been shipped straight to the remainder bin at Blockbuster if it starred anyone else.</snippet>
+         <url>http://www.nypost.com/seven/09122008/entertainment/movies/al__bobs_frown_fest_128666.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>There's nothing righteous about this tired and tiresome good cop/bad cop NYPD procedural.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A669392</url>
+         <critic>Marc Savlov</critic>
+      </review>
+   </reviews>
+   <US_Gross>$40,081,410</US_Gross>
+   <production_budget>$60,000,000</production_budget>
+   <weekend_gross>$16,288,361</weekend_gross>
+   <number_of_screens>3,152</number_of_screens>
+   <oscar_winning_actors_present/>
+   <num_oscar_winning_actors>1</num_oscar_winning_actors>
+   <oscar_winning_actor>al pacino</oscar_winning_actor>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

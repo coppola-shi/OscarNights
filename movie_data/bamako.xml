@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Bamako</name>
+   <company>New Yorker Films</company>
+   <genres>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author>Abderrahmane Sissako</author>
+   </authors>
+   <directors>
+      <director>Abderrahmane Sissako</director>
+   </directors>
+   <origins>
+      <origin>MaliUSAFrance</origin>
+   </origins>
+   <actors>
+      <actor>Aïssa Maïga</actor>
+      <actor>Maimouna Hélène Diarra</actor>
+      <actor>Balla Habib Dembélé</actor>
+      <actor>Djénéba Koné</actor>
+      <actor>Hamadoun Kassogué</actor>
+      <actor>William Bourdon</actor>
+      <actor>Mamadou Kanouté</actor>
+      <actor>Danny Glover</actor>
+   </actors>
+   <release_date>February 14, 2007</release_date>
+   <running_time>115</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>The serious accusations are leavened by the moments of brimming, illogical, intimate neighborly dailiness the filmmaker also captures with warmth and infectious high spirits.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20011870,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>As demonstrated in his previous film, a plangent snapshot of subsistence called "Waiting for Happiness," Sissako is a poet, and the filmmaking in this new picture is stuff of a deserving laureate.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=9593</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>One reason Bamako feels like a blast of sanity is that the theoretical debates about the state of the world, particularly Africa and more particularly Mali, are only half of its agenda. The other half, broadly speaking, is the life of everyday Africans.</snippet>
+         <url>http://www.chicagoreader.com/features/stories/moviereviews/2007/070309/</url>
+         <critic>Jonathan Rosenbaum</critic>
+      </review>
+      <review>
+         <snippet>Bamako is something different: a work of cool intelligence and profound anger, a long, dense, argument that is also a haunting visual poem.</snippet>
+         <url>http://movies2.nytimes.com/2007/02/14/movies/14bama.html?ref=movies</url>
+         <critic>A.O. Scott</critic>
+      </review>
+      <review>
+         <snippet>Sissako has an unusual camera eye, patient and alert to the ebb and flow of both the courtroom sequences and the outside scenes. The music is wonderful as well.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-070309-movies-review-bamako,0,885547.story?coll=mmx-movies_top_heds</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>Never mind Hollywood's big-star, big-budget hand-wringing about Africa - Bamako is the real thing.</snippet>
+         <url>http://www.philly.com/inquirer/columnists/steven_rea/20070420_Bamako____1_2.html</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>Bamako is an attack on globalization that is endlessly cogent, confrontational -- and, best of all, as captivating as it is illuminating.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-bamako1jun01,0,3732200.story?coll=cl-mreview</url>
+         <critic>Kevin Thomas</critic>
+      </review>
+      <review>
+         <snippet>Sissako makes his point: Africa's best treasure is its humanity.</snippet>
+         <url>http://www.tnr.com/doc.mhtml?i=20070319&amp;s=kauffmann031907</url>
+         <critic>Stanley Kauffmann</critic>
+      </review>
+      <review>
+         <snippet>A barrel of laughs, this ain't. But it's a fearless high-wire act, grim and witty, confrontational and self-mocking. Its message may be dire, but Bamako is a feat of intellectual and cinematic daring that will leave your brain buzzing.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2007/02/08/btm/index.html?CP=IMD&amp;DN=110</url>
+         <critic>Andrew O&amp;#039;Hehir</critic>
+      </review>
+      <review>
+         <snippet>Rather miraculously, picture succeeds in painlessly educating its viewers about global politics and economics while it describes contemporary Africa with freshness and clarity.</snippet>
+         <url>http://www.variety.com/index.asp?layout=features2006&amp;content=jump&amp;jump=review&amp;dept=cannes&amp;nav=RCannes&amp;articleid=VE1117930615&amp;cs=1&amp;p=0</url>
+         <critic>Deborah Young</critic>
+      </review>
+      <review>
+         <snippet>Far from an easy watch, either in terms of its hard-hitting content, seemingly haphazard structuring or its dense symbolism. But this makes sense of the political intricacies by balancing the rhetoric and statistics with everyday occurrences that give the iniquities and inadequacies a human face.</snippet>
+         <url>http://www.empireonline.com/reviews/review.asp?FID=134757</url>
+         <critic>David Parkinson</critic>
+      </review>
+      <review>
+         <snippet>Bamako, with Sissako's poetic blend of the humdrum and the theoretical, is altogether fascinating. Dramatic features born and bred on the African continent are rare commodities on these shores, and the opportunities they offer can stretch far beyond film appreciation and into the realm of world understanding.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A493251</url>
+         <critic>Marjorie Baumgarten</critic>
+      </review>
+      <review>
+         <snippet>Credit Sissako for entertainingly blending serious international issues with the daily comings and goings of village life. A bit more Glover wouldn't have hurt - but you can't have everything.</snippet>
+         <url>http://www.nypost.com/seven/02142007/entertainment/movies/law_and_disorder_movies_v_a__musetto.htm</url>
+         <critic>V.A. Musetto</critic>
+      </review>
+      <review>
+         <snippet>Heated speeches about the International Monetary Fund, debt relief and global responsibility may not sound like your idea of Friday-night entertainment, but Sissako makes a strong case.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/moviereviews/story/498047p-419666c.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>A powerful polemic leavened with moments of beauty and humor.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2007/06/01/DDGOJQ477Q1.DTL#flick</url>
+         <critic>Walter Addiego</critic>
+      </review>
+      <review>
+         <snippet>No one can deny the powerful reality that weaves its way through Bamako.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1128255&amp;categories=Movies&amp;nm=1</url>
+         <critic>Ann Hornaday</critic>
+      </review>
+      <review>
+         <snippet>Bamako brings relief from the latest round of Africa chic in the media, reversing "the flood of information that flows one way." It colors the Africa Problem from the inside out.</snippet>
+         <url>http://www.villagevoice.com/film/0707,lee,75796,20.html</url>
+         <critic>Nathan Lee</critic>
+      </review>
+      <review>
+         <snippet>The film feels oddly slack and inert, livened only by testimony better suited to another forum.</snippet>
+         <url>http://www.avclub.com/content/node/58601</url>
+         <critic>Scott Tobias</critic>
+      </review>
+   </reviews>
+   <US_Gross>$112,351</US_Gross>
+   <weekend_gross>$29,525</weekend_gross>
+   <number_of_screens>1</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Mostly Unfabulous Social Life of Ethan Green, The</name>
+   <company>Regent Releasing</company>
+   <genres>
+      <genre>Comedy</genre>
+      <genre>GayLesbian</genre>
+      <genre>Romance</genre>
+   </genres>
+   <authors>
+      <author>David Vernon</author>
+   </authors>
+   <directors>
+      <director>George Bamber</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Daniel Letterle</actor>
+      <actor>Diego Serrano</actor>
+      <actor>Meredith Baxter</actor>
+      <actor>David Monahan</actor>
+      <actor>Dean Shelton</actor>
+      <actor>Shanola Hampton</actor>
+      <actor>Scott Atkinson</actor>
+      <actor>Rebecca Lowman</actor>
+   </actors>
+   <release_date>June 16, 2006</release_date>
+   <running_time>88</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>Directed by George Bamber from a witty screenplay by David Vernon, it veers between screwball farce and feel-good sitcom.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/critic.html#30030</url>
+         <critic>Albert Williams</critic>
+      </review>
+      <review>
+         <snippet>It's a crackpot of a soap opera, ornamented by a great deal of sexual humor, sexual innuendo and sex. Lead Daniel Letterle is a charmingly boyish actor, and the other featured players -- particularly veteran actress Meredith Baxter as Ethan's gay-wedding-planner mother -- are excellent.</snippet>
+         <url>http://www.variety.com/review/VE1117927055?categoryid=31&amp;cs=1&amp;s=h&amp;p=0</url>
+         <critic>John Anderson</critic>
+      </review>
+      <review>
+         <snippet>It's none too deep and a tad cartoonish, but also fast-paced, filled with quotable one-liners and often very funny.</snippet>
+         <url>http://online.tvguide.com/newsearch/detail.aspx?id=47009&amp;sourcetype=m&amp;progseriesparentid=0&amp;tvobjectid=281150&amp;keyword=&amp;more=ucmoviereview</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>Inoffensive even as it makes some fairly explicit sex jokes, "Ethan Green" may not exactly be fabulous, but it is pleasantly diverting.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-capsules16jun16,0,449756.story</url>
+         <critic>Mark Olsen</critic>
+      </review>
+      <review>
+         <snippet>A genially silly gay date movie.</snippet>
+         <url>http://www.nypost.com/movies/unfabulous__but_not_unbad_movies_lou_lumenick.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>More often than not, these tactics fall flat, and the mostly unfunny - and unfabulous - trifle never rises above sitcom level.</snippet>
+         <url>http://movies2.nytimes.com/2006/06/16/movies/16most.html</url>
+         <critic>Laura Kern</critic>
+      </review>
+      <review>
+         <snippet>The film's tone veers from misjudged sincerity to shrill sketch comedy of the broadest stripe.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-060714-movies-review-green,0,3073506.story?coll=mmx-movies_top_heds</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>There's just not enough real heart to go along with the cutesiness.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A391657</url>
+         <critic>Marrit Ingman</critic>
+      </review>
+      <review>
+         <snippet>The strip is now a cartoonish sitcom pretending to be a romantic comedy about a drama queen and his adventures in lust. The movie might have gotten away with it, were it interested in romance or comedy.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=8627</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>Tiresome romantic comedy that reinforces every imaginable gay stereotype.</snippet>
+         <url>http://ae.miami.com/entertainment/ui/miami/movie.html?id=647254&amp;reviewId=21194</url>
+         <critic>Connie Ogle</critic>
+      </review>
+      <review>
+         <snippet>This adaptation of the underground comic strip is mostly unfabulous.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1116267&amp;lat=200.0&amp;lon=200.0&amp;displaySearchLocation=&amp;nm=1&amp;categories=Movies</url>
+         <critic>Desson Thomson</critic>
+      </review>
+      <review>
+         <snippet>It's a dud. To be fair, the source material (to which the film is unfortunately faithful) is itself a wan assemblage of creaky one-liners, overly familiar gay ghetto types and sitcom-inspired shenanigans.</snippet>
+         <url>http://www.laweekly.com/film+tv/film-reviews/film-reviews/13777/</url>
+         <critic>Ernest Hardy</critic>
+      </review>
+      <review>
+         <snippet>With words streaming out of their mouths instead of into bubbles, Ethan and his gang of past, present and future lovers sound laughingly unbelievable. They're on the road to inanity.</snippet>
+         <url>http://sfgate.com/cgi-bin/article.cgi?f=/c/a/2006/06/30/DDGIJJM7LD1.DTL&amp;type=movies</url>
+         <critic>Ruthe Stein</critic>
+      </review>
+      <review>
+         <snippet>Mostly unfabulous.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/280000_ethan04q.html</url>
+         <critic>Bill White</critic>
+      </review>
+      <review>
+         <snippet>Unfabulous, unfunny, and unwatchable.</snippet>
+         <url>http://www.villagevoice.com/film/0624,morales,73535,20.html</url>
+         <critic>Jorge Morales</critic>
+      </review>
+   </reviews>
+   <US_Gross>$153,122</US_Gross>
+   <weekend_gross>$11,002</weekend_gross>
+   <number_of_screens>2</number_of_screens>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Morning Light</name>
+   <company>Walt Disney Pictures</company>
+   <genres>
+      <genre>Documentary</genre>
+   </genres>
+   <authors>
+      <author/>
+   </authors>
+   <directors>
+      <director>Mark Monroe</director>
+      <director>Paul Crowder</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Chris Branning</actor>
+      <actor>Graham Brant-Zawadzki</actor>
+      <actor>Chris Clark</actor>
+      <actor>Charlie Enright</actor>
+      <actor>Jesse Fielding</actor>
+      <actor>Robbie Kane</actor>
+      <actor>Steve Manson</actor>
+      <actor>Chris Schubert</actor>
+   </actors>
+   <release_date>October 17, 2008</release_date>
+   <running_time>minutes,</running_time>
+   <rating>PG</rating>
+   <reviews>
+      <review>
+         <snippet>Vividly captures the joy of sailing.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/383640_light17q.html</url>
+         <critic>William Arnold</critic>
+      </review>
+      <review>
+         <snippet>The documentary is enjoyable, though it could have been edited more tightly. The ending, in which three of the contest participants write and perform a catchy pop song, is buoyantly fun.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2008-10-16-morning-light_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>A fluffy piece of Disney nonfiction.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=12331</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>An OK sports doc that owes as much to reality TV competitions as it does to the genre of nautical cinema.</snippet>
+         <url>http://www.philly.com/inquirer/columnists/steven_rea/20081017_Morning_Light___1_2.html</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>A Disney movie about a Disney project, this slick sailing documentary feels a little too self-promotional, almost like an attraction you might stumble into at Epcot. But at least it turns out to be a fairly wild ride.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2008/10/16/2008-10-16_more_movie_reviews_for_the_weekend_of_oc.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>An old-fashioned doc about a sailboat race is well produced but lacks urgency and true insight</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?JSESSIONID=pypxL4lKnV22mD2PZtBnN2PXcDq9lrFpyFhG4vz60vZZhYxVPqGQ!-2118287736&amp;&amp;rid=11833</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>Like the disastrously overpopulated "Amazing Race: Family Edition," Morning Light never finds a way to make us care who wins.</snippet>
+         <url>http://movies.nytimes.com/2008/10/17/movies/17ligh.html?ref=movies</url>
+         <critic>Jeannette Catsoulis</critic>
+      </review>
+      <review>
+         <snippet>The film is more appealing for its scenery, which is as breathtakingly blue as you'd expect, than for its drama.</snippet>
+         <url>http://www.npr.org/templates/story/story.php?storyId=95758969</url>
+         <critic>Bob Mondello</critic>
+      </review>
+      <review>
+         <snippet>At one point during the big race, the kids get passed at close range by a team of pros so seasoned, they wrote the navigation software the kids use. I was begging the camera crew to follow them.</snippet>
+         <url>http://www.oregonlive.com/movies/index.ssf/2008/10/movie_review_sailing_away_in_m.html</url>
+         <critic>M. E. Russell</critic>
+      </review>
+      <review>
+         <snippet>Has a made-for-television style.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2008/10/16/DD9M13GQRF.DTL&amp;type=movies</url>
+         <critic>Peter Hartlaub</critic>
+      </review>
+      <review>
+         <snippet>The film feels more like the ultimate scrapbook for the participants than the vicarious thrill the pair no doubt imagined for audiences.</snippet>
+         <url>http://www.variety.com/review/VE1117938680.html?categoryid=31&amp;cs=1</url>
+         <critic>Peter Debruge</critic>
+      </review>
+      <review>
+         <snippet>Two unnerving phenomena--the popularity of reality-TV competitions and the Walt Disney Company's ability to churn out entertainment starring the most squeaky-clean humans on earth--come together in Morning Light, a nightmarishly upbeat documentary.</snippet>
+         <url>http://www.villagevoice.com/2008-10-15/film/morning-light-s-squeaky-clean-disney-agenda/</url>
+         <critic>Tim Grierson</critic>
+      </review>
+      <review>
+         <snippet>Morning Light, sailor's delight. All others be forewarned.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1152566&amp;categories=Movies</url>
+         <critic>Michael O&amp;#039;Sullivan</critic>
+      </review>
+      <review>
+         <snippet>If the makers were hoping they'd chronicled a metaphor for life's struggle, they probably weren't counting on the struggle being monotony.</snippet>
+         <url>http://www.latimes.com/entertainment/news/reviews/la-et-capsules17-2008oct17,0,1339677.story?page=2</url>
+         <critic>Robert Abele</critic>
+      </review>
+   </reviews>
+   <US_Gross>$275,093</US_Gross>
+   <weekend_gross>$129,295</weekend_gross>
+   <number_of_screens>55</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

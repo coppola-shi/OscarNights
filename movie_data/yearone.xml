@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Year One</name>
+   <company>Columbia Pictures (Sony)</company>
+   <genres>
+      <genre>Adventure</genre>
+      <genre>Comedy</genre>
+   </genres>
+   <authors>
+      <author>Harold Ramis</author>
+      <author>Gene Stupnitsky</author>
+      <author>Lee Eisenberg</author>
+   </authors>
+   <directors>
+      <director>Harold Ramis</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Jack Black</actor>
+      <actor>Michael Cera</actor>
+      <actor>Oliver Platt</actor>
+      <actor>David Cross</actor>
+      <actor>Hank Azaria</actor>
+   </actors>
+   <release_date>June 19, 2009</release_date>
+   <running_time>minutes,</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>A thoroughly, sometimes gaggingly broad and sly conceptual laugh-in.</snippet>
+         <url>http://movies.nytimes.com/2009/06/19/movies/19year.html?ref=movies</url>
+         <critic>Manohla Dargis</critic>
+      </review>
+      <review>
+         <snippet>Year One has one joke, but it's a good one, played for many variations over the course of an often very funny comedy.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2009/06/18/MV2I189JAD.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>This is just silliness run mildly wild.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20285508,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>Dopey but resourceful yukfest.</snippet>
+         <url>http://www.philly.com/philly/entertainment/movies/20090619_A_dopey_yet_resourceful_yukfest.html</url>
+         <critic>David Hiltbrand</critic>
+      </review>
+      <review>
+         <snippet>It's the knockabout biblical lark Mel Brooks never got around to making.</snippet>
+         <url>http://www.chicagotribune.com/entertainment/movies/chi-tc-mov-year-one-0617-0619jun19,0,5754569.story</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>At best it's a bit like Mel Brooks' "The History of the World Part I" (except Ramis stops somewhere in Genesis); at worst it's like a Scary Movie-type parody of John Huston's "The Bible."</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-year-one-review-0618,0,3500124.story</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>I have a certain affection for this movie, if only because of its conceptual simplicity.</snippet>
+         <url>http://www.slate.com/id/2220799/</url>
+         <critic>Dana Stevens</critic>
+      </review>
+      <review>
+         <snippet>Year One is not really THAT bad and not ENTIRELY without laughs.</snippet>
+         <url>http://www.miamiherald.com/entertainment/movies/reviews/story/1102708.html</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>Lacks seismic guffaws but elicits many mild smiles.</snippet>
+         <url>http://www.variety.com/review/VE1117940486.html?categoryid=31&amp;cs=1</url>
+         <critic>Ronnie Scheib</critic>
+      </review>
+      <review>
+         <snippet>The humor, largely centered around bodily functions and bathroom habits, is almost exclusively sophomoric.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2009-06-18-year-one_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>Year One isn't dreadful; it just isn't nearly as funny as it hopes to be.</snippet>
+         <url>http://www.avclub.com/articles/year-one,29397/</url>
+         <critic>Josh Modell</critic>
+      </review>
+      <review>
+         <snippet>A lot of comedic talent founders in this new Harold Ramis comedy that doesn't exactly recall his glory days of "Caddyshack" and "Groundhog Day."</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film-reviews/film-review-year-one-1003984923.story</url>
+         <critic>Frank Scheck</critic>
+      </review>
+      <review>
+         <snippet>There is no real plot either; instead the narrative seems designed to get this prehistoric pair from one funny sketch to the next, which sometimes works and sometimes doesn't.</snippet>
+         <url>http://www.latimes.com/entertainment/news/la-et-yearone19-2009jun19,0,2303170.story</url>
+         <critic>Betsy Sharkey</critic>
+      </review>
+      <review>
+         <snippet>Unless you pine for second-tier Mel Brooks, you'll find more laughs in the Old Testament itself.</snippet>
+         <url>http://www.empireonline.com/reviews/reviewcomplete.asp?FID=135442</url>
+         <critic>Dan Jolin</critic>
+      </review>
+      <review>
+         <snippet>I found the most extreme material to be so tasteless that it voided all comedy.</snippet>
+         <url>http://www.reelviews.net/php_review_template.php?identifier=1686</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>Its script isn't worth the papyrus it's inscribed on.</snippet>
+         <url>http://www.nypost.com/seven/06192009/entertainment/movies/thou_shalt_not_see_it_174928.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>The people who made Year One seem to think that all you have to do to make a hit comedy is get a bunch of jokesters together. But where are the jokes?</snippet>
+         <url>http://www.csmonitor.com/2009/0619/p17s02-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>Year One sets prehistoric comedy back at least 20 years.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2009/06/19/year_one/index.html</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>A lowbrow, only fitfully amusing comedy.</snippet>
+         <url>http://www.washingtonpost.com/wp-dyn/content/article/2009/06/18/AR2009061803830.html</url>
+         <critic>Michael O&amp;#039;Sullivan</critic>
+      </review>
+      <review>
+         <snippet>Perhaps the best that can be said for Year One is that it aims low and hits the mark.</snippet>
+         <url>http://www.theglobeandmail.com/news/arts/year-one/article1187621/</url>
+         <critic>Liam Lacey</critic>
+      </review>
+      <review>
+         <snippet>A dreary experience.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20090617/REVIEWS/906179997</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>Any good will the movie generates, though, is grated right back off by Black, whose obnoxiousness has lost whatever charm it once possessed.</snippet>
+         <url>http://www.boston.com/ae/movies/articles/2009/06/19/year_one_takes_a_charmless_trip_back_in_time/</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>The only people who should be peeved enough to raise hell about Year One are the viewers who had to pay to sit through it.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A794222</url>
+         <critic>Marc Savlov</critic>
+      </review>
+      <review>
+         <snippet>Creatively it's a giant step backwards.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/34469_YEAR_ONE_RAMIS.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>During all of the film’s oh-so-long 97 minutes, Year One, barely earns a snicker.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2009/06/18/2009-06-18_year_one_.html</url>
+         <critic>Joe Neumaier</critic>
+      </review>
+      <review>
+         <snippet>We loved this movie the first three times we saw it, when it was called "Life of Brian," "Wholly Moses," and "History of the World Part 1."</snippet>
+         <url>http://www.premiere.com/Review/Movies/Year-One</url>
+         <critic>Robert Calvert</critic>
+      </review>
+      <review>
+         <snippet>This is shtick that’s minimally a generation past its expiration date.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=11796</url>
+         <critic>Rick Kisonak</critic>
+      </review>
+      <review>
+         <snippet>Unbearably painful from shrugging start to outtakes-laden finish, Harold Ramis’ half-assed, hare-brained return to writing and directing makes Mel Brooks’ equally muddled, soporific "History of the World, Part 1" look downright majestic by comparison.</snippet>
+         <url>http://www.laweekly.com/2009-06-18/film-tv/movie-reviews-the-end-of-the-line-the-proposal-whatever-works/3</url>
+         <critic>Robert Wilonsky</critic>
+      </review>
+   </reviews>
+   <US_Gross>$43,337,279</US_Gross>
+   <production_budget>$60,000,000</production_budget>
+   <weekend_gross>$19,610,304</weekend_gross>
+   <number_of_screens>3,022</number_of_screens>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Holding Trevor</name>
+   <company>Here! Films, Regent Releasing</company>
+   <genres>
+      <genre>Drama</genre>
+      <genre>Romance</genre>
+   </genres>
+   <authors>
+      <author>Brent Gorski</author>
+   </authors>
+   <directors>
+      <director>Rosser Goodman</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Brent Gorski</actor>
+      <actor>Jay Brannan</actor>
+      <actor>Melissa Searing</actor>
+      <actor>Eli Kranskicome</actor>
+   </actors>
+   <release_date>July 4, 2008</release_date>
+   <running_time>88</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>Director Rosser Goodman makes the crucial decisions facing Trevor suspenseful and involving -- and tinged with humor as well as pathos.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-trevor4-2008jul04,0,2677868.story</url>
+         <critic>Kevin Thomas</critic>
+      </review>
+      <review>
+         <snippet>Sometimes succeeds, but mostly comes off as a vanity project for writer-star Brent Gorski.</snippet>
+         <url>http://www.variety.com/review/VE1117937647.html?categoryid=31&amp;cs=1</url>
+         <critic>Dennis Harvey</critic>
+      </review>
+      <review>
+         <snippet>Gorski's script is full of catty gay banter, especially hilarious when delivered by Jay Brannan (Shortbus) as the hero's promiscuous best friend.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/capsules/32465_HOLDING_TREVOR</url>
+         <critic>Joshua Katzman</critic>
+      </review>
+      <review>
+         <snippet>There isn't enough by way of a story here to keep director Rosser Goodman and writer-star Brent Gorksi earnest but lethargic drama about a romantically stalled Angelino from petering out as well, but some decent performances from the likeable cast may be enough to hold your interest.</snippet>
+         <url>http://www.tvguide.com/movies/holding-trevor/review/294441</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>There's nothing to fill up the 88 minutes of the film except for the idle bitchery spewed by nearly every character.</snippet>
+         <url>http://www.villagevoice.com/film/0827,holding-trevor,499232,20.html</url>
+         <critic>Julia Wallace</critic>
+      </review>
+      <review>
+         <snippet>This portrait of 20-something gay men and their straight friends is a joyless exploration of middle-class deadbeats (with the exception of Ephram) lost in a torpid funk of low self-regard. Because they’'e not rich, there is no sleazy zing of "Less Than Zero"-worthy glamor.</snippet>
+         <url>http://movies.nytimes.com/2008/07/04/movies/04trev.html?ref=movies</url>
+         <critic>Stephen Holden</critic>
+      </review>
+   </reviews>
+   <US_Gross>$16,814</US_Gross>
+   <weekend_gross>$7,829</weekend_gross>
+   <number_of_screens>2</number_of_screens>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>true</independence_release>
+   <labor_release>false</labor_release>
+</movie>

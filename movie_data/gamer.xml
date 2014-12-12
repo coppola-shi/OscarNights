@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Gamer</name>
+   <company>Lionsgate</company>
+   <genres>
+      <genre>Action</genre>
+      <genre>Scifi</genre>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>Mark Neveldine, Brian Taylor</author>
+   </authors>
+   <directors>
+      <director>Mark Neveldine</director>
+      <director>Brian Taylor</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Gerard Butler</actor>
+      <actor>Michael C. Hall</actor>
+      <actor>Alison Lohman</actor>
+      <actor>Amber Valletta</actor>
+      <actor>Logan Lerman</actor>
+      <actor>Kyra Sedgwick</actor>
+      <actor>Ludacris</actor>
+      <actor>John Leguizamo</actor>
+   </actors>
+   <release_date>September 4, 2009</release_date>
+   <running_time>95</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>Neveldine and Taylor’s spazzy (but coherent) action scenes rely mostly on blood spurts instead of feats of badassery, but their dystopia is inventive and their visual schemes diverse.</snippet>
+         <url>http://www.laweekly.com/2009-09-03/film-tv/movie-reviews-amreeka-gamer-the-headless-woman/2</url>
+         <critic>Vadim Rizov</critic>
+      </review>
+      <review>
+         <snippet>Crank’s Mark Neveldine and Brian Taylor direct with their usual flashy brio, and basso profundo Keith David has a sublime cameo as a cop indignant at the thought of a pistachio peanut butter sandwich. It’s that kind of movie, folks.</snippet>
+         <url>http://newyork.timeout.com/articles/film/78417/gamer-film-review</url>
+         <critic>Keith Uhlich</critic>
+      </review>
+      <review>
+         <snippet>The trouble with Gamer is that it’s weird, but not weird enough for the long haul.</snippet>
+         <url>http://www.avclub.com/articles/gamer,32557/</url>
+         <critic>Josh Modell</critic>
+      </review>
+      <review>
+         <snippet>The audience gets played in Gamer. This latest eye-scraper from writer-directors Mark Neveldine and Brian Taylor is as hopped up as their "Crank" pics, but with dour Gerard Butler as a soldier commandeered by a teenage gamer, it's considerably less interactive.</snippet>
+         <url>http://www.variety.com/review/VE1117940949.html?categoryid=31&amp;cs=1</url>
+         <critic>Rob Nelson</critic>
+      </review>
+      <review>
+         <snippet>The technical barrage of visual and digital effects, quick cuts and strobe lighting does produce something akin to the sensation of playing a video game. So why, one wonders, don't potential viewers simply play one instead of watching this pale imitation?</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film-reviews/gamer-film-review-1004009600.story</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>I wonder if Gamer might make a good game; it certainly doesn't make a good movie.</snippet>
+         <url>http://www.reelviews.net/php_review_template.php?identifier=1791</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>For long stretches of the PlayStation-minded Gamer, the action does drag.</snippet>
+         <url>http://www.boston.com/ae/movies/articles/2009/09/05/gamer_delivers_lots_of_flash_little_tension/</url>
+         <critic>Tom Russo</critic>
+      </review>
+      <review>
+         <snippet>Rarely have the words "game over" come as such sweet relief.</snippet>
+         <url>http://www.latimes.com/entertainment/news/la-et-gamer7-2009sep07,0,2274378.story</url>
+         <critic>Glenn Whipp</critic>
+      </review>
+      <review>
+         <snippet>Considerably less of a thrillgasm than playing "Frogger" blindfolded.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A827874</url>
+         <critic>Marc Savlov</critic>
+      </review>
+      <review>
+         <snippet>As the brutish Kable, Gerard Butler must find out who's pulling his strings, but it's the audience whose chain gets yanked by this headache-inducing techno-violent mishmash.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20302677,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>What the movie needs more than anything else is a fast-forward button.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2009/09/04/2009-09-04_for_gerard_butler_gamer_is_a_losing_bet.html</url>
+         <critic>Joe Neumaier</critic>
+      </review>
+      <review>
+         <snippet>Directors Mark Neveldine and Brian Taylor were responsible for the delirious "Crank" and "Crank 2" but left the magic behind when they threw together this tedious mash-up of "Tron," "Rollerball," "The Matrix," etc.</snippet>
+         <url>http://www.chicagoreader.com/chicago/MovieTimes?oid=977745</url>
+         <critic>Cliff Doerksen</critic>
+      </review>
+      <review>
+         <snippet>A futuristic vomitorium of bosoms and bullets.</snippet>
+         <url>http://movies.nytimes.com/2009/09/05/movies/05gamer.html?ref=movies</url>
+         <critic>Jeannette Catsoulis</critic>
+      </review>
+   </reviews>
+   <US_Gross>$20,534,907</US_Gross>
+   <weekend_gross>$9,156,057</weekend_gross>
+   <number_of_screens>2,502</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>true</labor_release>
+</movie>

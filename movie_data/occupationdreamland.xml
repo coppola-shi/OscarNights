@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Occupation: Dreamland</name>
+   <company>Rumur Releasing</company>
+   <genres>
+      <genre>Documentary</genre>
+   </genres>
+   <authors>
+      <author/>
+   </authors>
+   <directors>
+      <director>Ian Olds</director>
+      <director>Garrett Scott</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors/>
+   <release_date>September 23, 2005</release_date>
+   <running_time>78</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>Has an intimate, personal quality. Rather than showboating for the camera, the soldiers get to a deeper level, conveying a surprisingly reflective and aware sensibility.</snippet>
+         <url>http://www.calendarlive.com/movies/turan/cl-et-occupation14oct14,0,2298550.story</url>
+         <critic>Kenneth Turan</critic>
+      </review>
+      <review>
+         <snippet>Straightforward and immensely powerful, the movie offers a blunt assessment of the war from soldiers currently fighting it, and their perspective is not pretty.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/moviereviews/story/349026p-297651c.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>Scott and Olds' is an essential movie, and one of the year's very best.</snippet>
+         <url>http://listings.dallasobserver.com/gyrobase/Film/ShowFilm</url>
+         <critic>Robert Wilonsky</critic>
+      </review>
+      <review>
+         <snippet>Superb documentary.</snippet>
+         <url>http://www.laweekly.com/ink/05/47/film-winter.php</url>
+         <critic>Jessica Winter</critic>
+      </review>
+      <review>
+         <snippet>Timeless and tragic.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2005/07/29/DDGRNDUJC41.DTL#nina</url>
+         <critic>Jonathan Curiel</critic>
+      </review>
+      <review>
+         <snippet>The greatest accomplishment of Occupation: Dreamland is showing those of us on the home front that it really is possible, Republican howling to the contrary aside, to support our troops without supporting the war itself.</snippet>
+         <url>http://www.filmthreat.com/Reviews.asp?Id=7236</url>
+         <critic>Merle Bertrand</critic>
+      </review>
+      <review>
+         <snippet>A powerful documentary about a squad of Army grunts patrolling the Iraqi city of Fallujah in late 2004.</snippet>
+         <url>http://avclub.com/content/node/25098</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>A fair-minded (but hardly apolitical) grunt's-eye view of the war in Iraq that trusts the audience to draw its own conclusions.</snippet>
+         <url>http://www.villagevoice.com/film/0538,land,68006,20.html</url>
+         <critic>Joshua Land</critic>
+      </review>
+      <review>
+         <snippet>Occupation: Dreamland presents a compelling study of composure and decency in the midst of overwhelming pointlessness.</snippet>
+         <url>http://www.nytimes.com/2005/09/23/movies/23drea.html</url>
+         <critic>Jeannette Catsoulis</critic>
+      </review>
+      <review>
+         <snippet>Helmers Garrett Scott and Ian Olds offer a sympathetic look at the average Joe doing duty in hell -- as well as a sharp indictment of the Pentagon's cavalier support for the troops.</snippet>
+         <url>http://www.variety.com/review/VE1117926261?categoryid=31&amp;cs=1</url>
+         <critic>Jay Weissberg</critic>
+      </review>
+      <review>
+         <snippet>Their stories add up to an unflattering picture of how the U.S. chooses its soldiers.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1000901316</url>
+         <critic>John DeFore</critic>
+      </review>
+      <review>
+         <snippet>Filmmakers Garrett Scott and Ian Olds offer a damning chronicle of failure and chaos.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/capsules/27682_OCCUPATION_DREAMLAND</url>
+         <critic>Fred Camper</critic>
+      </review>
+      <review>
+         <snippet>Misleadingly billed as a Fallujah documentary, Occupation: Dreamland covers a six-week period when not much was happening there.</snippet>
+         <url>http://www.nypost.com/movies/53074.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>It's a movie with the exciting parts cut out.</snippet>
+         <url>http://www.washingtonpost.com/wp-dyn/content/article/2005/09/29/AR2005092902142.html</url>
+         <critic>Stephen Hunter</critic>
+      </review>
+   </reviews>
+   <US_Gross>$8,018</US_Gross>
+   <weekend_gross>$8,018</weekend_gross>
+   <number_of_screens>2</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

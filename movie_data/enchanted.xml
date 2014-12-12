@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Enchanted</name>
+   <company>Walt Disney Pictures</company>
+   <genres>
+      <genre>Adventure</genre>
+      <genre>Animation</genre>
+      <genre>Comedy</genre>
+      <genre>FamilyKids</genre>
+      <genre>Fantasy</genre>
+      <genre>Musical</genre>
+      <genre>Romance</genre>
+   </genres>
+   <authors>
+      <author>Bill Kelly</author>
+   </authors>
+   <directors>
+      <director>Kevin Lima</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Amy Adams</actor>
+      <actor>Patrick Dempsey</actor>
+      <actor>James Marsden</actor>
+      <actor>Timothy Spall</actor>
+      <actor>Idina Menzel</actor>
+      <actor>Rachel Covey</actor>
+      <actor>Susan Saron</actor>
+   </actors>
+   <release_date>November 21, 2007</release_date>
+   <running_time>107</running_time>
+   <rating>PG</rating>
+   <reviews>
+      <review>
+         <snippet>It’s the sort of buoyant, all-ages entertainment that Hollywood has been laboring to revive in recent years (most recently with Hairspray) but hasn’t managed to get right until now, and the glue holding it all together is the incomparable Adams (an Oscar nominee for 2005’s Junebug), who gives the kind of blissful screwball performance that seemed to go out of fashion after "I Love Lucy" left the airwaves.</snippet>
+         <url>http://www.laweekly.com/film+tv/film-reviews/movie-reviews-enchanted-august-rush-hitman-holly/17754/</url>
+         <critic>Scott Foundas</critic>
+      </review>
+      <review>
+         <snippet>Enchanted charmingly reworks all the old favorites while incorporating fresh twists of its own.</snippet>
+         <url>http://ae.charlotte.com/entertainment/ui/charlotte/movie.html?id=981369&amp;reviewId=22776&amp;startDate=NEXT7</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>There's a word for women like Giselle: Supercalifragilistic. Ditto her film, Enchanted.</snippet>
+         <url>http://www.philly.com/philly/entertainment/movies/20071120_There_s_a_word_for_women_like_Giselle__Supercalifragilistic__Ditto_her_film__Enchanted_.html</url>
+         <critic>Carrie Rickey</critic>
+      </review>
+      <review>
+         <snippet>It may sound like faint praise to say that Enchanted is the movie of the year for smart and spirited 11-year-old girls. But a movie that genuinely respects that audience is not to be belittled.</snippet>
+         <url>http://www.csmonitor.com/2007/1123/p12s01-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>Enchanted is festooned with extravagant set pieces -- there's a great number in praise of romantic gestures, and a ballroom scene to make even grown-up girls swoon.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20161967,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>Disney goes meta in this witty, exuberant musical comedy whose parody and nostalgia serve a sweet and affecting romance.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/32444_ENCHANTED.html</url>
+         <critic>Andrea Gronvall</critic>
+      </review>
+      <review>
+         <snippet>A full-blown musical that commutes between Disney's patented cartoon universe and the "real" world with cleverness and grace, this splashy production reminds one of nothing in the Disney canon so much as "Mary Poppins," not least due to the "star is born" aura that surrounds Amy Adams here, just as it did Julie Andrews 43 years ago.</snippet>
+         <url>http://www.variety.com/review/VE1117935452.html?categoryid=31&amp;cs=1</url>
+         <critic>Todd McCarthy</critic>
+      </review>
+      <review>
+         <snippet>Even if its most ironic humor will sail over the heads of very little ones, Enchanted is that rare comedy that will appeal to the whole family.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1137883&amp;categories=Movies&amp;nm=1</url>
+         <critic>Ann Hornaday</critic>
+      </review>
+      <review>
+         <snippet>Enchanted is as good as its name.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-enchanted21nov21,0,5742084.story?coll=cl-mreview</url>
+         <critic>Kenneth Turan</critic>
+      </review>
+      <review>
+         <snippet>The film works its magic largely by sending up, at times with a wink, at times with a hard nudge, some of the very stereotypes that have long been this company’s profitable stock in trade.</snippet>
+         <url>http://movies.nytimes.com/2007/11/21/movies/21ench.html?ref=movies</url>
+         <critic>Manohla Dargis</critic>
+      </review>
+      <review>
+         <snippet>Though writer Bill Kelly’s script takes extreme liberties with plot development and never really leaves you guessing about who’ll get the girl, the jokes rarely miss and the result is a refreshingly sardonic fairy tale.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A560651</url>
+         <critic>Toddy Burton</critic>
+      </review>
+      <review>
+         <snippet>More important, it has a Disney willingness to allow fantasy into life, so New York seems to acquire a new playbook.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20071120/REVIEWS/711200302</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>The movie's big kick – what makes Enchanted live up to its title – is that the further Giselle progresses in New York, the more we feel like we've tumbled into a timeless Disney Neverland.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20071121.wenchanted21/BNStory/Entertainment/home</url>
+         <critic>Stephen Cole</critic>
+      </review>
+      <review>
+         <snippet>While Enchanted wittily updates traditional tales, it is, in the end, as carefully calculated in its appeal as any movie ever was.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2007/11/21/2007-11-21_amy_adams_sparkles_in_fairy_interesting_.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>The first half hour or so of Enchanted is brilliant.</snippet>
+         <url>http://www.nypost.com/seven/11212007/entertainment/movies/enchanted_410362.htm</url>
+         <critic>Staff (Not credited)</critic>
+      </review>
+      <review>
+         <snippet>Special kudos to Adams, who nails the distinctive body language of Disney's spunky good girls and manages to make Giselle's relentless optimism seem charming rather than a sign of mental deficiency.</snippet>
+         <url>http://www.tvguide.com/movies/enchanted/review/291166</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>Not since Julie Andrews rode an umbrella to glory in Mary Poppins has Disney given us such a real-life doll (Amy Adams).</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/14580510/review/17335318/enchanted_walt_disney</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>Through good scenes and derivative ones, Adams is disarming.</snippet>
+         <url>http://chicago.metromix.com/movies/movie_review/movie-review-enchanted/255275/content</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>The very definition of charming.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2007-11-20-enchanted_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>Adams does offer quite a turn: Portraying a version of Disney's Snow White, she owns the character, down to every warble and twirl.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2007/11/21/DD07TFE08.DTL&amp;type=movies</url>
+         <critic>Walter Addiego</critic>
+      </review>
+      <review>
+         <snippet>It is a testament to just how well Enchanted works that by the time a dragon is flying around New York City, you've forgotten all about the movie's high-concept humor and become invested in the plight of its characters instead.</snippet>
+         <url>http://www.miamiherald.com/1054/story/314523.html</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>The whole movie swings broadly from slapstick and mock suspense to song. But the film develops a strong amorous undertow; Kelly's script neatly allows for all the potential couples to get the fate or comeuppance they deserve.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-to.enchanted21nov21,0,346422.story</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>The sight of Adams gliding and beaming and chirping in this movie - a self-mocking cartoon that transforms into an inspired live-action musical farce - is just about the happiest time I've had watching an actor do anything all year.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=8923</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>While this is certainly not the first motion picture to blend drawn creations with real life actors, no movie to date has approached it quite this way.</snippet>
+         <url>http://www.reelviews.net/movies/e/enchanted2007.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>The movie isn't a send-up or a takedown of fairy tales -- it's a fairy tale.</snippet>
+         <url>http://www.premiere.com/moviereviews/4271/enchanted.html</url>
+         <critic>Ryan Stewart</critic>
+      </review>
+      <review>
+         <snippet>As the innocent and indomitably chirpy Giselle, Adams gives the great female comic performance of the year so far.</snippet>
+         <url>http://www.slate.com/id/2178849/fr/flyout</url>
+         <critic>Dana Stevens</critic>
+      </review>
+      <review>
+         <snippet>A sometimes clever, other times grating mix of live action and animation that plays tricks with levels of movie reality as the world of fairy-tale animation invades contemporary New York.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?JSESSIONID=xxJpHDnQ3wLNBchPmGxz61LmwlLjwT9Ln9XSRW8cQ1h2WL1hmpXC!-241049038&amp;&amp;rid=10227</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>Adams' winning performance and the light touch director Kevin Lima (a veteran of animation and live action) brings to scenes not tasked with advancing the plot all suggest that, silly as they may look once you take it apart, irony-free, romantic fantasy--animated and otherwise--still has a place on the big screen.</snippet>
+         <url>http://www.avclub.com/content/cinema/enchanted</url>
+         <critic>Keith Phipps</critic>
+      </review>
+      <review>
+         <snippet>Somewhere between conception and execution, what could have been so much smart, sharp fun turned decidedly pedestrian.</snippet>
+         <url>http://www.villagevoice.com/film/0747,wilonsky,78409,20.html</url>
+         <critic>Robert Wilonsky</critic>
+      </review>
+      <review>
+         <snippet>It’s essentially, y’know, for kids, but the dedicated fairy tale fan will have tons of fun spotting all the references. Adams, meanwhile, gives one of the comedy performances of the year.</snippet>
+         <url>http://www.empireonline.com/reviews/reviewcomplete.asp?FID=11163</url>
+         <critic>Olly Richards</critic>
+      </review>
+      <review>
+         <snippet>The kids and adults can dig this one, though adults may be stricken with Disney deja vu by this point.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=10427</url>
+         <critic>Matthew Sorrento</critic>
+      </review>
+      <review>
+         <snippet>Given the possibilities it's not particularly inventive, but it is nice to see a comedy so affectionate with the conventions it spoofs.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/340441_enchanted21q.html</url>
+         <critic>Sean Axmaker</critic>
+      </review>
+   </reviews>
+   <US_Gross>$127,706,877</US_Gross>
+   <production_budget>$85,000,000</production_budget>
+   <weekend_gross>$49,060,281</weekend_gross>
+   <number_of_screens>3,730</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

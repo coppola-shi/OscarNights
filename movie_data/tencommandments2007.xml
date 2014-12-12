@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Ten Commandments, The</name>
+   <company>Promenade Pictures</company>
+   <genres>
+      <genre>Animation</genre>
+   </genres>
+   <authors>
+      <author>Ed Naha</author>
+   </authors>
+   <directors>
+      <director>Bill Boyce</director>
+      <director>John Stronach</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Ben Kingsley</actor>
+      <actor>Christian Slater</actor>
+      <actor>Alfred Molina</actor>
+      <actor>Elliott Gould</actor>
+   </actors>
+   <release_date>October 19, 2007</release_date>
+   <running_time>88</running_time>
+   <rating>PG</rating>
+   <reviews>
+      <review>
+         <snippet>For those who recall those old Classics Illustrated comics of the 1940s and ’50s--and even for those who don’t--there’s an endearing, earnest quality to The Ten Commandments that transcends its star-studded cast and computer-generated animation.</snippet>
+         <url>http://chicago.metromix.com/movies/movie_review/movie-review-the-ten/233448/content</url>
+         <critic>Louis R. Carlozo</critic>
+      </review>
+      <review>
+         <snippet>A well-intentioned misfire featuring 3-D CGI animation that recalls lesser vidgames of the mid-1990s.</snippet>
+         <url>http://www.variety.com/review/VE1117935132.html?categoryid=31&amp;cs=1</url>
+         <critic>Joe Leydon</critic>
+      </review>
+      <review>
+         <snippet>Bad animation and casting make Moses movie a zero, not a Ten.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/335978_ten19q.html</url>
+         <critic>Andy Spletzer</critic>
+      </review>
+      <review>
+         <snippet>The panoramic backgrounds have a silky beauty, but the characters are cheaply rendered with doll faces, enlarged musculature, tiny joints, and clunky movement. It's like watching Max Headroom lead his people out of Egypt.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/32274_TEN_COMMANDMENTS_ANIMATION.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>There’s something earnest and forthright about the movie, despite its misguided execution.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A550883</url>
+         <critic>Steve Davis</critic>
+      </review>
+      <review>
+         <snippet>It fails on every conceivable level.</snippet>
+         <url>http://www.avclub.com/content/cinema/the_ten_commandments</url>
+         <critic>Keith Phipps</critic>
+      </review>
+   </reviews>
+   <US_Gross>$952,820</US_Gross>
+   <weekend_gross>$478,910</weekend_gross>
+   <number_of_screens>830</number_of_screens>
+   <oscar_winning_actors_present/>
+   <num_oscar_winning_actors>1</num_oscar_winning_actors>
+   <oscar_winning_actor>ben kingsley</oscar_winning_actor>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

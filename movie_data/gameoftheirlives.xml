@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Game of Their Lives, The</name>
+   <company>IFC Films</company>
+   <genres>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author>Angelo Pizzo</author>
+      <author>Geoffrey Douglas</author>
+   </authors>
+   <directors>
+      <director>David Anspaugh</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Wes Bentley</actor>
+      <actor>Patrick Stewart</actor>
+      <actor>John Rhys-Davies</actor>
+      <actor>Gerard Butler</actor>
+      <actor>Gavin Rossdale</actor>
+      <actor>Mike Bacarella</actor>
+      <actor>Zachery Ty Bryan</actor>
+      <actor>Terry Kinney</actor>
+      <actor>Louis Mylor</actor>
+   </actors>
+   <release_date>April 22, 2005</release_date>
+   <running_time>minutes,</running_time>
+   <rating>PG</rating>
+   <reviews>
+      <review>
+         <snippet>What the cast members lack in sharpened skill they more than make up for in raw gusto and athletic scrappiness (most of the actors have logged a lot of soccer in their pasts). These guys give a sport that is virtually nameless in the movies a good name in this one.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=7692</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>Unlike some other soccer movies, there's no fancy editing -- excitement is generated strictly by the actual choreography and the commentary of an English announcer.</snippet>
+         <url>http://listings.dallasobserver.com/gyrobase/Film/ShowFilm</url>
+         <critic>Luke Y. Thompson</critic>
+      </review>
+      <review>
+         <snippet>Coaching from the same playbook with which they made "Rudy" and "Hoosiers," director David Anspaugh and screenwriter Angelo Pizzo create a reverent fable.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1051990_1_0_,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>Despite strong performances by Gerard Butler and Wes Bentley as the leaders of the two factions and crisply directed soccer action, the movie lacks a powerful central presence to carry the drama.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-capsules22apr22,2,7389705.story</url>
+         <critic>Kevin Crust</critic>
+      </review>
+      <review>
+         <snippet>But Game really isn't a performer's movie. And the climactic contest (in which the Americans amazingly eked out a 1-0 win against England, considered by many to be the world's finest team at the time) is only serviceably staged.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2005-04-21-also-opening_x.htm</url>
+         <critic>Mike Clark</critic>
+      </review>
+      <review>
+         <snippet>The Game of Their Lives has a great sports story to tell, yet the filmmakers fumble it away.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1000893135</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>The final match stirs briefly, but when it's over, the movie's energy crashes right back down again. Disappointing.</snippet>
+         <url>http://www.laweekly.com/film/film_results.php?showid=3364&amp;Sumbit.x=50&amp;Sumbit.y=21</url>
+         <critic>Chuck Wilson</critic>
+      </review>
+      <review>
+         <snippet>Disappointingly mediocre.</snippet>
+         <url>http://sfgate.com/cgi-bin/article.cgi?f=/c/a/2005/04/22/DDG87CC8O71.DTL&amp;type=movies</url>
+         <critic>Peter Hartlaub</critic>
+      </review>
+      <review>
+         <snippet>By the time of the fabled match -- which you could swear lasts a full 90 minutes -- it's all you can do to keep your skin from crawling off your body and slinking to the safety of another room. Do yourself a favor: Follow it.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/111770641462260.xml&amp;coll=7</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>Picturesque pic, however, lacks even a penalty kick's worth of tension and is paradoxically inert for a movie about guys running up and down the pitch for the glory of the U.S.</snippet>
+         <url>http://www.variety.com/review/VE1117926866?categoryid=31&amp;cs=1</url>
+         <critic>Robert Koehler</critic>
+      </review>
+      <review>
+         <snippet>Obviously made with all of the best will in the world, its heart in the right place, this is a sluggish and dutiful film that plays more like a eulogy than an adventure.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20050421/REVIEWS/504210302/1001</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>The dialogue and acting are flatter than a punctured ball.</snippet>
+         <url>http://www.washingtonpost.com/wp-dyn/articles/A7146-2005Apr21.html</url>
+         <critic>Desson Thomson</critic>
+      </review>
+      <review>
+         <snippet>It is flat-footed, uninspired and disjointed from start to finish, a glaring disservice to the men who played the game.</snippet>
+         <url>http://www.washingtonpost.com/wp-dyn/articles/A8044-2005Apr21.html</url>
+         <critic>Sean Daly</critic>
+      </review>
+   </reviews>
+   <US_Gross>$375,474</US_Gross>
+   <production_budget>$20,000,000</production_budget>
+   <weekend_gross>$175,336</weekend_gross>
+   <number_of_screens>64</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

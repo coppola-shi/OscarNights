@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Astro Boy</name>
+   <company>Summit Entertainment</company>
+   <genres>
+      <genre>Action</genre>
+      <genre>Animation</genre>
+      <genre>Scifi</genre>
+   </genres>
+   <authors>
+      <author>Osamu Tezuka</author>
+      <author>Timothy Harris</author>
+   </authors>
+   <directors>
+      <director>David Bowers</director>
+   </directors>
+   <origins>
+      <origin>HongKong</origin>
+      <origin>USA</origin>
+      <origin>Japan</origin>
+   </origins>
+   <actors>
+      <actor>Freddie Highmore</actor>
+      <actor>Nicolas Cage</actor>
+      <actor>Kristen Bell</actor>
+      <actor>Nathan Lane</actor>
+      <actor>Bill Nighy</actor>
+      <actor>Eugene Levy</actor>
+      <actor>Matt Lucus</actor>
+      <actor>Donald Sutherl</actor>
+   </actors>
+   <release_date>October 23, 2009</release_date>
+   <running_time>minutes,</running_time>
+   <rating>PG</rating>
+   <reviews>
+      <review>
+         <snippet>A marvelously designed piece of cartoon kinetics.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20314437,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>It's zippy, and the movie version has both a computerized sheen and handcrafted detailing. Because the details are cribbed from classics, parents can enjoy this 'toon as much as their kids.</snippet>
+         <url>http://www.stltoday.com/stltoday/entertainment/reviews.nsf/movie/story/8D91B208422C380C862576560066E0AE?OpenDocument</url>
+         <critic>Joe Williams</critic>
+      </review>
+      <review>
+         <snippet>The movie contains less of its interesting story and more action and battle scenes than I would have preferred.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20091021/REVIEWS/910219993</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>A sweet and endearing movie. Attention, kids: It's also packed with action!</snippet>
+         <url>http://www.nypost.com/p/entertainment/movies/astro_nomical_EeSlHNVT8HJWUhYQUYKlCJ</url>
+         <critic>Billy Heller</critic>
+      </review>
+      <review>
+         <snippet>The lighting, production design, and character modeling are excellent, and director David Bowers (Flushed Away) references "Frankenstein,"  "Wall-E," "Transformers," and even Abraham and Isaac. But the TV series, primitive though it was, had a sweet innocence and joyfulness that made it more fun.</snippet>
+         <url>http://www.chicagoreader.com/chicago/MovieTimes?oid=977582</url>
+         <critic>Andrea Gronvall</critic>
+      </review>
+      <review>
+         <snippet>In addition to the slick but generic computer animation, it's also got an A-list voice cast: Nicolas Cage as Dr. Tenma, the grieving inventor, and Donald Sutherland as a scheming politician.</snippet>
+         <url>http://www.oregonlive.com/movies/index.ssf/2009/10/astro_boy_saves_day.html</url>
+         <critic>Marc Mohan</critic>
+      </review>
+      <review>
+         <snippet>Astro Boy alternately soars and sputters through a story line that’s not quite sure who it’s aimed at.</snippet>
+         <url>http://www.boston.com/ae/movies/articles/2009/10/23/astro_boy_a_rocket_powered_twist_on_pinocchio_tale/</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>Derivative bits aside, the pint-sized Japanese icon takes flight in vibrant CG animation -- no 3D glasses required.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film-reviews/astro-boy-film-review-1004022569.story</url>
+         <critic>Michael Rechtshaffen</critic>
+      </review>
+      <review>
+         <snippet>Appropriately for a film about robots, efficiency is the primary virtue of Astro Boy, a well-oiled CG-animated superhero pic that makes up in competence and vitality what it lacks in originality.</snippet>
+         <url>http://www.variety.com/review/VE1117941369.html?categoryid=31&amp;cs=1</url>
+         <critic>Andrew Barker</critic>
+      </review>
+      <review>
+         <snippet>What’s ultimately more impressive than the vigorous madcap action and innocuous humor, however, is Bowers’s willingness to address adult themes--alienation, regret, class tensions--with a directness that shows a surprising respect for his target young-adult audience</snippet>
+         <url>http://newyork.timeout.com/articles/film/79810/astro-boy-film-review</url>
+         <critic>Nick Schager</critic>
+      </review>
+      <review>
+         <snippet>Corny but goodhearted, the film tries hard not to annoy parents, with animation more fizzy than frantic and nerdy references.</snippet>
+         <url>http://www.laweekly.com/2009-10-22/film-tv/movie-reviews-amelia-astro-boy-saw-vi/</url>
+         <critic>Aaron Hillis</critic>
+      </review>
+      <review>
+         <snippet>It's a totally serviceable reboot for young people who are just discovering the joys of manga, but I can't help but miss the raw animation and even rawer emotional aesthetics of Tezuka's original televised animé series.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A896621</url>
+         <critic>Marc Savlov</critic>
+      </review>
+      <review>
+         <snippet>I wish the film version of Astro Boy provided a stronger antidote to mediocrity.</snippet>
+         <url>http://featuresblogs.chicagotribune.com/talking_pictures/</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>Though some scenes may be too intense for children, the action is slick, with robot clashes and airborne chases leaving the strongest impression.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2009-10-22-astro-boy_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>There are tiny glints of humor and intelligence at work, and the action and animation rockets along slickly and stylishly. But unlike the protagonists of almost any and all of the Pixar titles, Astro Boy's namesake lacks even an iota of soul.</snippet>
+         <url>http://www.philly.com/philly/entertainment/movies/20091023_Robots_go_through_the_motions.html</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>And so he zips and zags, keeping aloft in a movie that can’t always do the same.</snippet>
+         <url>http://movies.nytimes.com/2009/10/23/movies/23astro.html?ref=movies</url>
+         <critic>Manohla Dargis</critic>
+      </review>
+      <review>
+         <snippet>Purists should have a field day enumerating the differences between the original "Astro Boy" and this high-gloss reimagining. Someone has to.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2009/10/22/MV571A8O9V.DTL</url>
+         <critic>Amy Biancolli</critic>
+      </review>
+      <review>
+         <snippet>Plays like "Transformers" for tots, a "Pinocchio" story that stays true to its source material's storied past without adding much in the way of interest, outside of some clankingly obvious political subtext that will alienate people of all stripes.</snippet>
+         <url>http://www.latimes.com/entertainment/news/la-et-astroboy23-2009oct23,0,3780541.story</url>
+         <critic>Glenn Whipp</critic>
+      </review>
+      <review>
+         <snippet>It will put some viewers in mind of yet another story with the same theme: "Pinocchio."</snippet>
+         <url>http://www.washingtonpost.com/gog/movies/astro-boy,1158646/critic-review.html#reviewNum1</url>
+         <critic>Michael O&amp;#039;Sullivan</critic>
+      </review>
+      <review>
+         <snippet>Astro Boy definitely sets himself up for a sequel, and the overall scenario is ripe to explore many current issues. But let's hope the creators trade in the well-used parts for some fresh material.</snippet>
+         <url>http://www.theglobeandmail.com/news/arts/astro-boy/article1334354/</url>
+         <critic>Jennie Punter</critic>
+      </review>
+      <review>
+         <snippet>Older viewers are more likely to see a muddled film full of one-dimensional characters and insultingly strident politics.</snippet>
+         <url>http://www.avclub.com/articles/astro-boy,34439/</url>
+         <critic>Tasha Robinson</critic>
+      </review>
+      <review>
+         <snippet>Looks so great, it may take a while to notice it's a clunky political parable wrapped in a tonally confused fairy tale.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2009/10/23/2009-10-23_short_film_reviews_motherhood_astro_boy_.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+   </reviews>
+   <US_Gross>$19,551,067</US_Gross>
+   <production_budget>$65,000,000</production_budget>
+   <weekend_gross>$6,702,923</weekend_gross>
+   <number_of_screens>3,014</number_of_screens>
+   <oscar_winning_actors_present/>
+   <num_oscar_winning_actors>1</num_oscar_winning_actors>
+   <oscar_winning_actor>nicolas cage</oscar_winning_actor>
+   <highest_grossing_actors_present/>
+   <num_highest_grossing_actors>1</num_highest_grossing_actors>
+   <highest_grossing_actor>nicolas cage</highest_grossing_actor>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

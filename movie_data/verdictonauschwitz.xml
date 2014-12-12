@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Verdict on Auschwitz</name>
+   <company>First Run Features</company>
+   <genres>
+      <genre>Documentary</genre>
+      <genre>Foreign</genre>
+   </genres>
+   <authors>
+      <author/>
+   </authors>
+   <directors>
+      <director>Rolf Bickel</director>
+      <director>Dietrich Wagner</director>
+   </directors>
+   <origins>
+      <origin>Germany</origin>
+   </origins>
+   <actors/>
+   <release_date>January 12, 2007</release_date>
+   <running_time>180</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>As both historical document and human document, this 180-minute epic is infinitely valuable.</snippet>
+         <url>http://www.csmonitor.com/2007/0112/p14s01-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>A powerful condemnation of evil – not just the act of cruelty itself, but the refusal of many people to acknowledge the cruelty after the damage was done.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=9517</url>
+         <critic>Phil Hall</critic>
+      </review>
+      <review>
+         <snippet>In three hours of discursive yet rivetingly essential documentary footage (an eyeblink by Holocaust doc standards), Verdict on Auschwitz not only tracks the 20-month trial but meticulously re-creates it.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20009592,00.html</url>
+         <critic>Scott Brown</critic>
+      </review>
+      <review>
+         <snippet>Consider the context, though, and this German-made documentary becomes a fascinating record -- via a two-year Frankfurt courtroom drama less splashy than either the Nuremberg or Eichmann trials that preceded it -- of the country’s awkward baby steps toward confronting its hideous legacy.</snippet>
+         <url>http://www.laweekly.com/film+tv/film-reviews/film-reviews/15487/</url>
+         <critic>Ella Taylor</critic>
+      </review>
+      <review>
+         <snippet>Scrupulous, haunting and necessary documentary.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-070209-movies-review-verdict,0,4062380.story?coll=mmx-movies_top_heds</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>An invaluable addition to the ever growing canon of Holocaust-themed films.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?JSESSIONID=Fv2T48Cn1pWGHYjVQK2MRpNd30k15cfyTqJLBwWcDzGgLtQ5KqBT!-1361094497&amp;&amp;rid=8636</url>
+         <critic>Frank Scheck</critic>
+      </review>
+      <review>
+         <snippet>The Verdict on Auschwitz doesn't sound like much of a cliffhanger. ("Guilty.") But this three-part German television documentary of the Frankfurt trial that lasted from 1963 to 1965 uses unheard audiotapes of camp survivors and SS men to construct a portrait that transcends even these momentous particulars: of a vast, self-sustaining ecosystem of sadism and greed.</snippet>
+         <url>http://nymag.com/movies/reviews/26289/index1.html</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>The model is Alain Resnais's "Night and Fog"; Verdict on Auschwitz similarly juxtaposes archival footage and postwar material (both 1963 and 1993) to produce shocking eruptions of past atrocities in the context of an orderly everyday Europe.</snippet>
+         <url>http://www.villagevoice.com/film/0702,hoberman,75501,20.html</url>
+         <critic>J. Hoberman</critic>
+      </review>
+      <review>
+         <snippet>Represents a fascinating reflection on Germany's ongoing attempts to come to terms with its past.</snippet>
+         <url>http://www.variety.com/review/VE1117932432.html?categoryid=31&amp;cs=1</url>
+         <critic>Ronnie Scheib</critic>
+      </review>
+      <review>
+         <snippet>A stark, emotionally draining documentary.</snippet>
+         <url>http://www.nytimes.com/2007/01/11/movies/12verd.html?ref=movies</url>
+         <critic>Neil Genzlinger</critic>
+      </review>
+      <review>
+         <snippet>Valuable and instructive as it is, Verdict on Auschwitz can sometimes be so focused on the details it fails to show us the forest for the trees.</snippet>
+         <url>http://www.calendarlive.com/printedition/calendar/cl-et-verdict26jan26,0,6038838.story</url>
+         <critic>Carina Chocano</critic>
+      </review>
+      <review>
+         <snippet>Many who testified were Jews, but their stories were echoed by German dissidents and members of the Polish resistance. Their statements are chilling, though prosecutor Joachim Kugler avers that the photos and documents left behind by Nazi bureaucrats were enough to convict the accused.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/30995_VERDICT_ON_AUSCHWITZ.html</url>
+         <critic>Andrea Gronvall</critic>
+      </review>
+      <review>
+         <snippet>Divided into three sections -- The Investigation, The Process, The Verdict -- the film does not make for easy viewing. But for those willing to learn what lies behind the photographs of mounds of corpses and the history of Auschwitz, Verdict fills in any questions you may have.</snippet>
+         <url>http://www.miamiherald.com/231/story/71198.html</url>
+         <critic>Marta Barber</critic>
+      </review>
+   </reviews>
+   <US_Gross>$11,396</US_Gross>
+   <weekend_gross>$2,740</weekend_gross>
+   <number_of_screens>1</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

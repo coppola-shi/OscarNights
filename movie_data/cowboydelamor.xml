@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Cowboy del Amor</name>
+   <company>Emerging Pictures</company>
+   <genres>
+      <genre>Comedy</genre>
+      <genre>Documentary</genre>
+   </genres>
+   <authors>
+      <author/>
+   </authors>
+   <directors>
+      <director>Michèle Ohayon</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Ivan Thompson</actor>
+   </actors>
+   <release_date>February 3, 2006</release_date>
+   <running_time>minutes,</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>The result is a lyrical contrast of two contiguous cultures, worlds apart in their definitions of family and love but brought together by mutual awe and basic human need.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A349222</url>
+         <critic>Marrit Ingman</critic>
+      </review>
+      <review>
+         <snippet>Fascinating and distinctly politically incorrect.</snippet>
+         <url>http://sfgate.com/cgi-bin/article.cgi?f=/c/a/2006/02/24/DDGSSHD2UN1.DTL&amp;type=movies</url>
+         <critic>Ruthe Stein</critic>
+      </review>
+      <review>
+         <snippet>Watching Cowboy del Amor is like sitting in a room with someone who's making funny racist cracks; you can't help but laugh, but you feel sullied by the implicit collusion. For that reason, the film tips over into the camp of tragedy. Or if it is a comedy, it's the Shakespearean kind, where the marriages at the end are utterly unsettling.</snippet>
+         <url>http://www.dallasobserver.com/Issues/2006-03-02/film/film3.html</url>
+         <critic>Melissa Levine</critic>
+      </review>
+      <review>
+         <snippet>Richly amusing and sporadically insightful as it offers an up-close-and-personal view of Ivan Thompson, a self-proclaimed "cowboy cupid" who plays matchmaker between American men and Mexican women.</snippet>
+         <url>http://www.variety.com/ac2006_review/VE1117926682?nav=reviews&amp;categoryid=1986&amp;cs=</url>
+         <critic>Joe Leydon</critic>
+      </review>
+      <review>
+         <snippet>Charming, bittersweet.</snippet>
+         <url>http://www.calendarlive.com/movies/chocano/cl-et-cowboy10feb10,0,1590174.story</url>
+         <critic>Carina Chocano</critic>
+      </review>
+      <review>
+         <snippet>It's both a compliment and a criticism to say that Michèle Ohayon's scrappy documentary ends much too quickly. Every moment of this story - about America's unlikeliest matchmaker - is fascinating. We just need more of them.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/moviereviews/story/390159p-330844c.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>A 60-year-old eccentric with a knack for self-promotion, Thompson makes an engaging documentary subject. But his plainspoken charm and cornpone shtick can't dispel the film's lingering aftertaste of exploitative condescension.</snippet>
+         <url>http://www.villagevoice.com/film/0606,morales,72093,20.html</url>
+         <critic>Jorge Morales</critic>
+      </review>
+      <review>
+         <snippet>A well-done, oft-times entertaining documentary as it presents this unique brand of matchmaking that may or may not be the ideal situation for both parties.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=7214</url>
+         <critic>Eric Campos</critic>
+      </review>
+      <review>
+         <snippet>Directed by Michèle Ohayon with a light touch and an attentive ear for the regressive attitudes beneath the humor, Cowboy del Amor follows the fortunes of Rick, an easygoing truck driver who thinks most American women are "too hard to please."</snippet>
+         <url>http://movies2.nytimes.com/2006/02/10/movies/10cowb.html</url>
+         <critic>Jeannette Catsoulis</critic>
+      </review>
+      <review>
+         <snippet>Michèle Ohayon falls into the old documentary trap - the illusion that once you've found yourself a lovable eccentric to follow around with a camera, you automatically have a movie.</snippet>
+         <url>http://www.laweekly.com/index.php?option=com_lawcontent&amp;task=view&amp;id=12621&amp;Itemid=9</url>
+         <critic>Ella Taylor</critic>
+      </review>
+      <review>
+         <snippet>The film doesn't quite manage to sustain interest for the duration of its 86-minute running time. But it does exert a certain voyeuristic fascination, thanks in no small part to the eccentricities of its central figure.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1002073516</url>
+         <critic>Frank Scheck</critic>
+      </review>
+      <review>
+         <snippet>Ohayon doesn't judge Thompson or his customers, but you don't need to be a Harvard-educated psychiatrist to realize that the bunch of them are dirty old men who treat women as commodities.</snippet>
+         <url>http://www.nypost.com/movies/63274.htm</url>
+         <critic>V.A. Musetto</critic>
+      </review>
+   </reviews>
+   <US_Gross>$4,438</US_Gross>
+   <weekend_gross>$4,438</weekend_gross>
+   <number_of_screens>2</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

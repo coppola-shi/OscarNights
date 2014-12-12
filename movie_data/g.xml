@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>G</name>
+   <company>Slowhand Cinema</company>
+   <genres>
+      <genre>Drama</genre>
+      <genre>Romance</genre>
+   </genres>
+   <authors>
+      <author>Christopher Scott Cherot</author>
+   </authors>
+   <directors>
+      <director>Christopher Scott Cherot</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Richard T. Jones</actor>
+      <actor>Blair Underwood</actor>
+      <actor>Chenoa Maxwell</actor>
+      <actor>Andre Royo</actor>
+      <actor>Andrew Lauren</actor>
+      <actor>Laz Alonso</actor>
+      <actor>Lalanya Masters</actor>
+      <actor>Nicoye Banks</actor>
+   </actors>
+   <release_date>September 16, 2005</release_date>
+   <running_time>96</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>A handsome, compelling drama, about the African-American elite settling in the Hamptons, that more than stands on its own.</snippet>
+         <url>http://www.variety.com/review/VE1117917818?categoryid=31&amp;cs=1</url>
+         <critic>Scott Foundas</critic>
+      </review>
+      <review>
+         <snippet>Cherot (who also co-wrote the script with Charles E. Drew Jr.) has made that rare hip-hop movie that doesn't fetishize lurid ghetto clichés.</snippet>
+         <url>http://www.laweekly.com/film/film_results.php?showid=3628&amp;Sumbit.x=47&amp;Sumbit.y=14</url>
+         <critic>Scott Foundas</critic>
+      </review>
+      <review>
+         <snippet>The problem with G is not merely that the ending doesn't work and feels hopelessly contrived. It's also that the plot adds too many unnecessary characters and subplots, so that the main line gets misplaced.</snippet>
+         <url>http://www.rogerebert.com/apps/pbcs.dll/article?AID=/20051027/REVIEWS/510270302/1023</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>Unable to embrace the world he's seeking to depict, Cherot is left with a lifeless shell, a movie so preoccupied with being noble that it forgets to be interesting. The problem with G is not that it's unbelievable, it's just boring.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-to.g16sep16,1,6587201.story?coll=bal-movies-utility</url>
+         <critic>Chris Kaltenbach</critic>
+      </review>
+      <review>
+         <snippet>Despite the updated setting and some on-the-money performances, the sleek if dramatically flimsy results make for a less than great "Gatsby."</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1542322</url>
+         <critic>Michael Rechtshaffen</critic>
+      </review>
+      <review>
+         <snippet>A hip-hop reimagining of "The Great Gatsby" that fails both as an update of F. Scott Fitzgerald's dissection of American aspirations and class barriers and on its own boorish terms.</snippet>
+         <url>http://online.tvguide.com/movies/database/ShowMovie.asp?MI=46555</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>If the movie's not as bad as it sounds, it's not all that great, either.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=8311</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>Unpolished but entertaining.</snippet>
+         <url>http://sfgate.com/cgi-bin/article.cgi?f=/c/a/2005/10/28/DDG17FEJ0A1.DTL#flick</url>
+         <critic>Peter Hartlaub</critic>
+      </review>
+      <review>
+         <snippet>"The Great Gatsby" was famously bungled in the pulseless 1974 movie with Robert Redford.  G, which updates the story with an African-American cast, is another strikeout, further destroying F. Scott Fitzgerald's film batting average.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1125306_1_0_,00.html</url>
+         <critic>Gregory Kirschling</critic>
+      </review>
+      <review>
+         <snippet>Seems like a dopey idea to me, but if you aren't familiar with the Fitzgerald novel, you may enjoy this; at least Jones and his costars play the story as if they believed in it.</snippet>
+         <url>http://spacefinder.chicagoreader.com/movies/briefs/28836_G_GEE.html</url>
+         <critic>Jonathan Rosenbaum</critic>
+      </review>
+      <review>
+         <snippet>For a film about shimmering surfaces and the glittering allure of the superficial, G boasts a depressingly flat, undistinguished visual style, and whenever Bill Conti's score reaches for rarified, elegant romance, it instead suggests the dewy earnestness of a feminine hygiene commercial.</snippet>
+         <url>http://avclub.com/content/node/42209</url>
+         <critic>Nathan Rabin</critic>
+      </review>
+      <review>
+         <snippet>One 'hood-rich-meets-blue-blood-rich scene is employed as comedic throwaway; it's also the film's truest. The rest: treacly orchestral swells for the brooding, oh-so-familiar impresario, Summer G, and no green light but the one mistakenly given to start production.</snippet>
+         <url>http://www.villagevoice.com/film/0544,tracking9,69584,20.html</url>
+         <critic>Pete L&amp;#039;Official</critic>
+      </review>
+      <review>
+         <snippet>A somewhat faithful but not very graceful retelling of F. Scott Fitzgerald's elegant Jazz Age tragedy "The Great Gatsby."</snippet>
+         <url>http://www.nytimes.com/2005/10/28/movies/28gee.html</url>
+         <critic>Laura Kern</critic>
+      </review>
+      <review>
+         <snippet>Cherot shot G on a tight schedule, but instead of this age-old indie predicament generating a certain scrappy passion, the film just looks cheap.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-0501028-movies-review-g,0,82823.story?coll=mmx-movies_top_heds</url>
+         <critic>Allison Benedikt</critic>
+      </review>
+      <review>
+         <snippet>It's an ugly affair overall, but at least you can say you've never seen such beautiful shirts.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/moviereviews/story/360028p-306590c.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>For anyone to enjoy this starchy, contrived exercise in vanity and product placement, it's best not to have read the book. In fact, it's best not to have read ANY book.</snippet>
+         <url>http://www.washingtonpost.com/wp-dyn/content/article/2005/09/15/AR2005091502248.html</url>
+         <critic>Ann Hornaday</critic>
+      </review>
+      <review>
+         <snippet>This poorly acted, directed and written (but slick-looking) vanity project was produced by Andrew Lauren (Ralph's son also ineptly plays G's major-domo) and shot at least four years ago.</snippet>
+         <url>http://www.nypost.com/movies/56318.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+   </reviews>
+   <US_Gross>$3,020,784</US_Gross>
+   <weekend_gross>$248,337</weekend_gross>
+   <number_of_screens>42</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

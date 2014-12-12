@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Starting Out in the Evening</name>
+   <company>Roadside Attractions</company>
+   <genres>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author>Fred Parness</author>
+      <author>Andrew Wagner</author>
+   </authors>
+   <directors>
+      <director>Andrew Wagner</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Frank Langella</actor>
+      <actor>Lauren Ambrose</actor>
+      <actor>Lili Taylor</actor>
+      <actor>Karl Bury</actor>
+      <actor>Anitha Ghi</actor>
+      <actor>Sean T. Krishnan</actor>
+      <actor>Jessica Hecht</actor>
+      <actor>Adrian Lester</actor>
+   </actors>
+   <release_date>November 23, 2007</release_date>
+   <running_time>111</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>Above all is Langella, achingly vulnerable under layers of flesh. In one scene, alone, he eats peanut butter intensely, thoughtfully, and nothing he could do as Hamlet would seem deeper or more poetic.</snippet>
+         <url>http://nymag.com/movies/reviews/40974/index1.html</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>Intelligent, involving and conspicuously adult, Starting Out in the Evening is almost shocking in its distinctiveness, its ability to create high drama from an unlikely source.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-starting23nov23,0,899320.story?coll=cl-mreview</url>
+         <critic>Kenneth Turan</critic>
+      </review>
+      <review>
+         <snippet>Succeeds so beautifully because of a compelling story, great acting, intelligent writing and sensitive direction.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?&amp;rid=8669</url>
+         <critic>James Greenberg</critic>
+      </review>
+      <review>
+         <snippet>The movie is carefully modulated to draw us deeper and deeper into the situation, and uses no contrived plot devices to superimpose plot jolts on what is, after all, a story involving four civilized people who are only trying, each in a different way, to find happiness.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20071213/REVIEWS/712130306</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>A rapturous, ruefully funny flight of sympathetic imagination. Featuring the first movie role for Frank Langella that ranks with his best stage parts, it's a rare kind of American movie.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/reviews/bal-to.starting14dec14,0,991503.story</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>Andrew Wagner has made a lovely comedy of death and rebirth.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20162172,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>What is so remarkable about Mr. Langella is that he seems to hold Leonard’s intellectual cosmos inside him, to make it implicit in the man’s every gesture and pause.</snippet>
+         <url>http://movies.nytimes.com/2007/11/23/movies/23even.html?ref=movies</url>
+         <critic>A.O. Scott</critic>
+      </review>
+      <review>
+         <snippet>It's rare to see a movie adaptation in which a filmmaker has taken so much care in translating the odd little qualities that make a particular novel special, to preserve the complex and fragile threads of feeling between characters that are often much easier to grasp on the page.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2007/11/23/starting/</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>Whether this reserved, hypercautious widower can deal with the arousal she creates in him - let alone be physically able to act on it - is one of the many layers of tension that drive this unusual and absolutely riveting dance.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2007/11/23/2007-11-23_ambrose_langella_as_young_and_the_zestle.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>We are slowly and mightily drawn into this intimate story, which is both intellectually stimulating and emotionally moving.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2007-11-29-starting-out-in-evening_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>Director Andrew Wagner, adapting a novel by Brian Morton, is sometimes understated to a fault, but his work with the actors, who also include Lili Taylor as Leonard's daughter, is impeccable.</snippet>
+         <url>http://www.csmonitor.com/2007/1130/p15s01-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>Movies about writers are almost always romanticized affairs but Starting Out in the Evening is the rare exception. It is at once an elegy for the vanishing generation of Bellow, Cheever, Mailer and Updike and a dead on indictment of our culture’s current state.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=10785</url>
+         <critic>Rick Kisonak</critic>
+      </review>
+      <review>
+         <snippet>Langella is superb, and Starting Out in the Evening is a classy film.</snippet>
+         <url>http://www.newyorker.com/arts/critics/cinema/2008/01/07/080107crci_cinema_denby</url>
+         <critic>David Denby</critic>
+      </review>
+      <review>
+         <snippet>Like most of this refreshingly subtle film, it's not what you expect, and it's not something you've seen before.</snippet>
+         <url>http://www.newsweek.com/id/72048</url>
+         <critic>David Ansen</critic>
+      </review>
+      <review>
+         <snippet>Director Andrew Wagner draws topnotch work from a pro cast in Starting Out in the Evening, a wise, carefully observed chamber drama.</snippet>
+         <url>http://www.variety.com/index.asp?layout=features2007&amp;content=jump&amp;jump=review&amp;dept=berlin&amp;nav=RBerlin&amp;articleid=VE1117932548&amp;cs=1&amp;p=0</url>
+         <critic>Scott Foundas</critic>
+      </review>
+      <review>
+         <snippet>This wise, observant, and exquisitely tacit chamber piece complicates every May-December, academic-novel cliché in the book.</snippet>
+         <url>http://www.villagevoice.com/film/0747,taylor,78398,20.html</url>
+         <critic>Ella Taylor</critic>
+      </review>
+      <review>
+         <snippet>Langella delivers a master class in acting. He's playing Leonard Schiller, an aging author aching from the loss of his wife, a weak heart and literary neglect.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/14721184/review/17335376/starting_out_in_the_evening</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>It's a gentle, unhurried drama about how people can connect with each other through conversation, nonverbal gestures, and writing.</snippet>
+         <url>http://www.reelviews.net/movies/s/starting_out.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>Taylor also makes an impressive comeback as the conflicted daughter who instinctively distrusts Heather, but Starting Out in the Evening is first and foremost a triumph by Frank Langella.</snippet>
+         <url>http://www.nypost.com/seven/11232007/entertainment/movies/starting_out_has_a_standout_630854.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>Because the characters are richly realized and their dialogue rings true, we stick around, rooting for something like a happy ending.</snippet>
+         <url>http://chicago.metromix.com/movies/movie_review/movie-review-starting-out/268158/content</url>
+         <critic>Jessica Reaves</critic>
+      </review>
+      <review>
+         <snippet>If the film has a weakness, it's an ending that's so vague and open to interpretation that it's not at all clear how director Andrew Wagner ultimately wants us to feel about these self-absorbed characters and their precious literary concerns. But the performances carry the day.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/343455_starting14q.html</url>
+         <critic>William Arnold</critic>
+      </review>
+      <review>
+         <snippet>It never commits the sin of sentimentalizing old age, as Hollywood usually does when it deigns to admit that people over 55 exist.</snippet>
+         <url>http://ae.charlotte.com/entertainment/ui/charlotte/movie.html?id=959043&amp;reviewId=22837&amp;startDate=NEXT7</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>This is a human-sized drama about people with contradictory motives, trying to help or use each other.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20080117.wevening18/BNStory/Entertainment/home</url>
+         <critic>Liam Lacey</critic>
+      </review>
+      <review>
+         <snippet>Fact is, Starting Out is pretty dry stuff as a movie, even as it's enlivened by vivid acting.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/1201740909276120.xml&amp;coll=7</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>A "small" movie. But in its keenly observed examination of strangers who become intimates - and of family members who remain, in part, strangers - it has big things to say.</snippet>
+         <url>http://www.philly.com/philly/entertainment/movies/20071214_A_protegee_rocks_aging_authors_world.html</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>Part of Morton's achievement is to present all four people through the viewpoints of the other three; Wagner can't do that, but the performances are so nuanced that the characters remain multilayered, and they're not the sort of people we're accustomed to finding in commercial films.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/32515_STARTING_OUT_IN_THE_EVENING.html</url>
+         <critic>Jonathan Rosenbaum</critic>
+      </review>
+      <review>
+         <snippet>It's also and most interestingly about the writing process itself, a difficult feat to pull off on film, which Wagner and co-screenwriter Fred Parnes manage to display with unvarnished realism.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A588833</url>
+         <critic>Marc Savlov</critic>
+      </review>
+      <review>
+         <snippet>Taylor is effective as a woman struggling to take control of her life, but Ambrose's work feels shallow in comparison.</snippet>
+         <url>http://www.miamiherald.com/1054/story/409720.html</url>
+         <critic>Connie Ogle</critic>
+      </review>
+      <review>
+         <snippet>A gentle collection of scenes that work and scenes that don't.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=9938</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>Intelligently acted but oddly stagnant adaptation of Brian Morton's acclaimed novel.</snippet>
+         <url>http://www.tvguide.com/movies/starting-evening/review/290689</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>Starting Out never builds to the explosive climax it seems to be heading for, which I suppose is a good thing for its overall integrity, but maybe not so good for its motion-picture value.</snippet>
+         <url>http://www.premiere.com/moviereviews/4269/starting-out-in-the-evening.html</url>
+         <critic>Glenn Kenny</critic>
+      </review>
+      <review>
+         <snippet>Wagner and company fail to follow Langella's primary rule of storytelling: "Follow the characters around until they do something interesting."</snippet>
+         <url>http://www.avclub.com/content/cinema/starting_out_in_the_evening</url>
+         <critic>Noel Murray</critic>
+      </review>
+      <review>
+         <snippet>Wallows in bleakness and settles for sentimental gestures.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2007/12/14/DDMSTSTGE.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+   </reviews>
+   <US_Gross>$902,115</US_Gross>
+   <weekend_gross>$76,214</weekend_gross>
+   <number_of_screens>7</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

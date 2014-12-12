@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Fantastic Four: Rise of the Silver Surfer</name>
+   <company>Twentieth Century-Fox Film Corporation</company>
+   <genres>
+      <genre>Action</genre>
+      <genre>Adventure</genre>
+      <genre>Fantasy</genre>
+      <genre>Scifi</genre>
+   </genres>
+   <authors>
+      <author>Don Payne</author>
+      <author>Mark Frost</author>
+      <author>John Turman</author>
+      <author>Stan Lee and Jack Kirby</author>
+   </authors>
+   <directors>
+      <director>Tim Story</director>
+   </directors>
+   <origins>
+      <origin>USAGermany</origin>
+   </origins>
+   <actors>
+      <actor>Ioan Gruffudd</actor>
+      <actor>Jessica Alba</actor>
+      <actor>Chris Evans</actor>
+      <actor>Michael Chiklis</actor>
+      <actor>Julian McMahon</actor>
+      <actor>Kerry Washington</actor>
+      <actor>Andre Braugher</actor>
+      <actor>Laurence Fishburne</actor>
+   </actors>
+   <release_date>June 15, 2007</release_date>
+   <running_time>92</running_time>
+   <rating>PG</rating>
+   <reviews>
+      <review>
+         <snippet>It's almost a surprise that the sequel is actually better - much better - than the original.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2007/06/14/2007-06-14_upping_the_power.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>One of the most enjoyable pictures of the season.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2007/06/14/DDGEQQEEK513.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>Fantastic Four: Rise of the Silver Surfer, is . . . well . . . not terrible. In fact, "Rise of the Silver Surfer" is roughly 300 percent less cringe-inducing than its predecessor.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/1181775322311390.xml&amp;coll=7</url>
+         <critic>M. E. Russell</critic>
+      </review>
+      <review>
+         <snippet>What keeps the Fantastic Four franchise alive is the Human Torch's emotional fire and the Silver Surfer's melancholy ice.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-to.four15jun15,0,4126812.story?coll=bal-movies-utility</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>As summer franchise superhero flicks go, it's tolerable.</snippet>
+         <url>http://www.csmonitor.com/2007/0615/p11s01-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>When will the people who adapt comic books into films realize that less can be so much more?</snippet>
+         <url>http://ae.charlotte.com/entertainment/ui/charlotte/movie.html?id=895597&amp;reviewId=22500&amp;startDate=NEXT7</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>Like its predecessor, this is a basic bungalow of a flick, where low-maintenance superheroes take their ease and you can pay your (dis)respects painlessly enough. In short, okay to visit, wouldn't want to live there.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20070614.wfour15/BNStory/Entertainment/home</url>
+         <critic>Rick Groen</critic>
+      </review>
+      <review>
+         <snippet>Doesn't quite live up to the billing, but it improves mightily on the original. And the superhero family can thank its new addition for the upgrade.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2007-06-14-silver-surfer_N.htm</url>
+         <critic>Scott Bowles</critic>
+      </review>
+      <review>
+         <snippet>It's a decent comic-book movie that delivers its goods with good humor and a minimum of bloat.</snippet>
+         <url>http://www.premiere.com/moviereviews/3875/fantastic-four-rise-of-the-silver-surfer.html</url>
+         <critic>Glenn Kenny</critic>
+      </review>
+      <review>
+         <snippet>Bigger, better and more polished than the first, with a quite satisfactory ratio of action set-pieces and a lot of juvenile japery squarely aimed at its PG and fanboy audience.</snippet>
+         <url>http://www.empireonline.com/reviews/review.asp?FID=133001</url>
+         <critic>Angie Errigo</critic>
+      </review>
+      <review>
+         <snippet>It's miscast, underwritten, muddily shot, and slackly paced, but there's something captivating about its unabashed shittiness.</snippet>
+         <url>http://www.slate.com/id/2167989/fr/flyout</url>
+         <critic>Dana Stevens</critic>
+      </review>
+      <review>
+         <snippet>At a time when tortured superheroes like Spider-Man, Superman and Batman would benefit from some serious psychotherapy, it's almost refreshing to see a comicbook caper as blithe, weightless and cheerfully dumb as Fantastic Four: Rise of the Silver Surfer.</snippet>
+         <url>http://www.variety.com/review/VE1117933903.html?categoryid=31&amp;cs=1</url>
+         <critic>Justin Chang</critic>
+      </review>
+      <review>
+         <snippet>It is passable comic book stuff, dumb and loud. Loud. LOUD.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-070615-movies-review-fantastic,0,2481528.story?coll=mmx-movies_top_heds</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>The script, credited to "Twin Peaks" co-creator Mark Frost and longtime "Simpsons" writer Don Payne, unsuccessfully strives for hipster irreverence.</snippet>
+         <url>http://www.laweekly.com/film+tv/film-reviews/film-reviews-fantastic-four-fido-amu/16623/</url>
+         <critic>Scott Foundas</critic>
+      </review>
+      <review>
+         <snippet>An improvement of sorts over the lifeless 2005 edition.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?JSESSIONID=ssX0GxFVdbzV0JGS6PmcTDhhJX2dZs0v5r6fSNGRL7hqKbNPvHfc!-19105740&amp;&amp;rid=9370</url>
+         <critic>Michael Rechtshaffen</critic>
+      </review>
+      <review>
+         <snippet>The result is strictly for those who like their comic-book movies short and stupid.</snippet>
+         <url>http://www.tvguide.com/movies/fantastic-rise-silver/review/288097</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>Good fun -- more fun than in the original -- punctuated by some lines of admirable awfulness.</snippet>
+         <url>http://online.wsj.com/article/SB118186395464336075.html</url>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>Diverting, at times even visually impressive,  but has neither the spirit or style of "Spider-Man" nor the ambition of "X-Men."</snippet>
+         <url>http://seattlepi.nwsource.com/movies/319660_four14q.html</url>
+         <critic>Sean Axmaker</critic>
+      </review>
+      <review>
+         <snippet>Earnest, gee-whiz and foursquare, this simple and intentionally inoffensive sequel gets points for being easy to take and scrupulously avoiding obvious sources of irritation.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-fantastic15jun15,0,3701285.story?coll=cl-mreview</url>
+         <critic>Kenneth Turan</critic>
+      </review>
+      <review>
+         <snippet>The silliest sci-fi movie since "An Inconvenient Truth."</snippet>
+         <url>http://www.nypost.com/seven/06142007/entertainment/movies/the_drab_4_movies_kyle_smith.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>More ambitious than its predecessor. It's also more cluttered and less fleet: The light, pleasingly casual quality of the first picture has evolved into something forced and metallic.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2007/06/15/fantastic_four/index.html</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>The early dilemma in "Rise of the Silver Surfer " is this: Save the world or marry Jessica Alba . Your conscience says, "Save the world." But the Maxim reader in you knows better.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=8605</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>A better-quality sequel, but that wasn't really too difficult. The original was one of the worst movies of 2005, and while "Rise" won't win any awards, it's (mostly) less offensive than its predecessor. Faint praise, but I'll be damned if I go any further than that.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=10103</url>
+         <critic>Pete Vonder Haar</critic>
+      </review>
+      <review>
+         <snippet>Even within the context of the superhero universe, the Silver Surfer initially makes for -- let's face it -- a somewhat silly-looking creation.</snippet>
+         <url>http://ae.miami.com/entertainment/ui/miami/movie.html?id=895597&amp;reviewId=22501</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>The closest FF:ROTSS gets to wit is when Johnny convinces a reluctant Reed to attend a bachelor party, after promising the uptight groom-to-be that there won't be any "exotic dancers."</snippet>
+         <url>http://www.philly.com/inquirer/columnists/steven_rea/20070615_Fantastic_Fours_Surfer_leaves_you_cold.html</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>Purists will balk at a pointless--and boring--revamp of a major villain, but that's the least of the film's worries. Only a few isolated shots of the group striding together as a team make Surfer feel like a Fantastic Four movie.</snippet>
+         <url>http://www.avclub.com/content/cinema/fantastic_four_rise_of_the</url>
+         <critic>Keith Phipps</critic>
+      </review>
+      <review>
+         <snippet>The dialogue aims young and low, and sounds translated from comic-book Esperanto.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20042874,00.html</url>
+         <critic>Scott Brown</critic>
+      </review>
+      <review>
+         <snippet>A tedious, incoherent bore.</snippet>
+         <url>http://www.reelviews.net/movies/f/fantastic_four2.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>Relentlessly dull and curiously bombastic.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A488140</url>
+         <critic>Marc Savlov</critic>
+      </review>
+      <review>
+         <snippet>This sequel to "Fantastic Four" (2005) drags in the Silver Surfer, who looks like a gigantic hood ornament and, given voice by Laurence Fishburne, has about as much personality.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/31715_FANTASTIC_FOUR:_RISE_OF_THE_SILVER_SURFER.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>This existentially and aesthetically unnecessary sequel to the equally irrelevant if depressingly successful "Fantastic Four."</snippet>
+         <url>http://movies2.nytimes.com/2007/06/14/movies/15fant.html?ref=movies</url>
+         <critic>Manohla Dargis</critic>
+      </review>
+      <review>
+         <snippet>The perfect summer movie, that is if you're eight years old or under. For the rest of us, the sequel to the first "Fantastic Four" that miraculously amassed more than $150 million in 2005, is a plotless, brainless, witless bore.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/8653930/review/15096583/fantastic_four_rise_of_the_silver_surfer</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>Surely the dullest of Hollywood's many comic-book-derived summer movies, "Silver Surfer" is drearier than corn dying in the Iowa sun, slower than molasses in Antarctica.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1117253&amp;categories=Movies&amp;nm=1</url>
+         <critic>Stephen Hunter</critic>
+      </review>
+   </reviews>
+   <US_Gross>$131,921,738</US_Gross>
+   <production_budget>$120,000,000</production_budget>
+   <weekend_gross>$58,051,684</weekend_gross>
+   <number_of_screens>3,959</number_of_screens>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

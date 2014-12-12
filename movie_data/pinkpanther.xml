@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Pink Panther, The</name>
+   <company>Columbia Pictures / Sony Pictures Releasing</company>
+   <genres>
+      <genre>Adventure</genre>
+      <genre>Comedy</genre>
+      <genre>Crime</genre>
+   </genres>
+   <authors>
+      <author>Len Blum</author>
+      <author>Steve Martin</author>
+      <author>Michael Saltzman</author>
+      <author>Maurice Richlin &amp; Blake Edwards</author>
+   </authors>
+   <directors>
+      <director>Shawn Levy</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Steve Martin</actor>
+      <actor>Kevin Kline</actor>
+      <actor>Beyoncé Knowles</actor>
+      <actor>Jean Reno</actor>
+      <actor>Emily Mortimer</actor>
+      <actor>Henry Czerny</actor>
+      <actor>Kristin Chenoweth</actor>
+      <actor>Roger Rees</actor>
+   </actors>
+   <release_date>February 10, 2006</release_date>
+   <running_time>93</running_time>
+   <rating>PG</rating>
+   <reviews>
+      <review>
+         <snippet>The staging of the physical comedy in The Pink Panther is not always adept - director Shawn Levy is no Blake Edwards - but Martin, who co-wrote the screenplay, keeps spinning in his own orbit anyway. And what an orbit it is.</snippet>
+         <url>http://www.csmonitor.com/2006/0210/p14s02-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>Transforming Clouseau's perennial nemesis into a more urbane smoothie, Kevin Kline delivers like a pro.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2006-02-09-panther-review_x.htm</url>
+         <critic>Mike Clark</critic>
+      </review>
+      <review>
+         <snippet>Martin, who hasn't really clicked in a movie in years, hits the target this time with an Inspector Clouseau who is even more relentlessly annoying (and strangely endearing) than Sellers managed to be in his last several outings.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/258974_pink10q.html</url>
+         <critic>William Arnold</critic>
+      </review>
+      <review>
+         <snippet>This one will make you laugh early and often, and send you out of the theater in a cheerful mood.</snippet>
+         <url>http://www.premiere.com/article.asp?section_id=2&amp;article_id=2106</url>
+         <critic>John Migliore</critic>
+      </review>
+      <review>
+         <snippet>The best thing about the replica is how wholeheartedly Martin throws himself into the physical comedy, which is uniformly hilarious.</snippet>
+         <url>http://www.calendarlive.com/movies/chocano/cl-et-panther10feb10,0,7079133.story</url>
+         <critic>Carina Chocano</critic>
+      </review>
+      <review>
+         <snippet>This Pink Panther really doesn't have to achieve the heights of the original; it just has to be funny on its own terms. But it pales there too. Kline, a master of comic hypocrisy, deserves more screen time, Emily Mortimer is wasted as Clouseau's adoring assistant Nicole and Knowles is over indulged as Xania.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-060210-movies-review-panther,0,4792470.story?coll=mmx-movies_top_heds</url>
+         <critic>Michael Wilmington</critic>
+      </review>
+      <review>
+         <snippet>This slapdash farce, arriving three decades after Sellers last inhabited the role, sustains a baseline of good will that often spikes into delight at Mr. Martin's beguiling nonsense.</snippet>
+         <url/>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>Martin makes a fine Clouseau, re-energizing musty old physical gags involving chandeliers and priceless vases, and rolling his tongue around a zesty form of pidgin French. If he ever finds his Blake Edwards, there may be hope for this franchise yet.</snippet>
+         <url>http://www.avclub.com/content/node/45214</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>Neither the disaster one might have suspected nor a fully realized madcap farce; rather, Steve Martin's foray as Inspector Clouseau exhibits bursts of wild-and-craziness, but hardly enough to sustain even its relatively brief running time.</snippet>
+         <url>http://www.variety.com/review/VE1117929469?categoryid=31&amp;cs=1</url>
+         <critic>Brian Lowry</critic>
+      </review>
+      <review>
+         <snippet>Martin's gift for physical and vocal comedy is as deft as ever.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1157691_1_0_,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>An occasionally amusing but wrongheaded remake that arrives more than four decades after the original blazed across the screen.</snippet>
+         <url>http://www.dallasobserver.com/Issues/2006-02-09/film/film3.html</url>
+         <critic>Bill Gallo</critic>
+      </review>
+      <review>
+         <snippet>Occasionally works and has a handful of great moments.</snippet>
+         <url>http://www.nypost.com/movies/63273.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>Even the cartoon Pink Panther in the credits seems off - at once too glitzy and too fey, more Peter Allen than Pink Panther.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-to.pink10feb10,0,5446682.story?coll=bal-artslife-movies</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>Suffice to say that Shawn Levy, director of the "Cheaper by the Dozen" movies, is no Blake Edwards; for every finely tuned slapstick fillip, there's a ton of messy, family-friendly buffoonery.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=7082</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>The best sequence is a five-minute set-piece where Clouseau struggles with an accent coach to learn how to order a hamburger like an American.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/LAC.20060210.PINK10/TPStory/TPEntertainment/</url>
+         <critic>Liam Lacey</critic>
+      </review>
+      <review>
+         <snippet>With a better story, director and support cast, Martin could have made Clouseau his own. Still, it's not as bad as the one with Roberto Benigni.</snippet>
+         <url>http://www.empireonline.com/incinemas/ReviewComplete.asp?FID=17084</url>
+         <critic>Dan Jolin</critic>
+      </review>
+      <review>
+         <snippet>With the exception of one scene with an accent coach, his (Martin) Clouseau is flabby and obvious, like your dad doing an impression at the dinner table.</snippet>
+         <url>http://www.laweekly.com/index.php?option=com_lawcontent&amp;task=view&amp;id=12621&amp;Itemid=9</url>
+         <critic>Christopher Orr</critic>
+      </review>
+      <review>
+         <snippet>Steve Martin can be a delightfully spasmodic clown, but his Clouseau makes no sense.</snippet>
+         <url>http://newyorkmetro.com/movies/reviews/15903/</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>The lack of energy suggests the film might as well have been constructed from outtakes.</snippet>
+         <url>http://www.villagevoice.com/film/0607,kenigsberg,72192,20.html</url>
+         <critic>Ben Kenigsberg</critic>
+      </review>
+      <review>
+         <snippet>Even with the inspired choice of Steve Martin in the Clouseau role, this "Panther" picture is more bumbling and fumbling than the blissfully oblivious, accident-prone Inspector.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1001957436</url>
+         <critic>Michael Rechtshaffen</critic>
+      </review>
+      <review>
+         <snippet>Mr. Levy's cold, streamlined direction gives the movie the feel of a mechanical contraption manipulated by remote control with a nervous finger on the fast-forward button. Many of the jokes barely have time to register before we're on to the next stunt.</snippet>
+         <url>http://www.nytimes.com/2006/02/10/movies/10pant.html</url>
+         <critic>Stephen Holden</critic>
+      </review>
+      <review>
+         <snippet>Martin, who plays Clouseau and wrote the script with Len Blum, has completely mishandled the character.</snippet>
+         <url>http://ae.charlotte.com/entertainment/ui/charlotte/movie.html?id=539272&amp;reviewId=20087&amp;startDate=NEXT7</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>Sacre bleu! Bumbling French police inspector Jacques Clouseau is back, and he's never been less funny.</snippet>
+         <url>http://online.tvguide.com/movies/database/ShowMovie.asp?MI=46189</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>At every moment in the movie, I was aware that Peter Sellers was Clouseau, and Steve Martin was not. I hadn't realized how thoroughly Sellers and Edwards had colonized my memory.</snippet>
+         <url>http://www.rogerebert.com/apps/pbcs.dll/article?AID=/20060209/REVIEWS/60131010/1023</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>The mirthlessly sadistic gags tend to target people in wheelchairs or hospital beds and betray a mild if all-encompassing disgust for the source material and the audience.</snippet>
+         <url>http://spacefinder.chicagoreader.com/movies/briefs/29281_PINK_PANTHER_LEVY.html</url>
+         <critic>Jonathan Rosenbaum</critic>
+      </review>
+      <review>
+         <snippet>This movie leaves us with the stale whiff of fake nostalgia and something even more odoriferous: the smell of money.</snippet>
+         <url>http://www.slate.com/id/2135826/?nav=fo</url>
+         <critic>Dana Stevens</critic>
+      </review>
+      <review>
+         <snippet>Most of the humor in The Pink Panther derives from Martin's silly French accent, especially when he tries to pronounce the word "hamburger." But zat joke, she ees not funny. And The Pink Panther ees, how you say, ze real dog.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1090695&amp;lat=200.0&amp;lon=200.0&amp;displaySearchLocation=&amp;nm=1&amp;categories=Movies</url>
+         <critic>Ann Hornaday</critic>
+      </review>
+      <review>
+         <snippet>After a while, hearing Martin say ''Zee area eez zecure!'' doesn't cut it any longer, and that's pretty much all The Pink Panther has to offer.</snippet>
+         <url>http://ae.miami.com/entertainment/ui/miami/movie.html?id=539272&amp;reviewId=20107</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>The Pink Panther is supposed to use humor to uplift. Instead, I departed this movie feeling depressed.</snippet>
+         <url>http://movie-reviews.colossus.net/movies/p/pink_panther.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>Alas, this joyless affair doesn't have a clou.</snippet>
+         <url>http://ae.philly.com/entertainment/ui/philly/movie.html?id=539272&amp;reviewId=20096</url>
+         <critic>Carrie Rickey</critic>
+      </review>
+      <review>
+         <snippet>This, the 10th and worst-written entry in the series, would have been better
+if it had followed Dreyfuss instead of Clouseau, or if Kline had been cast
+as Clouseau instead of Martin.</snippet>
+         <url>http://www.nydailynews.com/02-10-2006/front/story/390204p-330824c.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>It's pathetic.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/113944292276500.xml&amp;coll=7</url>
+         <critic>M. E. Russell</critic>
+      </review>
+      <review>
+         <snippet>A graceless, embarrassing effort.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2006/02/10/DDGK8H57F11.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>Sellers' comic mastery is completely fumbled by Martin and director Shawn Levy.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=8635</url>
+         <critic>Pete Vonder Haar</critic>
+      </review>
+      <review>
+         <snippet>Ultimately, one has to chalk up The Pink Panther to the good old traditions of Hollywood greed and chutzpah. Nothing this slapdash and badly executed is done for the love of movies.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A336276</url>
+         <critic>Steve Davis</critic>
+      </review>
+   </reviews>
+   <US_Gross>$82,226,474</US_Gross>
+   <production_budget>$80,000,000</production_budget>
+   <weekend_gross>$20,220,412</weekend_gross>
+   <number_of_screens>3,477</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Wolf Creek</name>
+   <company>Dimension Films</company>
+   <genres>
+      <genre>Adventure</genre>
+      <genre>Crime</genre>
+      <genre>Foreign</genre>
+      <genre>Horror</genre>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>Greg Mc</author>
+      <author>Lean</author>
+   </authors>
+   <directors>
+      <director>Greg Mc</director>
+      <director>Lean</director>
+   </directors>
+   <origins>
+      <origin>Australia</origin>
+   </origins>
+   <actors>
+      <actor>John Jarratt</actor>
+      <actor>Cassra Magrath</actor>
+      <actor>Andy McPhee</actor>
+      <actor>Kestie Morassi</actor>
+      <actor>Guy Petersen</actor>
+      <actor>Nathan Phillips</actor>
+      <actor>Gordon Poole</actor>
+      <actor>Jenny Starwall</actor>
+      <actor>Aaron Sterns</actor>
+   </actors>
+   <release_date>December 25, 2005</release_date>
+   <running_time>99</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>Every single performance is the result of a cast that has gone to the far reaches of acting ability and even exceeded them.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=8218</url>
+         <critic>Daniel Bernardi</critic>
+      </review>
+      <review>
+         <snippet>Easily one of the most brutally realistic horror movies since the original "Texas Chain Saw Massacre" (1974).</snippet>
+         <url>http://online.tvguide.com/movies/database/ShowMovie.asp?MI=46577</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>Full of clever reversals, brief triumphs and bitter setbacks, Wolf Creek is consummately well-crafted, unapologetically vicious and leavened with moments of humor that merely intensify the horror.</snippet>
+         <url>http://www.laweekly.com/film/film_results.php?showid=3713&amp;Sumbit.x=67&amp;Sumbit.y=11</url>
+         <critic>John Patterson</critic>
+      </review>
+      <review>
+         <snippet>Essentially a worst-case-scenario white-knuckler executed with terrifically focused skill and realism.</snippet>
+         <url>http://www.variety.com/review/VE1117926004.html?categoryID=31&amp;cs=1</url>
+         <critic>Dennis Harvey</critic>
+      </review>
+      <review>
+         <snippet>Holiday counterprogramming at its finest. This gut-churning horror indie is based on true stories of tourists disappearing in the vast Australian outback... This scared the hell out of me.</snippet>
+         <url>http://spacefinder.chicagoreader.com/movies/critic.html#29131</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>What makes Wolf Creek so effective is not its originality (which, let's face it, is practically non-existent), or even its amount of gore (the violence is implied more often than it's shown), but the ways in which McLean tweaks the usual formulas, so what you think is going to happen next almost never does.</snippet>
+         <url>http://ae.miami.com/entertainment/ui/miami/movie.html?id=506510&amp;reviewId=19797</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>Director McLean doesn't let up on the suspense, which builds to an electrifying climax that is greatly abetted by Will Gibson's gritty cinematography and Francois Tetaz' nerves-inducing score.</snippet>
+         <url>http://www.nypost.com/movies/58764.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>While Wolf Creek has clunky moments, when you want to slap the idiot prey until they wake up, the movie embraces a minimalism that feels refreshingly old-school in a field of slasher films drunk on self-referential wisecracks and narrative tricks. And Jarrat's jolly-creepy performance might place Mick in the pantheon of great movie killers.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/1135027508113750.xml&amp;coll=7</url>
+         <critic>M. E. Russell</critic>
+      </review>
+      <review>
+         <snippet>What's Christmas Day without a good serial killer movie?</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?file=/c/a/2005/12/24/DDGGSGCAP21.DTL&amp;type=movies</url>
+         <critic>G. Allen Johnson</critic>
+      </review>
+      <review>
+         <snippet>Wolf Creek is the kind of well-executed sleazefest that makes audiences feel not just creeped-out but downright dirty, as if it would take a three-hour-long shower just to wash all the grit and grease away.</snippet>
+         <url>http://avclub.com/content/node/44035</url>
+         <critic>Nathan Rabin</critic>
+      </review>
+      <review>
+         <snippet>Writer-director Greg McLean, who has many shorts and commercials under his belt, makes a significant feature debut here, with unapologetic horror that doesn't compromise.</snippet>
+         <url>http://dallasobserver.com/Issues/2005-12-22/film/film2.html</url>
+         <critic>Luke Y. Thompson</critic>
+      </review>
+      <review>
+         <snippet>Wolf Creek, an unusually crisp and boldly shot "Texas Chainsaw Massacre" knockoff, looks as ancient and patterned as a druidic ritual.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1145740_1_0_,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>Wolf Creek is ultimately all about the torture and the trauma. Happy holidays.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=7673</url>
+         <critic>Janice Page</critic>
+      </review>
+      <review>
+         <snippet>As horror movies go, this is a pretty good one.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-0501225-movies-review-wolf,0,7309175.story?coll=mmx-movies_top_heds</url>
+         <critic>Jessica Reaves</critic>
+      </review>
+      <review>
+         <snippet>While it's not exactly the kind of movie many will feel like catching during a holiday break, fans of the horror genre will appreciate the fresh take on a killer's hunt for fresh meat.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/ArticleNews/TPStory/LAC/20051223/WOLF23/TPEntertainment/Film</url>
+         <critic>Jennie Punter</critic>
+      </review>
+      <review>
+         <snippet>An auspicious debut from first time Aussie writer/director Greg Mclean, film combines the style of cheesy horror films and the flair of classic thrillers.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1000779305</url>
+         <critic>James Greenberg</critic>
+      </review>
+      <review>
+         <snippet>John Jarratt is perfectly creepy as the outback loner gone psychotic survivalist who gets his kicks from the systematic degradation and torture of hapless victims. And make no mistake, the ordeal is excruciating.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/253111_wolf23q.html</url>
+         <critic>Sean Axmaker</critic>
+      </review>
+      <review>
+         <snippet>The vogue for retro-horror, particularly the stripped-down shivers of 1970's slasher flicks, continues apace in this nasty little piece of work from Australia.</snippet>
+         <url>http://www.nytimes.com/2005/12/23/movies/23wolf.html</url>
+         <critic>Manohla Dargis</critic>
+      </review>
+      <review>
+         <snippet>Wolf Creek (much like the new Saw horror franchise) exists for no reason other than to inflict an acute sense of inescapable and inscrutable torture upon the story's victims – and, by extension, the audience. If that's what you're into, Wolf Creek should be a satisfying assault.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A321015</url>
+         <critic>Marjorie Baumgarten</critic>
+      </review>
+      <review>
+         <snippet>The ambitions are so paltry that our response should be too: Wolf Creek is unimaginative, light on the grue and heavy on the faux-serious desperation.</snippet>
+         <url>http://www.villagevoice.com/film/0551,atkinson,71158,20.html</url>
+         <critic>Michael Atkinson</critic>
+      </review>
+      <review>
+         <snippet>An initially promising horror film that turns exploitive, Wolf Creek fails to deliver the requisite payoff considering its leisurely pace.</snippet>
+         <url>http://www.calendarlive.com/printedition/calendar/cl-et-capsules23.2dec23,0,4657943.story</url>
+         <critic>Kevin Crust</critic>
+      </review>
+      <review>
+         <snippet>There's no substitute for bad taste. And this one has it double-barreled, both in the timing of its release and as a movie, one said to be loosely based on fact.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2005-12-22-wolfcreek-review_x.htm</url>
+         <critic>Mike Clark</critic>
+      </review>
+      <review>
+         <snippet>A nasty bit of counter-programming, Wolf Creek is for people sickened by the sentimental excesses of the day and the holiday season and want to hide from them in mayhem, slaughter, torture and degradation.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1112462&amp;lat=200.0&amp;lon=200.0&amp;displaySearchLocation=&amp;nm=1&amp;categories=Movies</url>
+         <critic>Stephen Hunter</critic>
+      </review>
+      <review>
+         <snippet>This is a movie for genre fans only; there's not an aspect to it that should appeal to the rest of the world. It's neither original nor inventive, and while its young cast works hard, there's not even a standout performance worth recommending.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-ae.wolf25dec25,1,4541836.story?coll=bal-artslife-movies</url>
+         <critic>Chris Kaltenbach</critic>
+      </review>
+      <review>
+         <snippet>Just because Dimension considered Greg McLean's nasty exploitation flick worthy of their time and money doesn't mean it deserves yours.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/moviereviews/story/377284p-320284c.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>There is a line and this movie crosses it. I don't know where the line is, but it's way north of Wolf Creek. There is a role for violence in film, but what the hell is the purpose of this sadistic celebration of pain and cruelty?</snippet>
+         <url>http://www.rogerebert.com/apps/pbcs.dll/article?AID=/20051222/REVIEWS/51220004/1023</url>
+         <critic>Roger Ebert</critic>
+      </review>
+   </reviews>
+   <US_Gross>$16,186,348</US_Gross>
+   <production_budget>$1,100,000</production_budget>
+   <weekend_gross>$2,805,754</weekend_gross>
+   <number_of_screens>1,749</number_of_screens>
+   <oscar_winning_directors_present/>
+   <num_oscar_winning_directors>1</num_oscar_winning_directors>
+   <oscar_winning_director>lean</oscar_winning_director>
+   <summer_release>false</summer_release>
+   <christmas_release>true</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

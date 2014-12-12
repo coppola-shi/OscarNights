@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Day Zero</name>
+   <company>First Look Studios</company>
+   <genres>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author>Robert Malkani</author>
+   </authors>
+   <directors>
+      <director>Bryan Gunnar Cole</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Chris Klein</actor>
+      <actor>Jon Bernthal</actor>
+      <actor>Elijah Wood</actor>
+      <actor>Ginnifer Goodwin</actor>
+      <actor>Elisabeth Moss</actor>
+      <actor>Ally Sheedy</actor>
+      <actor>Sofia Vassilieva</actor>
+      <actor>Zoe Lister Jones</actor>
+   </actors>
+   <release_date>January 18, 2008</release_date>
+   <running_time>92</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>What's good about the idea is that it triggers the kind of debate we would be having over Iraq if there was a draft. What's bad about it is that the three main characters in Robert Malkani's script - anti-war lawyer George (Chris Klein), gung-ho cab driver Dixon (Jon Bernthal) and sissy novelist Aaron (Elijah Wood) - are not interesting, either as individuals or as three amigos.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2008/01/18/2008-01-18_short_takes_more_movie_reviews-1.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>The actors -- especially Klein and Bernthal -- deliver startlingly powerful performances.</snippet>
+         <url>http://www.tvguide.com/movies/day-zero/review/291863</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>Its view of the near future may be vaguely plausible and its performances persuasive, but its formulaic construction, internal inconsistencies and fuzzy ending undermine its integrity. It has nothing to say about the big issues -- manhood, war and friendship -- that hasn’t been explored with more depth and honesty in a hundred other movies.</snippet>
+         <url>http://movies.nytimes.com/2008/01/18/movies/18zero.html?ref=movies</url>
+         <critic>Stephen Holden</critic>
+      </review>
+      <review>
+         <snippet>A lukewarm film about what might happen to three New York City friends if the draft were reinstated, proves that even the most controversial of topics can be the basis for the dullest indie films.</snippet>
+         <url>http://www.nypost.com/seven/01182008/entertainment/movies/day_zero_144899.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>With ludicrous gravity and a narrow-minded view of courage and conviction, the film's what-if scenario is presented as a reality check to every ostensibly unimaginative male who's come of age in the draftless years since Vietnam.</snippet>
+         <url>http://www.villagevoice.com/film/0803,gonzalez,78853,20.html</url>
+         <critic>Ed Gonzalez</critic>
+      </review>
+   </reviews>
+   <US_Gross>$16,659</US_Gross>
+   <weekend_gross>$12,070</weekend_gross>
+   <number_of_screens>2</number_of_screens>
+   <highest_grossing_actors_present/>
+   <num_highest_grossing_actors>1</num_highest_grossing_actors>
+   <highest_grossing_actor>elijah wood</highest_grossing_actor>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

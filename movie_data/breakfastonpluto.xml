@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Breakfast on Pluto</name>
+   <company>Sony Pictures Classics</company>
+   <genres>
+      <genre>Comedy</genre>
+      <genre>Drama</genre>
+      <genre>Foreign</genre>
+   </genres>
+   <authors>
+      <author>Neil Jordan</author>
+      <author>Pat Mc</author>
+      <author>Cabe</author>
+   </authors>
+   <directors>
+      <director>Neil Jordan</director>
+   </directors>
+   <origins>
+      <origin>IrelandUK</origin>
+   </origins>
+   <actors>
+      <actor>Cillian Murphy</actor>
+      <actor>Liam Neeson</actor>
+      <actor>Stephen Rea</actor>
+      <actor>Brendan Gleeson</actor>
+      <actor>Gavin Friday</actor>
+      <actor>Laurence Kinlan</actor>
+      <actor>Ruth McCabe</actor>
+      <actor>Ruth Negga</actor>
+   </actors>
+   <release_date>November 16, 2005</release_date>
+   <running_time>135</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>Jordan and McCabe's real triumph here, however, is the tenderness with which they imbues "Kitten," and the astonishing grace with which the extraordinary Murphy pulls it off.</snippet>
+         <url>http://online.tvguide.com/movies/database/ShowMovie.asp?MI=46429</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>Playful, poetic, shocking, saddening, and ultimately gratifyingly and honestly big-hearted.</snippet>
+         <url>http://www.premiere.com/article.asp?section_id=2&amp;article_id=2412</url>
+         <critic>Glenn Kenny</critic>
+      </review>
+      <review>
+         <snippet>[Murphy] makes a thrillingly flesh-and-blood creature of Kitten, with her yearning, her droll, self-deprecating wit, her breathless romanticism and her puckish vibrancy. It's easily the most fun bit of screen acting this year, and as rich and nuanced as the lead in any drama.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/1135216506226540.xml&amp;coll=7</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>The movie is like a Dickens novel in which the hero moves through the underskirts of society, encountering one colorful character after another.</snippet>
+         <url>http://www.rogerebert.com/apps/pbcs.dll/article?AID=/20051222/REVIEWS/51019004/1023</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>It is the central performance that holds us. Cillian Murphy glows.</snippet>
+         <url>http://www.tnr.com/doc.mhtml?i=20051226&amp;s=kauffmann122605</url>
+         <critic>Stanley Kauffmann</critic>
+      </review>
+      <review>
+         <snippet>For Jordan, this is a return to top form.</snippet>
+         <url>http://dallasobserver.com/Issues/2005-12-22/film/film7.html</url>
+         <critic>Bill Gallo</critic>
+      </review>
+      <review>
+         <snippet>Cillian Murphy gives a tour de force performance.</snippet>
+         <url>http://spacefinder.chicagoreader.com/movies/critic.html#29131</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>Jordan is always best on his native Irish turf, and he's in grand mischievous form in this picaresque fable.</snippet>
+         <url>http://www.msnbc.msn.com/id/10118868/site/newsweek/</url>
+         <critic>David Ansen</critic>
+      </review>
+      <review>
+         <snippet>If you like your boys pretty and your stories incredible, this movie is for you.</snippet>
+         <url>http://www.filmthreat.com/Reviews.asp?Id=8166</url>
+         <critic>Eric Campos</critic>
+      </review>
+      <review>
+         <snippet>In substance and style, the movie is more than a few tears short of Jordan's "The Crying Game." But Murphy is an actor to watch. Even in heels.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/_/id/7247787?pageid=rs.ReviewsMovieArchive&amp;pageregion=mainRegion</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>Cillian Murphy plays a hyper-feminine transvestite who spends much of the movie traipsing about an increasingly violent landscape in search of his long lost mother. His whirligig encounters, political and sexual, rarely soar.</snippet>
+         <url>http://www.csmonitor.com/2005/1118/p14s02-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>Thanks to Jordan's bravura storytelling, Breakfast on Pluto is one of very few movies this year truly worth remembering.</snippet>
+         <url>http://www.nypost.com/movies/31306.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>Jordan unites his favorite actors -- Liam Neeson, Stephen Rea, Ian Hart and Brendan Gleeson -- with the swoony presence of the talented 29-year-old Cillian Murphy.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/253113_pluto23q.html</url>
+         <critic>Paula Nechak</critic>
+      </review>
+      <review>
+         <snippet>Known for his visual images, Jordan outdoes himself in "Breakfast,'' a feast for the eyes.</snippet>
+         <url>http://sfgate.com/cgi-bin/article.cgi?f=/c/a/2005/12/23/DDGOIGBLJN1.DTL&amp;type=movies</url>
+         <critic>Ruthe Stein</critic>
+      </review>
+      <review>
+         <snippet>Jordan remains faithful to the looney sensibility of a hero, who is hard to take, but in his refusal to acquiesce to the social humdrum, is like a saint, or at least an artist.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/ArticleNews/TPStory/LAC/20051223/PLUTO23/TPEntertainment/Film</url>
+         <critic>Liam Lacey</critic>
+      </review>
+      <review>
+         <snippet>In a year overcrowded with wonderful performances by lead actors, Mr. Murphy's immensely appealing turn ranks among the strongest.</snippet>
+         <url>http://movies2.nytimes.com/2005/11/16/movies/16plut.html</url>
+         <critic>Stephen Holden</critic>
+      </review>
+      <review>
+         <snippet>A charming, winsome slice of Seventies pop kitsch reconceived as a kind of Knight-errant quest for that holiest of all grails, dear old mom.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A322793</url>
+         <critic>Marc Savlov</critic>
+      </review>
+      <review>
+         <snippet>At over two hours, Breakfast on Pluto is too much of a merely pretty and pretty good thing.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-to.pluto13jan13,1,6099822.story?coll=bal-artslife-movies</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>Ambles along nicely, but feels as if it's never going to end.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=7965</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>However great Murphy is in this film, even greater is Liam Neeson as Father Bernard.</snippet>
+         <url>http://ae.philly.com/entertainment/ui/philly/movie.html?id=501754&amp;reviewId=19875</url>
+         <critic>Carrie Rickey</critic>
+      </review>
+      <review>
+         <snippet>Although "Pluto" has a rollicky, endearing air, it's cooler than Jordan's other films.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1106213&amp;lat=200.0&amp;lon=200.0&amp;displaySearchLocation=&amp;nm=1&amp;categories=Movies</url>
+         <critic>Desson Thomson</critic>
+      </review>
+      <review>
+         <snippet>This has charm and glamour but little profundity.</snippet>
+         <url>http://www.empireonline.com/incinemas/ReviewComplete.asp?FID=132905</url>
+         <critic>Anna Smith</critic>
+      </review>
+      <review>
+         <snippet>Though he (Jordan) directs with admirable skill, his usual touches don't drive the film--which occasionally threatens to lose its shape.</snippet>
+         <url>http://avclub.com/content/node/42643</url>
+         <critic>Keith Phipps</critic>
+      </review>
+      <review>
+         <snippet>A more down-to-earth actor would sentimentalize Breakfast on Pluto and make for an awkward fit with its peculiar mix of tones. Murphy's strangeness--his chill estrangement--makes his campy "Kitten" persona more poignant.</snippet>
+         <url>http://www.slate.com/id/2131264/?nav=fo</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>Murphy's breathy, high voice as Kitten feels forced, but not nearly as much as the film's efforts to be both whimsical and weighty.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2005-12-01-transamerica-pluto_x.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>In the end, his (Patrick) disaffection make him a singularly uninvolving character, and his disengagement makes him seem alternately shallow, selfish and perverse.</snippet>
+         <url>http://www.calendarlive.com/movies/chocano/cl-et-breakfast2dec02,0,884331.story</url>
+         <critic>Carina Chocano</critic>
+      </review>
+      <review>
+         <snippet>Cross-dressing and the Irish Troubles don't mix well in Neil Jordan's cloying, fanciful Breakfast on Pluto.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/moviereviews/story/366820p-312098c.html</url>
+         <critic>Jami Bernard</critic>
+      </review>
+      <review>
+         <snippet>Jordan is trying for a surrealist romp, and it's as coy and callow as you'd expect from a movie with a lead character nicknamed Kitten.</snippet>
+         <url>http://www.laweekly.com/ink/06/02/film-taylor.php</url>
+         <critic>Ella Taylor</critic>
+      </review>
+      <review>
+         <snippet>Tedious portrait of a troubled Rolling Stone.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1001096934</url>
+         <critic>Michael Rechtshaffen</critic>
+      </review>
+      <review>
+         <snippet>Despite numerous surface pleasures, including a beguiling pop soundtrack and presence of rising star Cillian Murphy in the lead role, dramatic shortcomings spell a mixed overall reception.</snippet>
+         <url>http://www.variety.com/ac2006_review/VE1117928047?nav=reviews&amp;categoryid=1986&amp;cs=</url>
+         <critic>Todd McCarthy</critic>
+      </review>
+      <review>
+         <snippet>Breakfast on Pluto, like its cross-dressing heroine, is appealing yet irritating, fun company at times but just as often a bore, occasionally quite touching yet frequently fey and self-indulgent.</snippet>
+         <url>http://ae.charlotte.com/entertainment/ui/charlotte/movie.html?id=501754&amp;reviewId=19870&amp;startDate=NEXT7</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>Some road pictures take you somewhere. Breakfast on Pluto, from its archly poetic title on down, promises a lulu. Yes, well. Promises, promises.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-0501223-movies-review-pluto,0,5514463.story?coll=mmx-movies_top_heds</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>Jordan lets slip virtually every rudiment of drama. He never deigns to develop his characters, he coats the movie in a wet blanket of whimsy, and he lets pop songs do his work for him more lavishly than Cameron Crowe did in "Elizabethtown."</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1131175_1_0_,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>Despite the movie's bouncy ebullience (courtesy of a terrific period soundtrack) and dashes of fantasy, the film quickly becomes an endurance test.</snippet>
+         <url>http://ae.miami.com/entertainment/ui/miami/movie.html?id=501754&amp;reviewId=19795</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>Breakfast on Pluto, with an impressive cast that includes Liam Neeson and Brendan Gleeson, deploys its whimsy in many ways, all of them cloying.</snippet>
+         <url/>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>May be Jordan's wildest mis-shot yet, so dense with dying fizzle and limp ideas that I began to wonder if Jordan has an evil twin, or if there are in fact several Neil Jordans, among them at least one literate stylist and one humor-handicapped village idiot.</snippet>
+         <url>http://www.villagevoice.com/film/0546,atkinson,70031,20.html</url>
+         <critic>Michael Atkinson</critic>
+      </review>
+   </reviews>
+   <US_Gross>$828,699</US_Gross>
+   <weekend_gross>$43,424</weekend_gross>
+   <number_of_screens>3</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

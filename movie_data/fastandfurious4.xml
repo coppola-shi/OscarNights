@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Fast &amp; Furious</name>
+   <company>Universal Pictures</company>
+   <genres>
+      <genre>Action</genre>
+   </genres>
+   <authors>
+      <author>Chris Morgan</author>
+   </authors>
+   <directors>
+      <director>Justin Lin</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Vin Diesel</actor>
+      <actor>Paul Walker</actor>
+      <actor>Michelle Rodriguez</actor>
+      <actor>Jordana Brewster</actor>
+      <actor>John Ortiz</actor>
+      <actor>Laz Alonso</actor>
+      <actor>Gal Gadot</actor>
+      <actor>Shea Whigham</actor>
+   </actors>
+   <release_date>April 3, 2009</release_date>
+   <running_time>107</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>It offers an attractive getaway route from self-importance, snark, and chatty comedies about male bonding. Here, stick shifts do the talking.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20269298,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>Fast &amp; Furious is the first film since the original to be smart about how far to stretch logic without sacrificing the desired macho swagger and revved-up emotions.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film-reviews/film-review-fast-and-furious-1003958448.story</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>The reunion is fun and frantic, like the original on double nitro.</snippet>
+         <url>http://www.washingtonpost.com/gog/movies/fast-and-furious,1156078.html</url>
+         <critic>Desson Thomson</critic>
+      </review>
+      <review>
+         <snippet>Fast &amp; Furious is, in a very bizarre way, a thing of gasp-inducing artistry to watch, even if you're not a member of the NASCAR, gear-head, street-racing crowd.</snippet>
+         <url>http://www.latimes.com/entertainment/la-et-fastfurious3-2009apr03,0,4338270.story</url>
+         <critic>Betsy Sharkey</critic>
+      </review>
+      <review>
+         <snippet>No matter what, it's safe to say that this entirely acceptable retooling of the franchise makes for a satisfying experience for those who enjoy four-wheeled chases, hot bodies, hot cars, and a tall dose of tough-guy machismo.</snippet>
+         <url>http://movies.tvguide.com/fast-furious/review/294861</url>
+         <critic>Jeremy Wheeler</critic>
+      </review>
+      <review>
+         <snippet>I hope the producers bring Lin back for the fifth film and strip it down even more. They can lose all the human characters except Brian and Mia and simply call it F&amp;F.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/reviews/bal-to.fast03apr03,0,6798870.story</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>It sticks to what the series does best, mixing souped-up cars with corny jokes.</snippet>
+         <url>http://www.premiere.com/Review/Movies/Fast-and-Furious</url>
+         <critic>Patrick Parker</critic>
+      </review>
+      <review>
+         <snippet>Succeeds because the action is supercharged in a style that recalls Mel Gibson's apocalyptic classic, "The Road Warrior." The characters are more than cartoonish, and the plot grips the road. But it's Diesel who provides the nitro injection</snippet>
+         <url>http://www.philly.com/philly/entertainment/movies/20090403_Pedal-to-metal_car-chase_action.html</url>
+         <critic>David Hiltbrand</critic>
+      </review>
+      <review>
+         <snippet>The action scenes don't always get the balance between flash and danger right, but the movie remains agreeably dopey--presenting street-racing culture as a hotbed of colorful stereotypes and lipstick lesbianism--until a climax that just isn't there.</snippet>
+         <url>http://www.avclub.com/articles/fast-furious,26113/</url>
+         <critic>Keith Phipps</critic>
+      </review>
+      <review>
+         <snippet>By 2009, the franchise has nothing new to offer. The culture, through video games and reality television, has caught up to the series and surpassed it.</snippet>
+         <url>http://www.boston.com/ae/movies/articles/2009/04/03/ramped_up_amped_up_but_going_nowhere/</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>I can see why Fast and Furious might be a smash as audiences look for escape from a broken economy. All those wheelies and power slides are designed to obliterate thought, not provoke it. Talk about a movie for its time.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/21799114/review/27182434/fast_and_furious</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>The stripped-down title gets at what we're really here for: the cars. Are they fast? Check. Are they furious? Yep.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A760613</url>
+         <critic>Kimberley Jones</critic>
+      </review>
+      <review>
+         <snippet>Brian and Dom could drive from L.A. to Mexico City and back blindfolded, but would require a GPS to find the zipper of a dress. The only time they smile here is when they are alone in a garage, tinkering with their dream cars.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20090402.wfast0403/BNStory/Entertainment/home</url>
+         <critic>Stephen Cole</critic>
+      </review>
+      <review>
+         <snippet>Inoffensive if uninspired.</snippet>
+         <url>http://movies.nytimes.com/2009/04/03/movies/03fast.html?ref=movies</url>
+         <critic>Nathan Lee</critic>
+      </review>
+      <review>
+         <snippet>The end result, while it provides moments of kinetic entertainment, is too repetitive and uneven to be satisfying.</snippet>
+         <url>http://www.reelviews.net/php_review_template.php?identifier=1561</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>The drag-racing saga "The Fast and the Furious" (2001) made stars of Vin Diesel, who promptly ditched the series, and Paul Walker, who bailed after "2 Fast 2 Furious" (2003). Both actors return for this fourth installment.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/34247_FAST_AND_FURIOUS.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>This will personally go down as the flick that really made me realize how much I hate CGI stunts.</snippet>
+         <url>http://www.oregonlive.com/movies/index.ssf/2009/04/review_pedal_to_the_metal_fast.html</url>
+         <critic>M. E. Russell</critic>
+      </review>
+      <review>
+         <snippet>The movie is ridiculous.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2009/04/02/MVAQ16QTBS.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>Like a lemon that's been tricked out with a fancy paint job, Fast &amp; Furious won't stand up to much scrutiny under the hood.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2009/04/02/2009-04-02_vin_diesels_fast__furious_is_tricked_out.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>A loud, dumb movie, but its male, car-obsessed audience will probably enjoy it anyway.</snippet>
+         <url>http://www.miamiherald.com/entertainment/movies/reviews/story/980141.html</url>
+         <critic>Connie Ogle</critic>
+      </review>
+      <review>
+         <snippet>Feels about as fresh and lively as a piece of burnt rubber.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2009-04-02-fast-and-furious_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>I admire the craft involved, but the movie leaves me profoundly indifferent. After three earlier movies in the series, which have been transmuted into video games, why do we need a fourth one? Oh. I just answered my own question.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20090401/REVIEWS/904029995</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>Spends a lot of time advertising how exciting it is, without actually being exciting.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2009/04/03/fast_furious/index.html</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>As it is, you'd get the same level of excitement watching "T.J. Hooker" reruns.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=11672</url>
+         <critic>Pete Vonder Haar</critic>
+      </review>
+      <review>
+         <snippet>Fast &amp; Furious reconfirms that car-chase movies--good, bad, or mediocre--all assume the future employment of the quaint old fast-forward button.</snippet>
+         <url>http://www.villagevoice.com/2009-04-01/film/fast-furious-should-have-gone-straight-to-xbox/</url>
+         <critic>Nicolas Rapold</critic>
+      </review>
+      <review>
+         <snippet>The stars look bored out of their minds when the fourth episode of the franchise stalls between racing sequences.</snippet>
+         <url>http://www.nypost.com/seven/04032009/entertainment/movies/vin_vill_it_end__162578.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>A series that's provided a successful, moderately enjoyable ride up to now blows its tires, gasket and transmission on its way to flaming out in Fast &amp; Furious.</snippet>
+         <url>http://www.variety.com/review/VE1117939990.html?categoryid=31&amp;cs=1</url>
+         <critic>Todd McCarthy</critic>
+      </review>
+   </reviews>
+   <US_Gross>$155,064,265</US_Gross>
+   <weekend_gross>$70,950,500</weekend_gross>
+   <number_of_screens>3,461</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

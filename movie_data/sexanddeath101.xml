@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Sex and Death 101</name>
+   <company>Anchor Bay Entertainment</company>
+   <genres>
+      <genre>Comedy</genre>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author>Daniel Waters</author>
+   </authors>
+   <directors>
+      <director>Daniel Waters</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Winona Ryder</actor>
+      <actor>Simon Baker</actor>
+      <actor>Leslie Bibb</actor>
+      <actor>Julie Bowen</actor>
+      <actor>Sophie Monk</actor>
+      <actor>Mindy Cohn</actor>
+      <actor>Dash Mihok</actor>
+      <actor>Patton Oswalt</actor>
+   </actors>
+   <release_date>April 4, 2008</release_date>
+   <running_time>100</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>As cinematic flops go, nothing falls quite as hard as a failed black comedy.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20080404.wsex04/BNStory/Entertainment/home</url>
+         <critic>Rick Groen</critic>
+      </review>
+      <review>
+         <snippet>Even if the actual movie is an awkward, uncinematic mishmash. Waters has at least tried to write a sex comedy that isn't aimed at titty-fixated 17-year-olds, and at its best Sex and Death 101 has a fast, clever rhythm that almost sings.</snippet>
+         <url>http://www.salon.com/ent/movies/btm/feature/2008/04/04/roundup/</url>
+         <critic>Andrew O&amp;#039;Hehir</critic>
+      </review>
+      <review>
+         <snippet>It's all a pretentious bore that feels twice as long as it's two-hour running time.</snippet>
+         <url>http://www.tvguide.com/movies/sex-death-101/review/292461</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>A promising concept is gradually run into the ground in Sex and Death 101, a would-be black comedy that lacks both laughs and gravity.</snippet>
+         <url>http://www.variety.com/review/VE1117933963.html?categoryid=31&amp;cs=1&amp;p=0</url>
+         <critic>Ken Eisner</critic>
+      </review>
+      <review>
+         <snippet>Stupid monikers are just one symptom of a stultifying, overwritten cleverness that substitutes quirk for character.</snippet>
+         <url>http://www.villagevoice.com/film/0814,tracking-3,396121,20.html</url>
+         <critic>Nick Pinkerton</critic>
+      </review>
+      <review>
+         <snippet>The appealing Mr. Baker never manages to find the right tone for the material, partly because he’s been seriously miscast (he radiates too much decency and intelligence for the role), though more because Mr. Waters never establishes a coherent tone for either the character or his situation.</snippet>
+         <url>http://movies.nytimes.com/2008/04/04/movies/04sex.html?ref=movies</url>
+         <critic>Manohla Dargis</critic>
+      </review>
+      <review>
+         <snippet>In a fair universe, Sex and Death 101 would end its miserable life after one episode as a TV show. But this unfunny "dark comedy" goes on for two hours.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2008/04/04/2008-04-04_short_takes_more_movie_reviews.html</url>
+         <critic>Joe Neumaier</critic>
+      </review>
+      <review>
+         <snippet>It has absolutely nothing to say -- no redeeming commentary about nihilistic, narcissistic society and its appetite for instant gratification -- which would have made it sociologically interesting, or at least sort of Faustian in theme. Instead Sex and Death 101 is as empty-headed as its protagonist.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/358566_sex11q.html</url>
+         <critic>Paula Nechak</critic>
+      </review>
+      <review>
+         <snippet>A self-indulgent, snarky, scattershot mess through and through.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A609727</url>
+         <critic>Josh Rosenblatt</critic>
+      </review>
+      <review>
+         <snippet>The crude, sophomoric Sex and Death 101 is neither particularly dark nor even remotely funny.</snippet>
+         <url>http://online.wsj.com/article/SB120728209874389083.html</url>
+         <critic>Joanne Kaufman</critic>
+      </review>
+      <review>
+         <snippet>A lame comic idea poorly executed dooms Sex and Death 101 to failure.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?JSESSIONID=BJNkH13Qd3vKL3xCJKbFM2M7FSzTv8tZNBlJ27pr44s4fTdYwqH1!-783599429&amp;&amp;rid=10915</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>This film is headed quickly for DVD. In the video store, though, it isn't funny enough to be shelved in the comedy section nor dirty enough to be filed with the smut. It might be useful in propping up a wobbly chair, though.</snippet>
+         <url>http://www.nypost.com/seven/04042008/entertainment/movies/tired_tale_of_cad_and_cadavers_104877.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+   </reviews>
+   <US_Gross>$23,563</US_Gross>
+   <weekend_gross>$15,000</weekend_gross>
+   <number_of_screens>5</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

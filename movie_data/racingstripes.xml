@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Racing Stripes</name>
+   <company>Warner Bros.</company>
+   <genres>
+      <genre>Adventure</genre>
+      <genre>Animation</genre>
+      <genre>Comedy</genre>
+      <genre>FamilyKids</genre>
+   </genres>
+   <authors>
+      <author>David Schmidt</author>
+      <author>Steven P. Wegner</author>
+      <author>Kirk De Micco</author>
+      <author>Frederik Du Chau</author>
+   </authors>
+   <directors>
+      <director>Frederik Du Chau</director>
+   </directors>
+   <origins>
+      <origin>SouthAfricaUSA</origin>
+   </origins>
+   <actors>
+      <actor>Bruce Greenwood</actor>
+      <actor>Hayden Panettiere</actor>
+      <actor>Frankie Muniz</actor>
+      <actor>Gary Bullock</actor>
+      <actor>Michael Clarke Duncan</actor>
+      <actor>Joshua Jackson</actor>
+      <actor>Jeff Foxworthy</actor>
+      <actor>Whoopi Goldberg</actor>
+      <actor>Dustin Hoffman</actor>
+      <actor>Joe Pantoliano</actor>
+      <actor>Snoop Dogg</actor>
+   </actors>
+   <release_date>January 14, 2005</release_date>
+   <running_time>94</running_time>
+   <rating>PG</rating>
+   <reviews>
+      <review>
+         <snippet>Frisky and funny enough to please pre-teens, but still witty enough to amuse even those parents who don't recognize Dustin Hoffman, Whoopi Goldberg and other notables among the unseen vocal talents.</snippet>
+         <url>http://www.variety.com/review/VE1117925847?categoryid=31&amp;cs=1</url>
+         <critic>Joe Leydon</critic>
+      </review>
+      <review>
+         <snippet>You may end up being pleasantly surprised, especially if you have a ten-year old girl in tow.</snippet>
+         <url>http://movie-reviews.colossus.net/movies/r/racing_stripes.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>Endearing but predictable.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-050112-movies-review-ab-racing.story</url>
+         <critic>Allison Benedikt</critic>
+      </review>
+      <review>
+         <snippet>Simultaneously overplotted and simplistic, the new barnyard/racecourse comedy from Warner Brothers is predictable every step of the way, and it contains at least three too many poop jokes.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=7287</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>I groaned at cliches and grinned at jokes in roughly equal measure.</snippet>
+         <url>http://www.charlotte.com/mld/charlotte/entertainment/movies/10641881.htm</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>The special effects here are surprisingly smooth, and everyone seems to be having fun.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/moviereviews/story/271116p-232052c.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>No "Babe" but should delight youngsters, although parents likely will find it is sentimental in the extreme, with a plot that telegraphs every development.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-racing14jan14,2,2875670.story</url>
+         <critic>Kevin Thomas</critic>
+      </review>
+      <review>
+         <snippet>So what disturbed me? It was the Shetland pony, which sports both Dustin Hoffman's pipes and his "I Heart Huckabees" toupee, and will haunt my nightmares forever.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1017002_1_0_,00.html</url>
+         <critic>Scott Brown</critic>
+      </review>
+      <review>
+         <snippet>The digital computer work is smooth and convincing; the animals look as if they are talking. But their voices are either devoid of personality or grating and annoying.</snippet>
+         <url>http://dallasobserver.com/listings/film/1016/index.html</url>
+         <critic>Jean Oppenheimer</critic>
+      </review>
+      <review>
+         <snippet>Sweet, innocuous and about as fresh as yesterday's lettuce.</snippet>
+         <url>http://www.laweekly.com/film/film_results.php?showid=3248&amp;Sumbit.x=37&amp;Sumbit.y=13</url>
+         <critic>Ella Taylor</critic>
+      </review>
+      <review>
+         <snippet>Dumb but harmless live-action comedy for kids.</snippet>
+         <url>http://spacefinder.chicagoreader.com/movies/briefs/27278_RACING_STRIPES.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>A predictable but pleasant kids movie that veers between old-fashioned girl-and-her-horse sentiment and "Ren &amp; Stimpy"-style poo jokes.</snippet>
+         <url>http://www.nypost.com/movies/38137.htm</url>
+         <critic>Russell Scott Smith</critic>
+      </review>
+      <review>
+         <snippet>Like most movies aimed at the younger set, Racing Stripes has easily absorbable lessons to teach: Be yourself, never stop trying if your goal is worthwhile, and so forth.</snippet>
+         <url>http://www.csmonitor.com/2005/0114/p14s02-almo.html</url>
+         <critic>David Sterritt</critic>
+      </review>
+      <review>
+         <snippet>Racing Stripes is unlikely to ascend to the pantheon of perennially watchable children's films, but like its hero, what it lacks in skill, it makes up for in heart.</snippet>
+         <url>http://movies2.nytimes.com/2005/01/14/movies/14stri.html</url>
+         <critic>Dana Stevens</critic>
+      </review>
+      <review>
+         <snippet>At best, Racing Stripes should play nicely to youngsters with the cutoff for enjoyment extending no further than midteens.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1000750122</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>But when you think of the "Babe" pictures, and indeed even an animated cartoon like "Home on the Range," you realize Stripes is on autopilot with all of the usual elements: a heroine missing one parent, an animal missing both, an underdog (or underzebra), cute animals, the big race.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20050113/REVIEWS/501130305/1023</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>Muniz, however, is hampered by Stripes' constant moping, which brings out the "Malcolm in the Middle'' star's whinier tendencies.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?file=/chronicle/archive/2005/01/14/DDG6UAPOJK1.DTL</url>
+         <critic>Carla Meyer</critic>
+      </review>
+      <review>
+         <snippet>The movie, which is roughly as predictable as the attraction of flies to dung, is a hackneyed mix of sentimentality and anarchic comedy.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20050113.wxstripes0114/BNStory/Entertainment/</url>
+         <critic>Liam Lacey</critic>
+      </review>
+      <review>
+         <snippet>Racing Stripes is oddly torn in tone: is it an old-fashioned family drama, a coming-of-age story or a crass comedy? Live action or animation? Unlike "Babe," it fails to integrate its conflicting personalities.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/207735_stripes14q.html</url>
+         <critic>Paula Nechak</critic>
+      </review>
+      <review>
+         <snippet>A film divided against itself. Granted, neither part is particularly distinguished or appealing but the old-timey sports-movie elements at least possess a quaint charm. Unfortunately, that's wholly negated by the film's stumbling attempts at comic relief.</snippet>
+         <url>http://www.theavclub.com/review_pop.php?review_id=8123</url>
+         <critic>Nathan Rabin</critic>
+      </review>
+      <review>
+         <snippet>The film shares a problem with its hero: identity crisis.</snippet>
+         <url>http://www.villagevoice.com/film/0502,tamarri,59915,20.html</url>
+         <critic>Chris Tamarri</critic>
+      </review>
+      <review>
+         <snippet>Although this film about a zebra who aspires to win horse races has a marvelous premise, it slows to a mediocre canter right out of the starting gate.</snippet>
+         <url>http://www.washingtonpost.com/wp-dyn/articles/A6525-2005Jan13.html</url>
+         <critic>Desson Thomson</critic>
+      </review>
+      <review>
+         <snippet>Bland family comedy.</snippet>
+         <url>http://tvguide.com/movies/database/ShowMovie.asp?MI=45829</url>
+         <critic>Ethan Alter</critic>
+      </review>
+      <review>
+         <snippet>It’s been done before, and better. With pigs.</snippet>
+         <url>http://www.empireonline.co.uk/site/incinemas/ReviewInFull.asp?FID=10259</url>
+         <critic>Anna Smith</critic>
+      </review>
+      <review>
+         <snippet>Almost everyone in this has done better, and those who haven't, like young Ms. Panettiere, have plenty of time to do so.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2005-01-13-racing-stripes-review_x.htm</url>
+         <critic>Mike Clark</critic>
+      </review>
+      <review>
+         <snippet>Simply put, no matter what this zebra thinks of himself, Stripes is no thoroughbred.</snippet>
+         <url>http://www.austinchronicle.com/gbase/Calendar/Film?Film=oid%3A246614</url>
+         <critic>Marjorie Baumgarten</critic>
+      </review>
+   </reviews>
+   <US_Gross>$49,772,522</US_Gross>
+   <production_budget>$30,000,000</production_budget>
+   <weekend_gross>$13,920,052</weekend_gross>
+   <number_of_screens>3,185</number_of_screens>
+   <oscar_winning_actors_present/>
+   <num_oscar_winning_actors>1</num_oscar_winning_actors>
+   <oscar_winning_actor>dustin hoffman</oscar_winning_actor>
+   <highest_grossing_actors_present/>
+   <num_highest_grossing_actors>1</num_highest_grossing_actors>
+   <highest_grossing_actor>dustin hoffman</highest_grossing_actor>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

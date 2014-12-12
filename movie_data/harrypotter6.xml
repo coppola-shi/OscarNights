@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Harry Potter and the Half-Blood Prince</name>
+   <company>Warner Bros. Pictures</company>
+   <genres>
+      <genre>Adventure</genre>
+      <genre>Drama</genre>
+      <genre>Fantasy</genre>
+      <genre>Mystery</genre>
+      <genre>Romance</genre>
+   </genres>
+   <authors>
+      <author>J.K. Rowling</author>
+      <author>Steve Kloves</author>
+   </authors>
+   <directors>
+      <director>David Yates</director>
+   </directors>
+   <origins>
+      <origin>UK</origin>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Daniel Radcliffe</actor>
+      <actor>Rupert Grint</actor>
+      <actor>Emma Watson</actor>
+      <actor>Helena Bonham Carter</actor>
+      <actor>Robbie Coltrane</actor>
+      <actor>Warwick Davis</actor>
+      <actor>Michael Gambon</actor>
+      <actor>Alan Rickman</actor>
+      <actor>Maggie Smith</actor>
+      <actor>Julie Walters</actor>
+      <actor>David Thewlis</actor>
+      <actor>Jim Broadbent</actor>
+   </actors>
+   <release_date>July 15, 2009</release_date>
+   <running_time>153</running_time>
+   <rating>PG</rating>
+   <reviews>
+      <review>
+         <snippet>The most beautiful magic in it is left unseen. And still, it emerges with absolute clarity.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2009/07/15/harry_potter_review/index.html</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>This film is the sharpest since "The Prisoner of Azkaban." It is the most emotionally satisfying, blending spot-on comedy and adenoidal sexual tension, with scenes of gutsy vulnerability.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2009/07/14/DDST18MLFA.DTL</url>
+         <critic>Amy Biancolli</critic>
+      </review>
+      <review>
+         <snippet>By an order of magnitude --- the strongest (or at least the most mature, subtle and emotional) entry in the series thus far.</snippet>
+         <url>http://www.oregonlive.com/movies/index.ssf/2009/07/review_harry_potter_and_the_ha.html</url>
+         <critic>M. E. Russell</critic>
+      </review>
+      <review>
+         <snippet>But the story is, still and all, only a pause, deferring an intensely anticipated conclusion. And it's in that exquisite place of action and waiting that this elegantly balanced production emerges as a model adaptation.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20291190,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>This one-of-a-kind film cycle has become as comfortable and reliable as an old shoe, providing a degree of dependability that's becoming increasingly rare.</snippet>
+         <url>http://www.latimes.com/entertainment/news/la-et-potter14-2009jul14,0,6882626.story</url>
+         <critic>Kenneth Turan</critic>
+      </review>
+      <review>
+         <snippet>Dazzlingly well made and perhaps deliberately less fanciful than the previous entries, this one is played in a mode closer to palpable life-or-death drama than any of the others and is quite effective as such.</snippet>
+         <url>http://www.variety.com/review/VE1117940610.html?categoryId=31</url>
+         <critic>Todd McCarthy</critic>
+      </review>
+      <review>
+         <snippet>It was splendid! No, it’s not a larky kid-pic. We're firmly in the realm of English horror.</snippet>
+         <url>http://nymag.com/movies/reviews/57875/</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>Generally grim, occasionally startling, and altogether enthralling sixth chapter in a movie franchise that keeps managing to surprise just when one would expect it to be puttering along on auto-broomstick.</snippet>
+         <url>http://www.villagevoice.com/2009-07-15/film/old-black-potter-magic-continues-to-beguile-in-half-blood-prince/</url>
+         <critic>Scott Foundas</critic>
+      </review>
+      <review>
+         <snippet>Getting lost in the hypnotic Half-Blood Prince is what gives the movie its haunting power.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/20314047/review/29135608/harry_potter_and_the_halfblood_prince</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>One of the series's best, with spectacular effects, nuanced performances and witty dialogue.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2009-07-13-half-blood-prince_N.htm?loc=interstitialskip</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>The most thoughtfully satisfying of the first six books.</snippet>
+         <url>http://events.charlotteobserver.com/reviews/show/51248-review-harry-potter-and-the-halfblood-prince</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>It flows like fast-moving lava to a climax filled with pyrotechnics. And for once in a summer blockbuster, the fireworks are both emotional and physical. The movie leaves you sated, yet wanting more -- just what you want from a series with two entries left to go.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-harry-potter0713,0,1573253.story</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>The latest, meticulously atmospheric and wonderfully acted Potter adventure lands happily--broodingly, but happily---near the top of the series heap, just behind Alfonso Cuaron's "Harry Potter and the Prisoner of Azkaban."</snippet>
+         <url>http://www.chicagotribune.com/entertainment/movies/chi-090713-harry-potter-prince-review,0,4126783.story</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>There's something inherently funny about the romantic predicament of Harry and Ron and Hermione. As if it wasn't bad enough having to deal with the Dark Lord and the Death Eaters and all the rest, now they have to square off against... raging hormones.</snippet>
+         <url>http://www.csmonitor.com/2009/0714/p17s04-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>David Yates, in his go at the helm, throws the emphasis on the gathering storm clouds even as Harry and his fellow wizardry students make further discoveries involving the opposite sex.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film-reviews/harry-potter-and-the-half-blood-prince-film-1003990567.story</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>As for the ever-impressive supporting cast, neither a delightfully befuddled Jim Broadbent nor a wild-eyed Helena Bonham Carter can upstage Alan Rickman, who again proves invaluable as the slithery Prof. Snape.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2009/07/13/2009-07-13_harry_potter_and_the_halfblood_prince_proves_franchise_still_has_magic_touch.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>With Half-Blood Prince, again we have a stalwart, satisfying visualization of the Rowling cosmos.</snippet>
+         <url>http://www.time.com/time/arts/article/0,8599,1910165,00.html</url>
+         <critic>Richard Corliss</critic>
+      </review>
+      <review>
+         <snippet>The critical question for the movies' producers is whether Harry will be as popular now that his legions of stalwarts know how it all ends. The smart money would be on answering that question with a resounding "yes!"</snippet>
+         <url>http://www.reelviews.net/php_review_template.php?identifier=1717</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>The movie's climax takes Harry Potter into territory that is much more like epic horror than most of what the series has seen before. There is more obvious religious symbolism and apocalyptic violence as Harry emerges into his role as “the chosen one.”</snippet>
+         <url>http://www.theglobeandmail.com/news/arts/harry-horror-and-hormones/article1216797/</url>
+         <critic>Liam Lacey</critic>
+      </review>
+      <review>
+         <snippet>It's a more mature magic than in previous Potter movies.</snippet>
+         <url>http://www.npr.org/templates/story/story.php?storyId=106683893</url>
+         <critic>Bob Mondello</critic>
+      </review>
+      <review>
+         <snippet>"HP6" is suspenseful and artfully realized. It's a definite improvement over J.K. Rowling's dimly written and exposition-clogged book.</snippet>
+         <url>http://www.nypost.com/seven/07142009/entertainment/movies/hogwarts_and_all_179198.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>This is the darkest, saddest, most sophisticated Harry Potter film yet.</snippet>
+         <url>http://www.avclub.com/articles/harry-potter-and-the-halfblood-prince,30368/</url>
+         <critic>Tasha Robinson</critic>
+      </review>
+      <review>
+         <snippet>Slower and talkier than the five Potters that came before - but not necessarily in a bad way - Half-Blood Prince is a bubbling cauldron of hormonal angst, rife with romance and heartbreak, jealousy and longing.</snippet>
+         <url>http://www.philly.com/philly/entertainment/movies/20090713_harrypotter.html</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>Half-Blood Prince is the franchise's “Empire Strikes Back” -- the episode in which the pace slows down a bit, the characters deepen and mature, the good guys take a big hit, and all hell is gearing up to break loose.</snippet>
+         <url>http://www.miamiherald.com/entertainment/movies/reviews/story/1139885.html</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>Director David Yates picks up where he left off with "Order of the Phoenix," assembling a nicely paced and artfully shot adventure.</snippet>
+         <url>http://www.nola.com/movies/index.ssf/2009/07/harry_potter_and_the_halfblood_3.html</url>
+         <critic>Mike Scott</critic>
+      </review>
+      <review>
+         <snippet>I admired this Harry Potter. It opens and closes well, and has wondrous art design and cinematography as always, only more so.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20090712/REVIEWS/907129996</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>The good news is that it comes closer than any of its predecessors, hitting the mark or coming close to it on almost all fronts. With "Harry Potter and the Deathly Hallows" being split into two films, the final installment stands an excellent chance of getting it right.</snippet>
+         <url>http://movies.tvguide.com/harry-potter-half-blood-prince/review/285362</url>
+         <critic>Tracie Cooper</critic>
+      </review>
+      <review>
+         <snippet>Despite the preponderance of (PG-rated) snogging, there are pleasures to be found along this movie's meandering path.</snippet>
+         <url>http://www.slate.com/id/2222844/</url>
+         <critic>Dana Stevens</critic>
+      </review>
+      <review>
+         <snippet>The three leads, Daniel Radcliffe (Harry), Rupert Grint (Ron) and Emma Watson (Hermione), give their most charming performances to date.</snippet>
+         <url>http://www.washingtonpost.com/wp-dyn/content/article/2009/07/13/AR2009071303256.html</url>
+         <critic>Dan Kois</critic>
+      </review>
+      <review>
+         <snippet>It’s always a pleasure to be in the company of Potter, and when looking back at the just-competent first outings – well, baby, you’ve come a long way – but still: Where’s the magic, huh?</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A805280</url>
+         <critic>Kimberley Jones</critic>
+      </review>
+      <review>
+         <snippet>Installment six of the Harry Potter’ series, The Half-Blood Prince, merely gets us one movie closer to the finale, which, apparently is so big (and by big, I mean “$$$$’’) that it’s being split into two parts.</snippet>
+         <url>http://www.boston.com/ae/movies/articles/2009/07/15/suspense_in_8216half_blood_prince8217_lays_groundwork_for_big_finale/</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>We're marking time before the final battle between Good and Evil, with the promised darkness sitting somewhat clumsily with teen romance and humour.</snippet>
+         <url>http://www.empireonline.com/reviews/reviewcomplete.asp?FID=15119</url>
+         <critic>Angie Errigo</critic>
+      </review>
+      <review>
+         <snippet>Much like its young hero, played by Daniel Radcliffe, the film has begun to show signs of stress around the edges, a bit of fatigue, or maybe that’s just my gnawing impatience.</snippet>
+         <url>http://movies.nytimes.com/2009/07/15/movies/15harry.html?ref=movies</url>
+         <critic>Manohla Dargis</critic>
+      </review>
+      <review>
+         <snippet>For what it is, it's fine.</snippet>
+         <url>http://www.chicagoreader.com/chicago/MovieTimes?film=977777</url>
+         <critic>Cliff Doerksen</critic>
+      </review>
+      <review>
+         <snippet>We get one lovely, cheering sequence of a trashed room putting itself in order, like the untidy nursery in "Mary Poppins," but the rest of the magic here feels randomly grabbed at.</snippet>
+         <url>http://www.newyorker.com/arts/critics/cinema/2009/07/27/090727crci_cinema_lane</url>
+         <critic>Anthony Lane</critic>
+      </review>
+      <review>
+         <snippet>For those who’ve lived with the series for more than a decade, this fateful pause may heighten the suspense. For a Muggle like me, the storm does gather slowly.</snippet>
+         <url>http://online.wsj.com/article/film_review.html</url>
+         <critic>Joe Morgenstern</critic>
+      </review>
+   </reviews>
+   <US_Gross>$301,959,197</US_Gross>
+   <production_budget>$250,000,000</production_budget>
+   <weekend_gross>$158,022,354</weekend_gross>
+   <number_of_screens>4,325</number_of_screens>
+   <oscar_winning_actors_present/>
+   <num_oscar_winning_actors>1</num_oscar_winning_actors>
+   <oscar_winning_actor>maggie smith</oscar_winning_actor>
+   <highest_grossing_actors_present/>
+   <num_highest_grossing_actors>3</num_highest_grossing_actors>
+   <highest_grossing_actor>rupert grint</highest_grossing_actor>
+   <highest_grossing_actor>emma watson</highest_grossing_actor>
+   <highest_grossing_actor>daniel radcliffe</highest_grossing_actor>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

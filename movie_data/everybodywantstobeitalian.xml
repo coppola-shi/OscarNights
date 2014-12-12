@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Everybody Wants to Be Italian</name>
+   <company>Roadside Attractions</company>
+   <genres>
+      <genre>Comedy</genre>
+      <genre>Romance</genre>
+   </genres>
+   <authors>
+      <author>Jason Todd Ipson</author>
+   </authors>
+   <directors>
+      <director>Jason Todd Ipson</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Jay Jablonski</actor>
+      <actor>Cerina Vincent</actor>
+      <actor>John Kapelos</actor>
+      <actor>John Enos</actor>
+      <actor>Richard Libertini</actor>
+      <actor>Marisa Petroro</actor>
+      <actor>Dan Cortese</actor>
+      <actor>Penny Marshall</actor>
+   </actors>
+   <release_date>September 5, 2008</release_date>
+   <running_time>128</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>Full of clunky humor, battle-of-the-sexes musings and spicy accordion music, Everybody Wants to Be Italian is relentless - but not necessarily relentless fun.</snippet>
+         <url>http://www.philly.com/philly/entertainment/movies/20080905_It_s_no__Big_Fat_Greek_Wedding_.html</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>The film plays out pretty much exactly as you would expect - which won't bother some people one iota.</snippet>
+         <url>http://www.nypost.com/seven/09052008/entertainment/movies/everybody_wants_to_be_italian_127539.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>A clumsy but inoffensive romantic comedy.</snippet>
+         <url>http://www.variety.com/review/VE1117938198.html?categoryid=31&amp;cs=1</url>
+         <critic>Justin Chang</critic>
+      </review>
+      <review>
+         <snippet>Features annoying characters navigating unbelievable situations.</snippet>
+         <url>http://movies.nytimes.com/2008/09/05/movies/05ital.html?ref=movies</url>
+         <critic>Jeannette Catsoulis</critic>
+      </review>
+      <review>
+         <snippet>So awash in tired ethnic clichés that the story drowns.</snippet>
+         <url>http://movies.tvguide.com/everybody-wants-italian/review/294760</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>Less a movie than a charm offensive beamed at those who thought "My Big Fat Greek Wedding" was a masterpiece.</snippet>
+         <url>http://www.villagevoice.com/2008-09-03/film/everybody-wants-to-be-italian/</url>
+         <critic>Ella Taylor</critic>
+      </review>
+      <review>
+         <snippet>As for that title, neither character is Italian, but each thinks the other is - a weak device designed purely to inspire a slew of stereotypes.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2008/09/04/2008-09-04_short_takes_more_movie_reviews_for_week_.html?page=0</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+   </reviews>
+   <US_Gross>$351,416</US_Gross>
+   <weekend_gross>$197,861</weekend_gross>
+   <number_of_screens>98</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

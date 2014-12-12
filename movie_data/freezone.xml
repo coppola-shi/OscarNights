@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Free Zone</name>
+   <company>New Yorker Films</company>
+   <genres>
+      <genre>Drama</genre>
+      <genre>Foreign</genre>
+   </genres>
+   <authors>
+      <author>Amos Gitai</author>
+      <author>Marie-Jose Sanselme</author>
+   </authors>
+   <directors>
+      <director>Amos Gitai</director>
+   </directors>
+   <origins>
+      <origin>IsraelBelgiumFranceSpain</origin>
+   </origins>
+   <actors>
+      <actor>Natalie Portman</actor>
+      <actor>Hana Laszlo</actor>
+      <actor>Hiam Abbass</actor>
+      <actor>Carmen Maura</actor>
+      <actor>Makram Khoury</actor>
+      <actor>Aki Avni</actor>
+      <actor>Uri Klauzner</actor>
+      <actor>Liron Levo</actor>
+   </actors>
+   <release_date>April 7, 2006</release_date>
+   <running_time>90</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>Gitai's experimental technique in Free Zone is dizzying, sometimes thrilling.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2006/04/06/btm/index3.html</url>
+         <critic>Andrew O&amp;#039;Hehir</critic>
+      </review>
+      <review>
+         <snippet>Natalie Portman demonstrates tour de force weeping in the back of a taxi as an American searching for her roots in Israel.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1182916_1_0_,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>For all its intelligence, Free Zone has disappointingly little to say.</snippet>
+         <url>http://www.premiere.com/article.asp?section_id=2&amp;article_id=2729</url>
+         <critic>Ethan Alter</critic>
+      </review>
+      <review>
+         <snippet>A minor movie on a major subject, a drama with an almost unbearable lightness.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=8463</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>Unfortunately, the characters feel more like symbols than people, despite strong performances, including what might be Portman's finest work to date.</snippet>
+         <url>http://online.tvguide.com/movies/database/Movie-Review.asp?MI=46871</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>Amos Gitai's most satisfying pic since war drama "Kippur." Schematic set-up is given a human face by fine performances and a physical journey that's often more interesting than the characters' emotional ones, which are weakened by the Israeli auteur's tendency toward convenient doctrinaire-ism and chunks of expository dialogue.</snippet>
+         <url>http://www.variety.com/review/VE1117927188?categoryid=1929&amp;cs=1&amp;s=h&amp;p=0</url>
+         <critic>Derek Elley</critic>
+      </review>
+      <review>
+         <snippet>Like a lot of Gitaï's films, Free Zone is part history, part allegory, and part art. Both the history and art hold their fascinations.</snippet>
+         <url>http://www.avclub.com/content/node/47099</url>
+         <critic>Noel Murray</critic>
+      </review>
+      <review>
+         <snippet>Free Zone is similar to the car-based films of Iranian filmmaker Abbas Kiarostami but with a more improvised, less-finished feel.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/114851140039370.xml&amp;coll=7</url>
+         <critic>Marc Mohan</critic>
+      </review>
+      <review>
+         <snippet>Unfortunately, the message is made clear within the first 10 minutes, leaving us with about 80 minutes of thematic repetition.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1117894&amp;lat=200.0&amp;lon=200.0&amp;displaySearchLocation=&amp;nm=1&amp;categories=Movies</url>
+         <critic>Desson Thomson</critic>
+      </review>
+      <review>
+         <snippet>The movie works best as a car's-eye travelogue of Jordan. And the three women might be good company on another, less stressful trip.   Say to the Caribbean.</snippet>
+         <url>http://www.nydailynews.com/04-07-2006/entertainment/col/story/406709p-344236c.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>The three women deliver solid performances, but the film is diluted by the use of flashbacks superimposed over present-time scenes. The result is visual chaos.</snippet>
+         <url>http://www.nypost.com/movies/66642.htm</url>
+         <critic>V.A. Musetto</critic>
+      </review>
+      <review>
+         <snippet>Oddly, in representing a private conflict as the microcosm of an unsolvable catastrophe, Free Zone only manages to miniaturize both.</snippet>
+         <url>http://www.villagevoice.com/film/0614,winter,72754,20.html</url>
+         <critic>Jessica Winter</critic>
+      </review>
+      <review>
+         <snippet>Despite a provocative climax, the movie settles into a ponderous collection of soliloquies.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/capsules/28723_FREE_ZONE</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>If the strong performances of its three stars infuse this metaphorically clotted movie with some life, the screenplay (some of which was improvised) has a weak narrative pulse. This political essay posing as a movie makes the mistake of confusing longwinded storytelling with compelling drama.</snippet>
+         <url>http://movies2.nytimes.com/2006/04/07/movies/07free.html</url>
+         <critic>Stephen Holden</critic>
+      </review>
+      <review>
+         <snippet>A road picture mired by unsteady camera work, lackadaisical pacing and cumbersome speechmaking, Free Zone is an excruciating cinematic trek. Israeli director Amos Gitai's narrative, both visually and conversationally, is a disappointing dud.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1000928909</url>
+         <critic>Duane Byrge</critic>
+      </review>
+   </reviews>
+   <US_Gross>$32,381</US_Gross>
+   <weekend_gross>$8,618</weekend_gross>
+   <number_of_screens>2</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

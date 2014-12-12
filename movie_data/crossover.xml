@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Crossover</name>
+   <company>Sony Pictures Releasing</company>
+   <genres>
+      <genre>Action</genre>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author>Preston A. Whitmore II</author>
+   </authors>
+   <directors>
+      <director>Preston A. Whitmore II</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Anthony Mackie</actor>
+      <actor>Wesley Jonathan</actor>
+      <actor>Wayne Brady</actor>
+      <actor>Alecia Jai Fears</actor>
+      <actor>Kristen Wilson</actor>
+      <actor>Michael Kimbrew</actor>
+      <actor>Shelli Boone</actor>
+   </actors>
+   <release_date>September 1, 2006</release_date>
+   <running_time>95</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>The reason basketball is such a great spectator sport isn't because of its opportunities for razzle-dazzle editing and direction. It's because the game is kinetic enough without all that swoosh/zap/wham business.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-060901-movies-review-crossover,0,2542501.story?coll=mmx-movies_top_heds</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>A decent example of Sidekick Cinema: a movie to glance up at from time to time while you download ring tones or text-message your friends.</snippet>
+         <url>http://movies2.nytimes.com/2006/09/01/movies/01cros.html?ref=movies</url>
+         <critic>Nathan Lee</critic>
+      </review>
+      <review>
+         <snippet>While director-screenwriter Preston A. Whitmore II's film is to be admired for its proponing the values of a higher education over the dream of a career in the NBA, its dialogue, characterizations and situations rarely transcend the level of cliche.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1003086135</url>
+         <critic>Frank Scheck</critic>
+      </review>
+      <review>
+         <snippet>A film made by people with more heart than skill.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-to.crossover01sep01,0,2748294.story?coll=bal-movies-utility</url>
+         <critic>Chris Kaltenbach</critic>
+      </review>
+      <review>
+         <snippet>Crossover skimps on court-level pyrotechnics (we get a game in the beginning and, of course, a big game at the end, and that's about it) in favor of dry urban melodrama.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1483959_1_0_,00.html</url>
+         <critic>Gregory Kirschling</critic>
+      </review>
+      <review>
+         <snippet>As they pursue their goals, no movie cliché is left unturned. The streetball scenes offer some nifty trick plays, but the rest of Crossover features poorly dressed sets, cheap-looking costumes and locations, and silly histrionics.</snippet>
+         <url>http://www.laweekly.com/film+tv/film-reviews/film-reviews/14370/</url>
+         <critic>Luke Y. Thompson</critic>
+      </review>
+      <review>
+         <snippet>Just a few more tweaks and Crossover could have been something special -- a truly terrible movie to savor for the ages. But nooo, this street ball movie -- has to settle for middle-of-the-road badness.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1098298&amp;categories=Movies&amp;nm=1</url>
+         <critic>Desson Thomson</critic>
+      </review>
+      <review>
+         <snippet>Earnest and predictable, Crossover deserves more than the horselaughs that will probably greet it in theaters -- but not a lot more. The movie is harmless, which is both its strength and its weakness.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=8879</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>The streetball scenes, much like the plot, have a few high points but never hit their stride.</snippet>
+         <url>http://www.premiere.com/article.asp?section_id=2&amp;article_id=3063</url>
+         <critic>Bartley Morrisroe</critic>
+      </review>
+      <review>
+         <snippet>Much as they would like it to, basketball can't save the youthful inner-city players here. Nor does the ultra-fast-paced street version of the sport save this movie from predictability and tedium.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2006-08-31-also-opening_x.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>So badly conceived and executed, its good intentions don't help.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/moviereviews/story/448387p-377436c.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>Astonishingly inept drama.</snippet>
+         <url>http://online.tvguide.com/newsearch/detail.aspx?tvobjectid=282459&amp;more=ucmoviereview</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>Overshadowed by vastly superior sports movies like Invincible and hardly disguising its low-budget sources, pic isn't in any kind of shape for the theatrical leagues.</snippet>
+         <url>http://www.variety.com/review/VE1117931426?categoryid=31&amp;cs=1</url>
+         <critic>Robert Koehler</critic>
+      </review>
+      <review>
+         <snippet>Crossover has one redeeming quality: a heart that's in the right place. It's a bad movie with a good message -- but does anyone really want to pay $10 for an ABC After School Special version of "He Got Game"?</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?file=/c/a/2006/09/01/DDG3BKS9JV1.DTL&amp;type=movies</url>
+         <critic>Peter Hartlaub</critic>
+      </review>
+      <review>
+         <snippet>Crossover doesn't have the competence to make it exciting or the desire to explore what's really at stake for these players.</snippet>
+         <url>http://www.avclub.com/content/node/52299</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>A vast disappointment.</snippet>
+         <url>http://ae.philly.com/entertainment/ui/philly/movie.html;jsessionid=496552F981720C9ED53EBB59026B1C90.prodapp14_ae_02?id=688715&amp;reviewId=21395&amp;startDate=09%2F01%2F2006</url>
+         <critic>David Hiltbrand</critic>
+      </review>
+      <review>
+         <snippet>Tries hard but never makes the leap.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A398695</url>
+         <critic>Marjorie Baumgarten</critic>
+      </review>
+      <review>
+         <snippet>A real air ball, this lethargic drama by Preston A. Whitmore II is so poorly scripted that most of the major plot developments occur offscreen.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/27796_CROSSOVER.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>The entire movie seems to have about the same budget as a 30-second sneaker commercial. I'm not talking Nike, either. I'm talking a commercial for Steve's Second-Hand Sneaker World and Falafel Emporium that you'd see on NY1 News at 3:08 a.m.</snippet>
+         <url>http://www.nypost.com/entertainment/movies/its_dribbling_drivel_movies_kyle_smith.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+   </reviews>
+   <US_Gross>$7,009,668</US_Gross>
+   <production_budget>$5,600,000</production_budget>
+   <weekend_gross>$3,767,567</weekend_gross>
+   <number_of_screens>1,023</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>true</labor_release>
+</movie>

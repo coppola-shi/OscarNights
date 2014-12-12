@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Resident Evil: Extinction</name>
+   <company>Screen Gems (Sony)</company>
+   <genres>
+      <genre>Action</genre>
+      <genre>Horror</genre>
+      <genre>Scifi</genre>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>Paul W.S. Anderson</author>
+   </authors>
+   <directors>
+      <director>Russell Mulcahy</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Milla Jovovich</actor>
+      <actor>Oded Fehr</actor>
+      <actor>Ali Larter</actor>
+      <actor>Ashanti</actor>
+      <actor>Iain Glen</actor>
+      <actor>Mike Epps</actor>
+      <actor>Spencer Locke</actor>
+   </actors>
+   <release_date>September 21, 2007</release_date>
+   <running_time>95</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>This is wall-to-wall mayhem that dashes from one stylish, splattery, nonsensical set-piece to the next, while the star attacks her silly role with the carnivorous brio of an ocelot clawing a side of ham.</snippet>
+         <url>http://www.laweekly.com/film+tv/film-reviews/film-reviews-the-last-winter-the-jane-austen-book-club/17255/?page=2</url>
+         <critic>Jim Ridley</critic>
+      </review>
+      <review>
+         <snippet>Equal parts "Mad Max" and "Day of the Dead," this third and supposedly final entry in the Resident Evil franchise is no less derivative than its predecessors but moves along at a brisk clip.</snippet>
+         <url>http://www.tvguide.com/movies/resident-evil-extinction/review/290237</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>Unfortunately, the new pic never really achieves maximum velocity as a full-throttle action-adventure opus, despite game efforts by returning star Milla Jovovich, still a lithe and lethal dynamo when it comes to butt-kicking, zombie-slicing derring-do.</snippet>
+         <url>http://www.variety.com/review/VE1117934818.html?categoryid=31&amp;cs=1</url>
+         <critic>Joe Leydon</critic>
+      </review>
+      <review>
+         <snippet>While I could probably spend an entire weekend watching Milla twirl her kukris, it's obvious from the rather lazy pacing that Anderson is growing increasingly self-indulgent with his creation.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=10300</url>
+         <critic>Pete Vonder Haar</critic>
+      </review>
+      <review>
+         <snippet>The actress, wielding a pair of swords like a chef from Benihana, remains a striking action heroine, though she's more convincing visually -- those taut thighs are weapons unto themselves -- than vocally.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?JSESSIONID=pgcvG6kDtvlg2YTLHxN26tvpvcspNwqBpJRpjKMl2FSXyrs9Lpfs!1373462520&amp;&amp;rid=9897</url>
+         <critic>Frank Scheck</critic>
+      </review>
+      <review>
+         <snippet>The title gives one hope.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20058691,00.html</url>
+         <critic>Scott Brown</critic>
+      </review>
+      <review>
+         <snippet>How about Resident Evil: Game Over?</snippet>
+         <url>http://www.avclub.com/content/cinema/resident_evil_extinction</url>
+         <critic>Steven Hyden</critic>
+      </review>
+      <review>
+         <snippet>Better than the silly second instalment and boasting an effectively creepy empty world setting, it’s nevertheless scuppered by a lack of coherence.</snippet>
+         <url>http://www.empireonline.com/reviews/reviewcomplete.asp?FID=133903</url>
+         <critic>Helen O&amp;#039;Hara</critic>
+      </review>
+      <review>
+         <snippet>Almost all of it has to do with watching the occasionally nude Jovovich look absolutely smashing in duster and sidearms, but sometimes, let's face it, that's not enough.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A539225</url>
+         <critic>Marc Savlov</critic>
+      </review>
+      <review>
+         <snippet>This version 3.0 needs an upgrade.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=9409</url>
+         <critic>Erin Meister</critic>
+      </review>
+      <review>
+         <snippet>If it weren't for retro-gartered Milla Jovovich, I don't know why anyone would want to survive the virus that is turning humans into zombies and destroying the Earth in Resident Evil: Extinction.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2007/09/22/2007-09-22_resident_evil_extinction_flee_this_yawn_-1.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>Shoot ’em up, run ’em over, blast ’em with flame-throwers, who cares? These creatures are only there to go splat.</snippet>
+         <url>http://www.nypost.com/seven/09222007/entertainment/movies/flicked_off_video.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+   </reviews>
+   <US_Gross>$50,648,679</US_Gross>
+   <production_budget>$45,000,000</production_budget>
+   <weekend_gross>$23,678,580</weekend_gross>
+   <number_of_screens>2,828</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

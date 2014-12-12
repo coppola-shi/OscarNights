@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Brothers Grimm, The</name>
+   <company>Dimension Films</company>
+   <genres>
+      <genre>Adventure</genre>
+      <genre>Comedy</genre>
+      <genre>Fantasy</genre>
+      <genre>Horror</genre>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>Ehren Kruger</author>
+   </authors>
+   <directors>
+      <director>Terry Gilliam</director>
+   </directors>
+   <origins>
+      <origin>CzechRepublicUSA</origin>
+   </origins>
+   <actors>
+      <actor>Matt Damon</actor>
+      <actor>Heath Ledger</actor>
+      <actor>Monica Bellucci</actor>
+      <actor>Jonathan Pryce</actor>
+      <actor>Lena Headey</actor>
+      <actor>Peter Stormare</actor>
+      <actor>Roger Ashton-Griffiths</actor>
+   </actors>
+   <release_date>August 26, 2005</release_date>
+   <running_time>120</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>Gilliam has rarely been more inventive, energetic, or just plain funny.</snippet>
+         <url>http://www.csmonitor.com/2005/0812/p14s01-almo.html</url>
+         <critic>David Sterritt</critic>
+      </review>
+      <review>
+         <snippet>Just as fabulously cartoon-Gothic as "Sleepy Hollow."</snippet>
+         <url>http://www.villagevoice.com/film/0534,atkinson1,67100,20.html</url>
+         <critic>Michael Atkinson</critic>
+      </review>
+      <review>
+         <snippet>A wildly wondrous reinvention of the story of the chroniclers of dark, occasionally horrific, child-pleasing fairy tales.</snippet>
+         <url/>
+         <critic>Jim Fusilli</critic>
+      </review>
+      <review>
+         <snippet>This brisk, free-falling fantasy about the famous collators of German fairy tales, played here as a kind of comedy act by Matt Damon and Heath Ledger, is Terry Gilliam's most entertaining work since the glory days of "Time Bandits," "Brazil," "The Adventures of Baron Munchausen," and "The Fisher King."</snippet>
+         <url>http://spacefinder.chicagoreader.com/movies/critic.html#28467</url>
+         <critic>Jonathan Rosenbaum</critic>
+      </review>
+      <review>
+         <snippet>It's a barrage of visual stimulation so excessive that it's hard to sort it all out. But it's often funny, its texture can be breathtaking and its pleasures likely will grow with repeated viewings.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/238019_grimm26q.html</url>
+         <critic>William Arnold</critic>
+      </review>
+      <review>
+         <snippet>The result is minor Gilliam: still more engaging than most moviemaking, but nonetheless a letdown after such a long wait.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/1124967997177440.xml&amp;coll=7</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>If you're a Gilliam junkie, as I am, you go with it, even when the script by Ehren Kruger (The Skeleton Key) loses its shaky hold on coherence.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/_/id/6171986?pageid=rs.ReviewsMovieArchive&amp;pageregion=mainRegion</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>In the end it's still Gilliam Lite, but Gilliam Lite is better than no Gilliam at all.</snippet>
+         <url>http://www.premiere.com/article.asp?section_id=2&amp;article_id=2247</url>
+         <critic>Glenn Kenny</critic>
+      </review>
+      <review>
+         <snippet>Damon, an underrated comic actor, is particularly good as an ultra-rationalist who'll scream like a girl and run from anything he can't immediately explain.</snippet>
+         <url>http://online.tvguide.com/movies/database/showmovie.asp?MI=46349</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>The result is a bit of a mess: sometimes delightful, sometimes tedious, always creative.</snippet>
+         <url>http://www.nydailynews.com/08-26-2005/entertainment/col/story/340676p-290722c.html</url>
+         <critic>Jami Bernard</critic>
+      </review>
+      <review>
+         <snippet>Sorry, but the real Grimms did a whole lot more with a great deal less.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/ArticleNews/TPStory/LAC/20050826/GRIMM26/TPEntertainment/Film</url>
+         <critic>Rick Groen</critic>
+      </review>
+      <review>
+         <snippet>An absurd mess that's more entertaining than it has any right to be.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=5799</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>If The Brothers Grimm flies apart like a badly designed airplane (and it does), it still has more going for it than most of the movie fare this summer.</snippet>
+         <url>http://ae.philly.com/entertainment/ui/philly/movie.html?id=400159&amp;reviewId=18903</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>Hugely ambitious but often failing to live up to those ambitions, Terry Gilliam's long-awaited The Brothers Grimm emerges as a folkloric adventure that intermittently entertains.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1001018535</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>Gilliam at his best and his worst.</snippet>
+         <url>http://www.empireonline.co.uk/incinemas/ReviewComplete.asp?FID=9795</url>
+         <critic>Dan Jolin</critic>
+      </review>
+      <review>
+         <snippet>Strenous yet flat, The Brothers Grimm is a let's-see-what-sticks spectacle that, coming from Terry Gilliam, is more grim than "Grimm."</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1097754_1_0_,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>The Brothers Grimm reeks of compromise, of a brilliant fantasist losing his footing and nerve and getting hopelessly gummed up in the cruel machinery of big-budget blockbuster filmmaking.</snippet>
+         <url>http://avclub.com/content/node/39557</url>
+         <critic>Nathan Rabin</critic>
+      </review>
+      <review>
+         <snippet>The tilt here toward a hyperactive, buddy-movie action-adventure with loud comic archetypes is a poor fit for a film that relies on fairy tale icons and themes.</snippet>
+         <url>http://www.variety.com/review/VE1117927935?categoryid=31&amp;cs=1</url>
+         <critic>Robert Koehler</critic>
+      </review>
+      <review>
+         <snippet>Kitted out in period garb and dubious British accents, the actors throw themselves into this flimsy contrivance with energy, but are badly served by a director focused on flipping switches and twirling knobs.  Despite a few early sparks of promise The Brothers Grimm sputters and coughs along like an unoiled machine, grinding gears and nerves in equal measure.</snippet>
+         <url>http://movies2.nytimes.com/2005/08/26/movies/26grim.html</url>
+         <critic>Manohla Dargis</critic>
+      </review>
+      <review>
+         <snippet>A work of limitless invention, but it is invention without pattern, chasing itself around the screen without finding a plot.</snippet>
+         <url>http://www.rogerebert.com/apps/pbcs.dll/article?AID=/20050825/REVIEWS/50822002/1023</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>Although Gilliam's bright color palette and weird camera angles lift the film, it has an overall sense of darkness, as if shot among people who have yet to see the Age of Enlightenment.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A285999</url>
+         <critic>Marjorie Baumgarten</critic>
+      </review>
+      <review>
+         <snippet>Never calms down for a second. It's the visual equivalent of the "Sabre Dance," and its only oxygen comes from the actors, who are quite good.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-050825-movies-review-grimm,0,7529967.story?coll=mmx-movies_top_heds</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>The Brothers Grimm gives you plenty to look at, but it's not much to see.</snippet>
+         <url>http://ae.miami.com/entertainment/ui/miami/movie.html?id=400159&amp;reviewId=18916</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>Seriously lost in the woods. This aimless epic about a pair of charlatan brothers sinks under the weight of a problematic script, questionable star casting, hamfisted editing -- and penny-pinching by Gilliam’s latest patrons, the Brothers Weinstein.</snippet>
+         <url>http://www.nypost.com/movies/51640.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>Neither Grimm comes across as especially interesting to watch, and neither does anything in the movie offer much to get excited about.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-to.grimm26aug26,1,1189211.story?coll=bal-movies-utility</url>
+         <critic>Chris Kaltenbach</critic>
+      </review>
+      <review>
+         <snippet>Although The Brothers Grimm is partly an inventive fantasy, it's also a cluttered, jangly action picture, and there's too much noise and commotion for Gilliam's subtler ideas to really resonate.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2005/08/26/brothers_grimm/index.html?sid=1381900</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>Brothers never catches fire the way Gilliam's "The Adventures of Baron Munchausen" did. And you almost feel during subpar special effects that sweaty stagehands are pushing the trees around.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2005-08-25-brothers-grimm_x.htm</url>
+         <critic>Mike Clark</critic>
+      </review>
+      <review>
+         <snippet>Unfortunately, although Gilliam has always had a taste for the outre, he has allowed it to get out of hand here and swallow the picture whole. There's an excessiveness, an unwelcome too-muchness to "Grimm's" creepy moments.</snippet>
+         <url>http://www.calendarlive.com/movies/turan/cl-et-grimm26aug26,0,300062.story</url>
+         <critic>Kenneth Turan</critic>
+      </review>
+      <review>
+         <snippet>Like a lot of Gilliam's movies it's too overloaded--antic, indulgent, overdesigned--to get off the ground for more than a minute or two at a stretch.</snippet>
+         <url>http://www.slate.com/id/2125179/?nav=fo</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>This is one of the most visually off-putting films ever made by a director who supposedly makes beautiful pictures.</snippet>
+         <url>http://www.laweekly.com/film/film_results.php?showid=3518&amp;Sumbit.x=38&amp;Sumbit.y=11</url>
+         <critic>Scott Foundas</critic>
+      </review>
+      <review>
+         <snippet>On the whole, The Brothers Grimm is a mess; a formerly daring director’s attempt to cash in on big studio backing even after the rug has been pulled out from under him.</snippet>
+         <url>http://www.filmthreat.com/Reviews.asp?Id=7902</url>
+         <critic>Pete Vonder Haar</critic>
+      </review>
+      <review>
+         <snippet>The film seems almost intentionally bad in most ways, as if Gilliam were expressing a suicide wish for his directing career.</snippet>
+         <url>http://ae.charlotte.com/entertainment/ui/charlotte/movie.html?id=400159&amp;reviewId=18889</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>Not terrible so much as terminally silly.</snippet>
+         <url>http://www.washingtonpost.com/wp-dyn/content/article/2005/08/25/AR2005082500539.html</url>
+         <critic>Michael O&amp;#039;Sullivan</critic>
+      </review>
+      <review>
+         <snippet>It's easily the ugliest film Gilliam's ever made, a movie shot with a lens someone forgot to wipe. It's also his loudest: Every scene is amped up to 11, and every line of dialogue is delivered as though it's a cry for help from the bottom of the well.</snippet>
+         <url>http://dallasobserver.com/Issues/2005-08-25/film/film2.html</url>
+         <critic>Robert Wilonsky</critic>
+      </review>
+      <review>
+         <snippet>It's the cinematic equivalent of an all-dessert meal: After the initial jolt, the lack of any real nourishment is apparent, and it becomes a struggle to stay awake.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?file=/c/a/2005/08/26/DDG5RECNIJ1.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>Gilliam does two things well: mud and trees.</snippet>
+         <url>http://www.washingtonpost.com/wp-dyn/content/article/2005/08/25/AR2005082501834.html</url>
+         <critic>Stephen Hunter</critic>
+      </review>
+   </reviews>
+   <US_Gross>$37,899,638</US_Gross>
+   <production_budget>$80,000,000</production_budget>
+   <weekend_gross>$15,092,079</weekend_gross>
+   <number_of_screens>3,087</number_of_screens>
+   <highest_grossing_actors_present/>
+   <num_highest_grossing_actors>1</num_highest_grossing_actors>
+   <highest_grossing_actor>matt damon</highest_grossing_actor>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>American Carol, An</name>
+   <company>Vivendi Entertainment</company>
+   <genres>
+      <genre>Comedy</genre>
+   </genres>
+   <authors>
+      <author>David Zucker</author>
+      <author>Myrna Sokoloff</author>
+   </authors>
+   <directors>
+      <director>David Zucker</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Kelsey Grammer</actor>
+      <actor>Kevin Farley</actor>
+      <actor>Trace Adkins</actor>
+      <actor>Jon Voight</actor>
+      <actor>Leslie Nielsen</actor>
+      <actor>Dennis Hopper</actor>
+   </actors>
+   <release_date>October 3, 2008</release_date>
+   <running_time>83</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>Ultimately, the problem with An American Carol is the problem with far too much political discourse in this country, left or right: It highlights the worst excesses of the opposition for the sole purpose of discrediting the vast middle.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=12433</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>A loony attack on wacko liberalism and a ding-dong defense of wacko conservatism.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20231076,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>It's a gag-strewn, hit-and-miss affair that's not without its chuckles.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-carol6-2008oct06,0,1686715.story</url>
+         <critic>Gary Goldstein</critic>
+      </review>
+      <review>
+         <snippet>The sole laughs are scored by Robert Davi, amusingly playing it straight as a Muslim terrorist who wants to hire Malone to make a suicide bomber recruitment film.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?JSESSIONID=05KZLmtVGzr0hPFvcvTzQQJ5xpJXh4JBjQg3Rk2LxnDv9C35BJQr!-964796901&amp;&amp;rid=11762</url>
+         <critic>Frank Scheck</critic>
+      </review>
+      <review>
+         <snippet>Cheap shots and mean spirits abound, as do celebrity cameos (James Woods, Jon Voight, Dennis Hopper, Kelsey Grammer). But it's the laziness of the writing that most offends.</snippet>
+         <url>http://movies.nytimes.com/2008/10/04/movies/04caro.html?ref=movies</url>
+         <critic>Nathan Lee</critic>
+      </review>
+      <review>
+         <snippet>Conservatives score a few political points but aren't very funny in An American Carol, a cheesy spitball directed at the very large target of a Michael Moore-like filmmaker.</snippet>
+         <url>http://www.variety.com/review/VE1117938614.html?categoryid=31&amp;cs=1</url>
+         <critic>Todd McCarthy</critic>
+      </review>
+      <review>
+         <snippet>About as not-funny as a comedy can get.</snippet>
+         <url>http://www.philly.com/inquirer/columnists/steven_rea/20081004_Conservative__Carol__is_flat_and_unfunny.html</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>Astonishingly inept alleged satire.</snippet>
+         <url>http://www.laweekly.com/2008-10-02/film-tv/movie-reviews-an-american-carol-beverly-hills-chihuahua-flash-of-genius/</url>
+         <critic>Scott Foundas</critic>
+      </review>
+      <review>
+         <snippet>Even if it weren't three years too late to parody Moore (ineptly played by Kevin Farley), Moore's ridiculous tribute to Cuban health care in "Sicko" is far funnier than anything in this desperately laughless farce from David Zucker ("Scary Movie 3").</snippet>
+         <url>http://www.nypost.com/seven/10042008/entertainment/movies/laughless_moore_jab_falls_flat_132027.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>Bad enough to earn a rare spot on my hallowed list of ''The Worst Movies I've Ever Seen,'' An American Carol is testament that the country's culture wars are raging just as strongly within Hollywood as anywhere else.</snippet>
+         <url>http://www.miamiherald.com/entertainment/movies/reviews/story/713931.html</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>Michael Moore has nothing to fear from David Zucker.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A679332</url>
+         <critic>Marjorie Baumgarten</critic>
+      </review>
+      <review>
+         <snippet>Great satire never fits neatly within an ideological box. Attention, the ghosts of H.L. Mencken, Stanley Kubrick, and Jonathan Swift: David Zucker could use a visit.</snippet>
+         <url>http://www.avclub.com/content/cinema/an_american_carol</url>
+         <critic>Sam Adams</critic>
+      </review>
+   </reviews>
+   <US_Gross>$7,013,191</US_Gross>
+   <production_budget>$20,000,000</production_budget>
+   <weekend_gross>$3,656,000</weekend_gross>
+   <number_of_screens>1,639</number_of_screens>
+   <oscar_winning_actors_present/>
+   <num_oscar_winning_actors>1</num_oscar_winning_actors>
+   <oscar_winning_actor>jon voight</oscar_winning_actor>
+   <highest_grossing_actors_present/>
+   <num_highest_grossing_actors>1</num_highest_grossing_actors>
+   <highest_grossing_actor>jon voight</highest_grossing_actor>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

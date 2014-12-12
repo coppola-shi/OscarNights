@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Nobel Son</name>
+   <company>Freestyle Releasing</company>
+   <genres>
+      <genre>Comedy</genre>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author>Jody Savin</author>
+      <author>Randall Miller</author>
+   </authors>
+   <directors>
+      <director>Randall Miller</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Alan Rickman</actor>
+      <actor>Bryan Greenberg</actor>
+      <actor>Shawn Hatosy</actor>
+      <actor>Mary Steenburgen</actor>
+      <actor>Bill Pullman</actor>
+      <actor>Eliza Dushku</actor>
+      <actor>Danny DeVito</actor>
+   </actors>
+   <release_date>December 5, 2008</release_date>
+   <running_time>102</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>A mercilessly convoluted version of a Twister, that genre in which the plot whacks us as if it's taking batting practice. I will not hint at anything that happens. I will simply observe that it's all entertaining.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20081203/REVIEWS/812039991</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>A smart aleck-y kidnapping caper that whooshes around to a thumping electronic beat.</snippet>
+         <url>http://www.philly.com/inquirer/columnists/steven_rea/20081205__Nobel__prizes_a_fast_pace.html</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>Uneven but enjoyably titillating black comedy should elate Rickman fans while pleasing aficionados of extra-flakey caper flicks.</snippet>
+         <url>http://www.variety.com/review/VE1117933645.html?categoryid=31&amp;cs=1&amp;p=0</url>
+         <critic>Ronnie Scheib</critic>
+      </review>
+      <review>
+         <snippet>Nobel Son is not good. Nor is it bad. It exists, instead, somewhere in the middle ground of interesting enough to hold one's attention without actually providing any fresh, sensible or nonderivative developments.</snippet>
+         <url>http://www.miamiherald.com/entertainment/movies/reviews/story/798417.html</url>
+         <critic>Connie Ogle</critic>
+      </review>
+      <review>
+         <snippet>Guy Ritchie made a name for himself with scuzz, but even his shtick has exceeded its sell-by date. Nobel Son goes further, crossing the contortions of "The Usual Suspects" with the shallowness of certain intellectual family melodramas.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=12625</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>Shows strains of stylistic overkill with egregious flash-edit tricks and sped-up camera moves, while the signal-flare plotting indicates that perhaps a bit more time could have been taken on the screenplay.</snippet>
+         <url>http://www.latimes.com/entertainment/news/reviews/movies/la-et-nobelson5-2008dec05,0,569248.story</url>
+         <critic>Robert Abele</critic>
+      </review>
+      <review>
+         <snippet>I enjoyed Eliza Dushku's mad poetess, probably for the wrong reasons, but with a project this meager, you take your artful sneers and scenic diversions where you can get them.</snippet>
+         <url>http://www.chicagotribune.com/entertainment/movies/chi-nobel-son-movie-review-1205dec05,0,1809858.story</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>The plot twists are mostly predicated on the characters' improbably shifting loyalties, the sort of thing you can get away with only when the people in your movie are drained of all compassion.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/33930_NOBEL_SON.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>It's all wildly implausible and occasionally fun, but it could be so much better if director Randall Miller (who co-wrote the screenplay) had thrown in a little more character development and excised a half-dozen crazy plot twists.</snippet>
+         <url>http://www.washingtonpost.com/gog/movies/nobel-son,1154629.html</url>
+         <critic>Philip Kennicott</critic>
+      </review>
+      <review>
+         <snippet>Rickman has fun playing a lecherous old bastard of a professor in Nobel Son, a pulpy would-be comic thriller, but the movie doesn't deserve him.</snippet>
+         <url>http://www.nypost.com/seven/12052008/entertainment/movies/nobel_son_142679.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>A dreary little thriller that irritates more than it thrills.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2008/12/05/DD0N14I5AG.DTL&amp;type=movies</url>
+         <critic>Ruthe Stein</critic>
+      </review>
+      <review>
+         <snippet>The movie is so relentlessly self-congratulatory, you can't help becoming thoroughly sick of it.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20081205.wnobel05/BNStory/Entertainment/home</url>
+         <critic>Liam Lacey</critic>
+      </review>
+      <review>
+         <snippet>Randall Miller (Bottle Shock), appears to be trying to cross a bad Elmore Leonard thriller with a bad indie-festival family-angst  comedy. He gives us the worst of both worlds.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20243943,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>What finally sinks the film is that the more it tries to dazzle us, the more uninterested we become.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/390681_nobel05q.html</url>
+         <critic>Bill White</critic>
+      </review>
+      <review>
+         <snippet>An aggressively noisy exercise in style over substance about nasty people doing nasty things to one another in (sigh) Southern California.</snippet>
+         <url>http://movies.nytimes.com/2008/12/05/movies/05nobe.html?ref=movies</url>
+         <critic>Manohla Dargis</critic>
+      </review>
+      <review>
+         <snippet>Director and co-writer Randall Miller is so ill at ease with the basic building blocks of the genre that Nobel Son quickly announces itself as one of those misbegotten clunkers where almost every creative decision isn't just wrong but tone-deaf.</snippet>
+         <url>http://www.villagevoice.com/2008-12-03/film/after-two-feel-good-flicks-randall-miller-snobel-son-just-feels-awful/</url>
+         <critic>Tim Grierson</critic>
+      </review>
+      <review>
+         <snippet>Even the dependable Rickman can't find his footing here. As he lamely hams it up, you can see him trying to rally himself and then deciding it's not worth the effort.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A708747</url>
+         <critic>Theresa Everline</critic>
+      </review>
+      <review>
+         <snippet>Nobel Son sadistically resurrects the Tarantino knockoff--an unloved, foul-mouthed little bastard of a subgenre that should now go away forever.</snippet>
+         <url>http://www.avclub.com/content/cinema/nobel_son</url>
+         <critic>Nathan Rabin</critic>
+      </review>
+   </reviews>
+   <US_Gross>$539,572</US_Gross>
+   <weekend_gross>$333,912</weekend_gross>
+   <number_of_screens>893</number_of_screens>
+   <highest_grossing_actors_present/>
+   <num_highest_grossing_actors>1</num_highest_grossing_actors>
+   <highest_grossing_actor>danny devito</highest_grossing_actor>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Milwaukee, Minnesota</name>
+   <company>Tartan USA</company>
+   <genres>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author>Richard Murphy</author>
+   </authors>
+   <directors>
+      <director>Allan Mindel</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Troy Garity</actor>
+      <actor>Alison Foll</actor>
+      <actor>Ry Quaid</actor>
+      <actor>Bruce Dern</actor>
+      <actor>Hank Harris</actor>
+      <actor>Debra Monk</actor>
+      <actor>Josh Brolin</actor>
+      <actor>Holly Woodlawn</actor>
+   </actors>
+   <release_date>June 3, 2005</release_date>
+   <running_time>95</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>Memorable enough.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2005/09/09/DDGM5EK0OI1.DTL#flick2</url>
+         <critic>Jonathan Curiel</critic>
+      </review>
+      <review>
+         <snippet>Never-quite-believable crime drama.</snippet>
+         <url>http://www.nypost.com/movies/44811.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>When you have Bruce Dern and Randy Quaid in a movie, you have expectations. Those two rarely disappoint, and that continues to be the case here.</snippet>
+         <url>http://www.filmthreat.com/Reviews.asp?Id=4352</url>
+         <critic>Doug Brunell</critic>
+      </review>
+      <review>
+         <snippet>It's a fantastic-looking picture in search of a decent script.</snippet>
+         <url>http://www.variety.com/index.asp?layout=cannes2003&amp;content=review&amp;reviewid=VE1117919986&amp;categoryid=1273&amp;cs=</url>
+         <critic>Scott Foundas</critic>
+      </review>
+      <review>
+         <snippet>The middling new Milwaukee, Minnesota, on the other hand, qualifies as 100 percent faux-noir. It recycles much from classic thrillers but has little to add.</snippet>
+         <url>http://www.theavclub.com/review.php?review_id=8552</url>
+         <critic>Nathan Rabin</critic>
+      </review>
+      <review>
+         <snippet>A very uneven dark comedy.</snippet>
+         <url>http://www.csmonitor.com/2005/0603/p14s01-almo.html</url>
+         <critic>David Sterritt</critic>
+      </review>
+      <review>
+         <snippet>Mr. Garity's performance doesn't quite redeem this sorely lacking production.</snippet>
+         <url>http://movies2.nytimes.com/2005/06/03/movies/03milw.html</url>
+         <critic>Janet Maslin</critic>
+      </review>
+      <review>
+         <snippet>More predictable than its makers seem aware, its emotional hooks much too dull to pull us in.</snippet>
+         <url>http://www.laweekly.com/film/film_results.php?showid=3492&amp;Sumbit.x=59&amp;Sumbit.y=12</url>
+         <critic>Ernest Hardy</critic>
+      </review>
+      <review>
+         <snippet>Not quite the sum of its occasionally interesting parts. Most of its cast makes strong impressions, but the plot and motivation don't quite jell, resulting in a minor item that shows its star Troy Garity to good advantage.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-capsules5aug05,0,662456.story</url>
+         <critic>Kevin Thomas</critic>
+      </review>
+      <review>
+         <snippet>Saddled with an improbable plotline and an incoherent character, Garity demurs on the invitation to overact.</snippet>
+         <url>http://www.villagevoice.com/film/0522,tracking3,64457,20.html</url>
+         <critic>Joshua Land</critic>
+      </review>
+      <review>
+         <snippet>Not bad to look at, but consistently unedifying.</snippet>
+         <url>http://spacefinder.chicagoreader.com/movies/briefs/28504_MILWAUKEE_MINNESOTA.html</url>
+         <critic>Jonathan Rosenbaum</critic>
+      </review>
+      <review>
+         <snippet>Maybe if Mindel had focused more on his characters, less on the silly "noir" trickery, his film would do Garity justice. As it is, go find better work, kid.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-050909-movies-review-milwaukee,0,7785354.story?coll=mmx-movies_top_heds</url>
+         <critic>Allison Benedikt</critic>
+      </review>
+      <review>
+         <snippet>A riot of artfully grungy hotel rooms, sleazy costumes and sordid behavior, Allan Mindel's directing debut gives off the smug air of hipsters at play, making it hard to care what happens to any of its lost souls and inept opportunists.</snippet>
+         <url>http://tvguide.com/movies/database/showmovie.asp?MI=46065</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+   </reviews>
+   <US_Gross>$17,528</US_Gross>
+   <weekend_gross>$7,517</weekend_gross>
+   <number_of_screens>3</number_of_screens>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

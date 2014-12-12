@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Days and Clouds</name>
+   <company>Film Movement</company>
+   <genres>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author>Silvio Soldini</author>
+      <author>Federica Pontremoli</author>
+      <author>Francesco Piccolo</author>
+      <author>Doriana Leondeff</author>
+   </authors>
+   <directors>
+      <director>Silvio Soldini</director>
+   </directors>
+   <origins>
+      <origin>Italy</origin>
+      <origin>Switzerland</origin>
+   </origins>
+   <actors>
+      <actor>Margherita Buy</actor>
+      <actor>Antonio Albanese</actor>
+      <actor>Giuseppe Battiston</actor>
+      <actor>Alba Rohrwacher</actor>
+      <actor>Carla Signoris</actor>
+      <actor>Fabio Troiano</actor>
+      <actor>Paolo Sassanelli</actor>
+      <actor>Arnaldo Ninchi</actor>
+   </actors>
+   <release_date>July 11, 2008</release_date>
+   <running_time>115</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>A brave film simply for daring to portray a nightmare lurking in the minds of middle-aged workers, people who might fear a film that addresses their insecurities this bluntly.</snippet>
+         <url>http://movies.nytimes.com/2008/07/11/movies/11days.html</url>
+         <critic>Stephen Holden</critic>
+      </review>
+      <review>
+         <snippet>At times, Soldini gets so wrapped up in his characters' suffering that the movie loses perspective; it's a little hard to sympathize when the couple's needs grow so great that they're forced to sell their boat.</snippet>
+         <url>http://www.avclub.com/content/cinema/days_and_clouds</url>
+         <critic>Sam Adams</critic>
+      </review>
+      <review>
+         <snippet>For Soldini, even bleakness has a poetic side, and his imagery is occasionally breathtaking here -- never more so than in the film's final tableau, which elegantly connects a Renaissance fresco Elsa had been working on before the couple's fall from grace with a strikingly similar real-life image suggesting the possibility of a renaissance in their marriage.</snippet>
+         <url>http://www.npr.org/templates/story/story.php?storyId=92385981</url>
+         <critic>Bob Mondello</critic>
+      </review>
+      <review>
+         <snippet>In American movies, the iconic question usually is, can men and women be friends without the sex part getting in the way? Here it's, can a husband appreciate his wife as a woman? The movie's success in Italy is partly a matter of frustration: Women need their men to grow up.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=12040</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>Sometimes art imitates life; sometimes it is life. If the market gets any worse, Days and Clouds could kill realism outright.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1150995&amp;categories=Movies</url>
+         <critic>John Anderson</critic>
+      </review>
+      <review>
+         <snippet>At times "Days" seems more of a social commentary on the shrinking middle class than the will-they-or-won't-they-make-it story at the heart of the film.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/imdb/reviews/article_display.jsp?rid=10121&amp;vnu_special_account_code=thrsiteimdbpro</url>
+         <critic>Natasha Senjanovic</critic>
+      </review>
+      <review>
+         <snippet>An intelligent adult drama that's especially relevant in these harsh economic times.</snippet>
+         <url>http://www.latimes.com/entertainment/news/reviews/la-et-capsules26-2008sep26,0,2519327.story?page=1</url>
+         <critic>Gary Goldstein</critic>
+      </review>
+      <review>
+         <snippet>It plays out more like a 12-step program than a human drama.</snippet>
+         <url>http://www.laweekly.com/2008-09-25/film-tv/movie-reviews-august-evening-eagle-eye-nights-in-rodanthe/2</url>
+         <critic>Ella Taylor</critic>
+      </review>
+      <review>
+         <snippet>Without grounding in specific causes-and-effects, the film is just another dreary wallow in self-pity.</snippet>
+         <url>http://www.villagevoice.com/2008-07-09/film/silvio-soldini-s-days-and-clouds/</url>
+         <critic>Vadim Rizov</critic>
+      </review>
+   </reviews>
+   <US_Gross>$112,103</US_Gross>
+   <weekend_gross>$16,707</weekend_gross>
+   <number_of_screens>2</number_of_screens>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

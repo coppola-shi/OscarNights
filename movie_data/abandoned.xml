@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Abandoned, The</name>
+   <company>Lionsgate / AfterDark Films</company>
+   <genres>
+      <genre>Foreign</genre>
+      <genre>Horror</genre>
+   </genres>
+   <authors>
+      <author>Nacho CerdàKarim Hussain</author>
+      <author>Richard Stanley</author>
+   </authors>
+   <directors>
+      <director>Nacho Cerdà</director>
+   </directors>
+   <origins>
+      <origin>Spain</origin>
+   </origins>
+   <actors>
+      <actor>Anastasia Hille</actor>
+      <actor>Karel Roden</actor>
+      <actor>Valentin Ganev</actor>
+      <actor>Carlos Reig</actor>
+      <actor>Paraskeva Djukelova</actor>
+   </actors>
+   <release_date>February 23, 2007</release_date>
+   <running_time>96</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>By the film's downbeat climax, Cerda's dread of death and uncertainty about digging too deeply into what's better left buried have become palpable, and The Abandoned lingers beneath the skin as any decent horror movie should.</snippet>
+         <url>http://tvguide.com/detail/movie.aspx?tvobjectid=285213&amp;more=ucmoviereview</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>The Abandoned is a rare horror film that moves from the real world into a kind of psychic space, and slowly suffocates its characters inside their own heads.</snippet>
+         <url>http://www.avclub.com/content/node/59021</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>Minimally plotted but beautifully atmospheric nightmare.</snippet>
+         <url>http://www.variety.com/review/VE1117932903.html?categoryid=31&amp;cs=1</url>
+         <critic>Dennis Harvey</critic>
+      </review>
+      <review>
+         <snippet>After a while, Mr. Cerdà exhausts his repertory of spooky effects -- too many dark hallways and illogical, foreboding point-of-view shots -- and you begin to hunger for exposition, always a bad sign in a horror film. Even worse is that, by the time the explanations arrive, you no longer care.</snippet>
+         <url>http://movies2.nytimes.com/2007/02/24/movies/24aban.html?ref=movies</url>
+         <critic>A.O. Scott</critic>
+      </review>
+      <review>
+         <snippet>Cerda's striking creep-show atmospherics, desaturated palette and off-kilter editing rhythms are a style in search of a movie: The muddled "Twilight Zone" payoff here is hardly enough to justify a sluggish two-character round-robin of "Don't look in the basement!" The last thing a filmmaker named Nacho needs is more cheese.</snippet>
+         <url>http://www.laweekly.com/film+tv/film-reviews/film-reviews/15759/</url>
+         <critic>Jim Ridley</critic>
+      </review>
+      <review>
+         <snippet>It's no "Dellamorte Dellamore," but neither is it "Uwe Boll," a smallish favor we should all be thankful for.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A448461</url>
+         <critic>Marc Savlov</critic>
+      </review>
+      <review>
+         <snippet>With a "Lost"-meets-"The Haunting" plot and a handful of convoluted thematic twists involving family, history, murder, and death, The Abandoned limps into a nebulous kind of horror netherworld, peppered with painfully long tension-building sequences and unimaginative dialogue.</snippet>
+         <url>http://www.boston.com/ae/movies/articles/2007/02/24/adrift_at_spirit_filled_homecoming/</url>
+         <critic>Erin Meister</critic>
+      </review>
+      <review>
+         <snippet>The gimmick in The Abandoned is that people battle their zombie doubles, whom they can't kill, since they'd be killing themselves. But the movie sinks so deep into deathly atmosphere that there's no life to it.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20013560,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+   </reviews>
+   <US_Gross>$1,255,524</US_Gross>
+   <weekend_gross>$782,000</weekend_gross>
+   <number_of_screens>1,000</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

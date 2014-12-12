@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Friends with Money</name>
+   <company>Sony Pictures Classics</company>
+   <genres>
+      <genre>Comedy</genre>
+      <genre>Drama</genre>
+      <genre>Romance</genre>
+   </genres>
+   <authors>
+      <author>Nicole Holofcener</author>
+   </authors>
+   <directors>
+      <director>Nicole Holofcener</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Jennifer Aniston</actor>
+      <actor>Frances McDorm</actor>
+      <actor>Joan Cusack</actor>
+      <actor>Catherine Keener</actor>
+      <actor>Greg Germann</actor>
+      <actor>Simon McBurney</actor>
+      <actor>Jason Isaacs</actor>
+      <actor>Scott Caan</actor>
+   </actors>
+   <release_date>April 7, 2006</release_date>
+   <running_time>88</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>Holofcener possesses a genius for creating exquisitely realized characters who seem to have led full, rich, complicated lives before the film's first scene takes place, and will go on living complex, idiosyncratic existences long after they disappear from the screen. Of course, it doesn't hurt that she has four of the best actresses in Hollywood as the leads, especially Keener.</snippet>
+         <url>http://www.avclub.com/content/node/47102</url>
+         <critic>Nathan Rabin</critic>
+      </review>
+      <review>
+         <snippet>Smart, witty and alert to the buried resentments that poke through the shiny surface of affluence, Holofcener's film recognizes that money is the new sex.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/_/id/7539506/rid/9579226/</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>Acutely perceptive and slyly quick-witted.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-060407-movies-review-friends,0,6688414.story?coll=mmx-movies_top_heds</url>
+         <critic>Allison Benedikt</critic>
+      </review>
+      <review>
+         <snippet>For a film that feels so breezy on the surface, it's a surprisingly complex character study.</snippet>
+         <url>http://online.tvguide.com/movies/database/Movie-Review.asp?MI=46834</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>Holofcener writes with an ear for the rhythms and ridiculousness of real life, and her cast - to a man, and woman - embraces her words with subtlety and certitude. Friends With Money is gimmickless, and great.</snippet>
+         <url>http://ae.philly.com/entertainment/ui/philly/movie.html?id=580248&amp;reviewId=20541</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>Greatly appealing if not especially adventurous, either for its director or for her admirers.</snippet>
+         <url>http://movies2.nytimes.com/2006/04/07/movies/07frie.html</url>
+         <critic>Manohla Dargis</critic>
+      </review>
+      <review>
+         <snippet>The result is an exquisitely calibrated hypermodern comedy of manners. A quiet but devastating ensemble piece, both acerbic and sweet, "Friends" blends empathy and a great sense of comic timing with the richness of Holofcener's trademark take-no-prisoners observations.</snippet>
+         <url>http://www.calendarlive.com/movies/turan/cl-et-friends7apr07,0,6898600.story</url>
+         <critic>Kenneth Turan</critic>
+      </review>
+      <review>
+         <snippet>A pitch-perfect ensemble comedy that burrows deep into the mind-set of white, upper middle-class Angelenos, anxious to strike the right balance among career, family, love life and money but never quite pulling it off.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1001881883</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>Holofcener's new film is extraordinary: it engages us from beginning to end without strong narrative, or narratives. It lives through the quality of Holofcener's dialogue and the performances that she has drawn from her actors.</snippet>
+         <url>http://www.tnr.com/doc.mhtml?i=20060501&amp;s=kauffmann050106</url>
+         <critic>Stanley Kauffmann</critic>
+      </review>
+      <review>
+         <snippet>The only weak link here is Aniston's character – her Olivia, stuck in a holding pattern, feels like a holdover from Holofcener's previous, single-girl pictures, and Aniston underplays the role to the point of expressionlessness.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A358523</url>
+         <critic>Kimberley Jones</critic>
+      </review>
+      <review>
+         <snippet>Turns out to be amusing and astute, a smart observation on the ups and downs of female friendships.</snippet>
+         <url>http://ae.miami.com/entertainment/ui/miami/movie.html?id=580248&amp;reviewId=20589</url>
+         <critic>Connie Ogle</critic>
+      </review>
+      <review>
+         <snippet>While most of the film is well-written and acted, there are some difficulties. Aniston's Olivia is hard to figure.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/266613_friends14q.html</url>
+         <critic>Paula Nechak</critic>
+      </review>
+      <review>
+         <snippet>It's a movie of charm and insight, well-acted and carefully observed, but it's also one that lacks any real heights to offset the generic competence that characterizes it. There's no real drama to follow, no surprises of sufficient magnitude to enliven the experience.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/1144882577212380.xml&amp;coll=7</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>Holofcener's work is character and dialogue-driven, with a keen sense of prickly female competitiveness and intimacy that a man couldn't, and probably wouldn't, dare portray.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/LAC.20060414.FRIENDS14/TPStory/TPEntertainment/</url>
+         <critic>Liam Lacey</critic>
+      </review>
+      <review>
+         <snippet>Aniston's best on-screen performance since "The Good Girl."</snippet>
+         <url>http://www.nypost.com/movies/66647.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>Holofcener writes as well as Albert Brooks at his best, and her finesse with actors is as assured as James L. Brooks's on his TV and film projects from 20 and 30 years ago.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=8345</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>With the almost half-decade spaces between Holofcener's three features, one might (rather unreasonably, I admit) expect her to have sought to break wholly new ground in the interim. So she hasn't; nevertheless, Friends is well-crafted, intelligent, genuinely adult fare.</snippet>
+         <url>http://www.premiere.com/article.asp?section_id=2&amp;article_id=2725</url>
+         <critic>Glenn Kenny</critic>
+      </review>
+      <review>
+         <snippet>There is also a manufactured symmetry, an every-gal's-got-issues roundness, an HBO sitcomitude to the movie that undercuts its own observational intelligence.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1180343_1_0_,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>If Friends With Money is about the meaning of success in a town obsessed with wealth, it is also, more universally, about our defining incompleteness, and the sad, uproarious inconclusiveness of life.</snippet>
+         <url>http://www.laweekly.com/film-reviews/13071/film-reviews/</url>
+         <critic>Ella Taylor</critic>
+      </review>
+      <review>
+         <snippet>Stealing the show is Jane, whose rage-fueled rants and scarcely concealed mutterings are loaded with sarcastic bon mots that are delivered to the hilt by McDormand.</snippet>
+         <url>http://www.variety.com/index.asp?layout=features2006&amp;content=jump&amp;jump=review&amp;head=sundance&amp;nav=RSundance&amp;articleid=VE1117929296&amp;cs=</url>
+         <critic>Todd McCarthy</critic>
+      </review>
+      <review>
+         <snippet>Holofcener gets the milieu beguilingly right, but the abrupt ending leaves you wanting more.</snippet>
+         <url>http://www.msnbc.msn.com/id/12115532/site/newsweek/</url>
+         <critic>David Ansen</critic>
+      </review>
+      <review>
+         <snippet>This is a dense and sophisticated work about mortality, materialism, madness, jealousy and pity.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2006/04/06/btm/index.html</url>
+         <critic>Andrew O&amp;#039;Hehir</critic>
+      </review>
+      <review>
+         <snippet>In her third feature Nicole Holofcener leapfrogs between characters with wit and grace, gathering them in various clusters and adroitly showing how money or the lack thereof really does inflect their lives and interactions.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/29574_FRIENDS_WITH_MONEY.html</url>
+         <critic>Jonathan Rosenbaum</critic>
+      </review>
+      <review>
+         <snippet>Smart, patient and ruefully funny... Yet because the film never digs too far into any single person's world, it doesn't build toward much.</snippet>
+         <url>http://www.dallasobserver.com/Issues/2006-04-13/film/film.html</url>
+         <critic>Melissa Levine</critic>
+      </review>
+      <review>
+         <snippet>The four ladies of Friends With Money are people I wouldn't want to ride the bus with (not that some of them would be caught dead on public transportation). They're whiners with little self-knowledge. Perhaps that's what holds them together, but it's not pretty.</snippet>
+         <url>http://www.nydailynews.com/04-07-2006/entertainment/col/story/406761p-344340c.html</url>
+         <critic>Jami Bernard</critic>
+      </review>
+      <review>
+         <snippet>Most crucially, we don't learn what brought the four women together; Olivia's so much younger than the others that there's no reason to think they'd ever have befriended her.</snippet>
+         <url>http://ae.charlotte.com/entertainment/ui/charlotte/movie.html?id=580248&amp;reviewId=20594&amp;startDate=NEXT7</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>As its title jokingly implies, this is a more grown-up version of Aniston's long- running TV vehicle--complete with the star herself as eternal ingenue.</snippet>
+         <url>http://www.villagevoice.com/film/0614,hoberman,72747,20.html</url>
+         <critic>J. Hoberman</critic>
+      </review>
+      <review>
+         <snippet>Friends With Money doesn't quite snap into focus. It just floats along-an agreeable comedy of manners with actors you like to hang out with.</snippet>
+         <url>http://newyorkmetro.com/movies/reviews/16561/</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>Anger is the rocket fuel of drama. Of the four women in Nicole Holofcener's Friends With Money, only Frances McDormand's Jane is flamingly angry, and she's the most vivid character in the group.</snippet>
+         <url/>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>While this doesn't add up to much more than 'It's good to be rich and have friends', it's entertaining, with some choice performances and the laugh-out-loud quotient of a good sketch show.</snippet>
+         <url>http://www.empireonline.com/reviews/reviewcomplete.asp?FID=133632</url>
+         <critic>Angie Errigo</critic>
+      </review>
+      <review>
+         <snippet>There's a self-loathing at the center of Friends with Money that makes it a tad unpalatable, as well as a sameness, a dependence on cliche, that makes it seem trite.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-to.friends21apr21,0,5082307.story?coll=bal-artslife-movies</url>
+         <critic>Chris Kaltenbach</critic>
+      </review>
+      <review>
+         <snippet>Nothing much happens here, and even less is resolved. You could make an argument that that's how life is, unresolved, but as a film, it makes for frustrating viewing, particularly when plot threads with the potential to bust open the story are left hanging.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1108185&amp;lat=200.0&amp;lon=200.0&amp;displaySearchLocation=&amp;nm=1&amp;categories=MoviesName=&amp;nm=1&amp;x=14&amp;y=11</url>
+         <critic>Teresa Wiltz</critic>
+      </review>
+      <review>
+         <snippet>Qualifies as a mild success. It's an easy picture to like, even if it's not exactly satisfying.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2006/04/07/DDG5UI42TK1.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>The trouble with Holofcener's scheme is that the center of the movie is dead. Olivia has no drives or hopes or powerful regrets. She has nothing to say, and Aniston does most of her acting with her lower lip.</snippet>
+         <url>http://www.newyorker.com/critics/cinema/?060417crci_cinema</url>
+         <critic>David Denby</critic>
+      </review>
+      <review>
+         <snippet>Entertaining and highly watchable but in the end, it just feels trite.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=8430</url>
+         <critic>Don R. Lewis</critic>
+      </review>
+      <review>
+         <snippet>The film is likable, with some funny moments and recognizable human conflicts. But the origin of the women's friendship is not explained, and the nature of Olivia's problems is not examined or taken very seriously, making her seem inexplicably lost and shallow.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2006-04-06-friends-with-money_x.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>The cast is terrific, the movie isn't... It all plays like the pilot for a series that wasn't picked up.</snippet>
+         <url>http://www.csmonitor.com/2006/0407/p14s02-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>The movie lacks the warmth and edge of the two previous features  ("Walking and Talking"  and "Lovely and Amazing"). It seems to be more of an idea than a story.</snippet>
+         <url>http://www.rogerebert.com/apps/pbcs.dll/article?AID=/20060406/REVIEWS/60403006/1023</url>
+         <critic>Roger Ebert</critic>
+      </review>
+   </reviews>
+   <US_Gross>$13,368,437</US_Gross>
+   <production_budget>$6,500,000</production_budget>
+   <weekend_gross>$589,332</weekend_gross>
+   <number_of_screens>28</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

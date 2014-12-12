@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Nacho Libre</name>
+   <company>Paramount Pictures</company>
+   <genres>
+      <genre>Comedy</genre>
+   </genres>
+   <authors>
+      <author>Jared Hess</author>
+      <author>Jerusha Hess</author>
+      <author>Mike White</author>
+   </authors>
+   <directors>
+      <director>Jared Hess</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Jack Black</actor>
+      <actor>Ana de la Reguera</actor>
+      <actor>Héctor Jiménez</actor>
+      <actor>Richard Montoya</actor>
+   </actors>
+   <release_date>June 16, 2006</release_date>
+   <running_time>100</running_time>
+   <rating>PG</rating>
+   <reviews>
+      <review>
+         <snippet>Endearingly ridiculous.</snippet>
+         <url>http://movies2.nytimes.com/2006/06/16/movies/16nach.html</url>
+         <critic>Manohla Dargis</critic>
+      </review>
+      <review>
+         <snippet>What's rare to see, and what ultimately makes Nacho Libre so enjoyable, is the story of an underdog who's allowed to remain a humble clown all the way to becoming a hero.</snippet>
+         <url>http://www.calendarlive.com/printedition/calendar/cl-et-nacho16jun16,0,4304951.story</url>
+         <critic>Carina Chocano</critic>
+      </review>
+      <review>
+         <snippet>Black's caped "luchador" grows on you. Like a fun guy.</snippet>
+         <url>http://ae.philly.com/entertainment/ui/philly/movie.html;jsessionid=07A0A951F3DAB41E3352FCF64953FCED.prodapp12_ae_02?id=628252&amp;reviewId=20994&amp;startDate=06%2F15%2F2006</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>What is missing in plot and character development is made up for in silly fun.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2006-06-14-nacho-libre_x.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>Hess' deadpan dorks are strange, really strange. As in the Christopher Guest movies, there is a distinct comedy architecture you recognize from the opening minutes.</snippet>
+         <url>http://www.nypost.com/movies/_qui_n_es_m_s_nacho__movies_kyle_smith.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>The movie is semi-infantile camp but often riotous.</snippet>
+         <url>http://newyorkmetro.com/movies/reviews/17293/index1.html</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>An amiably clunky, unapologetically silly summer confection that nevertheless lands sufficient lethal slams to the funny bone.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1002689268</url>
+         <critic>Michael Rechtshaffen</critic>
+      </review>
+      <review>
+         <snippet>Nacho Libre strikes a delicate balance of whimsy and absurdity that may surprise auds primed to expect wall-to-wall slapstick.</snippet>
+         <url>http://www.variety.com/review/VE1117930818?categoryid=31&amp;cs=1</url>
+         <critic>Joe Leydon</critic>
+      </review>
+      <review>
+         <snippet>You either come into Nacho Libre ready to surrender yourself to Hess' quirks and smirks or you don't. Middle ground is virtually impossible to imagine.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/1150244736238270.xml&amp;coll=7</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>The movie is a bauble, but it's an enjoyably weird and original one, and it is anchored by Black's constantly amusing performance.</snippet>
+         <url>http://www.miami.com/mld/miamiherald/entertainment/movies/14822372.htm</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>The film is easy to take and easy to forget, even with Black running around Oaxaca in turquoise wrestling tights.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-060616-movies-review-nacho,0,2221531.story?coll=mmx-movies_top_heds</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>The sweetness of Nacho's nature, along with Black's unselfconscious physical
+enthusiasm, turn all this into a live-action cartoon, with the ring violence
+having no greater consequence than a Wile E. Coyote fall from a high place.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/moviereviews/story/427127p-360102c.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>A daft idea perfectly calibrated to Black’s pop mania, then hermetically sealed by a director who thinks he’s making a Hal Hartley movie.</snippet>
+         <url>http://www.empireonline.com/reviews/review.asp?FID=133105</url>
+         <critic>Ian Nathan</critic>
+      </review>
+      <review>
+         <snippet>It's weird, clean, good-natured fun, and it's far too subdued for its madcap milieu.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/274106_nacho16q.html</url>
+         <critic>Sean Axmaker</critic>
+      </review>
+      <review>
+         <snippet>Nacho Libre enhances Hess' reputation as a gifted filmmaker and suggests there's more to Black than manic dementia. Both director and actor, however, need to find projects better-suited to their respective (and often impressive) talents.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-to.nacho16jun16,0,806325.story?coll=bal-movies-utility</url>
+         <critic>Chris Kaltenbach</critic>
+      </review>
+      <review>
+         <snippet>Very broad and very silly, it's a doodle of a comedy -- a one-joke idea (fat guy goes luchador) padded out to feature length by Black's willingness to do anything for a laugh.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=8457</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>As with "Napoleon Dynamite," Hess' sense of humor is an acquired taste, where all the characters speak in peculiar cadences and are afflicted with a terminal case of the "quirkies." What’s unfortunately missing from Nacho Libre is much in the way of humor.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=9069</url>
+         <critic>Pete Vonder Haar</critic>
+      </review>
+      <review>
+         <snippet>Mike White contributed to the script, and though he shares with the Hesses an innocence that can be both sweet and slightly grotesque (e.g., Chuck and Buck), his influence is most evident here in the conventional plotting.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/29914_NACHO_LIBRE.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>The comedy is hit and miss, with good bits interrupted by dead patches. It's a movie to root for more than to enjoy.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2006/06/16/DDG3EJDEEI11.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>This is a comedy at cross-purposes -- by turns low-key, bombastic, mildly amusing, manically slapstick. At least there are the fart jokes as a connecting thread.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/LAC.20060616.NACHO16/TPStory/TPEntertainment/Movies/</url>
+         <critic>Liam Lacey</critic>
+      </review>
+      <review>
+         <snippet>There are many scenes of mock-lucha wrestling, which become as boring as actual wrestling. Nacho Libre, naïvely made kids’ stuff, lacks such minor attributes as a decent script and supporting cast.</snippet>
+         <url>http://www.newyorker.com/critics/cinema/?060626crci_cinema</url>
+         <critic>David Denby</critic>
+      </review>
+      <review>
+         <snippet>This Nacho leaves your palate longing for more spice and less rancid cheese.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/_/id/7601184/rid/10603216/</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>Infinitely more entertaining than anything the WWE has done recently, this sophomore outing from "Napoleon Dynamite" director Hess is full of cheesy goodness, but it's Velveeta.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A375112</url>
+         <critic>Marc Savlov</critic>
+      </review>
+      <review>
+         <snippet>Nacho Libre plays like a Jack Black best-of, down to the song he wrote and performs for de La Reguera that sounds like some Tejano version of a Tenacious D throwaway.</snippet>
+         <url>http://www.villagevoice.com/film/0624,wilonsky,73516,20.html</url>
+         <critic>Robert Wilonsky</critic>
+      </review>
+      <review>
+         <snippet>Like the abominable "Napoleon Dynamite," director Jared Hess' second feature will doubtless capture the hearts and minds of 12-year-old boys everywhere, even if Nacho Libre sacrifices the earlier film's aggressive mean-spiritedness in favor of gentle slapstick lunacy.</snippet>
+         <url>http://www.laweekly.com/film+tv/film-reviews/film-reviews/13777/</url>
+         <critic>Scott Foundas</critic>
+      </review>
+      <review>
+         <snippet>When he runs out of material to tickle with, Black dips into his musically tenacious "deedle-diddle-dee" for some sure-fire ridiculousness.</snippet>
+         <url>http://www.premiere.com/article.asp?section_id=2&amp;article_id=2886</url>
+         <critic>Aaron Hillis</critic>
+      </review>
+      <review>
+         <snippet>By making Nacho a do-gooder, Hess defuses Black's subversive energy. You could argue that Black also played a do-gooder in "School of Rock," but the kids in that film were a lot spunkier, and Black wasn't constantly playing for sympathy as he does here.</snippet>
+         <url>http://www.csmonitor.com/2006/0616/p11s02-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>Is it funny? Now and then. Stupid? Very. Racist? Possibly. Ugly? Profoundly. Wild? Undeniably. Singular? Completely.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1115178&amp;lat=200.0&amp;lon=200.0&amp;displaySearchLocation=&amp;nm=1&amp;categories=Movies</url>
+         <critic>Stephen Hunter</critic>
+      </review>
+      <review>
+         <snippet>How can any comedy with Jack Black as a Mexican wrestler not be gut-bustingly hilarious? Nacho Libre provides an all-too-convincing answer.</snippet>
+         <url>http://www.avclub.com/content/node/49556</url>
+         <critic>Nathan Rabin</critic>
+      </review>
+      <review>
+         <snippet>Once Nacho gets the wrestling bug, though, it's all about Jack Black the irrepressible clown, and the comedy dies a slow death for lack of fresh ideas.</snippet>
+         <url/>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>Too much in Nacho Libre doesn't work to enable me to recommend it to anyone except a card-carrying member of the Jack Black fan club.</snippet>
+         <url>http://movie-reviews.colossus.net/movies/n/nacho_libre.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>The two stars of Nacho Libre, Jack Black and Jack Black's hair, take different paths.</snippet>
+         <url>http://ae.charlotte.com/entertainment/ui/charlotte/movie.html?id=628252&amp;reviewId=21006&amp;startDate=06%2F15%2F2006</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>Sputters to an ignominious halt in the first 20 minutes.</snippet>
+         <url>http://www.slate.com/id/2143748/?nav=fo</url>
+         <critic>Dana Stevens</critic>
+      </review>
+      <review>
+         <snippet>It takes some doing to make a Jack Black comedy that doesn't work. But Nacho Libre does it.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20060615/REVIEWS/60606004/1001</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>It's a one-gag film that rises or falls on how funny you find the sight of fat, grease-slicked Jack Black crammed into spandex pants and capering like an epileptic lamb.</snippet>
+         <url>http://online.tvguide.com/newsearch/detail.aspx?id=46960&amp;sourcetype=m&amp;progseriesparentid=0&amp;tvobjectid=280441&amp;keyword=&amp;more=ucmoviereview</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>You can see what the film was going for, but the jokes just sit there; you chuckle a few times, mostly out of lame hope, but you never bust a gut, never really get what you came for.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1204257_1_0_,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+   </reviews>
+   <US_Gross>$80,197,993</US_Gross>
+   <production_budget>$32,000,000</production_budget>
+   <weekend_gross>$28,309,599</weekend_gross>
+   <number_of_screens>3,070</number_of_screens>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

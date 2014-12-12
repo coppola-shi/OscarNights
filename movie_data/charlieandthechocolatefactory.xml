@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Charlie and the Chocolate Factory</name>
+   <company>Warner Bros.</company>
+   <genres>
+      <genre>Adventure</genre>
+      <genre>Comedy</genre>
+      <genre>FamilyKids</genre>
+      <genre>Fantasy</genre>
+   </genres>
+   <authors>
+      <author>John August</author>
+      <author>Roald Dahl</author>
+   </authors>
+   <directors>
+      <director>Tim Burton</director>
+   </directors>
+   <origins>
+      <origin>USAUK</origin>
+   </origins>
+   <actors>
+      <actor>Johnny Depp</actor>
+      <actor>Freddie Highmore</actor>
+      <actor>David Kelly</actor>
+      <actor>Helena Bonham Carter</actor>
+      <actor>Noah Taylor</actor>
+      <actor>Missi Pyle</actor>
+      <actor>James Fox</actor>
+      <actor>Deep Roy</actor>
+      <actor>Christopher Lee</actor>
+   </actors>
+   <release_date>July 15, 2005</release_date>
+   <running_time>115</running_time>
+   <rating>PG</rating>
+   <reviews>
+      <review>
+         <snippet>Those Oompa-Loompas are the beat, and soul, of Burton's finest movie since "Ed Wood": a madhouse kiddie musical with a sweet-and-sour heart.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1082731_1_0_,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>A peach of a story delightfully imagined by Dahl and lushly realized by Burton. It's full of witty or awesome scenes, flights of fancy and characters either totally, lovably sweet or outrageously, humorously rotten.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-050714-movies-review-charlie,0,1707659.story?coll=mmx-movies_top_heds</url>
+         <critic>Michael Wilmington</critic>
+      </review>
+      <review>
+         <snippet>A mischievously inventive, surreal entertainment, one that celebrates not only Whipple Scrumptious Fudgemallow Delight and Nutty Crunch Surprise but Busby Berkeley, Stanley Kubrick, the Beatles, and the outer-space acting choices of one Johnny Depp - not to mention those bushy-tailed rodents in all their bustling splendor.</snippet>
+         <url>http://ae.philly.com/entertainment/ui/philly/movie.html?id=353592&amp;reviewId=18502</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>On the screen, Burton turns out to BE the ideal filmmaker for this deliciously bizarre yarn. He's given free rein to his fantasies in past movies, but rarely as wittily and consistently as he does here.</snippet>
+         <url>http://www.csmonitor.com/2005/0715/p14s02-almo.html</url>
+         <critic>David Sterritt</critic>
+      </review>
+      <review>
+         <snippet>It's not orthodox Dahl but it's pure Burton, and, as it's been such a very long time since moviegoers have been afforded that particular treat, it's entirely welcome.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/112133506891280.xml&amp;coll=7</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>This is a dazzling movie, yet some people (not kids, but maybe their parents) will be put off by its Grand Guignol ghoulishness.</snippet>
+         <url>http://www.slate.com/id/2122200/?nav=fo</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>Depp deserves kudos for fashioning an original and outlandish if occasionally menacing character.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2005-07-14-charlie_x.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>Like Roald Dahl's book, Tim Burton's splendidly imaginative and visually stunning - and often very dark and creepy - new version of Charlie and the Chocolate Factory is squarely aimed more at children than their parents.</snippet>
+         <url>http://www.nypost.com/movies/25916.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>Bizarrely entertaining and brilliantly designed.</snippet>
+         <url>http://ae.charlotte.com/entertainment/ui/charlotte/movie.html?id=353592&amp;reviewId=18494&amp;startDate=NEXT7</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>The first half of Charlie and the Chocolate Factory is a brilliant blend of the best of Burton and Dahl, with some unexpected input from Charles Dickens. In the second half, the contraptions take over, drowning whatever story remains...But it falls frustratingly short of the masterpiece it might have been.</snippet>
+         <url>http://www.laweekly.com/ink/05/34/film-taylor.php</url>
+         <critic>Ella Taylor</critic>
+      </review>
+      <review>
+         <snippet>A perfect marriage of author and director.</snippet>
+         <url>http://dallasobserver.com/Issues/2005-07-14/film/film2.html</url>
+         <critic>Bill Gallo</critic>
+      </review>
+      <review>
+         <snippet>Here's a film about kids and for kids that has not lost touch with what it is like to actually be a kid.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1000976308</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>Witty, wonderful and wildly imaginative, Burton’s first proper ‘family movie’ since "Pee-Wee’s Big Adventure" delivers a sugar rush that’ll last for days.</snippet>
+         <url>http://www.empireonline.co.uk/site/incinemas/ReviewInFull.asp?FID=9775</url>
+         <critic>Olly Richards</critic>
+      </review>
+      <review>
+         <snippet>Charlie and the Chocolate Factory is absinthe in movie form, a white chocolate space egg of a picture that has a giddy hallucinatory quality in some places and an overcalculated glossiness in others. But for better or worse, it's fascinating.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2005/07/15/charlie/index.html</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>Tim Burton finally fulfills the promise of "Beetlejuice" with this imaginative masterpiece.</snippet>
+         <url>http://spacefinder.chicagoreader.com/movies/briefs/28255_CHARLIE_AND_THE_CHOCOLATE_FACTORY.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>I call it wondrous because, in spite of lapses and imperfections, a few of them serious, Mr. Burton's movie succeeds in doing what far too few films aimed primarily at children even know how to attempt anymore, which is to feed - even to glut - the youthful appetite for aesthetic surprise.</snippet>
+         <url>http://movies2.nytimes.com/2005/07/15/movies/15char.html?</url>
+         <critic>Dana Stevens</critic>
+      </review>
+      <review>
+         <snippet>Depp’s performance aside, Charlie and the Chocolate Factory is pure magic, swimming as it is in a black-treacle riptide of astonishing Oompa Loompa production numbers, an eerie patina of CGI airbrushing (Wonka himself looks downright pasteurized), and some almost too-clever in-jokes, and at least two references to Kurt Neumann’s 1958 film "The Fly."</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A278322</url>
+         <critic>Marc Savlov</critic>
+      </review>
+      <review>
+         <snippet>Burton's movie is not only more faithful, complex and better cast, it has an essential ingredient: squirrels.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/ArticleNews/TPStory/LAC/20050715/CHARLIE15/TPEntertainment/Film</url>
+         <critic>Liam Lacey</critic>
+      </review>
+      <review>
+         <snippet>Now this is strange. Charlie and the Chocolate Factory succeeds in spite of Johnny Depp's performance, which should have been the high point of the movie.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20050714/REVIEWS/50628001</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>If all the laughs come from Depp, who gives Willy the mannerisms of a classic Hollywood diva, the film's heart comes from Highmore, a gifted young performer who had a leading role in "Finding Neverland." His performance is sincere, deep and unforced in a way that's rare in a child actor.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2005/07/15/DDGPJDNDGG14.DTL&amp;hw=chocolate+factory&amp;sn=003&amp;sc=272</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>Lovers of Dahl's book will almost certainly appreciate what Burton has wrought.</snippet>
+         <url>http://movie-reviews.colossus.net/movies/c/charlie_chocolate.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>Depp and Burton fly too high on the vapors of pure imagination. But it's hard to not get hooked on something this tasty.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/_/id/6152042?pageid=rs.ReviewsMovieArchive&amp;pageregion=mainRegion</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>The movie's overlong and there are lumps in the batter, but this is a ''Charlie" that the author would recognize as upholding his playfully dyspeptic tradition.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=6871</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>Entertaining and fabulously imaginative in many ways, this second bigscreen rendition of the late author's modest morality tale on the wages of unbridled excess sports excesses of its own.</snippet>
+         <url>http://www.variety.com/review/VE1117927604?categoryid=31&amp;cs=1</url>
+         <critic>Todd McCarthy</critic>
+      </review>
+      <review>
+         <snippet>There's little wrong with Charlie, but it needs the Burton of old to animate its candy-colored universe with mischief and awe. Instead, he remains trapped like Wonka in a hermetic house of wonders, and the movie suffocates along with him.</snippet>
+         <url>http://www.theonionavclub.com/review.php?review_id=8695</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>Fun and nourishing, Charlie's the topsy-turvy equivalent of a three-course dinner in a single stick of gum.</snippet>
+         <url>http://www.villagevoice.com/film/0528,fpark,65801,20.html</url>
+         <critic>Ed Park</critic>
+      </review>
+      <review>
+         <snippet>Burton's gifts ensure you won't be able to take your eyes off the screen, but that doesn't necessarily mean you'll be happy with what you're seeing.</snippet>
+         <url>http://www.calendarlive.com/movies/turan/cl-et-charlie15jul15,0,150671.story</url>
+         <critic>Kenneth Turan</critic>
+      </review>
+      <review>
+         <snippet>Burton fans and those eager for a more accurate adaptation of the novel will be happy with this new movie, while nostalgia-addled Gen X-ers and stoners of all ages will always have the original.</snippet>
+         <url>http://www.filmthreat.com/Reviews.asp?Id=7723</url>
+         <critic>Pete Vonder Haar</critic>
+      </review>
+      <review>
+         <snippet>Burton's movie is more like Chris Columbus' first Harry Potter movie. Nearly everything that's supposed to be magical falls flat; nearly everything that's supposed to be mundane is magical.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-to.charlie15jul15,1,1242046.story?coll=bal-movies-utility</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>Aesthetically wild and otherwise mild.</snippet>
+         <url>http://www.premiere.com/article.asp?section_id=2&amp;article_id=2213</url>
+         <critic>Aaron Hillis</critic>
+      </review>
+      <review>
+         <snippet>The eccentric chocolatier Willy Wonka (Johnny Depp) can't feel pleasure, even though he's surrounded by it, so it's weirdly appropriate that the movie isn't "fun," even if it's amazing to look at.</snippet>
+         <url>http://www.nydailynews.com/07-15-2005/front/story/328251p-280447c.html</url>
+         <critic>Jami Bernard</critic>
+      </review>
+      <review>
+         <snippet>It's Depp's misfire that keeps the picture from becoming a genuinely sweet pleasure: As it stands, Charlie and the Chocolate Factory is the equivalent of NutriSweet.</snippet>
+         <url>http://ae.miami.com/entertainment/ui/miami/movie.html?id=353592&amp;reviewId=18513</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>It's doubtful that Depp's off-kilter interpretation will have any discernible effect on the movie's success. But it remains the movie's most disappointing aspect.</snippet>
+         <url>http://www.washingtonpost.com/wp-dyn/content/article/2005/07/14/AR2005071400501.html</url>
+         <critic>Desson Thomson</critic>
+      </review>
+      <review>
+         <snippet>This is rather a thin tale, not much thickened by Burton's direction or Depp's playing. There's a distance, a detachment to this film. It lacks passion.</snippet>
+         <url>http://www.time.com/time/magazine/article/0,9171,1081374,00.html</url>
+         <critic>Richard Schickel</critic>
+      </review>
+      <review>
+         <snippet>Neo-Gothic fantasist Tim Burton and writer John August (Big Fish) play it strictly by the book for this darker but far more faithful adaptation of Roald Dahl's cautionary 1964 young-adult novel.</snippet>
+         <url>http://tvguide.com/movies/database/showmovie.asp?MI=46117</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>It turns out that Charlie and the Chocolate Factory is half goofy-great, and half just a goof.</snippet>
+         <url>http://newyorkmetro.com/nymetro/movies/reviews/12240/</url>
+         <critic>Ken Tucker</critic>
+      </review>
+      <review>
+         <snippet>Dahl’s story was never intended to be anything other than a sticky-fingered feast, whereas the movie flits through pedophobic creepiness and ends up as a slightly costive parable of family values.</snippet>
+         <url>http://www.newyorker.com/critics/cinema/?050725crci_cinema</url>
+         <critic>Anthony Lane</critic>
+      </review>
+      <review>
+         <snippet>Inside the mysterious factory, a psychedelic realm where Johnny Depp's Willy Wonka holds sway, pleasure gradually gives way to a peculiar state that I can only describe as engagement without enjoyment.</snippet>
+         <url/>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>Its heart is in the right place and it resists the temptation to junk up the story, but Depp does nothing with his character and the movie has little of the unique wit or panache that would make it appealing to an older-than-10 audience.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/232587_charlie15q.html</url>
+         <critic>William Arnold</critic>
+      </review>
+      <review>
+         <snippet>The satirical edge has been dulled in a film that is dominated, and ultimately swamped, by its star's mannered, pixilated performance.</snippet>
+         <url>http://www.washingtonpost.com/wp-dyn/content/article/2005/07/14/AR2005071402083.html</url>
+         <critic>Ann Hornaday</critic>
+      </review>
+   </reviews>
+   <US_Gross>$206,459,076</US_Gross>
+   <production_budget>$150,000,000</production_budget>
+   <weekend_gross>$56,178,450</weekend_gross>
+   <number_of_screens>3,770</number_of_screens>
+   <highest_grossing_actors_present/>
+   <num_highest_grossing_actors>1</num_highest_grossing_actors>
+   <highest_grossing_actor>johnny depp</highest_grossing_actor>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Hancock</name>
+   <company>Columbia Pictures (Sony)</company>
+   <genres>
+      <genre>Action</genre>
+      <genre>Comedy</genre>
+      <genre>Drama</genre>
+      <genre>Fantasy</genre>
+   </genres>
+   <authors>
+      <author>Vince Gilligan</author>
+      <author>Vincent Ngo</author>
+   </authors>
+   <directors>
+      <director>Peter Berg</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Will Smith</actor>
+      <actor>Charlize Theron</actor>
+      <actor>Jason Bateman</actor>
+      <actor>Eddie Marsan</actor>
+   </actors>
+   <release_date>July 2, 2008</release_date>
+   <running_time>minutes,</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>Hancock suggests new visual directions and emotional tonalities for pop. It's by far the most enjoyable big movie of the summer.</snippet>
+         <url>http://www.newyorker.com/arts/critics/cinema/2008/07/07/080707crci_cinema_denby</url>
+         <critic>David Denby</critic>
+      </review>
+      <review>
+         <snippet>A rollicking tale of rehabilitation and redemption, rife with cool special effects, Hancock is smart and surprisingly raunchy.</snippet>
+         <url>http://www.philly.com/philly/entertainment/movies/20080630_Remember_the_beginning_of_The_Incredibles__Superheroes_NO_HEAD_SPECIFIED.html</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>It's a daring, even mildly challenging mixture for a superhero film, and while the pieces don't entirely add up, the puzzle is at least original.</snippet>
+         <url>http://www.avclub.com/content/cinema/hancock</url>
+         <critic>Tasha Robinson</critic>
+      </review>
+      <review>
+         <snippet>One of the rare action films that needed to be longer. Then changes in mood wouldn't be so abrupt, and director Peter Berg and writers Vincent Ngo and Vince Gilligan would've had more time to reveal things we want to know.</snippet>
+         <url>http://www.charlotte.com/434/story/694669.html</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>Bateman doesn't make a false move, and a stellar Charlize Theron springs her own bolts from the blue as Ray's wife. As for Smith, he's on fire. There's nothing like a star shining on his highest beams. You follow him anywhere.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/17077651/review/21543535/hancock</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>Hancock is a lot of fun, if perhaps a little top-heavy with stuff being destroyed. Smith makes the character more subtle than he has to be, more filled with self-doubt, more willing to learn.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20080630/REVIEWS/140273658</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>The real hit of the movie is the hilarious Bateman. His low-key humor makes you wish Hancock could have saved Bateman's short-lived sitcom "Arrested Development." Now that would have been heroic.</snippet>
+         <url>http://www.miamiherald.com/1054/story/587724.html</url>
+         <critic>Connie Ogle</critic>
+      </review>
+      <review>
+         <snippet>Hancock makes for one unexpectedly satisfying and kinky addition to Hollywood's superhero chronicles. Touching and odd, laden with genuine twists and grounded by three appealing lead performances.</snippet>
+         <url>http://movies.nytimes.com/2008/07/02/movies/02hanc.html?ref=movies</url>
+         <critic>Manohla Dargis</critic>
+      </review>
+      <review>
+         <snippet>As popcorn movies go, this is fleet, funny, and even thoughtful: its central question, nicely underplayed by director Peter Berg, is why power and altruism never seem to intersect.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/33298_HANCOCK.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>In a film marketplace where even the best superhero movies tend to do a lot of the same stuff, I really admire Will Smith and bad-boy director Peter Berg for trying something different.</snippet>
+         <url>http://www.oregonlive.com/movies/index.ssf/2008/07/movie_review_hancock.html</url>
+         <critic>M. E. Russell</critic>
+      </review>
+      <review>
+         <snippet>The first half is diverting and inventive. But the filmmakers use the second half as a box-office insurance policy. They fill it with the conventional super-heroics and heartbreak that they spend the first 45 minutes gleefully deconstructing.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/reviews/bal-to.hancock02jul02,0,3332384.story</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>The script doesn't always find the most effective way to the heart of the conflicts and Berg struggles to balance the mix of tones and the conflicts of man and superman, but he never sacrifices the integrity of his characters or their relationships for an easy ending. That alone makes Hancock the most adult of the new wave of superhero dramas.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/369128_hancock02q.html</url>
+         <critic>Sean Axmaker</critic>
+      </review>
+      <review>
+         <snippet>The promise is dangled yet never developed. Rather, the narrative slips into a backstory that alternates between confusing and contradictory.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20080630.hancock01/BNStory/Entertainment/home</url>
+         <critic>Rick Groen</critic>
+      </review>
+      <review>
+         <snippet>Sometimes funny, sometimes clever, and occasionally involving, but it's never brilliant and its edge is compromised by the neutering that accompanies the teen-friendly PG-13 rating.</snippet>
+         <url>http://www.reelviews.net/php_review_template.php?identifier=1191</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>Hancock is just intriguing enough that I kept wishing it were better. But Berg doesn't have the subtle touch that this material needs.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2008/07/01/hancock/</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>The visual effects are stellar, but the true star is Smith, who again demonstrates acting chops as well as effortless charisma in a vehicle that's only occasionally worthy of his superhuman skills.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?JSESSIONID=B1zhLvfQh8kv22g10nJ8Qgvn1GXb2cn93hgWbRQZN5KzM2SYY1Lv!1587555933&amp;&amp;rid=11308</url>
+         <critic>Stephen Farber</critic>
+      </review>
+      <review>
+         <snippet>Doesn't seem to quite know what it is or where it's headed. So it goes anywhere it can while treading thematic water.</snippet>
+         <url>http://www.laweekly.com/film+tv/film/hancock-americas-low-rent-superhero-just-in-time-for-the-recession/19194/</url>
+         <critic>Ella Taylor</critic>
+      </review>
+      <review>
+         <snippet>See-saws between straight superhero movie and parody, with layers of soap-opera fudge in between. A lot of solid scenes - but Hancock lacks the power of super-coherence.</snippet>
+         <url>http://www.empireonline.com/reviews/reviewcomplete.asp?FID=135101</url>
+         <critic>Kim Newman</critic>
+      </review>
+      <review>
+         <snippet>Hancock can revel in schmuckery, of course, because you and I and cute kids and peaceful oldies worldwide know in advance that there's no way on Hollywood's green earth Will Smith will ever play someone seriously, dangerously unsavory.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20209829,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>It's strenuous, smartly-made and ordinary to an extraordinary degree.</snippet>
+         <url>http://www.time.com/time/arts/article/0,8599,1819466,00.html</url>
+         <critic>Richard Corliss</critic>
+      </review>
+      <review>
+         <snippet>More intelligent than most summer blockbusters and features at its center a thought-out and committed performance by Will Smith. But in the end it's merely ALMOST good.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2008/07/01/DD8O11HIL1.DTL</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>The result is an inconsistent, incoherent anti-superhero action-adventure comedy.</snippet>
+         <url>http://www.tvguide.com/movies/hancock/review/293494</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>Starts off promisingly, but gets bogged down when it abandons humor for gravity.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=11067</url>
+         <critic>Pete Vonder Haar</critic>
+      </review>
+      <review>
+         <snippet>Once the vulgar comedy dissipates, we're left with poorly photographed, bullet-riddled summer-action mayhem. The only thing drunker than Hancock is the editing and camerawork.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=9847</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>Might have been more appropriately titled "Hodgepodge." What starts out with a sense of quirky fun loses direction and devolves into a mishmash of story lines.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2008-06-30-hancock_N.htm?loc=interstitialskip</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>What begins as a pretty good comedy devolves rapidly into a high-flown example of Hollywood messagemongering.</snippet>
+         <url>http://www.csmonitor.com/2008/0704/p25s03-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>It's a strange feeling to see the summer's most promising premise self-destruct into something bizarre and unsatisfying, but that is the Hancock experience.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-hancock1-2008jul01,0,5292397.story</url>
+         <critic>Kenneth Turan</critic>
+      </review>
+      <review>
+         <snippet>There's a great idea here, but it's buried within a muddled story that lurches between dark comedy and maudlin drama.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2008/07/02/2008-07-02_will_smith_slips_in_action_film_hancock.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>The climax, a multipart showdown in the corridors of a hospital, is unforgivably manipulative. What self-respecting director still cuts away to shots of a heartbeat monitor flat-lining? Hancock isn't the only underachiever on the premises--the talented Berg settles for far less than he should.</snippet>
+         <url>http://www.slate.com/id/2194718/</url>
+         <critic>Dana Stevens</critic>
+      </review>
+      <review>
+         <snippet>It doesn't take itself as seriously as it should, and undercuts a final act that should have and so could have packed a mighty emotional wallop.</snippet>
+         <url>http://www.villagevoice.com/film/0827,superzero,499189,20.html</url>
+         <critic>Robert Wilonsky</critic>
+      </review>
+      <review>
+         <snippet>This movie fails so spectacularly - and on so many levels - that it's like watching a train plummet off a bridge.</snippet>
+         <url>http://www.nypost.com/seven/07012008/entertainment/movies/will__disgrace_118054.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>Not even Smith's charisma can mitigate the chaos that is Hancock.</snippet>
+         <url>http://chicago.metromix.com/movies/movie_review/movie-review-hancock/482164/content</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>The superhero genre screams for a makeover, or at least a smart deconstruction, but Hancock isn't that movie. It just ups the foolishness ante.</snippet>
+         <url>http://www.newsweek.com/id/144200</url>
+         <critic>David Ansen</critic>
+      </review>
+      <review>
+         <snippet>The effects are snazzy, even if they pass by quite quickly, and there's enough going on to keep audiences watching, if not entirely happy. Smith, Theron and Bateman capably handle the main roles, but such is the skimpiness of the scenario that no further characters make any impact.</snippet>
+         <url>http://www.variety.com/VE1117937497.html</url>
+         <critic>Todd McCarthy</critic>
+      </review>
+      <review>
+         <snippet>The problem is that director Peter Berg, aided and abetted by Smith and Theron and third banana Jason Bateman, seem to have made it literally, not realizing its out-of-whack tonalities and grotesque plot twists were meant to be played for laughs.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1145218&amp;categories=Movies&amp;nm=1</url>
+         <critic>Stephen Hunter</critic>
+      </review>
+      <review>
+         <snippet>A godforsaken (possibly literally) mess.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A639241</url>
+         <critic>Marc Savlov</critic>
+      </review>
+      <review>
+         <snippet>Any notions of demolishing black stereotypes -- and what else could have possessed Mr. Smith to do this? -- are dashed by the coarseness of it all, and by the narrative incoherence; a surprising plot twist turns a sloppy action-comedy into a totally different movie, and an even worse one.</snippet>
+         <url>http://online.wsj.com/article/SB121494896670420825.html?mod=2_1168_1</url>
+         <critic>Joe Morgenstern</critic>
+      </review>
+   </reviews>
+   <US_Gross>$227,946,274</US_Gross>
+   <production_budget>$150,000,000</production_budget>
+   <weekend_gross>$103,877,446</weekend_gross>
+   <number_of_screens>3,965</number_of_screens>
+   <oscar_winning_actors_present/>
+   <num_oscar_winning_actors>1</num_oscar_winning_actors>
+   <oscar_winning_actor>charlize theron</oscar_winning_actor>
+   <highest_grossing_actors_present/>
+   <num_highest_grossing_actors>1</num_highest_grossing_actors>
+   <highest_grossing_actor>will smith</highest_grossing_actor>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>true</independence_release>
+   <labor_release>false</labor_release>
+</movie>

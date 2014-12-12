@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Margaret Cho: Assassin</name>
+   <company>Regent Releasing</company>
+   <genres>
+      <genre>Comedy</genre>
+   </genres>
+   <authors>
+      <author>Margaret Cho</author>
+   </authors>
+   <directors>
+      <director>Kerry Asmussen</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Margaret Cho</actor>
+   </actors>
+   <release_date>September 2, 2005</release_date>
+   <running_time>90</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>Biting and incisive.</snippet>
+         <url>http://sfgate.com/cgi-bin/article.cgi?f=/c/a/2005/09/02/DDGPTEGBRL1.DTL&amp;type=movies</url>
+         <critic>John McMurtrie</critic>
+      </review>
+      <review>
+         <snippet>She has something to say to everyone, and one can only hope that she is preaching to more than her choir of devoted fans.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-assassin2sep02,0,264649.story</url>
+         <critic>Kevin Thomas</critic>
+      </review>
+      <review>
+         <snippet>Even those who may agree with Cho's agenda are never allowed to forget that it is an agenda.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1102001_1_0_,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>Assassin is funnier and less awkward than her last concert film, 2004's ''CHO Revolution," but nowhere near as consistently gut busting as 2002's ''Notorious C.H.O." or (first and still best) 2000's ''I'm the One That I Want."</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=8222</url>
+         <critic>Janice Page</critic>
+      </review>
+      <review>
+         <snippet>From the proposed constitutional amendment banning gay marriage and the president's opposition to the morning-after pill to his pandering to fundamentalist family groups, Cho has all things Bush-related in her crosshairs, and she's taking no prisoners.</snippet>
+         <url>http://online.tvguide.com/movies/database/ShowMovie.asp?MI=46397</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>Though specializing in confrontational, caustic and often raunchy humor, Ms. Cho has a relaxed and playful stage presence.</snippet>
+         <url>http://movies2.nytimes.com/2005/09/02/movies/02cho.html</url>
+         <critic>Jeannette Catsoulis</critic>
+      </review>
+      <review>
+         <snippet>She has tackled difficult subjects with sharp wit, but this self-congratulatory set falls well short of our ensuing expectations.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/moviereviews/story/342663p-292487c.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>It's hard to see why her audience seems so much more rabid than that of other, funnier comics. The secret seems to be in her appeal to the gay community.</snippet>
+         <url>http://listings.dallasobserver.com/gyrobase/Film/ShowFilm</url>
+         <critic>Luke Y. Thompson</critic>
+      </review>
+      <review>
+         <snippet>Inspiration is running thin in comedian Margaret Cho's fourth concert film, a routine stand-up set that compares poorly to her oft-hilarious first two.</snippet>
+         <url>http://www.variety.com/review/VE1117928036?categoryid=31&amp;cs=1</url>
+         <critic>Dennis Harvey</critic>
+      </review>
+      <review>
+         <snippet>Only for die-hard Cho fans. Everyone else will be offended, bored, or some combination of the two.</snippet>
+         <url>http://movie-reviews.colossus.net/movies/m/margaret_cho.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>Though Cho occasionally connects with her targets, more often than not she seems as intolerant and hate-filled as she accuses them of being - and that's not funny.</snippet>
+         <url>http://www.nypost.com/movies/52113.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>Assassin is the listless signature on her career-long comedic suicide note.</snippet>
+         <url>http://www.villagevoice.com/film/0535,tracking2,67303,20.html</url>
+         <critic>Peter L&amp;#039;Official</critic>
+      </review>
+      <review>
+         <snippet>Painfully bereft of wit or cogent insight.</snippet>
+         <url>http://www.laweekly.com/film/film_results.php?showid=3531&amp;Sumbit.x=47&amp;Sumbit.y=11</url>
+         <critic>Ernest Hardy</critic>
+      </review>
+   </reviews>
+   <US_Gross>$39,652</US_Gross>
+   <weekend_gross>$15,001</weekend_gross>
+   <number_of_screens>8</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>true</labor_release>
+</movie>

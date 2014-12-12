@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Looking for Kitty</name>
+   <company>ThinkFilm</company>
+   <genres>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author>Edward Burns</author>
+   </authors>
+   <directors>
+      <director>Edward Burns</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Edward Burns</actor>
+      <actor>David Krumholtz</actor>
+      <actor>Rachel Dratch</actor>
+      <actor>Chris Parnell</actor>
+      <actor>Shari Albert</actor>
+      <actor>Connie Britton</actor>
+      <actor>Max Baker</actor>
+      <actor>Craig Carlisle</actor>
+   </actors>
+   <release_date>September 1, 2006</release_date>
+   <running_time>95</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>Offers moments of striking insight amid the inevitable self-indulgence.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/moviereviews/story/448654p-377439c.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>A slight movie. But it has its share of charm and is a pleasant way to spend a little over an hour. It also is a sign that Burns might actually have talent.</snippet>
+         <url>http://www.nypost.com/entertainment/movies/looking_better_than_expected_movies_v_a__musetto.htm</url>
+         <critic>V.A. Musetto</critic>
+      </review>
+      <review>
+         <snippet>Never adds up to much of anything.</snippet>
+         <url>http://online.tvguide.com/newsearch/detail.aspx?tvobjectid=282886&amp;more=ucmoviereview</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>This is a modest film on various levels, in terms of budget, length, cast size and technical craft. Though passable at best, the digital camerawork does aptly convey the bleakness of the city’s sidewalks and streets during winter.</snippet>
+         <url>http://movies2.nytimes.com/2006/09/01/movies/01kitt.html?ref=movies</url>
+         <critic>Laura Kern</critic>
+      </review>
+      <review>
+         <snippet>Burns has continued to cram one-dimensional characters into thinly plotted comedy-dramas, hoping to re-impress moviegoers with his aloof leading-man charm and faux-natural, trying-too-hard-to-be-funny dialogue.</snippet>
+         <url>http://www.avclub.com/content/node/52169</url>
+         <critic>Noel Murray</critic>
+      </review>
+      <review>
+         <snippet>It might be the most maturely conceived role in Burns's films, but the plot around it is flimsy, the visual storytelling simpleminded, and the general ideas for character one-note. At 78 minutes, the movie says howdy, rewards little, and does not test its welcome.</snippet>
+         <url>http://www.villagevoice.com/film/0635,atkinson,74327,20.html</url>
+         <critic>Michael Atkinson</critic>
+      </review>
+      <review>
+         <snippet>Burns pads around Gotham, yammering yesterday's op-eds about Disneyfication and ''classic New York holdouts.'' He somehow manages to sound fogyish AND immature.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1532064_1_0_,00.html</url>
+         <critic>Scott Brown</critic>
+      </review>
+   </reviews>
+   <US_Gross>$4,480</US_Gross>
+   <weekend_gross>$3,210</weekend_gross>
+   <number_of_screens>1</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>true</labor_release>
+</movie>

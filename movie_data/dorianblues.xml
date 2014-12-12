@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Dorian Blues</name>
+   <company>TLA Releasing</company>
+   <genres>
+      <genre>Comedy</genre>
+      <genre>GayLesbian</genre>
+   </genres>
+   <authors>
+      <author>Tennyson Bardwell</author>
+   </authors>
+   <directors>
+      <director>Tennyson Bardwell</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Michael McMillian</actor>
+      <actor>Lea Coco</actor>
+      <actor>Charles Fletcher</actor>
+      <actor>Mo Quigley</actor>
+      <actor>Austin Basis</actor>
+      <actor>Cody Nickell</actor>
+   </actors>
+   <release_date>September 23, 2005</release_date>
+   <running_time>88</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>Dorian Blues covers extremely familiar territory, but does so with low-key wit and ingratiating charm.</snippet>
+         <url>http://avclub.com/content/node/42848</url>
+         <critic>Nathan Rabin</critic>
+      </review>
+      <review>
+         <snippet>Eschews the heavy sexual content (and most of the clichés) of so many gay films -- it also has a lot of heart.</snippet>
+         <url>http://www.nypost.com/movies/53038.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>It doesn't open up much new territory, except to eschew much of the dark, frank sexuality that has characterized such recent sexual coming-of-age movies as "Mysterious Skin." Instead, Bardwell offers a cheerful, if sometimes strenuously earnest, take on a subject that seems overdue for a lighthearted touch.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1097412&amp;lat=200.0&amp;lon=200.0&amp;displaySearchLocation=&amp;nm=1&amp;categories=Movies</url>
+         <critic>Ann Hornaday</critic>
+      </review>
+      <review>
+         <snippet>Bardwell manages a sincere portrait of what it's like to be young and closeted.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/capsules/27044_DORIAN_BLUES</url>
+         <critic>Joshua Katzman</critic>
+      </review>
+      <review>
+         <snippet>Sharp performances and writing lend it a fresh appeal well above this genre's average.</snippet>
+         <url>http://www.variety.com/review/VE1117923447?categoryid=31&amp;cs=1</url>
+         <critic>Dennis Harvey</critic>
+      </review>
+      <review>
+         <snippet>With some gentle humor that will delight the "Napoleon Dynamite" set, Dorian Blues lights a natural little footpath between two ways of living.</snippet>
+         <url>http://www.nytimes.com/2005/09/23/movies/23dori.html</url>
+         <critic>Janet Maslin</critic>
+      </review>
+      <review>
+         <snippet>With its moments of comic relief overly exaggerated and at odds with its realistic tone, Dorian Blues is at its best at its most serious.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-dorianblues7oct07,0,2272227.story</url>
+         <critic>Kevin Thomas</critic>
+      </review>
+      <review>
+         <snippet>Inconsequential but intermittently charming.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1001391581</url>
+         <critic>Frank Scheck</critic>
+      </review>
+      <review>
+         <snippet>Its smarmy resolution just doesn't work; the lessons learned are a bit too medicinal. But we're willing to forgive, since it's otherwise a good-natured and enjoyable ride.</snippet>
+         <url>http://listings.dallasobserver.com/gyrobase/Film/ShowFilm</url>
+         <critic>Melissa Levine</critic>
+      </review>
+      <review>
+         <snippet>Even if the story is hackneyed, it's hackneyed in a warm and universal way.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=8178</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>The movie's third act goes astray as the storyline shifts to Dorian's dating problems, which seem an overextended tangent to his coming-out story. Still, the film has a lot of playful dialogue and pixillated montages.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A310697</url>
+         <critic>Marjorie Baumgarten</critic>
+      </review>
+      <review>
+         <snippet>The buoyant McMillan is a charming presence, but he's entirely miscast as a character described as moody and angry.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/moviereviews/story/349026p-297651c.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>Inhabiting the breezeway between the sweet sincerity of "Beautiful Thing" and the didacticism of an ABC "Afterschool Special," this upstate New York coming-out saga will warm PFLAG hearts and kindle empathy in those who've had to tread the family-drama-churned waters of small-town gaydom.</snippet>
+         <url>http://www.villagevoice.com/film/0538,tracking7,68029,20.html</url>
+         <critic>Danial Adkison</critic>
+      </review>
+      <review>
+         <snippet>Dorian Blues is full of similarly rigged moments, but there are genuine chuckles, and a palpably heartfelt final scene between Dorian and his mom ends the tale on a powerful note.</snippet>
+         <url>http://www.laweekly.com/film/film_results.php?showid=3588&amp;Sumbit.x=54&amp;Sumbit.y=18</url>
+         <critic>Ernest Hardy</critic>
+      </review>
+      <review>
+         <snippet>Doesn't transcend the yawner template of coming-out films.</snippet>
+         <url>http://sfgate.com/cgi-bin/article.cgi?f=/c/a/2005/11/25/DDGD8FTBT91.DTL&amp;type=movies</url>
+         <critic>Neva Chonin</critic>
+      </review>
+      <review>
+         <snippet>Has a terrible air of been-there/done-that.</snippet>
+         <url>http://www.filmthreat.com/Reviews.asp?Id=7994</url>
+         <critic>Phil Hall</critic>
+      </review>
+   </reviews>
+   <US_Gross>$71,469</US_Gross>
+   <weekend_gross>$12,605</weekend_gross>
+   <number_of_screens>2</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

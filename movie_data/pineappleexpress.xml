@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Pineapple Express</name>
+   <company>Columbia Pictures (Sony)</company>
+   <genres>
+      <genre>Comedy</genre>
+      <genre>Crime</genre>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>Evan Goldberg</author>
+      <author>Seth Rogen</author>
+      <author>Judd Apatow</author>
+   </authors>
+   <directors>
+      <director>David Gordon Green</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Seth Rogen</actor>
+      <actor>James Franco</actor>
+      <actor>Gary Cole</actor>
+      <actor>Rosie Perez</actor>
+      <actor>Danny R. McBride</actor>
+      <actor>Amber Heard</actor>
+      <actor>James Remar</actor>
+   </actors>
+   <release_date>August 6, 2008</release_date>
+   <running_time>107</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>As loose and playful as major studio movies get.</snippet>
+         <url>http://www.avclub.com/content/cinema/pineapple_express</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>The laughs -- mostly crude, profane and drug-addled -- are almost non-stop.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2008-08-04-pineapple-express_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>It's a quality movie even if the material is unworthy of the treatment. As a result, yes, it's a druggie comedy that made me laugh.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20080804/REVIEWS/427486480</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>You'll go limp from laughing.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/15138038/review/21896158/pineapple_express</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>One of the most hilarious and engaging films from producer Judd Apatow's often inconsistent comedy factory, thanks to inspired dialogue, dynamite chemistry between Rogen and Franco and perfectly pitched stoner gags (undoubtedly the result of copious research).</snippet>
+         <url>http://seattlepi.nwsource.com/movies/373678_pineapple06q.html</url>
+         <critic>Sean Axmaker</critic>
+      </review>
+      <review>
+         <snippet>The movie is jampacked with jokes, sight gags and set pieces guaranteed to appeal to the audience's sense of the preposterous.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1145223&amp;categories=Movies&amp;nm=1</url>
+         <critic>Ann Hornaday</critic>
+      </review>
+      <review>
+         <snippet>A savvy nod to 1980s action comedies, down to the Huey Lewis original that plays over the end credits. But its greatest achievements lie in the tossed-off non sequiturs, the pop-culture (and Scott Baio) allusions, and the unexpected respites in the midst of all the bang-bang-boom.</snippet>
+         <url>http://www.villagevoice.com/2008-08-05/film/pineapple-express-s-true-bromance/</url>
+         <critic>Robert Wilonsky</critic>
+      </review>
+      <review>
+         <snippet>Fans of David Gordon Green, you may well leave feeling confused. Fans of daft laughs and James Franco, you're in for one of the funniest comedies of the year.</snippet>
+         <url>http://www.empireonline.com/reviews/reviewcomplete.asp?FID=135226</url>
+         <critic>Damon Wise</critic>
+      </review>
+      <review>
+         <snippet>A film that is at once elegant and sublimely silly.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A650990</url>
+         <critic>Kimberley Jones</critic>
+      </review>
+      <review>
+         <snippet>Frequently hilarious, occasionally sweet and often graphically violent, Pineapple Express may not be the greatest stoner movie ever made, but it will do perfectly well until we get another hit of Harold and Kumar.</snippet>
+         <url>http://www.nypost.com/seven/08062008/entertainment/movies/stoned_123212.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>Yes, Pineapple Express is exceedingly crude, but it's never mean or lewd, and for all the drugs and gore in it, the movie is also strangely, unrelentingly sweet, even when its characters are bleeding to death.</snippet>
+         <url>http://www.miamiherald.com/entertainment/movies/reviews/story/630375.html</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>Like the film's giddily intoxicating cannabis hybrid, Rogen and Goldberg's script cross-pollinates Cheech-and-Chong style stoner comedy with Tarantino-esque ultra-violence.</snippet>
+         <url>http://movies.tvguide.com/pineapple-express/review/293505</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>The humor in this movie is smart enough that even a moderate level of intoxication or inebriation is not necessary to enjoy it.</snippet>
+         <url>http://www.reelviews.net/php_review_template.php?identifier=1254</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>It's a funny, mostly harmless and entertaining film with a bad case of dry mouth.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2008/08/05/DDRN1250D2.DTL</url>
+         <critic>Peter Hartlaub</critic>
+      </review>
+      <review>
+         <snippet>It ends up subverting its own subversion, arriving at a place that can only be called conventional.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20217086,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>Probably the most artful of the Apatow Factory comedies so far, but that's not to suggest it doesn't take being sweetly dumb just as seriously as the rest.</snippet>
+         <url>http://www.npr.org/templates/story/story.php?storyId=93050361</url>
+         <critic>Bob Mondello</critic>
+      </review>
+      <review>
+         <snippet>So filled with verve and wit for much of its running time that it's depressing to watch it devolve into genuine foolishness and borderline incoherence in its final act.</snippet>
+         <url>http://blog.oregonlive.com/madaboutmovies/2008/08/movie_review_pineapple_express.html</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>It's with that action aspect that Pineapple Express differs from Apatow's previous production output, and though, the words "taut" and "pulse-pounding" would never apply, the giddily over-the-top fight sequences, choreographed by veteran stunt coordinator Gary Hymes, handily compensate for the lag time.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?JSESSIONID=k170LGNdtKZyB2fSMsVhbx2yL0TMNRgGYvcpQj7GD45p7BjX3LGz!-1552493329&amp;&amp;rid=11447</url>
+         <critic>Michael Rechtshaffen</critic>
+      </review>
+      <review>
+         <snippet>Laugh for laugh, Pineapple Express is way funnier than "Superbad." It may be the funniest mainstream comedy released so far this year (not that that means much when you've got "The Love Guru" pulling down your average).</snippet>
+         <url>http://www.slate.com/id/2196894/</url>
+         <critic>Dana Stevens</critic>
+      </review>
+      <review>
+         <snippet>Perversely enough, the comedy is what keeps the picture rolling; it's the so-called action that persists in bringing the thing to a screeching halt.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20080806.wpineapple06/BNStory/Entertainment/home</url>
+         <critic>Rick Groen</critic>
+      </review>
+      <review>
+         <snippet>Never achieves greatness, but it has the right people in place to suggest the greatness that might have been.</snippet>
+         <url>http://www.premiere.com/moviereviews/4682/pineapple-express.html</url>
+         <critic>Eric Kohn</critic>
+      </review>
+      <review>
+         <snippet>The movie's a crazy quilt of pot jokes, sarcastic put-downs and pop culture references both obvious and obscure.</snippet>
+         <url>http://www.charlotteobserver.com/312/story/108064.html</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>Disappointingly, Pineapple Express is less than the sum of its ingredients, even if it's still a good stupid time at the movies.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=10555</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>Around the midpoint, Pineapple Express falls apart and keeps falling, and the comedy, spiced with considerable, unevenly effective violence in that first hour, goes out the window, and in comes all the gore and the bone-crunching.</snippet>
+         <url>http://chicago.metromix.com/movies/movie_review/movie-review-pineapple-express/543311/content</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>The movie's too long - and the violence and mayhem are unexpectedly harsh and heavy - but Franco's inspired, looped performance is right up there in the annals of reefer filmdom with Jeff Bridges' the Dude in "The Big Lebowski."</snippet>
+         <url>http://www.philly.com/inquirer/columnists/steven_rea/Murder_botches_the_pot_party.html</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>This rambunctious paean to pot retains the trademark Apatow sweetness even as it careens from messy vulgarisms to even messier violence.</snippet>
+         <url>http://www.variety.com/review/VE1117937763.html?categoryid=31&amp;cs=1</url>
+         <critic>Justin Chang</critic>
+      </review>
+      <review>
+         <snippet>In the role of dramaturge, Rogen and his co-scripter Goldberg lack Apatow's discipline and deft hand for peripheral characters; the writing in Pineapple Express gets lazy whenever it strays too far from its central axis of players.</snippet>
+         <url>http://www.latimes.com/entertainment/news/movies/la-et-pineapple6-2008aug06,0,6807925.story</url>
+         <critic>Jan Stuart</critic>
+      </review>
+      <review>
+         <snippet>It's an unshowy, generous performance [by Franco] and it greatly humanizes a movie that, as it shifts genre gears and cranks up the noise, becomes disappointingly sober and self-serious.</snippet>
+         <url>http://movies.nytimes.com/2008/08/06/movies/06pine.html?ref=movies</url>
+         <critic>Manohla Dargis</critic>
+      </review>
+      <review>
+         <snippet>Let's be honest; a great deal of the sh-- you find funny when you're high really isn't (as anyone who's smoked a few bowls and laughed like a hyena to "Assy McGee" can attest). So hopefully nobody will be too disappointed when I tell them that "Express" is largely hit and miss.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=11138</url>
+         <critic>Pete Vonder Haar</critic>
+      </review>
+      <review>
+         <snippet>The problem, dare I say it, is that the movie just ... isn't ... that ... funny.</snippet>
+         <url>http://www.laweekly.com/film+tv/film/bad-trips-pineapple-express-transsiberian/19361/</url>
+         <critic>Scott Foundas</critic>
+      </review>
+      <review>
+         <snippet>Goony, so-so comedy.</snippet>
+         <url>http://www.csmonitor.com/2008/0809/p25s03-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>Watching this is like watching kids play with Hot Wheels--not a bad time at all, but I wouldn't pay ten bucks for it.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/33395_PINEAPPLE_EXPRESS.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>But it IS a movie about dopes: goofy guys, born without the ambition gene, and who would not survive a minute in the drug world, or the real one, without the guardian angel of a scriptwriter hovering to think them out of scrapes.</snippet>
+         <url>http://www.time.com/time/arts/article/0,8599,1829767,00.html</url>
+         <critic>Richard Corliss</critic>
+      </review>
+      <review>
+         <snippet>As an action comedy, it's just a bad trip.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/reviews/bal-to.pineapple06aug06,0,1098436.story</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>When "Pineapple" goes from ganja to genre, it sours.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2008/08/06/2008-08-06_friends_in_weed_a_poor_film_indeed_with_.html</url>
+         <critic>Joe Neumaier</critic>
+      </review>
+      <review>
+         <snippet>The picture is resolutely unhip and proud of it, which can be a good thing in the right hands or, in the wrong ones, just a gimmick. Nearly everything about Pineapple Express is a gimmick.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2008/08/06/pineapple/</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>It's empty and formulaic, with plotting that's lazy even by stoner-comedy standards. Without all the yuck-o sight gags, it would be a huge bummer.</snippet>
+         <url>http://nymag.com/movies/reviews/48934/</url>
+         <critic>David Edelstein</critic>
+      </review>
+   </reviews>
+   <US_Gross>$87,341,380</US_Gross>
+   <production_budget>$26,000,000</production_budget>
+   <weekend_gross>$41,318,736</weekend_gross>
+   <number_of_screens>3,072</number_of_screens>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Slow Burn</name>
+   <company>Lions Gate Films</company>
+   <genres>
+      <genre>Drama</genre>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>Wayne Beach</author>
+      <author>Anthony Walton</author>
+   </authors>
+   <directors>
+      <director>Wayne Beach</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Ray Liotta</actor>
+      <actor>LL Cool J</actor>
+      <actor>Mekhi Phifer</actor>
+      <actor>Jolene Blalock</actor>
+      <actor>Guy Torry</actor>
+      <actor>Taye Diggs</actor>
+      <actor>Chiwetel Ejiofor</actor>
+      <actor>Bruce McGill</actor>
+   </actors>
+   <release_date>April 13, 2007</release_date>
+   <running_time>93</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>Beach blends all the performing styles smoothly: LL's blithe coolness, Blalock's sultry ambiguity, Liotta's slow-boiling intensity, Ejiofor's dapper amiability, Phifer's brooding intensity.</snippet>
+         <url>http://ae.miami.com/entertainment/ui/miami/movie.html?id=851994&amp;reviewId=22401&amp;startDate=04%2F17%2F2007</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>A strange, sprained, but sprightly fusion of "The Usual Suspects" and the "Tragic Mulatto," Slow Burn wants badly to turn its standard neo-noir into a nuanced racial chiaroscuro.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20035650,00.html</url>
+         <critic>Scott Brown</critic>
+      </review>
+      <review>
+         <snippet>What results are surprises without sustenance.</snippet>
+         <url>http://www.avclub.com/content/cinema/slow_burn</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>No one and nothing can be taken at face value in Beach's twisty tale of secrets and lies, which buries its very interesting idea in a welter of ludicrous dialogue and skin-flick imagery.</snippet>
+         <url>http://www.tvguide.com/movies/slow-burn/review/287349</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>Yep, it’s Keyser Soze time.</snippet>
+         <url>http://www.laweekly.com/film+tv/film-reviews/film-reviews-disturbia-perfect-stranger-and-more/16117/?page=3</url>
+         <critic>Luke Y. Thompson</critic>
+      </review>
+      <review>
+         <snippet>What begins as a moderately interesting set of interconnected mysteries involving race and identity soon grows eye-rollingly laborious, not to mention increasingly derivative of Christopher McQuarrie's "Usual Suspects" script.</snippet>
+         <url>http://www.variety.com/review/VE1117928335.html?categoryid=31&amp;cs=1&amp;p=0</url>
+         <critic>Eddie Cockrell</critic>
+      </review>
+      <review>
+         <snippet>The sort of cheesy thriller that would prove mildly diverting on late-night cable, Slow Burn at least features a terrific cast to enliven its familiar elements.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?JSESSIONID=0chqGhYTWR1P82YnjlD46LdvdGnsHzlXQ1x45L1Hy0hTNn0gwvsf!176547057&amp;&amp;rid=9044</url>
+         <critic>Frank Scheck</critic>
+      </review>
+      <review>
+         <snippet>A veritable rip-off of 1995's "The Usual Suspects," Beach's crime caper not-so-subtly apes Bryan Singer's use of multiple red herrings and flashback-heavy interrogation scenes, but lacks the stylistic flair and sophisticated narrative skills to pull off a similar feat of cinematic intrigue.</snippet>
+         <url>http://www.boston.com/ae/movies/articles/2007/04/14/in_slow_burn_theres_smoke_but_little_fire/</url>
+         <critic>Michelle Kung</critic>
+      </review>
+      <review>
+         <snippet>An amusingly preposterous last act keeps you guessing, or maybe keeps you ducking, as it lets rip an avalanche of startling revelations and double-crosses. Nothing is what it seems - unless it seems cheesy.</snippet>
+         <url>http://www.nypost.com/seven/04142007/entertainment/movies/when_half_baked__add_cheese_movies_kyle_smith.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>Beach's storytelling tactics, much like the film as a whole, would simply be annoying if they weren't also borderline insulting.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-slowburn16apr16,0,6338812.story?coll=cl-mreview</url>
+         <critic>Mark Olsen</critic>
+      </review>
+      <review>
+         <snippet>Shelved for over a year, this incompetent mystery thriller stops periodically so some character or other can deliver an expository speech and pull the plot back on track, but by the end the story has turned into a hair ball.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/31416_SLOW_BURN.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>For all it does right, there's something seriously wrong.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2007/04/16/DDGAVP7VV71.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>A wooden police thriller that is as dull as it is impenetrable and ultimately beyond ludicrous.</snippet>
+         <url>http://movies2.nytimes.com/2007/04/14/movies/14burn.html?ref=movies</url>
+         <critic>Stephen Holden</critic>
+      </review>
+      <review>
+         <snippet>The cast, particularly Liotta, walk around with befuddled expressions on their faces, perhaps wondering what on earth they’re doing in this movie and how they can find a new agent ASAP.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A464356</url>
+         <critic>Toddy Burton</critic>
+      </review>
+   </reviews>
+   <US_Gross>$1,237,615</US_Gross>
+   <production_budget>$15,500,000</production_budget>
+   <weekend_gross>$778,123</weekend_gross>
+   <number_of_screens>1,163</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

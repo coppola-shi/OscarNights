@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Shrek the Third</name>
+   <company>DreamWorks Distribution</company>
+   <genres>
+      <genre>Animation</genre>
+      <genre>Comedy</genre>
+      <genre>FamilyKids</genre>
+      <genre>Fantasy</genre>
+   </genres>
+   <authors>
+      <author>Jeffrey Price, Peter S. Seaman and Jon Zack</author>
+      <author>Andrew Adamson</author>
+      <author>William Steig</author>
+   </authors>
+   <directors>
+      <director>Chris Miller</director>
+      <director>Raman Hui</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Mike Myers</actor>
+      <actor>Eddie Murphy</actor>
+      <actor>Cameron Diaz</actor>
+      <actor>Antonio Beras</actor>
+      <actor>Julie Andrews</actor>
+      <actor>John Cleese</actor>
+      <actor>Rupert Everett</actor>
+      <actor>Eric Idle</actor>
+      <actor>Justin Timberlake</actor>
+   </actors>
+   <release_date>May 18, 2007</release_date>
+   <running_time>92</running_time>
+   <rating>PG</rating>
+   <reviews>
+      <review>
+         <snippet>So far in this year's cartoon feature sweepstakes, Shrek the Third rules.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-to.shrek18may18,0,6568910.story?coll=bal-artslife-movies</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>Computer-generated animated movies with wall-to-wall jokes can be excruciating, but these jokes are the funniest money can buy.</snippet>
+         <url>http://nymag.com/movies/reviews/32116/index1.html</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>After a buoyantly funny first half-hour, stylish animated comedy takes a breather before ramping it up again for a rambunctious, girrrl-power finale that provides a convenient springboard for further adventures to come.</snippet>
+         <url>http://www.variety.com/review/VE1117933588.html?categoryid=31&amp;cs=1</url>
+         <critic>Todd McCarthy</critic>
+      </review>
+      <review>
+         <snippet>Shrek the Third seems at once more energetic and more relaxed, less desperate to prove its cleverness and therefore to some extent smarter.</snippet>
+         <url>http://movies2.nytimes.com/2007/05/18/movies/18shre.html?ref=movies</url>
+         <critic>A.O. Scott</critic>
+      </review>
+      <review>
+         <snippet>The world of the fanciful fable looks particularly vibrant this time with its signature blend of realism and fantasy. It is a pleasure to watch these fairy tale folk be themselves -- yet again.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2007-05-16-shrek-the-third_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>The journey is not very exciting, but the destinations are inspired.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=7801</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>Mostly connects with a fairly tight story -- even if it feels less like a movie and more like a really good episode of a "Shrek" TV series.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/1179357948225700.xml&amp;coll=7</url>
+         <critic>M. E. Russell</critic>
+      </review>
+      <review>
+         <snippet>Gets back the mood, the pleasure and even some of the freshness of its first installment.</snippet>
+         <url>http://sfgate.com/cgi-bin/article.cgi?f=/c/a/2007/05/17/DDGAHPS1V225.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>Brings back the characters you may have loved, as I did, in the earlier movies: My particular faves are Antonio Banderas' poon-hound Puss-in-Boots.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2007/05/18/shrek_3/index.html</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>I love the princess squad.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20038934,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>Shrek, DreamWorks' big green cash machine, has finally run dry, perhaps not of box office power, but most assuredly of the caustic, fractured fairy tale-isms and the wry, snarky wit that made the first film, and to a lesser degree, the first sequel, so winning.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A474893</url>
+         <critic>Marc Savlov</critic>
+      </review>
+      <review>
+         <snippet>Four words say all that needs to be said about Shrek the Third: more of the same.</snippet>
+         <url>http://www.reelviews.net/movies/s/shrek3.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>The big new addition in Shrek the Third is Justin Timberlake as the high school-age future King Arthur, but if Timberlake contributed a song to the soundtrack it would have to be "WhinyBack."</snippet>
+         <url>http://www.nypost.com/seven/05172007/entertainment/movies/were_ogre_it__movies_kyle_smith.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>What does set Shrek the Third apart is the quality of its animation, which reaches a level of expressiveness in the faces that would make even Hollywood's heavily Botoxed live-action stars envious.</snippet>
+         <url>http://ae.charlotte.com/entertainment/ui/charlotte/movie.html;jsessionid=8BB998709E1ABB60EDE0D3234B4F7311.prodapp15_ae_01?id=340959&amp;reviewId=22448</url>
+         <critic>Peter Debruge</critic>
+      </review>
+      <review>
+         <snippet>It's not all bad. There is a funny early sequence where Prince Charming is being jeered for his lousy cabaret act in a village pub and a hilarious death-lily scene with the bullfrog King Harold (John Cleese) trying to squeak out the name of his heir while snapping up one last fly.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2007/05/17/2007-05-17_green_guys_feeling_ogre_and_done_with.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>A damped-down return to the Kingdom of Far Far Away, lacking the comic energy of the first brilliant film and not measuring up to the second.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20070517/REVIEWS/70516001</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>The plot material isn't as strong as in the first two movies--if anything, it feels a bit desperate--but the anti-Disney joke blunderbuss remains in good working order.</snippet>
+         <url>http://www.newyorker.com/arts/critics/cinema/2007/05/28/070528crci_cinema_denby</url>
+         <critic>David Denby</critic>
+      </review>
+      <review>
+         <snippet>Much of the bite and a good deal of the wit of the first two films are missing here. The rude send-up of beloved fairy tale conventions remains -- somewhat -- but these playful jabs no longer come as pleasing surprises. You expect them. And you expect better.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?JSESSIONID=2mn5GCjVMyKJMnrvvrvTPLgJXCbMzj1JkxN7y8n5VNJTynWxfvFJ!1225364651&amp;&amp;rid=9165</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>A fairly underwhelming experience for man or child -- not so much bad as just more of the same, with little of the original's novelty or freshness.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/316145_shrek18q.html</url>
+         <critic>William Arnold</critic>
+      </review>
+      <review>
+         <snippet>The law of diminishing returns is no more apparent than in the movie world. A sequel, with rare exceptions, is worse than the film it follows, and sequels of sequels fare even worse. Such is the case with Shrek the Third.</snippet>
+         <url>http://www.csmonitor.com/2007/0518/p11s03-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>There's no disguising the fact that Shrek the Third has come down with a bad case of sequelitis. You know the symptoms: Lots of razzle-dazzle to distract from the hole at the center of the story. You know, the place where fresh ideas should be.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/7222872/review/14501519/shrek_the_third</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>The end result of Shrek the Third is that you laugh a lot and you go home grumpy.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1109280&amp;categories=Movies&amp;nm=1</url>
+         <critic>Stephen Hunter</critic>
+      </review>
+      <review>
+         <snippet>I doubt even rabid fans of the first two will consider Shrek the Third a worthy addition to the franchise.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-070518-movies-review-shrek,0,2872312.story?coll=mmx-movies_top_heds</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>Blinded by avarice and all out of ideas, once again, Hollywood can't tell when enough is way more than enough.</snippet>
+         <url>http://www.villagevoice.com/film/0720,taylor,76671,20.html</url>
+         <critic>Ella Taylor</critic>
+      </review>
+      <review>
+         <snippet>Has its moments... But does a kids' movie really need, among other similar touches, a Hooters joke? I, for one, wouldn't want to have to explain it.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/la-et-shrek18may18,0,6948043.story?coll=cl-mreview</url>
+         <critic>Carina Chocano</critic>
+      </review>
+      <review>
+         <snippet>This latest iteration of DreamWorks's money machine has its ups and downs, its longueurs along with its felicities, plus an abiding preoccupation with poop.</snippet>
+         <url>http://online.wsj.com/article/SB117944298519306854.html</url>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>The only thing majestic about Shrek the Third is the title.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20070517.wshrek18/BNStory/Entertainment/home</url>
+         <critic>Rick Groen</critic>
+      </review>
+      <review>
+         <snippet>Reason to make Shrek the Third: Probable earnings of $400 million worldwide. Reasons not to make Shrek the Third: Played-out characters. Bland villain. Novice directors. Slipshod plotting. No compelling story or emotional depth.</snippet>
+         <url>http://ae.charlotte.com/entertainment/ui/charlotte/movie.html?id=340959&amp;reviewId=22451&amp;startDate=NEXT7</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>The big green babysitter is back, but the charm has evaporated.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/31601_SHREK_THE_THIRD.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>The real trouble is that the filmmakers consistently choose gags over character.</snippet>
+         <url>http://www.tvguide.com/movies/shrek/review/287655</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>Somewhat of an improvement over the last one, though it still never veers off familiar terrain. Essentially, if you've only seen one "Shrek" film, you've seen them all.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=10003</url>
+         <critic>Michael Ferraro</critic>
+      </review>
+      <review>
+         <snippet>Shrek the Third isn't a movie, it's the extension of a brand.</snippet>
+         <url>http://www.philly.com/philly/entertainment/movies/20070516_With_his_slime-time_appetites_and_don_t-bother-me_attitude__Shrek__the_Grumpy_Green_Ogre__was_the_perfect_antidote_to_that_eat-your-vegetables_cheer_of_spokesmodel_the_Jolly_Green_Giant_.html</url>
+         <critic>Carrie Rickey</critic>
+      </review>
+      <review>
+         <snippet>Another summer threequel, another case of slipping standards – not so much in the visuals, which remain predictably impressive, but in the all-important gag rate. To waste both Donkey and Puss is a crime…</snippet>
+         <url>http://www.empireonline.com/reviews/review.asp?FID=11094</url>
+         <critic>Dan Jolin</critic>
+      </review>
+      <review>
+         <snippet>It's just a spectacularly lazy movie that's content to trod the same well-worn ground as its predecessors.</snippet>
+         <url>http://www.premiere.com/moviereviews/3810/shrek-the-third.html</url>
+         <critic>Ethan Alter</critic>
+      </review>
+      <review>
+         <snippet>Shrek The Third instead goes for less: fewer jokes, less energy, and toned-down characters.</snippet>
+         <url>http://www.avclub.com/content/cinema/shrek_the_third</url>
+         <critic>Tasha Robinson</critic>
+      </review>
+   </reviews>
+   <US_Gross>$322,719,944</US_Gross>
+   <production_budget>$160,000,000</production_budget>
+   <weekend_gross>$122,536,609</weekend_gross>
+   <number_of_screens>4,122</number_of_screens>
+   <oscar_winning_actors_present/>
+   <num_oscar_winning_actors>1</num_oscar_winning_actors>
+   <oscar_winning_actor>julie andrews</oscar_winning_actor>
+   <highest_grossing_actors_present/>
+   <num_highest_grossing_actors>3</num_highest_grossing_actors>
+   <highest_grossing_actor>eddie murphy</highest_grossing_actor>
+   <highest_grossing_actor>mike myers</highest_grossing_actor>
+   <highest_grossing_actor>cameron diaz</highest_grossing_actor>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

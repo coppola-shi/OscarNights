@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Best of Youth, The</name>
+   <company>Miramax Films</company>
+   <genres>
+      <genre>Drama</genre>
+      <genre>Foreign</genre>
+   </genres>
+   <authors>
+      <author>Sandro Petraglia</author>
+      <author>Stefano Rulli</author>
+   </authors>
+   <directors>
+      <director>Marco Tullio Giordana</director>
+   </directors>
+   <origins>
+      <origin>Italy</origin>
+   </origins>
+   <actors>
+      <actor>Luigi Lo Cascio</actor>
+      <actor>Alessio Boni</actor>
+      <actor>Adriana Asti</actor>
+      <actor>Sonia Bergamasco</actor>
+      <actor>Fabrizio Gifuni</actor>
+      <actor>Maya Sansa</actor>
+      <actor>Valentina Carnelutti</actor>
+      <actor>Jasmine Trinca</actor>
+   </actors>
+   <release_date>March 2, 2005</release_date>
+   <running_time>358</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>This is epic filmmaking on a profoundly human scale, directed to perfection and magnificently acted by everyone in sight.</snippet>
+         <url>http://www.csmonitor.com/2005/0304/p14s01-almo.html</url>
+         <critic>David Sterritt</critic>
+      </review>
+      <review>
+         <snippet>Smart, generous, as subtle as it is expansive, this is storytelling of a rare order. Six hours may seem like a big investment, but the emotional pay-back is beyond price.</snippet>
+         <url>http://www.msnbc.msn.com/id/7090935/site/newsweek/</url>
+         <critic>David Ansen</critic>
+      </review>
+      <review>
+         <snippet>Like a great novel from a more expansive bygone age, The Best of Youth is full of big thoughts; like a great soap opera, it's also full of sharp plot turns, vibrant characters, and great talk. It is, in short, the best of cinema.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1036441_1_0_,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>Those who see it will, quite frankly, not believe their luck. It is that satisfying, that engrossing, that good.</snippet>
+         <url>http://www.calendarlive.com/movies/turan/cl-et-youth18mar18,2,2413402.story</url>
+         <critic>Kenneth Turan</critic>
+      </review>
+      <review>
+         <snippet>A major cinema event of the year, a masterpiece of Italian film traditions in social/political realism and historical family epic.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-050331-movies-review-mw-youth.story</url>
+         <critic>Michael Wilmington</critic>
+      </review>
+      <review>
+         <snippet>It is a luxury to be enveloped in a good film.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20050331/REVIEWS/50310004</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>So in-depth, so appealing, so easy to sit through and so anomalously grand scale that few who see it will ever forget it.</snippet>
+         <url>http://sfgate.com/cgi-bin/article.cgi?f=/c/a/2005/03/31/DDG4AC0BEV1.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>Giordana's redemptive vision provides a sense of discovery and a well of hope in the most devastating of troubles, and beautiful surprises in love, friendship and family.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/224022_limited13.html</url>
+         <critic>Sean Axmaker</critic>
+      </review>
+      <review>
+         <snippet>In exchange for a small piece of your life, you receive an infinity.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/111641046592140.xml&amp;coll=7</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>The Best of Youth takes its chance--almost unheard of, these days--to bloom and unfurl like a novel.</snippet>
+         <url>http://www.newyorker.com/critics/cinema/?050425crci_cinema</url>
+         <critic>Anthony Lane</critic>
+      </review>
+      <review>
+         <snippet>The story unfolds at such length and over so many years that politics tend to fade into the wallpaper, leaving an exceptionally rich family story.</snippet>
+         <url>http://spacefinder.chicagoreader.com/movies/critic.html#27614</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>And like all great family sagas, The Best of Youth, while tipping its hat to the painful confusion of living life forward, reels it backward to give it the thrilling significance of time and place.</snippet>
+         <url>http://www.laweekly.com/ink/05/17/film-taylor.php</url>
+         <critic>Ella Taylor</critic>
+      </review>
+      <review>
+         <snippet>This is a graceful and enveloping feat of filmmaking.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2005/03/03/youth/index.html</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>The Best of Youth doesn't have a boring millisecond. It isn't an art film, with longueurs; it's a mini-series with the sweep of a classic novel, with tons of plot.</snippet>
+         <url>http://www.slate.com/id/2114315/</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>At nearly six hours, pic's extreme length lets Giordana and screenwriters Sandro Petraglia and Stefano Rulli build up a novelistic rhythm, pulling the audience so deeply and forcefully into their story that it becomes like a enveloping dream; when it's over, parting with the characters is truly sweet and sorrowful.</snippet>
+         <url>http://www.variety.com/index.asp?layout=cannes2003&amp;content=review&amp;reviewid=VE1117920985&amp;categoryid=1273&amp;cs=1</url>
+         <critic>Scott Foundas</critic>
+      </review>
+      <review>
+         <snippet>After all the observations on heartache, politics, art, commerce, passion, identity, mortality, even mental health, six hours begin to seem downright compact.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/moviereviews/story/286551p-245230c.html</url>
+         <critic>Jami Bernard</critic>
+      </review>
+      <review>
+         <snippet>The acting is electric. By the end of this haunting, hypnotic film, you feel you have watched lives being lived, not just imagined.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/_/id/6166647?pageid=rs.Home&amp;pageregion=double1</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>A slowly flowering miracle: an epic of normal life.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=6943</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>Works as both historical allegory and moving family drama.</snippet>
+         <url>http://www.washingtonpost.com/wp-dyn/content/article/2005/06/02/AR2005060200797.html</url>
+         <critic>Michael O&amp;#039;Sullivan</critic>
+      </review>
+      <review>
+         <snippet>Eminently watchable, The Best of Youth nonetheless lacks the devastating emotional gut punch of its obvious inspiration, Visconti's "Rocco and His Brothers."</snippet>
+         <url>http://listings.dallasobserver.com/gyrobase/Film/ShowFilm</url>
+         <critic>Michael Fox</critic>
+      </review>
+      <review>
+         <snippet>Rarely have six hours spent doing ANYTHING seemed so rewarding.</snippet>
+         <url>http://tvguide.com/movies/database/ShowMovie.asp?MI=44974</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>Lo Cascio and Boni inhabit their roles with keen intellectual and emotional vigor.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1982855</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>The movie has the addictive episodic intimacy of great TV.</snippet>
+         <url>http://www.villagevoice.com/film/0509,winter1,61594,20.html</url>
+         <critic>Jessica Winter</critic>
+      </review>
+      <review>
+         <snippet>Full of nuance and complexity, but it is also as accessible and engrossing as a grand 19th-century novel.</snippet>
+         <url>http://movies2.nytimes.com/2005/03/02/movies/02yout.html</url>
+         <critic>Dana Stevens</critic>
+      </review>
+      <review>
+         <snippet>Like some wines, The Best of Youth travels well. From its earliest moments the film is intelligently seen.</snippet>
+         <url>http://www.tnr.com/doc.mhtml%3Fi%3D20050314%26s%3Dkauffmann031405</url>
+         <critic>Stanley Kauffmann</critic>
+      </review>
+      <review>
+         <snippet>A big, family-style Italian dinner, catered to the broadest tastes, yet satisfying all the same.</snippet>
+         <url>http://www.theavclub.com/review_pop.php?review_id=8326</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>All the pieces converge in a powerful rush during the second half.</snippet>
+         <url>http://www.nypost.com/movies/41593.htm</url>
+         <critic>Russell Scott Smith</critic>
+      </review>
+      <review>
+         <snippet>If you've got six hours to invest watching superior television in a movie theatre, then spend the time wisely with The Best of Youth.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/ArticleNews/TPStory/LAC/20050513/YOUTH13/TPEntertainment/Film</url>
+         <critic>Rick Groen</critic>
+      </review>
+   </reviews>
+   <US_Gross>$270,810</US_Gross>
+   <weekend_gross>$9,490</weekend_gross>
+   <number_of_screens>1</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

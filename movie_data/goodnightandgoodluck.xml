@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Good Night, and Good Luck</name>
+   <company>Warner Independent Pictures</company>
+   <genres>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author>George Clooney</author>
+      <author>Grant Heslov</author>
+   </authors>
+   <directors>
+      <director>George Clooney</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>David Strathairn</actor>
+      <actor>George Clooney</actor>
+      <actor>Robert Downey Jr.</actor>
+      <actor>Patricia Clarkson</actor>
+      <actor>Frank Langella</actor>
+      <actor>Jeff Daniels</actor>
+      <actor>Ray Wise</actor>
+      <actor>Reed Diamond</actor>
+   </actors>
+   <release_date>October 7, 2005</release_date>
+   <running_time>93</running_time>
+   <rating>PG</rating>
+   <reviews>
+      <review>
+         <snippet>Vividly re- creates TV news icon Edward R. Murrow's historic face-off with Sen. Joseph McCarthy in devastatingly low-key detail -- is the right movie at the right time.</snippet>
+         <url>http://www.nypost.com/movies/28345.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>It's a passionate, serious, impeccably crafted movie tackling a subject Clooney cares about deeply: the duty of journalism to speak truth to power. It also happens to be the most compelling American movie of the year so far.</snippet>
+         <url>http://www.msnbc.msn.com/id/9555148/site/newsweek/</url>
+         <critic>David Ansen</critic>
+      </review>
+      <review>
+         <snippet>The biggest little movie of the year - and one of the best ever about the news media.</snippet>
+         <url>http://www.nydailynews.com/10-07-2005/entertainment/col/story/353343p-301106c.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>The only things missing from making this showdown worthy of a Western is Murrow's sheriff's badge, a dusty street and maybe a spittoon for McCarthy's infamous invectives.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2005-10-06-good-luck_x.htm</url>
+         <critic>Mike Clark</critic>
+      </review>
+      <review>
+         <snippet>A riveting movie that's as entertaining as it is socially and politically important.</snippet>
+         <url>http://dallasobserver.com/Issues/2005-10-13/film/film.html</url>
+         <critic>Jean Oppenheimer</critic>
+      </review>
+      <review>
+         <snippet>You go to Good Night, and Good Luck expecting inspiration, and you get it. It's also unexpectedly subtle, tense, and challenging, complex both in its take on its subject and in its craftsmanship. So the movie brings you to your feet - and, at times, to tears.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-to.good14oct14,1,1054661.story?coll=bal-artslife-movies</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>The other key character is McCarthy himself, and Clooney uses a masterstroke: He employs actual news footage of McCarthy, who therefore plays himself.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20051020/REVIEWS/51005004</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>It'll preach mainly to the choir - lazy thinkers won't attend, despite George Clooney's attachment as director and actor - but maybe it'll wake a few sleepers.</snippet>
+         <url>http://ae.charlotte.com/entertainment/ui/charlotte/movie.html?id=435582&amp;reviewId=19308&amp;startDate=NEXT7</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>A paragon of subtlety. Yet this message is exactly what we carry out of the theater, and it lingers on with a powerful resonance.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/244487_goodnight14q.html</url>
+         <critic>William Arnold</critic>
+      </review>
+      <review>
+         <snippet>This is an elegant and stirring entertainment about the hard-drinking, hard-smoking reporters of "See It Now," the show that Murrow and the producer Fred Friendly put together every week.</snippet>
+         <url>http://www.newyorker.com/critics/cinema/?051010crci_cinema</url>
+         <critic>David Denby</critic>
+      </review>
+      <review>
+         <snippet>He [Clooney] has found a cogent subject, an urgent set of ideas and a formally inventive, absolutely convincing way to make them live on screen.</snippet>
+         <url>http://movies2.nytimes.com/2005/09/23/movies/23luck.html?ex=1128571200&amp;en=948c4bf5aad827a2&amp;ei=5070&amp;pagewanted=all</url>
+         <critic>Dana Stevens</critic>
+      </review>
+      <review>
+         <snippet>Couldn't be more unlikely, more unfashionable -- or more compelling.</snippet>
+         <url>http://www.calendarlive.com/movies/turan/cl-et-goodnight7oct07,0,7713866.story</url>
+         <critic>Kenneth Turan</critic>
+      </review>
+      <review>
+         <snippet>Langella is terrific in a small but critical role as CBS president William Paley, although the one essential problem with the film is that it never clearly delineates the jobs fulfilled by the cluster of other newsroom employees that are always huddled about.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A301355</url>
+         <critic>Marjorie Baumgarten</critic>
+      </review>
+      <review>
+         <snippet>David Strathairn, playing Murrow, follows his writers' lead beautifully, delivering a performance that's all understatement on the surface and searing fire underneath.</snippet>
+         <url>http://www.premiere.com/article.asp?section_id=2&amp;article_id=2352</url>
+         <critic>Glenn Kenny</critic>
+      </review>
+      <review>
+         <snippet>In ninety-three tight, terrifically exciting minutes, Clooney makes integrity look mighty sexy.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/_/id/7488220?pageid=rs.ReviewsMovieArchive&amp;pageregion=mainRegion</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>Urgent and stunning movie.</snippet>
+         <url>http://ae.philly.com/entertainment/ui/philly/movie.html?id=435582&amp;reviewId=19266</url>
+         <critic>Carrie Rickey</critic>
+      </review>
+      <review>
+         <snippet>Like other actors who successfully create a cinematic doppelganger of a real person, Strathairn gets under the character's skin.</snippet>
+         <url>http://movie-reviews.colossus.net/movies/g/good_night.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>That the film should have the look and feel of a classic teleplay by, say, Rod Serling, is probably no accident -- the style is one more reminder of just how regrettably short of Murrow's vision we've fallen.</snippet>
+         <url>http://online.tvguide.com/movies/database/ShowMovie.asp?MI=46423</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>A puzzle: a hermetically sealed period piece so intensely relevant to our current state of affairs that it takes your breath away.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=8255</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>An unusual and absorbing, if somewhat preachy film.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/1129114871147840.xml&amp;coll=7</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>A solid achievement, but those in the press who have been trumpeting its greatness may be going in for a bit of self-congratulation. The movie plays very well to the choir.</snippet>
+         <url>http://www.csmonitor.com/2005/1007/p14s02-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>Good Night, and Good Luck has a small-scale time-capsule fascination, yet its hermeticism is really a form of moral caution -- a way of keeping the issues neat, the liberal idealism untainted.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1114278_1_0_,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>Good Night, and Good Luck's primary handicap is history itself -- the toe-to-toe televised dialogue between McCarthy and Murrow was, however arguably vital to the Wisconsin senator's eventual retreat, brief and less than epochal. Even so, the wonderfully mustered context wins out.</snippet>
+         <url>http://www.villagevoice.com/film/0540,atkinson1,68554,20.html</url>
+         <critic>Michael Atkinson</critic>
+      </review>
+      <review>
+         <snippet>Many movies these days are too long; this one, at 90 minutes, feels too short. That's because its purpose is so sharply defined: a tight close-up, in black and white, of a single, seminal moment -- a black and white moment -- in American history, and American journalism.</snippet>
+         <url/>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>It doesn't sacrifice craftsmanship and elegance at the altar of its strong convictions.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2005/09/23/good_night_good_luck/index.html?sid=1392609</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>A vital chapter of mid-century history is brought to life concisely, with intimacy and matter-of-fact artistry.</snippet>
+         <url>http://www.variety.com/review/VE1117928030?categoryid=31&amp;cs=1</url>
+         <critic>Todd McCarthy</critic>
+      </review>
+      <review>
+         <snippet>A passionate and rousing piece of filmmaking--a civics lesson with the punch of a good melodrama.</snippet>
+         <url>http://www.slate.com/id/2127502/?nav=fo</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>Provocative, principled and richly detailed, this is compelling stuff. Emotionally it’s a little dry, but as brain-food, it’s absolutely invigorating.</snippet>
+         <url>http://www.empireonline.com/incinemas/ReviewComplete.asp?FID=11368</url>
+         <critic>Simon Crook</critic>
+      </review>
+      <review>
+         <snippet>Good Night, and Good Luck may be simplified history, but it's almost consistently well-crafted.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/ArticleNews/TPStory/LAC/20051028/GOOD28/TPEntertainment/Film</url>
+         <critic>Liam Lacey</critic>
+      </review>
+      <review>
+         <snippet>An entertaining slice of American political and cultural history.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2005/10/07/DDGRNF31H21.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>The result, then, is good, not great. But it is hard to come by good films about media and politics, and why the intersection thereof matters so much in a democracy.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-0501021-movies-review-luck,0,4626785.story?coll=mmx-movies_top_heds</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>None-too-subtly implies Murrow could easily be talking about the present day.</snippet>
+         <url>http://ae.miami.com/entertainment/ui/miami/movie.html?id=435582&amp;reviewId=19278&amp;</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>Moviegoers who know their American political history will respond to the film's immediacy and forgive the film's tight focus and narrow view. Anyone hoping for an entertaining drama about newsmen and politics along the lines of "All the President's Men" will be disappointed.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1001053671</url>
+         <critic>Ray Bennett</critic>
+      </review>
+      <review>
+         <snippet>Where "Quiz Show" elevated its story to the level of Shakespearean tragedy, Clooney's film is too lightweight to reach such tragic heights. In part, it's too short--at 90 minutes, including musical interludes and lengthy monologues taken whole-cloth from the historical record, Good Night breezes by effortlessly when it really needs time and space to build up to appropriately epic dimensions.</snippet>
+         <url>http://avclub.com/content/node/41294</url>
+         <critic>Nathan Rabin</critic>
+      </review>
+      <review>
+         <snippet>Though I'm not fully convinced that cool and jazzy is the way to go with one of the great civil-rights battles of 20th-century America, George Clooney's elegantly muted take on Edward R. Murrow's fight with Joe McCarthy offers many riches, notably a wicked character study of Murrow and a sexy homage to the pleasures of teamwork when the team is a bunch of smart-ass liberal reporters making common cause against a wannabe dictator.</snippet>
+         <url>http://www.laweekly.com/film/film_results.php?showid=3589&amp;Sumbit.x=42&amp;Sumbit.y=9</url>
+         <critic>Ella Taylor</critic>
+      </review>
+      <review>
+         <snippet>Clooney may be a specialist in embattled camaraderie--he helped revive "Ocean's Eleven," after all--but as in that caper remake, there's no depth to these characterizations, and Downey and Clarkson are squandered in a goes-nowhere subplot about their secret marriage.</snippet>
+         <url>http://newyorkmetro.com/nymetro/movies/reviews/14451/</url>
+         <critic>Ken Tucker</critic>
+      </review>
+      <review>
+         <snippet>The film adopts, somewhat insidiously, the myth that life was simpler back in 1953 and '54, and it offers Murrow as a lesson for today.</snippet>
+         <url>http://www.chicagoreader.com/movies/archives/2005/1005/051021.html</url>
+         <critic>Jonathan Rosenbaum</critic>
+      </review>
+      <review>
+         <snippet>The film, therefore, is like a child's view of these events, untroubled by complexity, hungry for myth and simplicity.</snippet>
+         <url>http://www.washingtonpost.com/wp-dyn/content/article/2005/10/06/AR2005100602012.html</url>
+         <critic>Stephen Hunter</critic>
+      </review>
+      <review>
+         <snippet>There is more to the intertwined stories of Murrow and McCarthy than this simpleminded, rhetorically driven movie begins to encompass.</snippet>
+         <url>http://www.time.com/time/magazine/article/0,9171,1115640,00.html</url>
+         <critic>Richard Schickel</critic>
+      </review>
+      <review>
+         <snippet>Yet the McCarthy/Murrow conflict in the picture is not pressing enough--these days, anyway--to justify the considerable skill expended on it.</snippet>
+         <url>http://www.tnr.com/doc.mhtml?i=20051031&amp;s=kauffmann103105</url>
+         <critic>Stanley Kauffmann</critic>
+      </review>
+      <review>
+         <snippet>Clooney has littered his film with such a high quantity of mistakes that it is hard to know where exactly to begin finding fault.</snippet>
+         <url>http://www.filmthreat.com/Reviews.asp?Id=8010</url>
+         <critic>Phil Hall</critic>
+      </review>
+   </reviews>
+   <US_Gross>$31,501,218</US_Gross>
+   <production_budget>$7,000,000</production_budget>
+   <weekend_gross>$421,446</weekend_gross>
+   <number_of_screens>11</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

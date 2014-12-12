@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Sisterhood of the Traveling Pants, The</name>
+   <company>Warner Bros.</company>
+   <genres>
+      <genre>Adventure</genre>
+      <genre>Comedy</genre>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author>Delia Ephron</author>
+      <author>Elizabeth Chandler</author>
+      <author>Ann Brashares</author>
+   </authors>
+   <directors>
+      <director>Ken Kwapis</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Amber Tamblyn</actor>
+      <actor>Alexis Bledel</actor>
+      <actor>America Ferrera</actor>
+      <actor>Blake Lively</actor>
+      <actor>Jenna Boyd</actor>
+      <actor>Bradley Whitford</actor>
+      <actor>Nancy Travis</actor>
+      <actor>Rachel Ticotin</actor>
+   </actors>
+   <release_date>June 1, 2005</release_date>
+   <running_time>120</running_time>
+   <rating>PG</rating>
+   <reviews>
+      <review>
+         <snippet>The film succeeds on the strength of the four actresses, first and foremost America Ferrera, who beautifully essays the role of narrator Carmen.</snippet>
+         <url>http://www.premiere.com/article.asp?section_id=2&amp;article_id=2167</url>
+         <critic>Sara Brady</critic>
+      </review>
+      <review>
+         <snippet>It's okay for a grown movie critic to admit she cried freely and with great feeling for more than half the movie, and grinned like a dork through the remainder.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1067737_1_0_,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>The emotional story and fine acting are enough to make this a must-see movie for teen girls. The real surprise is that they can make a grown man cry.</snippet>
+         <url>http://www.washingtonpost.com/wp-dyn/content/article/2005/05/31/AR2005053101412.html</url>
+         <critic>Scott Moore</critic>
+      </review>
+      <review>
+         <snippet>Always sweet and sometimes surprisingly touching.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20050531/REVIEWS/50523001</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>You may not literally laugh or cry, as the ads promise. But you'll have a good time watching the dream-fulfilling denims make their comic-romantic rounds.</snippet>
+         <url>http://www.csmonitor.com/2005/0603/p14s02-almo.html</url>
+         <critic>David Sterritt</critic>
+      </review>
+      <review>
+         <snippet>More often then not, the relationships and performances are strong and moving, with an effect both breezy-fun and profound.</snippet>
+         <url>http://alliance.zap2it.com/custom/metromix/main_template/0,1846,8-25901-1,00.html</url>
+         <critic>Allison Benedikt</critic>
+      </review>
+      <review>
+         <snippet>It may set itself up as a girlie film with "Ya-Ya" mystics (complete with candles and chanting), but sheds that motif for a much more grounded (and satisfying) film.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/226514_pants01q.html</url>
+         <critic>Ellen A. Kim</critic>
+      </review>
+      <review>
+         <snippet>A junior chick flick. But unlike many of its more mature counterparts, it is emotionally affecting, avoiding the manipulation and formulaic camaraderie that often spoil the genre.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2005-05-31-traveling-pants_x.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>Although targeted primarily for girls in the 12-to-19-year old range, there's enough truth about friendship, love, and life in The Sisterhood of the Traveling Pants to offer solid entertainment to almost anyone who gives it a chance.</snippet>
+         <url>http://movie-reviews.colossus.net/movies/s/sisterhood_traveling.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>This is not a great film by any means, too filled with stock characters in stock situations for such praise. But if offers screen time for some fine young actresses, and addresses its story to an audience of teen girls who deserve something to identify with.</snippet>
+         <url>http://www.baltimoresun.com/features/lifestyle/bal-to.pants01jun01,1,3695639.story?coll=bal-movies-utility</url>
+         <critic>Chris Kaltenbach</critic>
+      </review>
+      <review>
+         <snippet>As female-bonding comfort food goes, ''Sisterhood" is that rare meal both adolescent girls and their mothers will be able to agree on.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=7021</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>Though the story may be cut from the same cloth as the female-empowering "Divine Secrets of the Ya-Ya Sisterhood," it's never as cute, cloying or overbearing as that movie eventually became.</snippet>
+         <url>http://www.nypost.com/movies/47501.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>Sisterhood is Stand by Me for girls, as sullen, plucky, melodramatic, exuberant, athletic, graceless, crafty, artistic, arrogant, modest, helpless and resourceful as its teenage heroines.</snippet>
+         <url>http://www.philly.com/mld/philly/entertainment/movies/11783104.htm</url>
+         <critic>Carrie Rickey</critic>
+      </review>
+      <review>
+         <snippet>An argument could be made that too many bad things happen to the good members of this sisterhood. The movie does occasionally teeter on the brink of soap opera, but then, so does life.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2005/06/01/DDGEGD033A1.DTL&amp;type=movies</url>
+         <critic>Ruthe Stein</critic>
+      </review>
+      <review>
+         <snippet>For such a mush-ball teen movie, The Sisterhood of the Traveling Pants carries a welcome amount of grown-up emotional truth.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/ArticleNews/TPStory/LAC/20050601/SISTER01/TPEntertainment/Film</url>
+         <critic>Liam Lacey</critic>
+      </review>
+      <review>
+         <snippet>Has its share of summery charms, including gorgeous postcard views of Santorini, an old-worldy Romeo-Juliet romance, and some particularly good performances by Tamblyn and Boyd.</snippet>
+         <url>http://www.calendarlive.com/movies/chocano/cl-et-sisterhood1jun01,0,7254067.story</url>
+         <critic>Carina Chocano</critic>
+      </review>
+      <review>
+         <snippet>Fortunately, director Ken Kwapis, who's done a lot of briskly unsentimental TV work with young people--"Malcolm in the Middle," most notably--knows how to avoid mawk, keeps the squawk to a minimum, and gets wonderful performances out of at least two of the sisterhood, "Gilmore Girls'" Alexis Bledel as the modest Lena, and America Ferrera ("Real Women Have Curves") as the stubborn Carmen.</snippet>
+         <url>http://newyorkmetro.com/nymetro/movies/reviews/11891/</url>
+         <critic>Ken Tucker</critic>
+      </review>
+      <review>
+         <snippet>Despite a few design flaws, "Pants" should wear well with its young female demo.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1000938450</url>
+         <critic>Michael Rechtshaffen</critic>
+      </review>
+      <review>
+         <snippet>Mixes satisfying dollops of fun, tears, travel, romance and lesson-learning in a handsome package whose two hours pass faster than many a grownup entertainment.</snippet>
+         <url>http://www.variety.com/review/VE1117927238?categoryid=31&amp;cs=1</url>
+         <critic>Dennis Harvey</critic>
+      </review>
+      <review>
+         <snippet>The multiple story lines can feel choppy, but the dialogue has snap, and the pants' powers never distract from the teenagers' emotions.</snippet>
+         <url>http://www.villagevoice.com/film/0522,tracking1,64451,20.html</url>
+         <critic>Ed Park</critic>
+      </review>
+      <review>
+         <snippet>Except for one manipulative deathbed scene, Ken Kwapis directs with sensitivity, steering the multiple story lines toward a satisfying conclusion.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/28055_SISTERHOOD_OF_THE_TRAVELING_PANTS.html</url>
+         <critic>Andrea Gronvall</critic>
+      </review>
+      <review>
+         <snippet>Of these four plots, the story of Carmen's blended family is by far the most consistently engaging, largely because of the vibrant presence of Ms. Ferrera.</snippet>
+         <url>http://movies2.nytimes.com/2005/06/01/movies/01sist.html?</url>
+         <critic>Lawrence Van Gelder</critic>
+      </review>
+      <review>
+         <snippet>May not be much more than a story about girlfriends growing up, and it's not going to score any points for edginess, but it's entertaining in a low-key, non-threatening kind of way.</snippet>
+         <url>http://www.filmthreat.com/Reviews.asp?Id=7549</url>
+         <critic>Pete Vonder Haar</critic>
+      </review>
+      <review>
+         <snippet>The easy, fast-talking rapport between the four young women is The Sisterhood’s biggest selling point. Too bad, then, that the premise demands they spend most of the film away from each other.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A272709</url>
+         <critic>Kimberley Jones</critic>
+      </review>
+      <review>
+         <snippet>The cast brings its by-the-numbers characters alive.</snippet>
+         <url>http://www.miami.com/mld/miamiherald/entertainment/movies/11777104.htm</url>
+         <critic>Connie Ogle</critic>
+      </review>
+      <review>
+         <snippet>Working from a deft script by Delia Ephron, director Ken Kwapis labors hard so that guys won't cringe (too much) as four teen girls, of different body types, pass along the same pair of lucky jeans during a summer of love and loss.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/_/id/6157606?pageid=rs.ReviewsMovieArchive&amp;pageregion=mainRegion</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>This is strictly a picture for the target audience, though it seems to hit that target regularly.</snippet>
+         <url>http://ae.charlotte.com/entertainment/ui/charlotte/movie.html?id=322368&amp;reviewId=18149&amp;startDate=NEXT7</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>By the film's halfway point, the subplots have all started to head in the most obvious directions imaginable, which is too bad, since they all have real potential. Ferrera's story of spending the summer as an out-of-place ethnic element in the milk-white suburbs stays interesting the longest, in large part thanks to her performance.</snippet>
+         <url>http://www.theavclub.com/review.php?review_id=8554</url>
+         <critic>Keith Phipps</critic>
+      </review>
+      <review>
+         <snippet>The result is a constant feeling of summary, saddled with four times the usual number of after-school issues. Tamblyn is a treat, playing intelligence and anger, and there are some real moments of connection between characters, but the film is hysterical with self-promotion.</snippet>
+         <url>http://listings.dallasobserver.com/gyrobase/Film/ShowFilm</url>
+         <critic>Melissa Levine</critic>
+      </review>
+      <review>
+         <snippet>The finale goes on and on, but the movie is nicely photographed (by John Bailey) and duly empowering, and should please the vast teen-girl audience for which it's intended.</snippet>
+         <url>http://www.laweekly.com/film/film_results.php?showid=3427&amp;Sumbit.x=37&amp;Sumbit.y=8</url>
+         <critic>Chuck Wilson</critic>
+      </review>
+      <review>
+         <snippet>Even while trying to access my inner giggly, dreamy adolescent, I found the movie as irritating as a chigger under the skin. The cast is pretty and inoffensive, with America Ferrera, using charisma and fierce emotions to stand out from the pack.</snippet>
+         <url>http://www.nydailynews.com/06-01-2005/news/gossip/story/314944p-269238c.html</url>
+         <critic>Jami Bernard</critic>
+      </review>
+      <review>
+         <snippet>Readers hate to see their favorites messed with by filmmakers, and though devotees will notice changes from Brashares' novel -- some slight and some more substantial -- the film remains true to the book's spirit, and the deviations shouldn't alienate them.</snippet>
+         <url>http://tvguide.com/movies/database/showmovie.asp?MI=46071</url>
+         <critic>Angel Cohn</critic>
+      </review>
+      <review>
+         <snippet>There are some engaging moments, but director Ken Kwapis fails to achieve a distinctive tone.</snippet>
+         <url>http://www.empireonline.co.uk/site/incinemas/ReviewInFull.asp?FID=11244</url>
+         <critic>Staff (Not credited)</critic>
+      </review>
+      <review>
+         <snippet>The girls in 'Traveling Pants' are only mannequins wearing someone else's clothes. They don't get inside your head, let alone your heart.</snippet>
+         <url>http://www.washingtonpost.com/wp-dyn/content/article/2005/06/02/AR2005060200833.html</url>
+         <critic>Michael O&amp;#039;Sullivan</critic>
+      </review>
+   </reviews>
+   <US_Gross>$39,053,061</US_Gross>
+   <production_budget>$25,000,000</production_budget>
+   <weekend_gross>$13,575,149</weekend_gross>
+   <number_of_screens>2,583</number_of_screens>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

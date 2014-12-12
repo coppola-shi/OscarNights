@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Hammer, The</name>
+   <company>Independent Film Circuit</company>
+   <genres>
+      <genre>Comedy</genre>
+   </genres>
+   <authors>
+      <author>Adam Carolla</author>
+      <author>Kevin Hench</author>
+   </authors>
+   <directors>
+      <director>Charles Herman-Wurmfeld</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Adam Carolla</actor>
+      <actor>Oswaldo Castillo</actor>
+      <actor>Jonathan Hernez</actor>
+      <actor>Harold House Moore</actor>
+      <actor>Heather Juergensen</actor>
+   </actors>
+   <release_date>March 21, 2008</release_date>
+   <running_time>minutes,</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>It's genuinely funny, oddly romantic and surprisingly engaging for what could easily have been an obnoxious vanity project.</snippet>
+         <url>http://www.tvguide.com/movies/hammer/review/292414</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>The Hammer benefits from Carolla's low-energy, low-impact style. He doesn't so much deliver quips as let them dribble out the side of his mouth.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2008/03/21/2008-03-21_the_hammer_wins_with_nice_combinations.html</url>
+         <critic>Joe Neumaier</critic>
+      </review>
+      <review>
+         <snippet>Nothing groundbreaking, but there's an easy charm in the movie.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2008/03/20/DDRTVMJC6.DTL&amp;type=movies</url>
+         <critic>Walter Addiego</critic>
+      </review>
+      <review>
+         <snippet>What you have here, essentially, is a classic "Honeymooners" episode juiced with tropes from the most recent "Rocky" movie.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-hammer21mar21,0,6805488.story</url>
+         <critic>Gene Seymour</critic>
+      </review>
+      <review>
+         <snippet>The script depends heavily on familiar stand-up comedy bits, but it's full of sharp wisecracks and slacker charm.</snippet>
+         <url>http://www.nypost.com/seven/03212008/entertainment/movies/lightweight_laughs_102800.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>Rambling and disorganized. At the same time, though, The Hammer also has dry wit and unforced working-class swagger, and hits some surprising emotional notes.</snippet>
+         <url>http://movies.nytimes.com/2008/03/21/movies/21hamm.html?ref=movies</url>
+         <critic>Matt Zoller Seitz</critic>
+      </review>
+      <review>
+         <snippet>So many movies these days are overworked or overblown: The Hammer feels genuinely tossed-off. It isn't a great movie, or even a consistently good one. Yet it gets to elusive feelings about failure and success, hope and mortality (and reveals a quietly subversive attitude toward the boxing-movie genre).</snippet>
+         <url>http://online.wsj.com/article/SB120605540353953205.html</url>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>This inordinately likable and consistently funny boxing saga-cum-romantic comedy doesn't so much ridicule the "Rocky"-type inspirational sports fable as gently deflate its heroic overdrive.</snippet>
+         <url>http://www.variety.com/review/VE1117933507.html?categoryid=31&amp;cs=1&amp;p=0</url>
+         <critic>Ronnie Scheib</critic>
+      </review>
+      <review>
+         <snippet>The film hardly could be credited with breaking any new ground, but it has a hangdog charm, much like its leading actor.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?JSESSIONID=mMpmHvrJFhr2hJCzw0GDQR4p0H3nl9jwhP1bLZ0TRYw0PB381J80!-131334620&amp;&amp;rid=10796</url>
+         <critic>Stephen Farber</critic>
+      </review>
+      <review>
+         <snippet>Former "Loveline" and "The Man Show" co-host Adam Carolla brings his self-deprecating, improvisational, regular-dude deadpan--as well as his former Golden Gloves status--to this semi-autobiographical comedy with ambitions so low that one might call it charmingly mediocre.</snippet>
+         <url>http://www.villagevoice.com/film/0812,tracking-5,381191,20.html</url>
+         <critic>Aaron Hillis</critic>
+      </review>
+      <review>
+         <snippet>If you liked "Rocky Balboa" you should be in good shape, since it's exactly the same movie, just aimed at a teeny-tiny-bit younger demographic and with an affectless leading man who avoids hambone acting by not acting at all.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2007/04/27/tribeca_1/index1.html</url>
+         <critic>Andrew O&amp;#039;Hehir</critic>
+      </review>
+      <review>
+         <snippet>Plays like a pilot for a situation comedy about a 40-year-old carpenter who decides to return to the boxing ring.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/355809_hammer21q.html</url>
+         <critic>Bill White</critic>
+      </review>
+   </reviews>
+   <US_Gross>$442,638</US_Gross>
+   <weekend_gross>$97,137</weekend_gross>
+   <number_of_screens>20</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

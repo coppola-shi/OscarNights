@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Amazing Grace</name>
+   <company>Samuel Goldwyn Films LLC  / Roadside Attractions</company>
+   <genres>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author>Steven Knight</author>
+   </authors>
+   <directors>
+      <director>Michael Apted</director>
+   </directors>
+   <origins>
+      <origin>UKUSA</origin>
+   </origins>
+   <actors>
+      <actor>Ioan Gruffudd</actor>
+      <actor>Albert Finney</actor>
+      <actor>Benedict Cumberbatch</actor>
+      <actor>Michael Gambon</actor>
+      <actor>Romola Garai</actor>
+      <actor>Ciarán Hinds</actor>
+      <actor>Toby Jones</actor>
+   </actors>
+   <release_date>February 23, 2007</release_date>
+   <running_time>111</running_time>
+   <rating>PG</rating>
+   <reviews>
+      <review>
+         <snippet>An unusually satisfying and inspiring historical epic from one of contemporary cinema's best filmmakers.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/304746_grace23q.html</url>
+         <critic>William Arnold</critic>
+      </review>
+      <review>
+         <snippet>The movie is the usual kind of film biography of a respected figure from the distant past - honorable, oversimplified, handsome.</snippet>
+         <url>http://ae.charlotte.com/entertainment/ui/charlotte/movie.html;jsessionid=A2DC1F1642D109B0983C06277A6D8158.prodapp15_ae_02?id=799026&amp;reviewId=22249&amp;startDate=02%2F23%2F2007</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>In the first 10 minutes, I feared the picture would be dull and earnest -- until, about a half-hour later, I realized it was lively and earnest, and also refreshingly, unapologetically movielike.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2007/02/23/amazing_grace/index.html</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>Fortunately, director Michael Apted and his team understand the challenges of this kind of story and have met them with intelligence and energy.</snippet>
+         <url>http://www.calendarlive.com/printedition/calendar/cl-et-amazing23feb23,0,7751948.story</url>
+         <critic>Kenneth Turan</critic>
+      </review>
+      <review>
+         <snippet>A workmanlike piece of storytelling elevated by fine performances.</snippet>
+         <url>http://tvguide.com/detail/movie.aspx?tvobjectid=286487&amp;more=ucmoviereview</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>Unlike its subject, Amazing Grace won't change the world, but its quasi-religious sense of conviction proves rousing. Apted's unexpected crowd-pleaser is inspirational, but also surprisingly entertaining.</snippet>
+         <url>http://www.avclub.com/content/node/58863</url>
+         <critic>Nathan Rabin</critic>
+      </review>
+      <review>
+         <snippet>Anyone who has ever felt morally right and completely in the minority will have a point of entry into this movie.</snippet>
+         <url>http://sfgate.com/cgi-bin/article.cgi?f=/c/a/2007/02/23/DDGBIO887Q1.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>This is the British way to mingle ideas and entertainment.</snippet>
+         <url>http://www.nypost.com/seven/02232007/entertainment/movies/slave_trades_holy_warrior_movies_kyle_smith.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>Apted delivers a fine, righteous climax and packs his film with some of Britain's best character actors.</snippet>
+         <url>http://ae.miami.com/entertainment/ui/miami/movie.html?id=799026&amp;reviewId=22252</url>
+         <critic>Connie Ogle</critic>
+      </review>
+      <review>
+         <snippet>Apted opts not to show the horrendous cruelty inflicted on thousands upon thousands of captive Africans, shackled and chained, making their way to the Americas in ships. Instead, he has Wilberforce and his fellow abolitionists describe the inhumane conditions - in the precise, passionate language of legislators who believe that human decency is more important than money and power.</snippet>
+         <url>http://www.philly.com/mld/philly/entertainment/movies/16759636.htm</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>Compelling and highly informative.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/moviereviews/story/499900p-421526c.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>The dialogue is bright, historically styled yet lithe; the characterizations are graphic even with minor people.</snippet>
+         <url>http://www.tnr.com/doc.mhtml?i=20070319&amp;s=kauffmann031907</url>
+         <critic>Stanley Kauffmann</critic>
+      </review>
+      <review>
+         <snippet>Michael Apted's Amazing Grace is a beautifully chiseled blunt instrument. No, it's not subtle, but how subtle was slavery?</snippet>
+         <url>http://nymag.com/movies/reviews/28144/index.html</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>Picture reflects the no-nonsense storytelling skills of prolific helmer Michael Apted, whose career-long mix of feature and documentary work holds him in good stead once more.</snippet>
+         <url>http://www.variety.com/review/VE1117931601.html?categoryid=31&amp;cs=1&amp;p=0</url>
+         <critic>Eddie Cockrell</critic>
+      </review>
+      <review>
+         <snippet>A case of good works done well.</snippet>
+         <url/>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>Flawed but ambitious, this biopic of British parliamentarian William Wilberforce closely tracks the political maneuvering of the late 18th and early 19th century as reformers campaign to end Britain's participation in the slave trade.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/31139_AMAZING_GRACE_APTED.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>The overall effect is part BBC-style biography, part Hollywood-like hagiography, and generally pleasing and often moving, even when the story wobbles off the historical rails or becomes bogged down in dopey romance.</snippet>
+         <url>http://movies2.nytimes.com/2007/02/23/movies/23amaz.html</url>
+         <critic>Manohla Dargis</critic>
+      </review>
+      <review>
+         <snippet>Although the structure is clunky, the ensuing parliamentary machinations prove witty and fascinating.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-to.amazing23feb23,0,5938854.story?coll=bal-artslife-movies</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>What's missing, in the direction no less than the script, is any real sense of dramatic urgency.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20070323.wgrace23/BNStory/Entertainment/home</url>
+         <critic>Rick Groen</critic>
+      </review>
+      <review>
+         <snippet>It's disappointing that so much talent has been assembled with so little to do.</snippet>
+         <url>http://www.reelviews.net/movies/a/amazing_grace.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>There's so much story here that the characters don't have quite enough room to breathe, but it's still a fascinating look at a time, and a man, worth remembering.</snippet>
+         <url>http://www.empireonline.com/reviews/review.asp?FID=132925</url>
+         <critic>Helen O&amp;#039;Hara</critic>
+      </review>
+      <review>
+         <snippet>It's earnest, solemn stuff. The movie sings an old tune -- Albert Finney is the blind minister who wrote the title ditty -- and it leaves the blood unstirred.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20012445,00.html</url>
+         <critic>Gregory Kirschling</critic>
+      </review>
+      <review>
+         <snippet>Morally irreproachable and flat as a pancake.</snippet>
+         <url>http://www.villagevoice.com/film/0708,taylor,75856,20.html</url>
+         <critic>Ella Taylor</critic>
+      </review>
+      <review>
+         <snippet>Unfortunately for Barbara and for us, what makes William Wilberforce a great man is also what makes him a bore.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A448404</url>
+         <critic>Josh Rosenblatt</critic>
+      </review>
+      <review>
+         <snippet>Apted and his collaborators are so in awe of their subject they neglect to bring him to full human life.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-070223-movies-review-grace,0,3602376.story?coll=mmx-movies_top_heds</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>Earnest, respectful and thoroughly dull.</snippet>
+         <url>http://www.premiere.com/moviereviews/3550/amazing-grace.html</url>
+         <critic>Ethan Alter</critic>
+      </review>
+      <review>
+         <snippet>If Amazing Grace serves its most superficial purpose -- to educate the viewer -- it's hardly compelling viewing.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1132983&amp;categories=Movies&amp;nm=1</url>
+         <critic>Desson Thomson</critic>
+      </review>
+      <review>
+         <snippet>It's a doughty movie, stuck halfway between Masterpiece Theatre and Classics Illustrated, but, to his credit, gifted journeyman director Michael Apted understands he's playing the long game.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=9851</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>[Apted] also has an unfortunate penchant for bland stateliness, and never more so than in Amazing Grace, a well-intentioned piece of historical waxworks.</snippet>
+         <url>http://www.csmonitor.com/2007/0223/p14s02-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+   </reviews>
+   <US_Gross>$21,214,987</US_Gross>
+   <weekend_gross>$4,054,542</weekend_gross>
+   <number_of_screens>791</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Cheri</name>
+   <company>Miramax Films</company>
+   <genres>
+      <genre>Romance</genre>
+   </genres>
+   <authors>
+      <author>Christopher Hampton</author>
+   </authors>
+   <directors>
+      <director>Stephen Frears</director>
+   </directors>
+   <origins>
+      <origin>UK</origin>
+      <origin>Germany</origin>
+   </origins>
+   <actors>
+      <actor>Michelle Pfeiffer</actor>
+      <actor>Rupert Friend</actor>
+      <actor>Kathy Bates</actor>
+      <actor>Felicity Jones</actor>
+   </actors>
+   <release_date>June 26, 2009</release_date>
+   <running_time>100</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>Now that she's past 50, can we all stop holding Michelle Pfeiffer's looks against her and just admit that she's a great actress?</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2009/06/25/MVNT18CL7S.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>Plenty of terrible movies know how to work your tear ducts. Here's a weepie that, in Pfeiffer's performance, touches you on the highest levels.</snippet>
+         <url>http://www.csmonitor.com/2009/0626/p17s01-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>The success of Stephen Frears’ film Chéri begins with its casting. Michelle Pfeiffer, as Lea de Lonval, is still a great beauty.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20090624/REVIEWS/906249987</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>Pfeiffer transcends any hint of cliché ''cougar'' voraciousness.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20287963,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>Actors blossom under Frears' direction. There is no false moment or off-key note in this movie.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film-reviews/film-review-cheri-1003940267.story</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>They don't make women, sexy but regal, like Pfeiffer much anymore, and Cheri is quite a monument to her.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A798054</url>
+         <critic>Kimberley Jones</critic>
+      </review>
+      <review>
+         <snippet>With Pfeiffer, 50, radiating uncommon beauty, grace and feeling, Frears uncovers a fragile story's grieving heart.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/25910186/review/28818819/cheri</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>The film is a sumptuous, handsome portrait of a woman poised fearfully on the brink of decline, yet too proud to grab at rescue.</snippet>
+         <url>http://www.avclub.com/articles/cheri,29675/</url>
+         <critic>Tasha Robinson</critic>
+      </review>
+      <review>
+         <snippet>What makes Cheri’ worth your while is that its true subjects are women and age, and its observations apply to both 19th-century France and the modern film industry.</snippet>
+         <url>http://www.boston.com/ae/movies/articles/2009/06/26/as_the_older_woman_pfeiffer_shines_in_8216cheri8217/</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>A respectable and satisfying historical romantic melodrama.</snippet>
+         <url>http://www.reelviews.net/php_review_template.php?identifier=1696</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>The movie reunites Pfeiffer with director Stephen Frears and screenwriter Christopher Hampton, who did Dangerous Liaisons (1988); this costume drama doesn't have nearly as much bite as that one, though the age reversal of its central romance gives it a certain topicality.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/34514_CHERI.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>Michelle Pfeiffer is back, and her reappearance in Cheri, her best role in quite some time, underlines not only how much she's been missed but also how much the world of film has lost by her absence.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-cheri26-2009jun26,0,4760003.story</url>
+         <critic>Kenneth Turan</critic>
+      </review>
+      <review>
+         <snippet>Michelle Pfeiffer's performance brings life to a sometimes sagging script. Also, Kathy Bates is a hoot as the mother of Pfeiffer's love interest.</snippet>
+         <url>http://www.nola.com/movies/index.ssf/2009/07/cheri_shows_michelle_pfeiffer.html</url>
+         <critic>Mike Scott</critic>
+      </review>
+      <review>
+         <snippet>What is lacking in this version, with its hasty third act and abrupt denouement, is the surprise that their union may be the deepest love either will ever know.</snippet>
+         <url>http://www.philly.com/philly/entertainment/movies/20090626_A_May-September_love_story.html</url>
+         <critic>Carrie Rickey</critic>
+      </review>
+      <review>
+         <snippet>Cheri, like the character, is an entertaining bauble without much on its mind.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2009-06-25-cheri_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>The movie is a visual feast, with Oscar-caliber sets and costumes that for many will justify the trip to the Paris Theatre.</snippet>
+         <url>http://www.nypost.com/seven/06262009/entertainment/movies/cougar_courtesan_stalks_prey_176114.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>Cheri looks terrific, if a bit gauzy at times, and Frears, who directed Pfeiffer in that other Frenchified frolic, "Dangerous Liaisons," is never at rest. Still, the movie bogs down by going nowhere other than inside its characters, who are intensely passionate but of an era more curious than emotionally relevant.</snippet>
+         <url>http://www.washingtonpost.com/gog/movies/cheri,1156292.html</url>
+         <critic>John Anderson</critic>
+      </review>
+      <review>
+         <snippet>The movie’s shallow amusements do make for an ideal guilty pleasure, especially since the actors seem to be having so much fun. Bates, marching around like an overstuffed pigeon, is a reliable scene-stealer, while the two leads make an entirely convincing couple.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2009/06/26/2009-06-26_cheri_.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>What's so distressing about Michelle Pfeiffer taking a mooning calf for a lover, though, is that it robs her of the quality that has always made her such an interesting actress.</snippet>
+         <url>http://www.theglobeandmail.com/news/arts/chri/article1196803/</url>
+         <critic>Stephen Cole</critic>
+      </review>
+      <review>
+         <snippet>There's something poignant about the image of this actress (Pfeiffer) sitting in a pool of sunlight without a smile or trace of visible makeup. But she's trying to reach a character that her director seems intent to keep from her grasp.</snippet>
+         <url>http://movies.nytimes.com/2009/06/26/movies/26cheri.html?ref=movies</url>
+         <critic>Manohla Dargis</critic>
+      </review>
+      <review>
+         <snippet>Whereas "Liaisons" mixed cruelty, wit, sensuality and drama into a deliciously tart frappe, Cheri is pretty, tepid and dull.</snippet>
+         <url>http://blog.oregonlive.com/madaboutmovies/2009/06/review_french_amour_made_bland.html</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>Chéri is a perfect example of a movie that gets many of the details right and the vibe all wrong.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2009/06/26/cheri/index.html</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>Chéri never fulfills its emotional promise.</snippet>
+         <url>http://www.miamiherald.com/entertainment/movies/reviews/story/1112728.html</url>
+         <critic>Connie Ogle</critic>
+      </review>
+      <review>
+         <snippet>Like a passable bottle of champagne, Cheri fizzes and slides down quite easily but lacks real body and doesn't really hit the spot.</snippet>
+         <url>http://www.variety.com/review/VE1117939644.html?u=IMDB&amp;p=H2BE&amp;cs=1</url>
+         <critic>Derek Elley</critic>
+      </review>
+      <review>
+         <snippet>Frears and Hampton's missteps begin immediately, with the director providing pinched narration as he recounts, over so many cartes de visite, the histories of other famous ladies who made a handsome living on their backs.</snippet>
+         <url>http://www.villagevoice.com/2009-06-24/film/anemic-adaptation-of-ch-eacute-ri-could-have-put-colette-to-sleep/</url>
+         <critic>Melissa Anderson</critic>
+      </review>
+      <review>
+         <snippet>This glimpse into a decadent era has its charms, but they’re mostly visual. While Pfeiffer and Friend perform well, the script is tonally confused and lacks edge.</snippet>
+         <url>http://www.empireonline.com/reviews/reviewcomplete.asp?FID=135982</url>
+         <critic>Anna Smith</critic>
+      </review>
+      <review>
+         <snippet>Michelle Pfeiffer is brittle in a way that's not especially French, but she's poignant and very lovely. Rupert Friend, on the other hand, is difficult to warm up to, especially with his features hidden behind all that hair. It's not a good sign when you have to take the movie's word for it that the lovers at its center are really, really into each other.</snippet>
+         <url>http://nymag.com/movies/reviews/57462/</url>
+         <critic>David Edelstein</critic>
+      </review>
+   </reviews>
+   <US_Gross>$2,715,657</US_Gross>
+   <production_budget>$23,000,000</production_budget>
+   <weekend_gross>$405,701</weekend_gross>
+   <number_of_screens>76</number_of_screens>
+   <oscar_winning_actors_present/>
+   <num_oscar_winning_actors>1</num_oscar_winning_actors>
+   <oscar_winning_actor>kathy bates</oscar_winning_actor>
+   <highest_grossing_actors_present/>
+   <num_highest_grossing_actors>1</num_highest_grossing_actors>
+   <highest_grossing_actor>kathy bates</highest_grossing_actor>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

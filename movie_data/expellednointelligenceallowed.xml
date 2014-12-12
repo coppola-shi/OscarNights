@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Expelled: No Intelligence Allowed</name>
+   <company>Rocky Mountain Pictures</company>
+   <genres>
+      <genre>Documentary</genre>
+   </genres>
+   <authors>
+      <author>Kevin Miller</author>
+      <author>Walt Ruloff</author>
+      <author>Ben Stein</author>
+   </authors>
+   <directors>
+      <director>Nathan Frankowski</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Ben Stein</actor>
+      <actor>Jason Collett</actor>
+   </actors>
+   <release_date>April 18, 2008</release_date>
+   <running_time>90</running_time>
+   <rating>PG</rating>
+   <reviews>
+      <review>
+         <snippet>While roving interviewer Ben Stein extracts some choice soundbites from scientists on both sides of the creation-vs.-evolution debate, the film's flippant approach undermines the seriousness of its discourse, trading less in facts than in emotional appeals.</snippet>
+         <url>http://www.variety.com/review/VE1117936783.html?categoryid=31&amp;cs=1</url>
+         <critic>Justin Chang</critic>
+      </review>
+      <review>
+         <snippet>It puts a conservative twist on Michael Moore-ism, with campy stock footage, deadpan humor, mocking musical cues and less-than-ingenuous questions.</snippet>
+         <url>http://www.nypost.com/seven/04172008/entertainment/movies/creative_writhing_106936.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>While he gets points for addressing the debate, the way in which Stein goes about it undermines his efforts to be even-handed and intellectually rigorous.</snippet>
+         <url/>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>It's hard to pinpoint what's most insulting about this obvious propaganda piece.</snippet>
+         <url>http://www.tvguide.com/movies/expelled-intelligence-allowed/review/293361</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>Bizarre and hysterical.</snippet>
+         <url>http://www.villagevoice.com/film/0816,tracking-6,411830,20.html</url>
+         <critic>Vadim Rizov</critic>
+      </review>
+      <review>
+         <snippet>Expelled is an unprincipled propaganda piece that insults believers and nonbelievers alike.</snippet>
+         <url>http://movies.nytimes.com/2008/04/18/movies/18expe.html?ref=movies</url>
+         <critic>Jeannette Catsoulis</critic>
+      </review>
+      <review>
+         <snippet>As a work of nonfiction filmmaking it is a sham and as agitprop it is too flimsy to strike any serious blows.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-expelled18apr18,0,3600066.story</url>
+         <critic>Mark Olsen</critic>
+      </review>
+      <review>
+         <snippet>Managing to make the films of Michael Moore and Morgan Spurlock look like dry, scholarly treatises by comparison, Expelled: No Intelligence Allowed more than lives up to its subtitle.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?JSESSIONID=m4nfLJ9b8nNTrt8tn52WwQrHgkN882h1LZC2WwPkTmv6TGJwBMTX!1051653258&amp;&amp;rid=10989</url>
+         <critic>Frank Scheck</critic>
+      </review>
+      <review>
+         <snippet>A straightforward account of the debate between evolutionists and ID proponents might have been both entertaining and enlightening; instead this follows the avuncular Ben Stein (who cowrote the movie) as he jet-sets around the globe trying to prove that a cabal of Darwinians has conspired to destroy academic freedom.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/33054_EXPELLED_NO_INTELLIGENCE_ALLOWED.html</url>
+         <critic>Reece Pendleton</critic>
+      </review>
+      <review>
+         <snippet>Regardless of your personal views, Expelled's heavy-handed bias (a visit to Darwin's home gets the same eerie music as a tour of Dachau) is exasperating.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20192245,00.html</url>
+         <critic>Adam Markovitz</critic>
+      </review>
+      <review>
+         <snippet>Stein's schlumpy presence is disarming, though his know-it-all nature is at odds with his free-speech posing.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2008/04/18/2008-04-18_short_takes_more_movie_reviews.html</url>
+         <critic>Joe Neumaier</critic>
+      </review>
+      <review>
+         <snippet>Surely there's a more nuanced argument to be made in favor of ID than pinning the old "bad as Hitler" canard on pro-evolution scientists?</snippet>
+         <url>http://www.avclub.com/content/cinema/expelled_no_intelligence_allowed</url>
+         <critic>Steven Hyden</critic>
+      </review>
+      <review>
+         <snippet>Make Ben Stein some more money (and get a good, mordant chuckle while you're at it) by checking out this loopy, factually befuddled documentary that should manage the not-inconsiderable feat of insulting Christians, Jews, Muslims, and those nutty sci-guys who go in for Darwin by way of bad teeth and Einsteinian hair styles.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A612799</url>
+         <critic>Marc Savlov</critic>
+      </review>
+   </reviews>
+   <US_Gross>$7,720,487</US_Gross>
+   <weekend_gross>$2,970,848</weekend_gross>
+   <number_of_screens>1,052</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

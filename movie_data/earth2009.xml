@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Earth</name>
+   <company>Disneynature</company>
+   <genres>
+      <genre>Adventure</genre>
+      <genre>Documentary</genre>
+   </genres>
+   <authors>
+      <author/>
+   </authors>
+   <directors>
+      <director>Alastair Fothergill</director>
+      <director>Mark Linfield</director>
+   </directors>
+   <origins>
+      <origin>UK</origin>
+      <origin>Germany</origin>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>James Earl Jones</actor>
+   </actors>
+   <release_date>April 22, 2009</release_date>
+   <running_time>95</running_time>
+   <rating>G</rating>
+   <reviews>
+      <review>
+         <snippet>This super-duper deluxe nature documentary  clearly aims to recruit young viewers as conservationists.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20272452,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>Whereas the TV series rarely flinched when it came to showing the animal world as it is, Earth always pulls back at the last second. It shows a cheetah pulling down a gazelle, but not the feast that follows.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-to.earth24apr24,0,3165620.story</url>
+         <critic>Chris Kaltenbach</critic>
+      </review>
+      <review>
+         <snippet>For most of the way this is an eye-popping, not blood-curdling, experience.</snippet>
+         <url>http://www.csmonitor.com/2009/0424/p17s03-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>Earth eloquently shows the struggle, life doing what it must to sustain life. The spectacle is stirring.</snippet>
+         <url>http://online.wsj.com/article/SB124052480101050043.html</url>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>It would be Pollyannaish to pretend that the documentary Earth is without its problems, but the bottom line is, difficulties be damned, it shouldn't be missed.</snippet>
+         <url>http://www.latimes.com/entertainment/news/la-et-earth22-2009apr22,0,4407148.story</url>
+         <critic>Kenneth Turan</critic>
+      </review>
+      <review>
+         <snippet>A ravishing distillation of the BBC/Discovery series "Planet Earth," docu brings to the large screen memorable images that cried out on TV for the full movie-going experience.</snippet>
+         <url>http://www.variety.com/review/VE1117934962.html?categoryid=31&amp;cs=1&amp;query=earth</url>
+         <critic>Jay Weissberg</critic>
+      </review>
+      <review>
+         <snippet>The ascribing of emotions to these critters can get a little Lion King-ripe at times. But the filmmakers have filled in around their "family" narratives with footage that is breathtaking enough on a towering screen -- and you should find the biggest one possible -- that it is hard to object too strenuously.</snippet>
+         <url>http://www.npr.org/templates/story/story.php?storyId=103320822&amp;ft=1&amp;f=1008</url>
+         <critic>Bob Mondello</critic>
+      </review>
+      <review>
+         <snippet>State-of-the-art camera equipment captures images of startling clarity and proximity. There isn't one frame of CGI.</snippet>
+         <url>http://www.laweekly.com/2009-04-23/film-tv/movie-reviews-earth-the-garden-obsessed/</url>
+         <critic>Jean Oppenheimer</critic>
+      </review>
+      <review>
+         <snippet>Nothing too graphic, but it creates drama, as it’s only natural to root for the hunted in a film like this.</snippet>
+         <url>http://events.charlotteobserver.com/reviews/show/44522-review-earth</url>
+         <critic>Roger Moore</critic>
+      </review>
+      <review>
+         <snippet>Filled with unexpected facts.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20090422/REVIEWS/904229997</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>It requires only four words to describe Earth: glorious photography, annoying narration.</snippet>
+         <url>http://www.reelviews.net/php_review_template.php?identifier=1609</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>Earth, you had me at baby polar bears.</snippet>
+         <url>http://www.nypost.com/seven/04222009/entertainment/movies/just_grin__bear_it_165532.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>This Earth doesn't really have anything new to say, but it does present some newly entertaining ways of saying it.</snippet>
+         <url>http://www.boston.com/ae/movies/articles/2009/04/22/a_big_screen_view_of_earth/</url>
+         <critic>Janice Page</critic>
+      </review>
+      <review>
+         <snippet>A wide-screen wildlife documentary in which the cycles of birth and death, migrations and seasons, are captured in stunning - absolutely stunning - ways.</snippet>
+         <url>http://www.philly.com/philly/entertainment/movies/20090421_Is_that_the_sonorous_baritone_of_Mufasa__a_k_a__James_Earl_NO_HEAD_SPECIFIED.html</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>By hiring James Earl Jones to narrate, Disney has prepared youngsters to understand that man is equally capable of heroism and villainy.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20090421.wearth0422/BNStory/Entertainment/home</url>
+         <critic>Stephen Cole</critic>
+      </review>
+      <review>
+         <snippet>The overall tone of the film is absolutely appropriate for all ages, and it's never too early to learn the importance of preserving our planet.</snippet>
+         <url>http://movies.tvguide.com/earth/review/297214</url>
+         <critic>Jason Buchanan</critic>
+      </review>
+      <review>
+         <snippet>A gorgeously photographed storybook.</snippet>
+         <url>http://www.washingtonpost.com/gog/movies/earth,1156455.html</url>
+         <critic>Michael O&amp;#039;Sullivan</critic>
+      </review>
+      <review>
+         <snippet>This first feature from Disney's new nature division has an encyclopedic reach and spectacular footage shot by more than two dozen crack cinematographers.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/34291_EARTH_FOTHERGILL_LINFIELD_DISNEY.html</url>
+         <critic>Andrea Gronvall</critic>
+      </review>
+      <review>
+         <snippet>Although Earth falls short of its potential, it still contains enough glorious photography to please its target audience.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film-reviews/film-review-earth-1003963475.story</url>
+         <critic>Stephen Farber</critic>
+      </review>
+      <review>
+         <snippet>This is nature defanged and declawed for kiddie consumption, so the emphasis is on awwww-filled moments.</snippet>
+         <url>http://movies.nytimes.com/2009/04/22/movies/22eart.html?ref=movies</url>
+         <critic>Jeannette Catsoulis</critic>
+      </review>
+      <review>
+         <snippet>This first release from Disney’s self-explanatory new arm, Disneynature, is at the very least peripherally concerned with the planet and its dwindling prospects, but the real renewable resource here is the groundbreaking "Planet Earth" miniseries.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A766890</url>
+         <critic>Kimberley Jones</critic>
+      </review>
+      <review>
+         <snippet>On the nature-documentary continuum, Earth falls closer to the cuddly anthropomorphism of "March Of The Penguins" than the cold rationality of "Grizzly Man."</snippet>
+         <url>http://www.avclub.com/articles/earth,27063/</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>If you've watched the BBC series "Planet Earth," then Earth will seem like a familiar, if stunning, global rewarming.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2009-04-21-earth-disney_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>There's nothing in Earth that's as moving as the sight of the mother penguin "grieving" for her chick in "March of the Penguins." You can applaud Earth for not jerking tears. On the other hand, an occasional tear isn't such a bad thing.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2009/04/22/earth/index.html</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>As a virtual tour of what Earth Day is about, kids ought to be entranced. If it helps them get greener, even better.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2009/04/22/2009-04-22_new_disney_film_earth_boasts_worldclass.html</url>
+         <critic>Joe Neumaier</critic>
+      </review>
+      <review>
+         <snippet>For adults, Earth misses the mark of riveting storytelling. Earth crams in the dramatic adventures of several species (including penguins) - with the result that it comes up short on telling one really good story.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2009/04/23/MVV8176ECF.DTL&amp;type=movies</url>
+         <critic>Justin Berton</critic>
+      </review>
+   </reviews>
+   <US_Gross>$32,011,576</US_Gross>
+   <weekend_gross>$14,472,792</weekend_gross>
+   <number_of_screens>1,804</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

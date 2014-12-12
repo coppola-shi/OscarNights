@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Cthulhu</name>
+   <company>Here! Films, Regent Releasing</company>
+   <genres>
+      <genre>Drama</genre>
+      <genre>Horror</genre>
+   </genres>
+   <authors>
+      <author>H.P. Lovecraft</author>
+      <author>Dan Gildark</author>
+      <author>Grant Cogswell, Douglas Light</author>
+      <author>Jason Cottle</author>
+   </authors>
+   <directors>
+      <director>Dan Gildark</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Jason Cottle</actor>
+      <actor>Scott Patrick Green</actor>
+      <actor>Cara Buono</actor>
+      <actor>Tori Spelling</actor>
+   </actors>
+   <release_date>August 22, 2008</release_date>
+   <running_time>minutes,</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>The film is creepy, I'll give it that, but it also has that smalltown, dramatic bend.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=11188</url>
+         <critic>Mark Bell</critic>
+      </review>
+      <review>
+         <snippet>Cthulhu (kuh-THOO-loo) shows that you can't go home again. Seriously: Don't ever go home -- you'll be sorry.</snippet>
+         <url>http://www.oregonlive.com/movies/index.ssf/2008/09/movie_review_cthulhu_dark_happ.html</url>
+         <critic>Stan Hall</critic>
+      </review>
+      <review>
+         <snippet>Cthulhu isn't awful, but it isn't particularly compelling either.</snippet>
+         <url>http://www.latimes.com/entertainment/news/reviews/la-et-capsules22-2008aug22,0,3900165.story</url>
+         <critic>Mark Olsen</critic>
+      </review>
+      <review>
+         <snippet>The acting is so emotionally unhinged and erratic it borders on camp, diluting any suspense.</snippet>
+         <url>http://www.variety.com/review/VE1117937996.html?categoryid=31&amp;cs=1</url>
+         <critic>John Anderson</critic>
+      </review>
+      <review>
+         <snippet>Stuart Gordon adapted the story more conventionally in 2001's "Dagon," and it remains the better bet for Lovecraft lovers.</snippet>
+         <url>http://www.laweekly.com/2008-08-21/film-tv/movie-reviews-the-rocker-the-house-bunny-death-race/</url>
+         <critic>Luke Y. Thompson</critic>
+      </review>
+      <review>
+         <snippet>This shambling mess --  offers nothing but a lesson in how not to make a movie.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/378769_cthulhu12q.html</url>
+         <critic>Bill White</critic>
+      </review>
+   </reviews>
+   <US_Gross>$15,513</US_Gross>
+   <weekend_gross>$1,438</weekend_gross>
+   <number_of_screens>1</number_of_screens>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Hannibal Rising</name>
+   <company>Metro-Goldwyn-Mayer</company>
+   <genres>
+      <genre>Drama</genre>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>Thomas Harris</author>
+   </authors>
+   <directors>
+      <director>Peter Webber</director>
+   </directors>
+   <origins>
+      <origin>FranceUKUSA</origin>
+   </origins>
+   <actors>
+      <actor>Gaspard Ulliel</actor>
+      <actor>Rhys Ifans</actor>
+      <actor>Li Gong</actor>
+      <actor>Helena Lia Tachovska</actor>
+      <actor>Dominic West</actor>
+      <actor>Aaron Thomas</actor>
+      <actor>Kevin McKidd</actor>
+      <actor>Richard Brake</actor>
+   </actors>
+   <release_date>February 9, 2007</release_date>
+   <running_time>117</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>Hannibal Rising isn't a classic, but it's entertaining and a surprisingly fitting addition to the franchise.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2007/02/09/DDGNPO0HU31.DTL&amp;type=movies</url>
+         <critic>Peter Hartlaub</critic>
+      </review>
+      <review>
+         <snippet>The story's beginning is in a rush to get to the the killings, which get more and more disgusting.</snippet>
+         <url>http://www.premiere.com/moviereviews/3505/hannibal-rising.html</url>
+         <critic>Jenni Miller</critic>
+      </review>
+      <review>
+         <snippet>This strikes me as the final nail in the franchise's coffin. I can't name an actor who could have made young Lecter as interesting as the older one, but Ulliel does not come close.</snippet>
+         <url>http://www.nydailynews.com/02-09-2007/entertainment/col/story/495876p-417850c.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>It's a handsomely mounted but poky thriller undone by a fatally miscast lead.</snippet>
+         <url>http://tvguide.com/detail/movie.aspx?tvobjectid=285368&amp;more=ucmoviereview</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>This is essentially a by-the-numbers revenge film with some attempts at deeper characterization. The difference between this film and, say, "Batman Begins" is that Bruce Wayne, upon finding the tormentors of his youth, never tried to kill and eat them.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=9741</url>
+         <critic>Mark Bell</critic>
+      </review>
+      <review>
+         <snippet>It's a handsome film, but the pace is continually gummy and the set-ups stiff and artificial. Most crucially, nothing in it vanquishes the sensation that we're being sold something superfluous -- like a service contract for a carton of eggs.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/1170890708227270.xml&amp;coll=7</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>What Hannibal Rising is, mostly, is a hoot.</snippet>
+         <url>http://ae.philly.com/entertainment/ui/philly/movie.html?id=802480&amp;reviewId=22177</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>This comically fastidious telling of the Hannibal Lecter origin story completes the extreme makeover of grindhouse fare that "The Silence of the Lambs" started 15 years ago. Meaning: Respectable audiences who wouldn't be caught dead at a (sniff!) horror movie still want severed heads; they just want the bloody meal served on Royal Dalton china.</snippet>
+         <url>http://www.villagevoice.com/film/0707,film,75801,20.html</url>
+         <critic>Jim Ridley</critic>
+      </review>
+      <review>
+         <snippet>This upmarket slasher is a well-produced but slow-moving thriller that never quite roars to life.</snippet>
+         <url>http://www.variety.com/review/VE1117932715.html?categoryid=31&amp;cs=1</url>
+         <critic>Dennis Harvey</critic>
+      </review>
+      <review>
+         <snippet>Most of the movie makes too much sense and is no fun at</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-to.hannibal09feb09,0,7369076.story?coll=bal-artslife-movies</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>Thomas Harris adapted his own bestseller and Peter Webber, who previously directed "Girl with a Pearl Earring," had the unenviable task of trying to give this glop, which is too gruesome to be campy, a high gloss. It should be called Man With a Severed Head.</snippet>
+         <url>http://www.csmonitor.com/2007/0209/p14s01-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>Director Peter Webber can't do much about what's missing from the story: a soul or a sense of purpose.</snippet>
+         <url>http://www.avclub.com/content/node/58440</url>
+         <critic>Tasha Robinson</critic>
+      </review>
+      <review>
+         <snippet>Ulliel, the meek missing soldier in "A Very Long Engagement," makes such a tedious Lecter that this quickly becomes a chore, though Dominic West ("The Wire") is good as a French detective on the madman's trail.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/31080_HANNIBAL_RISING.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>Hannibal Rising is basically a Steven Seagal vigilante movie with a hero who eats the people he kills. At least it's ecofriendly.</snippet>
+         <url>http://nymag.com/movies/reviews/27843/index1.html</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>The movie streamlines much of Harris's book. It's a shame, because it results in the movie's fundamental flaw -- the one-dimensionality of Hannibal.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1126233&amp;categories=Movies&amp;nm=1</url>
+         <critic>Stephen Hunter</critic>
+      </review>
+      <review>
+         <snippet>Gong Li is welcome as Hannibal's Japanese aunt-in-law/mentor, Gaspard Ulliel isn't a bad young Lecter and Webber's direction is intermittently classy -- but this is a footnote rather than a film.</snippet>
+         <url>http://www.empireonline.com/reviews/review.asp?FID=11388</url>
+         <critic>Kim Newman</critic>
+      </review>
+      <review>
+         <snippet>For better and worse, the movie is more attractive and competently assembled than its schlock peers. That's refreshing, but it hardly excuses the appalling lack of suspense, intermittent tastelessness, or shockingly low camp quotient.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=9038</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>Errors in logic will delight the attentive.</snippet>
+         <url>http://ae.charlotte.com/entertainment/ui/charlotte/movie.html;jsessionid=6B81DD3CFED1421C334CC27CFA724FFB.prodapp14_ae_02?id=802480&amp;reviewId=22186&amp;startDate=02%2F09%2F2007</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>Who would have thought mass murder and cannibalism could be so dull?</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A443312</url>
+         <critic>Josh Rosenblatt</critic>
+      </review>
+      <review>
+         <snippet>Bad as Harris' Hannibal Rising screenplay (his first) is, at least it's an improvement on his dreadful book, streamlining its convoluted action and discarding large chunks of unspeakable dialogue.</snippet>
+         <url>http://www.calendarlive.com/printedition/calendar/cl-et-rising9feb09,0,1922705.story</url>
+         <critic>Sam Adams</critic>
+      </review>
+      <review>
+         <snippet>This Hannibal is a stick-in-the-mud altogether lacking in the wit, gourmet appetites and romantic flair required of any surrogate for Sir Anthony Hopkins. By the end of two full hours, it's only Harris' head you long to see on a plate.</snippet>
+         <url>http://www.laweekly.com/film+tv/film-reviews/film-reviews-norbit-hannibal-rising/15634/</url>
+         <critic>Scott Foundas</critic>
+      </review>
+      <review>
+         <snippet>Not just a bad film, Hannibal Rising is downright dull, which is a far worse crime.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/302962_hannibal09q.html</url>
+         <critic>Sean Axmaker</critic>
+      </review>
+      <review>
+         <snippet>Not quite repellent enough to avoid tedium, Hannibal Rising is both too familiar in portraying Hannibal as a Dracula-like aristocrat monster, and crud in its exploitation of wartime atrocities.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20070208.whannibal09/BNStory/Entertainment/home</url>
+         <critic>Liam Lacey</critic>
+      </review>
+      <review>
+         <snippet>Hannibal Rising reduces this great creature of the pop imagination to a Eurotrash Boy Scout throwing a homicidal snit fit.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20011786,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>A sort-of combination of "Lambs," "Batman Begins" and "The Joy of Cooking," Hannibal Rising ostensibly dramatizes the atrocities that turned Hannibal Lecter from loving child to serial killer. But this film is larded up with so many food references that I'm undecided whether this story belongs in a film compendium or a recipe file.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-070209-movies-review-hannibal,0,3704813.story?coll=mmx-movies_top_heds</url>
+         <critic>Phil Vettel</critic>
+      </review>
+      <review>
+         <snippet>The funniest movie of the year - a true laugh riot. Viewers will be holding their sides to contain the laughter. Forget Borat - if you're looking for something hilarious, this is the movie to see. What's that? It's not supposed to be a comedy. Oops.</snippet>
+         <url>http://www.reelviews.net/movies/h/hannibal_rising.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>For the first time in the film series, Harris wrote the screenplay himself, which means the movie is practically identical to the book. In other words, they both stink.</snippet>
+         <url>http://www.miami.com/mld/miamiherald/entertainment/movies/16650352.htm</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>Dull and dreary prequel.</snippet>
+         <url>http://www.nypost.com/seven/02092007/entertainment/movies/caveat_lecter_movies_kyle_smith.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>It's all quite a mess, with awkward performances, worse dialogue and a painfully protracted running time conspiring against any chance of enjoyment, even in a so-bad-it's-good guilty pleasure way.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?JSESSIONID=FL2V4HrTyT34fwL21XkDb4rp886TtQ20RLY4y5Jf9xySyzwXnd6W!138060150&amp;&amp;rid=8776</url>
+         <critic>Michael Rechtshaffen</critic>
+      </review>
+      <review>
+         <snippet>Silly, slack and unforgivably tedious, Thomas Harris's screenplay is padded with interminable flashbacks and a bombastic score that telegraphs every emotion Hannibal represses. And there are a lot of them.</snippet>
+         <url>http://www.nytimes.com/2007/02/09/movies/09hann.html?ref=movies</url>
+         <critic>Jeannette Catsoulis</critic>
+      </review>
+   </reviews>
+   <US_Gross>$27,669,725</US_Gross>
+   <production_budget>$50,000,000</production_budget>
+   <weekend_gross>$13,051,650</weekend_gross>
+   <number_of_screens>3,003</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

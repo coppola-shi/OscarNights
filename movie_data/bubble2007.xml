@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Bubble, The</name>
+   <company>Strand Releasing</company>
+   <genres>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author>Gal Uchovsky</author>
+      <author>Eytan Fox</author>
+   </authors>
+   <directors>
+      <director>Eytan Fox</director>
+   </directors>
+   <origins>
+      <origin>Israel</origin>
+   </origins>
+   <actors>
+      <actor>Ohad Knoller</actor>
+      <actor>Alon Friedman</actor>
+      <actor>Daniela Virtzer</actor>
+      <actor>Yousef &amp;#039;Joe&amp;#039; Sweid</actor>
+      <actor>Miki Kam</actor>
+      <actor>Shredi Jabarin</actor>
+   </actors>
+   <release_date>September 7, 2007</release_date>
+   <running_time>90</running_time>
+   <rating/>
+   <reviews>
+      <review>
+         <snippet>Fox stumbles a little at the end, which is unnecessarily exaggerated. He should have trusted his own talent - it's the attention to minor details that makes his work so memorable.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2007/09/07/2007-09-07_more_movie_reviews.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>The Bubble surprises us at every turn.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2007/09/07/DDMVRVMB6.DTL&amp;type=movies</url>
+         <critic>David Wiegand</critic>
+      </review>
+      <review>
+         <snippet>Director and co-writer Eytan Fox is going for a sexually democratic, politically aware variation on story themes familiar to "Sex and the City" viewers. (At one point Lulu is referred to as "Miss Israeli Carrie Bradshaw.") Surprisingly, it works, and the entire cast is excellent.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-070907-movies-review-bubble,0,2781495.story?coll=mmx-movies_top_heds</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>Mr. Fox may be a romantic, but he understands that love is rarely all you need.</snippet>
+         <url>http://movies.nytimes.com/2007/09/07/movies/07bubb.html?ref=movies</url>
+         <critic>Jeannette Catsoulis</critic>
+      </review>
+      <review>
+         <snippet>It's only when The Bubble takes a swift turn into domino-tipping tragedy in the final act that a tender, fraught love story feels casually discarded in favor of something psychologically pat and ham-fistedly earth-shattering.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-bubble7sep07,0,1368311.story?coll=cl-mreview</url>
+         <critic>Robert Abele</critic>
+      </review>
+      <review>
+         <snippet>Eytan Fox delivers another involving tale in The Bubble.</snippet>
+         <url>http://www.variety.com/review/VE1117931635.html?categoryid=31&amp;cs=1&amp;p=0</url>
+         <critic>Dennis Harvey</critic>
+      </review>
+      <review>
+         <snippet>Given the upbeat, tender rhythms of the movie's love story, the climax--a cry of bottomless despair--comes as a profound shock. It's meant to, and though the ending is touched by the goofy absurdities of melodrama, Fox's mix-and-match sampling of apparently incompatible genres nails the nervous blend of vitality and desperation that is Israel today.</snippet>
+         <url>http://www.villagevoice.com/film/0736,taylor,77666,20.html</url>
+         <critic>Ella Taylor</critic>
+      </review>
+      <review>
+         <snippet>One might question the operatic finale, which doesn't quite have the inevitability of the greatest tragic love stories. But the film's humanism gives it an overwhelming impact. To Israeli audiences, the experience must be even more explosive.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?&amp;rid=9657</url>
+         <critic>Stephen Farber</critic>
+      </review>
+      <review>
+         <snippet>Real love is often as complicated and painful as Middle Eastern politics, and Fox might have been better off acknowledging that, rather than making his characters such vague, sweet, safe ciphers.</snippet>
+         <url>http://www.avclub.com/content/cinema/the_bubble</url>
+         <critic>Tasha Robinson</critic>
+      </review>
+      <review>
+         <snippet>Sweet tempered but occasionally simplistic youth picture about three young, progressive Israelis who share a flat in a chic section of Tel Aviv.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/32066_BUBBLE_FOX.html</url>
+         <critic>Jonathan Rosenbaum</critic>
+      </review>
+      <review>
+         <snippet>The comedy is without distinction and the conclusion is melodramatic. I must note that ads for the film are misleading because they give no hint of the dark side of The Bubble.</snippet>
+         <url>http://www.nypost.com/seven/09072007/entertainment/movies/storys_not_all_light_and_airy.htm</url>
+         <critic>V.A. Musetto</critic>
+      </review>
+   </reviews>
+   <US_Gross>$157,121</US_Gross>
+   <weekend_gross>$38,882</weekend_gross>
+   <number_of_screens>10</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

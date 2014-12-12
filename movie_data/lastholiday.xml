@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Last Holiday</name>
+   <company>Paramount Pictures</company>
+   <genres>
+      <genre>Adventure</genre>
+      <genre>Comedy</genre>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author>Jeffrey Price</author>
+      <author>Peter S. Seaman</author>
+      <author>J.B. Priestley</author>
+   </authors>
+   <directors>
+      <director>Wayne Wang</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Queen Latifah</actor>
+      <actor>LL Cool J</actor>
+      <actor>Timothy Hutton</actor>
+      <actor>Giancarlo Esposito</actor>
+      <actor>Alicia Witt</actor>
+      <actor>Gérard Depardieu</actor>
+      <actor>Jane Adams</actor>
+      <actor>Emeril Lagasse</actor>
+   </actors>
+   <release_date>January 13, 2006</release_date>
+   <running_time>108</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>Queen Latifah gives a spectacular performance in this hugely enjoyable wish-fulfillment fantasy.</snippet>
+         <url>http://www.laweekly.com/film/film_results.php?showid=3725</url>
+         <critic>Scott Foundas</critic>
+      </review>
+      <review>
+         <snippet>A movie that takes advantage of the great good nature and warmth of Queen Latifah, and uses it to transform a creaky old formula into a comedy that is just plain lovable.</snippet>
+         <url>http://www.rogerebert.com/apps/pbcs.dll/article?AID=/20060112/REVIEWS/60110003/1023</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>We may know exactly where we're going, but the journey is so much fun, all but the most peevish audience members will find it impossible to complain.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-060113-movies-review-holiday,0,5120144.story?coll=mmx-movies_top_heds</url>
+         <critic>Jessica Reaves</critic>
+      </review>
+      <review>
+         <snippet>It's too bad there's so little of LL Cool J as the secret object of Georgia's fantasies. He'd make a funny, nimble, sexy romantic lead with just a bit more screen time.</snippet>
+         <url>http://www.nydailynews.com/01-13-2006/front/story/382300p-324559c.html</url>
+         <critic>Jami Bernard</critic>
+      </review>
+      <review>
+         <snippet>Latifah's performance and the film's gentle heart should prove enough to win over even the most churlish.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-to.holiday13jan13,1,713153.story?coll=bal-movies-utility</url>
+         <critic>Chris Kaltenbach</critic>
+      </review>
+      <review>
+         <snippet>Director Wayne Wang and his screenwriters sometimes ape ''Pretty Woman." But Latifah's obvious forebear is Pearl Bailey, who was just as regal and straight-up.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=8456</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>The most surprisingly satisfying Hollywood comedy in ages.</snippet>
+         <url>http://www.villagevoice.com/film/0603,singer,71795,20.html</url>
+         <critic>Matt Singer</critic>
+      </review>
+      <review>
+         <snippet>There are a number of excruciating moments that are almost too silly to mention.</snippet>
+         <url>http://online.tvguide.com/movies/database/ShowMovie.asp?MI=46624</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>Last Holiday floats along on the broad shoulders of one of our most able dramatic comedians. Without her, it would sag like a punctured souffle.</snippet>
+         <url>http://ae.charlotte.com/entertainment/ui/charlotte/movie.html?id=516926&amp;reviewId=19893&amp;startDate=NEXT7</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>Predictable but enjoyable comedy, which succeeds largely on the charm of its star.</snippet>
+         <url>http://ae.miami.com/entertainment/ui/miami/movie.html?id=516926&amp;reviewId=19914</url>
+         <critic>Connie Ogle</critic>
+      </review>
+      <review>
+         <snippet>The movie clichés are bearable mainly because the cast rises above the formulaic material. There are also some bona fide laughs to be had once the setting switches to a luxurious resort in the Czech Republic.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2006-01-12-last-holiday_x.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>The movie is content to be a kind of middling expression of human decency: It's never either terribly funny or terribly dramatic, but Latifah's quiet solidity and common sense root it in ways that larger, louder pictures never achieve.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1104177&amp;lat=200.0&amp;lon=200.0&amp;displaySearchLocation=&amp;nm=1&amp;categories=Movies</url>
+         <critic>Stephen Hunter</critic>
+      </review>
+      <review>
+         <snippet>Queen Latifah finally gets a vehicle that gives her formidable talents and expansive spirit plenty of blooming room.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1001807290</url>
+         <critic>Michael Rechtshaffen</critic>
+      </review>
+      <review>
+         <snippet>Watching Last Holiday, I kept waiting for the moment I could decree the movie truly terrible, the instant I could comfortably put my pen and notebook away and give it up for lost. But that moment never came, partly because I never fail to take pleasure in Latifah, and partly because I couldn't shake the eerie feeling that the movie I was watching was something of a ghost from another time.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2006/01/13/last_holiday/index.html?sid=1425555</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>This harmless bit of fluff lacks the element of surprise but is not without random charming moments supplied by its incandescent star.</snippet>
+         <url>http://sfgate.com/cgi-bin/article.cgi?f=/c/a/2006/01/13/DDGGDGLSO41.DTL&amp;type=movies</url>
+         <critic>Ruthe Stein</critic>
+      </review>
+      <review>
+         <snippet>Queen Latifah's energy may be winning and her self-reliance message righteous, but Last Holiday grossly overextends her credit</snippet>
+         <url>http://www.theglobeandmail.com/servlet/ArticleNews/TPStory/LAC/20060113/LAST13/TPEntertainment/Film</url>
+         <critic>Liam Lacey</critic>
+      </review>
+      <review>
+         <snippet>A chaste and tepid remake of a 1950 British comedy.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1147922_1_0_,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>A thoroughly mediocre dramedy.</snippet>
+         <url>http://www.nypost.com/movies/61523.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>Once again, Queen Latifah survives some remarkably clumsy filmmaking. More than survives; she manages to prevail.</snippet>
+         <url/>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>Director Wayne Wang stumbles through the awkward script without finding its shape or its tone, steering it toward maturity while the script falls back into slapstick sports gags and adolescent social politics.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/255456_holiday13q.html</url>
+         <critic>Sean Axmaker</critic>
+      </review>
+      <review>
+         <snippet>For a film ostensibly about how life means nothing without adventure and unpredictability, Last Holiday all feels as preordained as the film-ending Emeril cameo.</snippet>
+         <url>http://avclub.com/content/node/44314</url>
+         <critic>Keith Phipps</critic>
+      </review>
+      <review>
+         <snippet>I can tell you in two words why to see this movie, which is otherwise an unspecial Cinderella farce...and those two words are: Queen Latifah.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A323196</url>
+         <critic>Marrit Ingman</critic>
+      </review>
+      <review>
+         <snippet>Likable as she is, Latifah can't overcome a tortured mistaken-identity plot, buffoonery on the ski slopes, and enough saccharine dialogue to induce shock.</snippet>
+         <url>http://spacefinder.chicagoreader.com/movies/briefs/29188_LAST_HOLIDAY_WANG.html</url>
+         <critic>Andrea Gronvall</critic>
+      </review>
+      <review>
+         <snippet>Most successful when it is engaging, not uproarious. Glossy amusement is an updated remake of a well-regarded 1950 Brit comedy-drama starring Alec Guinness, improbably retrofitted as a star vehicle for Queen Latifah.</snippet>
+         <url>http://www.variety.com/review/VE1117929211?categoryid=31&amp;cs=1</url>
+         <critic>Joe Leydon</critic>
+      </review>
+      <review>
+         <snippet>Money can buy you happiness in this inferior remake - although its makeover storyline may please fans of "The Princess Diaries" et al.</snippet>
+         <url>http://www.empireonline.com/incinemas/ReviewComplete.asp?FID=10453</url>
+         <critic>Anna Smith</critic>
+      </review>
+      <review>
+         <snippet>If you really want to live life to the fullest, step one is to avoid wasting an hour and a half of your life in a theater showing Last Holiday.</snippet>
+         <url>http://dallasobserver.com/Issues/2006-01-12/film/film4.html</url>
+         <critic>Luke Y. Thompson</critic>
+      </review>
+      <review>
+         <snippet>As witless as it is formulaic.</snippet>
+         <url>http://movies2.nytimes.com/2006/01/13/movies/13holi.html</url>
+         <critic>Manohla Dargis</critic>
+      </review>
+   </reviews>
+   <US_Gross>$38,399,961</US_Gross>
+   <production_budget>$45,000,000</production_budget>
+   <weekend_gross>$12,806,188</weekend_gross>
+   <number_of_screens>2,514</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

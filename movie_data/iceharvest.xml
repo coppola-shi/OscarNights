@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Ice Harvest, The</name>
+   <company>Focus Features</company>
+   <genres>
+      <genre>Action</genre>
+      <genre>Comedy</genre>
+      <genre>Crime</genre>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>Richard Russo</author>
+      <author>Robert Benton</author>
+      <author>Scott Phillips</author>
+   </authors>
+   <directors>
+      <director>Harold Ramis</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>John Cusack</actor>
+      <actor>Billy Bob Thornton</actor>
+      <actor>Connie Nielsen</actor>
+      <actor>Ry Quaid</actor>
+      <actor>Oliver Platt</actor>
+   </actors>
+   <release_date>November 23, 2005</release_date>
+   <running_time>88</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>In a season of bulging Movies Earmarked for Importance, it is almost startling to come across something as unhyped - and perfectly swell - as The Ice Harvest.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1133626_1_0_,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>The Ice Harvest isn't a subversive piece of work; it's not making some grand statement about the dark side of the holiday spirit. But what it IS saying in its grimly funny way is that we can't always control the timing of our disasters.</snippet>
+         <url>http://www.csmonitor.com/2005/1125/p14s01-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>Its jazzy rhythm and economy of form place it closer to a 1950s film noir, shot through with humor so dark you need a flashlight to see it.</snippet>
+         <url>http://www.laweekly.com/film/film_results.php?showid=3670&amp;Sumbit.x=42&amp;Sumbit.y=11</url>
+         <critic>Scott Foundas</critic>
+      </review>
+      <review>
+         <snippet>A funny but genuinely dark story.</snippet>
+         <url>http://spacefinder.chicagoreader.com/movies/critic.html#29023</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>A droll, dark Christmas treat for adults, a delightful alternative to the usual holiday-themed fare.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-ice23nov23,0,3113509.story</url>
+         <critic>Kevin Thomas</critic>
+      </review>
+      <review>
+         <snippet>From the cast and location to the attitude and premise, many things in The Ice Harvest are inescapably reminiscent of the Coen brothers. But as a director, Ramis is far less flashy and not nearly as pleased with himself. This is one of the most sustained movies of the year, as classic in its structure as "Double Indemnity" or "No Exit."</snippet>
+         <url>http://www.villagevoice.com/film/0547,hoberman,70224,20.html</url>
+         <critic>J. Hoberman</critic>
+      </review>
+      <review>
+         <snippet>Ramis is at his best when dealing with men facing a soul-defining crisis, and he finds plenty to work with in Russo and Benton's script, which offers Russo's trademark blend of colorful characters and slow-building dilemmas. The Ice Harvest finds them all operating in top form in as dark a territory as they've ever explored.</snippet>
+         <url>http://avclub.com/content/node/42856</url>
+         <critic>Keith Phipps</critic>
+      </review>
+      <review>
+         <snippet>This often macabre comedy allows us to doff such civilized traits as taste and decency. We're free to laugh at anything, and we do. Oh, the shame -- and the good time.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1106081&amp;lat=200.0&amp;lon=200.0&amp;displaySearchLocation=&amp;nm=1&amp;categories=Movies</url>
+         <critic>Desson Thomson</critic>
+      </review>
+      <review>
+         <snippet>How about something a little nasty for the holidays?</snippet>
+         <url>http://online.tvguide.com/movies/database/ShowMovie.asp?MI=46582</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>Thornton is in great form as the sardonic Vic, whose disposal of an apparently dead body in a trunk is a hilarious set piece.</snippet>
+         <url>http://www.nypost.com/movies/31712.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>I liked the movie for the quirky way it pursues humor through the drifts of greed, lust, booze, betrayal and spectacularly complicated ways to die. I liked it for Charlie's (Cusack) essential kindness, as when he pauses during a getaway to help a friend who has run out of gas.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20051122/REVIEWS/51120002/1001</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>"Bad Santa" it's not. Bumptiously entertaining it is.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=7520</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>That may be your lump of coal, but it seems a precious gift to me.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/ArticleNews/TPStory/LAC/20051125/ICE25/TPEntertainment/Film</url>
+         <critic>Rick Groen</critic>
+      </review>
+      <review>
+         <snippet>The Ice Harvest doesn't have much heft or resonance. But as an antidote to the sugary confections of the season, its hung-over cynicism works wonders.</snippet>
+         <url>http://ae.philly.com/entertainment/ui/philly/movie.html?id=479083&amp;reviewId=19580</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>This isn't a crime comedy, exactly. It's a slightly absurd, minimalist noir, in the ZIP code of "Blood Simple" and "Fargo."</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/1132701932241740.xml&amp;coll=7</url>
+         <critic>M. E. Russell</critic>
+      </review>
+      <review>
+         <snippet>Fine thesping in the service of characters as meaty as they are immoral makes this material a treat for grown up audiences with an ear for sardonic dialogue.</snippet>
+         <url>http://www.variety.com/ac2006_review/VE1117928195?nav=reviews&amp;categoryid=1986&amp;cs=</url>
+         <critic>Lisa Nesselson</critic>
+      </review>
+      <review>
+         <snippet>It never achieves the bleak poetry and tawdry tragedy of the best examples of the genre, but the understated humor is nicely played by Cusack and Thornton.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/249314_ice23q.html</url>
+         <critic>Sean Axmaker</critic>
+      </review>
+      <review>
+         <snippet>It's a rhythmless, graceless piece of filmmaking. But if you have an ounce of misanthropy in your body, a picture like this can draw it to the surface the way a leech draws blood.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-to.ice23nov23,1,7146036.story?coll=bal-artslife-movies</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>This is strictly B-movie fare. It tries to do some of the same things as "Kiss Kiss Bang Bang" and suffers as a result of the comparison.</snippet>
+         <url>http://movie-reviews.colossus.net/movies/i/ice_harvest.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>Openly embraces its noir roots, right down to the femme fatale (Connie Nielsen) who strikes a Lauren Bacall-ish pose in an open doorway and whose eyes are lit by a horizontal slant of light.</snippet>
+         <url>http://ae.miami.com/entertainment/ui/miami/movie.html?id=479083&amp;reviewId=19594</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>A little more "Grifters" would have gone far here. Not toward making the film palatable for the mainstream, perhaps, but at least toward selling its neo-noir story to an audience already inclined toward such seedy material.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1001393893</url>
+         <critic>John DeFore</critic>
+      </review>
+      <review>
+         <snippet>The Ice Harvest is not "Bad Santa" redux. It has comic moments - primarily from Oliver Platt, in fine drunken stupor - but Ramis' tiptoe into film noir isn't really a comedy.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-0501122-movies-review-ice,0,4254206.story?coll=mmx-movies_top_heds</url>
+         <critic>Allison Benedikt</critic>
+      </review>
+      <review>
+         <snippet>Ice Harvest's plot sounds like an antidote to the season's holiday sweetness. And it's being touted as this year's Bad Santa. But the only similarities are the holiday season, the criminal milieu and Thornton.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2005-11-22-ice-harvest_x.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>It's a dark lark, no more and no less, a caper comedy full of enough kinky jokes to remind the audience that, indeed, you're supposed to laugh at it every now and again.</snippet>
+         <url>http://dallasobserver.com/Issues/2005-11-24/film/film.html</url>
+         <critic>Robert Wilonsky</critic>
+      </review>
+      <review>
+         <snippet>The nasty, violent material has two small beacons of hope - Nielsen as a fair-weather stripper in the manner of old film-noir dames, and Quaid as a scurvy ­mobster who hates being cheated. With his puffy, reddened face, Quaid looks like a bad Santa.</snippet>
+         <url>http://www.nydailynews.com/11-23-2005/entertainment/movies/story/368323p-313377c.html</url>
+         <critic>Jami Bernard</critic>
+      </review>
+      <review>
+         <snippet>An additional change in the film's adaptation from Scott Phillips' novel substitutes the author's original ending for a redemptive conclusion that seems indicative of The Ice Harvest's unwillingness to really plumb the real depths of the darkness it has set in motion.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A312824</url>
+         <critic>Marjorie Baumgarten</critic>
+      </review>
+      <review>
+         <snippet>For a comedy, it isn't that funny. For a thriller, it isn't that thrilling. In short, it would have been a much better movie if focused on either/or.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=8205</url>
+         <critic>Michael Ferraro</critic>
+      </review>
+      <review>
+         <snippet>Black comedy? Black enough, but they muffed the other word. Robert Benton and Harold Ramis, put on dunce caps and go stand in the corner.</snippet>
+         <url>http://www.tnr.com/doc.mhtml?i=20051219&amp;s=kauffmann121905</url>
+         <critic>Stanley Kauffmann</critic>
+      </review>
+      <review>
+         <snippet>A decent enough little B-movie which delivers some pleasingly weird violence and endless plot reversals. But there’s still a mild sense of pointlessness to the whole thing and the feeling that in different hands it could have been much better.</snippet>
+         <url>http://www.empireonline.com/incinemas/ReviewComplete.asp?FID=10274</url>
+         <critic>Adam Smith</critic>
+      </review>
+      <review>
+         <snippet>There is very little fun in The Ice Harvest, which wouldn't pose a problem if the film had some fleshed-out ideas to go along with the booze, the booty and the recycled plot points.</snippet>
+         <url>http://www.nytimes.com/2005/11/23/movies/23harv.html</url>
+         <critic>Manohla Dargis</critic>
+      </review>
+      <review>
+         <snippet>Goes awry within moments and never gets on track. The scripters and director Harold Ramis have no idea whether to aim for cynical humor, film-noir romance or post-crime tension, so they miss all three targets completely.</snippet>
+         <url>http://ae.charlotte.com/entertainment/ui/charlotte/movie.html?id=479083&amp;reviewId=19574&amp;startDate=NEXT7</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>What a waste.</snippet>
+         <url>http://sfgate.com/cgi-bin/article.cgi?f=/c/a/2005/11/23/DDGJOFS6GF1.DTL&amp;type=movies</url>
+         <critic>Neva Chonin</critic>
+      </review>
+   </reviews>
+   <US_Gross>$9,016,782</US_Gross>
+   <weekend_gross>$5,047,783</weekend_gross>
+   <number_of_screens>1,552</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

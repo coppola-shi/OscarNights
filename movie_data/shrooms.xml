@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Shrooms</name>
+   <company>Magnolia Pictures</company>
+   <genres>
+      <genre>Horror</genre>
+   </genres>
+   <authors>
+      <author>Pearse Elliott</author>
+   </authors>
+   <directors>
+      <director>Paddy Breathnach</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Lindsey Haun</actor>
+      <actor>Jack Huston</actor>
+      <actor>Max Kasch</actor>
+      <actor>Maya Hazen</actor>
+      <actor>Alice Greczyn</actor>
+      <actor>Don Wycherley</actor>
+      <actor>Sean McGinley</actor>
+      <actor>Robert Hoffman</actor>
+   </actors>
+   <release_date>February 1, 2008</release_date>
+   <running_time>84</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>Turns into a pedestrian slice 'n' dice feature.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2008/02/08/DD4QUTE1O.DTL#flick2</url>
+         <critic>Walter Addiego</critic>
+      </review>
+      <review>
+         <snippet>By-the-numbers item, in which five American college students literally get wasted while tripping out on magic mushrooms in rural Ireland, is OK vid fodder with few real scares and not an ounce of originality.</snippet>
+         <url>http://www.variety.com/review/VE1117934481.html?categoryid=31&amp;cs=1&amp;p=0</url>
+         <critic>Derek Elley</critic>
+      </review>
+      <review>
+         <snippet>The film's one original moment comes when Bluto has a conversation with a cow. The rest of it, from the distorting lens used randomly to suggest unreality, to the twist ending lifted verbatim from the superior "High Tension," is about as imaginative as a portobello steak with onions.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/350467_shrooms08q.html</url>
+         <critic>Bill White</critic>
+      </review>
+   </reviews>
+   <US_Gross>$2,863</US_Gross>
+   <weekend_gross>$1,849</weekend_gross>
+   <number_of_screens>4</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Pathology</name>
+   <company>MGM</company>
+   <genres>
+      <genre>Crime</genre>
+      <genre>Horror</genre>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>Mark Neveldine</author>
+      <author>Brian Taylor</author>
+   </authors>
+   <directors>
+      <director>Marc Schoelermann</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Milo Ventimiglia</actor>
+      <actor>Michael Weston</actor>
+      <actor>Alyssa Milano</actor>
+      <actor>Lauren Lee Smith</actor>
+      <actor>Johnny Whitworth</actor>
+      <actor>Keir O&amp;#039;Donnell</actor>
+      <actor>Dan Callahan</actor>
+      <actor>Mei Melancon</actor>
+   </actors>
+   <release_date>April 18, 2008</release_date>
+   <running_time>93</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>Even squeamish viewers are apt to be captivated by the tight, credible scripting; these 20-somethings talk and behave like today's irony-clad young sophisticates. And whatever your opinion of the subject matter, you can't fault the filmmaking.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=10072</url>
+         <critic>Sandy MacDonald</critic>
+      </review>
+      <review>
+         <snippet>When a movie opens with the diner scene from "When Harry Met Sally" as performed by cadavers, and later proceeds to sex scenes involving scalpels and needles, the actual plot is inconsequential. Fans of hard-R exploitation will love this; everyone else will likely be appalled. Screw 'em.</snippet>
+         <url>http://www.laweekly.com/film+tv/film-reviews/movie-reviews-zombie-strippers-floating-life-lost-in-beijing/18732/?page=3</url>
+         <critic>Luke Y. Thompson</critic>
+      </review>
+      <review>
+         <snippet>A nasty, naughty little film, a delightfully disagreeable horror-thriller.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-pathology21apr21,0,1791549.story</url>
+         <critic>Mark Olsen</critic>
+      </review>
+      <review>
+         <snippet>Much like "Crank," it's the guiltiest of guilty pleasures.</snippet>
+         <url>http://www.avclub.com/content/cinema/pathology</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>Like its characters, the picture is too clever for its own good, allowing the meticulously researched scenario to be undone by implausible behavior and gaping plot holes.</snippet>
+         <url>http://www.variety.com/review/VE1117936844.html?categoryid=31&amp;cs=1</url>
+         <critic>Peter Debruge</critic>
+      </review>
+      <review>
+         <snippet>It takes a certain genius to make butchered corpses, sociopathic lunacy and meth-fueled debauchery nerve-scrapingly dull, and German director Marc Schoelermann and screenwriters Mark Neveldine and Brian Taylor (Crank) possess it.</snippet>
+         <url>http://www.tvguide.com/movies/pathology/review/293336</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>A particularly nasty slice of medical-themed horror, Marc Scholermann's film is the sort of thriller in which the tenderest scene depicts an autopsy.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?JSESSIONID=m4nfLJ9b8nNTrt8tn52WwQrHgkN882h1LZC2WwPkTmv6TGJwBMTX!1051653258&amp;&amp;rid=10988</url>
+         <critic>Frank Scheck</critic>
+      </review>
+      <review>
+         <snippet>Alyssa Milano is a delight, but her ten to thirteen minutes of screen-time mark her as more of a distraction than substantiation.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=10931</url>
+         <critic>Stina Chyn</critic>
+      </review>
+   </reviews>
+   <US_Gross>$109,045</US_Gross>
+   <weekend_gross>$54,244</weekend_gross>
+   <number_of_screens>46</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

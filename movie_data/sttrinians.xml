@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>St. Trinian&amp;#039;s</name>
+   <company>NeoClassics Films</company>
+   <genres>
+      <genre>Comedy</genre>
+   </genres>
+   <authors>
+      <author>Piers Ashworth</author>
+      <author>Nick Moorcroft</author>
+   </authors>
+   <directors>
+      <director>Barnaby Thompson</director>
+      <director>Oliver Parker</director>
+   </directors>
+   <origins>
+      <origin>UK</origin>
+   </origins>
+   <actors>
+      <actor>Rupert Everett</actor>
+      <actor>Colin Firth</actor>
+      <actor>Russell Br</actor>
+      <actor>Talulah Riley</actor>
+      <actor>Gemma Arterton</actor>
+      <actor>Mischa Barton</actor>
+      <actor>Stephen Fry</actor>
+   </actors>
+   <release_date>August 28, 2009</release_date>
+   <running_time>97</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>Sadly, the movie is a zoo.</snippet>
+         <url>http://www.boston.com/ae/movies/articles/2009/10/09/girls_of_st_trinians_just_want_to_have_fun/</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>Can be enjoyed in all its endearing awfulness, as a loony "High School Musical" with posher accents and a lot more going on upstairs.</snippet>
+         <url>http://www.villagevoice.com/2009-10-06/film/boarding-school-remake-st-trinian-s-is-high-school-musical-with-posher-accents/</url>
+         <critic>Ella Taylor</critic>
+      </review>
+      <review>
+         <snippet>Anyone with a fondness for the midcentury cartoons and films that inspired this scrappy comedy will appreciate the latest trip to the titular British boarding school.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2009/10/09/2009-10-09_short_film_reviews_.html?page=1</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>Mildly amusing result, with plenty of slack in its 100 minutes, should work OK with its target audience of female Brit tweenies, who won't notice the pic's shoddy technical package, sloppy direction and the way the original films' antiestablishment tone has morphed into a celebration of dumbed-down "yoof" culture.</snippet>
+         <url>http://www.variety.com/review/VE1117935720.html?categoryid=31&amp;cs=1&amp;p=0</url>
+         <critic>Derek Elley</critic>
+      </review>
+      <review>
+         <snippet>Remaking eccentric English comedies is seldom a good idea, especially the ones from Ealing Studios with all those wonderful character actors. But against all odds, the new version of St. Trinian's almost pulls it off.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?rid=10378</url>
+         <critic>Ray Bennett</critic>
+      </review>
+      <review>
+         <snippet>At heart, though, the movie is as tame as "The Belles of St. Trinian's," the 1954 farce that started it all.</snippet>
+         <url>http://www.npr.org/templates/story/story.php?storyId=113429296</url>
+         <critic>Mark Jenkins</critic>
+      </review>
+      <review>
+         <snippet>The target audience - pre-teen girls - aren’t going to notice the many shortfalls behind the camera. What they’ll enjoy, regardless of quality, is some naughtiness true to the spirit of the series, Russell Brand and Girls Aloud. For the rest of us it’s tougher going with mostly Everett and Firth to see us through.</snippet>
+         <url>http://www.empireonline.com/reviews/reviewcomplete.asp?FID=135146</url>
+         <critic>Sam Toy</critic>
+      </review>
+      <review>
+         <snippet>Bad in ways that are almost endearing, St. Trinian's does offer the spectacle of Rupert Everett mincing around in drag as a headmistress bedeviled by Colin Firth, as an education minister and former lover who wants to shut down her out-of-control school.</snippet>
+         <url>http://www.nypost.com/p/entertainment/movies/fitful_fun_but_not_class_act_9HEd5rNRwykxXqbstsmdEN</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>A stunningly witless revival of the infamous British film series about a girls’ boarding school.</snippet>
+         <url>http://movies.nytimes.com/2009/10/09/movies/09trinian.html?ref=movies</url>
+         <critic>Jeannette Catsoulis</critic>
+      </review>
+      <review>
+         <snippet>Despite a plucky soundtrack and frantic editing, the movie shows otherwise wan interest in the gaggle of faux-transgressive bad girls who bare their dulled claws at England’s establishment ethos, as though that notion alone were somehow fresh and cheeky.</snippet>
+         <url>http://newyork.timeout.com/articles/film/79335/st-trinians-film-review</url>
+         <critic>Stephen Garrett</critic>
+      </review>
+   </reviews>
+   <US_Gross>$15,000</US_Gross>
+   <weekend_gross>$15,000</weekend_gross>
+   <number_of_screens>76</number_of_screens>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>After the Wedding</name>
+   <company>IFC Films</company>
+   <genres>
+      <genre>Drama</genre>
+      <genre>Foreign</genre>
+   </genres>
+   <authors>
+      <author>Susanne Bier</author>
+      <author>Anders Thomas Jensen</author>
+   </authors>
+   <directors>
+      <director>Susanne Bier</director>
+   </directors>
+   <origins>
+      <origin>DenmarkSweden</origin>
+   </origins>
+   <actors>
+      <actor>Mads Mikkelsen</actor>
+      <actor>Sidse Babett Knudsen</actor>
+      <actor>Rolf Lassgård</actor>
+      <actor>Stine Fischer Christensen</actor>
+      <actor>Mona Malm</actor>
+      <actor>Christian Tafdrup</actor>
+      <actor>Frederik Gullits Ernst</actor>
+      <actor>Kristian Gullits Ernst</actor>
+   </actors>
+   <release_date>March 30, 2007</release_date>
+   <running_time>120</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>A highly original and unusually powerful drama that deserves comparison to the great Scandinavian films of the past.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/312337_wedding20q.html</url>
+         <critic>William Arnold</critic>
+      </review>
+      <review>
+         <snippet>One of the best films to open in the Bay Area in 2007.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2007/04/20/DDGOKPB2V91.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>It's a riveting character study/soap opera.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/117633932086650.xml&amp;coll=7</url>
+         <critic>Marc Mohan</critic>
+      </review>
+      <review>
+         <snippet>Talented filmmaker Susanne Bier (Brothers), armed with an outstanding compositional sense, keeps control over the storms of melodrama that swirl in this rich weepie.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20016262,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>A thrilling -- and harrowing, and beautiful -- celebration of the unpredictability of life.</snippet>
+         <url/>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>What feels at first like a quiet, straightforward picture builds into one of the richest and most satisfying of the year so far, in any genre or any language.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2007/03/29/btm/index1.html</url>
+         <critic>Andrew O&amp;#039;Hehir</critic>
+      </review>
+      <review>
+         <snippet>With a third-act twist that outdoes that initial revelation, the film turns out to be a thoughtful exploration of paternity and responsibility. Much of the film's success lies in Bier's sensitive direction, but credit is also due to the fine cast, particularly Mikkelsen.</snippet>
+         <url>http://www.tvguide.com/movies/wedding/review/285911</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>Bier primes us for a catfight, but she gives something tastier: a feast of reconciliation and love.</snippet>
+         <url>http://www.philly.com/inquirer/columnists/carrie_rickey/20070413_Two_memorable_male_characters_who_are______.html</url>
+         <critic>Carrie Rickey</critic>
+      </review>
+      <review>
+         <snippet>After the Wedding defies the odds: For once, the bigger the emotion, the truer the moviegoing experience.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-070420-movies-review-wedding,0,1379985.story?coll=mmx-movies_top_heds</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>Mikkelsen, like Jimmy Stewart, projects emotions with a slight twitch of a lip or narrowing of an eye. His long face - often handsome, sometimes plain, always cryptic - yields secrets slowly; you have to watch an entire film to know how his character feels and how you feel about him.</snippet>
+         <url>http://ae.miami.com/entertainment/ui/miami/movie.html?id=855974&amp;reviewId=22422</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>Bier directs with a sense of motion, pleasant without pushing. Mads Mikkelsen, who plays Jacob, is an actor who absolutely belongs on the screen, a gentler sort of Jack Palance.</snippet>
+         <url>http://www.tnr.com/doc.mhtml?i=20070423&amp;s=kauffmann042307</url>
+         <critic>Stanley Kauffmann</critic>
+      </review>
+      <review>
+         <snippet>Once again Bier demonstrates just how misleading appearances can be, as she artfully removes the veneers concealing the dark truths locked away by her intriguing characters.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/imdb/reviews/article_display.jsp?rid=1003119079&amp;vnu_special_account_code=thrsiteimdbpro</url>
+         <critic>Michael Rechtshaffen</critic>
+      </review>
+      <review>
+         <snippet>Thanks to a tight script, sharp direction and excellent actors, new film by Danish helmer Susanne Bier manages to be both emotional and engaging.</snippet>
+         <url>http://www.variety.com/awardcentral_review/VE1117930046.html?nav=reviews07&amp;categoryid=2352&amp;cs=1&amp;p=0</url>
+         <critic>Gunnar Rehlin</critic>
+      </review>
+      <review>
+         <snippet>After the Wedding would never pretend to have any answers, but in hands this skilled the act of exploration itself couldn't be more illuminating, or more dramatic.</snippet>
+         <url>http://www.calendarlive.com/printedition/calendar/cl-et-after30mar30,0,3584043.story</url>
+         <critic>Kenneth Turan</critic>
+      </review>
+      <review>
+         <snippet>A rich, intricate and very gripping movie.</snippet>
+         <url>http://www.time.com/time/arts/article/0,8599,1605049,00.html</url>
+         <critic>Richard Schickel</critic>
+      </review>
+      <review>
+         <snippet>Wedding has enough coincidences, screamfests, drunken rants and shock revelations to fill a season of "Desperate Housewives," but it comes across as finely textured drama, thanks to the performers, who make their characters so persuasive and three-dimensional, we're too mesmerized to care about the story's more overwrought or histrionic passages.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1132569&amp;categories=Movies&amp;nm=1</url>
+         <critic>Desson Thomson</critic>
+      </review>
+      <review>
+         <snippet>Unfortunately, in Bier’s world, where even the most innocuous acts can result in emotional ruin, redemption is purgatorial in its own peculiar way.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A477398</url>
+         <critic>Josh Rosenblatt</critic>
+      </review>
+      <review>
+         <snippet>Those willing to overlook its emotional grandstanding will find much to admire and even more to think about in this Oscar-nominated Danish drama.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-to.after25may25,0,3165624.story?coll=bal-artslife-movies</url>
+         <critic>Chris Kaltenbach</critic>
+      </review>
+      <review>
+         <snippet>In After the Wedding Susanne Bier pushes the envelope further, toward operatic passion and the visual symbolism of Ingmar Bergman.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=9787</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>After the Wedding ends up feeling far weightier than it first appears, with its plot contrivances and unlikely coincidences generating such a messy range of emotions, they end up feeling a lot like real life.</snippet>
+         <url>http://ae.miami.com/entertainment/ui/miami/movie.html?id=855974&amp;reviewId=22420</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>This is a fine tale of families and secrets, and its seemingly cold exterior gives way to something unexpectedly warm and soft inside.</snippet>
+         <url>http://www.reelviews.net/movies/a/after_wedding.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>After the Wedding is full of enough plot twists to supply a whole season of "Desperate Housewives."</snippet>
+         <url>http://www.nypost.com/seven/03302007/entertainment/movies/after_the_wedding_movies_lou_lumenick.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>The characters may suffer once the bride walks down the aisle, but Bier, Jensen and their first-rate cast work together like a match made in heaven.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2007/03/30/2007-03-30_short_takes_bitesize_movie_reviews.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>What happens after the wedding comprises a full three-quarters of Bier's epic, whose near-Biblical twists and turns--I wouldn't think of giving them away--are enough to fill four weepies.</snippet>
+         <url>http://www.villagevoice.com/film/0713,nelson,76205,20.html</url>
+         <critic>Rob Nelson</critic>
+      </review>
+      <review>
+         <snippet>A fine and, on a scene-by-scene basis, often better than fine, if effectively unadventurous work.</snippet>
+         <url>http://movies2.nytimes.com/2007/03/30/movies/30wedd.html?ref=movies</url>
+         <critic>Manohla Dargis</critic>
+      </review>
+      <review>
+         <snippet>Jensen's dramatic structure is so visible this sometimes seems like a late Rod Serling teleplay, but Bier has proved highly adept at merging conventional drama with the immediacy of the Dogma 95 movement.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/31302_AFTER_THE_WEDDING_EFTER_BRYLLUPPET.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>With its soapy earnestness and use of suffering souls as set dressing, After The Wedding could be the cinematic equivalent of a Coldplay song. And while that isn't necessarily a slam, it isn't a recommendation either.</snippet>
+         <url>http://www.avclub.com/content/cinema/after_the_wedding</url>
+         <critic>Noel Murray</critic>
+      </review>
+      <review>
+         <snippet>At two hours, After the Wedding stretches out family flux too thinly and waits too long to reveal the final, devastating secret that we already know.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20070413.wafter13/BNStory/Entertainment/home</url>
+         <critic>Jennie Punter</critic>
+      </review>
+      <review>
+         <snippet>Evidently, this bloated piece of Oscar-nominated nonsense was a big hit in Denmark, which makes me think there's a glittering future in that otherwise discriminating country for several seasons of "Days of Our Lives."</snippet>
+         <url>http://www.laweekly.com/film+tv/film-reviews/film-reviews-meet-the-robinsons-blades-of-glory/16008/</url>
+         <critic>Ella Taylor</critic>
+      </review>
+   </reviews>
+   <US_Gross>$1,526,359</US_Gross>
+   <weekend_gross>$47,311</weekend_gross>
+   <number_of_screens>5</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Trudell</name>
+   <company>Balcony Releasing</company>
+   <genres>
+      <genre>Documentary</genre>
+   </genres>
+   <authors>
+      <author>Russell Friedenberg</author>
+   </authors>
+   <directors>
+      <director>Heather Rae</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>John Trudell</actor>
+      <actor>Robert Redford</actor>
+      <actor>Kris Kristofferson</actor>
+      <actor>Sam Shepard</actor>
+      <actor>Amy Ray</actor>
+      <actor>Val Kilmer</actor>
+      <actor>Jackson Browne</actor>
+      <actor>Darelle &amp;#039;Dino&amp;#039; Butler</actor>
+      <actor>Wilma Mankiller</actor>
+      <actor>Bonnie Raitt</actor>
+   </actors>
+   <release_date>February 24, 2006</release_date>
+   <running_time>75</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>It's an intriguing portrait, but it makes no pretense at objectivity, erring on the side of hero worship.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2006/02/03/DDG14H1DQP1.DTL</url>
+         <critic>Walter Addiego</critic>
+      </review>
+      <review>
+         <snippet>A thought-provoking and graceful portrait of a tenacious peace warrior whose frankness is his greatest weapon.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=8911</url>
+         <critic>Erin Meister</critic>
+      </review>
+      <review>
+         <snippet>Unfortunately, Rae's film is split down the middle, and the appeal of its latter half depends on your tolerance for earnest politico-poetry set to wailing rock guitar and Native American chants and extraneously endorsed by celebrity talking heads. The backstory portion of the film, though, is riveting.</snippet>
+         <url>http://www.villagevoice.com/film/0608,holcomb,72263,20.html</url>
+         <critic>Mark Holcomb</critic>
+      </review>
+      <review>
+         <snippet>Rae's 80-minute film isn't able to answer every question or flesh out important details of these events, and she spends more time on Trudell's artistic endeavors than on his direct political action.</snippet>
+         <url>http://online.tvguide.com/movies/database/Movie-Review.asp?MI=46757</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>No one in the film has a bad word to say about Mr. Trudell, despite his 17,000-page F.B.I. dossier; and by the time Robert Redford assures us that meeting him is not dissimilar to meeting the Dalai Lama, you may feel that all this worship does not do justice to an unusually stormy and complicated life.</snippet>
+         <url>http://movies2.nytimes.com/2006/02/24/movies/24trud.html</url>
+         <critic>Jeannette Catsoulis</critic>
+      </review>
+      <review>
+         <snippet>More hagiography than history, Heather Rae's long-in-production portrait of Native American activist and poet John Trudell has the uncritically admiring feel of authorized biography.</snippet>
+         <url>http://www.variety.com/review/VE1117926336?categoryid=31&amp;cs=1</url>
+         <critic>Joe Leydon</critic>
+      </review>
+      <review>
+         <snippet>Anyone looking for history lessons from Rae's documentary will have to be patient and alert enough to pick through the poetry.</snippet>
+         <url>http://www.avclub.com/content/node/45641</url>
+         <critic>Noel Murray</critic>
+      </review>
+      <review>
+         <snippet>Feels padded in some places, truncated in others. It also feels too respectful, especially when its subject is such a deep thinker and questioner of authority.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1002275003</url>
+         <critic>Sheri Linden</critic>
+      </review>
+      <review>
+         <snippet>Rae does offer a riveting introduction to the American Indian civil rights movement.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/moviereviews/story/394257p-334143c.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>Unfortunately, absent a more objective context, Trudell's gnomic utterances do little to support those sentiments. By preaching so relentlessly to the choir, this film misses an opportunity to show what got them to sing in the first place.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-trudell10mar10,0,1458033.story</url>
+         <critic>Kenneth Turan</critic>
+      </review>
+      <review>
+         <snippet>How could a movie about someone with one of the nation's longest FBI files be this dull?</snippet>
+         <url>http://www.laweekly.com/film-reviews/12859/film-reviews/</url>
+         <critic>Tim Grierson</critic>
+      </review>
+      <review>
+         <snippet>The man whom the FBI described as "extremely eloquent, therefore extremely dangerous" here seems about as threatening as Mother Teresa.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A350773</url>
+         <critic>Marjorie Baumgarten</critic>
+      </review>
+      <review>
+         <snippet>While Trudell has a few interesting and emotional moments in its second half, from the start it is badly hobbled by its worshipful tone.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=6823</url>
+         <critic>Bob Westal</critic>
+      </review>
+      <review>
+         <snippet>Politics aside, Trudell plays like an infomercial for its subject rather than a serious examination of the man and his beliefs.</snippet>
+         <url>http://www.nypost.com/movies/64105.htm</url>
+         <critic>V.A. Musetto</critic>
+      </review>
+   </reviews>
+   <US_Gross>$26,756</US_Gross>
+   <weekend_gross>$1,592</weekend_gross>
+   <number_of_screens>1</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

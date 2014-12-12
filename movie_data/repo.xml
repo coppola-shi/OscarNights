@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Repo! The Genetic Opera</name>
+   <company>Lionsgate</company>
+   <genres>
+      <genre>Fantasy</genre>
+      <genre>Horror</genre>
+      <genre>Musical</genre>
+   </genres>
+   <authors>
+      <author>Terrence Zdunich</author>
+      <author>Darren Smith</author>
+   </authors>
+   <directors>
+      <director>Darren Lynn Bousman</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Sarah Brightman</actor>
+      <actor>Anthony Head</actor>
+      <actor>Paris Hilton</actor>
+      <actor>Bill Moseley</actor>
+      <actor>Paul Sorvino</actor>
+      <actor>Alexa Vega</actor>
+      <actor>Kevin Ogilvie</actor>
+   </actors>
+   <release_date>November 7, 2008</release_date>
+   <running_time>98</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>Piles on the glam-rock spectacle and coal-black comedy at such a brusque pace that it often seems in danger of rattling off the rails entirely.</snippet>
+         <url>http://www.avclub.com/content/cinema/repo_the_genetic_opera</url>
+         <critic>Sean O&amp;#039;Neal</critic>
+      </review>
+      <review>
+         <snippet>It's not often you come across a film as unique as this, and while my taste for liver, lights, and sweetbreads isn't what it once was, this is still a fine post-Halloween aperitif, with guts to spare.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A698011</url>
+         <critic>Marc Savlov</critic>
+      </review>
+      <review>
+         <snippet>Only time will tell whether REPO! can live up to its cult potential, but the potential is most definitely there.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=11110</url>
+         <critic>Mariko McDonald</critic>
+      </review>
+      <review>
+         <snippet>Paris Hilton also turns up, still trying to be famous for more than being famous. She has a ways to go.</snippet>
+         <url>http://www.csmonitor.com/2008/1108/p25s03-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>This would-be cult film is unlikely to inspire "Rocky Horror"-style devotion.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?JSESSIONID=rTtDJc7fy1DJJdzZC0kpT3Zx2MdbHh8Hx1V244QdY2k9pyVJ7zrD!1334112250&amp;&amp;rid=11929</url>
+         <critic>Frank Scheck</critic>
+      </review>
+      <review>
+         <snippet>While Repo! is obviously no "Zauberflöte," it does offer up spectacle on an operatic scale.</snippet>
+         <url>http://www.premiere.com/moviereviews/4825/repo-the-genetic-opera.html</url>
+         <critic>Jenni Miller</critic>
+      </review>
+      <review>
+         <snippet>Feels destined to please a campy coterie of fans and no one else.</snippet>
+         <url>http://movies.nytimes.com/2008/11/07/movies/07repo.html?ref=movies</url>
+         <critic>Nathan Lee</critic>
+      </review>
+      <review>
+         <snippet>Check out the trailer before you commit to this one; if it's for you, you'll know instantly. And if it's not, you'll know that, too.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2008/11/06/2008-11-06_more_movie_reviews_for_the_weekend_of_no.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>There probably aren't enough futuristic Goth rock musicals, but Repo! The Genetic Opera is weak on a couple of things a musical needs: music and lyrics.</snippet>
+         <url>http://www.nypost.com/seven/11072008/entertainment/movies/dark_future__bad_soundtrack_137480.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>If steampunk bloodbaths aren't for you, it's a long wait for the fat lady to sing.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20237783,00.html</url>
+         <critic>Sean Howe</critic>
+      </review>
+      <review>
+         <snippet>The biggest mystery about Repo! The Genetic Opera is why the grisly Goth-horror musical is opening the week after Halloween. The second-biggest mystery is why this unfunny, unscary, preposterous bloodbath about organ transplants is opening at all.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2008-11-06-repo-genetic-opera_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>So over-the-top it's purple. At the same time, it's not too many lengths of intestine beyond some mainstream movies, "Sweeney Todd" being the most obvious comparison.</snippet>
+         <url>http://www.variety.com/review/VE1117937798.html?categoryid=31&amp;cs=1&amp;query=Repo%21+the+genetic+opera</url>
+         <critic>John Anderson</critic>
+      </review>
+      <review>
+         <snippet>Misery is enduring this Rocky Horror Paris Show.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/21918704/review/24014134/repo_the_genetic_opera</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>The film is bad -- not good-bad, tacky-bad or fun-bad, just plain awful and nearly unwatchable.</snippet>
+         <url>http://www.latimes.com/entertainment/news/reviews/la-et-repo7-2008nov07,0,192225.story</url>
+         <critic>Mark Olsen</critic>
+      </review>
+      <review>
+         <snippet>The grim finality of the ensuing pietà suggests the last act of Hamlet or, rather, Hamlet 2--so embarrassing that, for the first time, I wanted to avert my eyes from the screen, although that might have also been because Repo! appears to have been shot with a cell phone.</snippet>
+         <url>http://www.villagevoice.com/2008-11-05/film/embarrasing-camp-in-repo-the-genetic-opera-and-self-reflexive-mockery-in-jcvd/</url>
+         <critic>J. Hoberman</critic>
+      </review>
+   </reviews>
+   <US_Gross>$140,244</US_Gross>
+   <weekend_gross>$53,684</weekend_gross>
+   <number_of_screens>8</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

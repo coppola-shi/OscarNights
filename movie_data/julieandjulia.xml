@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Julie &amp; Julia</name>
+   <company>Columbia Pictures (Sony)</company>
+   <genres>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author>Nora Ephron</author>
+   </authors>
+   <directors>
+      <director>Nora Ephron</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Meryl Streep</actor>
+      <actor>Amy Adams</actor>
+      <actor>Stanley Tucci</actor>
+      <actor>Chris Messina</actor>
+      <actor>Linda Emond</actor>
+   </actors>
+   <release_date>August 7, 2009</release_date>
+   <running_time>123</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>One of the gentlest, most charming American movies of the past decade. Its subject is less food as something to cook than food as the binding and unifying element of dinner parties, friendship, and marriage.</snippet>
+         <url>http://www.newyorker.com/arts/critics/cinema/2009/08/24/090824crci_cinema_denby?currentPage=2</url>
+         <critic>David Denby</critic>
+      </review>
+      <review>
+         <snippet>Even if you don't give a shiitake mushroom about food, there's much to savor in this lively comedy with dramatic aftertastes.</snippet>
+         <url>http://www.philly.com/philly/entertainment/movies/20090807_A_film_as_delicious_as_French_cuisine.html</url>
+         <critic>Carrie Rickey</critic>
+      </review>
+      <review>
+         <snippet>It hooks you up, happily, to your inner top chef.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20296109,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>Julie &amp; Julia makes deboning a duck a feminist act and cooking a great meal a creative triumph. The stakes may not be as high as the kill-or-be-killed suspense of a summer action movie, but the sauces are way tastier.</snippet>
+         <url>http://www.slate.com/id/2224414/</url>
+         <critic>Dana Stevens</critic>
+      </review>
+      <review>
+         <snippet>Deliciously funny and warming fare, for which the amazing Meryl deserves her ridiculously overdue third Oscar.</snippet>
+         <url>http://www.empireonline.com/reviews/reviewcomplete.asp?FID=135316</url>
+         <critic>Staff (Not credited)</critic>
+      </review>
+      <review>
+         <snippet>A consummate entertainment that echoes the rhythms and attitudes of classic Hollywood, it's a satisfying throwback to those old-fashioned movie fantasies where impossible dreams do come true. And, in this case, it really happened. Twice.</snippet>
+         <url>http://www.latimes.com/entertainment/news/reviews/movies/la-et-julie-julia7-2009aug07,0,1724703.story</url>
+         <critic>Kenneth Turan</critic>
+      </review>
+      <review>
+         <snippet>Julie &amp; Julia proceeds with such ease and charm that its audacity -- is easy to miss.</snippet>
+         <url>http://movies.nytimes.com/2009/08/07/movies/07julie.html?ref=movies</url>
+         <critic>A.O. Scott</critic>
+      </review>
+      <review>
+         <snippet>Streep isn't playing Julia Child here, but something both more elusive and more truthful -- she's playing our IDEA of Julia Child.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2009/08/07/julie_julia_review/index.html</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>There's very little doubt in my mind that somewhere, culinary legend Julia Child is fuming about being consigned to a double bio-pic with a whiny, self-centered cooking blogger.</snippet>
+         <url>http://www.nypost.com/seven/08072009/entertainment/movies/childs_play_183313.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>Meryl Streep -- at her brilliant, beguiling best -- is the spice that does the trick for the yummy Julie &amp; Julia.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/21376803/review/29554759/julie__julia</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>Spiced with plenty of humor and affection.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2009-08-06-julie-and-julia_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>Few movies are as delightful as Julie &amp; Julia.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2009/08/06/MVF4194BV6.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>The result is a movie that, in its best moments, is delightful. It does lose a significant amount of steam halfway through -- likely due in part to its two hours of running time.</snippet>
+         <url>http://www.nola.com/movies/index.ssf/2009/08/julie_and_julia_review_meryl_s.html</url>
+         <critic>Mike Scott</critic>
+      </review>
+      <review>
+         <snippet>The film is at its best in scenes set in Europe in the 1950s – the protracted genesis of "Mastering the Art" provides the drama here.</snippet>
+         <url>http://www.theglobeandmail.com/news/arts/julie-julia/article1243574/</url>
+         <critic>Kate Taylor</critic>
+      </review>
+      <review>
+         <snippet>One can’t help but wonder if Ephron would’ve been better off focusing exclusively on Child: She’s simply more interesting screen company.</snippet>
+         <url>http://featuresblogs.chicagotribune.com/talking_pictures/</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>This is blissful moviemaking. Much of the pleasure we have in watching it comes from seeing Tucci and, obviously, Streep connect.</snippet>
+         <url>http://www.boston.com/ae/movies/articles/2009/08/07/julie__julia_is_a_chefs_delight/</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>In Julie and Julia, Ephron, like her heroines, has finally found what suits her: a surprising comic and romantic realism.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-julie-julia-review-0806,0,7654229.story</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>Streep is astonishing, conveying Child's gusto, her quavering voice, even her height.</snippet>
+         <url>http://www.stltoday.com/stltoday/entertainment/reviews.nsf/movie/story/F4B4D3DFB212FBCC86257609007843EB?OpenDocument</url>
+         <critic>Joe Williams</critic>
+      </review>
+      <review>
+         <snippet>As enjoyable as this foodie movie is, you wish it would take a deeper, more nuanced measure of the women who, in two different eras, star in the movie's kitchens.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film-reviews/julie-and-julia-film-review-1003997007.story</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>Julie &amp; Julia is full of holes, but you don't even care when Streep is onscreen.</snippet>
+         <url>http://nymag.com/movies/reviews/58189/</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>Streep is the most important ingredient in this recipe.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2009/08/06/2009-08-06_julie__julia_meryl_streep_is_a_recipe_for_success_but_amy_adams_could_use_a_pinc.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>There are many things wrong with Julie and Julia but, if you're looking to get hitched, you won't find a better booster.</snippet>
+         <url>http://www.csmonitor.com/2009/0807/p17s01-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>The marriage of these two tales, however, should have ended in divorce court.</snippet>
+         <url>http://www.reelviews.net/php_review_template.php?identifier=1763</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>You know the feeling you get when you make a meal of two mildly savory appetizers that don't quite go together, and you leave you wishing you'd eaten one hefty entrée? That's Julie &amp; Julia. Half an hour later, I wanted to watch another movie.</snippet>
+         <url>http://events.charlotteobserver.com/reviews/show/52791-review-julie-julia</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>The movie could have used a few more scenes focusing on Child at work in the kitchen -- a few more scenes with Child doing anything, really.</snippet>
+         <url>http://www.miamiherald.com/entertainment/movies/reviews/story/1173690.html</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>Julie &amp; Julia is not lacking in entertainment value, especially with the Streep performance. But if the men had been portrayed as more high-spirited, it might have taken on intriguing dimensions.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20090805/REVIEWS/908069991</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>A movie that soars whenever Child is on the screen and sags when Powell shows up.</snippet>
+         <url>http://www.washingtonpost.com/wp-dyn/content/article/2009/08/06/AR2009080602781.html</url>
+         <critic>Ann Hornaday</critic>
+      </review>
+      <review>
+         <snippet>One keeps waiting for the title characters' lives to intersect, but when they finally do--with a reporter asking Powell to comment on Child's disparaging remarks about her--Ephron scurries away from the moment and its implications.</snippet>
+         <url>http://www.chicagoreader.com/chicago/MovieTimes?film=977841</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>Beyond "Streep camp," Julie and Juila falls into the drone of current historical movies, namely, the time-travel period treatment.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=11839</url>
+         <critic>Matthew Sorrento</critic>
+      </review>
+      <review>
+         <snippet>It was the best of movies. It was the worst of movies. Which is to say: There's half of a great movie in Julie &amp; Julia.</snippet>
+         <url>http://www.villagevoice.com/2009-08-04/film/in-praise-of-the-julia-half-of-julie-julia/</url>
+         <critic>Robert Wilonsky</critic>
+      </review>
+      <review>
+         <snippet>This middling melange of Child biopic and contempo dramedy feels overstuffed and predigested as it depicts two ladies who found fame and fulfillment in their respective eras by cooking and writing about it.</snippet>
+         <url>http://www.variety.com/review/VE1117940721.html?categoryid=31&amp;cs=1</url>
+         <critic>Justin Chang</critic>
+      </review>
+      <review>
+         <snippet>Two movies in one. That’s one more movie than it needs to be.</snippet>
+         <url>http://www.avclub.com/articles/julie-julia,31381/</url>
+         <critic>Keith Phipps</critic>
+      </review>
+      <review>
+         <snippet>Strangely, though, there isn't enough for one movie, and the first clue to why lurks in the title's ampersand, a sort of linguistic duct tape holding together two stories that never really function as one.</snippet>
+         <url>http://online.wsj.com/article/film_review.html</url>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>A romantic comedy, too, but this time the romance is between two women, and one of them, truth be told, is a dud.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A818370</url>
+         <critic>Kimberley Jones</critic>
+      </review>
+   </reviews>
+   <US_Gross>$94,125,426</US_Gross>
+   <production_budget>$40,000,000</production_budget>
+   <weekend_gross>$20,027,956</weekend_gross>
+   <number_of_screens>2,354</number_of_screens>
+   <oscar_winning_actors_present/>
+   <num_oscar_winning_actors>1</num_oscar_winning_actors>
+   <oscar_winning_actor>meryl streep</oscar_winning_actor>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

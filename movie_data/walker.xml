@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Walker, The</name>
+   <company>THINKFilm</company>
+   <genres>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author>Paul Schrader</author>
+   </authors>
+   <directors>
+      <director>Paul Schrader</director>
+   </directors>
+   <origins>
+      <origin>USAUK</origin>
+   </origins>
+   <actors>
+      <actor>Woody Harrelson</actor>
+      <actor>Kristin Scott Thomas</actor>
+      <actor>Lily Tomlin</actor>
+      <actor>Lauren Bacall</actor>
+      <actor>Willem Dafoe</actor>
+      <actor>Ned Beatty</actor>
+      <actor>Moritz Bleibtreu</actor>
+      <actor>Mary Beth Hurt</actor>
+   </actors>
+   <release_date>December 7, 2007</release_date>
+   <running_time>108</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>This is not Schrader's finest work. The script is not tight, the ending disappoints, and there's a little too much drawn from "American Gigolo." But there are some great one-liners, compelling actors, and well-developed characters.</snippet>
+         <url>http://www.reelviews.net/movies/w/walker.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>A quietly enthralling film because it contains the murder and the investigation within Carter's smooth calm.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20071213/REVIEWS/712130307</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>Has a wicked sense of humor.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2007/12/14/DDK4TSTPG.DTL&amp;type=movies</url>
+         <critic>G. Allen Johnson</critic>
+      </review>
+      <review>
+         <snippet>Even if this isn't Schrader's best, it's hardly his worst.</snippet>
+         <url>http://www.variety.com/review/VE1117932799.html?categoryid=31&amp;cs=1&amp;p=0</url>
+         <critic>Leslie Felperin</critic>
+      </review>
+      <review>
+         <snippet>Though ultimately flawed, the film's depiction of velvet-gloved cruelty and matter-of-fact betrayal is surprisingly potent, and it's pure pleasure to watch Bacall prowling the corridors of power, tossing her golden mane and tossing off world-weary observations in a voice pitched somewhere between a purr and a growl.</snippet>
+         <url>http://www.tvguide.com/detail/movie.aspx?tvobjectid=291739&amp;more=ucmoviereview</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>Harrelson's charming flamboyance - seen to great effect in "No Country for Old Men" - is a great fit for Carter, who carries no small amount of self-loathing under his carefully coifed toupee.</snippet>
+         <url>http://www.nypost.com/seven/12072007/entertainment/movies/disorder_in_the_escort_97655.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>Schrader's main interest is not in the mystery, per se, but in the political intrigue of incestuous Washington, where conflicts of interest are the norm and morality is indeed relative. The points are well-taken, but Harrelson's performance often gets in their way.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2007/12/07/2007-12-07_woody_harrelsons_shtick_trips_up_the_wal.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>This is a serious movie and, gliding around the center of power, a stylish one. But, like its protagonist, The Walker is unable to close the deal.</snippet>
+         <url>http://www.villagevoice.com/film/0749,hoberman,78514,20.html</url>
+         <critic>J. Hoberman</critic>
+      </review>
+      <review>
+         <snippet>While it can be labeled a thriller or a murder mystery, the film is talky, unhurried, contains little action and shows more interest in how characters think and behave than in its plot.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?JSESSIONID=YzFtHhdMwzQ1cWrjhQMRQKYrSzsm5phQwYpXd8G7nDBhRndlGp5F!482841917&amp;&amp;rid=10314</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>The brittle, very ''written'' catty quips meant to characterize Washington hypocrisy sound perfunctory; the story of an aging, self-hating homosexual who goes home alone to his lacquered town house feels ancient as well as uncomfortable for the writer-director. (Harrelson seems both game and ill at ease.)</snippet>
+         <url>http://www.ew.com/ew/article/0,,20164197,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>By the end of The Walker a movie that begins as a dazzling round of charades has deteriorated into a plodding game of Clue.</snippet>
+         <url>http://movies.nytimes.com/2007/12/07/movies/07walk.html?ref=movies</url>
+         <critic>Stephen Holden</critic>
+      </review>
+      <review>
+         <snippet>The whole thing feels fusty and forced.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-walker7dec07,0,2150140.story?coll=cl-mreview</url>
+         <critic>Carina Chocano</critic>
+      </review>
+      <review>
+         <snippet>While it's hard to dismiss his intention or effort, Harrelson's one-note performance sinks the film.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/1198716913121730.xml&amp;coll=7</url>
+         <critic>Marc Mohan</critic>
+      </review>
+      <review>
+         <snippet>The main compensation is Harrelson's well-judged and finely shaded performance; the secondary ones are the ladies he hangs out with -- Lauren Bacall, Lily Tomlin, and Kristin Scott Thomas. But the rest of this mainly drifts.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/32591_WALKER.html</url>
+         <critic>Jonathan Rosenbaum</critic>
+      </review>
+      <review>
+         <snippet>A mystery that isn't mysterious, a thriller that's barely thrilling.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/343448_walker14q.html</url>
+         <critic>Paula Nechak</critic>
+      </review>
+      <review>
+         <snippet>Guilty of the most mortal of all movie sins: It's dull.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A573342</url>
+         <critic>Josh Rosenblatt</critic>
+      </review>
+   </reviews>
+   <US_Gross>$79,698</US_Gross>
+   <weekend_gross>$16,525</weekend_gross>
+   <number_of_screens>3</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

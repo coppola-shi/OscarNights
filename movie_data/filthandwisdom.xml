@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Filth and Wisdom</name>
+   <company>IFC Entertainment</company>
+   <genres>
+      <genre>Comedy</genre>
+      <genre>Drama</genre>
+      <genre>Romance</genre>
+   </genres>
+   <authors>
+      <author>Dan Cadan</author>
+   </authors>
+   <directors>
+      <director>Madonna</director>
+   </directors>
+   <origins>
+      <origin>UK</origin>
+   </origins>
+   <actors>
+      <actor>Ade</actor>
+      <actor>Olegar Fedoro</actor>
+      <actor>Gogol Bordello</actor>
+      <actor>Richard E. Grant</actor>
+      <actor>Eugene Hutz</actor>
+      <actor>Vicky Mclure</actor>
+      <actor>Holly Weston</actor>
+   </actors>
+   <release_date>October 17, 2008</release_date>
+   <running_time>81</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>Impossibly arty and, at times, narratively incoherent, Filth and Wisdom still has its goofy charms.</snippet>
+         <url>http://www.philly.com/inquirer/columnists/steven_rea/20081024_Dirty__sexy__muddled_movie_from_Madonna.html</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>There's an undeniably funky charm and abiding can-do spirit to this loose-knit portrait of three London flatmates trying to make their way in the world.</snippet>
+         <url>http://www.villagevoice.com/2008-10-15/film/madonna-not-quite-goddard-sic-with-filth-wisdom/</url>
+         <critic>Scott Foundas</critic>
+      </review>
+      <review>
+         <snippet>The movie is short on wisdom, but it might have gotten by if it had had better filth.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20233328,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>A charming but silly love letter to a vanished era of urban bohemia?</snippet>
+         <url>http://www.salon.com/ent/movies/btm/feature/2008/10/16/filth/</url>
+         <critic>Andrew O&amp;#039;Hehir</critic>
+      </review>
+      <review>
+         <snippet>Madonna's directorial debut, Filth and Wisdom, feels more like a collection of scenes than a fully drawn film.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2008-10-16-filth-and-wisdom_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>A pointless exercise in "shocking" behavior.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20081023/REVIEWS/810239993</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>Madonna, making her directorial debut, aims for the romping irreverence of Richard Lester's 60s comedies, and though she lacks the formal control to pull it off, this is a charming mess.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/33732_FILTH_AND_WISDOM.html</url>
+         <critic>Joshua Katzman</critic>
+      </review>
+      <review>
+         <snippet>Worst of all, the movie's simply not very shocking. Madonna has made a career out of toying with image and ego, but this is a vanity project in the smallest sense possible.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=12207</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>It's rather sweet to think of Filth and Wisdom as Madonna's reconnection to her own boho Manhattan striver self a generation ago, and I did enjoy the last five minutes or so, when the movie essentially stopped and Hutz's band, Gogol Bordello, took over.</snippet>
+         <url>http://chicago.metromix.com/movies/movie_review/movie-review-filth-and/706266/content</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>Not that Madonna has gone in for originality, which isn't really her thing: rather, instead of repurposing a genre, she has riffled through the art-house catalog for inspiration, as evidenced by the film's intentionally grubby visual texture, jumpy editing, direct-address commentary, freeze frames and other tricks.</snippet>
+         <url>http://movies.nytimes.com/2008/10/17/movies/17filt.html</url>
+         <critic>Manohla Dargis</critic>
+      </review>
+      <review>
+         <snippet>With Filth and Wisdom, the Material Girl has now spliced the title of film writer and director into her list of accomplishments, but the result is, well, immaterial.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A697822</url>
+         <critic>Marjorie Baumgarten</critic>
+      </review>
+      <review>
+         <snippet>Filth &amp; Wisdom is dead in the water, an excruciating bore even at a compact 84 minutes.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2008/10/23/DDHR13MDLQ.DTL&amp;type=movies</url>
+         <critic>Ruthe Stein</critic>
+      </review>
+      <review>
+         <snippet>Madonna presents the three leads as flawed but essentially decent and redeemable, but they're bound up in a story that's meant to affirm a vague set of values. If she needs to justify the "Sex" book by charting her own contrived path from filth to heavenly wisdom, that's fine. But she should do it on her own time.</snippet>
+         <url>http://www.avclub.com/content/cinema/filth_and_wisdom</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>An irredeemably dull tale.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/18951768/review/23880513/filth_and_wisdom</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>Reportedly, the movie began life as a short film, and if it actually ran for 22 minutes with a few commercial breaks, like a good sitcom should, Filth and Wisdom could be bearable. At 84 minutes, the movie feels both overpadded and underdeveloped.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20081031.wfilth31/BNStory/Entertainment/home</url>
+         <critic>Liam Lacey</critic>
+      </review>
+      <review>
+         <snippet>Ragged, uneven and potholed with some dire dialogue and performances.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?rid=10665</url>
+         <critic>Ray Bennett</critic>
+      </review>
+      <review>
+         <snippet>Ineptly written and helmed story of three Londoners, although quite bad, does have a few redeeming features.</snippet>
+         <url>http://www.variety.com/review/VE1117936209.html?categoryid=31&amp;cs=1&amp;query=filth+and+wisdom</url>
+         <critic>Leslie Felperin</critic>
+      </review>
+      <review>
+         <snippet>Madonna's mess of a movie grabs at the rub and rancor of multiculturalism, which it proceeds to squash into a litter of clichés, or, more simply, insults.</snippet>
+         <url>http://www.newyorker.com/arts/critics/cinema/2008/10/20/081020crci_cinema_lane</url>
+         <critic>Anthony Lane</critic>
+      </review>
+      <review>
+         <snippet>The only thing this movie should lead you to is the nearest exit.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1151414&amp;categories=Movies</url>
+         <critic>Neely Tucker</critic>
+      </review>
+      <review>
+         <snippet>An atrocious mess.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2008/10/15/2008-10-15_madonnas_filth_and_wisdom_gets_zero_star.html</url>
+         <critic>Joe Neumaier</critic>
+      </review>
+      <review>
+         <snippet>Thoroughly inept in just about every aspect.</snippet>
+         <url>http://www.nypost.com/seven/10172008/entertainment/movies/madonna__no_wanna_133911.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+   </reviews>
+   <US_Gross>$22,406</US_Gross>
+   <weekend_gross>$4,597</weekend_gross>
+   <number_of_screens>1</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

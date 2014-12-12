@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>War, Inc.</name>
+   <company>First Look Studios</company>
+   <genres>
+      <genre>Action</genre>
+      <genre>Comedy</genre>
+      <genre>Crime</genre>
+      <genre>Drama</genre>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>John Cusack</author>
+      <author>Jeremy Pikser</author>
+      <author>Mark Leyner</author>
+   </authors>
+   <directors>
+      <director>Joshua Seftel</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>John Cusack</actor>
+      <actor>Hilary Duff</actor>
+      <actor>Marisa Tomei</actor>
+      <actor>Joan Cusack</actor>
+      <actor>Ben Kingsley</actor>
+      <actor>Dan Aykroyd</actor>
+   </actors>
+   <release_date>May 23, 2008</release_date>
+   <running_time>minutes,</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>It's a bewildering mix of very smart and very dumb, but the cast, which also features a hilarious Joan Cusack, Ben Kingsley, Marisa Tomei, Dan Aykroyd as the Cheney-esque ex-vice president, and Hilary Duff as a Turaqistan airhead pop star, is tiptop.</snippet>
+         <url>http://www.csmonitor.com/2008/0524/p25s02-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>Like so many satires in the Strangelove mold, this never comes close to working as a story, but its lampoon of U.S. imperialism and military privatization is so bracingly obnoxious I didn't really care.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/33259_WAR_INC.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>Comes up with some decent jokes, including a talking car-based GPS system which doubles as a therapist, and a suggestive Yonica number titled "I Want to Blow You Up," but fails to surround them with a compelling story or characters who rise above the level of cliche.</snippet>
+         <url>http://www.oregonlive.com/movies/index.ssf/2008/06/movie_review_war_inc_a_spoof_o.html</url>
+         <critic>Marc Mohan</critic>
+      </review>
+      <review>
+         <snippet>Screwball, vaguely futuristic political satires are a rare hybrid, and War, Inc. is an intriguing, if flawed, example.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2008-05-22-war-inc_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>This script bumps along, good ideas jostling with weak, derivative ones, and Seftel doesn't seem to know which way he wants to handle the material. Also, with Cusack playing yet another soul-fried wiseacre running on emotional autopilot, the piece doesn't have much of an engine.</snippet>
+         <url>http://chicago.metromix.com/movies/movie_review/movie-review-war-inc/454254/content</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>Somehow, what starts as a series of cheap shots in a barrel develops into something more, thanks largely to warm, engaging performances by Cusack and Tomei. War, Inc. is both right-on and somehow off, but it gets points for trying.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-war23-2008may23,0,6785803.story</url>
+         <critic>Carina Chocano</critic>
+      </review>
+      <review>
+         <snippet>Its comedy too often blunders into meaningless slapstick, with bombs and bloodshed replacing pratfalls and pies in the face.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/366823_war13q.html</url>
+         <critic>Bill White</critic>
+      </review>
+      <review>
+         <snippet>A brave and ambitious but chaotic attempt at political satire.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20080612/REVIEWS/806120304</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>The trouble with this satirical take US involvement in Iraq, penned by Mark Leyner, John Cusack and Jeremy Pikser, is that the real thing is equally absurd and only marginally less funny.</snippet>
+         <url>http://www.tvguide.com/movies/war/review/293487</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>Has TOO much happening, which befits a comedy with a lot of targets but ultimately makes the whole operation scattershot.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2008/05/23/2008-05-23_war_inc_takes_on_too_many_targets.html</url>
+         <critic>Joe Neumaier</critic>
+      </review>
+      <review>
+         <snippet>The ambitions and intentions of War, Inc., co-written by and starring John Cusack, are laudable, but the film is a nearly complete misfire.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?&amp;rid=11025</url>
+         <critic>Frank Scheck</critic>
+      </review>
+      <review>
+         <snippet>A blackly comic take on the first totally outsourced war? We're too close to being in one right now, which makes this John Cusack vehicle too close for comfort. It's also so close to being funny you can just about taste it -- just about.</snippet>
+         <url>http://www.variety.com/review/VE1117936987.html?categoryid=31&amp;cs=1&amp;query=war%2C+inc%2E</url>
+         <critic>John Anderson</critic>
+      </review>
+      <review>
+         <snippet>Antiwar, anti-Bush, anti-corporate, yet neither as progressive nor half as funny as the "Harold and Kumar" sequel, War, Inc. squanders some top-tier talent (Marisa Tomei, Sir Ben Kingsley) as well as our patience.</snippet>
+         <url>http://www.laweekly.com/film+tv/film-reviews/movie-reviews-heavy-metal-in-baghdad-postal-war-inc/18972/?page=2</url>
+         <critic>Aaron Hillis</critic>
+      </review>
+      <review>
+         <snippet>All that's missing is coherence. Call it Blunderbuss Satire.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=11861</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>A film that, in attempting to ridicule the Bush administration, finally just settles for being ridiculous itself.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1148929&amp;categories=Movies&amp;nm=1</url>
+         <critic>Ann Hornaday</critic>
+      </review>
+      <review>
+         <snippet>War, Inc. is neither all that interesting nor all that cool.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A634153</url>
+         <critic>Marc Savlov</critic>
+      </review>
+      <review>
+         <snippet>War, Inc. is gonzo moviemaking with a bleeding heart. A satirical farce that wants to be "Dr. Strangelove" for the age of terrorism, it is a zany, nihilistic free-for-all that goes soft.</snippet>
+         <url>http://movies.nytimes.com/2008/05/23/movies/23wari.html?ref=movies</url>
+         <critic>Stephen Holden</critic>
+      </review>
+      <review>
+         <snippet>The overall experience is manic, juvenile, and hit-or-miss, as if the auteurs behind "Epic Movie" were trying to remake "Wag The Dog." It's too soon to laugh about Iraq, and it'll never be time to laugh about it with this kind of maladroit humor.</snippet>
+         <url>http://www.avclub.com/content/cinema/war_inc</url>
+         <critic>Tasha Robinson</critic>
+      </review>
+      <review>
+         <snippet>Misfires so severely that even the clever details get obliterated in the resulting mess.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2008/06/12/DD26114NP5.DTL&amp;type=movies</url>
+         <critic>Reyhan Harmanci</critic>
+      </review>
+      <review>
+         <snippet>Sorry excuse for political satire.</snippet>
+         <url>http://online.wsj.com/article/SB121149576571615671.html</url>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>The movie has two modes - very loud and extremely loud - and all of the actors are encouraged to mug their hearts out. That even includes Cusack's real-life sister Joan, normally one of the most reliable performers in the business.</snippet>
+         <url>http://www.nypost.com/seven/05232008/entertainment/movies/what_is_it_good_for__112095.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+   </reviews>
+   <US_Gross>$580,862</US_Gross>
+   <production_budget>$10,000,000</production_budget>
+   <weekend_gross>$35,336</weekend_gross>
+   <number_of_screens>2</number_of_screens>
+   <oscar_winning_actors_present/>
+   <num_oscar_winning_actors>1</num_oscar_winning_actors>
+   <oscar_winning_actor>ben kingsley</oscar_winning_actor>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>true</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

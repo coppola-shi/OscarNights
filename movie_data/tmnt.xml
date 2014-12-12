@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>TMNT</name>
+   <company>Warner Bros. Pictures</company>
+   <genres>
+      <genre>Action</genre>
+      <genre>Adventure</genre>
+      <genre>Animation</genre>
+      <genre>Comedy</genre>
+      <genre>Fantasy</genre>
+   </genres>
+   <authors>
+      <author>Kevin Munroe</author>
+      <author>Kevin Eastman &amp; Peter Laird</author>
+   </authors>
+   <directors>
+      <director>Kevin Munroe</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Chris Evans</actor>
+      <actor>Sarah Michelle Gellar</actor>
+      <actor>Mako</actor>
+      <actor>Kevin Smith</actor>
+      <actor>Patrick Stewart</actor>
+      <actor>Laurence Fishburne</actor>
+      <actor>Ziyi Zhang</actor>
+      <actor>Mitchell Whitfield</actor>
+   </actors>
+   <release_date>March 23, 2007</release_date>
+   <running_time>90</running_time>
+   <rating>PG</rating>
+   <reviews>
+      <review>
+         <snippet>At its best, TMNT does recall the slangy fun of the series' glory days. But there are too many moments when it feels as stale as one of Mikey's half-eaten pizzas.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2007/03/23/2007-03-23_heroes_back_just_for_the_shell_of_it.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>TMNT has a cool, noirish sheen. There's an attention to detail in the visuals and sound design that pushes it up several notches above most kiddie fare. It's not art, dude, but it will do.</snippet>
+         <url>http://www.philly.com/inquirer/columnists/steven_rea/20070323_Turtles__a_little_soft_in_the_shell__get_back_in_the_soup.html</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>Only those already predisposed to love a TMNT movie that at least LOOKS edgy are likely to care.</snippet>
+         <url>http://www.avclub.com/content/cinema/tmnt</url>
+         <critic>Tasha Robinson</critic>
+      </review>
+      <review>
+         <snippet>This all-CG reboot is missing the goofy excitement of the old TMNT.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20015584,00.html</url>
+         <critic>Gregory Kirschling</critic>
+      </review>
+      <review>
+         <snippet>The story -- something to do with an ancient evil returning after 3,000 years -- plays like a multi-episode story arc of the TV series.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/308606_turtles23q.html</url>
+         <critic>Sean Axmaker</critic>
+      </review>
+      <review>
+         <snippet>That's really what TMNT lacks most -- humor. Despite the doll-like cartoonishness of the human figures, the filmmakers seem to expect us to take this animated romp seriously. Too seriously.</snippet>
+         <url>http://www.calendarlive.com/printedition/calendar/cl-et-tmnt23mar23,0,2368747.story</url>
+         <critic>Michael Ordona</critic>
+      </review>
+      <review>
+         <snippet>The upshot is that the film is technically superb and quite enjoyable as long as you don't bang your head against the plot.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1120891&amp;categories=Movies&amp;nm=1</url>
+         <critic>Stephen Hunter</critic>
+      </review>
+      <review>
+         <snippet>A tad too conservative and calculated. CGI delivers best on moody sets and a noirish atmosphere achieved by lighting, backgrounds and visual effects. But the characters look like plastic dolls, and the story is recycled sci-fi.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?JSESSIONID=H52TF9VphgQf8YrHmxvlCsf77nxhs74pLlj08lL6pXncLy7csH8q!-1918734880&amp;&amp;rid=8927</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>Munroe's script denies fans the satisfaction of a decent story or amusing interactions. Rather than waiting for a screenplay that warranted their bigscreen return, TMNT feels like an attempt to exploit the phenomenon further.</snippet>
+         <url>http://www.variety.com/review/VE1117933101.html?categoryid=31&amp;cs=1&amp;p=0</url>
+         <critic>Peter Debruge</critic>
+      </review>
+      <review>
+         <snippet>Writer-director Kevin Munroe parties like it's 1989, grooving on the extreme-sports set pieces and vintage slang to generally cowabusted effect.</snippet>
+         <url>http://www.villagevoice.com/film/0712,lee,76147,20.html</url>
+         <critic>Nathan Lee</critic>
+      </review>
+      <review>
+         <snippet>With your sharper minds, you'll probably figure it out. I hope so. Hope you'll like the movie too. But here's a bit of advice: Don't bet your allowance on it. Make Daddy pay.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20070323.wtmntmimzy23/BNStory/Entertainment/home</url>
+         <critic>Rick Groen</critic>
+      </review>
+      <review>
+         <snippet>Fans should be satisfied, but it's hard to imagine anyone else will be much interested in TMNT.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-to.tmnt23mar23,0,6027348.story?coll=bal-artslife-movies</url>
+         <critic>Chris Kaltenbach</critic>
+      </review>
+      <review>
+         <snippet>The movie is a serviceable way to pass the time: Kids will cheer the bright colors and funny new words ("Kowabunga!").</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=8418</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>Silly, but an enjoyable, well-paced fantasy-action story.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2007/03/23/DDGLJOPG2J1.DTL#flick2</url>
+         <critic>Will Crain</critic>
+      </review>
+      <review>
+         <snippet>The turtles themselves may look prettier, but are no smarter; torn irreparably from their countercultural roots, our superheroes on the half shell have been firmly co-opted by the industry their creators once sought to spoof.</snippet>
+         <url>http://movies2.nytimes.com/2007/03/22/movies/23tmnt.html?ref=movies</url>
+         <critic>Jeannette Catsoulis</critic>
+      </review>
+      <review>
+         <snippet>I expected to see the triumphant return of my childhood favorites, yet I feel like this wasn't the answer.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=9918</url>
+         <critic>Zach Haddad</critic>
+      </review>
+      <review>
+         <snippet>Bummer, dudes. Longtime fans who expect the fun lingo and pizza-gobbling Teenage Mutant Ninja Turtles of the past may be shocked by director Kevin Munroe's reimagining of the popular kiddie series.</snippet>
+         <url>http://www.tvguide.com/detail/movie.aspx?tvobjectid=286990&amp;more=ucmoviereview</url>
+         <critic>Angel Cohn</critic>
+      </review>
+      <review>
+         <snippet>The movie pretty much exists to sell tie-in products, and it's about as entertaining as watching little kids playing with their toys in the sandbox.</snippet>
+         <url>http://www.nypost.com/seven/03232007/entertainment/movies/its_a_shell_game_movies_kyle_smith.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>It takes more than an awkward title attempting to sound cool to overcome its mundane plot and silly dialogue.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2007-03-22-TMNT-mimzy_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>Without the brute vigilante junk, this 82-minute picture would be approximately 2 minutes long.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-070323-movies-review-tmnt,0,7489699.story?coll=mmx-movies_top_heds</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>It's all probably too slippery for the youngest viewers to grasp and too sketchy for the nostalgia crowd (for whom this revival seems most geared).</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A457442</url>
+         <critic>Marjorie Baumgarten</critic>
+      </review>
+   </reviews>
+   <US_Gross>$54,149,098</US_Gross>
+   <production_budget>$35,000,000</production_budget>
+   <weekend_gross>$24,255,205</weekend_gross>
+   <number_of_screens>3,110</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

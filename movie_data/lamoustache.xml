@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>La Moustache</name>
+   <company>Cinema Guild</company>
+   <genres>
+      <genre>Drama</genre>
+      <genre>Foreign</genre>
+      <genre>Mystery</genre>
+   </genres>
+   <authors>
+      <author>Emmanuel Carrère</author>
+      <author>Jérôme Beaujour</author>
+   </authors>
+   <directors>
+      <director>Emmanuel Carrère</director>
+   </directors>
+   <origins>
+      <origin>France</origin>
+   </origins>
+   <actors>
+      <actor>Vincent Lindon</actor>
+      <actor>Emmanuelle Devos</actor>
+      <actor>Mathieu Amalric</actor>
+      <actor>Hippolyte Girardot</actor>
+      <actor>Cylia Malki</actor>
+      <actor>Macha Polikarpova</actor>
+      <actor>Fantine Camus</actor>
+      <actor>Frédéric Imberty</actor>
+   </actors>
+   <release_date>May 24, 2006</release_date>
+   <running_time>86</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>Emmanuel Carrère's witty, elegant La Moustache is a deliciously unsettling, beautifully sustained enigma, a film of much beauty and flawless performances, especially from Vincent Lindon in one of his most demanding roles.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-moustache7jul07,0,4298031.story</url>
+         <critic>Kevin Thomas</critic>
+      </review>
+      <review>
+         <snippet>Comes on as both a rebuke to male vanity and a chic metaphor for midlife panic.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=9478</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>An intriguing study of identity, marriage and, perhaps, madness.</snippet>
+         <url>http://ae.philly.com/entertainment/ui/philly/movie.html?id=647230&amp;reviewId=21397</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>Elegant and enjoyably disorienting.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/279993_moustache04q.html</url>
+         <critic>William Arnold</critic>
+      </review>
+      <review>
+         <snippet>A successful novelist and restrained actor's director, Carrére makes the transformation of a silly marital argument into a cosmic upheaval look easy, and profound as well.</snippet>
+         <url>http://www.villagevoice.com/film/0621,atkinson,73314,20.html</url>
+         <critic>Michael Atkinson</critic>
+      </review>
+      <review>
+         <snippet>No matter how serious it becomes, however, La Moustache never forsakes an underlying attitude of high-style playfulness that recalls Hitchcock's cat-and-mouse romantic thrillers.</snippet>
+         <url>http://movies2.nytimes.com/2006/05/24/movies/24mous.html</url>
+         <critic>Stephen Holden</critic>
+      </review>
+      <review>
+         <snippet>Unlike, say, David Cronenberg, who manages to establish a crucial, critical distance between his audience and his schizophrenic protagonist in his adaptation of Patrick McGrath's similarly themed "Spider," Carrere re-creates the insane mind through his camera, and diffuses his point about subjective experience by inadvertently raising questions about truth and the movies.</snippet>
+         <url>http://online.tvguide.com/newsearch/detail.aspx?id=46947&amp;sourcetype=m&amp;progseriesparentid=0&amp;tvobjectid=0&amp;keyword=&amp;more=ucmoviereview</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>Vincent Lindon, one of France's leading actors, is super as Marc, a man on a downward spiral into insanity. And Emmanuelle Devos is comforting as Marc's loving wife.</snippet>
+         <url>http://www.nypost.com/movies/69144.htm</url>
+         <critic>V.A. Musetto</critic>
+      </review>
+      <review>
+         <snippet>La Moustache recalls the "everyday suspense" films of Roman Polanski and the existential woe of Michelangelo Antonioni, but it isn't as strange or penetrating as the former, or as artfully shot as the latter.</snippet>
+         <url>http://www.avclub.com/content/node/48993</url>
+         <critic>Noel Murray</critic>
+      </review>
+      <review>
+         <snippet>It's a broad generality to say that French filmmakers have a particularly perverse sensibility, but it can be backed up by one import after another. The latest, La Moustache, is wonderfully odd in a minimalist kind of way.</snippet>
+         <url>http://sfgate.com/cgi-bin/article.cgi?f=/c/a/2006/09/22/DDGUAL9FMJ1.DTL&amp;type=movies</url>
+         <critic>Ruthe Stein</critic>
+      </review>
+      <review>
+         <snippet>With his thin-lipped grimace and big, soulful eyes, Lindon's an ideal actor for this sort of puzzle.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-060929-movies-review-moustache,0,2598816.story?coll=mmx-movies_top_heds</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>Viewers who like their conclusions tidy may rebel, but those who relish outstanding performances in the service of an intriguing idea will be entertained.</snippet>
+         <url>http://www.variety.com/review/VE1117927117?categoryid=1929&amp;cs=1&amp;s=h&amp;p=0</url>
+         <critic>Lisa Nesselson</critic>
+      </review>
+      <review>
+         <snippet>The pleasure of La Moustache is that it doesn't feel the need to explain itself at every turn. Part absurdist comedy about the institution of marriage, part paranoid Kafkaesque fantasy, it's a minor-key reverie on the way our own lives can sometimes feel alien to us.</snippet>
+         <url>http://www.laweekly.com/film+tv/film-reviews/film-reviews/13944/</url>
+         <critic>Scott Foundas</critic>
+      </review>
+      <review>
+         <snippet>This narrative feature debut by Emmanuel Carrere, based on his own novel, is deliberately open-ended, but however one interprets the outcome, the film reminds us how fragile intimacy is.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/capsules/28707_MOUSTACHE_LA_MOUSTACHE</url>
+         <critic>Andrea Gronvall</critic>
+      </review>
+      <review>
+         <snippet>The big shave is the starting point for a clever, if somewhat too clever, film from French critic, novelist and documentarian Emmanuel Carrere. La Moustache could be clipped down to Franz Kafka-meets-Jerry Seinfeld, where a whole slew of absurd petite calamities befall our everyday hero, triggered by his trim.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1000922109</url>
+         <critic>Duane Byrge</critic>
+      </review>
+      <review>
+         <snippet>An enigma inside a conundrum inside an escargot shell, the French puzzler La Moustache will delight some people even as it annoys others.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1118028&amp;categories=Movies&amp;nm=1</url>
+         <critic>Stephen Hunter</critic>
+      </review>
+      <review>
+         <snippet>Have Marc's friends tricked him with a conspiracy of silence, or was that mustache a growth only in his mind? The filmmaker has said there is no intended meaning to any of this, so search for it for your own amusement.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/moviereviews/story/421010p-355373c.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+   </reviews>
+   <US_Gross>$244,771</US_Gross>
+   <weekend_gross>$27,323</weekend_gross>
+   <number_of_screens>1</number_of_screens>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>true</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

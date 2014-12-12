@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Gigante</name>
+   <company>Film Movement</company>
+   <genres>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author>Adrián Biniez</author>
+   </authors>
+   <directors>
+      <director>Adrián Biniez</director>
+   </directors>
+   <origins>
+      <origin>Uruguay</origin>
+      <origin>Argentina</origin>
+      <origin>Germany</origin>
+      <origin>Spain</origin>
+   </origins>
+   <actors>
+      <actor>Horacio Camule</actor>
+      <actor>Leonor Svarcas</actor>
+      <actor>Ignacio Alcuri</actor>
+   </actors>
+   <release_date>December 4, 2009</release_date>
+   <running_time>84</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>Gigante represents the sort of artful low-budget accomplishment that could, and should, be coming out of distressingly stingy Chicago once a year — whatever the subject, whatever the sensibility.</snippet>
+         <url>http://featuresblogs.chicagotribune.com/talking_pictures/</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>Camandule gives a strong performance as the lovesick guard, but Svarcas gets little chance to show her skills. There's minimal dialogue and camera movement -- but lots of charm.</snippet>
+         <url>http://www.nypost.com/p/entertainment/movies/he_goes_his_own_uruguay_Zlxpg4Cvpyc9Mx59vUjbAI</url>
+         <critic>V.A. Musetto</critic>
+      </review>
+      <review>
+         <snippet>Because of the limitations imposed by the nature of Gigante, and because of Jara's simple, almost childish shyness, the film doesn't transcend its characters. Like Jara, it waits and watches.</snippet>
+         <url>http://www.rogerebert.com/apps/pbcs.dll/article?AID=/20100120/REVIEWS/100129997/1023</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>As unpretentious as it is perceptive, Gigante is a gem.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-gigante1-2010jan01,0,5030236.story</url>
+         <critic>Kevin Thomas</critic>
+      </review>
+      <review>
+         <snippet>It is an appealing, gently comedic prologue to a love story.</snippet>
+         <url>http://movies.nytimes.com/2009/12/04/movies/04gigante.html?ref=movies</url>
+         <critic>Stephen Holden</critic>
+      </review>
+      <review>
+         <snippet>It's an interesting film but not enthralling, a little like Steven Soderbergh's "Bubble" minus the element of crime.</snippet>
+         <url>http://www.chicagoreader.com/chicago/MovieTimes?oid=1219787</url>
+         <critic>Cliff Doerksen</critic>
+      </review>
+      <review>
+         <snippet>The film is impeccable but distant, lacking in spontaneity and not very original.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film-reviews/film-review-gigante-1003939568.story</url>
+         <critic>Deborah Young</critic>
+      </review>
+      <review>
+         <snippet>The problem is that the film also refuses to move beyond a glacial pace, and its choice to go slow-and-low doesn’t scream art-house aesthetic so much as unintentionally sluggish. For such a small character study, that decision ends up being a doozy of a deal breaker.</snippet>
+         <url>http://newyork.timeout.com/articles/film/81120/gigante-film-review</url>
+         <critic>David Fear</critic>
+      </review>
+      <review>
+         <snippet>With potentially lethargic materials, Biniez has made a quiet, intent, involving film, a moony-innocent urban alienation fairy tale of bashful ogre and village beauty--and it never quite crests.</snippet>
+         <url>http://www.villagevoice.com/2009-12-01/film/gigante-never-quite-crests/</url>
+         <critic>Nick Pinkerton</critic>
+      </review>
+      <review>
+         <snippet>Though it takes time to find its courage and heart, Gigante, like its oversized hero, merely has a slow, shy way of doing things.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2009/12/04/2009-12-04_short_movie_reviews_.html</url>
+         <critic>Joe Neumaier</critic>
+      </review>
+   </reviews>
+   <US_Gross>$6,542</US_Gross>
+   <weekend_gross>$4,680</weekend_gross>
+   <number_of_screens>1</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

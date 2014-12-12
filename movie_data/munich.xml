@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Munich</name>
+   <company>Universal Pictures / DreamWorks Distribution LLC</company>
+   <genres>
+      <genre>Drama</genre>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>Tony Kushner</author>
+      <author>George Jonas</author>
+   </authors>
+   <directors>
+      <director>Steven Spielberg</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Eric Bana</actor>
+      <actor>Daniel Craig</actor>
+      <actor>Geoffrey Rush</actor>
+      <actor>Ciarán Hinds</actor>
+      <actor>Hanns Zischler</actor>
+      <actor>Mathieu Kassovitz</actor>
+   </actors>
+   <release_date>December 23, 2005</release_date>
+   <running_time>164</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>A superbly taut and well-made thriller that jumps from Geneva to Rome, from Paris to Beirut, from Athens to Brooklyn, each lethal assignment staged with a mastery Hitchcock might envy.</snippet>
+         <url>http://www.msnbc.msn.com/id/10414356/site/newsweek/</url>
+         <critic>David Ansen</critic>
+      </review>
+      <review>
+         <snippet>Munich, Steven Spielberg's spectacularly gripping and unsettling new movie, is a grave and haunted film, yet its power lies in its willingness to be a work of brutal excitement.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1140761_1_0_,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>Masterful, atypically political - and flawlessly acted.</snippet>
+         <url>http://www.nypost.com/movies/59921.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>A film of uncommon depth, intelligence, and sensitivity.</snippet>
+         <url>http://movie-reviews.colossus.net/movies/m/munich.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>This lengthy, nuance-filled story about how eye-for-an-eye stuff differs from theory to practice is one of the most considered, thoughtful, and involving movies of its kind.</snippet>
+         <url>http://www.premiere.com/article.asp?section_id=2&amp;article_id=2470</url>
+         <critic>Glenn Kenny</critic>
+      </review>
+      <review>
+         <snippet>Munich is the most potent, the most vital, the best movie of the year.</snippet>
+         <url>http://www.slate.com/id/2133050/?nav=fo</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>As a thriller, Munich is efficient, absorbing, effective. As an ethical argument, it is haunting.</snippet>
+         <url>http://www.rogerebert.com/apps/pbcs.dll/article?AID=/20051222/REVIEWS/51214004/1023</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>This is Spielberg operating at his peak - an exceptionally made, provocative and vital film for our times.</snippet>
+         <url>http://www.empireonline.com/incinemas/ReviewComplete.asp?FID=10187</url>
+         <critic>Ian Nathan</critic>
+      </review>
+      <review>
+         <snippet>Some will find the surprise pleasant, others unpleasant. Whatever it is, it's the least commercial, most somberly heartfelt movie ever made by the cinema's most commercially successful filmmaker.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/253092_munich23q.html</url>
+         <critic>William Arnold</critic>
+      </review>
+      <review>
+         <snippet>Breaking from the Spielberg oeuvre, Munich isn't a particularly hopeful movie, but it's a fair and morally dignified one.</snippet>
+         <url>http://avclub.com/content/node/43772</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>Munich's even-handed cry for peace is not an act of equivocation but one of bravery. What Munich has to say, and its ability to say it to the widest possible audience, couldn't be more needed than it is right now.</snippet>
+         <url>http://www.calendarlive.com/movies/turan/cl-et-munich23dec23,0,4815169.story</url>
+         <critic>Kenneth Turan</critic>
+      </review>
+      <review>
+         <snippet>A mesmerizing, richly nuanced inquiry into Israel's revenge of the Munich massacre of its athletes.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1001658226</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>For those who only recall Bana from his bland showing as Ang Lee's super-thyroidial meltdown monster, his performance here is a revelation.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A320908</url>
+         <critic>Marc Savlov</critic>
+      </review>
+      <review>
+         <snippet>The director can work wonders within his celluloid universe, but when the time comes to hand us back to reality, he stumbles. With this movie, that hurts.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=8315</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>If Munich raises disturbing issues about Jewish-Arab relations, past and present - and how can it not? - it is also an absolutely riveting tale of the hunt and the hunted.</snippet>
+         <url>http://ae.philly.com/entertainment/ui/philly/movie.html?id=506839&amp;reviewId=19779</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>This is a smart and often tense work whose ultimate merit isn't completely calculable now.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2005-12-22-munich_x.htm</url>
+         <critic>Mike Clark</critic>
+      </review>
+      <review>
+         <snippet>The thorny heart of Steven Spielberg's sober, fact-based political thriller about Israeli retaliation for the murder of 11 Olympic athletes by Palestinian terrorists is the knowledge that vengeance is a self-perpetuating murder machine that drags successive generations into a mire of tit-for-tat bloodshed.</snippet>
+         <url>http://online.tvguide.com/movies/database/ShowMovie.asp?MI=46435</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>Bana is magnificent in the role.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/_/id/7520701/rid/8936749/</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>More than anything, Munich is a slammin' entertainment filled with dazzling set pieces and geometric camerawork.</snippet>
+         <url>http://movies2.nytimes.com/2005/12/23/movies/23muni.html</url>
+         <critic>Manohla Dargis</critic>
+      </review>
+      <review>
+         <snippet>Would you feel anxiety or remorse if you pulled the trigger on Osama bin Laden, however satisfying or even necessary it might be? Munich argues that finding him in our rifle sights would leave any of us a different person.</snippet>
+         <url>http://ae.charlotte.com/entertainment/ui/charlotte/movie.html?id=506839&amp;reviewId=19759&amp;startDate=NEXT7</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>With its protracted storytelling, its fuzzy philosophizing and its less-than-compelling leading man, it's far less gripping than the subject matter deserves.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/1135211107140700.xml&amp;coll=7</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>As a piece of filmmaking, Munich is rarely less than gripping. As a political essay, as a brief against despair, it is far less convincing.</snippet>
+         <url>http://www.csmonitor.com/2005/1222/p14s01-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>An unlovable movie. It's morally ambiguous, which means there's no real rooting interest. It's episodic, with the same kinds of episodes repeated over and over, so there's little sense of forward motion. It feels philosophically and politically confused, so there's no message to take from it.</snippet>
+         <url>http://sfgate.com/cgi-bin/article.cgi?f=/c/a/2005/12/23/DDGSFGBKCI1.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>Munich is at best a muddled prayer for peace whose weakness stems not from its politics but from the misconception of its main character. Avner is not just a fictional character, but an absurdly improbable expression of Spielbergian schmaltz.</snippet>
+         <url>http://www.laweekly.com/ink/06/05/film-taylor.php</url>
+         <critic>Ella Taylor</critic>
+      </review>
+      <review>
+         <snippet>Munich is both astonishing and frustrating. It's not easy to tell how much of the tone comes directly from Spielberg and how much comes from Kushner, who was called in to polish the script after Roth completed it.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2005/12/23/munich/index.html?sid=1420171</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>Even if it wasn't exactly historically accurate (the film is only "inspired by true events," after all), innocents are killed in the crossfire all the time when these kinds of missions are undertaken, and it's a cop-out for Spielberg to pretend otherwise.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=8300</url>
+         <critic>Pete Vonder Haar</critic>
+      </review>
+      <review>
+         <snippet>Munich is a Spielberg film for better and worse, a vivid, sometimes simplistic thriller in which action speaks louder than ideas.</snippet>
+         <url/>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>It's a brutal, merciless, somber picture, utterly devoid of the heart-tugging sentimentality that always creeps into even his best films.</snippet>
+         <url>http://ae.miami.com/entertainment/ui/miami/movie.html?id=506839&amp;reviewId=19794</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>The failure of a movie that is so good in so many ways leaves me to wonder if Spielberg is up to this kind of complex, multi-tasking story.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/moviereviews/story/377235p-320294c.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>It's when Spielberg stops trying to think so hard that Munich works best. Though some of the assassination scenes feel a little too choreographed, more "West Side Story" than "Bourne Identity."</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-0501223-movies-review-munich,0,1683492.story?coll=mmx-movies_top_heds</url>
+         <critic>Allison Benedikt</critic>
+      </review>
+      <review>
+         <snippet>It seems almost disrespectful to weave in a provocative re-creation of the killings -- somehow a massacre of unarmed innocents that shocked the world should be more than just fodder for ginning up the tension at the end of a commercial movie.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1109283&amp;lat=200.0&amp;lon=200.0&amp;displaySearchLocation=&amp;nm=1&amp;categories=Movies</url>
+         <critic>Stephen Hunter</critic>
+      </review>
+      <review>
+         <snippet>Beautifully made pic will spur newsy media coverage and possible consternation on both sides of the Israeli-Palestinian divide, but members of the general public will be glancing at their watches rather than having epiphanies about world peace.</snippet>
+         <url>http://www.variety.com/ac2006_review/VE1117929081?nav=reviews&amp;categoryid=1986&amp;cs=1</url>
+         <critic>Todd McCarthy</critic>
+      </review>
+      <review>
+         <snippet>If he had told the story straight, without such hedging, and at half the length, it would have borne far more conviction.</snippet>
+         <url>http://www.newyorker.com/critics/cinema/?051226crci_cinema</url>
+         <critic>Anthony Lane</critic>
+      </review>
+      <review>
+         <snippet>I cannot remember a moment in this new film that compares, simply in directorial originality, to the work in "Schindler's List."</snippet>
+         <url>http://www.tnr.com/doc.mhtml?i=20060123&amp;s=kauffmann012306</url>
+         <critic>Stanley Kauffmann</critic>
+      </review>
+      <review>
+         <snippet>Bouncing about from one flawed movie to another, Steven Spielberg has lost his way of late, and Munich finds him more disoriented than ever.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/ArticleNews/TPStory/LAC/20051223/MUNICH23/TPEntertainment/Film</url>
+         <critic>Rick Groen</critic>
+      </review>
+      <review>
+         <snippet>The film is sluggish and repetitive, yet it exerts a certain clinical fascination.</snippet>
+         <url>http://www.villagevoice.com/film/0551,hoberman,71135,20.html</url>
+         <critic>J. Hoberman</critic>
+      </review>
+      <review>
+         <snippet>Munich may have value as an act of expiation but not as entertainment or art.</snippet>
+         <url>http://spacefinder.chicagoreader.com/movies/briefs/29127_MUNICH.html</url>
+         <critic>Jonathan Rosenbaum</critic>
+      </review>
+      <review>
+         <snippet>Munich is so broad-stroke it cuts itself at every turn. It's also a thoroughly lifeless movie.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-to.munich23dec23,1,2811427.story?coll=bal-artslife-movies</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>It's too turgid and redundant to have any real impact. As a thriller, it barely thrills; as a lecture, it has nothing new to say.</snippet>
+         <url>http://dallasobserver.com/Issues/2005-12-22/film/film.html</url>
+         <critic>Robert Wilonsky</critic>
+      </review>
+   </reviews>
+   <US_Gross>$47,379,090</US_Gross>
+   <production_budget>$75,000,000</production_budget>
+   <weekend_gross>$4,152,260</weekend_gross>
+   <number_of_screens>532</number_of_screens>
+   <oscar_winning_actors_present/>
+   <num_oscar_winning_actors>1</num_oscar_winning_actors>
+   <oscar_winning_actor>geoffrey rush</oscar_winning_actor>
+   <oscar_winning_directors_present/>
+   <num_oscar_winning_directors>1</num_oscar_winning_directors>
+   <oscar_winning_director>steven spielberg</oscar_winning_director>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

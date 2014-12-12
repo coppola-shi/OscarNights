@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Changeling</name>
+   <company>Universal Pictures</company>
+   <genres>
+      <genre>Crime</genre>
+      <genre>Drama</genre>
+      <genre>Mystery</genre>
+   </genres>
+   <authors>
+      <author>J. Michael Straczynski</author>
+   </authors>
+   <directors>
+      <director>Clint Eastwood</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Angelina Jolie</actor>
+      <actor>John Malkovich</actor>
+      <actor>Jeffrey Donovan</actor>
+      <actor>Colm Feore</actor>
+      <actor>Amy Ryan</actor>
+      <actor>Michael Kelly</actor>
+   </actors>
+   <release_date>October 24, 2008</release_date>
+   <running_time>140</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>Emotionally powerful and stylistically sure-handed, this true story-inspired drama begins small with the disappearance of a young boy, only to gradually fan out to become a comprehensive critique of the entire power structure of Los Angeles, circa 1928.</snippet>
+         <url>http://www.variety.com/index.asp?layout=festivals&amp;jump=review&amp;reviewid=VE1117937210&amp;cs=1</url>
+         <critic>Todd McCarthy</critic>
+      </review>
+      <review>
+         <snippet>A disturbing film about grim subject matter, but the overall experience is more exhilarating than saddening. There's just something satisfying about seeing a movie so well made.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2008/10/23/DDEC13MFBM.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>A compelling, adult period thriller, with an Oscar-assured performance from Angelina Jolie.</snippet>
+         <url>http://www.empireonline.com/reviews/reviewcomplete.asp?FID=135626</url>
+         <critic>Damon Wise</critic>
+      </review>
+      <review>
+         <snippet>Changeling doesn't care if you love it or hate it, it makes no compromises to fashion and it's charged with that unmistakable assurance of a master filmmaker at his creative peak.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/384682_changeling24q.html</url>
+         <critic>William Arnold</critic>
+      </review>
+      <review>
+         <snippet>In Changeling Eastwood continues to probe uncomfortable subjects to depict the individual and even existential struggle to do what is right.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?rid=11148</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>Eastwood tells his haunting, sorrowful saga with such a sure, steady hand, only a very hardened cynic could fail to be moved.</snippet>
+         <url>http://www.newsweek.com/id/164500</url>
+         <critic>David Ansen</critic>
+      </review>
+      <review>
+         <snippet>This incredible but true story marks the first time Eastwood's signature themes have found expression in a woman's experience, and the absence of any distracting machismo only heightens his sense of helpless rage at the perpetual anguish of victims' families.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/critic.html#33744</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>Another remarkable addition to Eastwood's directorial canon.</snippet>
+         <url>http://www.nypost.com/seven/10242008/entertainment/movies/mom_and_swap_story_134974.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>Jolie, Malkovich and Geoff Pierson, as a lawyer who takes Collins' case before the Police Board, are very good at what they do very well. The film's most riveting performance is by Jason Butler Harner as the murderous Gordon Northcott.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20081023/REVIEWS/810239995</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>Jolie is inspired casting. She plays the role like a gathering storm, moving from terror to a fierce resolve. And Eastwood, at the peak of his artful powers, tightens the screws of suspense without ever forgetting where the heart of his film lies.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/18257401/review/23880274/changeling</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>In other hands, these clashes of good and evil might have seemed ordinary, but Eastwood makes Changeling a hard story to shake off. To see this film is to understand both how fragile and how essential our hopes for decency and truth are in a world that must be made to care about either one.</snippet>
+         <url>http://www.latimes.com/entertainment/news/reviews/la-et-changeling24-2008oct24,0,3908208.story</url>
+         <critic>Kenneth Turan</critic>
+      </review>
+      <review>
+         <snippet>Changeling is an almost universally impressive all-around effort, and is the best "dirty underbelly of Los Angeles" movie since "L.A. Confidential."</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=11321</url>
+         <critic>Pete Vonder Haar</critic>
+      </review>
+      <review>
+         <snippet>The movie has an epic sweep but an intimate, personal feel. If Changeling lacks the knockout power of, say, "Million Dollar Baby," it proves that Eastwood continues to seek out stories that take him places he hasn't been before -- and the audience along with him.</snippet>
+         <url>http://www.miamiherald.com/entertainment/movies/reviews/story/747779.html</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>Changeling fundamentally works; it holds you. But these  issues of texture and detail matter  too, and they hold clues as to why Eastwood's latest is a good, solid achievement rather than a great, grieving one.</snippet>
+         <url>http://chicago.metromix.com/movies/movie_review/movie-review-changeling/706263/content</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>Eastwood creates a tone that's at once stately and unsettling, allowing a lot of breathing room for Jolie's sad, unyielding performance. She anchors a film that needs an anchor the further it goes along.</snippet>
+         <url>http://www.avclub.com/content/cinema/changeling</url>
+         <critic>Keith Phipps</critic>
+      </review>
+      <review>
+         <snippet>Changeling is beautifully wrought, but it has the abiding fault of righteously indignant filmmaking: it congratulates us for feeling what we already feel.</snippet>
+         <url>http://www.newyorker.com/arts/critics/cinema/2008/10/27/081027crci_cinema_denby?currentPage=all</url>
+         <critic>David Denby</critic>
+      </review>
+      <review>
+         <snippet>In its purposeful accumulation of depravities, both individual and institutional, the director's non-style has an honorable payoff that's rare in modern Hollywood cinema: the story's weight could come close to burying you in despair.</snippet>
+         <url>http://www.time.com/time/arts/article/0,8599,1852793,00.html</url>
+         <critic>Richard Corliss</critic>
+      </review>
+      <review>
+         <snippet>Eastwood gets all noirish for us but, like Jolie's performance, there's a rote quality to it all. Even the mournful little ditties that Eastwood composed for the soundtrack seem canned.</snippet>
+         <url>http://www.csmonitor.com/2008/1024/p25s25-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>While components of Eastwood's film are excellent, in particular Kelly's quietly tenacious performance and the evocative period details, Changeling is a film of parts, not a unified whole.</snippet>
+         <url>http://www.philly.com/philly/entertainment/movies/20081031_Jolie_jarring___Changeling__marred_by_all_its_changes.html</url>
+         <critic>Carrie Rickey</critic>
+      </review>
+      <review>
+         <snippet>While Straczynski should be commended for remaining reasonably true to the historical record, this results in an open-ended conclusion that isn't entirely satisfying.</snippet>
+         <url>http://www.reelviews.net/php_review_template.php?identifier=1384</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>While the neo-Gothic tale is inherently intriguing, the film should inspire strong emotion, but deliberate pacing and a contained sense of melodrama make it a surprisingly passive experience.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2008-10-23-changeling_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>No matter how strange it gets, or how distorted for political gain or refined for religious purposes, its essence is hard to pin down, even after a 2 1/2 -hour search.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20081023.wchangeling24/BNStory/Entertainment/home</url>
+         <critic>Rick Groen</critic>
+      </review>
+      <review>
+         <snippet>Perhaps with a few more drafts, the filmmakers could have found a means of maintaining the quiet momentum displayed early on, but as it stands, Changeling is little more than a frustrating missed opportunity that's dressed to the nines, but a day late for the party.</snippet>
+         <url>http://movies.tvguide.com/changeling/review/293871</url>
+         <critic>Jason Buchanan</critic>
+      </review>
+      <review>
+         <snippet>All of Eastwood's rigorous craftsmanship seems wasted on a movie whose message never rises above the bumper-sticker admonition that "mean people suck."</snippet>
+         <url>http://www.slate.com/id/2202943/</url>
+         <critic>Dana Stevens</critic>
+      </review>
+      <review>
+         <snippet>The script is compelling, the direction confident, the production values professional. But it does not, in the end, feel real.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2008/10/23/2008-10-23_angelina_jolie_is_too_noble_in_changelin.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>The truth about the case of Christine Collins is so shocking and dramatic that embellishment must have seemed pointless, but in sticking so close to the historical record, Mr. Straczynski and Mr. Eastwood have produced a distended, awkward narrative whose strongest themes are lost in the murky pomp of period detail.</snippet>
+         <url>http://movies.nytimes.com/2008/10/24/movies/24chan.html</url>
+         <critic>A.O. Scott</critic>
+      </review>
+      <review>
+         <snippet>Despite a mysterious title, Changeling isn't a mystery. It is, occasionally, agony.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1151302&amp;categories=Movies</url>
+         <critic>John Anderson</critic>
+      </review>
+      <review>
+         <snippet>Burdened by a convoluted script and an ensemble-proof leading lady, the director fails to illuminate a particular corrupt system.</snippet>
+         <url>http://www.villagevoice.com/2008-10-22/film/angelina-jolie-suffers-for-us-all-in-changeling-zinedine-zidane-watches-a-good-game-in-a-21st-century-portrait/</url>
+         <critic>J. Hoberman</critic>
+      </review>
+      <review>
+         <snippet>The trouble with Changeling is that it plays less like reality than like a bare-bones, moralistic rehash of other, better movies, such as "L.A. Confidential" or "Frances."</snippet>
+         <url>http://www.ew.com/ew/article/0,,20234989,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>Biblically classical, tastefully vintage with aerial shots of wet umbrellas and Homburg hats and not a little staid considering its sensational source material, Changeling isn't so much dull as it is an open book.</snippet>
+         <url>http://www.dallasobserver.com/2008-10-23/film/changeling/</url>
+         <critic>Ella Taylor</critic>
+      </review>
+      <review>
+         <snippet>As Changeling strains toward its mawkishly optimistic conclusion, the old-fashioned moviemaking that Eastwood settled into doesn't suit either him or his star. It feels like a corny joke.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=12205</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>An extremely weird and frustrating viewing experience. I think it's that way because Eastwood, 78, can't be bothered to wrangle the vast material into a tighter shape.</snippet>
+         <url>http://www.oregonlive.com/movies/index.ssf/2008/10/movie_review_changeling_la_got.html</url>
+         <critic>M. E. Russell</critic>
+      </review>
+      <review>
+         <snippet>Eastwood's grim handling of even grimmer subject matter could have used some paring down toward its histrionic ending, but Changeling is still one of the director's most assured and engaging historical horror shows.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A695032</url>
+         <critic>Marc Savlov</critic>
+      </review>
+      <review>
+         <snippet>The result is a film that plays like a creaking melodrama, with good guys and bad guys and precious little in between.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/reviews/bal-to.changeling31oct31,0,812139.story</url>
+         <critic>Chris Kaltenbach</critic>
+      </review>
+      <review>
+         <snippet>A glum, listless affair that springs to life now and then, only to sag back into its saggy, depressive cushion.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2008/10/24/changeling/</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>A brazen title card declares this " true story." (Wow, not even "based on.") However many facts may be accurate, the movie feels contrived, with climax piled upon climax.</snippet>
+         <url>http://events.charlotteobserver.com/reviews/show/33292-review-changeling</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>J. Michael Straczynski's disjointed script manages to ring false at almost every significant turn (Collins' psychiatric-hospital stay has grown into a latter-day version of "The Snake Pit") and Clint Eastwood's ponderous direction -- a disheartening departure from his sure touch in "Letters From Iwo Jima" and "The Bridges of Madison County" -- magnifies the flaws.</snippet>
+         <url>http://online.wsj.com/article/SB122479914867964509.html</url>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>It would be a horrific story even if underplayed, but Eastwood shoots it like a horror movie.</snippet>
+         <url>http://nymag.com/movies/reviews/51391/index1.html</url>
+         <critic>David Edelstein</critic>
+      </review>
+   </reviews>
+   <US_Gross>$35,739,802</US_Gross>
+   <weekend_gross>$489,015</weekend_gross>
+   <number_of_screens>15</number_of_screens>
+   <oscar_winning_directors_present/>
+   <num_oscar_winning_directors>1</num_oscar_winning_directors>
+   <oscar_winning_director>clint eastwood</oscar_winning_director>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

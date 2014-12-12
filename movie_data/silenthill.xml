@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Silent Hill</name>
+   <company>TriStar Pictures / Sony Pictures Entertainment</company>
+   <genres>
+      <genre>Drama</genre>
+      <genre>Horror</genre>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>Roger Avary</author>
+      <author>Nicolas Boukhrief</author>
+      <author>Christophe Gans</author>
+   </authors>
+   <directors>
+      <director>Christophe Gans</director>
+   </directors>
+   <origins>
+      <origin>JapanUSAFrance</origin>
+   </origins>
+   <actors>
+      <actor>Radha Mitchell</actor>
+      <actor>Laurie Holden</actor>
+      <actor>Sean Bean</actor>
+      <actor>Deborah Kara Unger</actor>
+      <actor>Tanya Allen</actor>
+      <actor>Jodelle Ferl</actor>
+      <actor>Kim Coates</actor>
+      <actor>Alice Krige</actor>
+   </actors>
+   <release_date>April 21, 2006</release_date>
+   <running_time>125</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>It packs in a few scary moments and offers a nicely ambiguous conclusion. In Silent Hill, atmosphere trumps storyline.</snippet>
+         <url>http://movie-reviews.colossus.net/movies/s/silent_hill.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>A step in the right direction for console-to-screen transitions and a twisted masterpiece of set design. Ultimately, though, it's a little too much like watching someone else play the game.</snippet>
+         <url>http://www.empireonline.com/incinemas/reviewcomplete.asp?FID=132935</url>
+         <critic>James Dyer</critic>
+      </review>
+      <review>
+         <snippet>Runs out of story a good half hour before it runs out of spooky images, but it comes to a quietly chilling conclusion far more haunting than any bloody mayhem.</snippet>
+         <url>http://online.tvguide.com/newsearch/detail.aspx?id=46810&amp;sourcetype=m&amp;progseriesparentid=0&amp;tvobjectid=0&amp;keyword=&amp;more=ucmoviereview</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>Works up a decent amount of solid, creep-show atmosphere in its first act before making some absurd decisions of its own in its second.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-silent24apr24,0,238115.story</url>
+         <critic>Jan Stuart</critic>
+      </review>
+      <review>
+         <snippet>Silent Hill's main attraction, for genre fans, certainly, lies not in its plot nor in its characters (you could place anyone in this particular township and whatever might happen, you could be sure it'd be unnerving), but in its relentlessly nightmarish imagery.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A358541</url>
+         <critic>Marc Savlov</critic>
+      </review>
+      <review>
+         <snippet>Recommended to those who feel "The Crucible" doesn't feature enough bodies ripped in half vertically. Others are duly warned.</snippet>
+         <url>http://www.avclub.com/content/node/47872</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>As I sat through this two hour stumble through what looked like fog, I just kept thinking to myself how this might be the best looking bad film I've ever seen.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=8934</url>
+         <critic>Don R. Lewis</critic>
+      </review>
+      <review>
+         <snippet>Horror maestro Christophe Gans ("Brotherhood of the Wolf") directed this feature, worth seeing for the zombie nurses who gyrate like a Bob Fosse chorus line before slicing each other to ribbons.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/29659_SILENT_HILL.html</url>
+         <critic>Andrea Gronvall</critic>
+      </review>
+      <review>
+         <snippet>In the end, Silent Hill degenerates into an overblown replay of all those "Twilight Zone" and Stephen King stories in which outsiders stumble upon a time-warped location from which there's no escape.</snippet>
+         <url>http://www.variety.com/review/VE1117930293?categoryid=31&amp;cs=1</url>
+         <critic>Dennis Harvey</critic>
+      </review>
+      <review>
+         <snippet>Stuffed with cheap effects and devoid of tension, this French-Japanese-U.S. co-production contributes exactly zilch to the rich film history of those three nations; the most horror-crazed teen may be hard-pressed to find any authentic thrills here.</snippet>
+         <url>http://www.villagevoice.com/film/0617,gallo,73013,20.html</url>
+         <critic>Bill Gallo</critic>
+      </review>
+      <review>
+         <snippet>Although I did not understand the story, I would have appreciated a great deal less explanation. All through the movie, characters are pausing in order to offer arcane back-stories and historical perspectives and metaphysical insights and occult orientations. They talk and talk and somehow their words do not light up any synapses in my brain.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20060420/REVIEWS/60421001/1023</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>Though Silent Hill's shoddy dialogue and incoherent story constantly irritate, several sights and scenes possess a certain surreal grandeur...Sadly, that's not enough to compensate for Silent Hill's utter lack of tension, intrigue, character development or satisfactory explanations for what the hell's happening on the screen.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/LAC.20060422.HILL22/TPStory/TPEntertainment/</url>
+         <critic>Jason Anderson</critic>
+      </review>
+      <review>
+         <snippet>A few of the images are startling, but as Radha Mitchell (a good actress) wanders through a ghost town, searching for her lost daughter as though she was touring an abandoned movie set, Silent Hill is mostly paralyzing in its vagueness.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1187454_1_0_,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>Buried beneath Silent Hill’s hyper-stylized stupidity (the film looks like a collaboration between David Fincher, Trent Reznor and music video director Mark Romanek) is the hollow effort to bottle something of the zeitgeist unease surrounding religious fundamentalism.</snippet>
+         <url>http://www.laweekly.com/film+tv/film-reviews/film-reviews/13252/</url>
+         <critic>Ernest Hardy</critic>
+      </review>
+      <review>
+         <snippet>A great-looking but stupefyingly incoherent supernatural thriller adapted from a popular video game that ransacks the entire catalog of horror film tropes for more than two mind-numbing hours.</snippet>
+         <url>http://www.nypost.com/movies/64871.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>The worst kind of horror movie: trash that takes itself seriously.</snippet>
+         <url>http://www.nydailynews.com/04-22-2006/entertainment/movies/story/410900p-347644c.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>Witless, soulless and joyless, it displays its video game origins throughout.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1002383775</url>
+         <critic>Ray Bennett</critic>
+      </review>
+      <review>
+         <snippet>Tens of millions of dollars were spent to tell us what we should have known going in: that the makers of the movie you're slogging through will spare no expense to demonstrate how much they hate us. Do us a favor. Tell them the feeling is mutual.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=8382</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>From first frame to last, not a second of the film has a grip on reality. Structured around a series of blackouts and gross-outs, it is one long free fall through icky surrealism and underlighted nightmares. It takes us to the sort of world where hell is round the corner, secret doors abound and faux-blond policewomen outfit themselves in skin-tight leather.</snippet>
+         <url>http://movies2.nytimes.com/2006/04/22/movies/22sile.html</url>
+         <critic>Nathan Lee</critic>
+      </review>
+      <review>
+         <snippet>Silent Hill has plenty of bad acting, bad dialogue and a confusing plot -- all of which become exponentially more painful when the movie goes on forever.</snippet>
+         <url>http://sfgate.com/cgi-bin/article.cgi?f=/c/a/2006/04/21/DDGD8ID45E9.DTL&amp;type=movies</url>
+         <critic>Peter Hartlaub</critic>
+      </review>
+   </reviews>
+   <US_Gross>$46,982,632</US_Gross>
+   <production_budget>$50,000,000</production_budget>
+   <weekend_gross>$20,152,598</weekend_gross>
+   <number_of_screens>2,926</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

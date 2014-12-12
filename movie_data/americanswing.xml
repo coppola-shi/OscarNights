@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>American Swing</name>
+   <company>Magnolia Pictures</company>
+   <genres>
+      <genre>Documentary</genre>
+   </genres>
+   <authors>
+      <author>Keith Reamer</author>
+   </authors>
+   <directors>
+      <director>Matthew Kaufman</director>
+      <director>Jon Hart</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors/>
+   <release_date>March 27, 2009</release_date>
+   <running_time>81</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>Plato's Retreat was a buffet of bodies, and the film catches the moment America could think that was tasty.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20267698,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>American Swing could use the flair of similar portraits of disco-era debauchery like "Boogie Nights" or "Inside Deep Throat," but it’s even-handed in capturing the operation’s ambition and hubris. Just don’t bring an appetite.</snippet>
+         <url>http://www.avclub.com/articles/american-swing,25649/</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>Doesn't have a particularly well-defined point of view, but it is a succinct, entertaining and valuable record of a time that in some ways now seems as remote as the Roaring '20s.</snippet>
+         <url>http://www.nypost.com/seven/03272009/entertainment/movies/ny_lust__laid_bare_161482.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>Often engrossing and humorous.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?rid=11627</url>
+         <critic>Peter Brunette</critic>
+      </review>
+      <review>
+         <snippet>Directors Jon Hart and Matthew Kaufman don’t delve deeply enough into the psyche of club founder Larry Levenson or the culture he exploited. But they do present an entertaining snapshot of his brief reign as New York’s self-appointed King of Swing.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2009/03/26/2009-03-26_short_takes_cindy_sherman_charlie_banks_.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>Mathew Kaufman and Jon Hart's documentary is just functionally assembled, lacking the style or larger social context that distinguished similar studies like "Inside Deep Throat."</snippet>
+         <url>http://www.variety.com/review/VE1117938341.html?categoryid=2863&amp;cs=1&amp;query=american+swing</url>
+         <critic>Dennis Harvey</critic>
+      </review>
+      <review>
+         <snippet>The film tries--and fails--to swing both ways, nostalgically glorifying its subject only to smugly revel in Levenson's ignominious demise.</snippet>
+         <url>http://www.villagevoice.com/2009-03-25/film/american-swing/</url>
+         <critic>Melissa Anderson</critic>
+      </review>
+      <review>
+         <snippet>But even a comic spin on grimace-inducing tales of the icky buffet, the "mattress room" (whatever you're imagining, that's it) and Levenson's own buffoonish image as a 10-ladies-a-night player -- "He never read a book," Al Goldstein cracks -- can't keep an unexplored sadness from slithering in amid the orgy of upbeat testimonials.</snippet>
+         <url>http://www.latimes.com/entertainment/la-et-capsules3-2009apr03,0,5105055.story</url>
+         <critic>Robert Abele</critic>
+      </review>
+      <review>
+         <snippet>It leaves you feeling queasy.</snippet>
+         <url>http://movies.nytimes.com/2009/03/27/movies/27swin.html?ref=movies</url>
+         <critic>Stephen Holden</critic>
+      </review>
+   </reviews>
+   <US_Gross>$30,156</US_Gross>
+   <weekend_gross>$10,174</weekend_gross>
+   <number_of_screens>1</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

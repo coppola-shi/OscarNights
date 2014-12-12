@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Glamorous Life of Sachiko Hanai, The</name>
+   <company>Palm Pictures</company>
+   <genres>
+      <genre>Comedy</genre>
+      <genre>Drama</genre>
+      <genre>Fantasy</genre>
+      <genre>Foreign</genre>
+   </genres>
+   <authors>
+      <author>Takao Nakano</author>
+   </authors>
+   <directors>
+      <director>Mitsuru Meike</director>
+   </directors>
+   <origins>
+      <origin>Japan</origin>
+   </origins>
+   <actors>
+      <actor>Emi Kuroda</actor>
+      <actor>Takeshi Ito</actor>
+      <actor>Yukijiro Hotaru</actor>
+      <actor>Tetsuaki Matsue</actor>
+      <actor>Kyoko Hayami</actor>
+      <actor>Shinji Kubo</actor>
+   </actors>
+   <release_date>April 13, 2007</release_date>
+   <running_time>90</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>Expanded by a half-hour from its prior incarnation as a pinku eiga, the formerly titled "Horny Home Tutor: Teacher's Love Juice" is now an apocalyptic political satire.</snippet>
+         <url>http://www.villagevoice.com/film/0715,hollis,76355,20.html</url>
+         <critic>Aaron Hillis</critic>
+      </review>
+      <review>
+         <snippet>Truth be told, Sachiko Hanai is probably an accomplished "pink film"; just don't mistake it for something classier.</snippet>
+         <url>http://www.avclub.com/content/cinema/the_glamorous_life_of_sachiko</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>Apparently started out as just another soft-core item, or what the Japanese call a pink film, but evolved into something more ambitious, sort of. Certainly it doesn’t look or play out like the typical American pay-TV fodder.</snippet>
+         <url>http://movies2.nytimes.com/2007/04/13/movies/13hana.html?ref=movies</url>
+         <critic>Manohla Dargis</critic>
+      </review>
+      <review>
+         <snippet>If outrageous concepts were all, this latest fillip in the oft-eccentric history of Japanese "pink" (softcore sexploitation) cinema would be genius. But the crazy ideas in Takao Nakano's script just fitfully amuse under Mitsuru Meike's draggy direction.</snippet>
+         <url>http://www.variety.com/review/VE1117930463.html?categoryid=31&amp;cs=1&amp;p=0</url>
+         <critic>Dennis Harvey</critic>
+      </review>
+   </reviews>
+   <US_Gross>$5,383</US_Gross>
+   <weekend_gross>$1,787</weekend_gross>
+   <number_of_screens>1</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

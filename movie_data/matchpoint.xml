@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Match Point</name>
+   <company>DreamWorks SKG</company>
+   <genres>
+      <genre>Drama</genre>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>Woody Allen</author>
+   </authors>
+   <directors>
+      <director>Woody Allen</director>
+   </directors>
+   <origins>
+      <origin>USAUK</origin>
+   </origins>
+   <actors>
+      <actor>Scarlett Johansson</actor>
+      <actor>Jonathan Rhys-Meyers</actor>
+      <actor>Emily Mortimer</actor>
+      <actor>Matthew Goode</actor>
+      <actor>Brian Cox</actor>
+      <actor>Penelope Wilton</actor>
+   </actors>
+   <release_date>December 28, 2005</release_date>
+   <running_time>124</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>To call Match Point Woody Allen's comeback would be an understatement - it's the most vital return to form for any director since Robert Altman made "The Player."</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1143751_1_0_,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>One reason for the fascination of Woody Allen's Match Point is that each and every character is rotten.</snippet>
+         <url>http://www.rogerebert.com/apps/pbcs.dll/article?AID=/20060105/REVIEWS/60103004/1023</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>Whether it's simply the change of locale, or a change in Allen's psyche, something is up in Match Point. With a dark view of humankind, and of the vagaries of chance - bad luck, good luck, dumb luck - the filmmaker has crafted a wicked, winning gem.</snippet>
+         <url>http://ae.philly.com/entertainment/ui/philly/movie.html?id=513926&amp;reviewId=19871</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>Allen's most satisfying film since "Bullets Over Broadway" (1994) and his most compelling since "Crimes and Misdemeanors" (1989).</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2006/01/06/DDG4SGHCJP1.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>An unpredictable, unusual, consistently engrossing drama of a kind that has almost disappeared from Hollywood.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/256327_match20q.html</url>
+         <critic>William Arnold</critic>
+      </review>
+      <review>
+         <snippet>It's a sexy thriller, tautly constructed, deeply acted and heartfelt, despite a cool and knowing tone.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/113718931018960.xml&amp;coll=7</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>The gloom of random, meaningless existence has rarely been so much fun, and Mr. Allen's bite has never been so sharp, or so deep. A movie this good is no laughing matter.</snippet>
+         <url>http://movies2.nytimes.com/2005/12/28/movies/28matc.html</url>
+         <critic>Dana Stevens</critic>
+      </review>
+      <review>
+         <snippet>Its many pleasures derive from the way this drama unfolds unexpectedly from the characters rather than imposing itself on them.</snippet>
+         <url>http://www.nypost.com/movies/59546.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>What fans want are good movies. This one isn't particularly funny or romantic, but it's gripping and tragic. It asks some nasty, yet profound, questions about human desire and behavior.</snippet>
+         <url>http://www.nydailynews.com/12-28-2005/entertainment/col/story/378207p-321291c.html</url>
+         <critic>Jami Bernard</critic>
+      </review>
+      <review>
+         <snippet>Not only could one argue that this is the best "serious" work the director has ever attempted, but it's presented in a way that even the most seasoned Allen fan will have difficulty recognizing the iconic filmmaker's fingerprints.</snippet>
+         <url>http://movie-reviews.colossus.net/movies/m/match_point.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>Woody Allen's best movie in years means to trip us up: Sexual sizzle. London instead of Manhattan. Brit actors. Dark humor with a sting that leaves welts. You bet it's a change. And it looks good on the Woodman.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/_/id/7479121?pageid=rs.ReviewsMovieArchive&amp;pageregion=mainRegion</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>Allen, rejuvenated by foreign settings, makes us appreciate posh parts of England as he always did Manhattan. (Credit cinematographer Remi Adefarasin for showing us how seductive upper-crust London can be.)</snippet>
+         <url>http://ae.charlotte.com/entertainment/ui/charlotte/movie.html?id=513926&amp;reviewId=19946&amp;startDate=NEXT7</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>Woody's a master wordsmith, and here he's crafted a bit of audience-friendly fare that's smart without feeling exclusionary. It's a portrait of elite society--and the hangers-on who wish to penetrate it--made in an surprisingly accessible way.</snippet>
+         <url>http://www.premiere.com/article.asp?section_id=2&amp;article_id=2433</url>
+         <critic>Peter Debruge</critic>
+      </review>
+      <review>
+         <snippet>Match Point begins to recall Hitchcock as it unfolds, although it wouldn't be right to call it a thriller. This is still very much a Woody Allen movie, populated by upper-class characters who chatter about literature and fine art, frequent museums and designer boutiques and accidentally run into each other on the street with uncanny regularity.</snippet>
+         <url>http://ae.miami.com/entertainment/ui/miami/movie.html?id=513926&amp;reviewId=19963</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>Rhys-Meyers and Johansson work well together - they both know how to project glossiness and guile.</snippet>
+         <url>http://www.csmonitor.com/2005/1230/p11s02-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>Well-observed and superbly cast picture is the filmmaker's best in quite a long time.</snippet>
+         <url>http://www.variety.com/ac2006_review/VE1117927064?nav=reviews&amp;categoryid=1986&amp;cs=1&amp;s=h&amp;p=0</url>
+         <critic>Todd McCarthy</critic>
+      </review>
+      <review>
+         <snippet>Allen covers it all with intelligent dialogue and unexpected moments of clever visual storytelling.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=8234</url>
+         <critic>Jeremy Mathews</critic>
+      </review>
+      <review>
+         <snippet>Even for non-Allen fans this has all the appeal of a good story well told and capped with a deliciously vicious little twist.</snippet>
+         <url>http://www.empireonline.com/incinemas/ReviewComplete.asp?FID=10340</url>
+         <critic>Adam Smith</critic>
+      </review>
+      <review>
+         <snippet>A sort of romance noir -- spruced up in pressed white linens -- this British-made film is elegant, uncompromising and oh-so- veddy nasty.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1106308&amp;lat=200.0&amp;lon=200.0&amp;displaySearchLocation=&amp;nm=1&amp;categories=Movies</url>
+         <critic>Desson Thomson</critic>
+      </review>
+      <review>
+         <snippet>It pretty much keeps its pulse steady, its blood cold and its nerves tamped down -- which, combined with cinematographer Remi Adefarasin's architectural Hitchcockian flourishes, lends a queasy, cool air to the proceedings.</snippet>
+         <url>http://www.calendarlive.com/movies/chocano/cl-et-matchpoint28dec28,0,6133017.story</url>
+         <critic>Carina Chocano</critic>
+      </review>
+      <review>
+         <snippet>The movie is unexpectedly disciplined and enjoyable.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/ArticleNews/TPStory/LAC/20060120/MATCH20/TPEntertainment/Film</url>
+         <critic>Liam Lacey</critic>
+      </review>
+      <review>
+         <snippet>Match Point is fantastic to look at, sharply dramatic and Allen is--who knew?--a master of suspense.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-060106-movies-review-match,0,3143634.story?coll=mmx-movies_top_heds</url>
+         <critic>Allison Benedikt</critic>
+      </review>
+      <review>
+         <snippet>Proof that Allen, who many have dismissed with his last few forgettable films, is still a filmmaking force.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2005-12-27-match-point_x.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>Just when the seemingly endless scenes of Johansson's nagging threaten to sink Match Point for good, the movie becomes the thriller that early reports promised.</snippet>
+         <url>http://avclub.com/content/node/44028</url>
+         <critic>Noel Murray</critic>
+      </review>
+      <review>
+         <snippet>Though the tale is told with crisp sangfroid and a wonderful twist, there's hardly a scene I haven't seen somewhere else.</snippet>
+         <url>http://www.msnbc.msn.com/id/10416135/site/newsweek/</url>
+         <critic>David Ansen</critic>
+      </review>
+      <review>
+         <snippet>When they get to canoodling and conniving, you won't ask for your money back.</snippet>
+         <url>http://www.time.com/time/magazine/article/0,9171,1139824-3,00.html</url>
+         <critic>Richard Corliss</critic>
+      </review>
+      <review>
+         <snippet>Switching into a dramatic gear, Woody Allen surprises but often struggles in this dark morality tale.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1000920115</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>Allen's new movie, Match Point, devoted to lust, adultery, and murder, is the most vigorous thing he's done in years.</snippet>
+         <url>http://www.newyorker.com/critics/cinema/?060109crci_cinema</url>
+         <critic>David Denby</critic>
+      </review>
+      <review>
+         <snippet>Match Point starts out crisply and deliciously, but in the end, it's a chess problem crossed with an ethics exam.</snippet>
+         <url>http://www.slate.com/id/2133674/</url>
+         <critic>Stephen Metcalf</critic>
+      </review>
+      <review>
+         <snippet>An efficient genre piece with a few provocative metaphysical trimmings; the mainly English cast is effective.</snippet>
+         <url>http://www.chicagoreader.com/movies/archives/2006/0106/060113.html</url>
+         <critic>Jonathan Rosenbaum</critic>
+      </review>
+      <review>
+         <snippet>One aspect certainly is remarkable. The dialogue is, at least to an American ear, authentic. Allen doesn't mention any aid on the script, so we are to assume that he wrote it himself.</snippet>
+         <url>http://www.tnr.com/doc.mhtml?i=20060130&amp;s=kauffmann013006</url>
+         <critic>Stanley Kauffmann</critic>
+      </review>
+      <review>
+         <snippet>The question that should be asked is whether Woody Allen has made a good movie this time out, and the honest answer is "almost."</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=8244</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>Rather than providing a foil for Bill Murray in "Lost in Translation" or embodying the mostly silent model for the painter Vermeer in "The Girl With One Pearl Earring," Johansson actually has to emote prodigiously here, and she is just not up to the task.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A325591</url>
+         <critic>Marjorie Baumgarten</critic>
+      </review>
+      <review>
+         <snippet>Johansson bequeaths the welcome sight of a talent in full bloom to this wilted, dark whimsy of a movie.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-to.match20jan20,1,4671790.story?coll=bal-artslife-movies</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>Match Point may well be a return to form but only for those who love "September" and "Interiors," movies populated by Bergman evacuees too inert and dreary to even crack a smile.</snippet>
+         <url>http://dallasobserver.com/Issues/2006-01-05/film/film.html</url>
+         <critic>Robert Wilonsky</critic>
+      </review>
+      <review>
+         <snippet>The movie wears thin as its style turns from light parody into affectation, and the plot, which certainly generates lots of anxiety, eventually settles for facile irony.</snippet>
+         <url/>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>Match Point is a fatally neat exercise in detached craftsmanship, and maybe that's the best we can expect from Allen at this point.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2005/12/23/match_point/index.html?sid=1420181</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>Match Point is a perfectly presentable, entirely unremarkable domestic melodrama parked queasily between opera and realism, two irreconcilable forms if ever there were.</snippet>
+         <url>http://www.laweekly.com/ink/06/04/fault-taylor.php</url>
+         <critic>Ella Taylor</critic>
+      </review>
+      <review>
+         <snippet>This thin chronicle of bad behavior among the rich and self-obsessed is above all painfully derivative, borrowing wholesale from Theodore Dreiser's "An American Tragedy" and echoes Allen's own "Crimes and Misdemeanors."</snippet>
+         <url>http://online.tvguide.com/movies/database/ShowMovie.asp?MI=46418</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>A modest and mildly pretentious mediocrity in the Woodman canon.</snippet>
+         <url>http://www.villagevoice.com/film/0552,atkinson,71293,20.html</url>
+         <critic>Michael Atkinson</critic>
+      </review>
+   </reviews>
+   <US_Gross>$23,089,926</US_Gross>
+   <production_budget>$15,000,000</production_budget>
+   <weekend_gross>$600,542</weekend_gross>
+   <number_of_screens>8</number_of_screens>
+   <oscar_winning_directors_present/>
+   <num_oscar_winning_directors>1</num_oscar_winning_directors>
+   <oscar_winning_director>woody allen</oscar_winning_director>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

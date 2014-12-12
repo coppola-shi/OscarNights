@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>College Road Trip</name>
+   <company>Walt Disney Pictures</company>
+   <genres>
+      <genre>Comedy</genre>
+   </genres>
+   <authors>
+      <author>Emi Mochizuki</author>
+      <author>Carrie Evans</author>
+      <author>Cinco Paul</author>
+      <author>Ken Daurio</author>
+   </authors>
+   <directors>
+      <director>Roger Kumble</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Martin Lawrence</actor>
+      <actor>Raven-Symone</actor>
+      <actor>Donny Osmond</actor>
+      <actor>Will Sasso</actor>
+      <actor>Arnetia Walker</actor>
+   </actors>
+   <release_date>March 7, 2008</release_date>
+   <running_time>83</running_time>
+   <rating>G</rating>
+   <reviews>
+      <review>
+         <snippet>Undeniably fun for the kids, though it requires a camp sensibility in its adult audience. But in doing so, it is a warm return to the live-action Disney movies of yesteryear.</snippet>
+         <url>http://filmthreat.com/index.php?section=reviews&amp;Id=10821</url>
+         <critic>Matthew Sorrento</critic>
+      </review>
+      <review>
+         <snippet>You know a movie has taken a very strange turn when you find yourself eagerly awaiting the next appearance by Donny Osmond.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20080306.road07nat/BNStory/Entertainment/home</url>
+         <critic>Jason Anderson</critic>
+      </review>
+      <review>
+         <snippet>At its best when it drops any pretense of plot for sheer goof (as when a Japanese sightseer belts ''Sister Christian'' on a karaoke tour bus), and at its worst when Lawrence manages to out-ham even his porky four-legged costar.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20182351,00.html</url>
+         <critic>Adam Markovitz</critic>
+      </review>
+      <review>
+         <snippet>This overplayed, underachieving laffer feels thoroughly manufactured to Disney specifications.</snippet>
+         <url>http://www.variety.com/review/VE1117936422.html?categoryid=31&amp;cs=1</url>
+         <critic>Justin Chang</critic>
+      </review>
+      <review>
+         <snippet>If, on the other hand, your driver's license is still a distant dream, consider this a path to pure hilarity.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2008/03/07/2008-03-07_college_road_trip_is_strictly_middleofth.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>Relies on slapstick scenes that are neither essential nor especially clever.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2008/03/07/DDS8VEUQ7.DTL&amp;type=movies</url>
+         <critic>Walter Addiego</critic>
+      </review>
+      <review>
+         <snippet>Eyes popping and mouths agape, Martin Lawrence and Raven-Symoné mug their way through College Road Trip as if it were a silent movie -- which, come to think of it, would have been a lot less irritating.</snippet>
+         <url>http://movies.nytimes.com/2008/03/07/movies/07trip.html?ref=movies</url>
+         <critic>Jeannette Catsoulis</critic>
+      </review>
+      <review>
+         <snippet>As over-the-top as Raven-Symoné and Lawrence are, the most live-action cartoon characters in College Road Trip are the father-daughter tandem of Doug (Donny Osmond) and Wendy (Molly Ephraim), whose nitro-powered perkiness pass the point of grating and move into a perversely antic state of grace.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-college7mar07,0,299077.story</url>
+         <critic>Gene Seymour</critic>
+      </review>
+      <review>
+         <snippet>Perhaps there will be people who do laugh at Lawrence and Raven-Symon screaming in tandem, or mugging their way along every tortured mile of their road trip, or unwittingly joining a sky-diving club and having to parachute into Washington so Melanie can make her interview. Heck, it was all really funny when they did it on "I Love Lucy."</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1142500&amp;categories=Movies&amp;nm=1</url>
+         <critic>John Anderson</critic>
+      </review>
+      <review>
+         <snippet>What is puzzling is the incompatibility of the two leads with their roles. Raven is supposed to be a high school senior on a road trip to check out prospective universities. But she acts like a adolescent on a sugar high during a weekend sleepover.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?JSESSIONID=8TvnHQDd4cdqBSwFnGCNcZpGRRfyhpG3jj7yd6PdPNtHk51x5yC1!1234078493&amp;&amp;rid=10775</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>Lawrence's descent from hyperactive foulmouth to G-rated father figure has been in evidence for years now, but watching director Roger Kumble move from flawed but juicy projects like "Cruel Intentions" to pap like this is a depressing career development.</snippet>
+         <url>http://www.laweekly.com/film+tv/film-reviews/movie-reviews-college-road-trip-cj7/18483/</url>
+         <critic>Tim Grierson</critic>
+      </review>
+      <review>
+         <snippet>As generic as its title, College Road Trip feels like a first draft, the one the studio brings to the rewrite team that, in this case, never got hired.</snippet>
+         <url>http://chicago.metromix.com/movies/movie_review/movie-review-college-road/326662/content</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>Better than most Martin Lawrence movies - much as strep throat is better than malaria.</snippet>
+         <url>http://www.nypost.com/seven/03072008/entertainment/movies/not_best_of_a_dad_situation_100745.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>Highly formulaic, make-'em-laugh-then-make-'em-cry comedy.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=10562</url>
+         <critic>Ethan Gilsdorf</critic>
+      </review>
+      <review>
+         <snippet>Absolutely nothing funny happens during their drive to Georgetown for an interview, even with Donny Osmond along for the ride.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/32866_COLLEGE_ROAD_TRIP.html</url>
+         <critic>Andrea Gronvall</critic>
+      </review>
+      <review>
+         <snippet>Osmond is all teeth and no talent. You’d think that his presence here might provide an opportunity for some tongue-in-cheek humor at his expense, but Osmond plays the comedy so darn straight that it’s painful to watch.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A598535</url>
+         <critic>Steve Davis</critic>
+      </review>
+      <review>
+         <snippet>The almost perversely colorblind College Road Trip represents a strange milestone in black film.</snippet>
+         <url>http://www.avclub.com/content/cinema/college_road_trip</url>
+         <critic>Nathan Rabin</critic>
+      </review>
+      <review>
+         <snippet>The whole project is a cloying, artificial mess. The slapstick comedy doesn't bite, and the formulaic sentimentality doesn't grip.</snippet>
+         <url>http://www.philly.com/philly/entertainment/movies/20080307_Pig_is_not_the_films_biggest_ham.html</url>
+         <critic>David Hiltbrand</critic>
+      </review>
+      <review>
+         <snippet>The tagline for College Road Trip is "You Can't Get There Fast Enough." But for those who sit through this humorless and massively predictable movie, a more apt phrase would be: "You Can't Get Out of There Fast Enough."</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2008-03-06-college-road-trip_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>Lawrence runs through his usual repertory of mugging, seething and generally acting like a fool, only to be regularly upstaged by Arnold, Trey's pet piglet.</snippet>
+         <url>http://www.tvguide.com/movies/college-road-trip/review/292653</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+   </reviews>
+   <US_Gross>$45,610,425</US_Gross>
+   <weekend_gross>$13,601,419</weekend_gross>
+   <number_of_screens>2,706</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Dead Man&amp;#039;s Shoes</name>
+   <company>Magnolia Pictures</company>
+   <genres>
+      <genre>Drama</genre>
+      <genre>Foreign</genre>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>Shane Meadows</author>
+      <author>Paddy Considine</author>
+      <author>Paul Fraser</author>
+   </authors>
+   <directors>
+      <director>Shane Meadows</director>
+   </directors>
+   <origins>
+      <origin>UK</origin>
+   </origins>
+   <actors>
+      <actor>Paddy Considine</actor>
+      <actor>Gary Stretch</actor>
+      <actor>Toby Kebbell</actor>
+      <actor>Neil Bell</actor>
+      <actor>Stuart Wolfenden</actor>
+   </actors>
+   <release_date>May 12, 2006</release_date>
+   <running_time>90</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>For all Dead Man's Shoes' well-paced, well-observed boondocks melodrama, its premise seems simultaneously slender and overheated.</snippet>
+         <url>http://www.avclub.com/content/node/48294</url>
+         <critic>Noel Murray</critic>
+      </review>
+      <review>
+         <snippet>An original, complex, and utterly gruesome revenge parable, and never portrays its characters as black and white. Considine handles his performance like a pro, and only adds to the pure skill behind it.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=8961</url>
+         <critic>Felix Vasques Jr.</critic>
+      </review>
+      <review>
+         <snippet>This is no simplistic vigilante movie. Like Park Chan-wook's "Vengeance" trilogy, it explores the nature of the beast of revenge, leaving the audience in a sweat of dread.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/moviereviews/story/417014p-352149c.html</url>
+         <critic>Jami Bernard</critic>
+      </review>
+      <review>
+         <snippet>The always fantastic Paddy Considine evokes both sensitivity and explosiveness.</snippet>
+         <url>http://movies2.nytimes.com/2006/05/12/movies/12shoe.html</url>
+         <critic>Laura Kern</critic>
+      </review>
+      <review>
+         <snippet>Meadows loses control as he goes along, veering into assorted noodling and sacrificing the knife's-edge clarity of the early going for something arty and artificial.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/1154559329248430.xml&amp;coll=7</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>Very slowly builds to a powerful climax for this arty cross between "Straw Dogs" and "First Blood."</snippet>
+         <url>http://www.nypost.com/movies/68414.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>Though the story is formulaic, the bleakly naturalistic performances give it an uncomfortable sting.</snippet>
+         <url>http://online.tvguide.com/newsearch/detail.aspx?id=46535&amp;sourcetype=m&amp;progseriesparentid=0&amp;tvobjectid=0&amp;keyword=&amp;more=ucmoviereview</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>The imagery is exotically grungy and jumbled by flashback, but in the end, the picture's more pulp than juice.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1195053_1_0_,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>The film is filled with deeply unpleasant and stupid people whose vapid speech is largely incomprehensible due to thick regional accents.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1000627117</url>
+         <critic>Ray Bennett</critic>
+      </review>
+      <review>
+         <snippet>Film plays as a quirky Brit riff on everything from U.S. slasher pics to revenge oaters but without Meadows' usual psychological complexity.</snippet>
+         <url>http://www.variety.com/review/VE1117924705?categoryid=31&amp;cs=1</url>
+         <critic>Derek Elley</critic>
+      </review>
+      <review>
+         <snippet>Dead Man's Shoes is all about revenge, but in trying to be one of those serious revenge films that questions violence while indulging in it, it manages to keep virtually all the characters unsympathetic and uninteresting.</snippet>
+         <url>http://www.villagevoice.com/film/0619,thompson,73167,20.html</url>
+         <critic>Luke Y. Thompson</critic>
+      </review>
+      <review>
+         <snippet>A shocking revelation near the end explains the soldier's nihilistic rage but simultaneously tears a gigantic hole in the plot, leaving little to admire but Considine's typically penetrating performance.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/29835_DEAD_MANS_SHOES.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>Like so many movies of its kind, Dead Man's Shoes gets hopelessly lost in vicious process, and so loses all sight of anything you might optimistically call insight.</snippet>
+         <url>http://www.laweekly.com/film+tv/film/hell-is-for-children/13600/</url>
+         <critic>Ella Taylor</critic>
+      </review>
+      <review>
+         <snippet>There are flashes of grim humor interspersed with the murders, but not enough wit to elevate this movie beyond its primary identity: grisly revenge fantasy.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-060519-movies-review-shoes,0,2544637.story?coll=mmx-movies_top_heds</url>
+         <critic>Jessica Reaves</critic>
+      </review>
+   </reviews>
+   <US_Gross>$6,408</US_Gross>
+   <weekend_gross>$1,825</weekend_gross>
+   <number_of_screens>1</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

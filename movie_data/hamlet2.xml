@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Hamlet 2</name>
+   <company>Focus Features (Universal)</company>
+   <genres>
+      <genre>Comedy</genre>
+   </genres>
+   <authors>
+      <author>Pam Brady</author>
+      <author>Andrew Fleming</author>
+   </authors>
+   <directors>
+      <director>Andrew Fleming</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Steve Coogan</actor>
+      <actor>Catherine Keener</actor>
+      <actor>Amy Poehler</actor>
+      <actor>David Arquette</actor>
+      <actor>Elisabeth Shue</actor>
+      <actor>Melonie Diaz</actor>
+   </actors>
+   <release_date>August 22, 2008</release_date>
+   <running_time>92</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>Funny excuses an awful lot, and at its best, Hamlet 2 is nothing short of hilarious.</snippet>
+         <url>http://www.avclub.com/content/cinema/hamlet_2</url>
+         <critic>Nathan Rabin</critic>
+      </review>
+      <review>
+         <snippet>As a movie, Hamlet 2 is lively, energetically daft, and very, very scrappy -- a broader, more loony-tunes knockoff of "Waiting for Guffman."</snippet>
+         <url>http://www.ew.com/ew/article/0,,20221983,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>Occasionally sloppy, with a finale so abrupt and incoherent that it feels like something is missing. But it's also pleasantly odd and truly funny, and it builds in strength as it goes along.</snippet>
+         <url>http://blog.oregonlive.com/madaboutmovies/2008/08/movie_review_hamlet_2_the_triu.html</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>Like its low-key star, Hamlet 2 is more likely to elicit quiet chuckles than raucous laughter.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2008/08/21/DD7612EU2P.DTL&amp;type=movies</url>
+         <critic>Ruthe Stein</critic>
+      </review>
+      <review>
+         <snippet>It's Coogan's breakthrough star performance that holds it all together. He's sensational.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/18262316/review/22187188/hamlet_2</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>The movie is an ideal showcase for the talents of Coogan.</snippet>
+         <url>http://www.rogerebert.com/apps/pbcs.dll/article?AID=/20080821/REVIEWS/331/1023</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>Coogan's screen persona is vain, dim, angry, and deeply miserable, and his handful of scenes here with a smilingly harsh Catherine Keener are little masterpieces of comic sadomasochism.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/33449_HAMLET_TWO.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>Arquette wander in and out of frame, but like everyone else in this film, they're eclipsed by Coogan's gloriously unhinged performance, which has the lunatic, semi-meta tone of a parody within a parody.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A662327</url>
+         <critic>Marc Savlov</critic>
+      </review>
+      <review>
+         <snippet>A frequently amusing and consistently outrageous but ultimately tiresome farce.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/375945_hamlet22q.html</url>
+         <critic>William Arnold</critic>
+      </review>
+      <review>
+         <snippet>Elisabeth Shue has a strange role as a version of herself who has given up acting for nursing.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2008-08-21-hamlet-2_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>The film, which really is sloppy, slips around in terms of tone and goes every which way.</snippet>
+         <url>http://chicago.metromix.com/movies/movie_review/movie-review-hamlet-2/568928/content</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>A rather mediocre experience, offering sporadic laughs but never achieving the level of consistent humor necessary to make this memorable.</snippet>
+         <url>http://www.reelviews.net/php_review_template.php?identifier=1311</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>Attaining somewhat of a bad parody of a comedy, screenwriters Andrew Fleming and Pam Brady have slapped together a string of gags in a hit-and-miss dither. Some of it is quite brainy.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/imdb/reviews/article_display.jsp?rid=10510&amp;vnu_special_account_code=thrsiteimdbpro</url>
+         <critic>Duane Byrge</critic>
+      </review>
+      <review>
+         <snippet>Mostly, though, there's the endlessly resourceful, endlessly inventive, bedazzling Mr. Coogan. Hamlet Schmamlet. Not since "Death of a Salesman" has failure been quite so entertaining.</snippet>
+         <url>http://online.wsj.com/article/SB121936317148061907.html?mod=hps_us_inside_today</url>
+         <critic>Joanne Kaufman</critic>
+      </review>
+      <review>
+         <snippet>Not infrequently the movie is as mediocre as its target. The great Steve Coogan movie has yet to be made.</snippet>
+         <url>http://www.csmonitor.com/2008/0823/p25s02-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>In the new comedy Hamlet 2, Coogan comes perilously close to wearing out his welcome. It's actually a pretty fascinating sight.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=11699</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>There's a lot of potential here, and a sharper script might have made all the difference.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2008/08/21/2008-08-21_steve_coogan_goes_for_broke_in_hamlet_2.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>Coogan's mopiness is oddly riveting.</snippet>
+         <url>http://nymag.com/movies/reviews/49284/</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>It all adds up to the kind of bad family entertainment likely to raise only a few eyebrows.</snippet>
+         <url>http://movies.nytimes.com/2008/08/22/movies/22haml.html?ref=movies</url>
+         <critic>Stephen Holden</critic>
+      </review>
+      <review>
+         <snippet>Let's just say that, when the parody looks indistinguishable from the parodied, something's gone awry.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20080821.whamlet22/BNStory/Entertainment/home</url>
+         <critic>Rick Groen</critic>
+      </review>
+      <review>
+         <snippet>Amusing but unevenly inspired tale of a deluded high school drama teacher's attempt to stage a career-saving extravaganza has some laughs, to be sure.</snippet>
+         <url>http://www.variety.com/index.asp?layout=festivals&amp;jump=review&amp;id=2471&amp;reviewid=VE1117935940&amp;cs=1</url>
+         <critic>Dennis Harvey</critic>
+      </review>
+      <review>
+         <snippet>Not nearly as uproarious as it should be.</snippet>
+         <url>http://www.villagevoice.com/2008-08-19/film/childhood-in-momma-s-man-struggles-with-daddy-issues-in-hamlet-2/2</url>
+         <critic>J. Hoberman</critic>
+      </review>
+      <review>
+         <snippet>Hamlet 2 is as needy as its hero -- because it wants not to be probing or profound or even witty but, above all else, to be loved.</snippet>
+         <url>http://www.time.com/time/arts/article/0,8599,1834633,00.html</url>
+         <critic>Richard Corliss</critic>
+      </review>
+      <review>
+         <snippet>Only in its aggressively imaginative profanity is the film consistent.</snippet>
+         <url>http://www.philly.com/inquirer/columnists/carrie_rickey/20080822_Musical__Hamlet___Tee-hee_or_not_tee-hee.html</url>
+         <critic>Carrie Rickey</critic>
+      </review>
+      <review>
+         <snippet>It's an unhinged, off-the-wall comedy that will try anything once, an uneven film in which the hits are so dead-on that the misses don't seem to matter.</snippet>
+         <url>http://www.latimes.com/entertainment/news/reviews/la-et-hamlet22-2008aug22,0,3184989.story</url>
+         <critic>Kenneth Turan</critic>
+      </review>
+      <review>
+         <snippet>So wearying that it makes you feel duped for being open to it in the first place. Hamlet 2 works so hard at being entertaining, in that quirky, Indie 101 sense, that it just grinds you down.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2008/08/22/hamlet_2/</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>Much like the play within it, Hamlet 2 is lousy. The main difference is that the play is SUPPOSED to be awful. The movie about the play is supposed to be funny.</snippet>
+         <url>http://www.miamiherald.com/entertainment/movies/reviews/story/651232.html</url>
+         <critic>Connie Ogle</critic>
+      </review>
+      <review>
+         <snippet>The laughs begin with the excellent title Hamlet 2 - and they end there.</snippet>
+         <url>http://www.nypost.com/seven/08222008/entertainment/movies/somethings_rotten_in_the_state_of_arizon_125498.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+   </reviews>
+   <US_Gross>$4,886,216</US_Gross>
+   <production_budget>$9,000,000</production_budget>
+   <weekend_gross>$439,925</weekend_gross>
+   <number_of_screens>103</number_of_screens>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

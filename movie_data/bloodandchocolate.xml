@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Blood and Chocolate</name>
+   <company>Metro-Goldwyn-Mayer</company>
+   <genres>
+      <genre>Drama</genre>
+      <genre>Fantasy</genre>
+      <genre>Horror</genre>
+      <genre>Romance</genre>
+   </genres>
+   <authors>
+      <author>Ehren Kruger</author>
+      <author>Christopher Landon</author>
+      <author>Annette Curtis Klause</author>
+   </authors>
+   <directors>
+      <director>Katja von Garnier</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Agnes Bruckner</actor>
+      <actor>Hugh Dancy</actor>
+      <actor>Olivier Martinez</actor>
+      <actor>Katja Riemann</actor>
+      <actor>Bryan Dick</actor>
+      <actor>Chris Geere</actor>
+      <actor>Tom Harper</actor>
+      <actor>John Kerr</actor>
+   </actors>
+   <release_date>January 26, 2007</release_date>
+   <running_time>98</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>Never having read the book, I found Blood and Chocolate to be a lovely surprise, an imaginative and visually lush picture firmly rooted in the tradition of gothic romance and elegiac horror films about misunderstood monsters.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2007/01/26/blood/index.html</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>Werewolves are tame with overuse, and movies like Blood and Chocolate -- where moments of inspiration vie in vain with Goth cliché -- play like underlit "Charmed" reruns.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20010414,00.html</url>
+         <critic>Scott Brown</critic>
+      </review>
+      <review>
+         <snippet>Entertaining in a B-movie sort of way, and you can't help admiring its earnestness about the philosophical issues it invokes.</snippet>
+         <url>http://www.boston.com/ae/movies/articles/2007/01/27/i_was_a_teenage_werewolf____no_wait_thats_another_b__movie/</url>
+         <critic>Michael Hardy</critic>
+      </review>
+      <review>
+         <snippet>A far cry from such sneakily subversive werewolf-sex tales as "The Company of Wolves" (1984) or "Ginver Snaps" (2000), this pallid little picture is all "Lost Boys" (1987) posturing by way of the sublimely ridiculous "Covenant" (2006).</snippet>
+         <url>http://tvguide.com/detail/movie.aspx?tvobjectid=285358&amp;more=ucmoviereview</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>The entire star-crossed scenario is conveyed with the narrative simplicity of a musicvideo, lingering in an almost fetishistic manner on sensual details (boxes of chocolates, a blood-red ribbon) while compressing important elements of the story into clumsy montages.</snippet>
+         <url>http://www.variety.com/review/VE1117932580.html?categoryid=31&amp;cs=1</url>
+         <critic>Peter Debruge</critic>
+      </review>
+      <review>
+         <snippet>Uninvolving and cliché-ridden (even shape-shifters, it seems, deserve a falling-in-love montage), Blood &amp; Chocolate is "Romeo and Juliet" with fewer manners and more exotic dentition.</snippet>
+         <url>http://www.nytimes.com/2007/01/27/movies/27bloo.html?_r=1&amp;ref=movies&amp;oref=slogin</url>
+         <critic>Jeannette Catsoulis</critic>
+      </review>
+      <review>
+         <snippet>The lead performers certainly are highly attractive, making this one of the more sensual werewolf pictures in quite a while -- and to their credit, they do manage to keep a straight face throughout. But ultimately, the anemic Blood and Chocolate could have benefited from a little less chocolate and a lot more blood.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?JSESSIONID=F6SwvdM7nylmqTjlxJcW2fLylkQ14WQLDhv1h1Q16HwLGlN8MTfy!557466552&amp;&amp;rid=8708</url>
+         <critic>Frank Scheck</critic>
+      </review>
+      <review>
+         <snippet>Not as yummy as it sounds, true, but nowhere near as godawful as "Van Helsing," a small mercy but very much appreciated.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A438484</url>
+         <critic>Marc Savlov</critic>
+      </review>
+      <review>
+         <snippet>Horror fans will be disgusted by the lack of gore. Romance fans will be disgusted by the presence of gore. One is tempted to applaud the filmmakers for trying something this daring, but the result isn't good enough to warrant any acclaim, however lukewarm it might be.</snippet>
+         <url>http://www.reelviews.net/movies/b/blood_chocolate.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>Though technically a werewolf movie, the silly Blood and Chocolate is really just a toothless love story about the bad stuff that can happen when two very different people fall in love.</snippet>
+         <url>http://www.nydailynews.com/01-27-2007/entertainment/col/story/492285p-414657c.html</url>
+         <critic>Robert Dominguez</critic>
+      </review>
+      <review>
+         <snippet>It's a relentlessly silly horror/fantasy/romance that is merely the latest twist on a tired premise.</snippet>
+         <url>http://www.calendarlive.com/printedition/calendar/cl-et-blood29jan29,0,5746738.story</url>
+         <critic>Lael Loewenstein</critic>
+      </review>
+      <review>
+         <snippet>Good movie roles have generally eluded her (Agnes Bruckner), and she labors in vain to keep this big-studio horror confection alive.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/31038_BLOOD_AND_CHOCOLATE.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>A romantic triangle between werewolves and humans doesn't sound dull, but director Katja von Garnier seems to determined to drain the life out of it.</snippet>
+         <url>http://www.avclub.com/content/node/57916</url>
+         <critic>Keith Phipps</critic>
+      </review>
+      <review>
+         <snippet>Not since "An American Werewolf in London" in 1981 reset the standard for man-to-wolf transformations has anyone tried to get away with special effects as pitiful as the ones in this movie.</snippet>
+         <url>http://sfgate.com/cgi-bin/article.cgi?f=/c/a/2007/01/26/DDG86NPOU78.DTL&amp;type=movies</url>
+         <critic>Peter Hartlaub</critic>
+      </review>
+      <review>
+         <snippet>If you care a thing about your evening's entertainment, you'll walk out of this howler before you ever buy a ticket.</snippet>
+         <url>http://www.laweekly.com/film+tv/film-reviews/film-reviews/15487/</url>
+         <critic>Luke Y. Thompson</critic>
+      </review>
+      <review>
+         <snippet>As for the script, a wittier director would have spotted the absurd elements and delivered a horror-comedy instead of a straight-faced bore.</snippet>
+         <url>http://www.nypost.com/seven/01272007/entertainment/movies/full_moon__empty_head_movies_kyle_smith.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+   </reviews>
+   <US_Gross>$3,526,588</US_Gross>
+   <weekend_gross>$2,074,300</weekend_gross>
+   <number_of_screens>1,200</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

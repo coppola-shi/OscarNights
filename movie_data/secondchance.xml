@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Second Chance, The</name>
+   <company>Sony Pictures Entertainment Inc.</company>
+   <genres>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author>Chip Arnold</author>
+      <author>Ben Pearson</author>
+      <author>Steve Taylor</author>
+   </authors>
+   <directors>
+      <director>Steve Taylor</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Michael W. Smith</actor>
+      <actor>Jeff Carr</actor>
+      <actor>J. Don Ferguson</actor>
+      <actor>Jonathan Thomas</actor>
+   </actors>
+   <release_date>February 17, 2006</release_date>
+   <running_time>102</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>Startlingly direct if unavoidably preachy, The Second Chance takes aim at Christianity's racial divide and the corporatization of faith. Its message is simple: being a Christian requires more than just dropping a check in the collection plate every Sunday morning.</snippet>
+         <url>http://movies2.nytimes.com/2006/02/17/movies/17seco.html</url>
+         <critic>Jeannette Catsoulis</critic>
+      </review>
+      <review>
+         <snippet>A movie-of-the-week treatment of race and class, the film credibly portrays the day-to-day workings of an urban ministry.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-capsules17feb17,0,1044151.story</url>
+         <critic>Kevin Crust</critic>
+      </review>
+      <review>
+         <snippet>The crisply made feature delivers an involving if not always persuasive portrait of religious leaders in conflict.</snippet>
+         <url>http://www.variety.com/review/VE1117929684?categoryid=31&amp;cs=1</url>
+         <critic>Justin Chang</critic>
+      </review>
+      <review>
+         <snippet>Competently directed by Christian music producer Steve Taylor, it's a sincerely (if not exactly subtly) performed spiritual drama with a faith-based lesson in humility and the practical charity of offering a helping hand.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/259816_chance17q.html</url>
+         <critic>Sean Axmaker</critic>
+      </review>
+      <review>
+         <snippet>As a film, it is earnest, cliched, often awkward and unlikely to inspire anyone who isn't already thoroughly sold on its message of salvation through community activism.</snippet>
+         <url>http://online.tvguide.com/movies/database/ShowMovie.asp?MI=46055</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>Its message is sugarcoated in a schmaltzy, clichéd story line about Smith's conflicts with streetwise black minister (Jeff Obafemi Carr) - and sabotaged by hackneyed dialogue, sluggish pacing and a listless performance by Smith, who only springs to life when he's singing.</snippet>
+         <url>http://www.nypost.com/movies/63702.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>There are a lot of good messages in The Second Chance about how Christianity is a mix of love, both gentle and tough. Some of those, unfortunately, are lost in the uneven performances.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=8663</url>
+         <critic>Chris Thilk</critic>
+      </review>
+   </reviews>
+   <US_Gross>$432,253</US_Gross>
+   <weekend_gross>$200,554</weekend_gross>
+   <number_of_screens>87</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

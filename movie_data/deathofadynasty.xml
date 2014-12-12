@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Death of a Dynasty</name>
+   <company>TLA Releasing</company>
+   <genres>
+      <genre>Comedy</genre>
+      <genre>Musical</genre>
+   </genres>
+   <authors>
+      <author>Adam Moreno</author>
+   </authors>
+   <directors>
+      <director>Damon Dash</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Ebon Moss-Bachrach</actor>
+      <actor>Devon Aoki</actor>
+      <actor>Capone</actor>
+      <actor>Robert Stapleton</actor>
+      <actor>Rashida Jones</actor>
+      <actor>Damon Dash</actor>
+   </actors>
+   <release_date>April 29, 2005</release_date>
+   <running_time>93</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>An amiably raucous, scorched-earth mockumentary.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1051976_1_0_,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>The picture repeats itself a lot, but Dash is a good sport in poking barbed fun at the PR machinations of today's music business.</snippet>
+         <url>http://www.csmonitor.com/2005/0429/p14s01-almo.html</url>
+         <critic>David Sterritt</critic>
+      </review>
+      <review>
+         <snippet>Well shot and edited, Death of a Dynasty is hardly a comedy classic, but it's frequently on target.</snippet>
+         <url>http://www.washingtonpost.com/wp-dyn/content/article/2005/04/28/AR2005042800942.html</url>
+         <critic>Richard Harrington</critic>
+      </review>
+      <review>
+         <snippet>There are some funny moments and amusing cameos, but it's not enough to elevate this project's slapdash approach.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/moviereviews/story/304646p-260635c.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>Dynasty is less interesting as a film than as a winking gloss on hip-hop's assembly line of beats, beefs, and B-list lyricists. That said, Capone does a killer dancin' Dash, James Toback's Lyor Cohen is a riot, and multi-credited comedian Kevin Hart should have his own Chappelleian series.</snippet>
+         <url>http://www.villagevoice.com/film/0517,tracking1,63397,20.html</url>
+         <critic>Peter L&amp;#039;Official</critic>
+      </review>
+      <review>
+         <snippet>Watching the rest of Damon Dash's playful movie is like entering a room where a large, too noisy party is going on and never fully adjusting to the dark or the din.</snippet>
+         <url>http://movies2.nytimes.com/2005/04/29/movies/29dyna.html</url>
+         <critic>Anita Gates</critic>
+      </review>
+      <review>
+         <snippet>Inspired mockumentary-a-clef so clotted with in-jokes that it should come with a crib sheet.</snippet>
+         <url>http://tvguide.com/movies/database/showmovie.asp?MI=46013</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>While those in the know will undoubtedly find something to appreciate in the film's wide-ranging if amateurish stabs at satire, the vast majority will feel left out of a private joke.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1909330</url>
+         <critic>Frank Scheck</critic>
+      </review>
+      <review>
+         <snippet>There is a funny movie to be made from the outrageous egos and excesses of rap music. Death of a Dynasty is not that movie.</snippet>
+         <url>http://ae.philly.com/entertainment/ui/philly/movie.html?id=306320&amp;reviewId=17879</url>
+         <critic>David Hiltbrand</critic>
+      </review>
+      <review>
+         <snippet>The execution is so amateurish and the script so witless the filmmakers appear to be having a far better time than the audience.</snippet>
+         <url>http://www.variety.com/review/VE1117920718?categoryid=31&amp;cs=1</url>
+         <critic>David Rooney</critic>
+      </review>
+      <review>
+         <snippet>A mockumentary that veers unsteadily between satire and an infomercial for Dash's Roc-A-Fella records.</snippet>
+         <url>http://www.nypost.com/movies/43212.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>"This Is Spinal Tap" was brilliantly funny. Death of a Dynasty? Well, the movie is just dead.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-to.death29apr29,1,3950915.story?coll=bal-artslife-movies</url>
+         <critic>Rashod D. Ollison</critic>
+      </review>
+   </reviews>
+   <US_Gross>$41,382</US_Gross>
+   <weekend_gross>$28,107</weekend_gross>
+   <number_of_screens>16</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

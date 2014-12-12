@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>We Live in Public</name>
+   <company>Interloper Films</company>
+   <genres>
+      <genre>Documentary</genre>
+   </genres>
+   <authors>
+      <author/>
+   </authors>
+   <directors>
+      <director>Ondi Timoner</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Josh Harris</actor>
+   </actors>
+   <release_date>August 28, 2009</release_date>
+   <running_time>90</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>This is a remarkable film about a strange and prophetic man. What does it tell us? Did living a virtual life destroy him?</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20091014/REVIEWS/910149994</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>Harris' thought-provoking performance art/life isn't yet over, but by film's end he's become unplugged, both literally and metaphorically.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A890201</url>
+         <critic>Marc Savlov</critic>
+      </review>
+      <review>
+         <snippet>This astounding new documentary burrows into the thin and darkly funny spaces between artistry and vanity, isolation and community, collaboration and exploitation, sanity and madness.</snippet>
+         <url>http://www.variety.com/review/VE1117939428.html?categoryid=31&amp;cs=1&amp;query=We+live+in+public</url>
+         <critic>Rob Nelson</critic>
+      </review>
+      <review>
+         <snippet>Would be fascinating by virtue of its subject alone. But the filmmaker wisely emphasizes how Harris also represents something bigger; this isn’t just the story of one man but also the dawning of the virtual über alles age and the death of privacy.</snippet>
+         <url>http://newyork.timeout.com/articles/film/77932/we-live-in-public-film-review</url>
+         <critic>David Fear</critic>
+      </review>
+      <review>
+         <snippet>Fascinating, like a car wreck seen through a rearview mirror.</snippet>
+         <url>http://www.boston.com/ae/movies/articles/2009/09/04/the_rise_and_fall_of_a_dot_com_darling/</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>It’s a timely and lively film that reminds us that such phenomena as reality TV, YouTube celebrity and living one’s life 24/7 on Facebook and Twitter aren’t necessarily brand new.</snippet>
+         <url>http://blog.oregonlive.com/madaboutmovies/2010/01/review_--_we_live_in_public_tm.html</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>Harris saw this brave new world more than a decade ago - and liked what he saw. To watch We Live in Public is to wonder if the world we live in is just a reflection of one man's neurosis - if Harris's mix of emotional distance and rabid self-promotion has simply gone viral.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2009/10/08/MVBF1A21LT.DTL</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>A frightening portrait of a man whose technological genius fails to compensate for his gaping emotional deficits.</snippet>
+         <url>http://www.chicagoreader.com/chicago/MovieTimes?film=1178675</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>From the ample evidence, Mr. Harris’s own life in public was a bust. Ms. Timoner sees him as a cautionary tale as well as a visionary.</snippet>
+         <url>http://movies.nytimes.com/2009/08/28/movies/28live.html?ref=movies</url>
+         <critic>Manohla Dargis</critic>
+      </review>
+      <review>
+         <snippet>We Live In Public doesn’t show that Harris was a genius so much as that he was a mentally and emotionally unstable egotist, trying to force a revolution in self-broadcasting and connectivity that later happened more naturally.</snippet>
+         <url>http://www.avclub.com/articles/we-live-in-public,32208/</url>
+         <critic>Noel Murray</critic>
+      </review>
+      <review>
+         <snippet>The title of Ondi Timoner's Sundance award-winning documentary about the loss of privacy in the Internet age says it all: "We Live in Public." Don't believe it? Just try Googling "Tiger Woods" or "Michaele Salahi."</snippet>
+         <url>http://www.washingtonpost.com/gog/movies/we-live-in-public,1157174/critic-review.html#reviewNum1</url>
+         <critic>Michael O&amp;#039;Sullivan</critic>
+      </review>
+      <review>
+         <snippet>A snapshot of several New York eras that coincide with the Internet's growing pains, We Live in Public focuses on entrepreneur, party-thrower and dot.com bubble participant Josh Harris.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2009/08/28/2009-08-28_short_movie_reviews_big_fan_still_walking_.html?page=1</url>
+         <critic>Joe Neumaier</critic>
+      </review>
+      <review>
+         <snippet>If anything, the film is a reflection of the Web zeitgeist, where observation comes easily but insight is rare. What saves the documentary from becoming a complete frustration is the sheer, stunning prescience of Harris.</snippet>
+         <url>http://www.latimes.com/entertainment/news/la-et-public25-2009sep25,0,2964239.story</url>
+         <critic>Betsy Sharkey</critic>
+      </review>
+      <review>
+         <snippet>Timoner takes Harris's erratic pulse--and diagnoses society.</snippet>
+         <url>http://www.villagevoice.com/2009-08-25/film/ondi-timoner-doc-we-live-in-public-strokes-dot-com-artist-s-ego/</url>
+         <critic>Nick Pinkerton</critic>
+      </review>
+      <review>
+         <snippet>It’s a fascinating look at a really weird guy who, whether you know it or not, made a profound impact on all of our lives (because who doesn’t spend hours a day on YouTube?).</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=11518</url>
+         <critic>Whitney Borup</critic>
+      </review>
+   </reviews>
+   <US_Gross>$41,711</US_Gross>
+   <weekend_gross>$7,325</weekend_gross>
+   <number_of_screens>1</number_of_screens>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

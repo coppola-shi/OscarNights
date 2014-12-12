@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Guess Who</name>
+   <company>Columbia Pictures / Sony Pictures Entertainment</company>
+   <genres>
+      <genre>Comedy</genre>
+      <genre>Romance</genre>
+   </genres>
+   <authors>
+      <author>David Ronn</author>
+      <author>Jay Scherick</author>
+      <author>Peter Tolan</author>
+      <author>William Rose</author>
+   </authors>
+   <directors>
+      <director>Kevin Rodney Sullivan</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Bernie Mac</actor>
+      <actor>Ashton Kutcher</actor>
+      <actor>Zoe Saldana</actor>
+      <actor>Judith Scott</actor>
+      <actor>Sherri Shepherd</actor>
+      <actor>Jessica Cauffiel</actor>
+      <actor>RonReaco Lee</actor>
+      <actor>Kellee Stewart</actor>
+   </actors>
+   <release_date>March 25, 2005</release_date>
+   <running_time>103</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>The movie's sweetness, wit and charm go beyond its can't-we-all-just-get-along premise.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-to.guess25mar25,1,7808359.story?coll=bal-artslife-movies</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>Surprise! After a clumsy opening, Guess Who goes down very smoothly. Its cast is appealing, its script is often clever and imaginative.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/217412_guess25q.html</url>
+         <critic>William Arnold</critic>
+      </review>
+      <review>
+         <snippet>If the movie had spent more time walking that tightrope between the acceptable and the offensive, between what we have in common and what divides us, it would have been more daring.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20050324/REVIEWS/50309009/1001</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>A lot of frivolous but genuine laughs.</snippet>
+         <url>http://sfgate.com/cgi-bin/article.cgi?f=/c/a/2005/03/25/DDGBIBTMME1.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>A comedy as likable as its stars.</snippet>
+         <url>http://ae.philly.com/entertainment/ui/philly/movie.html?id=274007&amp;reviewId=17631</url>
+         <critic>Carrie Rickey</critic>
+      </review>
+      <review>
+         <snippet>This is his (Kutcher) most relaxed and sensitive work on film.</snippet>
+         <url>http://ae.philly.com/entertainment/ui/philly/movie.html?id=274007&amp;reviewId=17620</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>Packs plenty of crowd-pleasing appeal.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1000854031</url>
+         <critic>Michael Rechtshaffen</critic>
+      </review>
+      <review>
+         <snippet>Has surprising depth and charm, descriptors never before ascribed to a movie starring Ashton Kutcher.</snippet>
+         <url>http://www.laweekly.com/film/film_results.php?showid=3331&amp;Sumbit.x=43&amp;Sumbit.y=9</url>
+         <critic>Chuck Wilson</critic>
+      </review>
+      <review>
+         <snippet>A palatable film. It offers a few solid laughs and will provoke some smiles.</snippet>
+         <url>http://movie-reviews.colossus.net/movies/g/guess_who.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>By film's end, you realize you've sat through an effective rip-off of "Meet the Parents."</snippet>
+         <url>http://ae.philly.com/entertainment/ui/philly/movie.html?id=274007&amp;reviewId=17621</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>The movie will please those looking for easy physical comedy.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=7275</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>Might provide a much-needed fix for Mac's most ardent fans, but they'll have to wait for a star vehicle that fully exploits the range of his comic gifts.</snippet>
+         <url>http://www.washingtonpost.com/wp-dyn/articles/A64721-2005Mar24.html</url>
+         <critic>Ann Hornaday</critic>
+      </review>
+      <review>
+         <snippet>If Guess Who were either a whole lot funnier, or a whole lot less funny, it would be a far better film.</snippet>
+         <url>http://www.washingtonpost.com/wp-dyn/articles/A62991-2005Mar24.html</url>
+         <critic>Michael O&amp;#039;Sullivan</critic>
+      </review>
+      <review>
+         <snippet>To say it's better than it has any right to be gives the original too much credit and the remake not enough.</snippet>
+         <url>http://dallasobserver.com/issues/2005-03-24/film/film.html</url>
+         <critic>Robert Wilonsky</critic>
+      </review>
+      <review>
+         <snippet>It has its share of eye-rolling moments, but at its heart there's a decent story.</snippet>
+         <url>http://www.filmthreat.com/Reviews.asp?Id=7289</url>
+         <critic>Pete Vonder Haar</critic>
+      </review>
+      <review>
+         <snippet>Guess Who, with its PG-13 putdowns, turns into the kind of love story that Hollywood feels most comfortable with: a buddy movie, salt-and-pepper variety. All that's missing is the cop car.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1040801_1_0_,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>The verdict? Could have been worse. Yes, it's a slightly hollow endorsement, but Guess Who is probably worth your matinee/pub-theater dollar.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/1111661981255730.xml</url>
+         <critic>M. E. Russell</critic>
+      </review>
+      <review>
+         <snippet>The super-duper whiteness of Ashton Kutcher is funny. Just not funny enough.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2005/03/25/guesswho/index.html</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>Guess who sings tired old tune.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/ArticleNews/TPStory/LAC/20050325/GUESS25/TPEntertainment/Film</url>
+         <critic>Rick Groen</critic>
+      </review>
+      <review>
+         <snippet>A pleasant but tepid comedy.</snippet>
+         <url>http://spacefinder.chicagoreader.com/movies/briefs/27601_GUESS_WHO.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>Guess what? It's almost bearable.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/_/id/6824077?pageid=rs.ReviewsMovieArchive&amp;pageregion=mainRegion</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>Just doesn't have the same zing.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-050324-movies-review-ab-guesswho.story</url>
+         <critic>Allison Benedikt</critic>
+      </review>
+      <review>
+         <snippet>So mild and thin that it doesn't inspire much of a reaction at all. With one exception - a dinner table scene that is by far the most memorable in the movie - the racial humor is studiously unprovocative.</snippet>
+         <url>http://movies2.nytimes.com/2005/03/25/movies/25gues.html?</url>
+         <critic>Dana Stevens</critic>
+      </review>
+      <review>
+         <snippet>Director Kevin Rodney Sullivan milks the film's one joke for all it's worth - which isn't much - before settling into the rote rhythms of a buddy picture.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-guess25mar25,2,2695156.story</url>
+         <critic>Kevin Crust</critic>
+      </review>
+      <review>
+         <snippet>A disappointing retread of a bunch of better movies.</snippet>
+         <url>http://www.nydailynews.com/03-25-2005/front/story/293396p-250996c.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>Mildly amusing.</snippet>
+         <url>http://www.empireonline.co.uk/site/incinemas/ReviewInFull.asp?FID=11047</url>
+         <critic>Staff (Not credited)</critic>
+      </review>
+      <review>
+         <snippet>Despite the sluggish opening, Kutcher and Bernie Mac ensure that this predictably plotted comedy of preposterous misunderstandings is occasionally quite funny.</snippet>
+         <url>http://tvguide.com/movies/database/showmovie.asp?MI=45964</url>
+         <critic>Angel Cohn</critic>
+      </review>
+      <review>
+         <snippet>An implausible, wildly protracted setup that drags on forever before reaching a payoff that barely registers.</snippet>
+         <url>http://www.theavclub.com/review_pop.php?review_id=8324</url>
+         <critic>Nathan Rabin</critic>
+      </review>
+      <review>
+         <snippet>The makers of Guess Who appear to have given more thought to targeting an audience than building a believable movie.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A263471</url>
+         <critic>Marjorie Baumgarten</critic>
+      </review>
+      <review>
+         <snippet>If only as much thought went into the script for this listless comedy as its marketing calculus.</snippet>
+         <url>http://www.variety.com/review/VE1117926621?categoryid=31&amp;cs=1</url>
+         <critic>Brian Lowry</critic>
+      </review>
+      <review>
+         <snippet>The script's lack of nerve fails to challenge him (Mac) or its audience with enough dangerous humor.</snippet>
+         <url>http://www.villagevoice.com/film/0513,tracking1,62518,20.html</url>
+         <critic>Peter L&amp;#039;Official</critic>
+      </review>
+      <review>
+         <snippet>It's the audience that gets punk'd in this crass and sloppy comic recycling.</snippet>
+         <url>http://www.nypost.com/movies/41583.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>A succession of tired race jokes made worse by the bad comedic timing of the bland, under-talented Ashton Kutcher.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2005-03-24-guess-who_x.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>Sadly it's been botched. Guess Who serves up such flat dialogue and stilted situations that it's hard to sit through.</snippet>
+         <url>http://www.csmonitor.com/2005/0325/p14s02-almo.html</url>
+         <critic>David Sterritt</critic>
+      </review>
+      <review>
+         <snippet>Guess Who is, impurely and simply, a comic premise borrowed, turned around and dumbed down to the level of sketch or sub-sketch humor.</snippet>
+         <url/>
+         <critic>Joe Morgenstern</critic>
+      </review>
+   </reviews>
+   <US_Gross>$68,915,888</US_Gross>
+   <production_budget>$35,000,000</production_budget>
+   <weekend_gross>$20,671,446</weekend_gross>
+   <number_of_screens>3,147</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

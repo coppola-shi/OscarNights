@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Future of Food, The</name>
+   <company>Cinema Libre Studio</company>
+   <genres>
+      <genre>Documentary</genre>
+   </genres>
+   <authors>
+      <author>Deborah Koons</author>
+   </authors>
+   <directors>
+      <director>Deborah Koons</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors/>
+   <release_date>September 14, 2005</release_date>
+   <running_time>88</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>One of 2005's must-see documentaries.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2005/09/30/DDGHOEVICB1.DTL#flick3</url>
+         <critic>Jonathan Curiel</critic>
+      </review>
+      <review>
+         <snippet>Anyone looking for a more practical horror film than ''The Fog" should try The Future of Food.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=8401</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>Suffers from a simplistic reductionism that suggests buying from local organic farmers might help avert the possibility of a worldwide famine triggered by Monsanto's suicide gene. It is a noble and quaint solution to a situation that won't be easily swayed by consumer votes.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/249332_food23q.html</url>
+         <critic>Bill White</critic>
+      </review>
+      <review>
+         <snippet>Garcia's somber narration is a turnoff, but this plucky little diatribe gets you thinking about the larger implications facing future generations.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/moviereviews/story/346094p-295334c.html</url>
+         <critic>Jami Bernard</critic>
+      </review>
+      <review>
+         <snippet>Enlightening documentary.</snippet>
+         <url>http://www.nypost.com/movies/28059.htm</url>
+         <critic>V.A. Musetto</critic>
+      </review>
+      <review>
+         <snippet>Garcia's far-more-info-than-tainment style seems a little staid, but Future Of Food's clear, intelligent journalism and rich cinematography help take the edges off the immense brick of data Garcia lobs through the window of America's biotech industry.</snippet>
+         <url>http://avclub.com/content/node/40641</url>
+         <critic>Tasha Robinson</critic>
+      </review>
+      <review>
+         <snippet>As Future untangles the many ways in which our food supply has been co-opted and tainted in pursuit of a booming bottom line, you realize that beneath its tasteful façade, Garcia's documentary is actually nothing short of a pure horror film.</snippet>
+         <url>http://www.laweekly.com/film/film_results.php?showid=3547&amp;Sumbit.x=47&amp;Sumbit.y=6</url>
+         <critic>Ernest Hardy</critic>
+      </review>
+      <review>
+         <snippet>I tend to approach green documentaries with all the enthusiasm of an unemployed logger, but this hard-charging digital video about genetically modified organisms kept me on the edge of my seat with its lucid exposition and frontal assault on Monsanto.</snippet>
+         <url>http://spacefinder.chicagoreader.com/movies/critic.html#28684</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>The result is a powerful, if one-sided, attack on the GM food industry. The film should appeal to audiences with an interest in healthy living.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1001181873</url>
+         <critic>Richard James Havis</critic>
+      </review>
+      <review>
+         <snippet>Detailed and intensely researched documentary.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-capsules16sep16,0,7597776.story</url>
+         <critic>Kevin Crust</critic>
+      </review>
+      <review>
+         <snippet>Despite its shortcomings, it's an effective clarion call that will no doubt stir audiences to action, even if it doesn't quite prepare them for the important battle ahead.</snippet>
+         <url>http://online.tvguide.com/movies/database/ShowMovie.asp?MI=46436</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>Quietly inflammatory film.</snippet>
+         <url>http://movies2.nytimes.com/2005/09/14/movies/14food.html</url>
+         <critic>Stephen Holden</critic>
+      </review>
+      <review>
+         <snippet>Wisely eschews standard anti-corporate bombast for measured tones.</snippet>
+         <url>http://www.villagevoice.com/film/0537,tracking4,67749,20.html</url>
+         <critic>James Crawford</critic>
+      </review>
+      <review>
+         <snippet>Genetically-modified (or GM) fruits and vegetables are a topic of raging debate in scientific and ecological circles, so it's a shame writer-director Deborah Koons Garcia opts to show only one side of the argument.</snippet>
+         <url>http://www.variety.com/review/VE1117925823?categoryid=31&amp;cs=1</url>
+         <critic>Robert Koehler</critic>
+      </review>
+   </reviews>
+   <US_Gross>$81,280</US_Gross>
+   <weekend_gross>$12,371</weekend_gross>
+   <number_of_screens>1</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

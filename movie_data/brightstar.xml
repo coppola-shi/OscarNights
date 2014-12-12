@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Bright Star</name>
+   <company>Apparition</company>
+   <genres>
+      <genre>Drama</genre>
+      <genre>Romance</genre>
+   </genres>
+   <authors>
+      <author>Jane Campion</author>
+   </authors>
+   <directors>
+      <director>Jane Campion</director>
+   </directors>
+   <origins>
+      <origin>UK</origin>
+      <origin>Australia</origin>
+      <origin>France</origin>
+   </origins>
+   <actors>
+      <actor>Ben Whishaw</actor>
+      <actor>Abbie Cornish</actor>
+      <actor>Paul Schneider</actor>
+      <actor>Kerry Fox</actor>
+   </actors>
+   <release_date>September 16, 2009</release_date>
+   <running_time>119</running_time>
+   <rating>PG</rating>
+   <reviews>
+      <review>
+         <snippet>Masterfully put-together, made with confidence, intelligence and command.</snippet>
+         <url>http://www.latimes.com/entertainment/news/la-et-brightstar18-2009sep18,0,2392822.story</url>
+         <critic>Kenneth Turan</critic>
+      </review>
+      <review>
+         <snippet>A fine-boned, luminous tribute to Keats and the sufferings of love.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2009/09/17/MVD519O2KV.DTL&amp;type=movies</url>
+         <critic>Amy Biancolli</critic>
+      </review>
+      <review>
+         <snippet>Intimate as a whisper, immediate as a blush, and universal as first love, the PG-rated film positively palpitates with the sensual and spiritual.</snippet>
+         <url>http://www.philly.com/inquirer/columnists/carrie_rickey/20090925_In__quot_Bright_Star_quot___the_poetry_of_love.html</url>
+         <critic>Carrie Rickey</critic>
+      </review>
+      <review>
+         <snippet>The rare film about the life of an artist that is itself a work of art.</snippet>
+         <url>http://www.slate.com/id/2229522/</url>
+         <critic>Dana Stevens</critic>
+      </review>
+      <review>
+         <snippet>Campion's big-sisterly encouragement of Cornish's lovely, openhearted performance -- and Whishaw's well-matched response -- results in a character instantly, intimately recognizable to anyone remembering her own first love.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20304811,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>What makes the movie extraordinary, however, is not so much the portrait of a poet as the accuracy and the detail of the period re-creation.</snippet>
+         <url>http://www.newyorker.com/arts/critics/cinema/2009/09/21/090921crci_cinema_denby</url>
+         <critic>David Denby</critic>
+      </review>
+      <review>
+         <snippet>Ms. Campion, with her restless camera movements and off-center close-ups, films history in the present tense, and her wild vitality makes this movie romantic in every possible sense of the word.</snippet>
+         <url>http://movies.nytimes.com/2009/09/16/movies/16bright.html?ref=movies</url>
+         <critic>A.O. Scott</critic>
+      </review>
+      <review>
+         <snippet>The film works on its own as an unfussy, passionate and gently erotic love story that never tips into sentimentality.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2009/09/18/bright_star/index.html</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>Bright Star may not be a joy forever but it will do until the next joy comes along.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film-reviews/film-review-bright-star-1003973520.story</url>
+         <critic>Ray Bennett</critic>
+      </review>
+      <review>
+         <snippet>Breaking through any period-piece mustiness with piercing insight into the emotions and behavior of her characters, the writer-director examines the final years in the short life of 19th-century romantic poet John Keats through the eyes of his beloved, Fanny Brawne, played by Abbie Cornish in an outstanding performance.</snippet>
+         <url>http://www.variety.com/review/VE1117940260.html?u=IMDB&amp;p=H2BE&amp;cs=1</url>
+         <critic>Todd McCarthy</critic>
+      </review>
+      <review>
+         <snippet>Jane Campion has performed her own feat of romantic imagination.</snippet>
+         <url>http://online.wsj.com/article/film_review.html</url>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>Its great distinction lies in re-creating an age when thoughts and feelings were to be carefully considered and precisely enunciated. The best costumers, set designers, and property masters can’t conjure up the mental and emotional spaces of a simpler era; that requires a filmmaker who knows the virtue of quiet, patience, and attentiveness.</snippet>
+         <url>http://www.chicagoreader.com/chicago/MovieTimes?film=1169319</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>Campion’s story of a tubercular poet and his lady love recasts the hackneyed old stanza in refreshing new verse.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A876301</url>
+         <critic>Marjorie Baumgarten</critic>
+      </review>
+      <review>
+         <snippet>Bright Star delivers a prismatic depiction - tart, funny and piercing - of the romance between poet John Keats and Fanny Brawne in the three years before he died, in 1821, at age 25.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-ae.mo.bright25sep25,0,3599031.story</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>Bright Star is a thing of beauty and a joy for a movie season that needs it.</snippet>
+         <url>http://www.boston.com/ae/movies/articles/2009/09/25/bright_star_shines_with_romance_eroticism/</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>What Campion does is seek visual beauty to match Keats' verbal beauty. There is a shot here of Fanny in a meadow of blue flowers that is so enthralling it beggars description.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20090923/REVIEWS/909239998</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>For a movie so sensuously mounted, it's remarkably grounded.</snippet>
+         <url>http://www.csmonitor.com/2009/0925/p16s05-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>It’s a studied movie that gives itself over to bursts of intensity, and between them sometimes threatens to become as spellbound by its subjects as they become with each other.</snippet>
+         <url>http://www.avclub.com/articles/bright-star,32959/</url>
+         <critic>Keith Phipps</critic>
+      </review>
+      <review>
+         <snippet>Young Edie Martin, with her chaotic swarm of red ringlets and deadpan dutifulness (she has few lines, but they’re goodies), is the movie’s sign of eternal spring--the butterfly atop the just-opened blossom.</snippet>
+         <url>http://nymag.com/movies/reviews/59007/</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>That rare, genuinely transporting movie that creates an alternate universe, invites the audience in and lets them sink ever deeper into its particular, sublime reverie.</snippet>
+         <url>http://www.washingtonpost.com/gog/movies/bright-star,1158187/critic-review.html#reviewNum1</url>
+         <critic>Ann Hornaday</critic>
+      </review>
+      <review>
+         <snippet>Campion has created another resonant paean to love’s pain and joy, and gives new life to John Keats, too often now associated with dusty school books.</snippet>
+         <url>http://www.empireonline.com/reviews/reviewcomplete.asp?FID=136609</url>
+         <critic>Liz Beardsworth</critic>
+      </review>
+      <review>
+         <snippet>What animates this dramatically constrained film are the lively words and the vitality of nature. An image of butterflies blooming in a bedroom is Keats' worldview in miniature.</snippet>
+         <url>http://www.stltoday.com/stltoday/entertainment/reviews.nsf/movie/story/53D9909D9B89116B8625763A007A0E7D?OpenDocument</url>
+         <critic>Joe Williams</critic>
+      </review>
+      <review>
+         <snippet>There are nice bits throughout, and your heart can’t help but go out to these impassioned young lovers whom you know are doomed.  But Bright Star is too often tarnished by the ordinary.</snippet>
+         <url>http://blog.oregonlive.com/madaboutmovies/2009/09/review_--_bright_star_shines_on_keats_brief_love_and_life.html</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>What the film does best is remind us of the brilliance of Keats flame and how it was extinguished far too early.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2009-09-17-bright-star_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>Mainly, though, it's the exquisite restraint - both of Cornish's performance and Campion's direction - that gives the film its power.</snippet>
+         <url>http://www.theglobeandmail.com/news/arts/tiff-2009/tiff-movie-reviews/article1283281/</url>
+         <critic>Rick Groen</critic>
+      </review>
+      <review>
+         <snippet>Bright Star is a nice ode to the poet, the love of his life, and the period in which he lived.</snippet>
+         <url>http://www.reelviews.net/php_review_template.php?identifier=1797</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>Catnip for the art-house crowd.</snippet>
+         <url>http://www.nypost.com/p/entertainment/movie/reviews/touched_by_the_poet_KoMGswiLWeN3yTuVeCP2QJ</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>Bright Star is the New Zealand writer-director's raw, sensual attempt to render Keats as experienced by a young girl who couldn't understand the genius of his verse.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/27810091/review/30165983/bright_star</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>It's more conventionally romantic than wildly Romantic--but no less touching for that.</snippet>
+         <url>http://www.villagevoice.com/2009-09-15/film/bright-star-an-ode-to-john-keats-s-great-love/</url>
+         <critic>J. Hoberman</critic>
+      </review>
+      <review>
+         <snippet>In its way Campion’s film is a thing of beauty, but its characters’ inner lives must be taken on faith.</snippet>
+         <url>http://featuresblogs.chicagotribune.com/talking_pictures/</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>Masterpieces of literature-to-film are a rare breed; this film falls short with satisfaction.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=11920</url>
+         <critic>Matthew Sorrento</critic>
+      </review>
+      <review>
+         <snippet>There's nothing exceptional about Jane Campion's historical biography, but it's a sufficiently lovely tale to suit romantics with a taste for intimate period dramas.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2009/09/18/2009-09-18_short_movie_reviews_bright_star_the_burning_plain_paris_and_more.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>A well-acted, well-crafted but excruciatingly tepid romantic film about a subject that will attract poetry lovers and yet test even their considerable patience.</snippet>
+         <url>http://www.miamiherald.com/entertainment/movies/reviews/story/1249049.html</url>
+         <critic>Connie Ogle</critic>
+      </review>
+      <review>
+         <snippet>Writer-director Jane Campion approaches the tale with an artiste’s respectful solemnity, but it too often comes off like "Twilight" transplanted across oceans and centuries.</snippet>
+         <url>http://newyork.timeout.com/articles/film/78616/bright-star-film-review</url>
+         <critic>Keith Uhlich</critic>
+      </review>
+   </reviews>
+   <US_Gross>$4,440,055</US_Gross>
+   <production_budget>$8,500,000</production_budget>
+   <weekend_gross>$206,649</weekend_gross>
+   <number_of_screens>19</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

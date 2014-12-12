@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Rent</name>
+   <company>Columbia Pictures / Sony Pictures Entertainment</company>
+   <genres>
+      <genre>Drama</genre>
+      <genre>Musical</genre>
+      <genre>Romance</genre>
+   </genres>
+   <authors>
+      <author>Steve Chbosky</author>
+      <author>Jonathan Larson</author>
+   </authors>
+   <directors>
+      <director>Chris Columbus</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Rosario Dawson</actor>
+      <actor>Taye Diggs</actor>
+      <actor>Wilson Jermaine Heredia</actor>
+      <actor>Jesse L. Martin</actor>
+      <actor>Idina Menzel</actor>
+      <actor>Adam Pascal</actor>
+      <actor>Anthony Rapp</actor>
+      <actor>Tracie Thoms</actor>
+   </actors>
+   <release_date>November 23, 2005</release_date>
+   <running_time>135</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>One of the best film musicals in years -- exuberant, sexy and life affirming in equal measure.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1001525054</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>Columbus is a member of the '80s generation and he gives the play authenticity, the respect of a classic, an epic visual scope and a sensibility that's blissfully free of any generational self-pity. It seems to be the movie he was born to make, and he serves it well.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/249326_rent23q.html</url>
+         <critic>William Arnold</critic>
+      </review>
+      <review>
+         <snippet>The movie is literally a series of showstoppers, unified by the impulse to turn life, at its scruffiest, into theater - into a rhapsody of the everyday.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1133604_1_0_,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>But aside from a few overblown production numbers, Columbus respects the show's smaller scale, and the property itself is a knockout, with great tunes and engaging portraits of East Village bohemians in the AIDS-ravaged late 80s.</snippet>
+         <url>http://spacefinder.chicagoreader.com/movies/critic.html#29023</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>Columbus' schizoid approach works more often than not.</snippet>
+         <url>http://sfgate.com/cgi-bin/article.cgi?f=/c/a/2005/11/23/DDGSKFS3VI1.DTL&amp;type=movies</url>
+         <critic>Ruthe Stein</critic>
+      </review>
+      <review>
+         <snippet>Rent isn't nearly as transporting a film as the Oscar-winning adaptation of "Chicago," but its energies and passions compensate for a lot of its deficiencies.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/living/1132703707275440.xml&amp;coll=7</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>If you fell in love with the big-hearted sentimentality of Rent when you saw it onstage, the film version will remind you why. If you think Jonathan Larson's musical is ponderous agitprop, the movie won't change your view.</snippet>
+         <url>http://ae.charlotte.com/entertainment/ui/charlotte/movie.html?id=479193&amp;reviewId=19573&amp;startDate=NEXT7</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>Now a vastly larger audience has the chance to experience the masterwork of a prodigiously talented man who died far too young.</snippet>
+         <url>http://ae.miami.com/entertainment/ui/miami/movie.html?id=479193&amp;reviewId=19593</url>
+         <critic>Christine Dolen</critic>
+      </review>
+      <review>
+         <snippet>It's a pretty good version of a pretty great stage phenomenon.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-0501122-movies-review-rent,0,7838061.story?coll=mmx-movies_top_heds</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>Often dramatically jumbled and musically muddled - but every time the film seemed ready to tip into awfulness, the sneer on my lips was trumped by the lump in my throat.</snippet>
+         <url>http://movies2.nytimes.com/2005/11/23/movies/23rent.html</url>
+         <critic>Dana Stevens</critic>
+      </review>
+      <review>
+         <snippet>Now that it is at last on screen, my reaction is ... what's all the fuss?</snippet>
+         <url>http://www.csmonitor.com/2005/1125/p14s02-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>Rent, for all its good intentions and sensitivity, is easy to forget but easy to forgive. The music and direction feel generic but the cast deserves credit for squeezing every possible drop of emotion out of the material.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/ArticleNews/TPStory/LAC/20051123/RENT23/TPEntertainment/Film</url>
+         <critic>Liam Lacey</critic>
+      </review>
+      <review>
+         <snippet>As a conventional drama, Rent would be a pretty corny soap opera. As filmed theater, it's only slightly more con­vincing. The saving graces - and there are many - are Larson's original songs and the comfortable fit of its ensemble cast.</snippet>
+         <url>http://www.nydailynews.com/11-23-2005/entertainment/movies/story/368318p-313376c.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>While most of the show's scenes work well cinematically, some are laughably miscalculated. Rock-video aesthetics and overamplification swamp "Glory" and "What You Own" while also robbing other sequences of their depth.</snippet>
+         <url>http://online.tvguide.com/movies/database/ShowMovie.asp?MI=46512</url>
+         <critic>Angel Cohn</critic>
+      </review>
+      <review>
+         <snippet>Chris Columbus' relatively faithful and intermittently affecting adaptation boasts the boisterous vitality of its performers, particularly Jesse L. Martin and Wilson Jermaine Heredia as lovers Tom and Angel.</snippet>
+         <url>http://ae.philly.com/entertainment/ui/philly/movie.html?id=479193&amp;reviewId=19575</url>
+         <critic>Carrie Rickey</critic>
+      </review>
+      <review>
+         <snippet>On film, Rent is the sound of one hand clapping.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20051122/REVIEWS/51116001/1001</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>Considering how much new additions Rosario Dawson (as Mimi) and Tracie Thoms (as Joanne) bring to the film, it's a shame Columbus didn't introduce more changes.</snippet>
+         <url>http://www.premiere.com/article.asp?section_id=2&amp;article_id=2421</url>
+         <critic>Peter Debruge</critic>
+      </review>
+      <review>
+         <snippet>Director Chris Columbus has pasted the grungy "La Boheme" update onto film with slavish respect for the original material but a shortage of stylistic imagination and raw emotions.</snippet>
+         <url>http://www.variety.com/review/VE1117928911?categoryid=31&amp;cs=1</url>
+         <critic>David Rooney</critic>
+      </review>
+      <review>
+         <snippet>Instead of bringing a universal love story to the living present, the film traps it in a frozen past like a prehistoric bug in amber, as removed from moviegoers' experience as a dusty diorama at the American Museum of Natural History.</snippet>
+         <url>http://www.villagevoice.com/film/0547,morales,70253,20.html</url>
+         <critic>Jorge Morales</critic>
+      </review>
+      <review>
+         <snippet>Yes, Rent is the movie about AIDS, heroin addiction, homosexuality, strippers, marijuana, cross-dressing, and bisexuality audiences can take their grandparents to go see safe in the knowledge that any lingering trace of danger or authenticity has been carefully removed by director/co-writer Chris Columbus.</snippet>
+         <url>http://avclub.com/content/node/42845</url>
+         <critic>Nathan Rabin</critic>
+      </review>
+      <review>
+         <snippet>With heavy HIV subtext and a couple of actors who have scored in other films, this La Bohème spinoff about fatal illness, drug addiction and eviction ought to be less of a slog than it is.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2005-11-22-rent_x.htm</url>
+         <critic>Mike Clark</critic>
+      </review>
+      <review>
+         <snippet>Onstage, Rent is a series of power surges, but in the movie the songs leave you flat.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1107103&amp;lat=200.0&amp;lon=200.0&amp;displaySearchLocation=&amp;nm=1&amp;categories=Movies</url>
+         <critic>Nelson Pressley</critic>
+      </review>
+      <review>
+         <snippet>The screen version's Drama Club dorkiness is going to ruin the Rent brand of alleged downtown cool for everyone. If anything can re-shevel the disheveled multitudes of Alphabet City and chase the hipsters into pleated khakis and sweater sets, it's this film.</snippet>
+         <url>http://www.nypost.com/movies/31733.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>It's pedestrian.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=7374</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>I wasn't sure a movie musical could be worse than last year's styrofoam-and-gilt swan-boat travesty "Phantom of the Opera," but I'm afraid Rent proves me wrong.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2005/11/23/rent/index.html?sid=1415804</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>Mediocre and recommended only to those who can claim a familiarity with the play.</snippet>
+         <url>http://movie-reviews.colossus.net/movies/r/rent.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>Despite the grating, workmanlike direction of Chris Columbus (he's no Robert Wise, and Rent is nobody's idea of "West Side Story"), this boisterous adaptation is both a vivacious, wiseacre musical and an inarguable morality lesson: Love is all you need. Oh, and rent, of course.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A312721</url>
+         <critic>Marc Savlov</critic>
+      </review>
+      <review>
+         <snippet>If the great movie musicals are the ones that transport us to some heady superreality, the only place Rent takes us to is the Nederlander Theatre.</snippet>
+         <url>http://www.laweekly.com/ink/06/01/film-foundas.php</url>
+         <critic>Scott Foundas</critic>
+      </review>
+      <review>
+         <snippet>In the movie, the unconverted will hold their ears as the banal tunes blare out in multichannel sound. And they'll wince as the camera closes in on every heart-tugging moment.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-to.rent23nov23,1,5572073.story?coll=bal-artslife-movies</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>I found it tiresomely undramatic, even saccharine. Not to mention monotonous.</snippet>
+         <url>http://www.slate.com/id/2131264/?nav=fo</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>Cards on the table: rock operas pretty much suck except for "Tommy."</snippet>
+         <url>http://www.empireonline.com/incinemas/reviewcomplete.asp?FID=10092</url>
+         <critic>Angie Errigo</critic>
+      </review>
+      <review>
+         <snippet>Heart-breakingly awful -- slow, lugubrious, and misconceived to the point of baffling amateurism.</snippet>
+         <url/>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>Rent is commodified faux bohemia on a platter, eliciting the same kind of numbing soul-sadness as children's beauty pageants, tiny dogs in expensive boots, Mahatma Gandhi in Apple ads.</snippet>
+         <url>http://www.calendarlive.com/movies/chocano/cl-et-rent23nov23,0,2207545.story</url>
+         <critic>Carina Chocano</critic>
+      </review>
+      <review>
+         <snippet>Rent plays as a very long joke with no punch line, an exercise in mawkish sentimentality that's embarrassing to watch. Kudos to the actors for truly committing to their roles, but with this material, it might have been better if they hadn't.</snippet>
+         <url>http://dallasobserver.com/Issues/2005-11-24/film/film4.html</url>
+         <critic>Melissa Levine</critic>
+      </review>
+      <review>
+         <snippet>To paraphrase the play's most famous song: how do you measure the lien against your soul when you're forced to sit through something as forcibly maudlin as Rent? I dunno, but 525,600 minutes is about how long this movie felt at times.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=8191</url>
+         <critic>Pete Vonder Haar</critic>
+      </review>
+   </reviews>
+   <US_Gross>$29,077,547</US_Gross>
+   <production_budget>$40,000,000</production_budget>
+   <weekend_gross>$17,138,943</weekend_gross>
+   <number_of_screens>2,433</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

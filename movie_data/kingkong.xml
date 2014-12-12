@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>King Kong</name>
+   <company>Universal Pictures</company>
+   <genres>
+      <genre>Action</genre>
+      <genre>Adventure</genre>
+      <genre>Drama</genre>
+      <genre>Fantasy</genre>
+      <genre>Scifi</genre>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>Peter Jackson</author>
+      <author>Fran Walsh</author>
+      <author>Philippa Boyens</author>
+      <author>Merian C. Cooper and Edgar Wallace</author>
+   </authors>
+   <directors>
+      <director>Peter Jackson</director>
+   </directors>
+   <origins>
+      <origin>NewZealandUSA</origin>
+   </origins>
+   <actors>
+      <actor>Naomi Watts</actor>
+      <actor>Jack Black</actor>
+      <actor>Adrien Brody</actor>
+      <actor>Andy Serkis</actor>
+      <actor>Jamie Bell</actor>
+      <actor>Kyle Chler</actor>
+      <actor>Lobo Chan</actor>
+      <actor>Thomas Kretschmann</actor>
+   </actors>
+   <release_date>December 14, 2005</release_date>
+   <running_time>187</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>What a movie!  This is how the medium seduced us originally.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/moviereviews/story/373984p-317927c.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>One of the wonders of the holiday season.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1138528_1_0_,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>Here is the jaw-dropping, eye-popping, heart-stopping movie epic we've been waiting for all year.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/_/id/6137426/rid/8936747/</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>Break out the popcorn and prepare to be blown away. King Kong is the most pulse- pounding and heart-stirring romantic adventure since "Titanic."</snippet>
+         <url>http://www.nypost.com/movies/58666.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>Unlike its newly trim director, Kong does boast some flab around the middle but by the final reel there’s little doubt that what could have been Jackson’s folly is a triumph, the kind of romantic action spectacle that makes the big screen silver and provides box-office gold. Puts the prime in primate.</snippet>
+         <url>http://www.empireonline.co.uk/incinemas/ReviewComplete.asp?FID=9781</url>
+         <critic>Dan Jolin</critic>
+      </review>
+      <review>
+         <snippet>The rapport between Ms. Watts and Mr. Serkis is extraordinary, even though it is mediated by fur, latex, optical illusions and complicated effects. Mr. Serkis, who also played Gollum in the "Lord of the Rings" movies, is redefining screen acting for the digital age, while Ms. Watts incarnates the glamour and emotional directness of classical Hollywood.</snippet>
+         <url>http://movies2.nytimes.com/2005/12/13/movies/13kong.html?adxnnl=1&amp;adxnnlx=1134436241-lI7nedGR/xXH3uDZiupXfQ</url>
+         <critic>Dana Stevens</critic>
+      </review>
+      <review>
+         <snippet>A magnificent entertainment. It is like the flowering of all the possibilities in the original classic film.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20051212/REVIEWS/51203002/1001</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>But overall, Jackson goes for the magic by sidestepping every error of judgment and failure of imagination that brought the ponderous 1976 remake thudding to Earth before Kong ever did. He delivers three solid hours of breathless, enchanting entertainment.</snippet>
+         <url>http://online.tvguide.com/movies/database/ShowMovie.asp?MI=46060</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>Not only does it recapture -- and enhance -- the subtle emotional core that has made the film so beloved for the past three-quarters of a century, it delivers the most eye-boggling, hair-raising movie thrill ride since 1993's "Jurassic Park."</snippet>
+         <url>http://seattlepi.nwsource.com/movies/251869_kong14q.html</url>
+         <critic>William Arnold</critic>
+      </review>
+      <review>
+         <snippet>Jackson's big monkey picture show is certainly the best popular entertainment of the year. The film is a wondrous blend of then and now: It honors its mythic predecessor of 1933 while using sophisticated movie technology to seamlessly manipulate the fantastic.</snippet>
+         <url>http://www.washingtonpost.com/wp-dyn/content/article/2005/12/13/AR2005121302031.html</url>
+         <critic>Stephen Hunter</critic>
+      </review>
+      <review>
+         <snippet>A surprisingly tender, even heartbreaking, film. Like the original, it's a tragic tale of beauty and the beast.</snippet>
+         <url>http://www.msnbc.msn.com/id/10216525/site/newsweek/</url>
+         <critic>Devin Gordon</critic>
+      </review>
+      <review>
+         <snippet>Here is a movie that celebrates the heyday of adventure cinema even as it embraces technology's bleeding edge. And I'm willing to forgive a lot when giant gorillas and tyrannosaurs are involved. Must be the art snob in me.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=8272</url>
+         <critic>Pete Vonder Haar</critic>
+      </review>
+      <review>
+         <snippet>After a start heavy on exposition, the film strings one action setpiece after another, each realized with the breathless excitement of an adventure pulp cover. It's as if Jackson set out to bring to life every fantasy of the last moment before earth gave way to space as the site of the final frontier.</snippet>
+         <url>http://avclub.com/content/node/43520</url>
+         <critic>Keith Phipps</critic>
+      </review>
+      <review>
+         <snippet>King Kong is an homage not just to the original but to the history of movies themselves.</snippet>
+         <url>http://www.calendarlive.com/movies/chocano/cl-et-kong12dec12,0,2216694.story</url>
+         <critic>Carina Chocano</critic>
+      </review>
+      <review>
+         <snippet>A spectacular three-hankie tragic love story--sometimes dumb and often clunky and always pretty cornball, but just about irresistible.</snippet>
+         <url>http://www.slate.com/id/2132093/?nav=fo</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>Almost too much of a good thing, Peter Jackson's remake of the film that made him want to make movies is a super-sized version of a yarn that was big to begin with, a stupendous adventure that maximizes, and sometimes oversells, its dazzling wares.</snippet>
+         <url>http://www.variety.com/ac2006_review/VE1117929068?nav=reviews&amp;categoryid=1986&amp;cs=1</url>
+         <critic>Todd McCarthy</critic>
+      </review>
+      <review>
+         <snippet>The gorilla is great, the girl terrific, sets are out of this world, creatures icky as hell, and the director clearly does not believe in the word "enough."</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1001615413</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>A sweet-natured romantic fable, albeit one that packs in carnivorous cockroaches, rampaging brontosaurs, and the ever-Freudian Empire State Building among its requisite emotional baggage. And, too, it's a corker of an action/monster movie.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A317213</url>
+         <critic>Marc Savlov</critic>
+      </review>
+      <review>
+         <snippet>The best of the trio of human performers is Naomi Watts. She also has the most difficult job - not only is the role physical, but it requires her to play off something that isn't there.</snippet>
+         <url>http://movie-reviews.colossus.net/movies/k/kong2005.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>The new Kong is just different enough to be terrific screen company. His relationship with his leading lady, played with heart and panache by Naomi Watts, doesn't feel like an old story retold. It feels like a brand new story.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-0501213-movies-review-kong,0,493419.story?coll=mmx-movies_top_heds</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>Jackson is a visionary filmmaker who is not only a technical wizard but also a master storyteller. With Jackson at the helm, you would expect dazzling special effects and epic action sequences, but what is most surprising is how heartfelt the romance feels.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2005-12-12-kong-review_x.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>The $200 million result is an irresistibly entertaining, if grandiose, saga of doomed love and directorial hubris.</snippet>
+         <url>http://ae.philly.com/entertainment/ui/philly/movie.html?id=169557&amp;reviewId=19711</url>
+         <critic>Carrie Rickey</critic>
+      </review>
+      <review>
+         <snippet>Kong is brilliant in many, many places. But it overwhelms its own best qualities with its sheer, punishing size. It is, literally, too much of a good thing.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/living/113451633389430.xml&amp;coll=7</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>The scenes between Kong and Ann are much more than a goof: They're the soul of the movie.</snippet>
+         <url>http://www.csmonitor.com/2005/1214/p17s01-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>When it comes to what's great about King Kong, it's not the harum-scarum. It's the girl.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-to.kong14dec14,1,6498730.story?coll=bal-artslife-movies</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>Jackson is far more interested in the relationship between the girl and the ape than he is in the power of special effects for their own sake. As big as King Kong is, its sense of intimacy is what really sticks with you. This is an epic Big Little Book of a picture.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2005/12/14/kong/index.html</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>It clocks in at over three hours, but Peter Jackson's remake of the 1933 classic is gripping. The film rethinks the characters, turning the original's stark Jungian fantasy into a soulless but skillful set of kinetic and emotional effects.</snippet>
+         <url>http://spacefinder.chicagoreader.com/movies/briefs/29099_KING_KONG_JACKSON.html</url>
+         <critic>Jonathan Rosenbaum</critic>
+      </review>
+      <review>
+         <snippet>King Kong makes clear that Jackson has no contemporary peer when it comes to outsized, transporting fantasies that enchant in an era when special effects have become white noise.</snippet>
+         <url>http://www.miami.com/mld/miamiherald/entertainment/movies/13399650.htm</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>It's not so much a remake as it is a loving re-creation of the 1933 original on extra-strength steroids, with a side order of Botox. You've seen it all before but most assuredly never like this.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=2657</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>I say this as someone for whom the very idea of a Kong remake is sacrilege, Jackson's straitened conception yields up a pretty damn good popcorn movie.</snippet>
+         <url>http://www.premiere.com/article.asp?section_id=2&amp;article_id=2118</url>
+         <critic>Glenn Kenny</critic>
+      </review>
+      <review>
+         <snippet>Like Kong himself, it's imposing, sometimes endearing, and very rough around the edges.</snippet>
+         <url/>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>The verdict? King Kong may be a great movie event in a "Jaws/Titanic" sense of blockbuster impact and cultural talking point, but it is not a great movie.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/ArticleNews/TPStory/LAC/20051214/KONG14/TPEntertainment/Film</url>
+         <critic>Liam Lacey</critic>
+      </review>
+      <review>
+         <snippet>King Kong isn't terrible, but it's something that none of Jackson's previous movies ever was -- it's enervating.</snippet>
+         <url>http://www.laweekly.com/ink/06/04/kong-foundas.php</url>
+         <critic>Scott Foundas</critic>
+      </review>
+      <review>
+         <snippet>This Kong is high-powered entertainment, but Jackson pushes too hard and loses momentum over the more than three hours of the movie. The story was always a goofy fable--that was its charm--and a well-told fable knows when to stop.</snippet>
+         <url>http://www.newyorker.com/critics/cinema/?051219crci_cinema</url>
+         <critic>David Denby</critic>
+      </review>
+      <review>
+         <snippet>For King Kong is an accountant's movie at heart. Given the excessive length and bombastic F/X, there's too much action and precious little poetry.</snippet>
+         <url>http://www.villagevoice.com/film/0550,hoberman,70939,20.html</url>
+         <critic>J. Hoberman</critic>
+      </review>
+      <review>
+         <snippet>Our response to the ape's doom, once touched by authentic tragedy, is now marked by relief that this wretchedly excessive movie is finally over.</snippet>
+         <url>http://www.time.com/time/magazine/article/0,9171,1139824,00.html</url>
+         <critic>Richard Schickel</critic>
+      </review>
+      <review>
+         <snippet>Jackson is merely indulging himself here, too, doing a thing not because he should but because he can. And maybe that's a good reason but not good enough. The girl still cries, the ape still dies and all you're left with is a ringing in your ears.</snippet>
+         <url>http://dallasobserver.com/Issues/2005-12-15/film/film.html</url>
+         <critic>Robert Wilonsky</critic>
+      </review>
+      <review>
+         <snippet>King Kong, a labor of love that's visually stunning and moving in its best moments, is also bloated, shallow, clunky, full of illogical scenes and at least an hour too long.</snippet>
+         <url>http://ae.charlotte.com/entertainment/ui/charlotte/movie.html?id=169557&amp;reviewId=19714&amp;startDate=12%2F14%2F2005</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>On its own terms, the film is overlong, repetitive and lacks impact. Even if this were the first gorilla-in-love movie ever made, audiences would come away vaguely dissatisfied, suspecting there was an intriguing idea buried somewhere in here, but it didn't quite come off.</snippet>
+         <url>http://sfgate.com/cgi-bin/article.cgi?f=/c/a/2005/12/14/DDGR7G6V9V1.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+   </reviews>
+   <US_Gross>$218,080,025</US_Gross>
+   <production_budget>$207,000,000</production_budget>
+   <weekend_gross>$66,181,645</weekend_gross>
+   <number_of_screens>3,568</number_of_screens>
+   <oscar_winning_actors_present/>
+   <num_oscar_winning_actors>1</num_oscar_winning_actors>
+   <oscar_winning_actor>adrien brody</oscar_winning_actor>
+   <oscar_winning_directors_present/>
+   <num_oscar_winning_directors>1</num_oscar_winning_directors>
+   <oscar_winning_director>peter jackson</oscar_winning_director>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

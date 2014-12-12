@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Wendy and Lucy</name>
+   <company>Oscilloscope Pictures</company>
+   <genres>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author>Jon Raymond</author>
+      <author>Kelly Reichardt</author>
+   </authors>
+   <directors>
+      <director>Kelly Reichardt</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Michelle Williams</actor>
+      <actor>Will Patton</actor>
+      <actor>Larry Fessenden</actor>
+      <actor>Will Oldham</actor>
+      <actor>Walter Dalton</actor>
+      <actor>John Robinson</actor>
+   </actors>
+   <release_date>December 10, 2008</release_date>
+   <running_time>80</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>Improbably, it's one of the most affecting films of the year, which once again demonstrates that all you need to make a good movie is talent.</snippet>
+         <url>http://www.csmonitor.com/2008/1206/p25s01-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>Wendy and Lucy is modest, minimalist. But it nonetheless reverberates like a sonic boom.</snippet>
+         <url>http://www.philly.com/inquirer/columnists/steven_rea/20090123_A_deft_meditation_on_loneliness.html</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>It's a tender, tough, uncompromising film, photographed with a disarming directness and seeming simplicity that looks almost naked next to the dramatic constructions of most films. It just makes her precariousness all the more real.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/397098_wendy23q.html</url>
+         <critic>Sean Axmaker</critic>
+      </review>
+      <review>
+         <snippet>This is where the movie excels. In the classic neo-realist tradition, it's scant in plot yet rich in mood and character, offering us a revealing hint here, a poignant glimpse there, with each revelation filtered through Michelle Williams's superbly muted performance, all the more moving for being so restrained.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20090205.wwendy0206/BNStory/Entertainment/home</url>
+         <critic>Rick Groen</critic>
+      </review>
+      <review>
+         <snippet>Wendy and Lucy is like "Lassie Come Home" directed by Antonioni. What's piercing about it, and also disturbing, is that Reichardt views the renunciation of society with something close to righteous purity -- as a lefty romantic dream.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20243953,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>Having the dog around raises the emotional stakes tenfold, and develops a kinship with Vittorio De Sica's Italian neo-realist classic "Umberto D.," which also revealed societal ills through a poignant dog-owner relationship</snippet>
+         <url>http://www.avclub.com/content/cinema/wendy_and_lucy</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>The film is exquisitely realized, with a tremendous, naturalistic performance by Michelle Williams at its heart and a pervasive, assuring sense that Reichardt and Raymond have distilled everything nonessential from their story and imparted exactly the impact they wished.</snippet>
+         <url>http://blog.oregonlive.com/madaboutmovies/2009/01/movie_review_the_quiet_intensi.html</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>Williams' performance is remarkable not only for its depth but for its stillness.</snippet>
+         <url>http://www.latimes.com/entertainment/news/reviews/la-et-wendy12-2008dec12,0,4445108.story</url>
+         <critic>Sam Adams</critic>
+      </review>
+      <review>
+         <snippet>What will happen to her? The strength of this short, simple, perfect story of a young woman and her dog is that this does not seem, by the end, to be an idle or trivial question. What happens to Wendy -- and to Lucy -- matters a lot, which is to say that Wendy and Lucy, for all its modesty, matters a lot too.</snippet>
+         <url>http://movies.nytimes.com/2008/12/10/movies/10wend.html?ref=movies</url>
+         <critic>A.O. Scott</critic>
+      </review>
+      <review>
+         <snippet>Trembling throughout on the verge of a tearful breakdown, but far too dignified to allow her character to choke up, Williams delivers a sensationally nuanced performance that, were it not so resolutely undramatic, would constitute an aria of stoical misery.</snippet>
+         <url>http://www.villagevoice.com/2008-12-10/film/wendy-and-lucy-and-in-the-city-of-sylvia/</url>
+         <critic>J. Hoberman</critic>
+      </review>
+      <review>
+         <snippet>Simple story, beautifully told.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/20726218/review/24991107/wendy_and_lucy</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>An evocative film with a believable and subtly enthralling lead performance that gets deeply under your skin.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2008-12-09-wendy-and-lucy_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>Another illustration of how absorbing a film can be when the plot doesn't stand between us and a character.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20090128/REVIEWS/901289985</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>Wendy Carroll is a character we rarely see in movies anymore, a woman left alone with her thoughts. That a moviegoer would care what she's thinking testifies to the power in Williams's brand of solitude.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=12554</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>Within the confines of this minimalist picture, there are sequences so vital, timely and of-the-moment, so powerful and well-observed and precise, the effect can be emotionally overwhelming.</snippet>
+         <url>http://www.miamiherald.com/entertainment/movies/reviews/story/945334.html</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>Masterful low-budget drama.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/critic.html#33691</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>In a minimalist film of muted emotions, Michelle Williams gives as lovely a performance as a moviegoer could ask for.</snippet>
+         <url>http://online.wsj.com/article/film_review.html</url>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>Reichardt is a tremendously conscientious filmmaker, and not out to torture the audience. Yes, this is a fraught and agonizing story, but the way it ends, although heartbreaking, is absolutely right.</snippet>
+         <url>http://www.salon.com/ent/movies/btm/feature/2008/12/10/wendy_and_lucy/</url>
+         <critic>Andrew O&amp;#039;Hehir</critic>
+      </review>
+      <review>
+         <snippet>"Old Joy" helmer Kelly Reichardt plays to her strengths in Wendy and Lucy, a modest yet deeply felt road movie about an idealistic young drifter, her faithful canine and the wide-open spaces of the Pacific Northwest.</snippet>
+         <url>http://www.variety.com/review/VE1117937319.html?categoryid=31&amp;cs=1&amp;query=Wendy+and+Lucy</url>
+         <critic>Scott Foundas</critic>
+      </review>
+      <review>
+         <snippet>Because Wendy and Lucy is so lean on plot and dialogue, there are long spaces to contemplate Wendy and her situation, and the logistics are mind-boggling.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A742304</url>
+         <critic>Kimberley Jones</critic>
+      </review>
+      <review>
+         <snippet>A film that might have seemed faintly academic six months ago becomes an anxious expression of its historical moment.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2009/01/29/DD0M15HBNN.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>Too often when actors portray complicated or enigmatic characters, they seem to be flirting with the audience, playing hard to get. Not Williams.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/reviews/bal-to.wendy06feb06,0,3104719.story</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>If a Warner Bros. social-protest film from the early 1930s somehow got into bed with an American indie from the 1970s, how would the love-child turn out? Like this.</snippet>
+         <url>http://www.chicagotribune.com/entertainment/movies/chi-0130-wendy-and-lucy-reviewjan30,0,3440306.story</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>Reichardt doesn't so much tell a story as paint a finely detailed portrait of human suffering in this miniature marvel.</snippet>
+         <url>http://www.nypost.com/seven/12102008/entertainment/movies/down_and_out___and_no_dog_143450.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>The transformation undergone by Michelle Williams to play this role is nothing short of astounding.</snippet>
+         <url>http://www.reelviews.net/php_review_template.php?identifier=1409</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>Reichardt is such a canny filmmaker that one could almost believe that she intentionally leaves Wendy underwritten and a bit of a cipher, because Wendy is far more effective as a bold-faced symbol of the downtrodden than as a fully realized human character.</snippet>
+         <url>http://movies.tvguide.com/wendy-lucy/review/296120</url>
+         <critic>Josh Ralske</critic>
+      </review>
+      <review>
+         <snippet>She's infuriating, but the movie, for all its morose impassivity, is beautiful and haunting.</snippet>
+         <url>http://www.newyorker.com/arts/critics/cinema/2009/01/26/090126crci_cinema_denby?currentPage=2</url>
+         <critic>David Denby</critic>
+      </review>
+      <review>
+         <snippet>Unless you're an antsy movie-goer or have a cold heart, by the end of Wendy and Lucy, you'll be engrossed, hoping for the best possible outcome.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=11332</url>
+         <critic>Don R. Lewis</critic>
+      </review>
+      <review>
+         <snippet>For all its virtues, Wendy and Lucy seems like the most overrated of art movies. Yes, it's obscure and distancing and makes you pay attention. Williams's performance is nuanced, moving and well worth any awards she gets. But Wendy is also anonymous.</snippet>
+         <url>http://www.washingtonpost.com/gog/movies/wendy-and-lucy,1154982.html</url>
+         <critic>John Anderson</critic>
+      </review>
+      <review>
+         <snippet>Slow, ponderous, meticulously rendered realism that will appeal to specific audiences of slow, ponderous, meticulously rendered realism, with a heart.</snippet>
+         <url>http://www.empireonline.com/reviews/reviewcomplete.asp?FID=135975</url>
+         <critic>Anna Smith</critic>
+      </review>
+      <review>
+         <snippet>Michelle Williams does her best but she cannot prevent Kelly Reichardt's Wendy and Lucy, a weak tale about being broke and on the road in rural America, from dwindling into boredom.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?rid=11191</url>
+         <critic>Staff (Not credited)</critic>
+      </review>
+      <review>
+         <snippet>Like a worst-case-scenario, indie-movie cliché, Wendy and Lucy throws every bone it can at the screen.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2008/12/10/2008-12-10_michelle_williams_wendy_and_lucy_is_one_.html</url>
+         <critic>Joe Neumaier</critic>
+      </review>
+   </reviews>
+   <US_Gross>$856,942</US_Gross>
+   <weekend_gross>$25,443</weekend_gross>
+   <number_of_screens>2</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Dynamite Warrior</name>
+   <company>The Weinstein Company</company>
+   <genres>
+      <genre>Action</genre>
+      <genre>Comedy</genre>
+   </genres>
+   <authors>
+      <author/>
+   </authors>
+   <directors>
+      <director>Chalerm Wongpim</director>
+   </directors>
+   <origins>
+      <origin>Thailand</origin>
+   </origins>
+   <actors>
+      <actor>Dan Chupong</actor>
+      <actor>Leo Putt</actor>
+      <actor>Panna Ritthikrai</actor>
+      <actor>Samart Payakarun</actor>
+      <actor>Kanyapak Suworakood</actor>
+      <actor>Somdet Kaew-ler</actor>
+      <actor>Ampon Rattanawong</actor>
+      <actor>Wichai Prommajan</actor>
+   </actors>
+   <release_date>July 6, 2007</release_date>
+   <running_time>103</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>Isn't perfect, but it's light years ahead of "Ong-Bak."</snippet>
+         <url>http://www.nypost.com/seven/07062007/entertainment/movies/exalted_warrior_pose_movies_v_a__musetto.htm</url>
+         <critic>V.A. Musetto</critic>
+      </review>
+      <review>
+         <snippet>Wongpim pays tribute to classic Italian Westerns in his face-hugging close-ups, but his film is more silly than existentially anarchic, and its exotic quirkiness wears thin quickly.</snippet>
+         <url>http://www.tvguide.com/detail/movie.aspx?tvobjectid=289067&amp;more=ucmoviereview</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>Chalerm Wongpim keeps it all moving along at such a clip that you’re more likely to leave the theater smiling than yawning.</snippet>
+         <url>http://movies2.nytimes.com/2007/07/06/movies/06dyna.html?ref=movies</url>
+         <critic>Rachel Saltz</critic>
+      </review>
+      <review>
+         <snippet>Paths collide and allegiances form between the good, bad, and ugly, but under the incoherent direction of Chalerm Wongpim, a clunky dullness sets in whenever the action subsides.</snippet>
+         <url>http://www.premiere.com/moviereviews/3934/dynamite-warrior.html</url>
+         <critic>Aaron Hillis</critic>
+      </review>
+      <review>
+         <snippet>Director Chalerm Wongpim's skull-buster makes up in wild-eyed insanity (and excessive, arbitrary slow motion) what it lacks in acting, pacing, and coherence.</snippet>
+         <url>http://www.villagevoice.com/film/0727,various,77151,20.html</url>
+         <critic>Jim Ridley</critic>
+      </review>
+   </reviews>
+   <US_Gross>$5,229</US_Gross>
+   <weekend_gross>$1,082</weekend_gross>
+   <number_of_screens>3</number_of_screens>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>true</independence_release>
+   <labor_release>false</labor_release>
+</movie>

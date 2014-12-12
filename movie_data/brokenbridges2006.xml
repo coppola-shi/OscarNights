@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Broken Bridges</name>
+   <company>Paramount Vantage</company>
+   <genres>
+      <genre>Drama</genre>
+      <genre>Musical</genre>
+   </genres>
+   <authors>
+      <author>Cherie Bennett</author>
+      <author>Jeff Gottesfeld</author>
+   </authors>
+   <directors>
+      <director>Steven Goldmann</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Toby Keith</actor>
+      <actor>Burt Reynolds</actor>
+      <actor>Kelly Preston</actor>
+      <actor>Lindsey Haun</actor>
+      <actor>Tess Harper</actor>
+      <actor>Anna Maria Horsford</actor>
+      <actor>Willie Nelson</actor>
+   </actors>
+   <release_date>September 8, 2006</release_date>
+   <running_time>101</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>Keith -- a consistent hit-maker who wrote the controversial 9/11 song "Courtesy of the Red, White and Blue" -- has a future in movies if he wants it. Hopefully, they'll be better ones than this.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-060908-movies-review-bridges,0,5045408.story?coll=mmx-movies_top_heds</url>
+         <critic>Michael Wilmington</critic>
+      </review>
+      <review>
+         <snippet>The Country Music Channel's first foray into feature filmmaking is sickly sweet and thoroughly predictable, and woefully underuses veterans Harper and Reynolds, but it features some stirring performances, including BeBe Winans and Willie Nelson dueting on "The Uncloudy Day."</snippet>
+         <url>http://online.tvguide.com/newsearch/detail.aspx?tvobjectid=283145&amp;more=ucmoviereview</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>Get the soundtrack; wait for the movie to come to CMT.</snippet>
+         <url>http://ae.philly.com/entertainment/ui/philly/movie.html?id=695862&amp;reviewId=21430</url>
+         <critic>David Hiltbrand</critic>
+      </review>
+      <review>
+         <snippet>It's obviously intended as a star vehicle, but Broken Bridges turns out to be a rattletrap jalopy for country music performer Toby Keith.</snippet>
+         <url>http://www.variety.com/review/VE1117931681?categoryid=31&amp;cs=1</url>
+         <critic>Joe Leydon</critic>
+      </review>
+      <review>
+         <snippet>Keith is an awkward, galumphing presence, but he's more fun to watch than Kelly Preston as the girl's uptight mother.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/30220_BROKEN_BRIDGES.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>Country Music Television's answer to "Elizabethtown."</snippet>
+         <url>http://www.avclub.com/content/node/52596</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>Director Goldmann, who cut his teeth directing videos for Shania Twain and Faith Hill, never misses a chance to punch-up an emotional scene with a contrived, heart-melting music performance by one or more of his stars.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A400650</url>
+         <critic>Josh Rosenblatt</critic>
+      </review>
+   </reviews>
+   <US_Gross>$251,775</US_Gross>
+   <weekend_gross>$133,784</weekend_gross>
+   <number_of_screens>84</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

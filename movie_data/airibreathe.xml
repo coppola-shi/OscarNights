@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Air I Breathe, The</name>
+   <company>THINKFilm</company>
+   <genres>
+      <genre>Crime</genre>
+      <genre>Drama</genre>
+      <genre>Romance</genre>
+   </genres>
+   <authors>
+      <author>Jieho Lee</author>
+      <author>Bob De</author>
+      <author>Rosa</author>
+   </authors>
+   <directors>
+      <director>Jieho Lee</director>
+   </directors>
+   <origins>
+      <origin>MexicoUSA</origin>
+   </origins>
+   <actors>
+      <actor>Kevin Bacon</actor>
+      <actor>Forest Whitaker</actor>
+      <actor>Andy Garcia</actor>
+      <actor>Sarah Michelle Gellar</actor>
+      <actor>Brendan Fraser</actor>
+      <actor>Julie Delpy</actor>
+      <actor>Emile Hirsch</actor>
+   </actors>
+   <release_date>January 25, 2008</release_date>
+   <running_time>minutes,</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>Lee deserves a lot of credit for attempt the same kind of complex story structure Quentin Tarantino made look so easy in "Pulp Fiction": Like Tarantino's interlocking stories, Lee's four segments occur achronologically and come full circle in a neat twist at the very end.</snippet>
+         <url>http://www.tvguide.com/movies/air-breathe/review/291860</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>An ingenious contraption that holds your attention for as long as it whirs and clicks like a mechanized Rubik’s Cube. After it’s over, however, you may find yourself scratching your head and wondering if there was any purpose to this sleek little gizmo.</snippet>
+         <url>http://movies.nytimes.com/2008/01/25/movies/25brea.html?ref=movies</url>
+         <critic>Stephen Holden</critic>
+      </review>
+      <review>
+         <snippet>The source for Jieho Lee's The Air I Breathe is an ancient Chinese proverb about the four cornerstones of emotion - love, pleasure, happiness and sorrow. But Lee and co-writer Bob DeRosa went 0-4 with their convoluted screenplay, making me thankful they didn't try to adapt the Seven Deadly Sins.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2008/01/25/2008-01-25_air_i_breathe_tries_for_confucian_adds_c.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>Each story has its moments, but "Air" lacks an overarching vision.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2008-01-24-air_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>Situations get increasingly ridiculous, and none of the characters ever seems like anything but a screenwriter's sketch.</snippet>
+         <url>http://www.nypost.com/seven/01252008/entertainment/movies/the_air_i_breathe_926950.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>Stellar thesps gamely strive to elevate the one-note material, but gravity ultimately defeats them in this relentless downer.</snippet>
+         <url>http://www.variety.com/review/VE1117933644.html?categoryid=31&amp;cs=1&amp;p=0</url>
+         <critic>Ronnie Scheib</critic>
+      </review>
+      <review>
+         <snippet>The destiny-versus- responsibility hand-wringing is Philosophy 101, the camera angles straight out of film school, and the pacing strictly music-video. Plus, the ta-da! twist ending is foreshadowed roughly 20 minutes into the action, for those still interested.</snippet>
+         <url>http://www.villagevoice.com/film/0804,taylor,78931,20.html</url>
+         <critic>Ella Taylor</critic>
+      </review>
+      <review>
+         <snippet>A top-notch varied group of actors, no doubt attracted by the colorfulness of their roles, has been assembled, but their hardworking efforts are ultimately done in by the supremely pretentious nature of the material.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?JSESSIONID=yBYRHZdGGZCThXCFGLhw4KcRvp3Pnl3XKv6XP4XbNH2fDJGpzf8F!3588094&amp;&amp;rid=10521</url>
+         <critic>Frank Scheck</critic>
+      </review>
+      <review>
+         <snippet>A stew of cheap irony, ponderous but meaningless allegory, violence and pretension, the movie is all borrowed style and calculated pandering. It does, however, get more ludicrous by the minute. So in that sense, it's good for an occasional laugh.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-air25jan25,0,2589210.story</url>
+         <critic>Carina Chocano</critic>
+      </review>
+   </reviews>
+   <US_Gross>$25,775</US_Gross>
+   <weekend_gross>$19,487</weekend_gross>
+   <number_of_screens>7</number_of_screens>
+   <oscar_winning_actors_present/>
+   <num_oscar_winning_actors>1</num_oscar_winning_actors>
+   <oscar_winning_actor>forest whitaker</oscar_winning_actor>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

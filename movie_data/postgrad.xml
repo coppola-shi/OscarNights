@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Post Grad</name>
+   <company>20th Century Fox</company>
+   <genres>
+      <genre>Comedy</genre>
+   </genres>
+   <authors>
+      <author>Kelley Fremon</author>
+   </authors>
+   <directors>
+      <director>Vicky Jenson</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Alexis Bledel</actor>
+      <actor>Zach Gilford</actor>
+      <actor>Rodrigo Santoro</actor>
+      <actor>Bobby Coleman</actor>
+      <actor>Fred Armisen</actor>
+      <actor>Jane Lynch</actor>
+      <actor>Carol Burnett</actor>
+      <actor>Michael Keaton</actor>
+   </actors>
+   <release_date>August 21, 2009</release_date>
+   <running_time>minutes,</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>It's a screwball comedy. It's also, I have to say, a feel-good movie that made me smile a lot.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20090819/REVIEWS/908199997</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>The material may be formulaic, but the spirit of the piece is friendly.</snippet>
+         <url>http://featuresblogs.chicagotribune.com/talking_pictures/2009/08/post-grad-3-stars.html</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>Ms. Bledel works her “Gilmore Girls” charm to the hilt, but no amount of cerulean-eyed sparkle can transcend this level of thudding mediocrity.</snippet>
+         <url>http://movies.nytimes.com/2009/08/21/movies/21post.html?ref=movies</url>
+         <critic>Jeannette Catsoulis</critic>
+      </review>
+      <review>
+         <snippet>Director Vicky Jenson has a sitcom script on her hands and proceeds accordingly.</snippet>
+         <url>http://www.chicagoreader.com/chicago/MovieTimes?film=977953</url>
+         <critic>Cliff Doerksen</critic>
+      </review>
+      <review>
+         <snippet>So swaddled in good intentions that it's like taking a very short journey cushioned on all sides by air bags. That are stuffed with cotton candy.</snippet>
+         <url>http://www.nypost.com/seven/08212009/entertainment/movies/grad_from_page_49_185537.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>After watching Post Grad, you may wonder whether Hollywood will ever stop making generic comedies with zero tolerance for originality.</snippet>
+         <url>http://www.stltoday.com/stltoday/entertainment/reviews.nsf/movie/story/B52D0B3FF70F2E85862576170072DD73?OpenDocument</url>
+         <critic>Calvin Wilson</critic>
+      </review>
+      <review>
+         <snippet>A harmless, aimless, mildly funny and thoroughly predictable comic-romantic piffle.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2009/08/20/MVI319AP2M.DTL&amp;type=movies</url>
+         <critic>Amy Biancolli</critic>
+      </review>
+      <review>
+         <snippet>Post Grad isn't funny, surprising, or insightful enough to provoke more than a ho-hum reaction. It's not bad in the way that many failed comedies are bad; it's simply uninspired.</snippet>
+         <url>http://www.reelviews.net/php_review_template.php?identifier=1775</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>A disjointed patchwork of zany character sketches lacking in coherence and credibility.</snippet>
+         <url>http://www.boston.com/ae/movies/articles/2009/08/21/post_grad_looks_at_life_after_college/</url>
+         <critic>Laura Bennett</critic>
+      </review>
+      <review>
+         <snippet>Dismayingly conservative dramedy.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20299739,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>Bledel brings a sweet, steady presence, but this sort of minor project is a step backwards. It's high time she graduated on to bigger and better things.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2009/08/21/2009-08-21_short_movie_reviews_passing_strange_post_grad_.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>Boils down, in the end, to the age-old question: Career or life? That Post Grad draws a stark line between the two, and forces its heroine into an untenable decision, might be the most disappointing thing about a movie that never quite succeeds in capturing a generation adrift.</snippet>
+         <url>http://www.washingtonpost.com/gog/movies/post-grad,1156304/critic-review.html#reviewNum1</url>
+         <critic>Dan Kois</critic>
+      </review>
+      <review>
+         <snippet>In 2009. Vicky Jenson's live-action debut is as cartoonish as her work on "Shrek," and that's OK for the comic bits. The rest seems like a remarkably cynical cross-breed—for all demographics, but, ultimately, for none.</snippet>
+         <url>http://www.villagevoice.com/2009-08-18/film/soggy-post-grad-misses-more-than-one-mark/</url>
+         <critic>Vadim Rizov</critic>
+      </review>
+      <review>
+         <snippet>An innocuous -- to the point of blandness -- look at the "hardships" of a recent college grad.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film-reviews/post-grad-film-review-1004004775.story</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>As fiction characters go, Ryden seems as dull as they come, making it hard to muster much sympathy for her plight.</snippet>
+         <url>http://www.variety.com/review/VE1117940855.html?categoryid=31&amp;cs=1</url>
+         <critic>Peter Debruge</critic>
+      </review>
+      <review>
+         <snippet>Ostensibly a comedy, and a feeble and innocuous one at that, Post Grad is one of those what-were-they-thinking?</snippet>
+         <url>http://www.philly.com/philly/entertainment/movies/20090821_No_jobs_-_isn_t_that_hilarious_.html</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>Post Grad is a collection of unfunny, insipid and predictable vignettes in search of a movie.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2009-08-20-post-grad_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>When a film whose cast includes Michael Keaton, Jane Lynch, Fred Armisen, Craig Robinson, Demetri Martin, and the now rarely seen Carol Burnett can’t scare up more than a smattering of laughs, the patient was never meant to live in the first place.</snippet>
+         <url>http://www.avclub.com/articles/post-grad,31965/</url>
+         <critic>Keith Phipps</critic>
+      </review>
+      <review>
+         <snippet>A joyless fluffball about after-college job woes with a dispiriting message for smart young women.</snippet>
+         <url>http://www.latimes.com/entertainment/news/la-et-capsules21-2009aug21,0,2221448.story</url>
+         <critic>Robert Abele</critic>
+      </review>
+      <review>
+         <snippet>A promising premise simply devolves into just another "Definitely, Maybe" or "The Proposal."</snippet>
+         <url>http://www.theglobeandmail.com/news/arts/post-grad/article1258718/</url>
+         <critic>Staff (Not credited)</critic>
+      </review>
+      <review>
+         <snippet>Most of the time, however, Post Grad just coasts along, flat as a mortar board, and as forgettable as a ... oh, I forgot already.</snippet>
+         <url>http://www.nola.com/movies/index.ssf/2009/08/appealing_cast_cant_help_post.html</url>
+         <critic>Mike Scott</critic>
+      </review>
+      <review>
+         <snippet>An annoying, tedious little film.</snippet>
+         <url>http://www.miamiherald.com/entertainment/movies/reviews/story/1194094.html</url>
+         <critic>Connie Ogle</critic>
+      </review>
+      <review>
+         <snippet>Timing’s everything in comedy, so perhaps Post Grad would have seemed peppier prior to the Great Recession; circa now, this comedy feels like a cynical stroll through the unemployment lines awaiting today’s class of seniors.</snippet>
+         <url>http://newyork.timeout.com/articles/film/77688/post-grad-film-review</url>
+         <critic>S. James Snyder</critic>
+      </review>
+      <review>
+         <snippet>We are meant to think they are all delightfully and amusingly eccentric (characters). Actually, they're just creepy</snippet>
+         <url>http://online.wsj.com/article/film_review.html</url>
+         <critic>Joanne Kaufman</critic>
+      </review>
+      <review>
+         <snippet>Bland to the point of pointlessness.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A822656</url>
+         <critic>Marc Savlov</critic>
+      </review>
+   </reviews>
+   <US_Gross>$6,379,040</US_Gross>
+   <weekend_gross>$2,651,996</weekend_gross>
+   <number_of_screens>1,959</number_of_screens>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

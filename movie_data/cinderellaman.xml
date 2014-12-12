@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Cinderella Man</name>
+   <company>Universal Pictures</company>
+   <genres>
+      <genre>Drama</genre>
+      <genre>Romance</genre>
+   </genres>
+   <authors>
+      <author>Cliff Hollingsworth</author>
+      <author>Akiva Goldsman</author>
+   </authors>
+   <directors>
+      <director>Ron Howard</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Russell Crowe</actor>
+      <actor>Renée Zellweger</actor>
+      <actor>Connor Price</actor>
+      <actor>Craig Bierko</actor>
+      <actor>Paddy Considine</actor>
+      <actor>Paul Giamatti</actor>
+      <actor>Bruce McGill</actor>
+   </actors>
+   <release_date>June 3, 2005</release_date>
+   <running_time>144</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>Ron Howard and Russell Crowe bring the Braddock story to vivid life in a superbly acted, beautifully shot, highly engaging drama that ranks as one of Howard's best efforts.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1000928999</url>
+         <critic>Michael Rechtshaffen</critic>
+      </review>
+      <review>
+         <snippet>An exquisite ode to a working-class hero, Cinderella Man takes the almost impossibly perfect elements of the saga of underdog boxer James J. Braddock and fills it with emotional gravitas, wrenching danger and a panoramic sense of American life during the Great Depression.</snippet>
+         <url>http://www.variety.com/review/VE1117927190?categoryid=31&amp;cs=1</url>
+         <critic>Robert Koehler</critic>
+      </review>
+      <review>
+         <snippet>At last, his (Howard's) first great (and filling) movie--inspirational, yes, but far from hokey; moving, absolutely, but never saccharine; and gripping, despite its being a fixed fight.</snippet>
+         <url>http://www.dallasobserver.com/Issues/2005-06-02/film/film2.html</url>
+         <critic>Robert Wilonsky</critic>
+      </review>
+      <review>
+         <snippet>Cinderella Man is not a movie about boxing, but about this boxer who personified the heart and hope of 1935.</snippet>
+         <url>http://ae.philly.com/entertainment/ui/philly/movie.html?id=319456&amp;reviewId=18169</url>
+         <critic>Carrie Rickey</critic>
+      </review>
+      <review>
+         <snippet>In sum, the classical Ron Howard and his splendid cast have made a spellbinding movie that joins "Million Dollar Baby," as well as "Raging Bull," the first two "Rocky" pictures, and "Fat City" as one of boxing cinema's all-time heavyweight champs.</snippet>
+         <url>http://www.csmonitor.com/2005/0603/p15s01-almo.html</url>
+         <critic>David Sterritt</critic>
+      </review>
+      <review>
+         <snippet>A premier boxing movie and a forceful Depression remembrance for the socially conscious, Cinderella Man also ices it for stargazers that Russell Crowe is the dominant screen actor working today.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2005-06-02-cinderella-man-review_x.htm</url>
+         <critic>Mike Clark</critic>
+      </review>
+      <review>
+         <snippet>An unflinching and historically rich rendering of an amazing story. He has made what is easily the best American film so far this year.</snippet>
+         <url>http://sfgate.com/cgi-bin/article.cgi?f=/c/a/2005/06/03/DDGTMD21Q01.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>It's an eye-filling, sumptuously detailed historical epic that grandly re-creates the bloody gladiatorial spectacles and smoke-filled, spit-flying, claustrophobically crowded arenas of its bygone era.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/226893_cinderella03q.html</url>
+         <critic>William Arnold</critic>
+      </review>
+      <review>
+         <snippet>A broad, foursquare piece of populist filmmaking that happens to be tremendously moving.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=4267</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>Jim Braddock is almost transparent in the simple goodness of his character; that must have made him almost impossible to play. Russell Crowe makes him fascinating, and it takes a moment of two of thought to appreciate how difficult that must have been.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20050602/REVIEWS/50523002</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>Smashing, supremely engrossing picture.</snippet>
+         <url>http://ae.miami.com/entertainment/ui/miami/movie.html?id=319456&amp;reviewId=18164</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>It's the classic American tale of the family man triumphant, and Howard makes sure that it hits you right in the heart.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/_/id/6173886?pageid=rs.ReviewsMovieArchive&amp;pageregion=mainRegion</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>How exceptional a film actor is Russell Crowe? So exceptional that in Cinderella Man, he makes a good boxing movie feel at times like a great, big picture.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1067712_1_0_,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>It's a crowd-pleasing, artful and convincing movie that just misses being great but nevertheless gratifies.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/111770615862260.xml&amp;coll=7</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>Giamatti has his hands full trying to keep us from thinking about Burgess Meredith.</snippet>
+         <url>http://www.filmthreat.com/Reviews.asp?Id=7550</url>
+         <critic>Pete Vonder Haar</critic>
+      </review>
+      <review>
+         <snippet>Ron Howard's Depression-era movie also works from the inside out, building a classic underdog drama from depth of character, rich texture, vivid detail and stirring performances.</snippet>
+         <url/>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>As a history lesson (Depression 101), Cinderella Man feels a bit secondhand. As a true-grit tale of redemption, however, it lands one solid body punch after another.</snippet>
+         <url>http://www.msnbc.msn.com/id/8017696/site/newsweek/</url>
+         <critic>David Ansen</critic>
+      </review>
+      <review>
+         <snippet>It runs roughly two and a half hours, and the intensity spikes with every fight; without Russell Crowe and Paul Giamatti, however, it would be flat on the canvas. They make it seem a better and more bristling film than it actually is.</snippet>
+         <url>http://www.newyorker.com/critics/cinema/?050606crci_cinema</url>
+         <critic>Anthony Lane</critic>
+      </review>
+      <review>
+         <snippet>The film is most significantly about puzzled people trying to comprehend the cosmic reversal of fortune that was the Depression.  They don't have much more than raw courage and simple virtues to rely on. Unlike most period pieces, Cinderella Man encourages us to fondly recall not songs or clothes but values we have largely mislaid.</snippet>
+         <url>http://www.time.com/time/magazine/article/0,9171,1066918,00.html</url>
+         <critic>Richard Schickel</critic>
+      </review>
+      <review>
+         <snippet>Delivers old-fashioned, "Shawshank Redemption"-style entertainment.</snippet>
+         <url>http://www.empireonline.co.uk/site/incinemas/ReviewInFull.asp?FID=10073</url>
+         <critic>Ian Freer</critic>
+      </review>
+      <review>
+         <snippet>With all that going for it, one must ask, why didn't they just tell it completely straight? In other words, why did they feel so compelled to create an utterly bogus Max Baer for the virtuous Jim to fight in the movie's admittedly compelling climactic, championship bout?</snippet>
+         <url>http://www.washingtonpost.com/wp-dyn/content/article/2005/06/02/AR2005060202116.html</url>
+         <critic>Stephen Hunter</critic>
+      </review>
+      <review>
+         <snippet>Despite the tale's dusty pedigree, Ron Howard spins a ticket-worthy two-plus hours of movie-movie entertainment.</snippet>
+         <url>http://www.villagevoice.com/film/0522,halter,64455,20.html</url>
+         <critic>Ed Halter</critic>
+      </review>
+      <review>
+         <snippet>Lacking a more specific sense of time and place, Cinderella Man leans heavily on the technically proficient Crowe to slip into Braddock's skin, but he can only do so much with a character who's ready to be mounted in bronze over Central Park.</snippet>
+         <url>http://www.theavclub.com/review.php?review_id=8544</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>Cinderella Man's key emotional moments feel as if they've been predigested for an audience that can't be trusted to feel things for itself but needs to be firmly albeit lovingly pointed in the appropriate direction.</snippet>
+         <url>http://www.calendarlive.com/movies/turan/cl-et-cinderella3jun03,0,2061689.story</url>
+         <critic>Kenneth Turan</critic>
+      </review>
+      <review>
+         <snippet>Lightly stained a nicotine brown and topped by two male actors who could steal a movie from a basket of mewling kittens and an army of rosy-cheeked orphans, the film is as calculating and glossy a hard-luck tale as any cooked up on the old M-G-M lot.</snippet>
+         <url>http://movies2.nytimes.com/2005/06/03/movies/03cind.html</url>
+         <critic>Manohla Dargis</critic>
+      </review>
+      <review>
+         <snippet>What keeps "Cinderella" from complete hokiness is Crowe's utterly believable performance.</snippet>
+         <url>http://www.washingtonpost.com/wp-dyn/content/article/2005/06/02/AR2005060200753.html</url>
+         <critic>Desson Thomson</critic>
+      </review>
+      <review>
+         <snippet>Howard manipulates audiences without guile, jerking tears, piling on catastrophes, smoothing out dissonances, making bad characters badder and good ones gooder--and clearly believing that this is wholesome. At what he does, he's peerless. I wish I had more respect for what he does--and for myself the next morning for surrendering.</snippet>
+         <url>http://www.slate.com/id/2120158/</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>Crowe is, in his unique way, astonishing. Even at his biggest moments he seems both convincing and somewhat reticent.</snippet>
+         <url>http://www.tnr.com/doc.mhtml?i=20050627&amp;s=kauffmann062705</url>
+         <critic>Stanley Kauffmann</critic>
+      </review>
+      <review>
+         <snippet>With the notable exception of Martin Scorsese's opus, most boxing flicks suffer form a certain amount of raw-boned sentimentality, the sort of easy melodrama that pits naive underdogs against corrupt overlords, or age against youth, or purity against prejudice. Even the recent "Million Dollar Baby" succumbed in the final act. But this one, where "Rocky" meets "The Waltons," has us reeling under its saccharine weight.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/ArticleNews/TPStory/LAC/20050603/CINDERELLA03/TPEntertainment/Film</url>
+         <critic>Rick Groen</critic>
+      </review>
+      <review>
+         <snippet>Overlong and unevenly paced, Cinderella Man hits stretches (especially between bouts) when it threatens to lose its audience.</snippet>
+         <url>http://movie-reviews.colossus.net/movies/c/cinderella_man.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>The performances do shine out through this dramatic miasma.</snippet>
+         <url>http://ae.charlotte.com/entertainment/ui/charlotte/movie.html?id=319456&amp;reviewId=18162&amp;startDate=NEXT7</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>Ron Howard, an exemplar of honorable mediocrity, reunites with actor Russell Crowe and screenwriter Akiva Goldsman of "A Beautiful Mind" for this epic treatment of a seven-year stretch (1928-'35) in the career of New Jersey boxer James J. Braddock.</snippet>
+         <url>http://spacefinder.chicagoreader.com/movies/critic.html#28089</url>
+         <critic>Jonathan Rosenbaum</critic>
+      </review>
+      <review>
+         <snippet>Viewers who remember Max Baer may, however, take issue with the way the film treats this charismatic fighter. In 1933, Baer became an important symbol of Jewish strength when he faced off against Hitler's favored fighter, Max Schmeling, and while reducing Baer to a bloodthirsty villain makes it easier to root for Braddock, it's an unfair bit of character assassination.</snippet>
+         <url>http://tvguide.com/movies/database/showmovie.asp?MI=43821</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>Without Crowe and Paul Giamatti, this movie would have little in its corner.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/moviereviews/story/315598p-270017c.html</url>
+         <critic>Jami Bernard</critic>
+      </review>
+      <review>
+         <snippet>Ultimately, it's Paul Giamatti ("Sideways"), playing Braddock's manager Joe Gould, who shines. In another actor's hands, Gould would be a secondary character lost in Crowe's shadow, but Giamatti outshines his co-stars at times with his everyman looks and delivery.</snippet>
+         <url>http://alliance.zap2it.com/custom/metromix/main_template/0,1846,8-25903-1,00.html</url>
+         <critic>Robert K. Elder</critic>
+      </review>
+      <review>
+         <snippet>The movie is calamitously miscast.</snippet>
+         <url>http://www.laweekly.com/ink/05/28/film-taylor2.php</url>
+         <critic>Ella Taylor</critic>
+      </review>
+      <review>
+         <snippet>He's a saint in the flesh, but not one who inspires great drama.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A272909</url>
+         <critic>Marjorie Baumgarten</critic>
+      </review>
+      <review>
+         <snippet>There's no irony within the film, but there's a whopping irony surrounding it. Just as Star Wars has finally ended, Rocky seems to be starting all over again.</snippet>
+         <url>http://www.baltimoresun.com/features/lifestyle/bal-to.cinderella03jun03,1,6782729.story?coll=bal-movies-utility</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>Ron Howard's bio-pic is an Oscar-baiting fairy tale that manipulates the audience at every turn of the clich.</snippet>
+         <url>http://www.nypost.com/movies/44823.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>Cinderella Man is ostensibly the kind of old-fashioned drama that sends audiences home with a satisfied glow. But like so many of Howard's movies, there's something canned and phony about it -- it left me feeling cooked and dehydrated, as if I'd fallen asleep on a tanning bed.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2005/06/03/cinderella_man/index.html</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+   </reviews>
+   <US_Gross>$61,649,911</US_Gross>
+   <production_budget>$88,000,000</production_budget>
+   <weekend_gross>$18,320,205</weekend_gross>
+   <number_of_screens>2,812</number_of_screens>
+   <oscar_winning_actors_present/>
+   <num_oscar_winning_actors>1</num_oscar_winning_actors>
+   <oscar_winning_actor>russell crowe</oscar_winning_actor>
+   <oscar_winning_directors_present/>
+   <num_oscar_winning_directors>1</num_oscar_winning_directors>
+   <oscar_winning_director>ron howard</oscar_winning_director>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

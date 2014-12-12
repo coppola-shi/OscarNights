@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Away We Go</name>
+   <company>Focus Features</company>
+   <genres>
+      <genre>Comedy</genre>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author>Dave Eggers</author>
+      <author>Vendela Vida</author>
+   </authors>
+   <directors>
+      <director>Sam Mendes</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+      <origin>UK</origin>
+   </origins>
+   <actors>
+      <actor>John Krasinski</actor>
+      <actor>Maya Rudolph</actor>
+      <actor>Jeff Daniels</actor>
+      <actor>Maggie Gyllenhaal</actor>
+      <actor>Allison Janney</actor>
+      <actor>Chris Messina</actor>
+      <actor>Catherine O’Hara</actor>
+      <actor>Paul Schneider</actor>
+   </actors>
+   <release_date>June 5, 2009</release_date>
+   <running_time>97</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>Like "Juno" or "Little Miss Sunshine," Away We Go is a small film, the kind of gem that's easy to crush with hype or overpraise. But, the fact is that few movies deal with feelings this profound with as much restraint as Mendes and his crew display here.</snippet>
+         <url>http://movies.tvguide.com/detail/movie.aspx?tvobjectid=297686&amp;more=ucmoviereview</url>
+         <critic>Perry Seibert</critic>
+      </review>
+      <review>
+         <snippet>A movie with memorable and engaging performances.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2009-06-04-away-review_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>Burt and Verona are two characters rarely seen in the movies: thirtysomething, educated, healthy, self-employed, gentle, thoughtful, whimsical, not neurotic and really truly in love.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20090610/REVIEWS/906119986</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>Rudolph, a comic force on "SNL," can speak volumes with the tilt of an eyebrow. She and Krasinski, of "The Office," are absolutely extraordinary. Ditto the film, which sneaks up and floors you.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/21677539/review/28521608/away_we_go</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>Though Away We Go lacks the screwball unpredictability of something like "Flirting With Disaster," it compensates with a unexpected depth of feeling, a novelist’s (or memoirist’s) sense of detail, and a panoramic view of what home means.</snippet>
+         <url>http://www.avclub.com/articles/away-we-go,28814/</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>Some of the episodes are ripely satirical, others almost heartbreaking. Allison Janney appears as a coarse drunk who taunts her kids; Maggie Gyllenhaal is a pushy New Age mom whose aggressive virtue saps the strength of everyone around her.</snippet>
+         <url>http://www.newyorker.com/arts/critics/cinema/2009/06/08/090608crci_cinema_denby?currentPage=2</url>
+         <critic>David Denby</critic>
+      </review>
+      <review>
+         <snippet>The episodic structure works to the movie's benefit, highlighting the eccentric supporting characters and allowing Mendes to smoothly downshift from hilarity to sadness.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/critic.html#34465</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>While cynics may find it twee, Mendes fans should greatly enjoy this (gently) surprising change of direction. Go in with the right frame of mind and you’ll leave with a big, goofy grin on your face.</snippet>
+         <url>http://www.empireonline.com/reviews/review.asp?FID=136204</url>
+         <critic>Olly Richards</critic>
+      </review>
+      <review>
+         <snippet>A heartwarming -- and at times heartbreaking -- post-"Juno" road comedy for grownups.</snippet>
+         <url>http://www.nola.com/movies/index.ssf/2009/06/away_we_go_is_definitely_a_tri.html</url>
+         <critic>Mike Scott</critic>
+      </review>
+      <review>
+         <snippet>Some episodes are funnier than others, but they're all underscored by a pervasive melancholy.</snippet>
+         <url>http://www.miamiherald.com/entertainment/movies/reviews/story/1112713.html</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>The unassuming performances by Krasinski and Rudolph help make this the first Mendes movie that feels lived-in rather than staged.</snippet>
+         <url>http://www.philly.com/philly/entertainment/movies/20090612_Lovebirds_looking_for_a_home.html</url>
+         <critic>Carrie Rickey</critic>
+      </review>
+      <review>
+         <snippet>There's something genuinely exploratory and original here in the depiction of people being pushed into adulthood before they're ready.</snippet>
+         <url>http://www.theglobeandmail.com/news/arts/away-we-go/article1178074/</url>
+         <critic>Liam Lacey</critic>
+      </review>
+      <review>
+         <snippet>Away We Go is not as dramatically wrenching as "Revolutionary Road," but it's unquestionably more enjoyable.</snippet>
+         <url>http://www.reelviews.net/php_review_template.php?identifier=1657</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>The odyssey that follows reminded me of the one Bill Murray’s character took in "Broken Flowers" - and I mean that in the most complimentary way.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=11801</url>
+         <critic>Rick Kisonak</critic>
+      </review>
+      <review>
+         <snippet>A gilded entry in the cinema du quirk. It's a movie that invites you, all too often, to feel superior to the people on screen.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20282749,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>The film's one extraordinary aspect, which makes it well worth seeing despite its carefully coiffed shagginess, is Maya Rudolph's performance.</snippet>
+         <url>http://www.csmonitor.com/2009/0605/p17s03-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>Glib and charming in roughly equal measure.</snippet>
+         <url>http://www.chicagotribune.com/entertainment/movies/chi-tc-mov-away-we-go-0610-0612jun12,0,2466129.story</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>In tone and plotting, Away We Go feels like a fairy tale built on an aggravating collection of attitudes. It's condescending, judgmental, righteous, yet sincerely searching.</snippet>
+         <url>http://www.boston.com/ae/movies/articles/2009/06/12/away_we_go_journeys_from_serious_to_smug/</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>Maya Rudolph's subtle, lyrical portrait of a patient wife and expectant mother enlivens and elevates Away We Go, an erratic couple-on-a-quest film.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/bal-ae.mo.away19jun19,0,4862501.story</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>A self-satisfied film about insecure people, a quirky and episodic comic drama that squanders its genuine assets and ends up not as special as it tries to be.</snippet>
+         <url>http://www.latimes.com/entertainment/news/la-et-away5-2009jun05,0,1990375.story</url>
+         <critic>Kenneth Turan</critic>
+      </review>
+      <review>
+         <snippet>If we learn anything from Away We Go, it’s that a lack of ambition might not be such a bad thing after all.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2009/06/04/2009-06-04_dramedy_with_maya_rudolph_john_krasinski_lacks_a_leisurely_pace.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>Though it's nice to see Mendes take a looser, not quite so studied approach to his filmmaking, some stops along the way -- like a detour to visit Burt's suddenly single brother (Paul Schneider) -- feel dramatically off-course.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film-reviews/film-review-away-we-go-1003976162.story</url>
+         <critic>Michael Rechtshaffen</critic>
+      </review>
+      <review>
+         <snippet>The strange thing about the movie is its idea that such couples are rare flowers. But you can scarcely take a step in Seattle or San Francisco or Los Feliz without meeting them in hordes.</snippet>
+         <url>http://www.nypost.com/seven/06052009/entertainment/movies/the_further_the_better_172610.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>See it for the performances – they are delights from the leads on down to the characters in the episodic vignettes. But the film’s vision of Gen-Y nesting is liable to leave you up a tree.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A794586</url>
+         <critic>Marjorie Baumgarten</critic>
+      </review>
+      <review>
+         <snippet>One can almost feel the movie Away We Go might have been, if only we could believe that Verona loves Burt - or understand why Burt loves Verona.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2009/06/11/V4L184GJ8.DTL</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>A bloated, criminally judgmental borderline-comedy.</snippet>
+         <url>http://www.time.com/time/arts/article/0,8599,1903238,00.html</url>
+         <critic>Richard Corliss</critic>
+      </review>
+      <review>
+         <snippet>Away We Go is like a disappointing term paper by a promising student.</snippet>
+         <url>http://www.slate.com/id/2219777/</url>
+         <critic>Dana Stevens</critic>
+      </review>
+      <review>
+         <snippet>Does it sound as if I hate this movie? Don't be silly. But don't be fooled. This movie does not like you.</snippet>
+         <url>http://movies.nytimes.com/2009/06/05/movies/05away.html?ref=movies</url>
+         <critic>A.O. Scott</critic>
+      </review>
+      <review>
+         <snippet>An exploration of self-absorption that is itself too self-absorbed to be either entertaining or enlightening.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2009/06/05/away_we_go/index.html</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>Travel--finding the self by escaping the self--is central to the novels of Eggers and Vida, but Mendes knows where he's going before he gets there. And so the subject of Away We Go turns out to be not travel but child-rearing, which is at best well-meaning and anguished and at worst downright monstrous.</snippet>
+         <url>http://nymag.com/movies/reviews/57041/</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>Emerges as an oddly sour, unappealing road-trip scenario.</snippet>
+         <url>http://www.variety.com/review/VE1117940332.html?categoryid=31&amp;cs=1&amp;query=away+we+go</url>
+         <critic>Dennis Harvey</critic>
+      </review>
+      <review>
+         <snippet>The road-trippers of Away We Go harbor no discernible ambitions whatsoever, which may make them true to Gen-Y life, but also renders them fatally uninteresting. For all the ground they cover geographically, dramatically their velocity remains zero. Mendes, too, seems to have trouble getting on board with the underachieving set.</snippet>
+         <url>http://www.villagevoice.com/2009-06-03/film/dave-eggers-away-we-go-a-work-of-staggering-something/</url>
+         <critic>Scott Foundas</critic>
+      </review>
+      <review>
+         <snippet>It's in these vignettes that Away We Go begins to feel less like an authentic exploration of identity than a condemnation of the very community the couple pretends to crave. No one, it turns out, is good enough for Burt and Verona.</snippet>
+         <url>http://www.washingtonpost.com/gog/movies/away-we-go,1156493.html</url>
+         <critic>Ann Hornaday</critic>
+      </review>
+   </reviews>
+   <US_Gross>$9,451,946</US_Gross>
+   <production_budget>$21,000,000</production_budget>
+   <weekend_gross>$130,411</weekend_gross>
+   <number_of_screens>4</number_of_screens>
+   <oscar_winning_directors_present/>
+   <num_oscar_winning_directors>1</num_oscar_winning_directors>
+   <oscar_winning_director>sam mendes</oscar_winning_director>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

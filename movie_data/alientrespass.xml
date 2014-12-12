@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Alien Trespass</name>
+   <company>Roadside Attractions</company>
+   <genres>
+      <genre>Comedy</genre>
+      <genre>Horror</genre>
+      <genre>Scifi</genre>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>James Swift</author>
+      <author>Steven Fisher</author>
+   </authors>
+   <directors>
+      <director>R.W. Goodwin</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Eric McCormack</actor>
+      <actor>Jenni Baird</actor>
+      <actor>Dan Lauria</actor>
+      <actor>Robert Patrick</actor>
+      <actor>Jody Thompson</actor>
+      <actor>Aaron Brooks</actor>
+      <actor>Sarah Smyth</actor>
+      <actor>Andrew Dunbar</actor>
+   </actors>
+   <release_date>April 3, 2009</release_date>
+   <running_time>90</running_time>
+   <rating>PG</rating>
+   <reviews>
+      <review>
+         <snippet>The characters in Alien Trespass (directed by X-Files producing alum R.W. Goodwin) are specimens of Sputnik-era determination, led by a gung-ho Eric McCormack.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20269297,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>It's pretty endearing - a low-budget labor of schlock.</snippet>
+         <url>http://www.boston.com/ae/movies/articles/2009/04/03/this_b_movie_tribute_deserves_a_b_plus/</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>Retro escapist fun.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2009/04/02/MVSM16R5VT.DTL&amp;type=movies</url>
+         <critic>Peter Hartlaub</critic>
+      </review>
+      <review>
+         <snippet>Good silly fun, Alien Trespass is a dead-on spoof of cheapo '50s sci-fi programmers done with plenty of self-deprecating humor.</snippet>
+         <url>http://www.variety.com/review/VE1117939324.html?categoryid=31&amp;cs=1&amp;query=alien+trespass</url>
+         <critic>Todd McCarthy</critic>
+      </review>
+      <review>
+         <snippet>This is an impressively realized (and, yes, occasionally, unavoidably humorous) valentine to Hollywood's sci-fi glory days – all heart, no snark, and one big eye.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A760625</url>
+         <critic>Marc Savlov</critic>
+      </review>
+      <review>
+         <snippet>A campy homage to those days of malt shops, drive-ins, and saucer-shaped UFOs - you know, the ones that go crashing into nearby buttes, unleashing terrible terrors from another galaxy.</snippet>
+         <url>http://www.philly.com/inquirer/columnists/steven_rea/20090403_A_mildly_amusing__Blob__salute.html</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>Although it's refreshing that Alien Trespass doesn't indulge in the sort of mindless, gross-out humor that afflicts so many current cinematic spoofs, it errs too much on the other side, offering mere pastiche instead of witty satire.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film-reviews/film-review-alien-trespass-1003958684.story</url>
+         <critic>Frank Scheck</critic>
+      </review>
+      <review>
+         <snippet>It tries to be the best bad movie that it can be.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20090401/REVIEWS/904029993</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>While Alien Trespass stays true to the era and the genre, it forgets that its mission in this galaxy is not merely to pay tribute but to entertain.</snippet>
+         <url>http://www.latimes.com/entertainment/la-et-alien3-2009apr03,0,4454179.story</url>
+         <critic>Betsy Sharkey</critic>
+      </review>
+      <review>
+         <snippet>Alien Trespass is good-natured, but it's a wan send-up. When it comes to paying homage to classic "B" horror movies, "Monsters vs. Aliens" is the more clever alternative.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2009-04-02-alien-review_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>Those who fondly recall "The Blob" would seem to be the target crowd for a fastidious pastiche that attempts to coax laughs by maintaining a poker face.</snippet>
+         <url>http://www.washingtonpost.com/gog/movies/alien-trespass,1156091.html</url>
+         <critic>Jan Stuart</critic>
+      </review>
+      <review>
+         <snippet>A charmingly sentimental but ultimately pointless hommage to the sci-fi classics of yesteryear, Alien Trespass proves only that while styles and technology have moved on, the affection for corn is everlasting.</snippet>
+         <url>http://movies.nytimes.com/2009/04/03/movies/03tres.html?ref=movies</url>
+         <critic>Jeannette Catsoulis</critic>
+      </review>
+      <review>
+         <snippet>Sadly, laughs are sparse in this labor of love, a self-conscious spoof by longtime "X-Files" producer R.W. Goodwin.</snippet>
+         <url>http://www.nypost.com/seven/04032009/entertainment/movies/humor_is_an_alien_concept_here_162579.htm</url>
+         <critic>Staff (Not credited)</critic>
+      </review>
+      <review>
+         <snippet>Director R.W. Goodwin (an "X-Files" vet) makes a fatal mistake: He never takes a clear stance on the material he's spoofing.</snippet>
+         <url>http://www.oregonlive.com/movies/index.ssf/2009/04/review_back_to_the_future_alie.html</url>
+         <critic>M. E. Russell</critic>
+      </review>
+      <review>
+         <snippet>The pleasures of genre depend on invention within margins, not just prop department scavenger hunting.</snippet>
+         <url>http://www.villagevoice.com/2009-04-01/film/diluted-nostalgia-marks-alien-trespass/</url>
+         <critic>Nick Pinkerton</critic>
+      </review>
+      <review>
+         <snippet>Even the movie's rubber monsters look tired.</snippet>
+         <url>http://www.avclub.com/articles/alien-trespass,26072/</url>
+         <critic>Keith Phipps</critic>
+      </review>
+      <review>
+         <snippet>Too slavish in its devotion to 50s sci-fi conventions to work as parody or camp, this indie comedy by "The X-Files" alumnus R.W. Goodwin sinks under the weight of its homage.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/34239_ALIEN_TRESPASS.html</url>
+         <critic>Andrea Gronvall</critic>
+      </review>
+      <review>
+         <snippet>Alien Trespass needs to be buried for another 50 years and then unearthed to be studied for how tributes can go oh so wrong.</snippet>
+         <url>http://movies.tvguide.com/detail/movie.aspx?tvobjectid=297046&amp;more=ucmoviereview</url>
+         <critic>Jeremy Wheeler</critic>
+      </review>
+      <review>
+         <snippet>The movie doesn't try for "Airplane!" or even "Scary Movie"-type ribbing, but its adherence to the genre isn't quite pure, either. Despite McCormack's good-natured efforts, this is "MADtv"-quality satire.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2009/04/03/2009-04-03_short_takes.html</url>
+         <critic>Joe Neumaier</critic>
+      </review>
+   </reviews>
+   <US_Gross>$104,526</US_Gross>
+   <weekend_gross>$43,437</weekend_gross>
+   <number_of_screens>40</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Badland</name>
+   <company>Badland Corporation</company>
+   <genres>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author>Francesco Lucente</author>
+   </authors>
+   <directors>
+      <director>Francesco Lucente</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Jamie Draven</actor>
+      <actor>Grace Fulton</actor>
+      <actor>Vinessa Shaw</actor>
+      <actor>Joe Morton</actor>
+      <actor>Chra West</actor>
+   </actors>
+   <release_date>November 30, 2007</release_date>
+   <running_time>160</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>It unflinchingly illuminates the toll exacted by the Iraq War in a raw, deeply personal and completely compelling manner.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-badland30nov30,0,3184943.story?coll=cl-mreview</url>
+         <critic>Kevin Thomas</critic>
+      </review>
+      <review>
+         <snippet>Says many things at once without much perspective or clarity.</snippet>
+         <url>http://www.tvguide.com/movies/badland/review/291212</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>This overlong, mawkish yet weirdly mesmerizing film doesn’t just invite identification with its tragically unhinged character; it compels it, by piling on biblically horrible misfortunes, weepy confessions and editorializing music.</snippet>
+         <url>http://movies.nytimes.com/2007/11/30/movies/30badl.html?ref=movies</url>
+         <critic>Matt Zoller Seitz</critic>
+      </review>
+      <review>
+         <snippet>A strenuously solemn film that wants to create some kind of American pastoral tragedy out of the nation's current angst with the war.</snippet>
+         <url>http://www.variety.com/review/VE1117935546.html?categoryid=31&amp;cs=1</url>
+         <critic>Robert Koehler</critic>
+      </review>
+      <review>
+         <snippet>Possibly the worst idea for a movie this century.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2007/11/30/2007-11-30_soldierslaughter_saga_badland_comes_up_r.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>Writer-director Francesco Lucente's overconfident, emotionally forced 160-minute opus offers trite antiwar platitudes--at best--in chronicling the anguished existence of a soldier who can't shake the horrors he experienced in Fallujah.</snippet>
+         <url>http://www.villagevoice.com/film/0748,various,78465,20.html</url>
+         <critic>Aaron Hillis</critic>
+      </review>
+      <review>
+         <snippet>Badland's only commercial potential lies in the possibility that people may confuse it for Terrence Malick's incomparable "Badlands."</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A596087</url>
+         <critic>Marjorie Baumgarten</critic>
+      </review>
+      <review>
+         <snippet>The year's dullest movie has arrived: the deeply silly Badland, which is as dead as winter and twice as long.</snippet>
+         <url>http://www.nypost.com/seven/11302007/entertainment/movies/badland_22385.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>Overlong, over-the-top dirge.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?JSESSIONID=ytCQHJPc3LM1pzVv1tfFL0v5GWtMqh9Wz4vJ4bqK1SXpm27gjZSp!-556992676&amp;&amp;rid=10261</url>
+         <critic>Michael Rechtshaffen</critic>
+      </review>
+   </reviews>
+   <US_Gross>$1,924</US_Gross>
+   <weekend_gross>$1,924</weekend_gross>
+   <number_of_screens>2</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

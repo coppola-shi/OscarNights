@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Surfwise</name>
+   <company>Magnolia Pictures</company>
+   <genres>
+      <genre>Documentary</genre>
+   </genres>
+   <authors>
+      <author>Doug Pray</author>
+   </authors>
+   <directors>
+      <director>Doug Pray</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Dorian Paskowitz</actor>
+      <actor>Juliette Paskowitz</actor>
+      <actor>Israel Paskowitz</actor>
+      <actor>Jonathan Paskowitz</actor>
+   </actors>
+   <release_date>May 9, 2008</release_date>
+   <running_time>93</running_time>
+   <rating>May</rating>
+   <reviews>
+      <review>
+         <snippet>Doug Pray's cool documentary about 85-year-old Dr. Dorian Paskowitz, his wife, and their eight sons and one daughter is about surfing insofar as surfing is the family's shared passion.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20200501,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>How can a freethinking father mandate his ideals without violating them? Pray covers it all, and movingly so.</snippet>
+         <url>http://www.avclub.com/content/cinema/surfwise</url>
+         <critic>Noel Murray</critic>
+      </review>
+      <review>
+         <snippet>Pray has a great story here, but it's much more than just "The Brady Bunch's Endless Summer."</snippet>
+         <url>http://www.philly.com/philly/entertainment/movies/20080627_A_surfer_family_s_turbulent_life.html</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>It's a fascinating patchwork.</snippet>
+         <url>http://blog.oregonlive.com/madaboutmovies/2008/06/review_foam_and_family_in_surf.html</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>As you watch Doc Paskowitz perform for Mr. Pray's camera, it's hard not to judge him harshly. His narcissism seems boundless, even when he cloaks it in self-deprecation.</snippet>
+         <url>http://online.wsj.com/article/SB121149576571615671.html</url>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>Doug Pray’s wonderfully engaging look at love and family and the relentless pursuit of happiness, personal meaning and perfect waves.</snippet>
+         <url>http://movies.nytimes.com/2008/05/09/movies/09surf.html?ref=movies</url>
+         <critic>Manohla Dargis</critic>
+      </review>
+      <review>
+         <snippet>Pray maintains a steadfastly objective viewpoint, and it's a testament to his film's success that it can accommodate the audience's inevitably shifting allegiances from one family member to the next.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A631285</url>
+         <critic>Kimberley Jones</critic>
+      </review>
+      <review>
+         <snippet>Chalk up another family for Leo Tolstoy and Philip Larkin file: The Paskowitz family is unhappy in its own unique way and mum and dad f**cked them up -- they didn't mean to, but they did.</snippet>
+         <url>http://www.tvguide.com/movies/surfwise/review/292713</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>The movie feels exhaustive in its loaded 90-something minutes, showing and telling us much while leaving the meaning of the tangles and twists in this family open to interpretation. For once, the tip of the iceberg is enough.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=11556</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>Presents an almost fawning portrait of the doctor-turned-surfer.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2008/06/12/DDNK117HLS.DTL&amp;type=movies</url>
+         <critic>Peter Hartlaub</critic>
+      </review>
+      <review>
+         <snippet>What are we to make of this existence? Doc sees himself a messiah of surfing, clean living and healthy exercise. We might be more inclined to see him as a narcissistic monster, ruling his big family with an iron fist.</snippet>
+         <url>http://www.rogerebert.com/apps/pbcs.dll/article?AID=/20080619/REVIEWS/384285271/1023</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>The film is a restrained, straightforward report about an iconoclastic family whose pain and dysfunction play out against a backdrop of tumbling ocean waves, muscular surfers and golden sunsets.</snippet>
+         <url>http://chicago.metromix.com/movies/movie_review/movie-review-surfwise/463139/content</url>
+         <critic>Sid Smith</critic>
+      </review>
+      <review>
+         <snippet>Filmmaker Pray, who is building an impressive body of documentaries on American subcultures, including the Seattle grunge scene in "Hype," graffiti artists in "Infamy" and truckers in "Big Rig," does an admirable job of allowing his subjects to represent themselves.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/365077_surfwise30q.html</url>
+         <critic>Bill White</critic>
+      </review>
+      <review>
+         <snippet>Insightful, free-roaming but tautly constructed.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1147420&amp;categories=Movies&amp;nm=1</url>
+         <critic>John Anderson</critic>
+      </review>
+      <review>
+         <snippet>While the archival footage is fun, it's ultimately those bittersweet recollections of his equally energetic wife and adult children that give Surfwise its compelling edge.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?&amp;rid=11068</url>
+         <critic>Michael Rechtshaffen</critic>
+      </review>
+      <review>
+         <snippet>Pray unfolds the family's story with patience and skill, making it both a compliment and a complaint to say that he leaves us wanting to know much more.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2008/05/09/2008-05-09_short_takes_more_movie_reviews.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>What Surfwise reveals is that the dark side of the surfing doctor was that he could be a terrible tyrant, someone whose controlling, self-centered rigidity limited his children in ways large and small as much as it gave them richer lives.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-surfwise23-2008may23,0,6633067.story</url>
+         <critic>Kenneth Turan</critic>
+      </review>
+      <review>
+         <snippet>Somewhat forced happy ending aside, the pic holds together well.</snippet>
+         <url>http://www.variety.com/review/VE1117934786.html?categoryid=31&amp;cs=1&amp;p=0</url>
+         <critic>Dennis Harvey</critic>
+      </review>
+      <review>
+         <snippet>Whether you call this a Rousseau-ian paradise or "Capturing the Friedmans" by the Sea will depend on where you stand on hippie living--up to a point.</snippet>
+         <url>http://www.villagevoice.com/film/0819,paradise-lost,433817,20.html</url>
+         <critic>Ella Taylor</critic>
+      </review>
+      <review>
+         <snippet>The fallout decades later provides the drama in this documentary by Doug Pray (Hype!), who lets his eccentric octogenarian subject off a little too easy.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/33240_SURFWISE.html</url>
+         <critic>Andrea Gronvall</critic>
+      </review>
+   </reviews>
+   <US_Gross>$269,994</US_Gross>
+   <weekend_gross>$10,304</weekend_gross>
+   <number_of_screens>1</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

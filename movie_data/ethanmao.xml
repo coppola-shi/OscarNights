@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Ethan Mao</name>
+   <company>Margin Films</company>
+   <genres>
+      <genre>Drama</genre>
+      <genre>GayLesbian</genre>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>Quentin Lee</author>
+   </authors>
+   <directors>
+      <director>Quentin Lee</director>
+   </directors>
+   <origins>
+      <origin>CanadaUSA</origin>
+   </origins>
+   <actors>
+      <actor>Jun Hee Lee</actor>
+      <actor>Raymond Ma</actor>
+      <actor>Julia Nickson-Soul</actor>
+      <actor>Kevin Kleinberg</actor>
+      <actor>Jerry Hernez</actor>
+      <actor>Mary Gilbert</actor>
+      <actor>David Tran</actor>
+      <actor>Rene DeLeon</actor>
+   </actors>
+   <release_date>June 17, 2005</release_date>
+   <running_time>87</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>Provocative and poignant.</snippet>
+         <url>http://www.filmthreat.com/Reviews.asp?Id=7298</url>
+         <critic>Phil Hall</critic>
+      </review>
+      <review>
+         <snippet>At once a tender love story and a psychological suspense drama that lays bare the acute tensions that threaten to tear apart an upwardly mobile suburban L.A. Chinese American family.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-ethan12aug12,0,1906339.story</url>
+         <critic>Kevin Thomas</critic>
+      </review>
+      <review>
+         <snippet>Without contrivances, the movie would only run about five minutes.</snippet>
+         <url>http://www.theavclub.com/review.php?review_id=8604</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>Messy admixtures of drama and mockery crucially undermine pic's serious message.</snippet>
+         <url>http://www.variety.com/review/VE1117925620?categoryid=31&amp;cs=1</url>
+         <critic>Robert Koehler</critic>
+      </review>
+      <review>
+         <snippet>Lee obviously wants to portray Ethan as something other than the dutiful No. 1 son, but Ethan isn't entirely convincing as a doped-up street hustler.</snippet>
+         <url>http://tvguide.com/movies/database/ShowMovie.asp?MI=46197</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>By the time we reach the "Butch Cassidy"-inspired climax, any filaments of credibility still clinging to these characters have completely disappeared.</snippet>
+         <url>http://movies2.nytimes.com/2005/06/17/movies/17etha.html</url>
+         <critic>Jeannette Catsoulis</critic>
+      </review>
+      <review>
+         <snippet>"Soppy" doesn't begin to describe this 2004 drama by Quentin Lee.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/capsules/27781_ETHAN_MAO</url>
+         <critic>Andrea Gronvall</critic>
+      </review>
+      <review>
+         <snippet>The one highlight is Julia Nickson, who breathes life into the role of Ethan's evil stepmom.</snippet>
+         <url>http://www.nypost.com/movies/48514.htm</url>
+         <critic>V.A. Musetto</critic>
+      </review>
+      <review>
+         <snippet>Nobody onscreen seems to realize that this deadeningly self-serious treatment of family dysfunction is so overwrought that it becomes a spot-on satire of low-budget ineptitude.</snippet>
+         <url>http://www.laweekly.com/film/film_results.php?showid=3502&amp;Sumbit.x=55&amp;Sumbit.y=11</url>
+         <critic>Tim Grierson</critic>
+      </review>
+      <review>
+         <snippet>An exhausting exercise in genre mixing.</snippet>
+         <url>http://www.villagevoice.com/film/0524,tracking4,64925,20.html</url>
+         <critic>R. Emmet Sweeney</critic>
+      </review>
+      <review>
+         <snippet>Desperately wants to deal dramatically with the legitimate issues of homosexuality, tolerance, homelessness and drug use. But to do so, the movie, like Ethan, would first need to grow up.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2005/04/08/DDGVNC45RO1.DTL</url>
+         <critic>John McMurtrie</critic>
+      </review>
+   </reviews>
+   <US_Gross>$10,178</US_Gross>
+   <weekend_gross>$3,356</weekend_gross>
+   <number_of_screens>1</number_of_screens>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

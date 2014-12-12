@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Everything&amp;#039;s Cool</name>
+   <company>City Lights Pictures</company>
+   <genres>
+      <genre>Documentary</genre>
+   </genres>
+   <authors>
+      <author>Daniel B. Gold</author>
+      <author>Judith Helfand</author>
+   </authors>
+   <directors>
+      <director>Daniel B. Gold</director>
+      <director>Judith Helfand</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors/>
+   <release_date>November 23, 2007</release_date>
+   <running_time>88</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>I really liked this film more than I did “An Inconvenient Truth,” as Everything’s Cool made the subject matter into a palatable form that actually made it interesting instead of depressing.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=9660</url>
+         <critic>Zack Haddad</critic>
+      </review>
+      <review>
+         <snippet>Can a movie about global warming genuinely be called lighthearted? If so, Daniel B. Gold and Judith Helfand's Everything's Cool comes as close as one imagines possible, essaying yet more inconvenient truths about the potential future of our planet in the same buoyant, irreverent style the filmmakers brought to their last activist docu, "Blue Vinyl."</snippet>
+         <url>http://www.variety.com/review/VE1117932935.html?categoryid=31&amp;cs=1&amp;p=0</url>
+         <critic>Scott Foundas</critic>
+      </review>
+      <review>
+         <snippet>Just below the movie’s attitude of pep-rally cheer is a mood that approaches despair. Mr. Gelbspan has probably amassed as much hard evidence of climate change as anyone alive.</snippet>
+         <url>http://movies.nytimes.com/2007/11/23/movies/23cool.html?ref=movies</url>
+         <critic>Stephen Holden</critic>
+      </review>
+      <review>
+         <snippet>The film gets off to a slow start and runs long, but Gold and Helfand effectively stake out their own piece of a large and complicated issue.</snippet>
+         <url>http://www.tvguide.com/movies/everythings-cool/review/291206</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>Gratingly condescending toward its audience and sorely lacking in any substantive information about the problem or the solution.</snippet>
+         <url>http://www.villagevoice.com/film/0747,wallace,78419,20.html</url>
+         <critic>Julia Wallace</critic>
+      </review>
+      <review>
+         <snippet>The movie falls into all the usual rhetorical traps.</snippet>
+         <url>http://www.nypost.com/seven/11232007/entertainment/movies/global_warming_tale_isnt_cool_12359.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+   </reviews>
+   <US_Gross>$4,890</US_Gross>
+   <weekend_gross>$2,641</weekend_gross>
+   <number_of_screens>2</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

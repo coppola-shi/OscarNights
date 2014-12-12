@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Underdog</name>
+   <company>Disney</company>
+   <genres>
+      <genre>Action</genre>
+      <genre>Adventure</genre>
+      <genre>Comedy</genre>
+      <genre>FamilyKids</genre>
+      <genre>Fantasy</genre>
+      <genre>Scifi</genre>
+   </genres>
+   <authors>
+      <author>Joe Piscatella</author>
+      <author>Craig A. Williams</author>
+      <author>Adam Rifkin</author>
+   </authors>
+   <directors>
+      <director>Frederik Du Chau</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Alex Neuberger</actor>
+      <actor>Jason Lee</actor>
+      <actor>Amy Adams</actor>
+      <actor>Peter Dinklage</actor>
+      <actor>Patrick Warburton</actor>
+      <actor>James Belushi</actor>
+   </actors>
+   <release_date>August 3, 2007</release_date>
+   <running_time>minutes,</running_time>
+   <rating>PG</rating>
+   <reviews>
+      <review>
+         <snippet>This digitized update, with Jason Lee as a huskier, more generic Underdog, mostly drops the doggerel, but the endearing airborne-beagle effects help to offset the formula twists.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20050620,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>If you're expecting anything resembling the beloved cartoon, you'll enjoy the title sequence and nothing else. If, however, you set your expectations just low enough, or are an easily satisfied 8-year-old, you might have a bit of fun.</snippet>
+         <url>http://www.tvguide.com/movies/underdog/review/289377</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>Made for viewers old enough to appreciate a talking pooch but too young to read or write about it.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2007/08/04/2007-08-04_have_no_fear_caped_k9_movie_isnt_a_dog.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>The movie isn't nearly as bad as you would expect when the studio holds its only press screening the night before a national opening.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?JSESSIONID=GKgQGzyQvq6JMnQ11JPJVdTBShvZPp9TbMgtQ4jDHMVxb8nhGFMh!-1794785973&amp;&amp;rid=9580</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>Falls somewhere between stale retread and half-hearted parody of superhero-movie formulas.</snippet>
+         <url>http://www.variety.com/review/VE1117934324.html?categoryid=31&amp;cs=1</url>
+         <critic>Justin Chang</critic>
+      </review>
+      <review>
+         <snippet>Even the promising team of Peter Dinklage’s mad scientist Simon Barsinister and Patrick Warburton’s henchman Cad turns out to be a bust.</snippet>
+         <url>http://www.laweekly.com/film+tv/film-reviews/film-reviews-bratz-el-cantante-hot-rod-and-more/16950/?page=3</url>
+         <critic>Jim Ridley</critic>
+      </review>
+      <review>
+         <snippet>Despite the talent on show, there's little to distinguish this from any other bland family comedy.</snippet>
+         <url>http://www.empireonline.com/reviews/reviewcomplete.asp?FID=134053</url>
+         <critic>Anna Smith</critic>
+      </review>
+      <review>
+         <snippet>The elements of the film don’t quite mesh: The villains are cartoony, but Du Chau aims for soggy family drama in his father-son story.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A509322</url>
+         <critic>Marrit Ingman</critic>
+      </review>
+      <review>
+         <snippet>The TV show was mildly subversive, with humor that children and adults could enjoy on different levels, but the movie strives for a blander, family-oriented middle ground.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/31882_UNDERDOG.html</url>
+         <critic>Joshua Katzman</critic>
+      </review>
+      <review>
+         <snippet>Regardless, what probably made the show so tolerable and popular was the fact that each episode was under a half an hour long. This movie is about 84 minutes long and gets tiresome after the first 20 minutes or so.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=10216</url>
+         <critic>Michael Ferraro</critic>
+      </review>
+      <review>
+         <snippet>For adults -- even adults with fond memories of the TV series -- this is one bizarre mess.</snippet>
+         <url>http://www.premiere.com/moviereviews/3997/underdog.html</url>
+         <critic>Glenn Kenny</critic>
+      </review>
+      <review>
+         <snippet>The bite and bark of Underdog are both pretty awful, but little kids might take this pooch for a walk.</snippet>
+         <url>http://www.nypost.com/seven/08042007/entertainment/movies/dog_days_of_summer_movies_kyle_smith.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>Underdog!  Rest assured, there is no superhero cliche left unchewed; they even manage to slide in a "Lady and the Tramp" homage while they're at it.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=8935</url>
+         <critic>Janice Page</critic>
+      </review>
+      <review>
+         <snippet>Underdog may have been originally created to sell cereal for General Mills, but this latest incarnation couldn't sell Frisbees at a dog park.</snippet>
+         <url>http://movies.nytimes.com/2007/08/04/movies/04unde.html?ref=movies</url>
+         <critic>Jeannette Catsoulis</critic>
+      </review>
+      <review>
+         <snippet>Director Frederik Du Chau's big-screen Underdog has all of the cartoons' crudeness and none of their charm. It's the celluloid equivalent of sugar cereal: cheap, empty and headache-inducing.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-underdog6aug06,0,2235314.story?coll=cl-mreview</url>
+         <critic>Sam Adams</critic>
+      </review>
+      <review>
+         <snippet>The result is unfit for humankind.</snippet>
+         <url>http://www.avclub.com/content/cinema/underdog</url>
+         <critic>Scott Tobias</critic>
+      </review>
+   </reviews>
+   <US_Gross>$43,760,605</US_Gross>
+   <weekend_gross>$11,585,121</weekend_gross>
+   <number_of_screens>3,013</number_of_screens>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

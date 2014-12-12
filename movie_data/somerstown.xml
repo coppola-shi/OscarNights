@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Somers Town</name>
+   <company>Film Movement</company>
+   <genres>
+      <genre>Comedy</genre>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author>Paul Fraser</author>
+   </authors>
+   <directors>
+      <director>Shane Meadows</director>
+   </directors>
+   <origins>
+      <origin>UK</origin>
+   </origins>
+   <actors>
+      <actor>Thomas Turgoose</actor>
+      <actor>Piotr Jagiello</actor>
+      <actor>Ireneusz Czop</actor>
+      <actor>Perry Benson</actor>
+      <actor>Kate Dickie</actor>
+   </actors>
+   <release_date>July 15, 2009</release_date>
+   <running_time>75</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>Somers Town, is a trifle: A short black-and-white lark with sharp edges and a soft center. It has its raptures, though, and then some. A disarmingly slight tale of adolescent friendship, Somers Town is one of those rare movies that seems to discover itself as you watch it.</snippet>
+         <url>http://www.boston.com/ae/movies/articles/2009/09/04/somers_town_a_slice_of_life_in_an_unforgiving_london/</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>The result is a movie that feels enjoyably aimless--one that invites viewers to just hang out for an hour.</snippet>
+         <url>http://www.avclub.com/articles/somers-town,30369/</url>
+         <critic>Noel Murray</critic>
+      </review>
+      <review>
+         <snippet>A small but important film about small but important lives, the latest drama from Shane Meadows further confirms that more people should know about this gifted director.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2009/07/17/2009-07-17_short_movie_reviews_death_in_love_.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>A funny and endearing character comedy whose extra-brief, 70-minute running time proves perfectly adequate for its slender, episodic story.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-capsules7-2009aug07,0,2150171.story</url>
+         <critic>Gary Goldstein</critic>
+      </review>
+      <review>
+         <snippet>Meadows in a minor key but still a major delight; his improvised feel, sparky comedy and interest in the truth of youth services a story that’s both winning and winsome.</snippet>
+         <url>http://www.empireonline.com/reviews/reviewcomplete.asp?DVDID=117977</url>
+         <critic>Ian Freer</critic>
+      </review>
+      <review>
+         <snippet>Meadows and cinematographer Natasha Braier present their story with a gritty, unfussy lyricism that finds unexpected glimpses of beauty in overlooked corners of London.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?&amp;rid=11303</url>
+         <critic>Neil Young</critic>
+      </review>
+      <review>
+         <snippet>Just when this black-and-white, microbudget movie seems poised to spring an indictment of the Dickensian social order, it ends, but in a redemptive ray of color.</snippet>
+         <url>http://www.stltoday.com/stltoday/entertainment/reviews.nsf/movie/story/B03269E33A18D5FA86257648006DFE2C?OpenDocument</url>
+         <critic>Joe Williams</critic>
+      </review>
+      <review>
+         <snippet>Like its star, the movie is too short and a little thin but just about perfect.</snippet>
+         <url>http://www.nypost.com/seven/07152009/entertainment/movies/pole_finds_a_low_man_179347.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>Basically a comedy but with typically Meadowsian dark edges, it forms an affectionate tribute to cross-cultural friendship and the rapidly changing landscape known as Somers Town.</snippet>
+         <url>http://www.variety.com/index.asp?layout=festivals&amp;jump=review&amp;id=2478&amp;reviewid=VE1117936149&amp;cs=1</url>
+         <critic>Leslie Felperin</critic>
+      </review>
+      <review>
+         <snippet>An agreeable if slight, vaguely sketched character study times two.</snippet>
+         <url>http://movies.nytimes.com/2009/07/15/movies/15somers.html?ref=movies</url>
+         <critic>Manohla Dargis</critic>
+      </review>
+      <review>
+         <snippet>Without ever trivializing his characters' meager circumstances or resorting to the rags-to-riches fantasy of "Slumdog Millionaire," Meadows has made a lovely film about the ability of the imagination to offset the harshness of reality.</snippet>
+         <url>http://www.villagevoice.com/2009-07-15/film/somers-town-gets-at-the-heart-of-working-class-london/</url>
+         <critic>Scott Foundas</critic>
+      </review>
+   </reviews>
+   <US_Gross>$54,526</US_Gross>
+   <weekend_gross>$7,452</weekend_gross>
+   <number_of_screens>1</number_of_screens>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

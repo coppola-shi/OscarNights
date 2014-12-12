@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Congo: White King, Red Rubber, Black Death</name>
+   <company>ArtMattan Productions</company>
+   <genres>
+      <genre>Documentary</genre>
+      <genre>Foreign</genre>
+   </genres>
+   <authors>
+      <author>Peter Bate</author>
+   </authors>
+   <directors>
+      <director>Peter Bate</director>
+   </directors>
+   <origins>
+      <origin>BelgiumUK</origin>
+   </origins>
+   <actors/>
+   <release_date>October 21, 2005</release_date>
+   <running_time>83</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>British documentarian Peter Bate frames a mix of archival materials and re-creations with a "trial" at which Leopold listens to testimony against him from within a wood-and-glass booth, like Nazi Adolf Eichmann at Nuremberg.</snippet>
+         <url>http://online.tvguide.com/movies/database/ShowMovie.asp?MI=46520</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>A stunning indictment of Belgium's brutal colonization of the Congo in the late 19th century, Brit documaker Peter Bate's White King, Red Rubber, Black Death illustrates how European exploitation in Africa caused irreparable damage to the continent.</snippet>
+         <url>http://www.variety.com/review/VE1117926558?categoryid=31&amp;cs=1</url>
+         <critic>Robert Koehler</critic>
+      </review>
+      <review>
+         <snippet>Dramatization is often a questionable tactic in documentaries, but by picturing Leopold (Elie Larson) on trial like Adolf Eichmann, Peter Bate adroitly compares the colonial genocide to the Holocaust.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/capsules/28166_CONGO_WHITE_KING_RED_RUBBER_BLACK_DEATH</url>
+         <critic>Andrea Gronvall</critic>
+      </review>
+      <review>
+         <snippet>A remarkable triumph of documentary filmmaking. It is impossible to walk away from this film without being jolted.</snippet>
+         <url>http://www.filmthreat.com/Reviews.asp?Id=7920</url>
+         <critic>Phil Hall</critic>
+      </review>
+      <review>
+         <snippet>Bate is to be congratulated for reminding the world of Leopold's wickedness, even if he does OD on re-enactments.</snippet>
+         <url>http://www.nypost.com/movies/55812.htm</url>
+         <critic>V.A. Musetto</critic>
+      </review>
+      <review>
+         <snippet>Unfortunately, Bate saddles his otherwise compelling chronicle with awkward re-creations and an aggressively overbearing narration.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/moviereviews/story/357797p-304686c.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>Regrettably, Bate uses many of the tools of tabloid television in making his case, including heavy-handed reenactments, an ominous, sinister score, and overly dramatic narration delivered in a voice shaking with outrage.</snippet>
+         <url>http://avclub.com/content/node/41720</url>
+         <critic>Nathan Rabin</critic>
+      </review>
+      <review>
+         <snippet>A formal hodgepodge, Congo suffers from abrasive voice-over narration, stilted re-enactments, and an awkward courtroom conceit, but gets by on its shocking material.</snippet>
+         <url>http://www.villagevoice.com/film/0542,tracking2,68977,20.html</url>
+         <critic>Joshua Land</critic>
+      </review>
+      <review>
+         <snippet>Although too compressed by half, the film manages to recreate what, at one point, the hectoring narrator will call an "archaeology of repression."</snippet>
+         <url>http://movies2.nytimes.com/2005/10/21/movies/21cong.html</url>
+         <critic>Manohla Dargis</critic>
+      </review>
+   </reviews>
+   <US_Gross>$3,238</US_Gross>
+   <weekend_gross>$3,238</weekend_gross>
+   <number_of_screens>1</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

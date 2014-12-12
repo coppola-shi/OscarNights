@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Public Enemies</name>
+   <company>Universal Pictures</company>
+   <genres>
+      <genre>Crime</genre>
+      <genre>Drama</genre>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>Bryan Burrough</author>
+      <author>Ann Biderman</author>
+      <author>Michael Mann</author>
+      <author>Ronan Bennett</author>
+   </authors>
+   <directors>
+      <director>Michael Mann</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Johnny Depp</actor>
+      <actor>Christian Bale</actor>
+      <actor>Marion Cotillard</actor>
+      <actor>Giovanni Ribisi</actor>
+      <actor>Billy Crudup</actor>
+      <actor>Stephen Dorff</actor>
+      <actor>Rory Cochrane</actor>
+      <actor>Channing Tatum</actor>
+   </actors>
+   <release_date>July 1, 2009</release_date>
+   <running_time>140</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>Intelligent and challenging: Mann's crime epic could take two viewings to fully absorb, but it's worth every devoted minute.</snippet>
+         <url>http://www.empireonline.com/reviews/reviewcomplete.asp?FID=136004</url>
+         <critic>Ian Nathan</critic>
+      </review>
+      <review>
+         <snippet>This is the purest of American narratives, and this, indeed, is one of our finest storytellers.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=11799</url>
+         <critic>Matthew Sorrento</critic>
+      </review>
+      <review>
+         <snippet>Simultaneously an art film and a crime film, Mann's latest work may not give you a ton to hang on to emotionally, but the beauty and skill of the filmmaking keep you tightly in its grasp.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-enemies1-2009jul01,0,3513739.story</url>
+         <critic>Kenneth Turan</critic>
+      </review>
+      <review>
+         <snippet>A grave and beautiful work of art.</snippet>
+         <url>http://movies.nytimes.com/2009/07/01/movies/01enemies.html?ref=movies</url>
+         <critic>Manohla Dargis</critic>
+      </review>
+      <review>
+         <snippet>Mann's exhilarating movie exists in a state of perpetual forward motion.</snippet>
+         <url>http://www.villagevoice.com/2009-07-01/film/the-life-and-crimes-of-john-dillinger-in-public-enemies/</url>
+         <critic>Scott Foundas</critic>
+      </review>
+      <review>
+         <snippet>Public Enemies comes at you like Dillinger did: all of a sudden. It's movie dynamite.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/21799117/review/28816302/public_enemies</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>Without ever telling viewers what to think or how to feel, it raises more questions about the corruption of crime and crime fighting than any expose or thesis.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-public-enemies-review0630,0,4844296.story</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>This is a very good film, with Depp and Bale performances of brutal clarity. I'm trying to understand why it is not quite a great film. I think it may be because it deprives me of some stubborn need for closure.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20090629/REVIEWS/906299997</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>Michael Mann's extraordinary Public Enemies is an unusual sort of gangster picture, a near-impressionistic recreation of the last year in the life of one of American history's most notorious bank robbers.</snippet>
+         <url>http://www.miamiherald.com/entertainment/movies/reviews/story/1120878.html</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>The picture throws off an aura of wistfulness, which may be Mann's acknowledgment that of course he can't re-create the past. The best he can do is to honor the idea of it, storybook-style, and to remind us that before there was gangsta, there were gangsters.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2009/07/01/_public_enemies/index.html</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>Cotillard doesn't look part Native American or sound like a Thirties Chicago moll, but damned if she isn't a sight and sound to behold. Whatever her technical limitations, she rises above them to breathe a flesh, blood, and battered verisimilitude into the part. You can't tear your eyes off her, any more than you can Mann's flawed but still engrossing picture.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A797649</url>
+         <critic>Kimberley Jones</critic>
+      </review>
+      <review>
+         <snippet>This is better than your average bio-pic. The dynamic established between the motivation of Bale’s and Depp’s characters is really what makes this film. Kudos also go out to Channing Tatum as Pretty Boy Floyd.</snippet>
+         <url>http://www.premiere.com/Review/Movies/Public-Enemies</url>
+         <critic>Robert Calvert</critic>
+      </review>
+      <review>
+         <snippet>The problem here is that while some of Mann's work is overwhelmingly great, the sum of it simply never compels.</snippet>
+         <url>http://blog.oregonlive.com/madaboutmovies/2009/06/public_enemies_a_poem_in_searc.html</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>If Public Enemies lacks anything, it's something audiences can't legitimately expect to find: a certain EXTRA something.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2009/06/30/DDP918FCLP.DTL</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>For people who loved "Heat," this is a tour de force.</snippet>
+         <url>http://movies.tvguide.com/public-enemies/review/297352</url>
+         <critic>Cammila Albertson</critic>
+      </review>
+      <review>
+         <snippet>It's quite engaging. It is competently constructed and often compelling, but it will not be mentioned in the same breath as some of its classic predecessors.</snippet>
+         <url>http://www.reelviews.net/php_review_template.php?identifier=1701</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>A welcome adult alternative to summer's sophomoric blockbusters. The only transforming going on here is actors skillfully taking on roles of '30s-era gangsters and lawmen.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2009-06-30-enemies-review_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>It's a fascinating bundle of contradictions -- authentic in a million details, deeply romanticized in others. Cool, calm and collected, this is more love story than gangster picture.</snippet>
+         <url>http://www.chicagotribune.com/entertainment/movies/chi-0701-public-enemies-reviewjul03,0,7541523.story</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>Mann excels at staging the chaotic bank jobs and bloody shootouts that were just a day at the office for Dillinger, but even at 140 minutes the movie is so dense with incident that there isn't much room for cultural comment or character development.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/34530_PUBLIC_ENEMIES.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>Public Enemies has incidental pleasures (its hi-def video palette is fascinatingly weird), but it’s only Depp’s sense of fun that keeps it from being a period gangster museum piece.</snippet>
+         <url>http://nymag.com/movies/reviews/57754/index1.html</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>Marvelously detailed and meticulously crafted, an elegant evocation of Depression-era America and its fascination with crime. What the movie lacks is any sense of elation--it’s joyless by choice.</snippet>
+         <url>http://online.wsj.com/article/film_review.html</url>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>Could have used a lot more grit. Without it, we're left with a crime movie fantasia that slips all too easily into the ether.</snippet>
+         <url>http://www.csmonitor.com/2009/0702/p17s06-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>As filmmaker Michael Mann takes pains to emphasize in his handsome, underheated gangster drama Public Enemies, the gent may have been murderous, but he had style.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20288636,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>Ultimately, the movie's a bust.</snippet>
+         <url>http://www.philly.com/philly/entertainment/movies/20090630_The_1930s_gangster_movie.html</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>Yet, for all its skill, Public Enemies is not quite a great movie. There’s something missing--a sense of urgency and discovery, a more complicated narrative path, a shrewder, tougher sense of who John Dillinger is.</snippet>
+         <url>http://www.newyorker.com/arts/critics/cinema/2009/07/06/090706crci_cinema_denby</url>
+         <critic>David Denby</critic>
+      </review>
+      <review>
+         <snippet>You see the spark of 'this is cool!,' but you don't sense a purpose. The underconceived Public Enemies suffers from that lack of drive, though Johnny Depp is so urgent and charismatic as John Dillinger, he provides enough firepower to make the film legit.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2009/07/01/2009-07-01_public_enemies_is_bloodless_except_for_depp.html</url>
+         <critic>Joe Neumaier</critic>
+      </review>
+      <review>
+         <snippet>Mann reduces a legendary game of cat-and-mouse to the size of a standard police procedural. His refusal to mythologize Dillinger’s exploits is audacious, but too much of Public Enemies feels disappointingly smaller than life.</snippet>
+         <url>http://www.avclub.com/articles/public-enemies,29862/</url>
+         <critic>Keith Phipps</critic>
+      </review>
+      <review>
+         <snippet>The parts, in other words, promise a brilliant whole. So why is this movie one of the signal disappointments of the year? You have to go back to the basics: Public Enemies has everything going for it except a reason and a script.</snippet>
+         <url>http://www.boston.com/ae/movies/articles/2009/07/01/8216public_enemies8217_has_powerful_stars_problematic_script/</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>Perhaps the most regrettable crime here is the way that Mann, trying to do too much, robs himself of a great opportunity. Here was a chance to capture the drama of the Thirties.</snippet>
+         <url>http://www.theglobeandmail.com/news/arts/public-enemies/article1202376/</url>
+         <critic>Liam Lacey</critic>
+      </review>
+      <review>
+         <snippet>The film lacks the juice promised by the teaming of such extraordinary filmmakers with a cast as large as a Hooverville encampment.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film-reviews/public-enemies-film-review-1003987042.story</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>Oddly, too, the film is somewhat shortchanged by its great star, Johnny Depp, who disappointingly has chosen to play Dillinger as self-consciously cool rather than earthy and gregarious.</snippet>
+         <url>http://www.variety.com/review/VE1117940559.html?categoryid=31&amp;cs=1</url>
+         <critic>Todd McCarthy</critic>
+      </review>
+      <review>
+         <snippet>It lacks overall focus, and at the end you may have a question for Michael Mann:  Why'dyou  bother?  [July 6, 2009, p.59]</snippet>
+         <url/>
+         <critic>Richard Corliss</critic>
+      </review>
+      <review>
+         <snippet>Disappointing, curiously uninvolving.</snippet>
+         <url>http://www.nypost.com/seven/06302009/entertainment/movies/a_misdepp_176745.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>It's like spending an afternoon--a long one--at a beautifully lit wax-museum display inspired by earlier gangster movies.</snippet>
+         <url>http://www.slate.com/id/2221855/</url>
+         <critic>Dana Stevens</critic>
+      </review>
+      <review>
+         <snippet>It's also a double-barreled bummer. There's no excitement in the bank-robbing, no thrill of the chase, no emotion over justice served or thwarted. Depp's Dillinger is neither charming nor despicable, nor does he occupy that delicious gray area between the two. His spree unspools dispassionately, cold as a Colt .380.</snippet>
+         <url>http://www.washingtonpost.com/wp-dyn/content/article/2009/06/30/AR2009063004267.html</url>
+         <critic>Dan Zak</critic>
+      </review>
+   </reviews>
+   <US_Gross>$97,104,620</US_Gross>
+   <production_budget>$102,500,000</production_budget>
+   <weekend_gross>$40,141,080</weekend_gross>
+   <number_of_screens>3,334</number_of_screens>
+   <oscar_winning_actors_present/>
+   <num_oscar_winning_actors>1</num_oscar_winning_actors>
+   <oscar_winning_actor>marion cotillard</oscar_winning_actor>
+   <highest_grossing_actors_present/>
+   <num_highest_grossing_actors>1</num_highest_grossing_actors>
+   <highest_grossing_actor>johnny depp</highest_grossing_actor>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>true</independence_release>
+   <labor_release>false</labor_release>
+</movie>

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Answer Man, The</name>
+   <company>Magnolia Pictures</company>
+   <genres>
+      <genre>Comedy</genre>
+      <genre>Romance</genre>
+   </genres>
+   <authors>
+      <author>John Hindman</author>
+   </authors>
+   <directors>
+      <director>John Hindman</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Jeff Daniels</actor>
+      <actor>Lauren Graham</actor>
+      <actor>Lou Taylor Pucci</actor>
+      <actor>Olivia Thirlby</actor>
+      <actor>Kat Dennings</actor>
+      <actor>Nora Dunn</actor>
+   </actors>
+   <release_date>July 24, 2009</release_date>
+   <running_time>95</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>Though his film is a tad choppy and a lot chatty, Hindman elicits sympathetic performances from leads who demonstrate a deep understanding of movie physics.</snippet>
+         <url>http://www.philly.com/philly/entertainment/movies/20090724_Choppy__yet_likable__tale_of_3_mending_each_other.html</url>
+         <critic>Carrie Rickey</critic>
+      </review>
+      <review>
+         <snippet>The Answer Man is a passable way to kill two hours on a lazy summer afternoon, and perhaps an excuse to get out of the heat.</snippet>
+         <url>http://www.reelviews.net/php_review_template.php?identifier=1722</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>A promising premise and some very good actors are smothered in goo in The Answer Man.</snippet>
+         <url>http://www.csmonitor.com/2009/0724/p17s02-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>A theological trifle that ultimately twists itself into a romantic comedy.</snippet>
+         <url>http://www.npr.org/templates/story/story.php?storyId=106732059</url>
+         <critic>Mark Jenkins</critic>
+      </review>
+      <review>
+         <snippet>A perfect example of an Intelligent Bad Movie.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2009/07/30/MVDS190GJQ.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>How much more interesting is a film like "(500) Days of Summer," which is about the complexities of life, in comparison with this one, which cheerfully cycles through the cliches.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20090805/REVIEWS/908059991</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>Daniels plays Arlen with a kind of cuddly crankiness; he makes him a jerk who just needs a hug.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20293060,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>Hindman is a stand-up comedian with many Turgenev-size issues on his mind--inadequate fathers and troubled sons, overprotective mothers, the search for belief--whose weight this slight picture can hardly bear. But the laid-back charm of Daniels and Graham's bumpy courtship gives the movie a much-needed edge of idiosyncrasy.</snippet>
+         <url>http://www.villagevoice.com/2009-07-22/film/jeff-daniels-lends-much-needed-idiosyncrasy-to-the-answer-man/</url>
+         <critic>Ella Taylor</critic>
+      </review>
+      <review>
+         <snippet>Conveniently, everyone wears their symptoms on their sleeves, but because the characters are so haphazardly drawn, their pain remains elusive to the end.</snippet>
+         <url>http://www.latimes.com/entertainment/news/la-et-answerman24-2009jul24,0,240458.story</url>
+         <critic>Glenn Whipp</critic>
+      </review>
+      <review>
+         <snippet>Dull, dreary Answer Man raises this question: Why?</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2009-07-23-answerman-review_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>Never shows enough passion to be interestingly bad.</snippet>
+         <url>http://movies.nytimes.com/2009/07/24/movies/24answer.html?ref=movies</url>
+         <critic>A.O. Scott</critic>
+      </review>
+      <review>
+         <snippet>Its crackly sarcasm and smart talk turn out to be simply coating for a soft, icky, center.</snippet>
+         <url>http://online.wsj.com/article/film_review.html</url>
+         <critic>Joanne Kaufman</critic>
+      </review>
+      <review>
+         <snippet>Unoriginality is the greatest and most flagrant of its many sins.</snippet>
+         <url>http://www.avclub.com/articles/the-answer-man,30778/</url>
+         <critic>Nathan Rabin</critic>
+      </review>
+      <review>
+         <snippet>Jeff Daniels' gleeful misanthropy and Lauren Graham's emotional openness are poorly served by the pic's transparently phony story and therapeutic uplift</snippet>
+         <url>http://www.variety.com/review/VE1117939419.html?categoryid=31&amp;cs=1&amp;query=Arlen+Faber</url>
+         <critic>Justin Chang</critic>
+      </review>
+      <review>
+         <snippet>This two-bit echo of "The Accidental Tourist" is a preachy pill that wastes the genial, funny Jeff Daniels and the criminally underused Lauren Graham.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2009/07/24/2009-07-24_short_movie_reviews_shrink_the_answer_man_and_the_english_surgeon.html</url>
+         <critic>Joe Neumaier</critic>
+      </review>
+      <review>
+         <snippet>Brutally banal chitchat about life and love ensues.</snippet>
+         <url>http://www.nypost.com/seven/07242009/entertainment/movies/the_answer_man_181020.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+   </reviews>
+   <US_Gross>$26,676</US_Gross>
+   <weekend_gross>$12,998</weekend_gross>
+   <number_of_screens>6</number_of_screens>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

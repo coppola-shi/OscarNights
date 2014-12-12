@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Open Season</name>
+   <company>Columbia Pictures / Sony Pictures Releasing</company>
+   <genres>
+      <genre>Adventure</genre>
+      <genre>Animation</genre>
+      <genre>Comedy</genre>
+      <genre>FamilyKids</genre>
+   </genres>
+   <authors>
+      <author>Steve Bencich</author>
+      <author>Ron J. Friedman</author>
+   </authors>
+   <directors>
+      <director>Roger Allers</director>
+      <director>Jill Culton</director>
+      <director>Anthony Stacchi</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Martin Lawrence</actor>
+      <actor>Ashton Kutcher</actor>
+      <actor>Gary Sinise</actor>
+      <actor>Debra Messing</actor>
+      <actor>Billy Connolly</actor>
+      <actor>Jon Favreau</actor>
+      <actor>Jane Krakowski</actor>
+      <actor>Patrick Warburton</actor>
+   </actors>
+   <release_date>September 29, 2006</release_date>
+   <running_time>99</running_time>
+   <rating>PG</rating>
+   <reviews>
+      <review>
+         <snippet>Martin Lawrence and Ashton Kutcher may seem like an odd-sounding comedy team, but in some weird way, they click as voice-actors and cartoon buddies in Open Season.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-060929-movies-review-season,0,4480862.story?coll=mmx-movies_top_heds</url>
+         <critic>Michael Wilmington</critic>
+      </review>
+      <review>
+         <snippet>Given that so many people have dismissed Ashton Kutcher as a superficial pretty boy, it seems a little ironic that his best work this week is two-dimensional: He makes a passable action hero in "The Guardian," but he's downright adorable in Open Season, a cheerful animated comedy built on his winningly loose voice performance.</snippet>
+         <url>http://www.nydailynews.com/09-29-2006/entertainment/col/story/456757p-384244c.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>Though silly and predictable, this animated comedy has stunning visuals, a catchy soundtrack and charming characters that are family-friendly crowd-pleasers.</snippet>
+         <url>http://tvguide.com/detail/movie.aspx?tvobjectid=283056&amp;more=ucmoviereview</url>
+         <critic>Angel Cohn</critic>
+      </review>
+      <review>
+         <snippet>Despite that nagging whiff of familiarity, there are enough character quirks and inspired bits of funny business to carry this amiable if slight tale.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1003188437</url>
+         <critic>Michael Rechtshaffen</critic>
+      </review>
+      <review>
+         <snippet>A witty, warmly crafted chestnut.</snippet>
+         <url>http://www.variety.com/review/VE1117931723?categoryid=31&amp;cs=1</url>
+         <critic>Justin Chang</critic>
+      </review>
+      <review>
+         <snippet>The film wraps mindless cartoon violence and a few fart jokes around life lessons about friendship and responsibility. Kids should like it; parents won't mind it.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/LAC.20060929.OPEN29/TPStory/TPEntertainment/Movies/</url>
+         <critic>Mark Medley</critic>
+      </review>
+      <review>
+         <snippet>With a slick visual style similar to "Monster House", Open Season trots out tropes that recent animated classics have done with more wit and smarts.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1106497&amp;categories=Movies&amp;nm=1</url>
+         <critic>Ann Hornaday</critic>
+      </review>
+      <review>
+         <snippet>An amusing if slight excursion into nature with a group of animals who turn the tables on their collective nemeses, the hunters.</snippet>
+         <url>http://www.calendarlive.com/printedition/calendar/cl-et-season29sep29,0,7987666.story</url>
+         <critic>Kevin Crust</critic>
+      </review>
+      <review>
+         <snippet>The overfamiliar Open Season feels like just another CG 'toon in our 'toon-glutted times.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1539964_1_0_,00.html</url>
+         <critic>Gregory Kirshling</critic>
+      </review>
+      <review>
+         <snippet>On the plus side, Open Season enjoys a clear narrative, real rooting interest and good interspecies rapport. On the downside, there’s a surfeit of cruel bunny-rabbit gags.</snippet>
+         <url>http://www.laweekly.com/film+tv/film-reviews/film-reviews/14583/</url>
+         <critic>Gregg Rickman</critic>
+      </review>
+      <review>
+         <snippet>Periodic bursts of cleverness and eye-popping imagery, further enhanced in the 3-D Imax version, can't disguise that this is just another movie full of jive-talking computer-generated animals with little new to say.</snippet>
+         <url>http://movies2.nytimes.com/2006/09/29/movies/29seas.html?ref=movies</url>
+         <critic>Laura Kern</critic>
+      </review>
+      <review>
+         <snippet>As cartoon rip-offs go, Open Season can be surprisingly entertaining, in a made-for-6-year-olds kind of way.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=8748</url>
+         <critic>Janice Page</critic>
+      </review>
+      <review>
+         <snippet>For an inaugural effort, Open Season ain't bad, but the studio shows far more promise with its gee-whiz visuals than it does in the story department.</snippet>
+         <url>http://ae.miami.com/entertainment/ui/miami/movie.html?id=700346&amp;reviewId=21525</url>
+         <critic>Peter Debruge</critic>
+      </review>
+      <review>
+         <snippet>No one makes it out of this laughless mess unscathed.</snippet>
+         <url>http://www.avclub.com/content/node/53507</url>
+         <critic>Keith Phipps</critic>
+      </review>
+      <review>
+         <snippet>Little more than paint-by-numbers filmmaking, and it fails in the most important charge of any children's movie: to transport its young and impressionable audience to a world where anything is possible, rather than to one where everything’s been thought of already.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A405341</url>
+         <critic>Josh Rosenblatt</critic>
+      </review>
+      <review>
+         <snippet>It's a tired rehash of animation cliches that distinguishes itself only by the extent to which it's crammed full of scatology and gleeful violence to animals, and otherwise panders to the worst instincts of its audience.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/286866_season29q.html</url>
+         <critic>William Arnold</critic>
+      </review>
+      <review>
+         <snippet>This is the animated children's film equivalent of "Another 48 Hours."</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2006/09/29/DDGFELDVJN1.DTL&amp;type=movies</url>
+         <critic>Peter Hartlaub</critic>
+      </review>
+      <review>
+         <snippet>An excellent case for euthanizing the entire talking-animals genre.</snippet>
+         <url>http://www.nypost.com/seven/09292006/entertainment/movies/time_for_seasons_bleatings_movies_lou_lumenick.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+   </reviews>
+   <US_Gross>$85,105,259</US_Gross>
+   <production_budget>$85,000,000</production_budget>
+   <weekend_gross>$23,624,548</weekend_gross>
+   <number_of_screens>3,833</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

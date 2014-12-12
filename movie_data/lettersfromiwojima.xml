@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Letters from Iwo Jima</name>
+   <company>Warner Bros. Pictures</company>
+   <genres>
+      <genre>Drama</genre>
+      <genre>War</genre>
+   </genres>
+   <authors>
+      <author>Iris Yamashita</author>
+      <author>Paul Haggis</author>
+      <author>Tadamichi Kuribayashi</author>
+      <author>Tsuyoko Yoshido</author>
+   </authors>
+   <directors>
+      <director>Clint Eastwood</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Ken Watanabe</actor>
+      <actor>Kazunari Ninomiya</actor>
+      <actor>Shido Nakamura</actor>
+      <actor>Tsuyoshi Ihara</actor>
+      <actor>Ryo Kase</actor>
+      <actor>Yuki Matsuzaki</actor>
+      <actor>Hiroshi Watanabe</actor>
+      <actor>Takumi Bo</actor>
+   </actors>
+   <release_date>December 20, 2006</release_date>
+   <running_time>141</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>It's unprecedented, a sorrowful and savagely beautiful elegy that can stand in the company of the greatest antiwar movies.</snippet>
+         <url>http://www.msnbc.msn.com/id/16115744/site/newsweek/page/4/</url>
+         <critic>David Ansen</critic>
+      </review>
+      <review>
+         <snippet>Clint Eastwood's profound, magisterial, and gripping companion piece to his ambitious meditation on wartime image and reality, "Flags of Our Fathers."</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1569406_1_0_,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>Eastwood's direction here is a thing of beauty, blending the ferocity of the classic films of Akira Kurosawa (Seven Samurai) with the delicacy and unblinking gaze of Yasujiro Ozu (Tokyo Story).</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/12004139/review/12812479/letters_from_iwo_jima</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>A few scenes serve as hinges joining this movie to "Flags of Our Fathers." While Letters From Iwo Jima seems to me the more accomplished of the two films -- by which I mean that it strikes me as close to perfect -- the two enrich each other, and together achieve an extraordinary completeness.</snippet>
+         <url>http://movies2.nytimes.com/2006/12/20/movies/20lett.html?ref=movies</url>
+         <critic>A.O. Scott</critic>
+      </review>
+      <review>
+         <snippet>Letters From Iwo Jima, takes audiences to a place that would seem unimaginable for an American director. Daring and significant, it presents a picture from life's other side, not only showing what wartime was like for our Japanese adversaries on that island in the Pacific but also actually telling the story in their language. Which turns out to be no small thing.</snippet>
+         <url>http://www.calendarlive.com/printedition/calendar/cl-et-letters20dec20,0,1839926.story</url>
+         <critic>Kenneth Turan</critic>
+      </review>
+      <review>
+         <snippet>It takes a filmmaker possessed of a rare, almost alchemic, blend of maturity, wisdom and artistic finesse to create such an intimate, moving and spare war film as Clint Eastwood has done in Letters From Iwo Jima.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2006-12-19-iwo-jima-review_x.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>The view taken by Clint Eastwood, directing from Iris Yamashita's exemplary screenplay, is elegiac, but -- and this is remarkable, given the nature of the production and the sweep of his ambition -- not at all didactic. He lets the film speak for itself, and so it does -- of humanity as well as primitive rage and horror on both sides of the battle.</snippet>
+         <url/>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>"Letters" isn't about numbers or the battle or even the morality of war. It's about the sanctity of life and how we value our own.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/moviereviews/story/481760p-405218c.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>Taken together, Eastwood's masterworks - two of the best films of 2006 - may be Hollywood's last word on World War II.</snippet>
+         <url>http://www.nypost.com/seven/12202006/entertainment/movies/the_sun_also_rises_movies_lou_lumenick.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>Letters from Iwo Jima isn't just the film that Eastwood wanted to make, but one that the film's producer Steven Spielberg had tried to make twice with "Empire of the Sun" and "Saving Private Ryan."</snippet>
+         <url>http://www.premiere.com/moviereviews/3352/letters-from-iwo-jima.html</url>
+         <critic>Stephen Saito</critic>
+      </review>
+      <review>
+         <snippet>The word masterpiece costs nothing to write and means less than nothing in an age when every third picture and each new Clint Eastwood project is proclaimed as such. After two viewings, however, Letters From Iwo Jima strikes me as the peak achievement in Eastwood's hallowed career.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-070112-movies-review-letters,0,2821808.story?coll=mmx-movies_top_heds</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>It has few stars familiar to Americans, and it shares with "Pan's Labyrinth" the rare distinction of being a mainstream commercial movie with subtitles.</snippet>
+         <url>http://www.chicagoreader.com/features/stories/moviereviews/2007/070112/</url>
+         <critic>Jonathan Rosenbaum</critic>
+      </review>
+      <review>
+         <snippet>Eloquent, bloody, and daringly simple.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=9661</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>One of the great war movies - or antiwar movies - of all time.</snippet>
+         <url>http://ae.philly.com/entertainment/ui/philly/movie.html?id=781017&amp;reviewId=22076</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>Overall, the effect is presumably what Eastwood wanted: we are present at a momentous event, not watching a movie.</snippet>
+         <url>http://www.tnr.com/doc.mhtml?i=20070129&amp;s=kauffmann012907</url>
+         <critic>Stanley Kauffmann</critic>
+      </review>
+      <review>
+         <snippet>Letters isn't a fun night at the picture show. It's slow and gloomy and achingly tragic. But it's a truly impressive achievement both in moviemaking and in its understanding of history.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/1169079949116440.xml&amp;coll=7</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>Ironically, the challenge of directing a Japanese-language film with a non-English-speaking cast seems to have brought out the very best in Eastwood. His vision is alternately intimate and sweeping, his touch never seemed more light and sure, and several of his scenes are so delicate, dynamic and prototypically Japanese they could have been directed by Akira Kurosawa.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/299347_iwojima12q.html</url>
+         <critic>William Arnold</critic>
+      </review>
+      <review>
+         <snippet>Clint Eastwood's Letters From Iwo Jima is his companion piece to "Flags of Our Fathers" and in almost every way is superior.</snippet>
+         <url>http://www.csmonitor.com/2006/1222/p13s01-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>The special power of Eastwood's achievement is that, save for one indelible moment, the mutual recognition between sworn adversaries happens not on-screen, but later, as we piece the two films together in our minds.</snippet>
+         <url>http://www.villagevoice.com/film/0651,foundas,75339,20.html</url>
+         <critic>Scott Foundas</critic>
+      </review>
+      <review>
+         <snippet>Terse is the word for Eastwood's directorial style. It rarely editorializes; it doesn't emote or orate. It just tells the damn story of a soldier's honor, which means doing the job no matter the odds--indeed, no matter the mission.</snippet>
+         <url>http://www.time.com/time/magazine/article/0,9171,1568455,00.html</url>
+         <critic>Richard Corliss/Richard Schickel</critic>
+      </review>
+      <review>
+         <snippet>Now Eastwood turns on a dime and tackles not just his first war movie but two war movies of considerable scope and complexity. If he doesn't nail everything perfectly, he nevertheless has created a vivid memorial to the courage on both sides of this battle and created an awareness in the public consciousness at a most opportune moment about how war feels to those lost in its fog.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?JSESSIONID=F5yhwRsNJPTW0KKbT9pn0HrRF3TgGGHNxlGPKyzBSYdrS19y3WJ0!1883069158&amp;&amp;rid=8510</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>Taken together, "Flags" and "Letters" represent a genuinely imposing achievement, one that looks at war unflinchingly -- that does not deny its necessity but above all laments the human loss it entails.</snippet>
+         <url>http://www.variety.com/review/VE1117932266.html?categoryid=31&amp;cs=1</url>
+         <critic>Todd McCarthy</critic>
+      </review>
+      <review>
+         <snippet>The humanistic approach makes Eastwood's movie a war story for the ages.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A430973</url>
+         <critic>Marjorie Baumgarten</critic>
+      </review>
+      <review>
+         <snippet>Letters From Iwo Jima, much like any war movie, honors the courage of men who took part in a war not necessarily of their making. But by placing us on the opposite side of the battlefield, the movie forces us to approach it from a fresh perspective.</snippet>
+         <url>http://www.miami.com/mld/miamiherald/entertainment/movies/16486896.htm</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>This is sentimentality of the best kind, a touching display of male bonding amid terror and aching loneliness worthy of Howard Hawks at his finest.</snippet>
+         <url>http://tvguide.com/detail/movie.aspx?tvobjectid=284676&amp;more=ucmoviereview</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>It's hard to explain exactly why Clint Eastwood's Letters From Iwo Jima is so much better than its companion World War II film "Flags Of Our Fathers," except to say that Flags tries too hard to emphasize the ironies of selling a war, while Letters deals with the ins and outs of the war itself.</snippet>
+         <url>http://www.avclub.com/content/node/56849</url>
+         <critic>Noel Murray</critic>
+      </review>
+      <review>
+         <snippet>For my money, Flags (however clunky) cuts more deeply, but Letters is more difficult to shake off. Together, they leave you with the feeling that even a just and necessary war is an abomination.</snippet>
+         <url>http://nymag.com/movies/reviews/25634/</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>A sharper account of the Iwo Jima conflict than Flags, this balances its unflinching handling of the horrors of war with its touching portrayal of those who face them.</snippet>
+         <url>http://www.empireonline.com/reviews/review.asp?FID=134676</url>
+         <critic>Dan Jolin</critic>
+      </review>
+      <review>
+         <snippet>In the last half-hour, the story, like the Japanese, loses its way; lacking any clear-cut goals except survival, the film becomes repetitive. Letters From Iwo Jima is a necessary movie; too bad it's not a great movie.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1131821&amp;categories=Movies&amp;nm=1</url>
+         <critic>Stephen Hunter</critic>
+      </review>
+      <review>
+         <snippet>Far superior to its companion piece, "Flags of Our Fathers," released earlier this year, "Letters" is a grim and humane film that has to be counted among the director's better efforts.</snippet>
+         <url>http://sfgate.com/cgi-bin/article.cgi?f=/c/a/2006/12/20/DDGM0N26981.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>For all its emphasis on doomed honour and grim death, Letters from Iwo Jima is also sentimental.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20070112.wiwo12/BNStory/Entertainment/home</url>
+         <critic>Liam Lacey</critic>
+      </review>
+      <review>
+         <snippet>Letters from Iwo Jima is a unique American-made war movie for at least two reasons: it depicts the battle from the perspective of the losers and it represents the United States as the "enemy."</snippet>
+         <url>http://www.reelviews.net/movies/l/letters_iwo.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>The project lacks the variety of sensuous pleasures that a great movie has to provide.</snippet>
+         <url>http://www.newyorker.com/critics/cinema/articles/070115crci_cinema</url>
+         <critic>David Denby</critic>
+      </review>
+      <review>
+         <snippet>Letters covers less emotional ground than its predecessor, because Eastwood and first-time writer Iris Yamashita (who shares a story credit with Paul Haggis) allow Japanese soldiers only three modes of behavior.</snippet>
+         <url>http://ae.charlotte.com/entertainment/ui/charlotte/movie.html?id=781017&amp;reviewId=22098&amp;startDate=NEXT7</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>Portraying the same 1945 confrontation from the vantage point of the Japanese was an inspired idea. Unfortunately, the movie it inspired is something of a letdown.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=9707</url>
+         <critic>Rick Kisonak</critic>
+      </review>
+      <review>
+         <snippet>Even with the great Ken Watanabe lending command and compassion to the role of General Kuribayashi, it's a formless slog across a treacherous field.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-to.letters19jan19,0,6645997.story?coll=bal-artslife-movies</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>Eastwood is so busy humanizing Japanese soldiers that he ends up rewriting history.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2006/12/20/iwo_jima/index.html</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+   </reviews>
+   <US_Gross>$13,756,082</US_Gross>
+   <production_budget>$13,000,000</production_budget>
+   <weekend_gross>$128,842</weekend_gross>
+   <number_of_screens>5</number_of_screens>
+   <oscar_winning_directors_present/>
+   <num_oscar_winning_directors>1</num_oscar_winning_directors>
+   <oscar_winning_director>clint eastwood</oscar_winning_director>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

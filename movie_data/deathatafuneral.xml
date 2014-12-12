@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Death at a Funeral</name>
+   <company>MGM</company>
+   <genres>
+      <genre>Comedy</genre>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author>Dean Craig</author>
+   </authors>
+   <directors>
+      <director>Frank Oz</director>
+   </directors>
+   <origins>
+      <origin>GermanyUKUSA</origin>
+   </origins>
+   <actors>
+      <actor>Matthew Macfadyen</actor>
+      <actor>Andy Nyman</actor>
+      <actor>Keeley Hawes</actor>
+      <actor>Ewen Bremner</actor>
+      <actor>Daisy Donovan</actor>
+      <actor>Alan Tudyk</actor>
+      <actor>Jane Asher</actor>
+      <actor>Peter Dinklage</actor>
+   </actors>
+   <release_date>August 17, 2007</release_date>
+   <running_time>90</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>The humor manages to be simultaneously sophisticated, supremely silly and very dark.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2007/08/17/DDCKRJVFD.DTL&amp;type=movies</url>
+         <critic>Ruthe Stein</critic>
+      </review>
+      <review>
+         <snippet>Insanely funny, if occasionally out-of-control, black farce.</snippet>
+         <url>http://www.time.com/time/arts/article/0,8599,1653806,00.html</url>
+         <critic>Richard Schickel</critic>
+      </review>
+      <review>
+         <snippet>The lack of propriety and solemnity is precisely what makes this comic farce so uproariously funny.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2007-08-16-death-at-a-funeral_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>The movie is part farce (unplanned entrances and exits), part slapstick (misbehavior of corpses) and part just plain wacky eccentricity. I think the ideal way to see it would be to gather your most dour and disapproving relatives and treat them to a night at the cinema.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20070816/REVIEWS/70711001</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>It takes a while for Frank Oz's ensemble black comedy Death at a Funeral to hit its deliriously nutty stride. But when it does, the laughs don't stop until the movie, like the subject of its family get-together, has taken its last breath.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2007/08/17/2007-08-17_in_wake_of_tragedy_clans_gathering_is_pu.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>The film's climax is nothing short of hilarious. And Death at a Funeral doesn't discriminate when it comes to the type of humor it embraces it. Everything is in there, from physical hijinks to verbal repartee to naked man jokes to drugs and gross-out stuff.</snippet>
+         <url>http://www.reelviews.net/movies/d/death_funeral.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>Death at a Funeral is lethal farce, combining hints of "The Lavender Hill Mob," doses of Joe Orton and a smidgen of the Farrelly brothers' scatology in its mix.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-070817-movies-review-funeral,0,3336884.story?coll=mmx-movies_top_heds</url>
+         <critic>Sid Smith</critic>
+      </review>
+      <review>
+         <snippet>It has the requisite amount of knockabout silliness.</snippet>
+         <url>http://www.csmonitor.com/2007/0817/p14s02-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>Though it grows silly and sentimental, Funeral scores enough big laughs to make its shortcomings eminently forgivable.</snippet>
+         <url>http://www.avclub.com/content/cinema/death_at_a_funeral</url>
+         <critic>Nathan Rabin</critic>
+      </review>
+      <review>
+         <snippet>The mostly British ensemble can do this stuff in their sleep, but Macfadyen and Donovan and Graves, especially, work up the necessary antic angst and silliness.</snippet>
+         <url>http://www.philly.com/philly/entertainment/movies/20070817_Well-crafted_British_comedy_finds_humor_in_death.html</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>The movie maintains its comical, rocky equilibrium as long as the screenwriter, Dean Craig, sticks to domestic disasters and a Monty Python parody of "Cat on a Hot Tin Roof."</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/reviews/bal-to.death17aug17,0,754612.story</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>This combination of tightly controlled farce and gross-out comedy works unexpectedly well, until the filmmakers lose their nerve at last and settle for cozy homilies. Still, four-fifths of a rarity is about twice as much as studios deliver nowadays.</snippet>
+         <url>http://ae.charlotte.com/entertainment/ui/charlotte/movie.html;jsessionid=420E7EA9211682AEFE4E50EDADF719B9.prodapp15_ae_02?id=934705&amp;reviewId=22623&amp;startDate=08%2F17%2F2007</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>Although set in England with a predominantly British cast, Death at a Funeral is no stiff-upper-lipped comedy, but a lean, mean, and often crude, farce.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/327896_death17q.html</url>
+         <critic>Bill White</critic>
+      </review>
+      <review>
+         <snippet>Shows us how funny farce can be -- even with the hokiest of premises -- in the hands of the British.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1124978&amp;categories=Movies&amp;nm=1</url>
+         <critic>Desson Thomson</critic>
+      </review>
+      <review>
+         <snippet>With a circus parade of mourning Brits and enough appalling circumstances to set proper Englishness back to the Dark Ages, Death at a Funeral pits decorum against sex, drugs and dysfunction.</snippet>
+         <url>http://www.variety.com/review/VE1117933833.html?categoryid=31&amp;cs=1&amp;query=%22death+at+a+funeral%22</url>
+         <critic>John Anderson</critic>
+      </review>
+      <review>
+         <snippet>This topsy-turvy funeral produces a number of smiles, giggles, pleasant guffaws and several solid, sustained laughs. Not a bad batting average as comedies go.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/imdb/reviews/article_display.jsp?rid=9347&amp;vnu_special_account_code=thrsiteimdbpro</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>It goes soft, but even a gelded traditional farce is more potent than most of our slob comedies.</snippet>
+         <url>http://nymag.com/movies/reviews/35810/</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>There’s no dearth of rude humor on screens right now, but Death at a Funeral stands apart because its characters -- mostly reserved upper-middle-class British folk who have gathered to bury a patriarch -- are determined to keep a stiff upper lip no matter what.</snippet>
+         <url>http://movies.nytimes.com/2007/08/17/movies/17fune.html?ref=movies</url>
+         <critic>Matt Zoller Seitz</critic>
+      </review>
+      <review>
+         <snippet>If your taste runs in this direction, you're bound to be amused.</snippet>
+         <url>http://208.100.26.202/movies/briefs/31943_DEATH_AT_A_FUNERAL.html</url>
+         <critic>Jonathan Rosenbaum</critic>
+      </review>
+      <review>
+         <snippet>A comedy that's refreshing in its courage to embrace tradition and just have fun.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A520752</url>
+         <critic>Toddy Burton</critic>
+      </review>
+      <review>
+         <snippet>The dumbness doesn't kill Death at a Funeral, but it certainly weakens it.</snippet>
+         <url>http://www.premiere.com/moviereviews/4007/death-at-a-funeral.html</url>
+         <critic>Glenn Kenny</critic>
+      </review>
+      <review>
+         <snippet>Death" builds slowly and inexorably to a comic explosion that's just too good -- too insanely, impossibly mortifying -- to spoil here. Let's just say it dwarfs everything that has come before it.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=9267</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>Most British actors are awfully good at underplaying the overwritten, and this group, headed by Matthew Macfadyen, Rupert Graves and Daisy Donovan, is no exception -- where others would mug, they demitasse.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20071012.wvfuneralrev/BNStory/Entertainment/home</url>
+         <critic>Rick Groen</critic>
+      </review>
+      <review>
+         <snippet>A sole potty joke is unnecessarily crass, but for the most part this is joyfully funny.</snippet>
+         <url>http://www.empireonline.com/reviews/reviewcomplete.asp?FID=133907</url>
+         <critic>James Dyer</critic>
+      </review>
+      <review>
+         <snippet>By the end of Death at a Funeral's effortful farce about busted British propriety, you may feel that peculiar facial ache that comes from wishing to laugh with no really satisfying release.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20051858,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>Death at a Funeral never even approaches the best of Oz's oeuvre. It's his first movie that begs for the laugh track; they'll love it on BBC America.</snippet>
+         <url>http://www.villagevoice.com/film/0733,various,77501,20.html</url>
+         <critic>Robert Wilonsky</critic>
+      </review>
+      <review>
+         <snippet>The movie is a gentle British ensemble comedy much like "Four Weddings and a Funeral" - minus the four weddings and four-fifths of the wit.</snippet>
+         <url>http://www.nypost.com/seven/08172007/entertainment/movies/wit_is_departed_in_lifeless_british_farce_movies_kyle_smith.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>"Wrong" is the operative word with Death at a Funeral, which in the first very funny 30 minutes shows its hand and then, unfortunately, continues to wave that hand frantically for the next hour.</snippet>
+         <url>http://online.wsj.com/article/SB118730238551600198.html</url>
+         <critic>Joanne Kaufman</critic>
+      </review>
+      <review>
+         <snippet>While trying so hard to have such a good time, the movie simply forgets to be funny, and begins to grate before the body even cools.</snippet>
+         <url>http://www.tvguide.com/movies/death-funeral/review/288651</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>Modest in every sense but one: Its cast is huge.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/1187218530205030.xml&amp;coll=7</url>
+         <critic>M. E. Russell</critic>
+      </review>
+   </reviews>
+   <US_Gross>$8,580,428</US_Gross>
+   <production_budget>$20,000,000</production_budget>
+   <weekend_gross>$1,282,973</weekend_gross>
+   <number_of_screens>260</number_of_screens>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

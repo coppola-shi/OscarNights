@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>loudQUIETloud: A Film About The Pixies</name>
+   <company>Stick Figure Productions</company>
+   <genres>
+      <genre>Documentary</genre>
+   </genres>
+   <authors>
+      <author/>
+   </authors>
+   <directors>
+      <director>Steven Cantor</director>
+      <director>Matthew Galkin</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Frank Black</actor>
+      <actor>Kim Deal</actor>
+      <actor>David Lovering</actor>
+      <actor>Joey Santiago</actor>
+   </actors>
+   <release_date>September 29, 2006</release_date>
+   <running_time>82</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>As Nirvana's Kurt Cobain acknowledges in the opening quote, without the Pixies there would be no "Smells Like Teen Spirit."</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-061103-movies-review-pixies,0,1082186.story?coll=mmx-movies_top_heds</url>
+         <critic>Louis R. Carlozo</critic>
+      </review>
+      <review>
+         <snippet>It's a lively, charming film, and if it gave us a little more of the band's history, it would be perfect. As it is, it's a perfect introduction to some great songs and fascinating characters.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/1161818741162160.xml&amp;coll=7</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>The documentary dashes any lingering hope that Pixies would ever record a new album, even though it makes no definitive statement to that effect.</snippet>
+         <url>http://www.avclub.com/content/node/53504</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>The film doesn't dwell on bad feelings, and anyone looking for lurid details won't find them. But fans will love the live footage of this still-powerful band ripping through a virtual greatest-hits set.</snippet>
+         <url>http://tvguide.com/detail/movie.aspx?tvobjectid=283572&amp;more=ucmoviereview</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>Boring people who made extraordinary music, the Pixies are inexplicable. In attempting to demystify them, the directors Steven Cantor and Matthew Galkin achieve the opposite.</snippet>
+         <url>http://movies2.nytimes.com/2006/09/29/movies/29loud.html?ref=movies</url>
+         <critic>Nathan Lee</critic>
+      </review>
+      <review>
+         <snippet>The Pixies are back together, the music is as unbelievable as ever and what more could you ask for?</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=8754</url>
+         <critic>Mark Bell</critic>
+      </review>
+      <review>
+         <snippet>Picture is targeted at the already initiated, but directors Steve Cantor and Matthew Galkin deftly resolve one often glaring problem with tribute documentaries -- making those who might not care do so.</snippet>
+         <url>http://www.variety.com/review/VE1117930328?categoryid=31&amp;cs=1&amp;s=h&amp;p=0</url>
+         <critic>John Anderson</critic>
+      </review>
+      <review>
+         <snippet>Apparently fit and reasonably trim, Deal's honesty touches a nerve that the band's music only gnawed on back in the day.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A413527</url>
+         <critic>Marc Savlov</critic>
+      </review>
+      <review>
+         <snippet>The entire affair looks and feels like a reality television show minus the cheap drama.</snippet>
+         <url>http://www.villagevoice.com/film/0639,farrar,74586,20.html</url>
+         <critic>Justin F. Farrar</critic>
+      </review>
+      <review>
+         <snippet>The concert footage, which is exceptionally well photographed and recorded, offers clips of varying lengths from a wealth of songs. The rest of the film glimpses the stress disorders that can develop when average people with problems become popular celebrities.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/286856_limited29.html</url>
+         <critic>Bill White</critic>
+      </review>
+      <review>
+         <snippet>Fortunately, there are many concert sequences to keep the film from being more than one awkward silence after another, and onstage the Pixies still sound great. But watching the movie is not as much fun as listening to the old records.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2006/09/29/DDGFELE9JD1.DTL#flick5</url>
+         <critic>Will Crain</critic>
+      </review>
+      <review>
+         <snippet>The famously passive-aggressive musicians manage to keep any real drama offscreen; the overriding impression is of four people enduring each other long enough to get their retirement portfolios in order.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/nextweek/30604_LOUD_QUIET_LOUD_A_FILM_ABOUT_PIXIES.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>Even a fan, however, might prefer the excellent, recently released concert DVD "Pixies: Live at the Paradise in Boston"  to this tepid behind-the-scenes experience.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=9710</url>
+         <critic>Ty Burr</critic>
+      </review>
+   </reviews>
+   <US_Gross>$7,506</US_Gross>
+   <weekend_gross>$3,792</weekend_gross>
+   <number_of_screens>3</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

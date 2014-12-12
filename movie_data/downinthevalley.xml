@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Down in the Valley</name>
+   <company>ThinkFilm</company>
+   <genres>
+      <genre>Drama</genre>
+      <genre>Romance</genre>
+      <genre>Western</genre>
+   </genres>
+   <authors>
+      <author>David Jacobson</author>
+   </authors>
+   <directors>
+      <director>David Jacobson</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Edward Norton</actor>
+      <actor>Evan Rachel Wood</actor>
+      <actor>David Morse</actor>
+      <actor>Bruce Dern</actor>
+      <actor>Rory Culkin</actor>
+      <actor>Artel Kayàru</actor>
+      <actor>Ellen Burstyn</actor>
+   </actors>
+   <release_date>May 5, 2006</release_date>
+   <running_time>114</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>It's mysterious and bold at every turn, and refreshingly removed from the commonplace.</snippet>
+         <url>http://www.avclub.com/content/node/48045</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>Down in the Valley is exactly what we don't have enough of: It's singular, unusual, unexpected, fresh and familiar at once.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1106197&amp;lat=200.0&amp;lon=200.0&amp;displaySearchLocation=&amp;nm=1&amp;categories=Movies</url>
+         <critic>Stephen Hunter</critic>
+      </review>
+      <review>
+         <snippet>The movie belongs to Wood, who creates a unique portrait of a girl hesitating at the threshold of womanhood; she's smarter, more attuned, and more spiritually ambitious than those around her, but also too decent and loyal to break from the world she knows-and too unformed to have a grasp of what she wants outside of that world. It's fantastic work.</snippet>
+         <url>http://www.premiere.com/article.asp?section_id=2&amp;article_id=2793</url>
+         <critic>Glenn Kenny</critic>
+      </review>
+      <review>
+         <snippet>Down in the Valley is a wild thing that sticks with you long after it's over. You know, a real movie.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/_/id/9240578/rid/10147203/</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>Driven by Edward Norton's and Evan Rachel Wood's riveting performances, writer-director David Jacobson's tense drama samples bits of cinematic Americana from sources as diverse as "Shane,"  "Badlands" and "Taxi Driver."</snippet>
+         <url>http://online.tvguide.com/newsearch/detail.aspx?id=46784&amp;sourcetype=m&amp;progseriesparentid=0&amp;tvobjectid=0&amp;keyword=&amp;more=ucmoviereview</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>Odd, beautiful and ambitious film.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/1147904760273110.xml&amp;coll=7</url>
+         <critic>M. E. Russell</critic>
+      </review>
+      <review>
+         <snippet>Jacobson and his actors do so much with the characters that they leave an ambiguous residue of blood-streaked regrets and sadness.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-to.valley19may19,0,6118239.story?coll=bal-artslife-movies</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>A psychotic we can't help falling for, Edward Norton's beautifully drawn and richly nuanced dreamer could, in time, prove to be one of the most memorable movie characters of recent years.</snippet>
+         <url>http://www.dallasobserver.com/Issues/2006-05-18/film/film.html</url>
+         <critic>Bill Gallo</critic>
+      </review>
+      <review>
+         <snippet>The best thing about Down in the Valley is that you hope it's not going where you have an inkling it's going. The purity of Norton's madness is a wonder.</snippet>
+         <url>http://newyorkmetro.com/movies/reviews/16931/</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>Writer-director David Jacobson has a good eye for widescreen compositions and sustains a low-key note of dread but is less successful in his attempt to graft a neo-Western to a neo-noir.</snippet>
+         <url>http://www.csmonitor.com/2006/0512/p14s01-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>Jacobson, whose earlier film is a docudrama about Jeffrey Dahmer, is clearly fascinated with men who would be monsters. It's a ripe and infinite topic to explore, but without Norton, theme alone could not have sustained Down in the Valley.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-060519-movies-review-valley,0,5468502.story?coll=mmx-movies_top_heds</url>
+         <critic>Allison Benedikt</critic>
+      </review>
+      <review>
+         <snippet>Writer-director David Jacobson has an excitingly clear-eyed, unsentimental feel for the intensity of adolescent passion.</snippet>
+         <url>http://www.laweekly.com/film+tv/film-reviews/film-reviews/13496/</url>
+         <critic>F. X. Feeney</critic>
+      </review>
+      <review>
+         <snippet>Begins semirealistically, then veers off course, hurtling into the wild blue yonder of myth and allegory. On the way to a climactic shootout that begins on the set of a Hollywood western and ends on a foggy hillside, it makes several screeching, hairpin turns.</snippet>
+         <url>http://movies2.nytimes.com/2006/05/05/movies/05vall.html</url>
+         <critic>Stephen Holden</critic>
+      </review>
+      <review>
+         <snippet>Result is imperfect and overlong, but hugely ambitious and often breathtaking.</snippet>
+         <url>http://www.variety.com/review/VE1117927104?categoryid=1929&amp;cs=1&amp;s=h&amp;p=0</url>
+         <critic>Scott Foundas</critic>
+      </review>
+      <review>
+         <snippet>As it progresses, the film takes us to another borderland, that between reality and delusion. This is where Harlan's mind freely gallops.</snippet>
+         <url>http://ae.philly.com/entertainment/ui/philly/movie.html?id=613683&amp;reviewId=20823</url>
+         <critic>Carrie Rickey</critic>
+      </review>
+      <review>
+         <snippet>Down in the Valley is one of those pictures you root for even when it goes badly wrong.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/LAC.20060519.VALLEY19/TPStory/TPEntertainment/Movies/</url>
+         <critic>Rick Groen</critic>
+      </review>
+      <review>
+         <snippet>When a movie begins to present one implausible or unwise decision after another, when its world plays too easily into the hands of its story, when the taste for symbolism creates impossible scenes, we grow restless.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20060518/REVIEWS/60509001/1001</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>The performances are deep and rich -- Wood is coming to seem like a smarter Chloe Sevigny, Rory looks to be the Culkin with talent, and Norton's portrayal of Harlan aches with ambiguity.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=8818</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>Down in the Valley becomes increasingly harder to believe as it goes along, with people behaving in ways that strain credibility.</snippet>
+         <url>http://ae.miami.com/entertainment/ui/miami/movie.html?id=613683&amp;reviewId=20870</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>An original and utterly unconventional tragedy of fantasy and reality, and the potential lethal results of worlds colliding. Ed, glad to have you back.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=9008</url>
+         <critic>Felix Vasques Jr.</critic>
+      </review>
+      <review>
+         <snippet>What keeps us watching? Chiefly it is Edward Norton's performance as Harlan. It is hard to doubt his belief in everything he says, no matter how silly or dangerous it sounds.</snippet>
+         <url>http://www.tnr.com/doc.mhtml?i=20060529&amp;s=kauffmann052906</url>
+         <critic>Stanley Kauffmann</critic>
+      </review>
+      <review>
+         <snippet>For a film that has allegedly undergone extensive tinkering following its premiere at last year's Cannes Film Festival, Down in the Valley abounds in nagging loose ends and suffers overall from logy pacing.</snippet>
+         <url>http://www.calendarlive.com/printedition/calendar/cl-et-capsules12.1may12,0,1179956.story</url>
+         <critic>Mark Olsen</critic>
+      </review>
+      <review>
+         <snippet>The film is thrown off balance by the weight of Norton's compassion for this troubled soul.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/270757_valley19q.html</url>
+         <critic>Sean Axmaker</critic>
+      </review>
+      <review>
+         <snippet>Both actors work hard to give this disturbing crime story some flavor and substance, but the narrative is overextended and poorly organized.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/29726_DOWN_IN_THE_VALLEY.html</url>
+         <critic>Jonathan Rosenbaum</critic>
+      </review>
+      <review>
+         <snippet>In the end, it's really just a thriller, slower than most, with pockets of dead time but with a few extra flourishes, too, thanks to Norton.</snippet>
+         <url>http://sfgate.com/cgi-bin/article.cgi?f=/c/a/2006/05/19/DDGVQITKKO1.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>It feels mechanical, more conceptual than realized, like a senior project by a particularly ambitious student who's recently read "West of Everything" – and who's lucked into working with a world-class actor.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A369895</url>
+         <critic>Marrit Ingman</critic>
+      </review>
+      <review>
+         <snippet>As long as Norton plays Harlan as a modern-day Joe Buck, a kind of four-in-the-afternoon cowboy, we're drawn by his waltz of innocence and vagueness. But Down in the Valley turns out to be one of those films with a thick, gummy overlay of Western ''mythology.''</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1192879_1_0_,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>Like "Don't Come Knocking," this contrived lament for the lonesome cowboy means to measure what remains of the old western in the absence of the Old West, eventually plopping its displaced ranch hand protagonist onto the fake Main Street of an old western movie set just to make sure we don't miss any of the cine-mythic connotations.</snippet>
+         <url>http://www.villagevoice.com/film/0618,nelson,73089,20.html</url>
+         <critic>Rob Nelson</critic>
+      </review>
+      <review>
+         <snippet>Edward Norton serves as lead actor and producer, but even his star power won't help this misfire reach a wide domestic audience.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1000922114</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>Sucker-punches you.  It appears to be an engagingly sweet romance, but it's really just about other movies.</snippet>
+         <url>http://www.nypost.com/movies/68032.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>The movie turns into something strange and annoying, an attempted blend of a suburban thriller with an Old West shoot-'em-up.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/moviereviews/story/414891p-350587c.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>While Jacobson navigates the first half of Down in the Valley deftly, he loses his way in the second.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2006/05/05/down/index.html</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>Never has the term 'American Independent' so obviously been code for 'wholly miserable experience'.</snippet>
+         <url>http://www.empireonline.com/reviews/review.asp?FID=133815</url>
+         <critic>Ian Nathan</critic>
+      </review>
+   </reviews>
+   <US_Gross>$568,932</US_Gross>
+   <weekend_gross>$22,806</weekend_gross>
+   <number_of_screens>3</number_of_screens>
+   <oscar_winning_actors_present/>
+   <num_oscar_winning_actors>1</num_oscar_winning_actors>
+   <oscar_winning_actor>ellen burstyn</oscar_winning_actor>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>I Can Do Bad All By Myself</name>
+   <company>Lionsgate</company>
+   <genres>
+      <genre>Comedy</genre>
+   </genres>
+   <authors>
+      <author>Tyler Perry</author>
+   </authors>
+   <directors>
+      <director>Tyler Perry</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Tyler Perry</actor>
+      <actor>Taraji P. Henson</actor>
+      <actor>Brian White</actor>
+      <actor>Hope Olaide Wilson</actor>
+      <actor>Adam Rodriguez</actor>
+      <actor>Kwesi Nii-Lante Boakye</actor>
+      <actor>Frederick Siglar</actor>
+   </actors>
+   <release_date>September 11, 2009</release_date>
+   <running_time>minutes,</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>It's probably the impresario's best-made movie yet, his most joyful, and his most moving.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20304060,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>It’s the best Tyler Perry movie to date - the writer/director/actor/mogul’s most confident and competent mixture of uplifting black middle-class melodrama and low-down comedy.</snippet>
+         <url>http://www.boston.com/ae/movies/articles/2009/09/12/tyler_perrys_i_can_do_bad_all_by_myself_is_good/</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>A double shot of Saturday-night lowdown chased by a cheery chug of Sunday-morning uplift.</snippet>
+         <url>http://www.philly.com/inquirer/columnists/carrie_rickey/20090912__Bad__Is_Good.html</url>
+         <critic>Carrie Rickey</critic>
+      </review>
+      <review>
+         <snippet>What works best, though, is that it's practically an R&amp;B/gospel musical.</snippet>
+         <url>http://www.latimes.com/entertainment/news/la-et-do-bad12-2009sep12,0,2953819.story</url>
+         <critic>Robert Abele</critic>
+      </review>
+      <review>
+         <snippet>With Bad, Perry is savvy enough to let riveting musical numbers by ringers like Gladys Knight and Mary J. Blige--along with Henson’s deeply empathetic performance--carry the film’s feverish emotions more than his characteristically ham-fisted screenplay.</snippet>
+         <url>http://www.avclub.com/articles/i-can-do-bad-all-by-myself,32810/</url>
+         <critic>Nathan Rabin</critic>
+      </review>
+      <review>
+         <snippet>Perry's latest emotional roller coaster starts with considerable promise and a high-wattage cast, including Taraji P. Henson and singers Gladys Knight and Mary J. Blige, before giving way to melodramatic predictability.</snippet>
+         <url>http://www.variety.com/review/VE1117941022.html?categoryid=31&amp;cs=1</url>
+         <critic>Peter Debruge</critic>
+      </review>
+      <review>
+         <snippet>Part musical, part love story, part family melodrama, part inspirational treacle, Tyler Perry's latest movie, I Can Do Bad All by Myself is something of an unholy mess. Alternately stupefying and entertaining, the film does benefit from a strong cast.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film-reviews/tyler-perry-s-i-can-do-bad-all-by-myself-1004011608.story</url>
+         <critic>Stephen Farber</critic>
+      </review>
+      <review>
+         <snippet>Mr. Perry has his moviemaking machine running smoothly, which is to say somewhat predictably.</snippet>
+         <url>http://movies.nytimes.com/2009/09/12/movies/12tyler.html?ref=movies</url>
+         <critic>Neil Genzlinger</critic>
+      </review>
+      <review>
+         <snippet>Perry also spices things up with two of his most reliable fallbacks: music, and Madea. Having packed his cast with singers, he allows them all a moment to shine, with songs that deliver his patented lessons (trust in yourself, trust in others, trust in God).</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2009/09/11/2009-09-11_tyler_perrys_i_can_do_bad_all_by_myself_his_latest_redemption_story_is_richer_th.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>This latest offering continues a trend toward increasingly mature moviemaking from the actor/writer/director.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A831869</url>
+         <critic>Kimberley Jones</critic>
+      </review>
+      <review>
+         <snippet>Contrived, sentimental, tonally bipolar, and as predictable as clockwork.</snippet>
+         <url>http://www.chicagoreader.com/chicago/MovieTimes?oid=978088</url>
+         <critic>Cliff Doerksen</critic>
+      </review>
+      <review>
+         <snippet>Has so many dead moments that singing spots by Gladys Knight, Pastor Marvin Winans and Mary J. Blige simply highlight, rather than alleviate, the inertia.</snippet>
+         <url>http://www.laweekly.com/2009-09-10/film-tv/movie-reviews-all-about-steve-loren-cass-ink-walt-el-grupo/3</url>
+         <critic>Melissa Anderson</critic>
+      </review>
+      <review>
+         <snippet>The laughs, meanwhile, are delivered by cross-dressing Perry’s sassy grandma Madea, whose wild threats of violence to children and adults alike are the only things that sporadically lighten up this narratively and grammatically dim redemption pap.</snippet>
+         <url>http://newyork.timeout.com/articles/film/78629/i-can-do-bad-all-by-myself-film-review</url>
+         <critic>Nick Schager</critic>
+      </review>
+   </reviews>
+   <US_Gross>$51,733,921</US_Gross>
+   <weekend_gross>$23,446,785</weekend_gross>
+   <number_of_screens>2,255</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Brick</name>
+   <company>Focus Features</company>
+   <genres>
+      <genre>Drama</genre>
+      <genre>Mystery</genre>
+   </genres>
+   <authors>
+      <author>Rian Johnson</author>
+   </authors>
+   <directors>
+      <director>Rian Johnson</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Joseph Gordon-Levitt</actor>
+      <actor>Lukas Haas</actor>
+      <actor>Nora Zehetner</actor>
+      <actor>Noah Segan</actor>
+      <actor>Noah Fleiss</actor>
+      <actor>Emilie de Ravin</actor>
+      <actor>Meagan Good</actor>
+   </actors>
+   <release_date>March 31, 2006</release_date>
+   <running_time>110</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>Manages to be visually arresting, packed with geeky allusions to everything from Raymond Chandler to "Blue Velvet."</snippet>
+         <url>http://www.avclub.com/content/node/46825</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>A Big Sleep with underage bozos, a Maltese Falcon where the stuff that dreams are made of rests in the lockers of a well-worn high school, Brick is a remarkable oddity, audacious and engaging.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-to.brick28apr28,0,544179.story?coll=bal-movies-utility</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>With brilliant dialogue out of the 1940s and graceful visuals that add depth to the dark comedy, Johnson debuts with a smart, self-assured feature that portrays adolescence like no other film has.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=6827</url>
+         <critic>Jeremy Mathews</critic>
+      </review>
+      <review>
+         <snippet>Brick is Bogart goes to high school, in other words, but that thumbnail description doesn't begin to convey the lasting pleasures of Rian Johnson's directorial debut.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=7558</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>Johnson also grabs hold of a fundamental truth and seduces us with it: The schoolyard can be the noirest burg of all.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1180353_1_0_,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>It's reminiscent of David Lynch, who is a master at mixing the ghastly and the risible. Brick would be better with a bit more Lynch in its soul, but Johnson is his own man, and I look forward to what he comes up with next.</snippet>
+         <url>http://www.csmonitor.com/2006/0407/p14s01-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>With a superb lead turn by rising star Joseph Gordon-Levitt, Rian Johnson’s debut is a smart, original neo-noir that works as an ingenious mindgame as well as a slick Hollywood calling card.</snippet>
+         <url>http://www.empireonline.com/incinemas/reviewcomplete.asp?FID=132342</url>
+         <critic>Damon Wise</critic>
+      </review>
+      <review>
+         <snippet>All in all, this twerpy little movie is one of the most entertaining pictures to be released so far this year.</snippet>
+         <url>http://www.newyorker.com/critics/cinema/?060403crci_cinema</url>
+         <critic>David Denby</critic>
+      </review>
+      <review>
+         <snippet>The mean streets don't get any nastier than the high school parking lots in this cool-crafted mystery.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1000770806</url>
+         <critic>Duane Byrge</critic>
+      </review>
+      <review>
+         <snippet>Johnson has taken a well-worn, much-revised genre, adapted to what's become a clichéd setting and transcended both in the process.</snippet>
+         <url>http://www.calendarlive.com/movies/chocano/cl-et-brick31mar31,0,2598465.story</url>
+         <critic>Carina Chocano</critic>
+      </review>
+      <review>
+         <snippet>Brick doesn't work 100 percent of the time, but it's a striking achievement, beautifully shot, often hilarious and occasionally moving.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2006/03/30/btm/index1.html</url>
+         <critic>Andrew O&amp;#039;Hehir</critic>
+      </review>
+      <review>
+         <snippet>It takes a good fifteen minutes to fully adjust to the screenplay's rhythms, but once you do, the dialogue is a lot of fun to listen to.</snippet>
+         <url>http://www.premiere.com/article.asp?section_id=2&amp;article_id=2718</url>
+         <critic>Ethan Alter</critic>
+      </review>
+      <review>
+         <snippet>"Sensational" is the word for Joseph Gordon-Levitt (equally striking in Mysterious Skin), who stars as Brendan, the teen outsider who becomes a budding Bogart.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/_/id/6821995/rid/9514539/</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>It's Gordon-Levitt's pitch-perfect work that makes Brick a hardboiled treat.</snippet>
+         <url>http://www.nypost.com/movies/66289.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>First-time writer-director Rian Johnson's gimmick is that his SoCal teens talk like film-noir yeggs and dames, slinging hard-boiled shade and spitting out terse, rat-a-tat dialogue peppered with slang that was yesterday's news 40 years before they were born. But the result is, against all odds, marvelously entertaining.</snippet>
+         <url>http://online.tvguide.com/movies/database/Movie-Review.asp?MI=46857</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>This movie leaves me looking forward to the director's next film; we can say of Rian Johnson, as somebody once said about a dame named Brigid O'Shaughnessy, "You're good. You're very good."</snippet>
+         <url>http://www.rogerebert.com/apps/pbcs.dll/article?AID=/20060406/REVIEWS/60403003/1023</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>The concept is clever and Johnson's brisk editing, dynamic camerawork and snazzy transitions has fun with it all. It makes for an inspired time-warped teenage film noir.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/265799_brick07q.html</url>
+         <critic>Sean Axmaker</critic>
+      </review>
+      <review>
+         <snippet>A weird and near-perfect polyglot of indie art film and noir mystery.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2006/04/07/DDG5UI4A4L1.DTL&amp;type=movies</url>
+         <critic>Neva Chonin</critic>
+      </review>
+      <review>
+         <snippet>Brick is kinda brilliant and kinda demented, and you love it for the former far more than you hold the latter against it.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/114427773744690.xml&amp;coll=7</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>Mainly, it's a clever gimmick, cleverly wrought, offering further evidence that you can dress up the student body in all manner of garb for all types of genres.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/LAC.20060407.BRICK07/TPStory/TPEntertainment/</url>
+         <critic>Rick Groen</critic>
+      </review>
+      <review>
+         <snippet>Like a good campfire storyteller, writer-director Rian Johnson knows how to fuse the amusing and the edgy. And, in Brendan, he has created an endearing character.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1107847&amp;lat=200.0&amp;lon=200.0&amp;displaySearchLocation=&amp;nm=1&amp;categories=Movies</url>
+         <critic>Desson Thomson</critic>
+      </review>
+      <review>
+         <snippet>Like the best noirs, Brick is a triumph of attitude, and there's no arguing that its brand of deadpan cool is precisely unique.</snippet>
+         <url>http://www.slate.com/id/2141094/?nav=fo</url>
+         <critic>Troy Patterson</critic>
+      </review>
+      <review>
+         <snippet>The story, while derivative, isn't half bad, and the picture gains in finesse and confidence to the point where Johnson more or less pulls off his peril-fraught exercise.</snippet>
+         <url>http://www.variety.com/index.asp?layout=sundance2005&amp;nav=reviews&amp;content=reviews&amp;reviewid=VE1117926021&amp;categoryid=1865&amp;cs=</url>
+         <critic>Todd McCarthy</critic>
+      </review>
+      <review>
+         <snippet>It's worth seeing for the tightly coiled plot, well-realized characters, and novel take on rapacious teen culture.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/capsules/28758_BRICK</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>The hair may thin considerably under Brick's hat after a while, and Hammett redone remains Hammett half done, but while the plates are in the air, it's a spectacle of nerve.</snippet>
+         <url>http://www.villagevoice.com/film/0613,atkinson,72680,20.html</url>
+         <critic>Michael Atkinson</critic>
+      </review>
+      <review>
+         <snippet>Writer-director Rian Johnson gives the usual teen angst an entertaining kick. But the joke wears off, and what's left is as convoluted and monotonous as any conventional hard-boiled mystery.</snippet>
+         <url>http://newyorkmetro.com/movies/reviews/16506/</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>Johnson pulls us into his world and keeps things oddly plausible, despite the intense stylization</snippet>
+         <url>http://www.laweekly.com/film/13007/oc-confidential/</url>
+         <critic>Scott Foundas</critic>
+      </review>
+      <review>
+         <snippet>Gordon-Levitt already proved in last year's "Mysterious Skin" his captivating command as a dramatic actor; with Brick he further demonstrates his remarkable dexterity and range.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A352860</url>
+         <critic>Marjorie Baumgarten</critic>
+      </review>
+      <review>
+         <snippet>This is neither the noir world of old '40s movies, of which he's clearly fond, nor something new and original enough to fit the concept. Instead, it feels like a blueprint for someone else to figure out.</snippet>
+         <url>http://www.miami.com/mld/miamiherald/entertainment/movies/14822380.htm</url>
+         <critic>Peter Debruge</critic>
+      </review>
+      <review>
+         <snippet>Johnson combines the elements of classic 1940s film noir and "Rebel Without a Cause"-style teen angst in a movie that is as phony as it is ambitious. It's an A+ film school exercise with zero emotional or social impact.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/moviereviews/story/404643p-342496c.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>Has the inherent limits of all movies that feed on movies, rather than life -- it's original, yet it's not.</snippet>
+         <url/>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>It's all so seamy, sordid, lurid and shocking! And dull, despite a noirish gloss of wide-angle cinematography and a jaundiced, smoggy color scheme.</snippet>
+         <url>http://movies2.nytimes.com/2006/03/31/movies/31bric.html</url>
+         <critic>Stephen Holden</critic>
+      </review>
+      <review>
+         <snippet>Alas, Brick, from writer-director Rian Johnson, isn't as clever as its conceit.</snippet>
+         <url>http://ae.philly.com/entertainment/ui/philly/movie.html?id=580179&amp;reviewId=20734</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>Challenging to follow, at best.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-060407-movies-review-brick,0,7927764.story?coll=mmx-movies_top_heds</url>
+         <critic>Allison Benedikt</critic>
+      </review>
+   </reviews>
+   <US_Gross>$2,075,743</US_Gross>
+   <production_budget>$450,000</production_budget>
+   <weekend_gross>$83,574</weekend_gross>
+   <number_of_screens>2</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

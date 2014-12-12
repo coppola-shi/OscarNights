@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>All About Steve</name>
+   <company>20th Century Fox</company>
+   <genres>
+      <genre>Comedy</genre>
+   </genres>
+   <authors>
+      <author>Kim Barker</author>
+   </authors>
+   <directors>
+      <director>Phil Traill</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Sra Bullock</actor>
+      <actor>Thomas Haden Church</actor>
+      <actor>Bradley Cooper</actor>
+      <actor>Ken Jeong</actor>
+      <actor>DJ Qualls</actor>
+      <actor>Katy Mixon</actor>
+      <actor>Howard Hesseman</actor>
+   </actors>
+   <release_date>September 4, 2009</release_date>
+   <running_time>minutes,</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>Bullock, easing into her mid-40s with box-office mojo intact, remains the star attraction as the annoyingly endearing Mary. You simply can't imagine another actor of her stature pulling it off.</snippet>
+         <url>http://www.theglobeandmail.com/news/arts/all-about-steve/article1275000/</url>
+         <critic>Staff (Not credited)</critic>
+      </review>
+      <review>
+         <snippet>Refreshingly quirky comedy.</snippet>
+         <url>http://www.laweekly.com/2009-09-03/film-tv/movie-reviews-amreeka-gamer-the-headless-woman/</url>
+         <critic>Chuck Wilson</critic>
+      </review>
+      <review>
+         <snippet>There are good movies to be made about romantic obsession, but the premise doesn't work if the crazy stalker isn't juxtaposed with a sympathetic victim.</snippet>
+         <url>http://www.stltoday.com/stltoday/entertainment/reviews.nsf/movie/story/6EA52751C52C3E6086257625006BD290?OpenDocument</url>
+         <critic>Joe Williams</critic>
+      </review>
+      <review>
+         <snippet>The screenplay by Kim Barker requires Bullock to behave in an essentially disturbing way that began to wear on me. It begins as merely peculiar, moves on to miscalculation and becomes seriously annoying.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20090902/REVIEWS/909029996</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>Struggles mightily to find its loony essence. But Bullock's apple-cheeked larkishness is all flailing limbs and bug-eyed reaction shots - there's no there there. Cooper's character is woefully underwritten, Church's is yet another vain anchorman-wannabe cartoon.</snippet>
+         <url>http://www.philly.com/inquirer/columnists/steven_rea/20090904_A_screwball_comedy_that_s_misguided.html</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>Manages to be both toothless and tasteless in its satire of TV news sensationalism.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2009-09-03-all-about-steve_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>There’s nothing wrong with All About Steve that a rewrite couldn’t fix, as long as the rewrite involved a different writer, a different character and a different story.</snippet>
+         <url>http://featuresblogs.chicagotribune.com/talking_pictures/</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>If it's about anything at all, the lame new comedy All About Steve is mostly about Mary, a logorrheic crossword compiler with too much arcane information in her head -- and the social skills of an excitable 6-year-old boy.</snippet>
+         <url>http://www.npr.org/templates/story/story.php?storyId=112450370</url>
+         <critic>Ella Taylor</critic>
+      </review>
+      <review>
+         <snippet>A viewer is challenged to guess what the filmmakers thought they were doing. A 1930s screwball comedy with a modern sensibility? A misguided valentine to those who march to the beat of a different drummer?</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film-reviews/all-about-steve-film-review-1004009163.story</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>A creepy, humiliating ''comedy,'' playing to Bullock's worst instincts for demonstrating the lovability of women who don’t fit in.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20302478,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>There's no footing in reality. Nothing about it feels authentic: not the blathering Mary, not the lifeless secondary characters, not the bromide-happy dialogue or the plot that twists less often than it spasms.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2009/09/03/MVB019HIBM.DTL&amp;type=movies</url>
+         <critic>Amy Biancolli</critic>
+      </review>
+      <review>
+         <snippet>Bullock does her damndest to be nerdy and instead becomes excruciatingly artificial - a malfunctioning verbal fun machine.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-ae.mo.steve04sep04,0,4311865.story</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>A talented director might have made Bullock seem like a comic genius, but Phil Traill has no control over tone, leaving the audience unsure whether to laugh or cry.</snippet>
+         <url>http://newyork.timeout.com/articles/film/78416/all-about-steve-film-review</url>
+         <critic>Hank Sartin</critic>
+      </review>
+      <review>
+         <snippet>Indisputably awful comedy.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A827881</url>
+         <critic>Kimberley Jones</critic>
+      </review>
+      <review>
+         <snippet>Just when you think your jaw can't drop any lower in appalled amazement, comes a romantic comedy so lunkheaded and ill-conceived that it makes your average, idiotic Kate Hudson-Matthew McConaughey outing look like the reincarnation of Hepburn and Grant.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2009/09/04/all_about_steve/index.html</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>The concept of an intelligent woman is apparently so exotic to Ms. Bullock and her director, Phil Traill, that they frantically kook the character up, as if female smarts were a kind of disability. This being a contemporary big-studio release, I suppose it is.</snippet>
+         <url>http://movies.nytimes.com/2009/09/04/movies/04steve.html?ref=movies</url>
+         <critic>Manohla Dargis</critic>
+      </review>
+      <review>
+         <snippet>A dippy clunker like All About Steve has no purpose other than as a challenge: If you laden a usually charming A-lister with a thoroughly off-putting, unhinged character, can she claw her way to likability? The short answer is no. The long answer is, what in the world was Bullock, who also produced the movie, thinking?</snippet>
+         <url>http://www.latimes.com/entertainment/news/la-et-steve4-2009sep04,0,4095604.story</url>
+         <critic>Robert Abele</critic>
+      </review>
+      <review>
+         <snippet>Much of what's offensive and insufferable about All About Steve can be laid at the feet of screenwriter Kim Barker, best known for inflicting "License to Wed" on the world. Why do these people still earn obscene amounts of money churning out dreck? And why do stars like Bullock keep paying them?</snippet>
+         <url>http://www.washingtonpost.com/gog/movies/all-about-steve,1150592/critic-review.html#reviewNum1</url>
+         <critic>Ann Hornaday</critic>
+      </review>
+      <review>
+         <snippet>Since Bullock coproduced this masochistic venture, it seems she buys into the idea that fluffer-nut ditziness is what she does best.
+Except it isn't.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2009/09/03/2009-09-03_all_about_steve_is_all_wrong_for_sandra_bullock__and_just_about_everyone_else.html</url>
+         <critic>Joe Neumaier</critic>
+      </review>
+      <review>
+         <snippet>A head-banging excuse for a comedy.</snippet>
+         <url>http://online.wsj.com/article/film_review.html</url>
+         <critic>Joanne Kaufman</critic>
+      </review>
+      <review>
+         <snippet>Sitting through the picture is an endurance test.</snippet>
+         <url>http://www.variety.com/review/VE1117940934.html?categoryid=31&amp;cs=1</url>
+         <critic>Brian Lowry</critic>
+      </review>
+      <review>
+         <snippet>Grotesquely unfunny comedy.</snippet>
+         <url>http://www.nypost.com/seven/09042009/entertainment/movies/cluelessm_across__down_188056.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>Packaged as a romantic comedy but devoid of comedy or romance, this baffling train wreck stars Sandra Bullock as a tediously kooky constructor of crossword puzzles for a Sacramento newspaper.</snippet>
+         <url>http://www.chicagoreader.com/chicago/MovieTimes?oid=1003551</url>
+         <critic>Cliff Doerksen</critic>
+      </review>
+      <review>
+         <snippet>How do you make a movie about a protagonist so profoundly irritating that even her loved ones barely tolerate her? And how do you avoid annoying audiences to the point of distraction in the process?</snippet>
+         <url>http://www.avclub.com/articles/all-about-steve,32512/</url>
+         <critic>Nathan Rabin</critic>
+      </review>
+      <review>
+         <snippet>Insulting, witless comedy.</snippet>
+         <url>http://www.miamiherald.com/entertainment/movies/reviews/story/1215766.html</url>
+         <critic>Connie Ogle</critic>
+      </review>
+      <review>
+         <snippet>Easily the worst movie of the week, month, year, and Bullock’s entire career. It is to comedy what leprosy once was to the island of Molokai: a plague best contemplated from many miles away.</snippet>
+         <url>http://www.boston.com/ae/movies/articles/2009/09/04/stay_away_from_stalking_steve/</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>Unwatchable, unbearably unfunny farce.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/25910318/review/29989457/all_about_steve</url>
+         <critic>Peter Travers</critic>
+      </review>
+   </reviews>
+   <US_Gross>$33,860,010</US_Gross>
+   <weekend_gross>$11,241,214</weekend_gross>
+   <number_of_screens>2,251</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>true</labor_release>
+</movie>

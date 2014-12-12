@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Don&amp;#039;t Trip ... He Ain&amp;#039;t Through with Me Yet</name>
+   <company>Code Black Entertainment</company>
+   <genres>
+      <genre>Comedy</genre>
+      <genre>Documentary</genre>
+   </genres>
+   <authors>
+      <author/>
+   </authors>
+   <directors>
+      <director>Leslie Small</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Steve Harvey</actor>
+      <actor>Rickey Smiley</actor>
+   </actors>
+   <release_date>March 17, 2006</release_date>
+   <running_time>90</running_time>
+   <rating>PG</rating>
+   <reviews>
+      <review>
+         <snippet>The show ends with a moving declaration of faith by the star, who was raised in the church, but there's no denying that his funniest moments spring from impulses that are less than charitable.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/capsules/29465_DONT_TRIP_HE_AINT_THROUGH_WITH_ME_YET</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>Harvey's stand takes place live in front of 16,000 believers at Bishop T.D. Jakes' church event MegaFest, and the intriguing novelty of the movie comes from watching one of the R-rated Original Kings of Comedy try to go the whole night without swearing.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1173451_1_0_,00.html</url>
+         <critic>Gregory Kirschling</critic>
+      </review>
+      <review>
+         <snippet>Harvey's a gifted physical mimic who demonstrates the comic waddle of the church usher with fallen arches, as well as the poor parishioner etiquette of grabbing too many communion wafers.</snippet>
+         <url>http://ae.charlotte.com/entertainment/ui/charlotte/movie.html?id=564639&amp;reviewId=20360</url>
+         <critic>Carrie Rickey</critic>
+      </review>
+      <review>
+         <snippet>Despite more audience cutaways than the State of the Union Address, the movie's largely a you-had-to-be-there affair--except when the star does an uncanny imitation of a double-wide churchgoer scooting through a narrow pew.</snippet>
+         <url>http://www.villagevoice.com/film/0611,shots,72533,20.html</url>
+         <critic>Jim Ridley</critic>
+      </review>
+      <review>
+         <snippet>The film's first half, at least, is full of good comedy, no matter what the crowd.</snippet>
+         <url>http://www.nytimes.com/2006/03/17/movies/17trip.html</url>
+         <critic>Neil Genzlinger</critic>
+      </review>
+      <review>
+         <snippet>The film is a straight concert appearance: No backstage material after a brief introduction, no footage of him in any other context. He's certainly smooth, engaging and likeable onstage, but you won't learn anything about him you didn't already know.</snippet>
+         <url>http://ae.charlotte.com/entertainment/ui/charlotte/movie.html?id=564639&amp;reviewId=20342&amp;startDate=NEXT7</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+   </reviews>
+   <US_Gross>$319,088</US_Gross>
+   <weekend_gross>$164,926</weekend_gross>
+   <number_of_screens>54</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

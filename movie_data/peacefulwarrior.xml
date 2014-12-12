@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Peaceful Warrior</name>
+   <company>Lions Gate Films / DEJ Productions</company>
+   <genres>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author>Kevin Bernhardt</author>
+      <author>Dan Millman</author>
+   </authors>
+   <directors>
+      <director>Victor Salva</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Scott Mechlowicz</actor>
+      <actor>Nick Nolte</actor>
+      <actor>Amy Smart</actor>
+      <actor>Paul Wesley</actor>
+      <actor>Ashton Holmes</actor>
+      <actor>Agnes Bruckner</actor>
+      <actor>B.J. Britt</actor>
+      <actor>Beatrice Rosen</actor>
+   </actors>
+   <release_date>June 2, 2006</release_date>
+   <running_time>121</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>Strong performances by Scott Mechlowicz as Millman and Nick Nolte as the mysterious mechanic who changes his life ground the film in effective drama.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1002425886</url>
+         <critic>Sheri Linden</critic>
+      </review>
+      <review>
+         <snippet>The result is something close to a textbook example of how NOT to visualize spiritual principles of the "be here now" variety.</snippet>
+         <url>http://online.tvguide.com/newsearch/detail.aspx?id=46936&amp;sourcetype=m&amp;progseriesparentid=0&amp;tvobjectid=280260&amp;keyword=&amp;more=ucmoviereview</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>Sometimes in an imperfect movie there is consolation simply in regarding the actors.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20060622/REVIEWS/60517004</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>Cult-favorite director Victor Salva ("Jeepers Creepers" I &amp; II) is a competent visual storyteller and the film believes in itself so strongly (and with such a straight face) that it's hard not to halfway enjoy it.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/272449_warrior02q.html</url>
+         <critic>William Arnold</critic>
+      </review>
+      <review>
+         <snippet>In the ranks of improbable gymnastics coaches, Nick Nolte falls just below the cartoon version of Mr. T.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1199522_1_0_,00.html</url>
+         <critic>Scott Brown</critic>
+      </review>
+      <review>
+         <snippet>Mere recitation of homilies for better living -- which is what Nick Nolte's gas station guru imparts to a struggling young gymnast -- and a half-baked account of the athlete's comeback are no substitutes for a complete movie.</snippet>
+         <url>http://www.variety.com/review/VE1117930387?categoryid=31&amp;cs=1&amp;s=h&amp;p=0</url>
+         <critic>Robert Koehler</critic>
+      </review>
+      <review>
+         <snippet>The film is better than it has any right to be, considering the prosaic source.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2006/06/02/DDGJVJ5D8V1.DTL&amp;type=movies</url>
+         <critic>Ruthe Stein</critic>
+      </review>
+      <review>
+         <snippet>Above all, there's Nolte, who hovers over the whole production like some sapient force of nature.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A377897</url>
+         <critic>Marc Savlov</critic>
+      </review>
+      <review>
+         <snippet>All this stuff is probably right. It's just that the director, Victor Salva, underscores his points with thunderous obviousness and manipulates us through ham-handed plot gambits.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1121392&amp;lat=200.0&amp;lon=200.0&amp;displaySearchLocation=&amp;nm=1&amp;categories=Movies</url>
+         <critic>Stephen Hunter</critic>
+      </review>
+      <review>
+         <snippet>You might be better off reading the book and imagining Nolte as Socrates.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/1149117947180610.xml&amp;coll=7</url>
+         <critic>M. E. Russell</critic>
+      </review>
+      <review>
+         <snippet>Watchable exercise in Zen hokum.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/29965_PEACEFUL_WARRIOR.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>The "What The Bleep Do We Know?" crowd may well receive the film's wisdom like communion, but the rest of us are free to gag when Salva tries to jam it down our throats.</snippet>
+         <url>http://www.avclub.com/content/node/49519</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>For all its manifest corniness, this is an achingly sincere and supremely unembarrassed effort to transform an audience for the good. Its heart is very much in the right place - a place that movies all but ignore - but its mind is a mush.</snippet>
+         <url>http://www.nytimes.com/2006/07/14/movies/14warr.html</url>
+         <critic>Nathan Lee</critic>
+      </review>
+      <review>
+         <snippet>You'd have to be either an avid New Ager or willing to see Nick Nolte in absolutely anything to get fully onboard for this visually overexcited tale of salvation-by-gas-station-guru.</snippet>
+         <url>http://www.laweekly.com/film+tv/film-reviews/film-reviews/13654/</url>
+         <critic>Ella Taylor</critic>
+      </review>
+      <review>
+         <snippet>The cast is quite good. But Peaceful Warrior, which is basically "The Karate Kid" with a bigger kid and a bigger mentor, represents a journey of predictability, rather than a destination worth the trouble.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-060623-movies-review-warrior,0,6945984.story?coll=mmx-movies_top_heds</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>The film's biggest miracle is the straight face Nick Nolte maintains in his role as Socrates.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=8951</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>The intriguing thing about The Peaceful Warrior is that nothing else in the movie feels haphazard.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/LAC.20060714.WARRIOR14/TPStory/TPEntertainment/Movies/</url>
+         <critic>Liam Lacey</critic>
+      </review>
+      <review>
+         <snippet>By the end of the film's two-hour stream of Be-Here-Now-isms, anyone left in the audience will be wanting to yell, "Put a sock in it!" to old Soc.</snippet>
+         <url>http://ae.miami.com/entertainment/ui/miami/movie.html?id=617516&amp;reviewId=21119</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>The sage-elder/wayward-charge saga Peaceful Warrior aims for inspirational highs but mostly feels like a self-help book read aloud by actors.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-peaceful2jun02,0,2768793.story?coll=cl-mreview</url>
+         <critic>Robert Abele</critic>
+      </review>
+      <review>
+         <snippet>This woozily uplifting saga is big on homilies and deficient in just about everything else.</snippet>
+         <url>http://www.csmonitor.com/2006/0602/p15s02-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>One of those blessedly rare films based on a self-help book, is remarkable in one sense: It prevents "The Lake House" and its magical mailbox from being the most ridiculous concept on screen this summer.</snippet>
+         <url>http://ae.miami.com/entertainment/ui/miami/movie.html?id=617516&amp;reviewId=21104</url>
+         <critic>Connie Ogle</critic>
+      </review>
+      <review>
+         <snippet>Tries to be "The Karate Kid" of gymnastics. It looks more like "The Karate Kid" as imagined by Details magazine.</snippet>
+         <url>http://www.nypost.com/entertainment/movies/gym_dandy__film_not_movies_kyle_smith.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>Peaceful Warrior fails pitifully at being transcendent. This New Age movie about living in the moment gets you looking at your watch and squirming in your seat.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-to.warrior14jul14,0,5199615.story?coll=bal-artslife-movies</url>
+         <critic>Michael Sragow</critic>
+      </review>
+   </reviews>
+   <US_Gross>$2,893,666</US_Gross>
+   <weekend_gross>$80,602</weekend_gross>
+   <number_of_screens>10</number_of_screens>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

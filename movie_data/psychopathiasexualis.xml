@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Psychopathia Sexualis</name>
+   <company>Kino International</company>
+   <genres>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author>Bret Wood</author>
+   </authors>
+   <directors>
+      <director>Bret Wood</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Jane Bass</actor>
+      <actor>Bryan Davis</actor>
+      <actor>Veronika Duerr</actor>
+      <actor>Sra L. Hughes</actor>
+      <actor>Ted Manson</actor>
+      <actor>Daniel May</actor>
+      <actor>Rob Nixon</actor>
+      <actor>Lisa Paulsen</actor>
+      <actor>Daniel Pettrow</actor>
+      <actor>Rachel Sorsa</actor>
+   </actors>
+   <release_date>June 8, 2006</release_date>
+   <running_time>102</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>A window into bygone morals and mores.</snippet>
+         <url>http://online.tvguide.com/newsearch/detail.aspx?id=46945&amp;sourcetype=m&amp;progseriesparentid=0&amp;tvobjectid=0&amp;keyword=&amp;more=ucmoviereview</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>An independent American art film that seems to be masquerading as Victorian-era pornography--and it's not quite as interesting or provocative as that description might make it sound.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-060609-movies-review-sexualis,0,7889967.story?coll=mmx-movies_top_heds</url>
+         <critic>Michael Wilmington</critic>
+      </review>
+      <review>
+         <snippet>The curiously stylized piece, shot in a muted palette with performances to match (the cast is perhaps too restrained given the theatrical framework), is dramatically colorless, but the moods and moments are crafted with kinky grace.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/273257_limited09.html</url>
+         <critic>Sean Axmaker</critic>
+      </review>
+      <review>
+         <snippet>Psychopathia Sexualis exists in the gray area between ponderous stylization and campy affectation.</snippet>
+         <url>http://www.variety.com/review/VE1117930759?categoryid=31&amp;cs=1</url>
+         <critic>Joe Leydon</critic>
+      </review>
+      <review>
+         <snippet>The director's familiarity with silent cinema enhances the prudish pornographic footage, but when he starts cutting between separate perversions, I began to wonder if he was getting as bored with the material as I was.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/29893_PSYCHOPATHIA_SEXUALIS.html</url>
+         <critic>Jonathan Rosenbaum</critic>
+      </review>
+      <review>
+         <snippet>It's a mildly enjoyable romp.</snippet>
+         <url>http://www.laweekly.com/film+tv/film-reviews/film-reviews/14245/</url>
+         <critic>Ernest Hardy</critic>
+      </review>
+      <review>
+         <snippet>The result is a sepia-toned muddle.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/1150325712213860.xml&amp;coll=7</url>
+         <critic>Marc Mohan</critic>
+      </review>
+      <review>
+         <snippet>Sex can be fun and exciting and wonderful. It also can be deadly boring, as in Psychopathia Sexu alis.</snippet>
+         <url>http://www.nypost.com/movies/69785.htm</url>
+         <critic>V.A. Musetto</critic>
+      </review>
+      <review>
+         <snippet>Drearily pretentious, Sexualis has even less softcore appeal than an American Apparel ad.</snippet>
+         <url>http://www.villagevoice.com/film/0623,strong,73463,20.html</url>
+         <critic>Benjamin Strong</critic>
+      </review>
+      <review>
+         <snippet>Whether in the whorehouse or the sanitarium, Psychopathia Sexualis is an exercise in unrelenting dullness.</snippet>
+         <url>http://movies2.nytimes.com/2006/06/08/movies/08psyc.html</url>
+         <critic>Jeannette Catsoulis</critic>
+      </review>
+   </reviews>
+   <US_Gross>$4,012</US_Gross>
+   <weekend_gross>$1,612</weekend_gross>
+   <number_of_screens>3</number_of_screens>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

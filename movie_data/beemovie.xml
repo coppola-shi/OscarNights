@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Bee Movie</name>
+   <company>DreamWorks Animation</company>
+   <genres>
+      <genre>Animation</genre>
+      <genre>Comedy</genre>
+   </genres>
+   <authors>
+      <author>Andy Robin</author>
+      <author>Barry Marder</author>
+      <author>Spike Feresten</author>
+      <author>Jerry Seinfeld</author>
+   </authors>
+   <directors>
+      <director>Steve Hickner</director>
+      <director>Simon J. Smith</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Jerry Seinfeld</actor>
+      <actor>Renée Zellweger</actor>
+      <actor>Matthew Broderick</actor>
+      <actor>John Goodman</actor>
+      <actor>Chris Rock</actor>
+      <actor>Patrick Warburton</actor>
+      <actor>Kathy Bates</actor>
+      <actor>Rip Torn</actor>
+   </actors>
+   <release_date>November 2, 2007</release_date>
+   <running_time>90</running_time>
+   <rating>PG</rating>
+   <reviews>
+      <review>
+         <snippet>Agreeably skewed fun.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20155937,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>At its relaxed best, when it's about, well, nothing, the slyly comic Bee Movie is truly beguiling.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/15086828/review/17163289/bee_movie</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>Kids are going to adore looking at this movie, living in it, flying through and above its brilliant landscape. It's an animated joyride over a relief map of Manhattan. I just wish the script was as good as the paint.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2007/10/31/2007-10-31_bee_movie_is_beedazzling.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>Dazzling fun. Jerry is master of a new domain.</snippet>
+         <url>http://www.nypost.com/seven/11022007/entertainment/movies/jerry_bee_good_87663.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>The movie's not even close to Pixar standards - the animation is slapdash and the story construction's a mess - but the vibe is loose-limbed and fluky, and the gags have an extra snap that's recognizably Seinfeldian.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=8025</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>It has enough buzzing wit and eye-popping animation to win over the kids - and probably more than a few parents, too.</snippet>
+         <url>http://www.philly.com/inquirer/columnists/steven_rea/20071102_Bee_Movie_flies.html</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>I'm not sure what kids are going to make of Bee Movie. The shiny, vivid computer-animated images pop off the screen with the vibrancy of the Pixar movies, but the understated, throwaway humor is pure Seinfeld: adult, observational, feasting on the small ironies of human (make that "beeish") behavior.</snippet>
+         <url>http://www.newsweek.com/id/67553</url>
+         <critic>David Ansen</critic>
+      </review>
+      <review>
+         <snippet>The real fun is the insect shtick.</snippet>
+         <url>http://movies.nytimes.com/2007/11/02/movies/02bee.html?ref=movies</url>
+         <critic>A.O. Scott</critic>
+      </review>
+      <review>
+         <snippet>Jerry Seinfeld's foray into feature animation will delight young kids and leave their elders alternately amused and bemused.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/reviews/bal-to.bee02nov02,0,1964128.story</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>It's good to have Seinfeld back, even in this watered-down form.</snippet>
+         <url>http://www.avclub.com/content/cinema/bee_movie</url>
+         <critic>Nathan Rabin</critic>
+      </review>
+      <review>
+         <snippet>The riskiest move Seinfeld made was to create an unlikable protagonist who is wrong every step of the way, but treat him like a hero.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/337713_bee02q.html</url>
+         <critic>Andy Spletzer</critic>
+      </review>
+      <review>
+         <snippet>This candy-colored animated fable is an awkward mix of corny bee puns, clever sight gags, kid-friendly action, adult-centric workplace angst and Seinfeld's distinctive navel-gazing wit. And what's up with those four-legged bees?</snippet>
+         <url>http://www.tvguide.com/movies/bee-movie/review/291102</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>Much of this wordplay is clever, though there’s something off with the plotting.</snippet>
+         <url>http://chicago.metromix.com/movies/movie_review/movie-review-bee-movie/243215/content</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>On the whole, this is another disappointing animated effort and it resides considerably lower on the totem pole than this year's current non-live action champion, "Ratatouille."</snippet>
+         <url>http://www.reelviews.net/movies/b/bee_movie.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>The depth of talent in the cast and gag writing shines through, but it’s only just enough to take your mind off of the flat animation.</snippet>
+         <url>http://www.empireonline.com/reviews/reviewcomplete.asp?FID=11093</url>
+         <critic>Sam Toy</critic>
+      </review>
+      <review>
+         <snippet>The movie's more than cute, funny, and (at 81 minutes) brisk enough to move families in and out of the multiplex in mass quantities, like the social insects we are.</snippet>
+         <url>http://www.slate.com/id/2177253/fr/flyout</url>
+         <critic>Dana Stevens</critic>
+      </review>
+      <review>
+         <snippet>If an animated movie isn't competing with Pixar to dazzle the eye, it had darn well better hit the heart or the funny bone. With its wee little stinger, Bee Movie misses both.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/1193862337179810.xml&amp;coll=7</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>Feels so slight and trivial, like a cute but small idea blown up to proportions it does not merit. A surprisingly unfunny, belabored and unimaginative comedy, Bee Movie is a huge disappointment considering the extent of Seinfeld's participation.</snippet>
+         <url>http://www.miamiherald.com/1054/story/291626.html</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>Just another ambitious, lavish animated adventure, pretty enough to look at, but ultimately foundering on the weakness of its script.</snippet>
+         <url>http://salon.com/ent/movies/review/2007/11/02/bee_movie/</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>The whole thing's pretty cute and breezy, but don't expect logic or coherence.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/32370_BEE_MOVIE.html</url>
+         <critic>Jonathan Rosenbaum</critic>
+      </review>
+      <review>
+         <snippet>Maybe Bee Movie is another ground-breaking show about nothing – a hornet's nest of hype for a fat hive of nothing. If so, pay up and get stung.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20071102.wbee02/BNStory/Entertainment/home</url>
+         <critic>Rick Groen</critic>
+      </review>
+      <review>
+         <snippet>All of this material, written by Seinfeld and writers associated with his television series, tries hard, but never really takes off.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20071101/REVIEWS/711010301</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>There's no real jeopardy. The stakes are low. It's a bee movie about nothing.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-beemovie2nov02,0,77229.story?coll=cl-mreview</url>
+         <critic>Carina Chocano</critic>
+      </review>
+      <review>
+         <snippet>Has a few charming moments and a scene or two with legitimate hilarity, but mostly it's just mediocre.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2007/11/02/DD78T3ORQ.DTL&amp;type=movies</url>
+         <critic>Peter Hartlaub</critic>
+      </review>
+      <review>
+         <snippet>No nectar of the gods this, but we can still be thankful that Bee Movie is a sweet morsel that's devoid of any jokes about bee farts and poop.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A555469</url>
+         <critic>Marjorie Baumgarten</critic>
+      </review>
+      <review>
+         <snippet>For all the muscle and money behind Bee Movie, it still feels unfocused and unfinished.</snippet>
+         <url>http://www.laweekly.com/film+tv/film-reviews/movie-reviews-bee-movie-darfur-now-primo-levis-journey/17609/</url>
+         <critic>Robert Wilonsky</critic>
+      </review>
+      <review>
+         <snippet>Best viewed as an oddball career move rather than as a successful movie.</snippet>
+         <url>http://www.csmonitor.com/2007/1102/p14s02-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>Unfortunately, bees just aren't that funny...Nor is the odd story Seinfeld and his collaborators dreamed up very inspired.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/imdb/reviews/article_display.jsp?rid=10107&amp;vnu_special_account_code=thrsiteimdbpro</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>Amiable but no more, Bee Movie puts a hiveful of potent talent at the service of a zig-zigging, back-of-an-envelope story that's short on surprise and originality.</snippet>
+         <url>http://www.variety.com/review/VE1117935227.html?categoryid=31&amp;cs=1</url>
+         <critic>Todd McCarthy</critic>
+      </review>
+      <review>
+         <snippet>The result is oddly schizoid, but also so insubstantial that to call it oddly schizoid suggests a weight it doesn't have.</snippet>
+         <url>http://www.premiere.com/moviereviews/4217/bee-movie.html</url>
+         <critic>Glenn Kenny</critic>
+      </review>
+      <review>
+         <snippet>The more the movie progresses, the more you realize how much Seinfeld's voice sounds like a droning bee -- the kind you want to swat away.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1111712&amp;categories=Movies&amp;nm=1</url>
+         <critic>Desson Thomson</critic>
+      </review>
+      <review>
+         <snippet>The film will be huge. It’s busy. It’s kinetic. It’s a treat for kids. But like much of Seinfeld’s work outside his TV show, it’s impersonal. It doesn’t come from anywhere interesting.</snippet>
+         <url>http://nymag.com/movies/reviews/40291/index1.html</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>It's so unfunny it almost stings.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2007-11-01-bee-movie_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>Bee Movie isn't a B movie, it's a Z movie, as in dizmal.</snippet>
+         <url>http://online.wsj.com/article/SB119395848827779795.html</url>
+         <critic>Joe Morgenstern</critic>
+      </review>
+   </reviews>
+   <US_Gross>$126,631,277</US_Gross>
+   <production_budget>$150,000,000</production_budget>
+   <weekend_gross>$38,021,044</weekend_gross>
+   <number_of_screens>3,928</number_of_screens>
+   <oscar_winning_actors_present/>
+   <num_oscar_winning_actors>1</num_oscar_winning_actors>
+   <oscar_winning_actor>kathy bates</oscar_winning_actor>
+   <highest_grossing_actors_present/>
+   <num_highest_grossing_actors>1</num_highest_grossing_actors>
+   <highest_grossing_actor>kathy bates</highest_grossing_actor>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

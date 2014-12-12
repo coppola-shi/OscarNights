@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Where the Truth Lies</name>
+   <company>ThinkFilm Inc.</company>
+   <genres>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author>Atom Egoyan</author>
+      <author>Rupert Holmes</author>
+   </authors>
+   <directors>
+      <director>Atom Egoyan</director>
+   </directors>
+   <origins>
+      <origin>CanadaUKUSA</origin>
+   </origins>
+   <actors>
+      <actor>Kevin Bacon</actor>
+      <actor>Colin Firth</actor>
+      <actor>Alison Lohman</actor>
+      <actor>Sonja Bennett</actor>
+      <actor>Rachel Blanchard</actor>
+      <actor>Kathryn Winslow</actor>
+      <actor>David Hayman</actor>
+      <actor>Maury Chaykin</actor>
+   </actors>
+   <release_date>October 14, 2005</release_date>
+   <running_time>108</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>Atom Egoyan has delivered a big, slick and sexy mystery in Where the Truth Lies, turning the Rupert Holmes novel into a sumptuous tale of show business hype and duplicity.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1000920644</url>
+         <critic>Ray Bennett</critic>
+      </review>
+      <review>
+         <snippet>A mood of lush romantic decadence -- sleaze made enigmatic -- hovers over Where the Truth Lies, which has a score that works so hard to evoke "Vertigo" that it may leave you dizzy.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1116756_1_0_,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>A rare film in which the style IS the substance.</snippet>
+         <url>http://www.empireonline.co.uk/incinemas/ReviewComplete.asp?FID=11383</url>
+         <critic>Alan Morrison</critic>
+      </review>
+      <review>
+         <snippet>Kevin Bacon is on a roll right now after several good roles, and here he channels diabolical sleaze while mugging joylessly before the telethon cameras.</snippet>
+         <url>http://www.rogerebert.com/apps/pbcs.dll/article?AID=/20051027/REVIEWS/50928007/1023</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>A fascinating ride through morally ambiguous territory to a place you've never been before.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/246173_truth28q.html</url>
+         <critic>William Arnold</critic>
+      </review>
+      <review>
+         <snippet>High-gloss trash but compulsively watchable.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2005/10/21/DDGJNFB5E31.DTL&amp;type=movies</url>
+         <critic>Ruthe Stein</critic>
+      </review>
+      <review>
+         <snippet>The real reason to see it is its style, which sets an otherwise fairly unremarkable whodunit in a seedy, lite-Lynchian wonderland that's enjoyable to hang out in for a while.</snippet>
+         <url>http://www.calendarlive.com/movies/chocano/cl-et-truth14oct14,0,2842257.story</url>
+         <critic>Carina Chocano</critic>
+      </review>
+      <review>
+         <snippet>When conventional answers arrive, Where the Truth Lies seems as cheesy as its title -- but its disorienting layers of narrative make the double-entendre almost profound.</snippet>
+         <url>http://www.laweekly.com/film/film_results.php?showid=3606&amp;Sumbit.x=30&amp;Sumbit.y=9</url>
+         <critic>Ben Kenigsberg</critic>
+      </review>
+      <review>
+         <snippet>There are moments here so out of whack that you almost wonder if David Lynch isn't snickering somewhere at having fooled everyone into thinking someone else made the film.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/1130318877109350.xml&amp;coll=7</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>Entertaining and even affecting, Where the Truth Lies is a failure primarily because it doesn't do justice to its originator, Rupert Holmes' dishy 2003 novel, which shared both of the aforementioned characteristics but also was extremely funny. The film, directed by Atom Egoyan, is not.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-0501028-movies-review-truth,0,3805932.story?coll=mmx-movies_top_heds</url>
+         <critic>Jessica Reaves</critic>
+      </review>
+      <review>
+         <snippet>Egoyan drains the life right out of the material, and the result is a chilly, complicated thriller that's neither thrilling nor a "Through the Looking Glass" head spinner.</snippet>
+         <url>http://online.tvguide.com/movies/database/showmovie.asp?MI=46433</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>Atom Egoyan's most mainstream and genre-oriented picture in his 20-year career applies a thick noir lacquer to a jumbled, time-jumping tale of a young female journalist prying the facts out of the aging entertainers and their cronies.</snippet>
+         <url>http://www.variety.com/review/VE1117927091?categoryid=1929&amp;cs=1</url>
+         <critic>Todd McCarthy</critic>
+      </review>
+      <review>
+         <snippet>Egoyan's uncharacteristic bid for the mainstream flames out on many levels,
+but it's hard not to stare with fascination at the dying embers.</snippet>
+         <url>http://www.nydailynews.com/10-14-2005/entertainment/col/story/355626p-302899c.html</url>
+         <critic>Jami Bernard</critic>
+      </review>
+      <review>
+         <snippet>In the end, it is Mr. Egoyan's fealty to the novel, its feints and dodges, that proves the film's undoing.</snippet>
+         <url>http://movies2.nytimes.com/2005/10/14/movies/14trut.html</url>
+         <critic>Manohla Dargis</critic>
+      </review>
+      <review>
+         <snippet>Stilted film squanders an intriguing premise.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2005-10-13-also-in-theaters_x.htm</url>
+         <critic>Mike Clark</critic>
+      </review>
+      <review>
+         <snippet>Egoyan's sensibility doesn't quite fit the material. His trademark stone-faced austerity never bends to capture the black comedy in the dissonance between his characters' public and private lives. It almost demands a trashier approach.</snippet>
+         <url>http://avclub.com/content/node/41507</url>
+         <critic>Keith Phipps</critic>
+      </review>
+      <review>
+         <snippet>It's compelling in the way many B-movies are - cheap, sleazy, and lacking the depth we have come to associate with this director.</snippet>
+         <url>http://movie-reviews.colossus.net/movies/w/where_truth.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>Terrific performances by Kevin Bacon and Colin Firth as a comic duo clearly modeled on Jerry Lewis and Dean Martin get swallowed up in Atom Egoyan's muddled murder mystery.</snippet>
+         <url>http://www.nypost.com/movies/55331.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>Again, Lohman's lack of power--and passion--saps the story of its life. It's a shame, because a bold performance would have given Firth and Bacon even more to work with, and the relationships between and among the members of that ménage à trois could have really begun to zing.</snippet>
+         <url>http://dallasobserver.com/Issues/2005-10-27/film/film7.html</url>
+         <critic>Melissa Levine</critic>
+      </review>
+      <review>
+         <snippet>A strange mix of showbiz whodunit and soft-core eroticism, with a couple of fine actors - Kevin Bacon and Colin Firth - wandering around stunned and stoned-looking, as if someone slipped them a mickey.</snippet>
+         <url>http://ae.philly.com/entertainment/ui/philly/movie.html?id=441432&amp;reviewId=19373</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>Malevolence is in generous supply throughout the film. Easy enjoyment is not.</snippet>
+         <url/>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>The time shifts are awkward, and Egoyan displays little of the deftness of characterization he evinced in such movies as 
+"Exotica" (1994) and "The Sweet Hereafter" (1997); the result is a cold scold of a movie.</snippet>
+         <url>http://newyorkmetro.com/nymetro/movies/reviews/14698/</url>
+         <critic>Ken Tucker</critic>
+      </review>
+      <review>
+         <snippet>This showbiz Rashomon has continuity, as well as credibility, problems.</snippet>
+         <url>http://www.villagevoice.com/film/0541,hoberman1,68706,20.html</url>
+         <critic>J. Hoberman</critic>
+      </review>
+      <review>
+         <snippet>Canadian director Atom Egoyan delivers a rare misfire with Where the Truth Lies, a shockingly fatuous murder mystery with pseudo-intellectual pretensions.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1106457</url>
+         <critic>Ann Hornaday</critic>
+      </review>
+      <review>
+         <snippet>Alison Lohman isn't very convincing as the reporter who's trying to dredge up some dirt on the entertainers, and the elaborate flashback structure can't hide the fact that the story never fully comes to life.</snippet>
+         <url>http://spacefinder.chicagoreader.com/movies/briefs/28838_WHERE_THE_TRUTH_LIES.html</url>
+         <critic>Jonathan Rosenbaum</critic>
+      </review>
+      <review>
+         <snippet>An erotic thriller. It is also an Atom Egoyan picture, which means any claims either to actual eroticism or conventional thrills are theoretical at best.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=8387</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>As cold and unseemly as that stiff found in the shower.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A308556</url>
+         <critic>Marjorie Baumgarten</critic>
+      </review>
+      <review>
+         <snippet>Never before has Egoyan made a picture this egregiously, relentlessly bad.</snippet>
+         <url>http://ae.miami.com/entertainment/ui/miami/movie.html?id=441432&amp;reviewId=19448</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>This movie isn't over-the-top -- it doesn't know where the top is. Trash addicts will eat up every graphic minute, even if they prefer to wait for the DVD.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/_/id/7567564?pageid=rs.ReviewsMovieArchive&amp;pageregion=mainRegion</url>
+         <critic>Peter Travers</critic>
+      </review>
+   </reviews>
+   <US_Gross>$872,142</US_Gross>
+   <production_budget>$25,000,000</production_budget>
+   <weekend_gross>$506,878</weekend_gross>
+   <number_of_screens>92</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

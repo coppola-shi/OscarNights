@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>War of the Worlds</name>
+   <company>Paramount Pictures</company>
+   <genres>
+      <genre>Action</genre>
+      <genre>Adventure</genre>
+      <genre>Drama</genre>
+      <genre>Scifi</genre>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>Josh Friedman</author>
+      <author>David Koepp</author>
+      <author>H.G. Wells</author>
+   </authors>
+   <directors>
+      <director>Steven Spielberg</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Tom Cruise</actor>
+      <actor>Justin Chatwin</actor>
+      <actor>Dakota Fanning</actor>
+      <actor>Tim Robbins</actor>
+      <actor>Mira Otto</actor>
+      <actor>David Alan Basche</actor>
+      <actor>James DuMont</actor>
+      <actor>Yul Vazquez</actor>
+      <actor>Daniel Franzese</actor>
+   </actors>
+   <release_date>June 29, 2005</release_date>
+   <running_time>116</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>Working in the spirit of his predecessors but with the kind of uncanny special effects they could barely dream of, Spielberg has come up with an impressive production that is disturbing in the way only provocative science fiction can be.</snippet>
+         <url>http://www.calendarlive.com/movies/turan/cl-et-world29jun29,0,1011790.story</url>
+         <critic>Kenneth Turan</critic>
+      </review>
+      <review>
+         <snippet>Contains all of the hallmarks of classic genre Spielberg: It shows you things you've never seen before, instills an accompanying sense of awestruck wonder, and delivers long stretches of heightened, delirious excitement that remind you why people started going to the movies in the first place.</snippet>
+         <url>http://ae.miami.com/entertainment/ui/miami/movie.html?id=341004&amp;reviewId=18389&amp;startDate=06%2F28%2F2005</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>It is, simply, the alienation-invasion movie to beat all alien-invasion movies: meticulously detailed and expertly paced and photographed, with sights so spectacular and terrible that viewers will have to consciously remind themselves to close their mouths when their jaws drop open.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?file=/c/a/2005/06/29/DDGDMDFVCU18.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>Steven Spielberg's War of the Worlds is huge and scary, moving and funny--another capper to a career that seems like an unending succession of captivations.</snippet>
+         <url>http://newyorkmetro.com/nymetro/movies/reviews/12160/</url>
+         <critic>Ken Tucker</critic>
+      </review>
+      <review>
+         <snippet>An attack-of-the-aliens disaster film crafted with sinister technological grandeur -- a true popcorn apocalypse.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1078167_1_0_,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>With this genuinely big entertainment, powered by a beating heart, Steven Spielberg has put the summer back in summer movies.</snippet>
+         <url/>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>It's the human struggle that makes this a sci-fi masterpiece.</snippet>
+         <url>http://www.slate.com/id/2121687/?nav=fo</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>A gritty, intense and supremely accomplished sci-fier.</snippet>
+         <url>http://www.variety.com/review/VE1117927497?categoryid=31&amp;cs=1</url>
+         <critic>Todd McCarthy</critic>
+      </review>
+      <review>
+         <snippet>Rivets and amazes, even if it falls just frustratingly short of the mind-expanding grandeur it could have had.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-050629-moviewarofworlds,0,6768819.story?coll=mmx-movies_top_heds</url>
+         <critic>Michael Wilmington</critic>
+      </review>
+      <review>
+         <snippet>It's impossible to praise too highly the verve, skill and authenticity with which Spielberg brings off his alien invasion.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/230421_worlds29q.html</url>
+         <critic>William Arnold</critic>
+      </review>
+      <review>
+         <snippet>The audience is treated to one extraordinary vision after another; the sense of a world literally being destroyed around the principal actors, the sense of their flight through panic and destruction, the sense of concussion, collapse, rubble and ruin.</snippet>
+         <url>http://www.washingtonpost.com/wp-dyn/content/article/2005/06/28/AR2005062801741.html</url>
+         <critic>Stephen Hunter</critic>
+      </review>
+      <review>
+         <snippet>The filmmaker who once aimed to enchant his audiences with cheerful stories of beatific visitors from outer space now wants only to scare the hell out of us. E.T., as it turns out, is a mass murderer after all, and we are his Reese's Pieces.</snippet>
+         <url>http://dallasobserver.com/Issues/2005-06-30/film/film2.html</url>
+         <critic>Robert Wilonsky</critic>
+      </review>
+      <review>
+         <snippet>The imagery is startling not just for its symbolic resonances, but for the breathless intensity with which it sears the screen.</snippet>
+         <url>http://www.laweekly.com/ink/05/32/film-foundas.php</url>
+         <critic>Scott Foundas</critic>
+      </review>
+      <review>
+         <snippet>Might be too realistic for its own good: The film takes perhaps a little too much glee in its abilities to manufacture mayhem. That being said, the ride is extraordinary.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1000969863</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>Dark and stormy, even gloomy, this is a distinctly autumnal blockbuster from the man who invented summer.</snippet>
+         <url>http://www.empireonline.co.uk/site/incinemas/ReviewInFull.asp?FID=10235</url>
+         <critic>Colin Kennedy</critic>
+      </review>
+      <review>
+         <snippet>Kaminski, who is as good as any cinematographer working today, matches the chromatic tones of shots to their content in ways that can only be called exciting.</snippet>
+         <url>http://www.tnr.com/doc.mhtml?i=20050801&amp;s=kauffmann080105</url>
+         <critic>Stanley Kauffmann</critic>
+      </review>
+      <review>
+         <snippet>Certainly one of the most lovingly crafted, end-of-the-world, cinematic feasts ever made, a spectacle of destruction and survival not even C.B DeMille could have envisioned.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A275779</url>
+         <critic>Marc Savlov</critic>
+      </review>
+      <review>
+         <snippet>War of the Worlds is not vintage Spielberg, and it's on the grim side for a summer action blockbuster, but it's worth the time and money invested.</snippet>
+         <url>http://movie-reviews.colossus.net/movies/w/war_worlds.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>Alas, Robbins is far more interesting than Cruise, and you wonder what the film would have been like if their roles were reversed -- if Robbins were the loser in search of redemption and Cruise the agitated freak in the basement.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/112003902281460.xml&amp;coll=7</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>This is B-movie material all the way, yet it's not only watchable, it's engrossing. That's because the material is in the hands of an A-talent director, who knows, as few of his contemporaries do, how to manipulate the plastic qualities of a film: the lighting, editing, composition, camera movement and production values.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/ArticleNews/TPStory/LAC/20050629/WAR29/TPEntertainment/Film</url>
+         <critic>Liam Lacey</critic>
+      </review>
+      <review>
+         <snippet>The film isn't quite excellent, though, since it sags in the middle and starts to seem repetitive.</snippet>
+         <url>http://www.csmonitor.com/2005/0629/p12s02-almo.html</url>
+         <critic>David Sterritt</critic>
+      </review>
+      <review>
+         <snippet>But expect a logical plot, and you'll walk out of the theater with a host of questions, mostly concerning procedural points of the alien attack.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2005-06-28-war-of-the-worlds_x.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>For the first 100 minutes of his 117-minute film Spielberg holds the audience in a grip of fear. When Ray and Rachel take refuge in the storm cellar of a survivalist (a miscast Tim Robbins), the director's grip relaxes only a bit, but the film never recovers from this excursion into the Gothic.</snippet>
+         <url>http://ae.philly.com/entertainment/ui/philly/movie.html?id=341004&amp;reviewId=18392</url>
+         <critic>Carrie Rickey</critic>
+      </review>
+      <review>
+         <snippet>It's those dark visions of destruction that stick, even when Spielberg pushes the script to an unlikely happy ending. Great foreplay, failed orgasm.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/_/id/6524426?pageid=rs.ReviewsMovieArchive&amp;pageregion=mainRegion</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>Acting is not really the point of this movie, which seems to arise above all from Mr. Spielberg's desire to reaffirm that he is, along with everything else, a master of pure action filmmaking.</snippet>
+         <url>http://movies2.nytimes.com/2005/06/29/movies/29worl.html</url>
+         <critic>Dana Stevens</critic>
+      </review>
+      <review>
+         <snippet>Although it's thoroughly retooled, H.G. Wells's scenario doesn't allow for many soft landings, and the extreme respect for havoc on view quite properly keeps the Spielbergian cutesies to a minimum.</snippet>
+         <url>http://www.villagevoice.com/film/0526,atkinspiel,65378,20.html</url>
+         <critic>Michael Atkinson</critic>
+      </review>
+      <review>
+         <snippet>In an unfortunate case of star casting, Cruise strains credibility as a hard-edged Jersey dockworker.</snippet>
+         <url>http://www.theavclub.com/review.php?review_id=8658</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>I thoroughly enjoyed the street level perspective of the world being destroyed, it just would've been nice if they hadn't crapped out at the end.</snippet>
+         <url>http://www.filmthreat.com/Reviews.asp?Id=7664</url>
+         <critic>Pete Vonder Haar</critic>
+      </review>
+      <review>
+         <snippet>As is his wont, Spielberg can't resist stuffing the ending of the movie with a bit too much cheese and baloney.  Despite those quibbles, War of the Worlds is taut, gripping and surprisingly dark filmmaking.</snippet>
+         <url>http://www.washingtonpost.com/wp-dyn/content/article/2005/06/30/AR2005063000540.html</url>
+         <critic>Michael O&amp;#039;Sullivan</critic>
+      </review>
+      <review>
+         <snippet>Has masterfully polished mechanics, some of the most seamless CGI effects in recent memory, and the Wells veneration is admirable. However, the film takes far too many creative shortcuts, like bookended narration and aliens that make strategically humanlike mistakes, completely incongruous to their technological superiority.</snippet>
+         <url>http://www.premiere.com/article.asp?section_id=2&amp;article_id=2194</url>
+         <critic>Aaron Hillis</critic>
+      </review>
+      <review>
+         <snippet>War of the Worlds pushes some of the right buttons and enough of the wrong ones to make you wish that Spielberg would move on from aliens already and use his unparalleled talents to focus once more on earth.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=7276</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>Now that this technically impressive - but seriously flawed and self-referential - remake is finally in theaters to swell the July 4 weekend box office, conversation will doubtless shift to the lamest ending yet to a Steven Spielberg movie.</snippet>
+         <url>http://www.nypost.com/movies/49265.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>Forget what Tom Cruise does outside his movies: What he does inside his movies is more than enough to wreck them.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-to.war29jun29,1,7399009.story?coll=bal-movies-utility</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>It unfolds in the angst-haunted shadow of the 9'11 terror attacks and teeters on a thin edge of sheer panic.</snippet>
+         <url>http://tvguide.com/movies/database/showmovie.asp?MI=46114</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>It’s the right role for Cruise, but the movie is so devoted to him, so star-driven, that it begins to seem a little demented.</snippet>
+         <url>http://www.newyorker.com/critics/cinema/?050711crci_cinema</url>
+         <critic>David Denby</critic>
+      </review>
+      <review>
+         <snippet>The new film is a toss-up with George Pal's very watchable 1953 version: the special effects are even better here, the drama even lamer.</snippet>
+         <url>http://www.time.com/time/magazine/article/0,9171,1079492,00.html</url>
+         <critic>Richard Corliss</critic>
+      </review>
+      <review>
+         <snippet>Go for the extraordinary special effects, by all means, but not if you want to feel good about yourself or humanity. And heed the PG-13 rating, because this movie takes no prisoners.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/moviereviews/story/323315p-276365c.html</url>
+         <critic>Jami Bernard</critic>
+      </review>
+      <review>
+         <snippet>A big, clunky movie containing some sensational sights but lacking the zest and joyous energy we expect from Steven Spielberg.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20050628/REVIEWS/50606007</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>Newly updated but shamelessly hokey, Steven Spielberg's version of the 1898 H.G. Wells yarn about murderous invaders from outer space starts off as a nimble scare show like "Jaws."</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/28194_WAR_OF_THE_WORLDS_SPIELBERG.html</url>
+         <critic>Jonathan Rosenbaum</critic>
+      </review>
+      <review>
+         <snippet>Extravagant in movie terms but stingy in emotional ones, it embodies all of Spielberg's bad impulses and almost none of his good ones: It's a grand display of how well he knows how to work us over, and yet the desperation with which he tries to get to us is repulsive.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2005/06/29/war/index.html</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+   </reviews>
+   <US_Gross>$234,280,354</US_Gross>
+   <production_budget>$132,000,000</production_budget>
+   <weekend_gross>$100,561,125</weekend_gross>
+   <number_of_screens>3,908</number_of_screens>
+   <oscar_winning_directors_present/>
+   <num_oscar_winning_directors>1</num_oscar_winning_directors>
+   <oscar_winning_director>steven spielberg</oscar_winning_director>
+   <highest_grossing_actors_present/>
+   <num_highest_grossing_actors>1</num_highest_grossing_actors>
+   <highest_grossing_actor>tom cruise</highest_grossing_actor>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>true</independence_release>
+   <labor_release>false</labor_release>
+</movie>

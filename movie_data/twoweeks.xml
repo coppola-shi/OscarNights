@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Two Weeks</name>
+   <company>Metro-Goldwyn-Mayer</company>
+   <genres>
+      <genre>Comedy</genre>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author>Steve Stockman</author>
+   </authors>
+   <directors>
+      <director>Steve Stockman</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Sally Field</actor>
+      <actor>Ben Chaplin</actor>
+      <actor>Thomas Cavanagh</actor>
+      <actor>Julianne Nicholson</actor>
+      <actor>Glenn Howerton</actor>
+      <actor>Clea DuVall</actor>
+      <actor>James Murtaugh</actor>
+      <actor>Michael Hyatt</actor>
+   </actors>
+   <release_date>December 1, 2006</release_date>
+   <running_time>98</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>It's messy and painful, eased only the admirable modesty of Stockman's writing and direction.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/305696_weeks02q.html</url>
+         <critic>Sean Axmaker</critic>
+      </review>
+      <review>
+         <snippet>The movie's warm advocacy of hospice, with all the dignity such end-of-life care provides, does real, influential good.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20014257,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>Sally Field's flawless performance as a mother whose imminent death reunites her four grown children elevates a fairly formulaic melodrama in the made-for-Lifetime mode into something considerably more memorable.</snippet>
+         <url>http://tvguide.com/detail/movie.aspx?tvobjectid=285477&amp;more=ucmoviereview</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>Two Weeks gets into serious trouble in its clumsy attempts to offset the sadness and anxiety with humor. This pursuit of sitcom levity contaminates a movie that might have been an American answer to the hardheaded Romanian masterpiece "The Death of Mr. Lazarescu."</snippet>
+         <url>http://movies2.nytimes.com/2007/03/02/movies/02week.html?ref=movies</url>
+         <critic>Stephen Holden</critic>
+      </review>
+      <review>
+         <snippet>Though the subdued performances every so often find a poignantly understated moment, on the whole Two Weeks feels too detached and well-mannered for its own good.</snippet>
+         <url>http://www.laweekly.com/film+tv/film-reviews/film-reviews/15122/</url>
+         <critic>Tim Grierson</critic>
+      </review>
+      <review>
+         <snippet>Despite striking a chord in terms of sibling politics and the inelegant ways we deal with death, Two Weeks too often feels as if it's destined for heavy rotation on the Lifetime Movie Network.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-weeks1dec01,0,1379753.story?coll=cl-mreview</url>
+         <critic>Kevin Crust</critic>
+      </review>
+      <review>
+         <snippet>Casting choices seem oddly random (only Cavanagh and Nicholson have any familial chemistry). And the humor, which is vital to a movie this inherently grim, falls flat.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/moviereviews/story/501855p-423225c.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>To paraphrase her infamous Oscar speech: You will have to like Sally Field, you will have to really like Sally Field, to sit through Two Weeks.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1132435&amp;categories=Movies&amp;nm=1</url>
+         <critic>John Maynard</critic>
+      </review>
+      <review>
+         <snippet>The script is not without some perceptive observations about family dynamics, but the problematic tone keeps getting in the way. A little absurdist levity in these instances always helps to prevent things from becoming too maudlin, but in Stockman's hands, the played-for-laughs elements in this tragicomedy feel forced rather than organic, ultimately creating an emotional disconnect with the viewer.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?&amp;rid=8457</url>
+         <critic>Michael Rechtshaffen</critic>
+      </review>
+      <review>
+         <snippet>Picture veers unsteadily between melodrama and light comedy, with no confidence in either.</snippet>
+         <url>http://www.variety.com/review/VE1117932213.html?categoryid=31&amp;cs=1</url>
+         <critic>Robert Koehler</critic>
+      </review>
+      <review>
+         <snippet>A low-key Field is the best thing about Two Weeks, which is set in a Wilmington, N.C., where everyone mysteriously sounds like he just got off a Los Angeles freeway.</snippet>
+         <url>http://www.nypost.com/seven/03022007/entertainment/movies/weak_weeks_bleak_movies_lou_lumenick.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>Creaky, earnest melodrama.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=9761</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>Although well intentioned, has the superficial gloss of a TV movie of the week.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2007/03/02/DDGOAOD26E1.DTL&amp;type=movies</url>
+         <critic>Ruthe Stein</critic>
+      </review>
+   </reviews>
+   <US_Gross>$46,605</US_Gross>
+   <weekend_gross>$25,829</weekend_gross>
+   <number_of_screens>12</number_of_screens>
+   <oscar_winning_actors_present/>
+   <num_oscar_winning_actors>1</num_oscar_winning_actors>
+   <oscar_winning_actor>sally field</oscar_winning_actor>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>You&amp;#039;re Gonna Miss Me</name>
+   <company>Palm Pictures</company>
+   <genres>
+      <genre>Documentary</genre>
+      <genre>Musical</genre>
+   </genres>
+   <authors>
+      <author/>
+   </authors>
+   <directors>
+      <director>Keven Mc</director>
+      <director>Alester</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Evelyn Erickson</actor>
+      <actor>Roger Kynard Erickson</actor>
+      <actor>Roky Erickson</actor>
+      <actor>Sumner Erickson</actor>
+   </actors>
+   <release_date>June 8, 2007</release_date>
+   <running_time>91</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>Remarkable and evenhanded film.</snippet>
+         <url>http://www.tvguide.com/movies/youre-gonna-miss/review/288003</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>The opening and closing courtroom scenes, in which brother Sumner is granted legal guardianship, show a family in need of healing, mentally and spiritually.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A409293</url>
+         <critic>Audra Schroeder</critic>
+      </review>
+      <review>
+         <snippet>Like "Crumb" or "The Devil and Daniel Johnston," it's remarkably close-up moviemaking, with family secrets laid bare for all the world to see.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/118297771868340.xml&amp;coll=7</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>Complexly intriguing documentary about psychedelic rock icon Roky Erickson.</snippet>
+         <url>http://www.csmonitor.com/2007/0608/p14s02-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>Luckily, the director Keven McAlester keeps Mr. Erickson's humanity front and center. He lets music critics and musicians praise Mr. Erickson's smiling banshee voice (which influenced Janis Joplin) and pioneering use of feedback, but he doesn't insist on his subject's genius or oversell his importance.</snippet>
+         <url>http://movies2.nytimes.com/2007/06/07/movies/08miss.html?ref=movies</url>
+         <critic>Matt Zoller Seitz</critic>
+      </review>
+      <review>
+         <snippet>I came to this expecting a standard rock doc, but its cobwebbed tale of an aged parent and grown child's debilitating relationship seems closer to "Grey Gardens."</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/capsules/30284_YOURE_GONNA_MISS_ME</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>A great meld of rock history, the sociological and familial impacts of mental disability and some courtroom intrigue.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=7249</url>
+         <critic>Don R. Lewis</critic>
+      </review>
+      <review>
+         <snippet>Director Keven McAlester's film is entertaining. But with battered archival footage and celebrity worship, McAlester skimps on perspective and complexity.</snippet>
+         <url>http://www.villagevoice.com/film/0723,hillis,76879,20.html</url>
+         <critic>Aaron Hillis</critic>
+      </review>
+      <review>
+         <snippet>Has the taint of exploitation.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20041520,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+   </reviews>
+   <US_Gross>$2,324</US_Gross>
+   <weekend_gross>$1,340</weekend_gross>
+   <number_of_screens>1</number_of_screens>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

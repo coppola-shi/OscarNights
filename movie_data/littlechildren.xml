@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Little Children</name>
+   <company>New Line Cinema</company>
+   <genres>
+      <genre>Comedy</genre>
+      <genre>Crime</genre>
+      <genre>Drama</genre>
+      <genre>Romance</genre>
+   </genres>
+   <authors>
+      <author>Todd Field</author>
+      <author>Tom Perrotta</author>
+   </authors>
+   <directors>
+      <director>Todd Field</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Kate Winslet</actor>
+      <actor>Patrick Wilson</actor>
+      <actor>Jennifer Connelly</actor>
+      <actor>Jackie Earle Haley</actor>
+      <actor>Noah Emmerich</actor>
+      <actor>Gregg Edelman</actor>
+      <actor>Phyllis Somerville</actor>
+      <actor>Raymond J. Barry</actor>
+   </actors>
+   <release_date>October 6, 2006</release_date>
+   <running_time>130</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>The movie is one of the few films I can think of that examines the baffling combination of smugness, self-abnegation, ceremonial deference and status anxiety that characterizes middle-class Gen X parenting, and find sheer, white-knuckled terror at its core.</snippet>
+         <url>http://www.calendarlive.com/printedition/calendar/cl-et-little6oct06,0,6968998.story</url>
+         <critic>Carina Chocano</critic>
+      </review>
+      <review>
+         <snippet>Once again, Field has crafted and grown-up movie that grabs you by the throat, drags you in and doesn't let you go until the very bitter end.</snippet>
+         <url>http://tvguide.com/detail/movie.aspx?tvobjectid=283668&amp;more=ucmoviereview</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>Unnervingly good, Little Children is one of the rare American films about adultery that feels right--dangerous, hushed, immediate.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-061020-movies-review-children,0,5811170.story?coll=mmx-movies_top_heds</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>Perrotta and Field succeed, not by guessing, but by knowing this world. They understand it enough to see it with cold precision -- and to approach it, at times, with disarming warmth. The characters aren't types, but people.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2006/10/20/DDGDPLRS1V1.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>It's as absorbing as a train wreck, and its brand of heavy drama is so rare in movies these days that everything about it seems amazingly fresh.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/292628_children17q.html</url>
+         <critic>William Arnold</critic>
+      </review>
+      <review>
+         <snippet>Like "In the Bedroom," the film is studded with brilliant acting, and it's all rendered with gorgeously fluent technique. The result is a film that skirts cruelty and easy satire for deep, troubling realities -- a nearly thorough triumph, in short.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/1163634925209250.xml&amp;coll=7</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>A jolting, artfully made drama set in and around a suburban playground somewhere between "American Beauty" and "In the Bedroom" on America's psychic highway.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1542483_1_0_,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>Providing richness of detail and metaphor, elegantly blueprinted themes and impressive mastery of a constantly shifting tone, Little Children does just that. It is a deeply satisfying film.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1003121142</url>
+         <critic>John DeFore</critic>
+      </review>
+      <review>
+         <snippet>The result is a movie that is challenging, accessible and hard to stop thinking about...But in too many recent movies intelligence is woefully undervalued, and it is this quality -- even more than its considerable beauty -- that distinguishes Little Children from its peers.</snippet>
+         <url>http://movies2.nytimes.com/2006/09/29/movies/29chil.html?adxnnl=1&amp;ref=movies&amp;adxnnlx=1159560905-S3hnALEN4HgjsMlXsoHwCg</url>
+         <critic>A.O. Scott</critic>
+      </review>
+      <review>
+         <snippet>A sharply intelligent and affecting view of suburban blues.</snippet>
+         <url>http://www.newyorker.com/critics/cinema/?061016crci_cinema</url>
+         <critic>David Denby</critic>
+      </review>
+      <review>
+         <snippet>A hugely absorbing social drama that is, by turns, excruciating, sad and sardonic.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1114665&amp;categories=Movies&amp;nm=1</url>
+         <critic>Desson Thomson</critic>
+      </review>
+      <review>
+         <snippet>While the screenplay for Little Chilldren is basically perfect, it's the acting that really drives the film home.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=9513</url>
+         <critic>Don R. Lewis</critic>
+      </review>
+      <review>
+         <snippet>Built from a perfect story-telling collaboration.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/moviereviews/story/459037p-386068c.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>The rarest of movies - a literary multi-character drama.  From the erudition of the voiceover narrative to the three dimensionality of the characters, Field's film is the closest it's possible to get to a book without reading one.</snippet>
+         <url>http://www.reelviews.net/movies/l/little_children.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>This unnervingly funny and quietly devastating film -- director Todd Field's first since his smash 2001 debut with "In the Bedroom" -- pulls you in like a magnetic-force field.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/7561934/review/11970575/little_children</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>All of the actors, most notably Winslet, are superb, but the movie belongs to Jackie Earle Haley, a former child actor.</snippet>
+         <url>http://www.slate.com/id/2151041</url>
+         <critic>Dana Stevens</critic>
+      </review>
+      <review>
+         <snippet>Little Children does not have quite the bleak discipline of Field's more keenly judged "In the Bedroom." Yet it is a more ambitious film and a considerable achievement.</snippet>
+         <url>http://www.time.com/time/magazine/article/0,9171,1546359,00.html</url>
+         <critic>Richard Schickel</critic>
+      </review>
+      <review>
+         <snippet>The characters are drawn with such compassion their follies become our own and their desires seem as vast as the night sky.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/critic.html#30480</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>This is complex, thought-provoking cinema.</snippet>
+         <url>http://www.empireonline.com/reviews/review.asp?FID=11074</url>
+         <critic>Helen O&amp;#039;Hara</critic>
+      </review>
+      <review>
+         <snippet>During its two hours-plus running time, Field's movie veers from dark comedy to melodrama, not always gracefully. But tonal inconsistencies don't blunt the keenness of its satire, so sharp that I walked out with emotional razor burn.</snippet>
+         <url>http://ae.miami.com/entertainment/ui/miami/movie.html;jsessionid=2836530724BE0DF406CE9A878D659729.prodapp14_ae_02?id=734291&amp;reviewId=21663</url>
+         <critic>Carrie Rickey</critic>
+      </review>
+      <review>
+         <snippet>What Little Children understands so well, and so poignantly, is a kind of parental existentialism that hits 30- somethings with kids: How does having children make you such a less interesting adult?</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=8381</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>Little Children maintains much of the power, humor and nuance of Tom Perrotta's wonderful novel, but seems unsure if it's a satire or a serious drama.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2006-10-05-review-little-children_x.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>Decades removed from his dreamy Kelly in the "Bad News Bears" movies, Haley pulls off the remarkable feat of bringing childlike vulnerability to his character while still suggesting ungodly menace.</snippet>
+         <url>http://www.avclub.com/content/node/53757</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>The Madame Bovary-in-suburbia motif may sound familiar, yet the unusual mix of satire and melodrama feels fresh. Not everything works (beware the football scenes), but this adaptation of Tom Perrotta's novel is hard to shake off.</snippet>
+         <url>http://www.msnbc.msn.com/id/15079581/site/newsweek/</url>
+         <critic>David Ansen</critic>
+      </review>
+      <review>
+         <snippet>Like "In the Bedroom," Little Children, at well over two hours, is somewhat long for an intense, intimate drama, and arguments could run many ways concerning what could be tightened or excised.</snippet>
+         <url>http://www.variety.com/review/VE1117931457?categoryid=31&amp;cs=1&amp;s=h&amp;p=0</url>
+         <critic>Todd McCarthy</critic>
+      </review>
+      <review>
+         <snippet>It's Winslet who is the heart and soul of Little Children, and when she makes a desperate, final bid to reclaim her soul, it's both horrifying and heart-rending.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A433273</url>
+         <critic>Marc Savlov</critic>
+      </review>
+      <review>
+         <snippet>To these disappointed eyes, Little Children seems a frustrating mess.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/LAC.20061020.LITTLE20/TPStory/TPEntertainment/Movies/</url>
+         <critic>Rick Groen</critic>
+      </review>
+      <review>
+         <snippet>Slowly loses its grip, becoming just another story about infidelity, albeit an exceptionally polished, well-acted one.</snippet>
+         <url>http://ae.miami.com/entertainment/ui/miami/movie.html?id=734291&amp;reviewId=21800</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>Instead of being supple and expansive like the book, this Little Children is heavy-handed and snarky.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-to.little02mar02,0,3365705.story?coll=bal-artslife-movies</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>This overly long movie, made sluggish by a superfluously novelistic narrator, feels divided against itself, driven by opposed impulses of tragedy and dark humor that make it impossible for us to identify with these lost souls' break for freedom or wait for them to grow up.</snippet>
+         <url>http://www.villagevoice.com/film/0639,taylor,74576,20.html</url>
+         <critic>Ella Taylor</critic>
+      </review>
+      <review>
+         <snippet>An unusually powerful mess, a broad satire of suburban self-indulgence with little in the way of a consistent style, and with a character who's serious business: a convicted child molester.</snippet>
+         <url>http://newyorkmetro.com/movies/reviews/21979/index1.html</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>By turns jokey, portentous, and pretentious, the movie immediately sizes up each of its protagonists and never budges from that assessment.</snippet>
+         <url>http://www.csmonitor.com/2006/1006/p14s01-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>Mr. Field is a filmmaker with an exceptional gift for directing actors -- he's an actor himself -- and an eye for telling detail. (His cinematographer here, as in the previous film, is Antonio Calvache, and again the images are quietly sumptuous.) Yet I was put off by Little Children's satiric tone.</snippet>
+         <url/>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>It's an unholy mess, simultaneously too Gothic and too sarcastic, that preaches liberation and delivers only puritanism. It's a craftsmanlike but robotic imitation of "interesting" filmmaking, only in patches, and by accident, the real thing.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2006/09/29/little_children/index.html</url>
+         <critic>Andrew O&amp;#039;Hehir</critic>
+      </review>
+   </reviews>
+   <US_Gross>$5,463,019</US_Gross>
+   <production_budget>$14,000,000</production_budget>
+   <weekend_gross>$97,953</weekend_gross>
+   <number_of_screens>5</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

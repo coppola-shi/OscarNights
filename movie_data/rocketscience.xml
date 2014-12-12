@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Rocket Science</name>
+   <company>Picturehouse Entertainment</company>
+   <genres>
+      <genre>Comedy</genre>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author>Jeffrey Blitz</author>
+   </authors>
+   <directors>
+      <director>Jeffrey Blitz</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Anna Kendrick</actor>
+      <actor>Reece Thompson</actor>
+      <actor>Dionne Audain</actor>
+      <actor>Utkarsh Ambudkar</actor>
+      <actor>John Patrick Barry</actor>
+      <actor>Lisbeth Bartlett</actor>
+      <actor>Jeanette Brox</actor>
+      <actor>Jen Carden</actor>
+   </actors>
+   <release_date>August 10, 2007</release_date>
+   <running_time>101</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>A dry, vicious and deeply moving little comedy that sort of takes the structure of a teen sports movie, then undermines that structure at every turn.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/1187220331256170.xml&amp;coll=7</url>
+         <critic>M. E. Russell</critic>
+      </review>
+      <review>
+         <snippet>Fresh, funny and unfailingly observant, Rocket Science is a mood-swinging movie about adolescence that lifts audiences' spirits even when its hero is down in the dumps.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/reviews/bal-to.rocket24aug24,0,4461449.story</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>This is one of those films that will either hit it big as an indie crossover like "Little Miss Sunshine,” or just make some money and become a film nerd favorite. Either way I recommend you don’t miss this awkwardly fun gem.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=9646</url>
+         <critic>Zack Haddad</critic>
+      </review>
+      <review>
+         <snippet>Teenage angst and adolescent agony are the stuff of sharp, observant comedy this quirky, wonderfully dry first fiction feature from documentary filmmaker Jeffrey Blitz (Spellbound).</snippet>
+         <url>http://www.tvguide.com/detail/movie.aspx?tvobjectid=289720&amp;more=ucmoviereview</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>As fate would have it, Rocket Science might prove to be the handiwork of a burgeoning cinematic genius.</snippet>
+         <url>http://www.premiere.com/moviereviews/4005/rocket-science.html</url>
+         <critic>Stephen Saito</critic>
+      </review>
+      <review>
+         <snippet>The movies have given us plenty of loquacious teenagers – from such fast-talking truants as Ferris Bueller to such overachieving political animals as Tracy Flick ( Election). Hal Hefner is not one of these kids.</snippet>
+         <url/>
+         <critic>Jennie Punter</critic>
+      </review>
+      <review>
+         <snippet>I suspect a lot of high school students will recognize elements of real life in the movie,  and that the movie will build a following. It may gross as little as "Welcome to the Dollhouse" or as much as "Clueless," but whichever it does, it's in the same league.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20070816/REVIEWS/70817004</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>An odd charmer with a whisper of autobiography (Blitz makes his film's protagonist a stutterer, just as the director was in school) and it's made even better by young lead actor Reece Thompson.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/326991_rocket10q.html</url>
+         <critic>Paula Nechak</critic>
+      </review>
+      <review>
+         <snippet>There is one absolutely inspired scene in Rocket Science, and for this scene alone, it’s pretty much worth the price of admission. It occurs when our hero, Hal (Thompson), an occasionally incoherent teenage stutterer delivers his opening remarks during a high school debate.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A526233</url>
+         <critic>Toddy Burton</critic>
+      </review>
+      <review>
+         <snippet>When it's not opting for whimsy, Rocket Science makes you cringe, which is what's good about it.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=9935</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>Rocket Science doesn't go too far into Todd Solondz-style mockery, either; though painful to witness at times, Thompson's determination to face his fears--not just of speaking, but of girls, too--is heartbreakingly noble and courageous.</snippet>
+         <url>http://www.avclub.com/content/cinema/rocket_science</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>Rocket Science has the makings of either a tragedy or a crowd-pleasing underdog story, but writer-director Jeffrey Blitz instead takes the movie on a different, and ultimately more rewarding, direction.</snippet>
+         <url>http://sfgate.com/cgi-bin/article.cgi?f=/c/a/2007/08/10/DD2QRF371.DTL&amp;type=movies</url>
+         <critic>Peter Hartlaub</critic>
+      </review>
+      <review>
+         <snippet>It is smart, witty and blessedly unpredictable.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2007-08-09-rocket-science_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>A quirky comedy-drama that gets the bulk of its humor from the well-placed non sequitur. It never seems to be going where you think it is, and that includes its oddly endearing dialogue.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2007/08/10/2007-08-10_no_debating_rocket_science_is_a_class_ac.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>To his credit, Blitz throws in an unexpected twist that delivers a more ambivalent ending than your typical sports movie.</snippet>
+         <url>http://www.nypost.com/seven/08102007/entertainment/movies/if_i_had_a_stammer_movies_lou_lumenick.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>Blitz captures high school atmosphere well – not an easy thing to do – but overall the movie coasts on quirkiness.</snippet>
+         <url>http://www.csmonitor.com/2007/0810/p14s02-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>Blitz captures the melancholy, the rage, the wackiness and drama of adolescence, and he gets winning performances out of his young stars.</snippet>
+         <url>http://www.philly.com/philly/entertainment/20070406_Rocket_Science_a_poignant_take_on_teen_angst.html</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>Catapulted by an endearing lead performance by Reece Daniel Thompson as a stuttering high-school student, Rocket Science transcends the predictable high-school yarn and arcs into usually unexplored domains of self-discovery and personal growth in a coming-of-age film.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/imdb/reviews/article_display.jsp?rid=8655&amp;vnu_special_account_code=thrsiteimdbpro</url>
+         <critic>Duane Byrge</critic>
+      </review>
+      <review>
+         <snippet>This unusually voluble comedy is as eloquent about love, self-realization and adolescent angst as its protagonist is endearingly tongue-tied.</snippet>
+         <url>http://www.variety.com/index.asp?layout=features2007&amp;content=jump&amp;jump=review&amp;dept=berlin&amp;nav=RBerlin&amp;articleid=VE1117932499&amp;cs=1&amp;p=0</url>
+         <critic>Justin Chang</critic>
+      </review>
+      <review>
+         <snippet>The surest sign of the movie’s integrity is that it resists any temptation to build the story to a climactic debate.</snippet>
+         <url>http://movies.nytimes.com/2007/08/10/movies/10rock.html?ref=movies</url>
+         <critic>Stephen Holden</critic>
+      </review>
+      <review>
+         <snippet>A well-meaning little picture that's piercingly genuine in places and annoyingly affected in others.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2007/08/10/rocket_science/index.html</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>Jeffrey Blitz's smart, deceptively lighthearted movie gives audiences an endearing nerd-messiah to revisit that angst for all of us and -- maybe, just maybe -- he'll end up in love and ahead.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1123267&amp;categories=Movies&amp;nm=1</url>
+         <critic>Desson Thomson</critic>
+      </review>
+      <review>
+         <snippet>Quietly written and convincingly played, this coming-of-age story mines its rueful laughs from a thick vein of performance anxiety, in both senses of the term.</snippet>
+         <url>http://208.100.26.202/movies/critic.html#31953</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>Doesn't quite work but is worth seeing anyway.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-070817-movies-review-rocket,0,1138522.story?coll=mmx-movies_top_heds</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>The problem with Rocket Science is that the character at the center of the drama isn't very energetic or, truth be told, interesting. This makes it difficult at times to remain engaged in the unfolding tale.</snippet>
+         <url>http://www.reelviews.net/movies/r/rocket_science.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>Once Rocket Science enters the realm of the debate competition, the director's eye for detail never deserts him.</snippet>
+         <url>http://www.villagevoice.com/film/0732,ridley,77446,20.html</url>
+         <critic>Jim Ridley</critic>
+      </review>
+      <review>
+         <snippet>One of those terminally annoying, depressive-yet-coy Sundance faves in which the tale of a mopey teen misfit unfolds behind a hard candy shell of irony.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20050618,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>For all its flashes of emotional honesty and mordant humor, is nonsense at its core.</snippet>
+         <url>http://ae.charlotte.com/entertainment/ui/charlotte/movie.html;jsessionid=50834E4F0868C7D9D6AF7C665B245190.prodapp15_ae_01?id=935086&amp;reviewId=22637&amp;startDate=08%2F24%2F2007</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+   </reviews>
+   <US_Gross>$712,391</US_Gross>
+   <weekend_gross>$58,536</weekend_gross>
+   <number_of_screens>6</number_of_screens>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

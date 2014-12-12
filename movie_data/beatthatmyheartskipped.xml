@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Beat That My Heart Skipped, The</name>
+   <company>Wellspring Media</company>
+   <genres>
+      <genre>Drama</genre>
+      <genre>Foreign</genre>
+   </genres>
+   <authors>
+      <author>Jacques Audiard</author>
+      <author>Tonino Benacquista</author>
+   </authors>
+   <directors>
+      <director>Jacques Audiard</director>
+   </directors>
+   <origins>
+      <origin>France</origin>
+   </origins>
+   <actors>
+      <actor>Romain Duris</actor>
+      <actor>Aure Atika</actor>
+      <actor>Emmanuelle Devos</actor>
+      <actor>Niels Arestrup</actor>
+      <actor>Jonathan Zaccaï</actor>
+      <actor>Linh Dan Pham</actor>
+      <actor>Mélanie Laurent</actor>
+      <actor>Anton Yakovlev</actor>
+   </actors>
+   <release_date>July 1, 2005</release_date>
+   <running_time>107</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>As stylish as it is suspenseful.</snippet>
+         <url>http://www.csmonitor.com/2005/0701/p14s02-almo.html</url>
+         <critic>David Sterritt</critic>
+      </review>
+      <review>
+         <snippet>Audiard's superb remake improves on the original significantly, investing it with aesthetic grandeur and emotional depth.</snippet>
+         <url>http://movies2.nytimes.com/2005/07/01/movies/01beat.html</url>
+         <critic>Manohla Dargis</critic>
+      </review>
+      <review>
+         <snippet>What has resulted is a blistering film you feel in the pit of your stomach, a jumpy, edgy piece of work that thrusts us into a personal maelstrom so tortured and intense, the emotions could be spread with a knife.</snippet>
+         <url>http://www.calendarlive.com/movies/turan/cl-et-thebeat1jul01,0,17302.story</url>
+         <critic>Kenneth Turan</critic>
+      </review>
+      <review>
+         <snippet>Brilliant, brutally poignant.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-to.beat05aug05,1,4471713.story?coll=bal-artslife-movies</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>Unpretentiously fantastic.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/112557269134141.xml&amp;coll=7</url>
+         <critic>M. E. Russell</critic>
+      </review>
+      <review>
+         <snippet>Audiard's take is fevered, immediate, and hopeful--a story of a man recovering his soul. The most intense and compelling sections of The Beat are almost word for word from "Fingers" (albeit translated into French), but this beat changes everything.</snippet>
+         <url>http://www.slate.com/id/2123645/?nav=fo</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>There are remakes and there are remakes. I don't want to belabor the flaws and sexual excesses of the original; its great strength was its explosive energy. Still, this one investigates the unfulfilled potential of the first one so thoroughly, and develops it so audaciously, that it qualifies as a brilliant reinvention.</snippet>
+         <url/>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>It's a thriller that comes at you with gut-clutching ferocity, spewing blood and sex, shaking you up and scrambling your responses.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-050714-movies-review-beatmyheart,0,7969372.story?coll=mmx-movies_top_heds</url>
+         <critic>Michael Wilmington</critic>
+      </review>
+      <review>
+         <snippet>Beautifully shot, in long, fluid takes, The Beat That My Heart Skipped is that rare thing: a remake that improves on its source.</snippet>
+         <url>http://ae.philly.com/entertainment/ui/philly/movie.html?id=363141&amp;reviewId=18632</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>The film confirms director Audiard as a master of visual mood, in this case one of barely expressed emotional panic.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=7960</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>It's a film that, by its complexity of character and mastery of tone, surpasses the original it was intended to honor.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/234379_heart29q.html</url>
+         <critic>Gianni Truzzi</critic>
+      </review>
+      <review>
+         <snippet>The Beat That My Heart Skipped lacks the screw-loose existential vibrance of "Fingers," yet it teases out a romantic underside to the original I never quite knew was there.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1078179_1_0_,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>Audiard's work is tense, vivid, and alert, and he's got the right actor as Tom, an irresistibly attractive guy who's pushing thirty yet has no more control over his impulses than a chaotic boy.</snippet>
+         <url>http://www.newyorker.com/critics/cinema/?050704crci_cinema</url>
+         <critic>David Denby</critic>
+      </review>
+      <review>
+         <snippet>As tense and taut as any crime saga, but the stakes are more personal.</snippet>
+         <url>http://www.theavclub.com/review.php?review_id=8653</url>
+         <critic>Noel Murray</critic>
+      </review>
+      <review>
+         <snippet>It's more than a simple improvement, inverting some of the original's qualities so that the impersonal, well-crafted filmmaking remains lucid throughout.</snippet>
+         <url>http://spacefinder.chicagoreader.com/movies/critic.html#28271</url>
+         <critic>Jonathan Rosenbaum</critic>
+      </review>
+      <review>
+         <snippet>Might not be as intriguingly odd as the picture that inspired it. But like that earlier picture, it bristles with life and energy. It's a movie made with equal measures of bravado and humility -- the same mix of qualities you need to play Beethoven, Mozart or Bach.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2005/07/01/beat/index.html</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>From the performances of its first rate cast to the infectious score and Audiard's deft direction, this is one of the most accomplished movies you'll see anytime soon-old, new or, as is the case here, combining the best of both.</snippet>
+         <url>http://www.filmthreat.com/Reviews.asp?Id=7862</url>
+         <critic>Rick Kisonak</critic>
+      </review>
+      <review>
+         <snippet>A character study, the film succeeds in large measure due to the kinetically charged performance of Romain Duris.</snippet>
+         <url>http://listings.dallasobserver.com/gyrobase/Film/ShowFilm</url>
+         <critic>Jean Oppenheimer</critic>
+      </review>
+      <review>
+         <snippet>A nifty piece of work -- with, by the way, a fantastic musical score and soundtrack -- that, if there's any justice in the movie world, will eventually earn a mystique all its own.</snippet>
+         <url>http://www.washingtonpost.com/wp-dyn/content/article/2005/07/14/AR2005071401832.html</url>
+         <critic>Ann Hornaday</critic>
+      </review>
+      <review>
+         <snippet>Even when deadly silent, though, as he is through most of the film, Duris is brutally eloquent.</snippet>
+         <url>http://www.nypost.com/movies/49113.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>A good French film that was inspired by an American classic.</snippet>
+         <url>http://sfgate.com/cgi-bin/article.cgi?f=/c/a/2005/07/08/DDGE8DJUND1.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>Doesn't replace "Fingers," but joins it as the portrait of a man reaching out desperately toward his dying ideals.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20050714/REVIEWS/50708003</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>Out of a borrowed and preposterous premise, Audiard has fashioned a film that is more haunting--and more compellingly watchable--than it has any right to be.</snippet>
+         <url>http://www.time.com/time/magazine/article/0,9171,1077309,00.html</url>
+         <critic>Richard Schickel</critic>
+      </review>
+      <review>
+         <snippet>Beat has a moody, furtive quality that jibes perfectly with the perplexed life of a pianist-gangster.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1000969289</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>It lacks "Fingers" searing, explosive vitality.</snippet>
+         <url>http://tvguide.com/movies/database/showmovie.asp?MI=46145</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>Stands reasonably well on its own as an urgent, updated genre meditation on nurture vs. nature.</snippet>
+         <url>http://www.variety.com/review/VE1117926249?categoryid=31&amp;cs=1</url>
+         <critic>Eddie Cockrell</critic>
+      </review>
+      <review>
+         <snippet>Plays like a piece of mediocre music, gorgeously rendered.</snippet>
+         <url>http://www.washingtonpost.com/wp-dyn/content/article/2005/07/14/AR2005071400493.html</url>
+         <critic>Michael O&amp;#039;Sullivan</critic>
+      </review>
+      <review>
+         <snippet>Simmering study of a petty hood-cum-wannabe pianist succumbing to his innate violent side - but there might be a touch too much ivory tinkling for some.</snippet>
+         <url>http://www.empireonline.co.uk/incinemas/ReviewComplete.asp?FID=132315</url>
+         <critic>David Parkinson</critic>
+      </review>
+      <review>
+         <snippet>The problem with The Beat That My Heart Skipped, as it was with "Fingers," is that the gravity of the character’s psychological divide is clear after the first half hour, and both films add little in the next hour to deepen our – or the characters’ – understanding or entanglement.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A290281</url>
+         <critic>Marjorie Baumgarten</critic>
+      </review>
+      <review>
+         <snippet>The Beat That My Heart Skipped has nonetheless brought attention to a nearly lost classic. For more than two decades, "Fingers" was not available on video or DVD and was rarely screened. But it's available now, and if you've never seen it, put it on your must-rent list immediately.</snippet>
+         <url>http://www.nydailynews.com/07-01-2005/entertainment/col/story/324136p-276960c.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>As it is, Duris, capable and dull, is no Keitel, 2005 is no 1978, and The Beat That My Heart Skipped is no "Fingers."</snippet>
+         <url>http://www.villagevoice.com/film/0526,atkinsonhear,65380,20.html</url>
+         <critic>Michael Atkinson</critic>
+      </review>
+      <review>
+         <snippet>Contrivances accrue so thickly that the source seems to be not 1978 Toback, but 1930s Warner Brothers. The film sweats to be up-to-date with ultra-hectic editing, pace, elision, and sangfroid, but they can't verify the pasteboard base.</snippet>
+         <url>http://www.tnr.com/doc.mhtml?i=20050801&amp;s=kauffmann080105</url>
+         <critic>Stanley Kauffmann</critic>
+      </review>
+   </reviews>
+   <US_Gross>$1,023,424</US_Gross>
+   <production_budget>$5,500,000</production_budget>
+   <weekend_gross>$65,365</weekend_gross>
+   <number_of_screens>5</number_of_screens>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>true</independence_release>
+   <labor_release>false</labor_release>
+</movie>

@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Fantastic Mr. Fox</name>
+   <company>20th Century Fox</company>
+   <genres>
+      <genre>Adventure</genre>
+      <genre>Animation</genre>
+      <genre>Comedy</genre>
+   </genres>
+   <authors>
+      <author>Wes Anderson</author>
+      <author>Noah Baumbach</author>
+   </authors>
+   <directors>
+      <director>Wes Anderson</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+      <origin>UK</origin>
+   </origins>
+   <actors>
+      <actor>George Clooney</actor>
+      <actor>Meryl Streep</actor>
+      <actor>Jason Schwartzman</actor>
+      <actor>Bill Murray</actor>
+      <actor>Wally Wolodarsky</actor>
+      <actor>Eric Anderson</actor>
+      <actor>Michael Gambon</actor>
+      <actor>Willem Dafoe</actor>
+      <actor>Owen Wilson</actor>
+      <actor>Jarvis Cocker</actor>
+   </actors>
+   <release_date>November 13, 2009</release_date>
+   <running_time>87</running_time>
+   <rating>PG</rating>
+   <reviews>
+      <review>
+         <snippet>For the reportedly painstaking labor it took to create, the film is a marvel to behold--with wonderful shifts in perspective, an intensely tactile design, and an intentional herky-jerkiness of motion that only enriches the make-believe atmosphere.</snippet>
+         <url>http://www.villagevoice.com/2009-11-10/film/wes-anderson-brings-wes-anderson-ndash-ness-to-fantastic-mr-fox/</url>
+         <critic>Scott Foundas</critic>
+      </review>
+      <review>
+         <snippet>With its virtuoso tomfoolery, Fantastic Mr. Fox is like a homegrown Wallace and Gromit caper. To Wes Anderson: More, please!</snippet>
+         <url>http://www.ew.com/ew/article/0,,20319017,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>Anderson has pulled off the most elusive of goals: He's made a nonchalant masterpiece, a movie that feels dog-eared and loved before it's even reached our hands.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2009/11/11/fantastic_mr_fox/index.html</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>You don't want to watch this movie, you want to climb inside it and play.</snippet>
+         <url>http://www.slate.com/id/2235461/</url>
+         <critic>Dana Stevens</critic>
+      </review>
+      <review>
+         <snippet>Witty and wonderful, Fantastic Mr. Fox is the perfect Thanksgiving entertainment.</snippet>
+         <url>http://www.philly.com/inquirer/columnists/steven_rea/20091124_Fantastic_Mr__Fox.html</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>The result is an instant classic. The material allows Anderson to neutralize the most irritating aspects of his work (the precociousness, the sense of white-bread privilege) and maximize the most endearing (the comic timing, the dollhouse ordering of invented worlds).</snippet>
+         <url>http://www.chicagoreader.com/chicago/MovieTimes?oid=977725</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>A pleasantly cerebral experience, exhilarating and fizzy, that goes to your head like too much Champagne.</snippet>
+         <url>http://www.latimes.com/entertainment/news/la-et-fox13-2009nov13,0,2406547.story</url>
+         <critic>Kenneth Turan</critic>
+      </review>
+      <review>
+         <snippet>In some ways his (Anderson) most fully realized and satisfying film. Once you adjust to its stop-and-start rhythms and its scruffy looks, you can appreciate its wit, its beauty and the sly gravity of its emotional undercurrents.</snippet>
+         <url>http://movies.nytimes.com/2009/11/13/movies/13fantastic.html?ref=movies</url>
+         <critic>A.O. Scott</critic>
+      </review>
+      <review>
+         <snippet>A captivating entertainment for the holiday season and well beyond.</snippet>
+         <url>http://online.wsj.com/article/film_review.html</url>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>Anderson has created a world as stylized and inventive as anything he's done... "Fox" is a visual delight.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film-reviews/fantastic-mr-fox-film-review-1004021948.story</url>
+         <critic>Sheri Linden</critic>
+      </review>
+      <review>
+         <snippet>Endlessly enchanting.</snippet>
+         <url>http://nymag.com/movies/reviews/61858/</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>This is an animated film that happily has room for both an existentialist dread of death and a grinning joie de vivre.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A917115</url>
+         <critic>Kimberley Jones</critic>
+      </review>
+      <review>
+         <snippet>These animals aren't catering to anyone in the audience. We get the feeling they're intensely leading their own lives without slowing down for ours.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20091124/REVIEWS/911249995</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>An adventure in pure imagination that plays to the smart kid in all of us.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/28972949/review/30842699/fantastic_mr_fox</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>Most of all, it’s a magical feat, one that turns puppets into personalities and an English meadow into Anderson’s world.</snippet>
+         <url>http://www.stltoday.com/stltoday/entertainment/reviews.nsf/movie/story/C457410E3C98ED5786257678006D594F?OpenDocument</url>
+         <critic>Staff (Not credited)</critic>
+      </review>
+      <review>
+         <snippet>By forgoing actual human beings, the director has made his most charming, least annoyingly fey film - a thing of lovely comic wisdom.</snippet>
+         <url>http://www.boston.com/ae/movies/articles/2009/11/25/fantastic_mr_fox_is_a_charming_fairy_tale_for_grown_ups/</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>A gorgeous and witty piece of stop-motion animation.</snippet>
+         <url>http://www.nypost.com/p/entertainment/movies/fox_is_worthy_zWgFrKnrRdzsm9JswsHrsN</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>Has its pleasures, foremost being its look – a sophisticated puppet primitivism backdropped by near-psychedelic colorations.</snippet>
+         <url>http://www.csmonitor.com/2009/1113/p17s03-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>For all the ostensible immaturity of its form, Fantastic Mr. Fox is the most grown-up thing the director has done in years.</snippet>
+         <url>http://blog.oregonlive.com/madaboutmovies/2009/11/review_--_the_magical_manipula.html</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>The result is a visual treasure that successfully blends deadpan quirkiness with a wry realism rarely seen in any film, let alone one for children.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2009/11/12/2009-11-12_the_fantastic_mr_fox_.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>Genuinely original: a silly, hilarious and oddly profound adaptation for adult-sized children.</snippet>
+         <url>http://www.empireonline.com/reviews/reviewcomplete.asp?FID=10507</url>
+         <critic>Ian Nathan</critic>
+      </review>
+      <review>
+         <snippet>The film's style, paradoxically both precious and rough-hewn, positions this as the season's defiantly anti-CGI toon, and its retro charms will likely appeal more strongly to grown-ups than to moppets; it's a picture for people who would rather drive a 1953 Jaguar XK 120 than a new one.</snippet>
+         <url>http://www.variety.com/review/VE1117941368.html?categoryid=31&amp;cs=1&amp;query=fantastic+mr%2E+fox</url>
+         <critic>Todd McCarthy</critic>
+      </review>
+      <review>
+         <snippet>This is no more a kids’ movie for kids than "Where The Wild Things Are"; it’s a film strictly for Wes Anderson fans of all ages. By now, they should know who they are.</snippet>
+         <url>http://www.avclub.com/articles/fantastic-mr-fox,35313/</url>
+         <critic>Tasha Robinson</critic>
+      </review>
+      <review>
+         <snippet>It's an intriguing match of material and filmmaker. Dahl's distinctive, edgy storytelling seems to fit well with Anderson's idiosyncratic worldview and visuals.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2009-11-13-fantastic13_ST_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>Anderson injects such charm and wit, such personality and nostalgia - evident in the old-school animation, storybook settings and pitch-perfect use of Burl Ives - that it's easy to forgive his self-conscious touches.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2009/11/24/MVRM1AMKKS.DTL</url>
+         <critic>Amy Biancolli</critic>
+      </review>
+      <review>
+         <snippet>Fantastic Mr. Fox imparts lessons as profound as "The Road's" about love and gratitude and awareness of others. It just has more fun doing it.</snippet>
+         <url>http://www.washingtonpost.com/gog/movies/fantastic-mr.-fox,1158822/critic-review.html#reviewNum1</url>
+         <critic>Ann Hornaday</critic>
+      </review>
+      <review>
+         <snippet>If there's an argument against the film (and, admittedly, it's not much of an argument), it's that the movie may not be suitably childish to appeal to younger viewers.</snippet>
+         <url>http://www.reelviews.net/php_review_template.php?identifier=1891</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>Mr. Fox's old-fashioned, hand-crafted animation is one of its main attractions. Another is Anderson's whimsical, dry humor, a natural for this tale of a crafty, dapper fox.</snippet>
+         <url>http://www.miamiherald.com/entertainment/movies/reviews/story/1349373.html</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>The tale may be Dahl's, but there's a whole new wag to it – this is decidedly, weirdly and, at best, wonderfully a Wes Anderson movie.</snippet>
+         <url>http://www.theglobeandmail.com/news/arts/fantastic-mr-fox/article1375826/</url>
+         <critic>Rick Groen</critic>
+      </review>
+      <review>
+         <snippet>Even though it's right there in the title, "fantastic" might be a touch hyperbolic in describing director Wes Anderson's stop-motion adaptation of Roald Dahl's The Fantastic Mr. Fox,  but only by a whisker.</snippet>
+         <url>http://www.nola.com/movies/index.ssf/2009/11/fantastic_mr_fox_offers_quirky.html</url>
+         <critic>Mike Scott</critic>
+      </review>
+      <review>
+         <snippet>I’m flummoxed as to why the movie left me feeling up in the air, as opposed to over the moon. Partly, I think, it’s a matter of how Anderson’s sense of humor rubs up against that of the book’s author, Roald Dahl.</snippet>
+         <url>http://featuresblogs.chicagotribune.com/talking_pictures/</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>It’s unfortunate that the result is so unaffecting, especially in light of all the things the director does right.</snippet>
+         <url>http://newyork.timeout.com/articles/film/80535/fantastic-mr-fox-film-review</url>
+         <critic>Keith Uhlich</critic>
+      </review>
+      <review>
+         <snippet>The animals are often caught in a stare as if they, too, are looking for the tale that Anderson forgot.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=12004</url>
+         <critic>Matthew Sorrento</critic>
+      </review>
+   </reviews>
+   <US_Gross>$20,947,939</US_Gross>
+   <weekend_gross>$265,900</weekend_gross>
+   <number_of_screens>4</number_of_screens>
+   <oscar_winning_actors_present/>
+   <num_oscar_winning_actors>1</num_oscar_winning_actors>
+   <oscar_winning_actor>meryl streep</oscar_winning_actor>
+   <highest_grossing_actors_present/>
+   <num_highest_grossing_actors>1</num_highest_grossing_actors>
+   <highest_grossing_actor>owen wilson</highest_grossing_actor>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

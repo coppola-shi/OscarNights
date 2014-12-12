@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>One Night with the King</name>
+   <company>8X Entertainment Inc.</company>
+   <genres>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author>Stephan Blinn</author>
+      <author>Tommy Tenney</author>
+      <author>Mark Andrew Olsen</author>
+   </authors>
+   <directors>
+      <director>Michael O. Sajbel</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Tiffany Dupont</actor>
+      <actor>Luke Goss</actor>
+      <actor>John Rhys-Davies</actor>
+      <actor>Peter O&amp;#039;Toole</actor>
+      <actor>Omar Sharif</actor>
+      <actor>Tommy Lister</actor>
+      <actor>John Noble</actor>
+      <actor>James Callis</actor>
+   </actors>
+   <release_date>October 13, 2006</release_date>
+   <running_time>123</running_time>
+   <rating>PG</rating>
+   <reviews>
+      <review>
+         <snippet>Blessed with abundant production values and a minimum of campy excess, One Night With the King is a surprisingly satisfying attempt to revive the Old Hollywood tradition of lavishly appointed Biblical epics aimed at mainstream auds.</snippet>
+         <url>http://www.variety.com/review/VE1117931827?categoryid=31&amp;cs=1</url>
+         <critic>Joe Leydon</critic>
+      </review>
+      <review>
+         <snippet>Produced by the son of Trinity Broadcasting Network founder Paul Crouch, this historical epic offers a solid two hours of spectacle and intrigue drawn from The Book of Esther by way of Tommy Tenney and Mark Andrew Olsen's novel "Hadassah."</snippet>
+         <url>http://tvguide.com/detail/movie.aspx?tvobjectid=283818&amp;more=ucmoviereview</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>The performances are all solid, although the screenplay frequently bogs down with the complexity of palace intrigues and plots that could have been rendered more consumer-friendly.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A409446</url>
+         <critic>Marjorie Baumgarten</critic>
+      </review>
+      <review>
+         <snippet>Those viewers who found anti-Semitism lurking under every stone in The Passion of the Christ may rejoice in this celebration of Jewish heroism; all others should rest assured that falling asleep in the cinema is not a mortal sin.</snippet>
+         <url>http://www.laweekly.com/film+tv/film-reviews/film-reviews/14769/</url>
+         <critic>Scott Foundas</critic>
+      </review>
+      <review>
+         <snippet>There's not much joy in One Night With the King, a lavish but listless retelling of the biblical story of Esther.</snippet>
+         <url>http://www.calendarlive.com/printedition/calendar/cl-et-one13oct13,0,7594333.story</url>
+         <critic>Sam Adams</critic>
+      </review>
+      <review>
+         <snippet>Fails to find the genuine drama in its story of love and intrigue.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1003252716</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>This preposterous adaptation of the Book of Esther is recommended viewing only for those impressed that it comes endorsed by the American Bible Society.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/moviereviews/story/461313p-387895c.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>The cinematography and sets look great, but the script is a bummer. It's overlong, overwrought and overblown.</snippet>
+         <url>http://www.nypost.com/seven/10132006/entertainment/movies/one_night_with_the_king_movies_v_a__musetto.htm</url>
+         <critic>V.A. Musetto</critic>
+      </review>
+   </reviews>
+   <US_Gross>$13,395,961</US_Gross>
+   <production_budget>$20,000,000</production_budget>
+   <weekend_gross>$4,106,862</weekend_gross>
+   <number_of_screens>909</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

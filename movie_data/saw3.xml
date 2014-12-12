@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Saw III</name>
+   <company>Lionsgate</company>
+   <genres>
+      <genre>Crime</genre>
+      <genre>Horror</genre>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>Leigh Whannell</author>
+      <author>James Wan</author>
+   </authors>
+   <directors>
+      <director>Darren Lynn Bousman</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Tobin Bell</actor>
+      <actor>Shawnee Smith</actor>
+      <actor>Angus Macfadyen</actor>
+      <actor>Bahar Soomekh</actor>
+      <actor>Dina Meyer</actor>
+      <actor>J. LaRose</actor>
+      <actor>Debra McCabe</actor>
+   </actors>
+   <release_date>October 27, 2006</release_date>
+   <running_time>107</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>That may not exactly thrill those who admire the Saw films only for their splatter quotient, but all told, this is a more affecting study in grief, guilt and human frailty than "Babel."</snippet>
+         <url>http://www.laweekly.com/film+tv/film-reviews/film-reviews/14868/</url>
+         <critic>Scott Foundas</critic>
+      </review>
+      <review>
+         <snippet>Admit it: It's not every horror film that can make you feel preached at and slimed at the same time.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1553340_1_0_,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>While Saw III provides a decent number of new twists, psychological as well as torture-wise, it necessarily lacks the originality of its predecessors.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?&amp;rid=6731</url>
+         <critic>Frank Scheck</critic>
+      </review>
+      <review>
+         <snippet>An improvement over the tedious "Saw II" (2005), this second sequel to the surprise 2004 hit still features the series' trademark gruesome "games" but shifts the focus to the relationships among the characters.</snippet>
+         <url>http://tvguide.com/detail/movie.aspx?tvobjectid=283813&amp;more=ucmoviereview</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>The question for moviegoers: Would you rather get your dose of existenz-philosophie from Dostoyevsky or a slasher flick?</snippet>
+         <url>http://ae.philly.com/entertainment/ui/philly/movie.html;jsessionid=C599F8EC919E71E19CD6E238880494BC.prodapp12_ae_01?id=726299&amp;reviewId=21711&amp;startDate=10%2F28%2F2006</url>
+         <critic>Tirdad Derakhshani</critic>
+      </review>
+      <review>
+         <snippet>Unlike the disturbingly mysterious original, Saw III is a neatly wrapped-up package that explains everything -- including Jigsaw's evil contraptions and the background of his crazed female assistant.</snippet>
+         <url>http://www.variety.com/review/VE1117931983.html?categoryid=31&amp;cs=1</url>
+         <critic>Robert Koehler</critic>
+      </review>
+      <review>
+         <snippet>Bottom line, those in the "Saw" factory know their audience and have brought along the appropriate buckets and bibs. Even devotees, however, may note pacing problems and tire of Jigsaw's selective omnipotence.</snippet>
+         <url>http://www.calendarlive.com/printedition/calendar/cl-et-saw30oct30,0,3788651.story</url>
+         <critic>Michael Ordona</critic>
+      </review>
+      <review>
+         <snippet>Saw III may be the best of the trilogy; hopefully, it'll encourage its makers to wrap the franchise on a relatively high note.</snippet>
+         <url>http://www.avclub.com/content/node/54603</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>Pop psychology has never been as visceral as it is in Saw III.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A413306</url>
+         <critic>Marc Savlov</critic>
+      </review>
+      <review>
+         <snippet>As much as you'd like the characters to become better people and beat Jigsaw's game, there is also a strong desire simply to watch violent spectacle. And somehow, there just isn't enough of the latter.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=9393</url>
+         <critic>Stina Chyn</critic>
+      </review>
+      <review>
+         <snippet>The presence of some genuine feeling distinguishes Saw III from its predecessors. That said, it has plenty of the blood, torture and dismemberment that moviegoers demand from their Halloween weekend entertainment.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/LAC.20061028.SAW28/TPStory/TPEntertainment/Movies/</url>
+         <critic>Jason Anderson</critic>
+      </review>
+      <review>
+         <snippet>The most depressing thing about this series is not the creativity of the bloodletting but the bleak view of human nature.</snippet>
+         <url>http://movies2.nytimes.com/2006/10/28/movies/28saw.html?ref=movies</url>
+         <critic>Jeannette Catsoulis</critic>
+      </review>
+      <review>
+         <snippet>Just like its increasingly wan antihero, this blood-soaked series is on its last legs.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/moviereviews/story/466042p-392018c.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>This is laughably absurd, but unlike the first "Saw," the third installment gives no indication that its humor is intentional.</snippet>
+         <url>http://www.villagevoice.com/film/0645,nelson,74966,20.html</url>
+         <critic>Rob Nelson</critic>
+      </review>
+      <review>
+         <snippet>While "Saw" and "Saw II" were pretty good splatter films hampered by spectacularly unbelievable endings, Saw III is annoying for almost the duration of the movie.</snippet>
+         <url>http://sfgate.com/cgi-bin/article.cgi?f=/c/a/2006/10/30/DDGE8M1H9R1.DTL&amp;type=movies</url>
+         <critic>Peter Hartlaub</critic>
+      </review>
+      <review>
+         <snippet>Television is a state of mind. And the makers of Saw III have delivered the most despicable episode of "One Life to Live" ever.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=8669</url>
+         <critic>Wesley Morris</critic>
+      </review>
+   </reviews>
+   <US_Gross>$80,238,724</US_Gross>
+   <production_budget>$10,000,000</production_budget>
+   <weekend_gross>$33,610,391</weekend_gross>
+   <number_of_screens>3,167</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

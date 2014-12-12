@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Marebito</name>
+   <company>Tartan USA</company>
+   <genres>
+      <genre>Drama</genre>
+      <genre>Foreign</genre>
+      <genre>Horror</genre>
+      <genre>Mystery</genre>
+   </genres>
+   <authors>
+      <author>Takashi Shimizu</author>
+      <author>Chiaki Konaka</author>
+   </authors>
+   <directors>
+      <director>Takashi Shimizu</director>
+   </directors>
+   <origins>
+      <origin>Japan</origin>
+   </origins>
+   <actors>
+      <actor>Shinya Tsukamoto</actor>
+      <actor>Tomomi Miyashita</actor>
+      <actor>Kazuhiro Nakahara</actor>
+      <actor>Miho Ninagawa</actor>
+      <actor>Shun Sugata</actor>
+   </actors>
+   <release_date>December 9, 2005</release_date>
+   <running_time>92</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>It's not really scary, but it reaches a level of insanity so unhinged and dispassionately wretched that it defies description. Inspired, but not for all tastes.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/258053_limited03.html</url>
+         <critic>Sean Axmaker</critic>
+      </review>
+      <review>
+         <snippet>Shot on digital video as murky as Masuoka's imagination, its creeping sense of dank dread is as slow to build as it is hard to shake.</snippet>
+         <url>http://online.tvguide.com/movies/database/ShowMovie.asp?MI=46600</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>An outrageous horror flick.</snippet>
+         <url>http://www.nypost.com/movies/59224.htm</url>
+         <critic>V.A. Musetto</critic>
+      </review>
+      <review>
+         <snippet>Marebito's ghoulish delight in gore will turn off the squeamish, but tougher souls will recognize that the over-the-top shocks are Shimizu's way of illustrating how terrifying the risk of human connection can be.</snippet>
+         <url>http://www.laweekly.com/film/film_results.php?showid=3686&amp;Sumbit.x=42&amp;Sumbit.y=10</url>
+         <critic>Tim Grierson</critic>
+      </review>
+      <review>
+         <snippet>Provocative rather than scary, and it's made with visual flair.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-marebito9dec09,0,6963092.story</url>
+         <critic>Kevin Thomas</critic>
+      </review>
+      <review>
+         <snippet>Unlike the elliptical, often explanation-free "The Grudge," Marebito is wordy to the extreme. Konaka's near-constant narration underlines every point the movie is trying to make, ruminating bluntly on the meaning of fear, and how we suck on media violence like, yep, vampires.</snippet>
+         <url>http://www.avclub.com/content/node/45228</url>
+         <critic>Noel Murray</critic>
+      </review>
+      <review>
+         <snippet>Shot in just over a week with a minuscule budget, this artsy thriller feels like a one-off from Shimizu's Ju-on films but is probably worth a look for fans.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A325549</url>
+         <critic>Marrit Ingman</critic>
+      </review>
+      <review>
+         <snippet>In casting about for new sources of fear, Marebito achieves its own level of mediocrity.</snippet>
+         <url>http://movies2.nytimes.com/2005/12/09/movies/09mare.html</url>
+         <critic>Dana Stevens</critic>
+      </review>
+      <review>
+         <snippet>Never gives us what it promised: a glorious, totally new sense of horror.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/moviereviews/story/373210p-317185c.html</url>
+         <critic>Jami Bernard</critic>
+      </review>
+      <review>
+         <snippet>It's actually a pretty lousy thriller.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=8412</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>A disturbing supernatural drama that leaves a sour taste in the mouth.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1001772137</url>
+         <critic>Richard James Havis</critic>
+      </review>
+      <review>
+         <snippet>Japanese horror doesn't get more tedious.</snippet>
+         <url>http://www.variety.com/review/VE1117925041?categoryid=31&amp;cs=1</url>
+         <critic>Jay Weissberg</critic>
+      </review>
+      <review>
+         <snippet>This all-digital indie is, by genre standards, either a misfired doodle or an attempt to Lovecraft-ize the popular movement. Or both.</snippet>
+         <url>http://www.villagevoice.com/film/0549,atkinson,70703,20.html</url>
+         <critic>Michael Atkinson</critic>
+      </review>
+   </reviews>
+   <US_Gross>$13,893</US_Gross>
+   <weekend_gross>$3,852</weekend_gross>
+   <number_of_screens>2</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

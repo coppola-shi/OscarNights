@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Harsh Times</name>
+   <company>Metro-Goldwyn-Mayer</company>
+   <genres>
+      <genre>Action</genre>
+      <genre>Crime</genre>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author>David Ayer</author>
+   </authors>
+   <directors>
+      <director>David Ayer</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Christian Bale</actor>
+      <actor>Freddy Rodríguez</actor>
+      <actor>Tammy Trull</actor>
+      <actor>Adriana Millan</actor>
+      <actor>Eva Longoria</actor>
+      <actor>Terry Crews</actor>
+      <actor>Noel Gugliemi</actor>
+   </actors>
+   <release_date>November 10, 2006</release_date>
+   <running_time>120</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>If Martin Scorsese were 30 and a Los Angeleno, he'd be making movies much like this one.</snippet>
+         <url>http://www.nypost.com/seven/11102006/entertainment/movies/bad_l_a__times_movies_kyle_smith.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>Bale is mesmerizing and Rodriguez keeps up with him as the whole unsafe contraption zooms.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1556509_1_0_,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>Harsh Times occasionally echoes "Taxi Driver," Ayer's own "Training Day," and even "First Blood" in the way it examines the psychological disintegration of a character and the seduction of amorality.</snippet>
+         <url>http://www.reelviews.net/movies/h/harsh_times.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>Not since "To Live and Die in L.A" has there been such a raw, cynical vision of living and dying in L.A.</snippet>
+         <url>http://www.miami.com/mld/miamiherald/entertainment/movies/15967401.htm</url>
+         <critic>Peter Debruge</critic>
+      </review>
+      <review>
+         <snippet>Bale brings intense energy (and a convincing American accent) to the proceedings, and the film manages to make this borderline Travis Bickle into a sympathetic character - with a sweetheart, and a sweeter life, beckoning from south of the border. Strong stuff.</snippet>
+         <url>http://ae.philly.com/entertainment/ui/philly/movie.html?id=157348&amp;reviewId=21773</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>With his ersatz-gangsta swagger, the once-again buff Bale gives it his all -- he's got to be the most committed actor in Hollywood -- but the real surprise here is Rodriguez, who has all the talent and charisma of a major star.</snippet>
+         <url>http://tvguide.com/detail/movie.aspx?tvobjectid=284026&amp;more=ucmoviereview</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>All along, you know something terrible is going to happen, and when it does, you leave the theater shaken and deeply moved.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2006/11/10/DDG1QM8SLJ1.DTL&amp;type=movies</url>
+         <critic>Ruthe Stein</critic>
+      </review>
+      <review>
+         <snippet>Debuting as director, Ayer once again points his loose cannon directly into the body politic: the protagonist of this sour but haunting tale is a crazed army ranger just returned from overseas (Christian Bale) who's so full of war that even the LAPD won't hire him.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/30713_HARSH_TIMES.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>Ayer gets lost in a maze of ironies, and has to bulldoze his way to an exit. For a while, Harsh Times is thrillingly hard to predict. By the end, it becomes all too easy.</snippet>
+         <url>http://www.avclub.com/content/node/55119</url>
+         <critic>Noel Murray</critic>
+      </review>
+      <review>
+         <snippet>Rodríguez is excellent as Mike.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A417817</url>
+         <critic>Josh Rosenblatt</critic>
+      </review>
+      <review>
+         <snippet>Harsh Times opens with a deadly nightmare and ends with a vast bloodbath -- in between, things get a little gruesome.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20061110.wharsh10/BNStory/Entertainment/home</url>
+         <critic>Rick Groen</critic>
+      </review>
+      <review>
+         <snippet>Harsh Times, is almost a good, salty urban thriller.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-061110-movies-review-harsh,0,5966288.story?coll=mmx-movies_top_heds</url>
+         <critic>Michael Wilmington</critic>
+      </review>
+      <review>
+         <snippet>A psychotic seizure of a performance by Christian Bale dominates Harsh Times, the directorial debut of David Ayer that channels "Taxi Driver."</snippet>
+         <url>http://www.variety.com/review/VE1117928371.html?categoryid=31&amp;cs=1&amp;p=0</url>
+         <critic>Todd McCarthy</critic>
+      </review>
+      <review>
+         <snippet>Well-intentioned but not very well directed, it makes for a better psychological profile than a film.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/291790_harsh10q.html</url>
+         <critic>Sean Axmaker</critic>
+      </review>
+      <review>
+         <snippet>For most of its meandering running time Harsh Times is just a rough South Central L.A. buddy movie.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-to.harsh10nov10,0,7294396.story?coll=bal-movies-utility</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>The result is an angry, violent mess of a movie with a central character threatening to implode right on the screen.</snippet>
+         <url>http://www.nydailynews.com/08-31-2003/entertainment/movies/moviereviews/story/470121p-395445c.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>Give Harsh Times an "E" for effort, but not much else.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=9417</url>
+         <critic>Pete Vonder Haar</critic>
+      </review>
+      <review>
+         <snippet>Mr. Bales's spectacular technical performance of a toxic bad boy on the fast track to hell somehow lacks an inner core.</snippet>
+         <url>http://movies2.nytimes.com/2006/11/10/movies/10hars.html</url>
+         <critic>Stephen Holden</critic>
+      </review>
+      <review>
+         <snippet>Harsh Times goes down like the vinegar its protagonist chugs to try to beat a drug test. It's carefully crafted, exasperating and ugly, a festival of self-destructiveness, in all ways a reflection of its lead as brought to careening, erupting, implosive life by Christian Bale.</snippet>
+         <url>http://www.calendarlive.com/movies/cl-et-harsh10nov10,0,3390423.story</url>
+         <critic>Michael Ordona</critic>
+      </review>
+      <review>
+         <snippet>The film's unrelenting bleakness and misanthropic tone is likely to be a turnoff to mainstream performances, but it provides its lead actor with another opportunity to display his riveting intensity.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?JSESSIONID=FPgn7PvJ8LB5M85YmbvFGbrdGlZX1QvDcrGHc9G7pSbhM9WrhBww!1044386143&amp;&amp;rid=7031</url>
+         <critic>Frank Scheck</critic>
+      </review>
+      <review>
+         <snippet>Whatever political statement Ayer intended to make with his Gulf War veteran turned human time bomb is swamped by the movie's obnoxious badass envy, and Bale's gloating display of American-psycho fireworks, the kind of vein-popping show-boating that might as well be performed in a mirror.</snippet>
+         <url>http://www.villagevoice.com/film/0645,ridley,74962,20.html</url>
+         <critic>Jim Ridley</critic>
+      </review>
+      <review>
+         <snippet>The film amounts to a harsh and perpetual assault on viewers' sensibilities -- not only because of its violence but because of its overall bleakness.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1106711&amp;categories=Movies&amp;nm=1</url>
+         <critic>Desson Thomson</critic>
+      </review>
+      <review>
+         <snippet>The real problem with Harsh Times is Jim himself. Bale goes at the part with his usual intensity, but the character still seems like a psycho without psychology or a soul.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=8334</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>Harsh Times contains exactly 30 seconds of novelty.</snippet>
+         <url>http://ae.charlotte.com/entertainment/ui/charlotte/movie.html;jsessionid=91410AA756C887440B21D315588E1B31.prodapp15_ae_02?id=157348&amp;reviewId=21763&amp;startDate=11%2F10%2F2006</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+   </reviews>
+   <US_Gross>$3,337,931</US_Gross>
+   <production_budget>$2,000,000</production_budget>
+   <weekend_gross>$1,968,505</weekend_gross>
+   <number_of_screens>956</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

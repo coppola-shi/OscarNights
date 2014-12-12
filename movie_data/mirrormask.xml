@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>MirrorMask</name>
+   <company>Sony Pictures Entertainment</company>
+   <genres>
+      <genre>Drama</genre>
+      <genre>Fantasy</genre>
+      <genre>Scifi</genre>
+   </genres>
+   <authors>
+      <author>Neil Gaiman</author>
+      <author>Dave Mc</author>
+      <author>Kean</author>
+   </authors>
+   <directors>
+      <director>Dave Mc</director>
+      <director>Kean</director>
+   </directors>
+   <origins>
+      <origin>UKUSA</origin>
+   </origins>
+   <actors>
+      <actor>Stephanie Leonidas</actor>
+      <actor>Gina McKee</actor>
+      <actor>Rob Brydon</actor>
+      <actor>Jason Barry</actor>
+      <actor>Dora Bryan</actor>
+      <actor>Robert Llewellyn</actor>
+      <actor>Andy Hamilton</actor>
+      <actor>Fiona Reynard</actor>
+      <actor>Nik Robson</actor>
+   </actors>
+   <release_date>September 30, 2005</release_date>
+   <running_time>101</running_time>
+   <rating>PG</rating>
+   <reviews>
+      <review>
+         <snippet>This dazzling reverie of a kids-and-adults movie, an unusual collaboration between lord-of-the-cult multimedia artist Dave McKean and king-of-the-comics Neil Gaiman (The Sandman), has something to astonish everyone.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1110758_1_0_,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>Mirrormask is a gorgeous psychedelic cameo of a movie.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-to.mirror04nov04,1,7389805.story?coll=bal-artslife-movies</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>If "The Wizard of Oz" were reborn in the 21st century, it might look a lot like MirrorMask. A product of the Jim Henson laboratory, the film is endlessly inventive with creativity to burn.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1000771375</url>
+         <critic>James Greenberg</critic>
+      </review>
+      <review>
+         <snippet>At best, Helena's wiggy adventures recall such Jean Cocteau films as "Orpheus" and "Blood of a Poet." At worst, they resemble the Vegas act of Cirque du Soleil.</snippet>
+         <url>http://www.csmonitor.com/2005/0930/p14s01-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>Though the story meanders, the film's look is nothing short of breathtaking.</snippet>
+         <url>http://online.tvguide.com/movies/database/ShowMovie.asp?MI=46456</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>Richly inventive.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2005/09/30/DDGHOEVICB1.DTL&amp;type=movies</url>
+         <critic>Walter Addiego</critic>
+      </review>
+      <review>
+         <snippet>Not everyone's cup of tea, but a strong, heady brew.</snippet>
+         <url>http://ae.philly.com/entertainment/ui/philly/movie.html?id=431441&amp;reviewId=19317</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>Episodic, detached, and lacking in drive, but packed with amazing, hallucinatory dream-imagery that makes real dreams look flat by comparison.</snippet>
+         <url>http://avclub.com/content/node/41066</url>
+         <critic>Tasha Robinson</critic>
+      </review>
+      <review>
+         <snippet>The movie combines drawings, photos, hazy filters, superimpositions and computer effects into a pastiche both beautiful and disturbing.</snippet>
+         <url>http://dallasobserver.com/Issues/2005-09-29/film/film2.html</url>
+         <critic>Luke Y. Thompson</critic>
+      </review>
+      <review>
+         <snippet>If you're not already smitten with all things Gaiman, you may well find yourself, like Helena, a stranger in a strange land.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A293445</url>
+         <critic>Marc Savlov</critic>
+      </review>
+      <review>
+         <snippet>Too strange and disjointed to attract much of an audience, but its astonishing visuals showcase a major new talent: first-time feature director and book illustrator Dave McKean.</snippet>
+         <url>http://www.nypost.com/movies/53194.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>The surreal visuals are relentless, overpowering the narrative much as they do in the frames of comic books (sorry, graphic novels).</snippet>
+         <url>http://www.theglobeandmail.com/servlet/ArticleNews/TPStory/LAC/20051028/MIRROR28/TPEntertainment/Film</url>
+         <critic>Rick Groen</critic>
+      </review>
+      <review>
+         <snippet>A truly unique fantasy, McKean’s screen debut is tangled but promising.</snippet>
+         <url>http://www.empireonline.com/incinemas/ReviewComplete.asp?FID=132338</url>
+         <critic>Helen O&amp;#039;Hara</critic>
+      </review>
+      <review>
+         <snippet>What it makes up for with sheer visual magic it lacks in coherent plotline.</snippet>
+         <url>http://www.filmthreat.com/Reviews.asp?Id=7689</url>
+         <critic>Heidi Martinuzzi</critic>
+      </review>
+      <review>
+         <snippet>What remains is a sumptuous-looking film that sniffs at but ignores deeper Freudian implications.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/243614_limited07.html</url>
+         <critic>Paula Nechak</critic>
+      </review>
+      <review>
+         <snippet>The narrative is simplistic and lacking in energy, and the characters are sketched instead of fully formed.</snippet>
+         <url>http://movie-reviews.colossus.net/movies/m/mirrormask.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>Watching MirrorMask, I suspected the filmmakers began with a lot of ideas about how the movie should look, but without a clue about pacing, plotting or destination.</snippet>
+         <url>http://www.rogerebert.com/apps/pbcs.dll/article?AID=/20050929/REVIEWS/50928004/1023</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>It's hollow.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-050930-movies-review-mirrormask,0,4595985.story?coll=mmx-movies_top_heds</url>
+         <critic>Allison Benedikt</critic>
+      </review>
+      <review>
+         <snippet>Crafted by hand and computer, Mirrormask is as breathtakingly beautiful to behold as it is tedious to slog through.</snippet>
+         <url>http://www.laweekly.com/film/film_results.php?showid=3580&amp;Sumbit.x=41&amp;Sumbit.y=9</url>
+         <critic>Ella Taylor</critic>
+      </review>
+      <review>
+         <snippet>Like many dreams, you won't remember it when you wake up. The style obliterates any emotional attachment.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/moviereviews/story/351086p-299353c.html</url>
+         <critic>Jami Bernard</critic>
+      </review>
+      <review>
+         <snippet>Like the recent Japanese import "Steamboy," this is worth seeing for the artwork alone, but it's so furiously overimagined it may leave you feeling dulled.</snippet>
+         <url>http://spacefinder.chicagoreader.com/movies/briefs/28608_MIRRORMASK.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>The teenager's journey through a nightmarish reverie presents hallucinogenic imagery that simultaneously dulls the senses and hot-wires the imagination, but it never fully engages emotionally.</snippet>
+         <url>http://www.calendarlive.com/printedition/calendar/cl-et-mask30sep30,0,5523658.story</url>
+         <critic>Kevin Crust</critic>
+      </review>
+      <review>
+         <snippet>Astonishing and frustrating, the fusion of live action and computer animation created by the Jim Henson Company in MirrorMask is an example of too much lavished on too little.</snippet>
+         <url>http://www.nytimes.com/2005/09/30/movies/30mask.html</url>
+         <critic>Stephen Holden</critic>
+      </review>
+      <review>
+         <snippet>Emerges as an overproduced novelty pic that looks and feels more like a company promo reel than an engaging piece of storytelling.</snippet>
+         <url>http://www.variety.com/index.asp?layout=sundance2005&amp;nav=reviews&amp;content=reviews&amp;reviewid=VE1117926228&amp;categoryid=1865&amp;cs=#loop</url>
+         <critic>Scott Foundas</critic>
+      </review>
+      <review>
+         <snippet>The film galumphs along in static panels, prioritizing flash over thought, hyperextending a story that would barely sustain a children's picture book.</snippet>
+         <url>http://www.villagevoice.com/film/0539,atkinson3,68231,20.html</url>
+         <critic>Michael Atkinson</critic>
+      </review>
+      <review>
+         <snippet>Aggressive visual invention is rarely its own reward, and this movie does nothing to better the odds.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=8367</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>So single-minded in its reach for fantasy, it becomes the genre's evil opposite: banality.</snippet>
+         <url>http://www.washingtonpost.com/wp-dyn/content/article/2005/09/29/AR2005092900591.html</url>
+         <critic>Desson Thomson</critic>
+      </review>
+   </reviews>
+   <US_Gross>$864,959</US_Gross>
+   <production_budget>$4,000,000</production_budget>
+   <weekend_gross>$126,449</weekend_gross>
+   <number_of_screens>18</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

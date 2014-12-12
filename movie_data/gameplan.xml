@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Game Plan, The</name>
+   <company>Walt Disney Pictures</company>
+   <genres>
+      <genre>Comedy</genre>
+      <genre>FamilyKids</genre>
+   </genres>
+   <authors>
+      <author>Audrey Wells</author>
+      <author>Kathryn Price</author>
+      <author>Nichole Millard</author>
+   </authors>
+   <directors>
+      <director>Andy Fickman</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Dwayne &amp;#034;The Rock&amp;#034; Johnson</actor>
+      <actor>Kyra Sedgwick</actor>
+      <actor>Roselyn Sanchez</actor>
+      <actor>Morris Chestnut</actor>
+      <actor>Madison Pettis</actor>
+      <actor>Gordon Clapp</actor>
+   </actors>
+   <release_date>September 28, 2007</release_date>
+   <running_time>110</running_time>
+   <rating>PG</rating>
+   <reviews>
+      <review>
+         <snippet>The two best things about this logic-challenged, predictable and overlong (110 minutes!) film are The Rock's performance - surely he's one of the more likable people in the movies, and here he handles physical sight gags with aplomb; and the parallel disciplines of football and ballet, which provide a way for father and daughter to understand each other.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?file=/c/a/2007/09/28/DDJJSFEDP.DTL&amp;type=movies</url>
+         <critic>G. Allen Johnson</critic>
+      </review>
+      <review>
+         <snippet>The movie is so likable that it glides over its many plot holes... The film’s direction, by Andy Fickman, is raucous but never crass, and the affable Mr. Johnson is committed to every moment.</snippet>
+         <url/>
+         <critic>Matt Zoller Seitz</critic>
+      </review>
+      <review>
+         <snippet>Like some sentimental fool, I allowed Johnson’s good-hearted buffoonery and Pettis’ overpowering sweetness and Millard and Price’s unwavering belief in the healing power of love to get the better of my senses and travel straight passed my brain to my heart.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A542081</url>
+         <critic>Josh Rosenblatt</critic>
+      </review>
+      <review>
+         <snippet>It's painless, especially if you have a small child in tow, and the Rock, bless his heart, acts like it's all new to him. The star should do more comedy - he's got quick reflexes and a face that lends itself to cartoon double takes, and he's not afraid to look completely ridiculous.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=10486</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>A throwback to the days when Disney would recruit second- and third-tier stars to stroll through indifferently written, modestly produced comic fluff that served as family entertainment.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?JSESSIONID=s29LG5BS5hnRyQ3lPzg55s28JPJvk4NbvbWwZtB1ndfLsyMBfyl6!1660147676&amp;&amp;rid=9906</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>Wrestler-turned-actor Dwayne "The Rock" Johnson is the most valuable player here, revealing impressive comic chops and megawatt charisma even while serving as a human punchline for many of the pic's predictable sight gags.</snippet>
+         <url>http://www.variety.com/review/VE1117934835.html?categoryid=31&amp;cs=1</url>
+         <critic>Joe Leydon</critic>
+      </review>
+      <review>
+         <snippet>Pettis is adorable, but she pushes the cuteness dial well past one's tolerance level. Still, if you've got small ones yourself, they'll probably enjoy the messes Joe and Peyton make together. They may also wonder why it takes so long for all the movie's messes to get cleaned up.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-game28sep28,0,1922406.story</url>
+         <critic>Gene Seymour</critic>
+      </review>
+      <review>
+         <snippet>An amusing and timely distraction.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=10312</url>
+         <critic>Stina Chyn</critic>
+      </review>
+      <review>
+         <snippet>Follows familiar formulas and characters, both brightened by a bit of wit and good performances from the two leads.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1134025&amp;categories=Movies&amp;nm=1</url>
+         <critic>Mike Mayo</critic>
+      </review>
+      <review>
+         <snippet>At least The Game Plan does have Johnson, whose innate charisma will make it easier for adult viewers to endure the film without ruing the decision to make a family outing to the multiplex.</snippet>
+         <url>http://www.miamiherald.com/224/story/251921.html</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>All that charm is wasted in careless scenes that don't make much sense and the whole thing feels slapped to together with chewing gum and spit.</snippet>
+         <url>http://www.tvguide.com/movies/game-plan/review/290661</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>Having tamed one muscled man-child (Vin Diesel in The Pacifier), Disney sets its sights on The Rock. He preens winningly in The Game Plan.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20058688,00.html</url>
+         <critic>Scott Brown</critic>
+      </review>
+      <review>
+         <snippet>Johnson’s a good actor, but it would take the ghost of Laurence Olivier to convince us that a grown man could legitimately fall for this brat.</snippet>
+         <url>http://www.laweekly.com/film+tv/film-reviews/film-reviews-angels-in-the-dust-hannah-takes-the-stairs-trade/17320/</url>
+         <critic>Luke Y. Thompson</critic>
+      </review>
+      <review>
+         <snippet>If Steve Martin (“Cheaper by the Dozen”) and Eddie Murphy (“Daddy Day Care”) can’t make these PG-rated assembly-line comedies any fun, what chance does The Rock have?</snippet>
+         <url>http://chicago.metromix.com/movies/movie_review/the-game-plan/210242/content</url>
+         <critic>Geoff Berkshire</critic>
+      </review>
+      <review>
+         <snippet>Game Plan plays like an average sitcom that drags on. This sort of film shouldn't clock in at more than 90 minutes. There are worse ways to spend a few hours, but expect more predictability than laughs in this good-hearted, mindless entertainment.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2007-09-27-also-opening_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>It's a squeaky clean pre-John Hughes, pre-Farrelly brothers throwback to an era where the words "Disney film" meant something: a movie free of crotch slams, gross-out gags, and tittery innuendo.</snippet>
+         <url>http://www.avclub.com/content/cinema/the_game_plan</url>
+         <critic>Tasha Robinson</critic>
+      </review>
+      <review>
+         <snippet>Even The Rock's immense charisma cannot save this predicatable fare.</snippet>
+         <url>http://www.empireonline.com/reviews/review.asp?FID=135365</url>
+         <critic>Simon Braund</critic>
+      </review>
+      <review>
+         <snippet>The Game Plan, created as a vehicle for Johnson, is a family comedy heavy on syrup and low on laughs.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20070927.game28nat/BNStory/Entertainment/home</url>
+         <critic>Jennie Punter</critic>
+      </review>
+      <review>
+         <snippet>Director Andy Fickman seems to have thrown everything into this artificial comedy, in the hopes that something might stick. Almost nothing does.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2007/09/28/2007-09-28_the_rock_from_here_to_paternity.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>Apart from a heart-tugging plot twist, some lesson learning and more random football talk ("no more buttonhooks in the kitchen"), that's about it. Oh, except for the scene in which Kyra Sedgwick - who plays Joe's agent - farts. Be sure to update your résumé, Kyra.</snippet>
+         <url>http://www.nypost.com/seven/09282007/entertainment/movies/rock_bottom.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>It's a complete by-the-numbers daddy-day-care movie that doesn't have a genuinely enchanting moment or shred of inspiration in its overlong running time.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/333408_game28q.html</url>
+         <critic>William Arnold</critic>
+      </review>
+      <review>
+         <snippet>Kyra Sedgwick is turned into a caricature of a sports agent. "NYPD Blue" grad Gordon Clapp gets one line of dialogue. And Morris Chestnut is pushed out to make room for one more "ain't she cute" moment.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/119082932077380.xml&amp;coll=7</url>
+         <critic>Staff (Not credited)</critic>
+      </review>
+      <review>
+         <snippet>Almost every note in this insipid comedy is strident or false, from the child's prodigious talent for deception to the jock's chaperoning her and her classmates at a Corolle doll boutique.</snippet>
+         <url>http://onfilm.chicagoreader.com/search/briefs?search_type=basic&amp;action=search&amp;query=Feast+of&amp;search=title</url>
+         <critic>Andrea Gronvall</critic>
+      </review>
+   </reviews>
+   <US_Gross>$90,648,202</US_Gross>
+   <production_budget>$22,000,000</production_budget>
+   <weekend_gross>$22,950,971</weekend_gross>
+   <number_of_screens>3,103</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

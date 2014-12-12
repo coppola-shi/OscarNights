@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Outlaw</name>
+   <company>Magnolia Pictures</company>
+   <genres>
+      <genre>Action</genre>
+      <genre>Crime</genre>
+   </genres>
+   <authors>
+      <author>Nick Love</author>
+   </authors>
+   <directors>
+      <director>Nick Love</director>
+   </directors>
+   <origins>
+      <origin>UK</origin>
+   </origins>
+   <actors>
+      <actor>Sean Bean</actor>
+      <actor>Sean Harris</actor>
+      <actor>Lennie James</actor>
+      <actor>Bob Hoskins</actor>
+      <actor>Rupert Friend</actor>
+      <actor>Danny Dyer</actor>
+   </actors>
+   <release_date>December 14, 2007</release_date>
+   <running_time>103</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>Both the pic's power and its problems stem from Love deliberately taking no moral position nor offering any solutions; he gives his audience what it wants at a gut level and doesn't wimp out at the end.</snippet>
+         <url>http://www.variety.com/review/VE1117933017.html?categoryid=31&amp;cs=1&amp;query=Outlaw</url>
+         <critic>Derek Elley</critic>
+      </review>
+      <review>
+         <snippet>Brainlessly entertaining action picture.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?&amp;rid=8889</url>
+         <critic>Ray Bennett</critic>
+      </review>
+      <review>
+         <snippet>Oliver Twist" meets "A Clockwork Orange" meets a reckless abandonment of credibility.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2007/12/14/DDP4TRK4N.DTL#flick2</url>
+         <critic>David Wiegand</critic>
+      </review>
+      <review>
+         <snippet>The kind of film the tabloids will call to ban. Don't take that as a reason to see it.</snippet>
+         <url>http://www.empireonline.com/reviews/reviewcomplete.asp?FID=134270</url>
+         <critic>Olly Richards</critic>
+      </review>
+   </reviews>
+   <US_Gross>$0</US_Gross>
+   <weekend_gross>$1,127,359</weekend_gross>
+   <number_of_screens>286</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Medicine for Melancholy</name>
+   <company>IFC Films</company>
+   <genres>
+      <genre>Drama</genre>
+      <genre>Romance</genre>
+   </genres>
+   <authors>
+      <author>Barry Jenkins</author>
+   </authors>
+   <directors>
+      <director>Barry Jenkins</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Wyatt Cenac</actor>
+      <actor>Tracey Heggins</actor>
+   </actors>
+   <release_date>January 30, 2009</release_date>
+   <running_time>88</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>There are no simple answers or obvious conclusions to be gleaned from this movie, which, like its soundtrack, is both sad and vibrant, meandering and formally sure-footed. It is an exciting debut, and a film that, without exaggeration or false modesty, finds interest and feeling in the world just as it is.</snippet>
+         <url>http://movies.nytimes.com/2009/01/30/movies/30mela.html?ref=movies</url>
+         <critic>A.O. Scott</critic>
+      </review>
+      <review>
+         <snippet>Tender, smart, soulful.</snippet>
+         <url>http://www.villagevoice.com/2009-01-28/film/medicine-for-melancholy-both-political-and-graceful/</url>
+         <critic>Ernest Hardy</critic>
+      </review>
+      <review>
+         <snippet>The film falters only when it eavesdrops briefly on a passionate public discussion of rent control and gentrification. The moment is out of keeping with the carefree nature of the rest of the movie.</snippet>
+         <url>http://www.nypost.com/seven/01302009/entertainment/movies/cheerful_indie_easy_to_swallow_152655.htm</url>
+         <critic>V.A. Musetto</critic>
+      </review>
+      <review>
+         <snippet>Medicine For Melancholy offers a personal spin on the "walking around a city" genre.</snippet>
+         <url>http://www.avclub.com/articles/medicine-for-melancholy,23199/</url>
+         <critic>Noel Murray</critic>
+      </review>
+      <review>
+         <snippet>Under the subdued, dignified surface, this movie - about the 24 hours after a one-night stand - churns with a filmmaker's fascination and wonder, sadness and longing.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2009/03/05/MV5M1699BF.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>The narrative, at times, veers into overstatement, but for the most part we're allowed to eavesdrop on their self-examination guilt-free.</snippet>
+         <url>http://www.latimes.com/entertainment/news/reviews/la-et-medicine20-2009feb20,0,6479021.story</url>
+         <critic>Betsy Sharkey</critic>
+      </review>
+      <review>
+         <snippet>Jenkins has an admirable feeling for, as the French would say, mise en scène, and a gift for placing actors in naturalistic settings. What he lacks at this point is a strong story sense.</snippet>
+         <url>http://www.csmonitor.com/2009/0221/p25s02-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>So subtle and subdued that it nearly undercuts itself. I'd describe it, in fact, as a film that doesn't quite work -- but the way it doesn't work is so distinctive and so interesting that it marks Jenkins as an exciting new face on the American indie scene.</snippet>
+         <url>http://www.salon.com/ent/movies/btm/feature/2009/01/29/melancholy/</url>
+         <critic>Andrew O&amp;#039;Hehir</critic>
+      </review>
+      <review>
+         <snippet>Wyatt Cenac, the latest addition to "The Daily Show" With Jon Stewart, is the best reason to see this easygoing romantic comedy.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/capsules/33781_MEDICINE_FOR_MELANCHOLY</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>The film does not lack for ambition both in terms of its themes and artistic design. Consequently, his (Jenkins) feature debut, while not flashy, shows promise. Clearly, here is a young filmmaker who wants to tell stories rather than deliver shocks and sensation.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?rid=11348</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>Jenkins is so desperate to give his love story a social and economic context that he stops the movie cold for a bunch of unrelated white people to articulate their grievances over gentrification--it's as if "Annie Hall" had paused for a seminar on agrarian reform.</snippet>
+         <url>http://nymag.com/movies/reviews/53785/index1.html</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>Yet it's pretty in all the wrong ways: pretty slight, pretty preachy and pretty affected.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/reviews/bal-to.melancholy06mar06,0,4341907.story</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>Cenac is witty and Heggins has a wary stillness, but the movie itself seems too shy to let them really engage each other.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2009/01/30/2009-01-30_short_takes_blessed_is_the_match_serbis_.html</url>
+         <critic>Joe Neumaier</critic>
+      </review>
+   </reviews>
+   <US_Gross>$110,869</US_Gross>
+   <weekend_gross>$12,625</weekend_gross>
+   <number_of_screens>1</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

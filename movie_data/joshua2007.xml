@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Joshua</name>
+   <company>Fox Searchlight Pictures</company>
+   <genres>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>George Ratliff</author>
+      <author>David Gilbert</author>
+   </authors>
+   <directors>
+      <director>George Ratliff</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Sam Rockwell</actor>
+      <actor>Vera Farmiga</actor>
+      <actor>Celia Weston</actor>
+      <actor>Dallas Roberts</actor>
+      <actor>Michael McKean</actor>
+      <actor>Jacob Kogan</actor>
+      <actor>Nancy Giles</actor>
+      <actor>Linda Larkin</actor>
+   </actors>
+   <release_date>July 6, 2007</release_date>
+   <running_time>90</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>Superbly crafted psychological thriller.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/imdb/reviews/article_display.jsp?rid=8694&amp;vnu_special_account_code=thrsiteimdbpro</url>
+         <critic>Duane Byrge</critic>
+      </review>
+      <review>
+         <snippet>Joshua does grow a bit repetitious (it lacks the cathartic climaxes of a horror film), yet it has cool and savvy fun with your fears.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20045353,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>Director George Ratliff plays pitch-perfect on the tautly wound strings of our innermost fears that nothing -- not love, wealth or intelligence -- can protect us from the monsters we harbor.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/323416_joshua13q.html</url>
+         <critic>Gianni Truzzi</critic>
+      </review>
+      <review>
+         <snippet>There's drama here, and moments of genuine tension, but there's fun, too, which is the point of a movie like this. To Ratliff's credit, he never lets the considerable craft get in the way.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/1184716524178570.xml&amp;coll=7</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>Only viewers with some appreciation for the odd, bloodless character of moneyed family life in New York will really understand how hilarious and deadly accurate this movie is. But then again, New York parents are the last people who will want to see it.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2007/07/05/btm/index2.html?VERSION=5</url>
+         <critic>Andrew O&amp;#039;Hehir</critic>
+      </review>
+      <review>
+         <snippet>A creepy-little-kid suspenser decked out with sufficient class to lend it a certain distinction.</snippet>
+         <url>http://www.variety.com/index.asp?layout=features2007&amp;content=jump&amp;jump=review&amp;dept=berlin&amp;nav=RBerlin&amp;articleid=VE1117932555&amp;cs=1&amp;p=0</url>
+         <critic>Todd McCarthy</critic>
+      </review>
+      <review>
+         <snippet>Poised self-consciously between art and entertainment, Joshua offers imaginative staging and some superb performances.</snippet>
+         <url>http://movies2.nytimes.com/2007/07/06/movies/06josh.html?ref=movies</url>
+         <critic>Jeannette Catsoulis</critic>
+      </review>
+      <review>
+         <snippet>It should be mandatory viewing for right-to-lifers and prospective parents as well as fans of creepy, crawly filmmaking.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A500683</url>
+         <critic>Marc Savlov</critic>
+      </review>
+      <review>
+         <snippet>To lump in this smart, subtle, deviously effective thriller with "The Omen" or "The Good Son" is neither fair nor entirely accurate.</snippet>
+         <url>http://www.miamiherald.com/231/story/168065.html</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>Terrifically sneaky psychological thriller, which takes great pleasure in watching carefully constructed family values come tumbling down.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2007/07/03/2007-07-03_neonatal_attraction.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>Joshua falls a bit flat at the end, but overall it delivers some genuine old-school chills - something that was missing when Macaulay Culkin played a similar role in "The Good Son."</snippet>
+         <url>http://www.nypost.com/seven/07062007/entertainment/movies/brotherly_shove_movies_lou_lumenick.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>First-time director and co-writer George Ratliff skirts, but never quite crosses, the line into absurdity.</snippet>
+         <url>http://www.csmonitor.com/2007/0706/p14s01-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>One of the most diabolical things about this psychological thriller is just how open to interpretation it is.</snippet>
+         <url>http://www.premiere.com/moviereviews/3930/joshua.html</url>
+         <critic>Glenn Kenny</critic>
+      </review>
+      <review>
+         <snippet>Harrowing, controlled and diabolically self-assured, Joshua leaves filmgoers teetering on their own emotional precipice, wondering just where pathos ends and pathology begins.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1071709&amp;categories=Movies&amp;nm=1</url>
+         <critic>Ann Hornaday</critic>
+      </review>
+      <review>
+         <snippet>A nifty psychological thriller--part "Bad Seed," part "Rosemary's Baby"--that deals in a manner both comic and creepy with the parental anxieties of a Manhattan haute yuppie family.</snippet>
+         <url>http://www.villagevoice.com/film/0727,hoberman2,77137,20.html</url>
+         <critic>J. Hoberman</critic>
+      </review>
+      <review>
+         <snippet>Part of the fun of Joshua is the skill with which Ratliff juggles horror and realism, feeding one into the other until we become part of the unraveling of the Cairns' perfect life.</snippet>
+         <url>http://www.laweekly.com/film+tv/film/joshua-the-badder-seed/16754/</url>
+         <critic>Ella Taylor</critic>
+      </review>
+      <review>
+         <snippet>Even though the story covers familiar ground, it provides enough tension and humor in the presentation to make it worth watching</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=9703</url>
+         <critic>Jamie Tipps</critic>
+      </review>
+      <review>
+         <snippet>Seductive and creepy, perfect for a hot summer night when nobody has the energy to pose a lot of questions.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-joshua6jul06,0,4898084.story?coll=cl-mreview</url>
+         <critic>Carina Chocano</critic>
+      </review>
+      <review>
+         <snippet>Ratliff fails to deliver on any of these ideas and the ending falters badly, but as horror flicks go this is both smart and suspenseful.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/31829_JOSHUA.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>Creepy, cool and loaded with style.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20070713.wjoshua0713/BNStory/Entertainment/home</url>
+         <critic>Jennie Punter</critic>
+      </review>
+      <review>
+         <snippet>A painfully slow psychological thriller.</snippet>
+         <url>http://www.tvguide.com/movies/joshua/review/288372</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>It's regrettable that Joshua veers into outlandish "Omen/Bad Seed/Good Son" territory when the real terror lies much closer to home.</snippet>
+         <url>http://www.avclub.com/content/cinema/joshua</url>
+         <critic>Nathan Rabin</critic>
+      </review>
+      <review>
+         <snippet>The line between eeriness and tedium is fatally fluid.</snippet>
+         <url>http://nymag.com/movies/reviews/34455/index1.html</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>So what's wrong with Joshua? Two things: The audience is ahead of the movie, and the movie never catches up.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2007/07/13/DDGGGQV1CF1.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>Joshua is the sort of movie in which nobody does what you would do: like spank or demand an extra-strength time out.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=9919</url>
+         <critic>Wesley Morris</critic>
+      </review>
+   </reviews>
+   <US_Gross>$482,355</US_Gross>
+   <weekend_gross>$51,233</weekend_gross>
+   <number_of_screens>6</number_of_screens>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>true</independence_release>
+   <labor_release>false</labor_release>
+</movie>

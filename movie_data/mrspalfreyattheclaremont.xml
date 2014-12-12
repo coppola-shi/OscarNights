@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Mrs. Palfrey at the Claremont</name>
+   <company>Cineville Inc.</company>
+   <genres>
+      <genre>Comedy</genre>
+      <genre>Drama</genre>
+      <genre>Foreign</genre>
+   </genres>
+   <authors>
+      <author>Ruth Sacks</author>
+      <author>Elizabeth Taylor</author>
+   </authors>
+   <directors>
+      <director>Dan Ireland</director>
+   </directors>
+   <origins>
+      <origin>UK</origin>
+   </origins>
+   <actors>
+      <actor>Joan Plowright</actor>
+      <actor>Rupert Friend</actor>
+      <actor>Anna Massey</actor>
+      <actor>Zoe Tapper</actor>
+      <actor>Georgina Hale</actor>
+      <actor>Millicent Martin</actor>
+      <actor>Marcia Warren</actor>
+      <actor>Robert Lang</actor>
+   </actors>
+   <release_date>November 25, 2005</release_date>
+   <running_time>105</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>A true gem: perhaps the most thoroughly charming, and completely satisfying, independent film I've seen in the past two or three years.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/262383_palfrey10q.html</url>
+         <critic>William Arnold</critic>
+      </review>
+      <review>
+         <snippet>It's an altogether satisfying drama -- the sort of movie some people complain they don't make anymore. So here it is; what's your excuse?</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=9212</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>Directed with charming restraint by the acclaimed American producer Dan Ireland, the film is a quiet triumph for Dame Joan.</snippet>
+         <url>http://online.tvguide.com/movies/database/ShowMovie.asp?MI=46608</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>Plowright's performance as a genteel widow in Mrs. Palfrey at the Claremont is a small-scale gem, deeply felt without being in the least bit showy.</snippet>
+         <url>http://www.csmonitor.com/2005/1202/p11s01-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>The details are what matters, and thanks to a cast of all-star British elders and a mischievous sense of humor, the filmmakers bring those details to vivid life.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1001570793</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>The movie pulls off the trick of blurring the distinctions between romantic and platonic attractions across the generations.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/moviereviews/story/368909p-313719c.html</url>
+         <critic>Jami Bernard</critic>
+      </review>
+      <review>
+         <snippet>Newcomer Friend, a Leonardo DiCaprio lookalike who can also be seen in small roles in "The Libertine" and "Pride &amp; Prejudice," has a winning manner, but Mrs. Palfrey at the Claremont is a terrific, long-overdue vehicle for Lady Olivier.</snippet>
+         <url>http://www.nypost.com/movies/58251.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>The movie is a delight, in ways both expected and rare.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20060504/REVIEWS/60421006/1001</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>The casting, at least, is magical. Plowright shows both her character's strength and her heartbreaking vulnerability, sometimes at once.</snippet>
+         <url>http://sfgate.com/cgi-bin/article.cgi?f=/c/a/2006/05/19/DDGVQITK911.DTL&amp;type=movies</url>
+         <critic>Ruthe Stein</critic>
+      </review>
+      <review>
+         <snippet>Occasionally cloying, but the distinguished British cast (Anna Massey, Robert Lang, Georgina Hale, Millicent Martin) generates considerable gravitas.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/29774_MISSUS_PALFREY_AT_THE_CLAREMONT.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>It's all expectable, it's all enjoyable: British theatrical professionalism at the highest pitch.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1097336&amp;lat=200.0&amp;lon=200.0&amp;displaySearchLocation=&amp;nm=1&amp;categories=Movies</url>
+         <critic>Stephen Hunter</critic>
+      </review>
+      <review>
+         <snippet>This earnest, well-observed weepy has more depth than its genteel trappings might imply.</snippet>
+         <url>http://www.villagevoice.com/film/0547,holcomb,70235,20.html</url>
+         <critic>Mark Holcomb</critic>
+      </review>
+      <review>
+         <snippet>A low-key drama with comedic undertones that will appeal to older auds, arthouse patrons, and Joan Plowright fans.</snippet>
+         <url>http://www.variety.com/review/VE1117928958?categoryid=31&amp;cs=1</url>
+         <critic>Lael Loewenstein</critic>
+      </review>
+      <review>
+         <snippet>The unabashedly sentimental film is a juicy morsel for the great British actress Dame Joan Plowright, who endows Mrs. Palfrey with stoic charm and decency.</snippet>
+         <url>http://movies2.nytimes.com/2005/11/25/movies/25palf.html</url>
+         <critic>Stephen Holden</critic>
+      </review>
+      <review>
+         <snippet>The cast manages some sweet moments, and Plowright lends a touch of grace and wit to each new indignity or kindness. Yet the whole thing feels programmed; the movie's sense of humor lacks understatement.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-060505-movies-review-palfrey,0,5770917.story?coll=mmx-movies_top_heds</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>As it is, Mrs. Palfrey seems to suggest the Claremont is located somewhere in the Twilight Zone. Where are the televisions? Where are the chain stores? Where are the immigrants? I see the buildings, but where is England?</snippet>
+         <url>http://www.calendarlive.com/movies/chocano/cl-et-palfrey2dec02,0,4988893.story</url>
+         <critic>Carina Chocano</critic>
+      </review>
+      <review>
+         <snippet>In its well-mannered way, this genteel film delicately keeps its platonic May-December love story from turning creepy. But without the sexual undertones and macabre humor of Hal Ashby's classic, Mrs. Palfrey at the Claremont is merely a soft, slightly patronizing movie about the poignancy of aging.</snippet>
+         <url>http://www.laweekly.com/film/film_results.php?showid=3680&amp;Sumbit.x=53&amp;Sumbit.y=14</url>
+         <critic>Tim Grierson</critic>
+      </review>
+      <review>
+         <snippet>Watching these old pros elbow their way into the spotlight is the film’s finest surprise, but watching Plowright out-act them all is the ultimate joy.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=8178</url>
+         <critic>Phil Hall</critic>
+      </review>
+      <review>
+         <snippet>While the compelling Plowright competently flexes her well-trained muscle, the film's melodrama too readily evokes a Lifetime Original Movie rather than subtle sentiment.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A369714</url>
+         <critic>Toddy Burton</critic>
+      </review>
+   </reviews>
+   <US_Gross>$1,717,595</US_Gross>
+   <weekend_gross>$9,744</weekend_gross>
+   <number_of_screens>1</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

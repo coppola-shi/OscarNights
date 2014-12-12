@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Bride Wars</name>
+   <company>20th Century Fox</company>
+   <genres>
+      <genre>Comedy</genre>
+      <genre>Romance</genre>
+   </genres>
+   <authors>
+      <author>Greg Depaul</author>
+      <author>Casey Wilason</author>
+      <author>June Raphael</author>
+   </authors>
+   <directors>
+      <director>Gary Winick</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Anne Hathaway</actor>
+      <actor>Kate Hudson</actor>
+      <actor>Cice Bergen</actor>
+      <actor>Kristen Johnston</actor>
+      <actor>Bryan Greenberg</actor>
+      <actor>Steve Howey</actor>
+      <actor>Chris Pratt</actor>
+      <actor>Michael Arden</actor>
+   </actors>
+   <release_date>January 9, 2009</release_date>
+   <running_time>89</running_time>
+   <rating>PG</rating>
+   <reviews>
+      <review>
+         <snippet>Sometimes the only funny stuff is in the trailers, but not so here. Kristen Johnson was especially adept at stealing some scenes.</snippet>
+         <url>http://www.premiere.com/Review/Movies/Bride-Wars</url>
+         <critic>Olivia Putnal</critic>
+      </review>
+      <review>
+         <snippet>A chick flick in the purest sense--it's not about men or falling in love--and is quite funny.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=11483</url>
+         <critic>Stina Chyn</critic>
+      </review>
+      <review>
+         <snippet>If you came to see two pretty girls in wedding dresses wrestle, you won't be disappointed.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2009/01/08/DDRH1557PT.DTL&amp;type=movies</url>
+         <critic>Reyhan Harmanci</critic>
+      </review>
+      <review>
+         <snippet>Bride Wars is pretty thin soup. The characters have no depth or personality, no quirks or complications, no conversation.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20090107/REVIEWS/901079990</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>Bride Wars pretends to be a satire of wedding mania, but since there's virtually nothing else to the movie, the satire comes depressingly close to endorsement.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20250510,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>A step backward for Hathaway, Bride Wars is one more step into the quicksand for Hudson, who's spent the nine years since ""Almost Famous wandering the rom-com wasteland in search of an exit strategy; this movie, which she exec produced, ain't it.</snippet>
+         <url>http://www.laweekly.com/2009-01-08/film-tv/movie-reviews-bride-wars-not-easily-broken-the-unborn/</url>
+         <critic>Robert Wilonsky</critic>
+      </review>
+      <review>
+         <snippet>A dopey if largely painless romantic comedy.</snippet>
+         <url>http://movies.nytimes.com/2009/01/09/movies/09brid.html?ref=movies</url>
+         <critic>Manohla Dargis</critic>
+      </review>
+      <review>
+         <snippet>A chick flick that makes its chick characters - and by extension its chick audience - look like hateful, backward toddlers, and there is something wrong with that.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=12245</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>Bride Wars really does not capture the mood of the moment. It comes from a different time, a different planet.</snippet>
+         <url>http://www.chicagotribune.com/entertainment/movies/chi-bridewars-review-0109_jan09,0,4416509.story</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>Like moussed hair and inverted-pyramid shoulder pads, this sloppy, sloppy slapstick is an artifact from the 1980s.</snippet>
+         <url>http://www.philly.com/inquirer/columnists/carrie_rickey/20090109_Winsome_twosome_turns_gruesome.html</url>
+         <critic>Carrie Rickey</critic>
+      </review>
+      <review>
+         <snippet>It represents a missed opportunity on every level. As a black comedy, it fails. As a satire of the bloated wedding industry, it fails. As a drama about friendship triumphing over all, it fails.</snippet>
+         <url>http://www.reelviews.net/php_review_template.php?identifier=1446</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>With artifice as layered as the tiers of a marzipan cake, this resembles nothing so much as a stale Rock Hudson-Doris Day comedy.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/34014_BRIDE_WARS.html</url>
+         <critic>Andrea Gronvall</critic>
+      </review>
+      <review>
+         <snippet>A shrill, mechanical comedy.</snippet>
+         <url>http://www.variety.com/review/VE1117939300.html?categoryid=31&amp;cs=1</url>
+         <critic>Todd McCarthy</critic>
+      </review>
+      <review>
+         <snippet>No cues are needed to understand the plot, which feels computer-generated and barely serves to sustain an hour and a half running time.</snippet>
+         <url>http://online.wsj.com/article/SB123145613576866029.html</url>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>The idea of a revenge comedy isn't necessarily a bad one, Bride Wars simply fails at it despite having the formidable duo of Kate Hudson and Anne Hathaway, who in their own distinctive ways usually command the screen.</snippet>
+         <url>http://www.latimes.com/entertainment/news/reviews/la-et-bridewars9-2009jan09,0,4139362.story</url>
+         <critic>Betsy Sharkey</critic>
+      </review>
+      <review>
+         <snippet>Bride Wars is about as funny as a cringingly awkward wedding toast.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2009-01-08-bride-wars_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>An insipid comedy in which the women are shallow, acquisitive, backstabbing, selfish harridans.</snippet>
+         <url>http://www.miamiherald.com/entertainment/movies/reviews/story/842808.html</url>
+         <critic>Connie Ogle</critic>
+      </review>
+      <review>
+         <snippet>Exceedingly lame.</snippet>
+         <url>http://www.nypost.com/seven/01092009/entertainment/movies/here_dumbs_the_bride_149279.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>A girlie romantic comedy with tired slapstick pranks but not an ounce of self-respect or intelligence.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/395285_bride09q.html</url>
+         <critic>Sean Axmaker</critic>
+      </review>
+      <review>
+         <snippet>Bride Wars has possibly the worst comedy idea since "Springtime for Hitler," with almost no room for redeeming camp.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/reviews/bal-to.bride09jan09,0,2196402.story</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>The movie pretty much blows.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20090108.wbride0109/BNStory/Entertainment/home</url>
+         <critic>Rick Groen</critic>
+      </review>
+      <review>
+         <snippet>By comparison, Bride Wars makes "Sex and the City" seem like Jane Austen.</snippet>
+         <url>http://www.csmonitor.com/2009/0117/p25s02-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>All in all, that's not a bad premise for a lightweight chick flick, but director Gary Winick and an army of three screenwriters can't come up with a single fresh comedic idea.</snippet>
+         <url>http://movies.tvguide.com/bride-wars/review/296335</url>
+         <critic>Perry Seibert</critic>
+      </review>
+      <review>
+         <snippet>Never gets off its high-concept stool long enough to explore what makes weddings so exciting and nerve-racking and treacherous. It flounders instead in juvenilia and bitchiness.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film-reviews/film-review-bride-wars-1003928754.story</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>Predictable, lazy and as overprocessed as Kate Hudson's hair, this thoroughly joyless movie also possesses a deep nasty streak, making it loathsome when it might have been merely annoying.</snippet>
+         <url>http://www.washingtonpost.com/gog/movies/bride-wars,1151793.html</url>
+         <critic>Ann Hornaday</critic>
+      </review>
+      <review>
+         <snippet>It's both slack and bloated; I've been to Catholic wedding masses that had more zip. I think it clocked in at fewer than 90 minutes, but it seemed to last longer than most marriages do.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2009/01/09/bride_wars/</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>Hudson has, if nothing else, traded up: last winter she was stuck in "Fool's Gold."</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2009/01/08/2009-01-08_review_kate_hudson_and_anne_hathaways_br.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>There may be a trenchant satire to be mined from our culture's materialism-warped wedding madness, but Bride Wars instead opts for graceless, flailing, poorly choreographed slapstick performed by characters who suggest a dumbed-down tour production of "Sex And The City."</snippet>
+         <url>http://www.avclub.com/content/cinema/bride_wars</url>
+         <critic>Nathan Rabin</critic>
+      </review>
+      <review>
+         <snippet>I'd be hard-pressed to name another recent film so deeply noxious, soul-sick, and unfunny.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A722807</url>
+         <critic>Kimberley Jones</critic>
+      </review>
+      <review>
+         <snippet>The first big-studio movie released in 2009 has a damn fine chance of being the worst. Bride Wars isn't just chick-flick hell for guys, it should numb the skulls of moviegoers of all sexes and ages.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/21111329/review/25357133/bride_wars</url>
+         <critic>Peter Travers</critic>
+      </review>
+   </reviews>
+   <US_Gross>$58,715,510</US_Gross>
+   <production_budget>$30,000,000</production_budget>
+   <weekend_gross>$21,058,173</weekend_gross>
+   <number_of_screens>3,226</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

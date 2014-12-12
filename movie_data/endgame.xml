@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Endgame</name>
+   <company>Monterey Media</company>
+   <genres>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author>Paula Milne</author>
+   </authors>
+   <directors>
+      <director>Pete Travis</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Chiwetel Ejiofor</actor>
+      <actor>Mark Strong</actor>
+      <actor>William Hurt</actor>
+      <actor>Jonny Lee Miller</actor>
+      <actor>Derek Jacobi</actor>
+      <actor>Clarke Peters</actor>
+   </actors>
+   <release_date>November 6, 2009</release_date>
+   <running_time>109</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>The result is something like an old-fashioned Costa-Gavras film but without the leftist sentimentality.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film-reviews/film-review-endgame-1003931838.story</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>The principals, especially Ejiofor, rise above the starchiness that often hampers portrayals of recent, monumental history.</snippet>
+         <url>http://www.villagevoice.com/2009-11-03/film/endgame-documents-death-of-apartheid/</url>
+         <critic>Melissa Anderson</critic>
+      </review>
+      <review>
+         <snippet>Fans of "The Wire," take note: Clarke “Lester Freamon” Peters does an impressive turn as Nelson Mandela.</snippet>
+         <url>http://newyork.timeout.com/articles/film/80306/endgame-film-review</url>
+         <critic>Kevin B. Lee</critic>
+      </review>
+      <review>
+         <snippet>It’s a great story. I’ve read books on the subject and have found it fascinating. But even reading Mandela and Desmond Tutu will not prepare you for the barrage of information Endgame throws at you.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=11535</url>
+         <critic>Whitney Borup</critic>
+      </review>
+   </reviews>
+   <US_Gross>$9,645</US_Gross>
+   <weekend_gross>$1,608</weekend_gross>
+   <number_of_screens>14</number_of_screens>
+   <oscar_winning_actors_present/>
+   <num_oscar_winning_actors>1</num_oscar_winning_actors>
+   <oscar_winning_actor>william hurt</oscar_winning_actor>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

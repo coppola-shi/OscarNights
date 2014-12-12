@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Oliver Twist</name>
+   <company>Sony Pictures Entertainment</company>
+   <genres>
+      <genre>Drama</genre>
+      <genre>FamilyKids</genre>
+   </genres>
+   <authors>
+      <author>Ronald Harwood</author>
+      <author>Charles Dickens</author>
+   </authors>
+   <directors>
+      <director>Roman Polanski</director>
+   </directors>
+   <origins>
+      <origin>UKCzechRepublicFranceItaly</origin>
+   </origins>
+   <actors>
+      <actor>Ben Kingsley</actor>
+      <actor>Barney Clark</actor>
+      <actor>Jamie Foreman</actor>
+      <actor>Harry Eden</actor>
+      <actor>Leanne Rowe</actor>
+      <actor>Lewis Chase</actor>
+      <actor>Edward Hardwicke</actor>
+      <actor>Jeremy Swift</actor>
+   </actors>
+   <release_date>September 23, 2005</release_date>
+   <running_time>130</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>Altogether remarkable, a near-masterpiece.</snippet>
+         <url>http://www.csmonitor.com/2005/0923/p11s02-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>A grounded and unusually matter-of-fact adaptation.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2005/09/30/DDGHOEVETI1.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>This is that rare movie version of a great novel in which watching IS reading.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2005/09/23/oliver_twist/index.html?sid=1392500</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>Polanski's film is visually exact and detailed without being too picturesque. This is not Ye Olde London, but Ye Harrowing London, teeming with life and dispute.</snippet>
+         <url>http://www.rogerebert.com/apps/pbcs.dll/article?AID=/20050929/REVIEWS/50926003/1023</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>Despite the movie's several shortcomings, it leaves us sated. That's because, unlike Oliver's workhouse, it does give "some more" - more emotional breadth, more hardscrabble farce, and more haunting drama.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-to.oliver30sep30,1,7459919.story?coll=bal-artslife-movies</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>Yet precisely because this is by Roman Polanski, it's irresistible to read his sorrowful and seemingly classical take, from a filmmaker known as much for the schisms in his personal history as for the lurches in his work, as something much more personal and poignant.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1107502_1_0_,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>With tact and enthusiasm, Mr. Polanski grabs hold of a great book and rediscovers its true and enduring vitality.</snippet>
+         <url>http://www.nytimes.com/2005/09/23/movies/23oliv.html</url>
+         <critic>Dana Stevens</critic>
+      </review>
+      <review>
+         <snippet>It's worth noting that Oliver Twist will likely be no Harry Potter at the box office, due in no small part to a lack of bombastic special effects and supernatural subplots, yet it's nearly as entertaining, even without the wizardry.</snippet>
+         <url>http://www.premiere.com/article.asp?section_id=2&amp;article_id=2308</url>
+         <critic>Ryan Devlin</critic>
+      </review>
+      <review>
+         <snippet>Dark, dank and violent, filled with terrifying scenes in which exploited children are beaten, shot or starving to death. In other words, it's just as Dickens wrote.</snippet>
+         <url>http://online.tvguide.com/movies/database/showmovie.asp?MI=46450</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>The movie about literature's luckiest orphan may teem with children, but it is not for them.</snippet>
+         <url>http://ae.philly.com/entertainment/ui/philly/movie.html?id=431221&amp;reviewId=19158</url>
+         <critic>Carrie Rickey</critic>
+      </review>
+      <review>
+         <snippet>The movie is 23 minutes longer than the Lean version, yet it somehow seems much less evocative of the novel's immense scope and texture. And its Cockney accents are such a strain to understand that as much as a third of the dialogue is indecipherable.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/242776_oliver30q.html</url>
+         <critic>William Arnold</critic>
+      </review>
+      <review>
+         <snippet>Polanski honors the craft of classical storytelling and never flinches from the book's melodramatic extremes in portraying the horrors of poverty.</snippet>
+         <url>http://spacefinder.chicagoreader.com/movies/briefs/28603_OLIVER_TWIST_POLANSKI.html</url>
+         <critic>Jonathan Rosenbaum</critic>
+      </review>
+      <review>
+         <snippet>Without Nancy and her demon lover, Polanski's Oliver Twist feels handsome, steady, and respectful; it has that touch of mummification which wins awards. But Dickens had murder in mind--women killed for their kindness, children for lack of food--and he wanted us to howl and hyperventilate. He asked for more.</snippet>
+         <url>http://www.newyorker.com/critics/cinema/?051003crci_cinema</url>
+         <critic>Anthony Lane</critic>
+      </review>
+      <review>
+         <snippet>The most effective counterweight to Polanski's fatalism is young Barney Clark, whose Oliver--although given to few words--is unshakably alive and responsive, even as he's being buffeted violently by forces beyond his control.</snippet>
+         <url>http://www.slate.com/id/2126803/?nav=fo</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>Polanski's version, though handsomely realized, is a fairly conventional rendering of the novel that probably won't be counted among his best films.</snippet>
+         <url>http://www.calendarlive.com/movies/chocano/cl-et-oliver23sep23,0,3879366.story</url>
+         <critic>Carina Chocano</critic>
+      </review>
+      <review>
+         <snippet>A respectable literary adaptation but lacks dramatic urgency and intriguing undercurrents.</snippet>
+         <url>http://www.variety.com/review/VE1117928123?categoryid=31&amp;cs=1&amp;s=h&amp;p=0</url>
+         <critic>Todd McCarthy</critic>
+      </review>
+      <review>
+         <snippet>Accomplished if lacking in urgency, this Oliver Twist (scripted by Ronald Harwood, who also wrote "The Pianist") showcases Polanski's proven gift for Dickensian caricature.</snippet>
+         <url>http://www.villagevoice.com/film/0538,tracking3,68004,20.html</url>
+         <critic>Jessica Winter</critic>
+      </review>
+      <review>
+         <snippet>And that ultimately may be the problem with the Polanski version: by bringing Oliver forward, you push the drama backward.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/1127991968181421.xml&amp;coll=7</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>As in "The Pianist," Polanski is content to allow the film's narrative to evoke the emotions he wishes his audience to experience.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A293549</url>
+         <critic>Steve Davis</critic>
+      </review>
+      <review>
+         <snippet>The result is an expertly made, very watchable film that's curiously lacking in impact. By Polanski standards that has to be a disappointment.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=7424</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>As an introduction to the story for someone with no previous exposure to Oliver Twist, Polanski's movie is adequate.</snippet>
+         <url>http://movie-reviews.colossus.net/movies/o/oliver_twist.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>Dickens was a sentimentalist, but even his happy endings are more nuanced than Polanski's brutal anti-sentimentalism.</snippet>
+         <url>http://www.nypost.com/movies/53040.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>So what's surprising here isn't Polanski's choice of material but his utter failure to put any distinctive stamp on it.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/ArticleNews/TPStory/LAC/20050923/OLIVER23/TPEntertainment/Film</url>
+         <critic>Rick Groen</critic>
+      </review>
+      <review>
+         <snippet>Filming on locations in Prague and in various Czech locations serving as London and the English countryside, the director delivers Dickens' tale with some style. The style, however, is that of a more cautious artist than Polanski is at his best.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-050930-movies-review-oliver,0,1667414.story?coll=mmx-movies_top_heds</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>Turns out to be far more interesting for grown-ups (the movie is probably too long, and too much, for little kids anyway).</snippet>
+         <url>http://ae.miami.com/entertainment/ui/miami/movie.html?id=431221&amp;reviewId=19154</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>The big surprise in Polanski's Oliver is the lack of a discernible personal stamp, especially from such a directorial master of the macabre.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2005-09-22-oliver-twist-review_x.htm</url>
+         <critic>Mike Clark</critic>
+      </review>
+      <review>
+         <snippet>The biggest surprise in Roman Polanski's Oliver Twist is that there are no surprises.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1001096112</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>None of the actors completely satisfies.</snippet>
+         <url>http://www.tnr.com/doc.mhtml?i=20051017&amp;s=kauffmann101705</url>
+         <critic>Stanley Kauffmann</critic>
+      </review>
+      <review>
+         <snippet>A disappointingly flat, disjointed affair.</snippet>
+         <url>http://dallasobserver.com/Issues/2005-09-29/film/film4.html</url>
+         <critic>Staff (Not credited)</critic>
+      </review>
+      <review>
+         <snippet>It's unlikely audiences will be echoing a starving Oliver's most famous line: "Please, sir, I want some more."</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/_/id/6824465?pageid=rs.ReviewsMovieArchive&amp;pageregion=mainRegion</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>Two dramatic problems beset Roman Polanski's darkly handsome new film of the Dickens novel. The boy is as passive as ever, and bleak in the bargain -- instead of glowing like the Oliver of the musical, he takes light in -- while Ben Kingsley's Fagin and Jamie Foreman's Bill Sikes manage to make villainy a bit of a bore.</snippet>
+         <url/>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>Kingsley seems determined to rescue this old chestnut of a character from Jewish stereotypes, but to what end? Oliver's boyhood has become worse than Dickensian - it's bland.</snippet>
+         <url>http://www.nydailynews.com/09-23-2005/entertainment/col/story/349059p-297660c.html</url>
+         <critic>Jami Bernard</critic>
+      </review>
+      <review>
+         <snippet>Kingsley is one of very few lively things about Polanski's plodding, by-the-numbers Oliver Twist. And in this dreary setting, he comes across more as a desperate clown than a saving grace, which makes it all the more awkward that no one else is clowning along with him.</snippet>
+         <url>http://avclub.com/content/node/41069</url>
+         <critic>Tasha Robinson</critic>
+      </review>
+      <review>
+         <snippet>Lacking energy and pace and enslaved by a ghastly score, this tepid movie left me longing alternately for David Lean's thrillingly grim 1948 masterpiece, and Carol Reed's chipper 1968 sing-along, with pretty tunes by Lionel Bart.</snippet>
+         <url>http://www.laweekly.com/film/film_results.php?showid=3569&amp;Sumbit.x=57&amp;Sumbit.y=12</url>
+         <critic>Ella Taylor</critic>
+      </review>
+      <review>
+         <snippet>Handsomely produced but emotionally inert offering.</snippet>
+         <url>http://www.filmthreat.com/Reviews.asp?Id=7992</url>
+         <critic>Phil Hall</critic>
+      </review>
+      <review>
+         <snippet>The fact that there's nothing wrong with it -- that there's nary a scenic detail or scrap of dialogue or performance that isn't utterly on the nose -- is precisely what's wrong with it.</snippet>
+         <url>http://www.washingtonpost.com/wp-dyn/content/article/2005/09/29/AR2005092902418.html</url>
+         <critic>Ann Hornaday</critic>
+      </review>
+   </reviews>
+   <US_Gross>$2,070,920</US_Gross>
+   <production_budget>$65,000,000</production_budget>
+   <weekend_gross>$68,447</weekend_gross>
+   <number_of_screens>5</number_of_screens>
+   <oscar_winning_actors_present/>
+   <num_oscar_winning_actors>1</num_oscar_winning_actors>
+   <oscar_winning_actor>ben kingsley</oscar_winning_actor>
+   <oscar_winning_directors_present/>
+   <num_oscar_winning_directors>1</num_oscar_winning_directors>
+   <oscar_winning_director>roman polanski</oscar_winning_director>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

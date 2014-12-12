@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Street Fighter: The Legend of Chun-Li</name>
+   <company>20th Century Fox</company>
+   <genres>
+      <genre>Action</genre>
+      <genre>Adventure</genre>
+      <genre>Scifi</genre>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>Justin Marks</author>
+   </authors>
+   <directors>
+      <director>Andrzej Bartkowiak</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Kristin Kreuk</actor>
+      <actor>Michael Clarke Duncan</actor>
+      <actor>Neal McDonough</actor>
+      <actor>Taboo</actor>
+      <actor>Chris Klein</actor>
+      <actor>Moon Bloodgood</actor>
+      <actor>Edmund Chenei</actor>
+      <actor>Cheng Pei Pei</actor>
+   </actors>
+   <release_date>February 27, 2009</release_date>
+   <running_time>96</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>Neither the best nor the worst of movies derived from videogames, Street Fighter: The Legend of Chun-Li at least gives action fans plenty to ogle besides the titular heroine (Kristin Kreuk), whose original incarnation, legend has it, was among the first distaff figures controllable by joystick.</snippet>
+         <url>http://www.variety.com/review/VE1117939791.html?categoryid=31&amp;cs=1</url>
+         <critic>Rob Nelson</critic>
+      </review>
+      <review>
+         <snippet>Reveling in the vivid Bangkok locations, Geoff Boyle’s photography is crisp and bright, and Dion Lam’s action choreography unusually witty.</snippet>
+         <url>http://movies.nytimes.com/2009/02/28/movies/28stre.html?ref=movies</url>
+         <critic>Jeannette Catsoulis</critic>
+      </review>
+      <review>
+         <snippet>Director Andrzej Bartkowiak ("Romeo Must Die") works hard to supply the appropriate grittiness, but other than a few reasonably well-staged fight sequences, the proceedings are dull and visually uninspired. Justin Marks' solemn screenplay lacks any trace of wit.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film-reviews/film-review-street-fighter-the-legend-of-1003946413.story</url>
+         <critic>Frank Scheck</critic>
+      </review>
+      <review>
+         <snippet>A wholly inept action experience that works at boring us to tears.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=11607</url>
+         <critic>Felix Vasques Jr.</critic>
+      </review>
+      <review>
+         <snippet>This is a movie for the overcaffeinated, undereducated teenager in all of us.</snippet>
+         <url>http://www.boston.com/ae/movies/articles/2009/03/02/street_fighter_the_legend_of_chun_li/</url>
+         <critic>Michael Hardy</critic>
+      </review>
+      <review>
+         <snippet>There's something special about this underwhelming mess of a Street Fighter reboot that many cinematic cheese-lovers will find very appetizing. The fact is that The Legend of Chun-Li is not at all a good flick, but it's filled with so much cornball ineptitude that one would think some rather broken mad movie genius was behind it.</snippet>
+         <url>http://movies.tvguide.com/detail/movie.aspx?tvobjectid=296786&amp;more=ucmoviereview</url>
+         <critic>Jeremy Wheeler</critic>
+      </review>
+      <review>
+         <snippet>Idiot plotting and dialogue are what you'd expect from a genre that typically rewards narrative development with a skip function. But the rote fight scenes are a disappointment.</snippet>
+         <url>http://www.laweekly.com/2009-02-26/film-tv/movie-reviews-jonas-brothers-the-3-d-concert-experience-must-read-after-my-death-street-fighter-the-legend-of-chun-li/2</url>
+         <critic>Jim Ridley</critic>
+      </review>
+      <review>
+         <snippet>Even with the low expectations The Legend of Chun Li engenders, it still somehow manages to be a letdown.</snippet>
+         <url>http://www.latimes.com/entertainment/news/reviews/la-et-street28-2009feb28,0,5263762.story</url>
+         <critic>Sam Adams</critic>
+      </review>
+      <review>
+         <snippet>Don't be fooled by the low grade: This sequel-in-spirit to Jean-Claude Van Damme's 1994 dud doesn't even succeed in being memorably bad.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20262157,00.html</url>
+         <critic>Adam Markovitz</critic>
+      </review>
+      <review>
+         <snippet>The problems with Street Fighter: The Legend Of Chun-Li began with the casting of dead-eyed, sleepy-voiced, charisma-impaired automaton Kristin Kreuk.</snippet>
+         <url>http://www.avclub.com/articles/street-fighter-the-legend-of-chunli,24491/</url>
+         <critic>Nathan Rabin</critic>
+      </review>
+      <review>
+         <snippet>It boggles the mind that The Legend of Chun-Li is as vapid and dull as it is.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A746103</url>
+         <critic>Marc Savlov</critic>
+      </review>
+   </reviews>
+   <US_Gross>$9,135,036</US_Gross>
+   <weekend_gross>$4,721,110</weekend_gross>
+   <number_of_screens>1,136</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

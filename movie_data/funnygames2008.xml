@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Funny Games</name>
+   <company>Warner Independent Pictures</company>
+   <genres>
+      <genre>Horror</genre>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>Michael Haneke</author>
+   </authors>
+   <directors>
+      <director>Michael Haneke</director>
+   </directors>
+   <origins>
+      <origin>UKUSAFrance</origin>
+   </origins>
+   <actors>
+      <actor>Naomi Watts</actor>
+      <actor>Tim Roth</actor>
+      <actor>Michael Pitt</actor>
+      <actor>Brady Corbet</actor>
+      <actor>Boyd Gaines</actor>
+      <actor>Siobhan Fallon</actor>
+      <actor>Devon Gearhart</actor>
+      <actor>Tim Roth</actor>
+      <actor>Michael Pitt</actor>
+      <actor>Brady Corbet</actor>
+      <actor>Boyd Gaines</actor>
+      <actor>Siobhan Fallon</actor>
+      <actor>Devon Gearhart</actor>
+   </actors>
+   <release_date>March 14, 2008</release_date>
+   <running_time>minutes,</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>A chilly and extraordinarily controlled treatise on film violence, Funny Games punishes the audience for its casual bloodlust by giving it all the sickening torture and mayhem it could possibly desire. Neat trick, that.</snippet>
+         <url>http://www.avclub.com/content/cinema/funny_games</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>You can take a page from Wes Craven before he went flat and keep repeating, "It's only a movie; it's only a movie; it's only a movie." But is it?</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A601358</url>
+         <critic>Marc Savlov</critic>
+      </review>
+      <review>
+         <snippet>The experience of watching Funny Games, be it the original or this version, is never forgotten, whatever your ultimate impression of the film.</snippet>
+         <url>http://www.miamiherald.com/1054/story/454468.html</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>Funny Games is not entertainment but it is an experience.</snippet>
+         <url>http://www.reelviews.net/movies/f/funny_games.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>Can a movie be gripping and repellent at the same time? In Funny Games, a mockingly sadistic and terrifying watch-the-middle-class-writhe-like-stuck-pigs thriller, the director Michael Haneke puts his characters in a vise, and the audience too.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20183709,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>By and large, reviewers have conceded that the picture is exceptionally gripping and suspenseful while deriding its moral subtext as a crock. The only explanation possible for such fuming pettiness, in my opinion, is the fact that Michael Haneke isn’t one of us.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=10559</url>
+         <critic>Rick Kisonak</critic>
+      </review>
+      <review>
+         <snippet>A stylish, darkly satirical horror-thriller, raising serious questions about Hollywood’s sanitisation of violence.</snippet>
+         <url>http://www.empireonline.com/reviews/reviewcomplete.asp?FID=134223</url>
+         <critic>Damon Wise</critic>
+      </review>
+      <review>
+         <snippet>One might reasonably despise Funny Games and consider Haneke an exploitative hypocrite. Still, whether it's the original or the replica, this is a film that is impossible to enjoy and difficult to forget.</snippet>
+         <url>http://www.oregonlive.com/movies/index.ssf/2008/03/review_funny_games_isnt_so_fun.html</url>
+         <critic>Stan Hall</critic>
+      </review>
+      <review>
+         <snippet>Is Funny Games an unqualified success? No, and for this reason: In order to analyze the devolution of violence into entertainment, the premise obliges the film to superimpose a complicated game atop the genre's simple one – in other words, it makes a game out of the game it condemns.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20080313.wfunny14/BNStory/Entertainment/home</url>
+         <critic>Rick Groen</critic>
+      </review>
+      <review>
+         <snippet>Watts, who is one of the film's executive producers, brings a taut intelligence to the proceedings, but her character, like Roth's, is more archetype than actual person.</snippet>
+         <url>http://www.philly.com/philly/entertainment/movies/20080314_Two_devils_in_white_come_to_call.html</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>Haneke rigs the movie into a weapon against its audience. Like the infected porn that destroys perverts in Cronenberg's "Videodrome," Funny Games means to kill our pleasure in the very thing we theoretically paid to see: zipless, guilt-free, morally untroubled mayhem.</snippet>
+         <url>http://dallasobserver.com/2008-03-13/film/the-games-people-play/</url>
+         <critic>Jim Ridley</critic>
+      </review>
+      <review>
+         <snippet>While the movie's star -- and ruler, and ship's captain, and grand poobah -- is Haneke himself, his actors are sublime.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1125832&amp;categories=Movies&amp;nm=1</url>
+         <critic>John Anderson</critic>
+      </review>
+      <review>
+         <snippet>Perhaps the best way to appreciate the picture, its few intellectual pretensions notwithstanding, is as a classy horror film with a particularly nasty edge. It's not exactly entertainment, but it casts a poisonous spell.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?&amp;rid=10789</url>
+         <critic>Stephen Farber</critic>
+      </review>
+      <review>
+         <snippet>If this is daring in theory, it's a failure in practice. Exactingly well-made, the movie is grueling and unpleasant in the extreme - that's the point - but it's also working from a specious premise, that film-school Brechtian devices can bring on mass enlightenment.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=10182</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>The film is merciless in its depiction of death and suffering, Pitt and Corbet are perfectly cast, and Watts, who also served as executive producer, gives a disturbingly raw performance.</snippet>
+         <url>http://www.tvguide.com/movies/funny-games/review/292657</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>Funny Games is fundamentally a bourgeois exercise in authorial sadism. As the methodical games grind on, the suffocatingly beige and white surroundings start to look like a mausoleum.</snippet>
+         <url>http://chicago.metromix.com/movies/movie_review/movie-review-funny-games/336628/content</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>Many American viewers may take Haneke at his word and walk out midway through this grueling ethics exam of a movie. But much as I may resent the facile polemics of Haneke's shame-the-viewer project, I have to respect the way that he nailed me, trembling, to my seat.</snippet>
+         <url>http://www.slate.com/id/2186550/</url>
+         <critic>Dana Stevens</critic>
+      </review>
+      <review>
+         <snippet>It’s one thing to make a movie filled with mayhem and then implicate the audience for watching it; it’s another thing entirely to come back ten years later with the same movie, hype it with a marketing campaign, and try to implicate the viewer again. One nice thing about America is that you can’t be tried twice for the same crime.</snippet>
+         <url>http://www.chicagoreader.com/features/stories/moviereviews/080313/</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>Haneke's new Funny Games has a current of bleak humor that comes through more clearly when you're not reading subtitles. It remains a horrifying, implacable mind-fuck, liable to be widely misunderstood and widely despised.</snippet>
+         <url>http://www.salon.com/ent/movies/btm/feature/2008/01/24/games/index.html?CP=IMD&amp;DN=110</url>
+         <critic>Andrew O&amp;#039;Hehir</critic>
+      </review>
+      <review>
+         <snippet>The picture, remade by the maestro Haneke himself, is every bit as gripping, suspenseful and upsetting as the original. And it's even more of a crock.</snippet>
+         <url>http://www.premiere.com/moviereviews/4448/funny-games.html</url>
+         <critic>Glenn Kenny</critic>
+      </review>
+      <review>
+         <snippet>So sadistic and disturbing, Games is easily the toughest movie to sit through since 1994's 
+"Natural Born Killers."</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2008-03-13-also-opening_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>A patronizing, self-satisfied piece of work, Funny Games is Michael Haneke's way of chastising us for blindly following the traditional rules of entertainment.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2008/03/14/2008-03-14_funny_games_is_a_tortured_attack_on_thri.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>The new movie wears an air of old hat. I would absolutely defend Haneke’s right to relaunch his broadside on our voyeuristic vices, but he’s not keeping up with the times; he’s behind them.</snippet>
+         <url>http://www.newyorker.com/arts/critics/cinema/2008/03/17/080317crci_cinema_lane</url>
+         <critic>Anthony Lane</critic>
+      </review>
+      <review>
+         <snippet>As shocking and deliberately manipulative as the original movie and -- some may reckon -- even more pointless.</snippet>
+         <url>http://www.variety.com/index.asp?layout=festivals&amp;jump=review&amp;id=2471&amp;reviewid=VE1117935140&amp;cs=1&amp;p=0</url>
+         <critic>Derek Elley</critic>
+      </review>
+      <review>
+         <snippet>Funny Games is an art house "Hostel" -- it mistakes self-consciousness for intelligence.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/reviews/bal-to.funny14mar14,0,3231216.story</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>The joke is on arthouse audiences who show up for Funny Games, which is basically torture porn every bit as manipulative and reprehensible as "Hostel," even if it's tricked out with intellectual pretension.</snippet>
+         <url>http://www.nypost.com/seven/03142008/entertainment/movies/torture__pure__simple_101839.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>Just because it's a conscious commentary on other vile, useless, pointless cinematic exercises doesn't make it any less vile, useless and pointless.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2008/03/13/DDK6VIJ3T.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>That this relentless barrage of psychological and physical torture is extremely well made and powerfully performed--Watts hurls herself into her physically demanding role with heroic conviction--somehow makes it worse.</snippet>
+         <url>http://www.newsweek.com/id/123485</url>
+         <critic>David Ansen</critic>
+      </review>
+      <review>
+         <snippet>Professional obligations required that I endure it, but there's no reason why you should.</snippet>
+         <url>http://www.villagevoice.com/film/0811,374079,374079,20.html</url>
+         <critic>J. Hoberman</critic>
+      </review>
+      <review>
+         <snippet>One thing you can say about Michael Haneke's unbelievably brutal thriller, Funny Games, is that it's an experience: an unpleasant, unsettling, cruelly manipulative and finally hateful experience, but an experience nonetheless. You'll likely lose some sleep over this one.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/354918_funny14q.html</url>
+         <critic>William Arnold</critic>
+      </review>
+      <review>
+         <snippet>The film calls attention to its own artificial status. It actually knows it’s a movie! What a clever, tricky game! What fun! What a fraud.</snippet>
+         <url>http://movies.nytimes.com/2008/03/14/movies/14funn.html?ref=movies</url>
+         <critic>A.O. Scott</critic>
+      </review>
+      <review>
+         <snippet>In addition to being borderline unendurable, Funny Games is inexplicable, and I don't mean in any philosophical sense.</snippet>
+         <url>http://online.wsj.com/article/SB120544686754634911.html</url>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>Haneke’s assault on our fantasy lives is shallow, unimaginative, and glacially unengaged--a sucker punch without the redeeming passion of punk.</snippet>
+         <url>http://nymag.com/movies/reviews/45099/</url>
+         <critic>David Edelstein</critic>
+      </review>
+   </reviews>
+   <US_Gross>$1,294,640</US_Gross>
+   <weekend_gross>$510,958</weekend_gross>
+   <number_of_screens>274</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

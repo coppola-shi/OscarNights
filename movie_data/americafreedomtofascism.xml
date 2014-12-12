@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>America: Freedom to Fascism</name>
+   <company>Cinema Libre Studio</company>
+   <genres>
+      <genre>Documentary</genre>
+   </genres>
+   <authors>
+      <author>Aaron Russo</author>
+   </authors>
+   <directors>
+      <director>Aaron Russo</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Aaron Russo</actor>
+      <actor>Katherine Albrecht</actor>
+      <actor>Joe Banister</actor>
+      <actor>Dave Champion</actor>
+      <actor>Sherry Peel Jackson</actor>
+      <actor>Vernice Kuglin</actor>
+      <actor>Ron Paul</actor>
+      <actor>Irwin Schiff</actor>
+   </actors>
+   <release_date>July 28, 2006</release_date>
+   <running_time>95</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>Law-abiding Americans who hand off a solid chunk of their salaries to the IRS might be interested in what filmmaker Aaron Russo has to say on the subject of income tax.</snippet>
+         <url>http://online.tvguide.com/newsearch/detail.aspx?tvobjectid=282031&amp;more=ucmoviereview</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>Mostly it's about taxes -- namely, the argument that the Federal Income Tax, enacted in 1913, is unconstitutional and has been ruled as such by the Supreme Court, and that no law exists today requiring Americans to pay it.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/1159394104135730.xml&amp;coll=7</url>
+         <critic>Marc Mohan</critic>
+      </review>
+      <review>
+         <snippet>Provocative but also infuriating, this alarmist documentary argues that the levying of a federal income tax in 1913 was unconstitutional and set America on the road to fascism.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/30079_AMERICA_FREEDOM_TO_FASCISM.html</url>
+         <critic>Jonathan Rosenbaum</critic>
+      </review>
+      <review>
+         <snippet>The strong case built in pic's first half is weakened by the vaguely argued contention in the second that the land of the free is becoming anything but. Attack focuses on the Federal Reserve, the Patriot Act, the abolition of the gold standard, and not-yet-ratified plans to introduce identity chips on currency and in citizens in the future.</snippet>
+         <url>http://www.variety.com/index.asp?layout=features2006&amp;content=jump&amp;jump=review&amp;dept=cannes&amp;nav=RCannes&amp;articleid=VE1117930644&amp;cs=1</url>
+         <critic>Leslie Felperin</critic>
+      </review>
+      <review>
+         <snippet>Unfortunately, while the film has some fascinating and compelling arguments, it quickly assumes the tone of an angry diatribe rather than a well-reasoned political discussion.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1002950774</url>
+         <critic>Frank Scheck</critic>
+      </review>
+      <review>
+         <snippet>The film raises more questions than it could possibly hope to answer fully, devolving from an intriguing look at an enticingly obscure issue into a more broadly based mess.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-freedom29sep29,0,1729381.story?coll=cl-mreview</url>
+         <critic>Mark Olsen</critic>
+      </review>
+      <review>
+         <snippet>It’s good to see that passionate cinematic rabble-rousing does not rest solely in the hands of the left.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A390265</url>
+         <critic>Marjorie Baumgarten</critic>
+      </review>
+      <review>
+         <snippet>From the tax debate, the documentary suddenly gets scattershot, going after the Patriot Act, laws against vitamin sales, election fraud, and Hurricane Katrina response (apparently a plot to grab people's guns), building to the standard New World Order line, which discredits any valid points Russo may have.</snippet>
+         <url>http://www.villagevoice.com/film/0630,thompson,73982,20.html</url>
+         <critic>Luke Y. Thompson</critic>
+      </review>
+      <review>
+         <snippet>Aaron Russo's America: Freedom to Fascism can't even think straight, it's so mad.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-060728-movies-review-america,0,3800210.story?coll=mmx-movies_top_heds</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>The mess we're in never looked so messy.</snippet>
+         <url>http://www.nytimes.com/2006/07/28/movies/28amer.html?ref=movies</url>
+         <critic>Nathan Lee</critic>
+      </review>
+      <review>
+         <snippet>Gives the Michael Moore muckraking-underdog treatment to the kind of delirious conspiracy theories generally associated with mentally ill homeless people screaming at passersby to stop stealing their brainwaves.</snippet>
+         <url>http://www.avclub.com/content/node/50940</url>
+         <critic>Nathan Rabin</critic>
+      </review>
+   </reviews>
+   <US_Gross>$87,400</US_Gross>
+   <weekend_gross>$61,200</weekend_gross>
+   <number_of_screens>10</number_of_screens>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

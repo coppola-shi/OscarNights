@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Primo Amore</name>
+   <company>Strand Releasing</company>
+   <genres>
+      <genre>Drama</genre>
+      <genre>Foreign</genre>
+   </genres>
+   <authors>
+      <author>Matteo Garrone</author>
+      <author>Massimo Gaudioso</author>
+      <author>Vitaliano Trevisan</author>
+      <author>Carlo Mariolini</author>
+   </authors>
+   <directors>
+      <director>Matteo Garrone</director>
+   </directors>
+   <origins>
+      <origin>Italy</origin>
+   </origins>
+   <actors>
+      <actor>Vitaliano Trevisan</actor>
+      <actor>Michela Cescon</actor>
+      <actor>Roberto Comacchio</actor>
+      <actor>Alberto Re</actor>
+      <actor>Paolo Capoduro</actor>
+   </actors>
+   <release_date>April 6, 2005</release_date>
+   <running_time>94</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>Wonderfully quirky love story.</snippet>
+         <url>http://www.nypost.com/movies/43935.htm</url>
+         <critic>V.A. Musetto</critic>
+      </review>
+      <review>
+         <snippet>Probing the trust-based power games of a sadomasochistic dynamic, the movie is a reasonably thoughtful study of obsessive love.</snippet>
+         <url>http://www.villagevoice.com/film/0513,tracking2,62461,20.html</url>
+         <critic>Dennis Lim</critic>
+      </review>
+      <review>
+         <snippet>The atmosphere is once again black, creepy and unsettlingly elegant, lending this twisted tale of psychological dominance and submission a patina of anxiety and dread.</snippet>
+         <url>http://tvguide.com/movies/database/showmovie.asp?MI=46024</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>The movie exaggerates a common dynamic between men and women.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/moviereviews/story/297733p-254819c.html</url>
+         <critic>Jami Bernard</critic>
+      </review>
+      <review>
+         <snippet>While engaging, pic eventually betrays itself as having a trivial attitude to its chosen subject, with a climactic scene that is genuinely, but inappropriately, amusing.</snippet>
+         <url>http://www.variety.com/review/VE1117923052?categoryid=31&amp;cs=1</url>
+         <critic>Russell Edwards</critic>
+      </review>
+      <review>
+         <snippet>The film, which is directed by Matteo Garrone (The Embalmer), could do with a bit more plot: It doesn't resolve so much as collapse in utter desolation.</snippet>
+         <url>http://www.laweekly.com/film/film_results.php?showid=3378&amp;Sumbit.x=52&amp;Sumbit.y=11</url>
+         <critic>Brendan Bernhard</critic>
+      </review>
+      <review>
+         <snippet>An elegantly told tale of obsession that, in failing to take on any larger meaning, rapidly becomes depressing to watch.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-capsules29apr29,2,2600990.story</url>
+         <critic>Kevin Thomas</critic>
+      </review>
+      <review>
+         <snippet>All setup and no payoff.</snippet>
+         <url>http://movies2.nytimes.com/2005/04/02/movies/02amor.html</url>
+         <critic>Manohla Dargis</critic>
+      </review>
+   </reviews>
+   <US_Gross>$9,392</US_Gross>
+   <weekend_gross>$2,552</weekend_gross>
+   <number_of_screens>1</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

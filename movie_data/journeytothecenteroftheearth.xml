@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Journey to the Center of the Earth 3D</name>
+   <company>Warner Bros. Pictures</company>
+   <genres>
+      <genre>Action</genre>
+      <genre>Adventure</genre>
+      <genre>FamilyKids</genre>
+      <genre>Fantasy</genre>
+      <genre>Scifi</genre>
+   </genres>
+   <authors>
+      <author>Jules Verne</author>
+      <author>Mark Levin</author>
+      <author>Jennifer Flackett</author>
+      <author>Michael Weiss</author>
+   </authors>
+   <directors>
+      <director>Eric Brevig</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Brendan Fraser</actor>
+      <actor>Josh Hutcherson</actor>
+      <actor>Anita Briem</actor>
+   </actors>
+   <release_date>July 11, 2008</release_date>
+   <running_time>92</running_time>
+   <rating>PG</rating>
+   <reviews>
+      <review>
+         <snippet>Terrific family entertainment, an action comedy on a par with "Night at the Museum" and "National Treasure."</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1138828&amp;categories=Movies&amp;nm=1</url>
+         <critic>Ann Hornaday</critic>
+      </review>
+      <review>
+         <snippet>Fraser on form, 3D dinosaurs, geology lessons, phosphorecent hummingbirds, killer flying fish, theme park rides, Icelandic babe - what's not to like? It skews young, but is everything an 8-12 year-old could want. Older siblings and parents will have nothing to complain about either.</snippet>
+         <url>http://www.empireonline.com/reviews/reviewcomplete.asp?FID=135582</url>
+         <critic>Kim Newman</critic>
+      </review>
+      <review>
+         <snippet>The most entertaining 3-D movie I've ever seen.</snippet>
+         <url>http://www.nypost.com/seven/07112008/entertainment/movies/journey_worth_taking_119335.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>A legit action movie.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2008/07/10/DD7Q11KUR4.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>You don't believe a second of it, but it's easy to enjoy, partly because of the casting of all three leads.</snippet>
+         <url>http://chicago.metromix.com/movies/movie_review/movie-review-journey-to/491547/content</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>A more unavoidable obstacle here is that there's not much in the way of plot -- the story is in the tour through the labyrinthian intimacies of inner Earth. As such, it's an f/x wizard's dream, and Brevig makes the most of it.</snippet>
+         <url>http://www.variety.com/review/VE1117937550.html?categoryid=31&amp;cs=1</url>
+         <critic>John Anderson</critic>
+      </review>
+      <review>
+         <snippet>The picture works because Brevig and his actors -- not to mention his effects -- maintain a sense of humor and lightness. It doesn't hurt that Fraser, a fine actor who's made a name for himself not with his serious performances (which are reliably solid) but for his recurring role in the "Mummy" series.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2008/07/11/journey/</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>It's harmless fun, and it makes for an often impressive display of the latest generation of computer-wizardry. But the enterprise is utterly void of substance: instantly forgettable and about as enriching as a rerun of "Johnny Quest."</snippet>
+         <url>http://seattlepi.nwsource.com/movies/370303_journey11q.html</url>
+         <critic>William Arnold</critic>
+      </review>
+      <review>
+         <snippet>Journey is just the new version of a 1950s comin'-at-ya roller coaster, with a tape measure, trilobite antennae, and giant snapping piranha thrust at the audience.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20211456,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>It's a thrill ride not to be missed.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/reviews/bal-to.journey11jul11,0,1408888.story</url>
+         <critic>Chris Kaltenbach</critic>
+      </review>
+      <review>
+         <snippet>For a harmless "Indiana Jones" knock-off, Journey to the Center of the Earth has an awful lot riding on it.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=9140</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>A brisk, undemanding adventure aimed squarely at the family market, Journey is completely passable in 2-D. But viewing it through 3-D glasses not only quadruples the movie's entertainment value, it also explains why characters are constantly thrusting things at the camera.</snippet>
+         <url>http://www.miamiherald.com/1054/story/599555.html</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>This dumbed-down spin on Jules Verne's classic adventure tale was devised as a kid-friendly roller-coaster ride, and it delivers the goods. Whether anyone over the age of eight wants the goods is another matter altogether.</snippet>
+         <url>http://www.tvguide.com/movies/journey-center-earth/review/293497</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>Not exactly a movie in the usual sense, not exactly a ride, Journey is more of a virtual theme-park simulation and possibly a milestone of immersive entertainment.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20080711.wearth11rvt/BNStory/Entertainment/home</url>
+         <critic>Liam Lacey</critic>
+      </review>
+      <review>
+         <snippet>So the science in this film of Jules Verne's science fiction classic is ludicrous. Well, how's the fiction? Not terrible.</snippet>
+         <url>http://www.charlotte.com/151/story/707319.html</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>I don't know if 3-D could improve all movies (nothing could make "The Love Guru" funny) but it sure works here.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/14705493/review/21772421/journey_to_the_center_of_the_earth</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>Cheesy, cheesy, cheesy but fun, fun, fun.</snippet>
+         <url>http://www.philly.com/inquirer/columnists/carrie_rickey/20080711_Journey_to_the_Center__of_the_Earth___1_2___out_of_four_stars_.html</url>
+         <critic>Carrie Rickey</critic>
+      </review>
+      <review>
+         <snippet>This first feature by veteran visual effects supervisor Eric Brevig has its transporting, if benign, charms.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?JSESSIONID=q3TJL2NC0pc4vCyvpwJbpgnHYMc2XCsyDzpYHMrQjNGz2TZpQ2Cv!-1055493989&amp;&amp;rid=11341</url>
+         <critic>Michael Rechtshaffen</critic>
+      </review>
+      <review>
+         <snippet>It would be barely passable under normal circumstances, but in 3-D it's a circus of excellent FX.</snippet>
+         <url>http://nymag.com/movies/reviews/48323/index1.html</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>Surprising as it may be, given an unpromising trailer, the 3D update of Jules Verne's Journey to the Center of the Earth turns out to be perfectly charming as well as predictably eye-popping.</snippet>
+         <url>http://online.wsj.com/article/SB121571484050243281.html</url>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>The cast hits the right notes. Fraser, switching between affable good sport and heroic goofball, clearly doesn't mind this stuff. He realized early on with "George of the Jungle," "Dudley Do-Right" and the "Mummy" movies that his B-movie build and persona is perfect for live-action cartoons.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2008/07/11/2008-07-11_journey_to_the_center_of_the_earth_3d_is.html</url>
+         <critic>Joe Neumaier</critic>
+      </review>
+      <review>
+         <snippet>Neither the acting nor the story matters much here; the movie is simply the sum of its 3D effects.</snippet>
+         <url>http://www.time.com/time/arts/article/0,8599,1821919,00.html</url>
+         <critic>Richard Corliss</critic>
+      </review>
+      <review>
+         <snippet>Many have described "Journey" as a 3D film dumbed down to a theme park attraction. However, its visual splendor would have left Walt Disney weeping and Sergei Eisenstein preaching of cinema's second coming.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=11087</url>
+         <critic>Matthew Sorrento</critic>
+      </review>
+      <review>
+         <snippet>It's inoffensive and shiny and competent and kids will dig it, and I can already barely remember a single thing that happened.</snippet>
+         <url>http://www.oregonlive.com/movies/index.ssf/2008/07/movie_review_journey_to_the_ce.html</url>
+         <critic>M. E. Russell</critic>
+      </review>
+      <review>
+         <snippet>It has its modicum of suspense, and Brendon Fraser, who stars as intrepid professor Trevor Anderson – who does indeed journey to the center of the Earth – is his usual heroically affable self.</snippet>
+         <url>http://www.csmonitor.com/2008/0712/p25s03-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>Like its early predecessors, it's a nominally fun trip, but it's tissue-thin and instantly forgettable.</snippet>
+         <url>http://www.avclub.com/content/cinema/journey_to_the_center_of_the</url>
+         <critic>Tasha Robinson</critic>
+      </review>
+      <review>
+         <snippet>With 3-D, a little goes a long way and, in the absence of a legitimate script with credible characters, the fun dries up long before the running time has expired.</snippet>
+         <url>http://www.reelviews.net/php_review_template.php?identifier=1195</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>Ultimately, Journey to the Center of the Earth's minor-league visual pleasures will be most enjoyed by those with the smallest number of celluloid reference points, preferably those who have started going to the movies after "Jurassic Park" or, better yet, the Harry Potter films.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/la-et-journey11-2008jul11,0,4130019.story</url>
+         <critic>Jan Stuart</critic>
+      </review>
+      <review>
+         <snippet>Not so much a movie as an amusement park ride.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2008-07-10-journey-to-center-of-earth_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>If this movie is not a ride, then what is it? One thing it may not be, quite, is a movie.</snippet>
+         <url>http://movies.nytimes.com/2008/07/11/movies/11jour.html?ref=movies</url>
+         <critic>A.O. Scott</critic>
+      </review>
+      <review>
+         <snippet>Eric Brevig, making his feature directing debut after a long career as a visual effects supervisor, lurches from one CG set piece to the next, though he's helped along by Fraser's easy comic touch.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/33318_JOURNEY_TO_THE_CENTER_OF_THE_EARTH.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>This is a fairly bad movie, and yet at the same time maybe about as good as it could be. There may not be an 8-year-old alive who would not love it.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20080710/REVIEWS/807100301</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>As daft, outlandish, and speedy as it needs to be, and, for all its newfangled effects, touchingly old-fashioned in its reverence for the Jules Verne novel that inspired it.</snippet>
+         <url>http://www.newyorker.com/arts/critics/cinema/2008/07/28/080728crci_cinema_lane?currentPage=2</url>
+         <critic>Anthony Lane</critic>
+      </review>
+      <review>
+         <snippet>Provides tepid but fun entertainment.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A642728</url>
+         <critic>Marjorie Baumgarten</critic>
+      </review>
+      <review>
+         <snippet>If the 3D here is better than average, SLIGHTLY, the rest of the movie brings it way, way down--not quite to the center of the earth, but at least a good six feet under.</snippet>
+         <url>http://www.villagevoice.com/2008-07-09/film/journey-to-the-center-of-the-earth-pretty-much-a-demo-reel/</url>
+         <critic>Robert Wilonsky</critic>
+      </review>
+   </reviews>
+   <US_Gross>$101,704,370</US_Gross>
+   <production_budget>$45,000,000</production_budget>
+   <weekend_gross>$21,018,141</weekend_gross>
+   <number_of_screens>2,811</number_of_screens>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Number 23, The</name>
+   <company>New Line Cinema</company>
+   <genres>
+      <genre>Drama</genre>
+      <genre>Mystery</genre>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>Fernley Phillips</author>
+   </authors>
+   <directors>
+      <director>Joel Schumacher</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Jim Carrey</actor>
+      <actor>Virginia Madsen</actor>
+      <actor>Logan Lerman</actor>
+      <actor>Danny Huston</actor>
+      <actor>Lynn Collins</actor>
+      <actor>Rhona Mitra</actor>
+      <actor>Michelle Arthur</actor>
+      <actor>Mark Pellegrino</actor>
+   </actors>
+   <release_date>February 23, 2007</release_date>
+   <running_time>95</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>The movie looks terrific, and though it always keeps moving, it never feels headlong or rushed. This is a very good movie that could have been better still: Alas, the denouement is just a little off.</snippet>
+         <url>http://sfgate.com/cgi-bin/article.cgi?f=/c/a/2007/02/23/DDGBIO887O1.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>The film's assaultive shock editing holds you, and so does its mystery, which is like "The Da Vinci Code" with insanity and violence in place of highbrow signifiers.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20012325,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>The movie wouldn't work if it were jokey, but there is a hint of wit - a wink to absurdity - that saves it from being laughable.</snippet>
+         <url>http://www.nypost.com/seven/02232007/entertainment/movies/thrillers_got_your_number_movies_kyle_smith.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>What starts out as "Ace Ventura": Hex Detective mutates into a snaking noir with much paranoid numerologising as '23' pops up everywhere. The who-wrote-it revelation folds under scrutiny but it's fun getting there, Schumacher revisiting the brash stylistic tics of his '80s hit "Flatliners" with mucho gusto.</snippet>
+         <url>http://www.empireonline.com/reviews/review.asp?FID=132968</url>
+         <critic>Simon Crook</critic>
+      </review>
+      <review>
+         <snippet>The movie's premise, while not brilliant, is solid and could have been used to develop an edge-of-the-seat thriller with a genuine surprise or two. As it exists, however, The Number 23 feels perfunctory and is developed in such a way that few people are likely to leave the theater satisfied.</snippet>
+         <url>http://www.reelviews.net/movies/n/number_23.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>Squanders a promising premise and a lot of cool special effects on a story that gets more ridiculous and less involving with each passing minute.</snippet>
+         <url>http://tvguide.com/detail/movie.aspx?tvobjectid=286003&amp;more=ucmoviereview</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>You may have only 23 seconds to check out this review, so I'll sum things up quickly: This is another clever concept that sustains itself for about half a movie, then falls apart embarrassingly.</snippet>
+         <url>http://ae.charlotte.com/entertainment/ui/charlotte/movie.html?id=813280&amp;reviewId=22250&amp;startDate=NEXT7</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>The premise of this first script by young Brit Fernley Phillips is so patently absurd that it would take an actor of far greater restraint than Carrey to get all the way through with a straight face.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/moviereviews/story/499877p-421511c.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>What kills "23" are any number of bad choices that render the movie tone-deaf, sometimes hilariously so.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/1172091312264640.xml&amp;coll=7</url>
+         <critic>M. E. Russell</critic>
+      </review>
+      <review>
+         <snippet>To combine the daftness of a baggy-pants clown and the deftness of a classic leading man remains Carrey's great unfulfilled promise. The sole glimmer of hope in The Number 23 is that he hints he'll still make good on it -- just not yet, and not here.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-to.number23feb23,0,5598512.story?coll=bal-movies-utility</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>Schlock can be fun, just not here. "23" is like spending more than 90 minutes watching somebody else complete a Sudoku puzzle. I know what you're thinking: No Sudoku puzzle should take more than 90 minutes!</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=9142</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>I'm not much of a math student, but I can tell you what The Number 23 all adds up to: nothing.</snippet>
+         <url>http://ae.miami.com/entertainment/ui/miami/movie.html;jsessionid=183BEFDD7B93FF8037961AA780AD7727.prodapp14_ae_02?id=813280&amp;reviewId=22253&amp;startDate=02%2F23%2F2007</url>
+         <critic>Connie Ogle</critic>
+      </review>
+      <review>
+         <snippet>The tricky mathematical puzzles never add up, and the pulpy Raymond Chandler pastiches are more parody than potent.</snippet>
+         <url>http://ae.philly.com/entertainment/ui/philly/movie.html?id=813280&amp;reviewId=22260</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>Here, responding to an exceedingly convoluted screenplay with a relatively straight face, Schumacher does no one any favors, least of all his stars.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-070223-movies-review-23,0,3860854.story?coll=mmx-movies_top_heds</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>The Number 23 is an inane numbers game pretending to be a suspenseful psychological thriller. Not only is it not frightening, it's downright laughable.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2007-02-22-number-23_x.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>It's humorless save when it's laughable.</snippet>
+         <url>http://movies2.nytimes.com/2007/02/23/movies/23numb.html?ref=movies</url>
+         <critic>Manohla Dargis</critic>
+      </review>
+      <review>
+         <snippet>Narrated in voice-over by the hero, the movie is an object lesson in the dangers of having a storyteller who manufactures his own logic.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/31063_NUMBER_TWENTY_THREE.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>Despite the undeniable conviction of the performers, the film eventually becomes more laughable than chilling.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?JSESSIONID=FpZ0JQRjmcDjkhGvDPbvvwpCGjSdpGbNd6P2J31pdQLT0j9mqzJ7!-1407640441&amp;&amp;rid=8836</url>
+         <critic>Frank Scheck</critic>
+      </review>
+      <review>
+         <snippet>Gimmicky numerology plus Jim Carrey minus narrative coherence equals "The Number 23," a visually and psychologically murky thriller that, given its hero's paranoid obsession with the titular number, plays like a very grungy episode of "Sesame Street."</snippet>
+         <url>http://www.variety.com/review/VE1117932858.html?categoryid=31&amp;cs=1</url>
+         <critic>Justin Chang</critic>
+      </review>
+      <review>
+         <snippet>Given a script, by Fernley Phillips, that feels like a film-school exercise--all structure, no stuffing--Joel Schumacher works his familiar anti-magic.</snippet>
+         <url>http://nymag.com/movies/reviews/28144/index.html</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>The Number 23 is nowhere near as far-fetched as the movie's eventual outcome, which is so pat it makes you wonder if Phillips wasn't writing the script for a class assignment and was simply unable to continue after "Pencils down."  The Number 23 is goofy, implausible, and funny in all the wrong ways.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=9796</url>
+         <critic>Pete Vonder Haar</critic>
+      </review>
+      <review>
+         <snippet>Gosh, where to end the counting? How about with the fact, helpfully provided in the press notes, that this feature is Joel Schumacher's "23rd film or television directorial assignment." To suggest that's exactly 23 too many might be a tad unkind, but does have the happy benefit of adding to the mystique.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/LAC.20070223.NUMBER23/TPStory/TPEntertainment/Movies/</url>
+         <critic>Rick Groen</critic>
+      </review>
+      <review>
+         <snippet>Aside from being impossible to follow, it was also completely boring!</snippet>
+         <url>http://www.premiere.com/moviereviews/3553/the-number-23.html</url>
+         <critic>Ethan Alter</critic>
+      </review>
+      <review>
+         <snippet>Being surreal and dreamlike is one thing, but the elements add up so poorly that the story could have been concocted by a marginally talented chimpanzee.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/304752_number23q.html</url>
+         <critic>William Arnold</critic>
+      </review>
+      <review>
+         <snippet>There's a mess of things wrong with this suspense thriller. Start with the fact that it's neither suspenseful nor thrilling.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/10311257/review/13544671/the_number_23</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>For all its relentless number-crunching, this is really a movie about story-telling, and stories within stories, and stories within flashbacks within fantasies within madness -- all of it unloaded with the help of exposition so preposterously contrived it borders on parody.</snippet>
+         <url>http://www.villagevoice.com/film/0708,lee,75854,20.html</url>
+         <critic>Nathan Lee</critic>
+      </review>
+      <review>
+         <snippet>Director Joel Schumacher and cinematographer Matthew Libatique are Carrey's enablers. Schumacher gives the movie a jittery quality, as if he's having a nervous breakdown, too, and a symptom seems to be that he puts lights in strange places. Libatique is also having a nervous breakdown, and his symptoms include the urge to splatter O-negative red everywhere.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1126278&amp;categories=Movies&amp;nm=1</url>
+         <critic>Stephen Hunter</critic>
+      </review>
+      <review>
+         <snippet>Watching Carrey babble gibberish about the sinister nature of 23 in scene after hyperventilating scene isn't any more fun or enlightening than listening to street-corner lunatics discourse on similar topics. At least street crazies don't expect people to pay bloated movie-ticket prices for the privilege. And The Number 23 isn't worth a pocket full of loose change.</snippet>
+         <url>http://www.avclub.com/content/node/58861</url>
+         <critic>Nathan Rabin</critic>
+      </review>
+      <review>
+         <snippet>What is there to say about a movie that teams Schumacher with Carrey, other than that you deserve whatever you get if you go and see it?</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A448428</url>
+         <critic>Josh Rosenblatt</critic>
+      </review>
+      <review>
+         <snippet>The most interesting character here is an animal, a sturdy-looking white and black bulldog, who appears throughout the movie, angel style, to speak the truth -- silently. In this load of mind-bendy bushwa, he's the only thing worth watching, or listening to.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2007/02/23/number_23/index.html</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>Bleak and brackish. It makes you want to cover your eyes and clutch your ears. How's that for a quote line?</snippet>
+         <url>http://www.csmonitor.com/2007/0223/p14s01-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>Having seen the movie, allow me to throw one additional calculation into the equation: The Number 23 is a zero.</snippet>
+         <url>http://www.laweekly.com/film+tv/film/miscalculated/15757/</url>
+         <critic>Scott Foundas</critic>
+      </review>
+      <review>
+         <snippet>How bad is The Number 23? It gives "Batman &amp; Robin" a run for its money as the worst of the director's long career.</snippet>
+         <url>http://www.calendarlive.com/printedition/calendar/cl-et-number23feb23,0,254379.story</url>
+         <critic>Kevin Crust</critic>
+      </review>
+      <review>
+         <snippet>The film has its own grim fascination as an example of another kind of obsessive thinking -- the process through which a studio apparatus is brought to bear on developing an idea that defies development.</snippet>
+         <url/>
+         <critic>Joe Morgenstern</critic>
+      </review>
+   </reviews>
+   <US_Gross>$35,193,167</US_Gross>
+   <production_budget>$32,000,000</production_budget>
+   <weekend_gross>$14,602,867</weekend_gross>
+   <number_of_screens>2,759</number_of_screens>
+   <highest_grossing_actors_present/>
+   <num_highest_grossing_actors>1</num_highest_grossing_actors>
+   <highest_grossing_actor>jim carrey</highest_grossing_actor>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

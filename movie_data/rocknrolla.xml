@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>RocknRolla</name>
+   <company>Warner Bros. Pictures</company>
+   <genres>
+      <genre>Action</genre>
+      <genre>Crime</genre>
+   </genres>
+   <authors>
+      <author>Guy Ritchie</author>
+   </authors>
+   <directors>
+      <director>Guy Ritchie</director>
+   </directors>
+   <origins>
+      <origin>UK</origin>
+   </origins>
+   <actors>
+      <actor>Gerard Butler</actor>
+      <actor>Tom Wilkinson</actor>
+      <actor>Thie Newton</actor>
+      <actor>Mark Strong</actor>
+      <actor>Idris Elba</actor>
+      <actor>Tom Hardy</actor>
+      <actor>Toby Kebbell</actor>
+      <actor>Jeremy Piven</actor>
+   </actors>
+   <release_date>October 8, 2008</release_date>
+   <running_time>114</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>Ritchie concocts a crime-jungle demimonde that's organically linked to the real world, and it's a damn fun one to visit.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20231543,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>It's all here: the ingenious, obscenity-laced language, the double crosses that turn into triple crosses, the swaggering characters so in love with themselves. GottaLove RocknRolla!</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?rid=11604</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>A cleverly constructed, sensationally stylish and often darkly hilarious seriocomic caper.</snippet>
+         <url>http://www.variety.com/review/VE1117938191.html?categoryid=2863&amp;cs=1&amp;query=rocknrolla</url>
+         <critic>Joe Leydon</critic>
+      </review>
+      <review>
+         <snippet>A sharp comedy as well as a punk-pulp spree. Don't go if you can't handle Brit slang. ("Grass" = informer.)</snippet>
+         <url>http://www.nypost.com/seven/10082008/entertainment/movies/gangsters_paradise_132603.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>The bottom line is, all these people chase the same money around with the success of doggie tail-biting, and it's a lot of fun, and it's not often in these con films that everybody is conning everybody, and they're all scared to death, and nobody knows which cup the pea is under.</snippet>
+         <url>http://www.rogerebert.com/apps/pbcs.dll/article?AID=/20081029/REVIEWS/810299991/1023</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>Though the plot has a few too many holes in it, the sheer fun of RockNRolla makes it easy to overlook such quibbles. Butler will make you forget all about "Sparta."</snippet>
+         <url>http://www.premiere.com/moviereviews/4809/rocknrolla.html</url>
+         <critic>Jenni Miller</critic>
+      </review>
+      <review>
+         <snippet>Although the characters are all cartoons, Ritchie still invests them with enough personality to make them stand out as real people, which is what makes RocknRolla much more involving than your typical Tarantino ripoff.</snippet>
+         <url>http://www.miamiherald.com/entertainment/movies/reviews/story/747754.html</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>The main problem is that Ritchie keeps playing the same old song. It's a swell tune, and we don't mind hearing it every few years, but we'd welcome another subject in a transposed key. Even the Material Girl tries out fresh material.</snippet>
+         <url>http://www.time.com/time/arts/article/0,8599,1848220,00.html</url>
+         <critic>Richard Corliss</critic>
+      </review>
+      <review>
+         <snippet>If you're a fan of the early Ritchie comedy-crime thrillers, then this is not only right up your alley, it's a long lost relative returning home.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=11247</url>
+         <critic>Mark Bell</critic>
+      </review>
+      <review>
+         <snippet>As is the norm for Ritchie, Rocknrolla is also too long, too coolly violent, and too populated by characters who all talk like they've been reading the same pulp novelist.</snippet>
+         <url>http://www.avclub.com/content/cinema/rocknrolla</url>
+         <critic>Noel Murray</critic>
+      </review>
+      <review>
+         <snippet>A fast-paced amoral joyride that's more interested in the absurdities of violent criminality (torture by crayfish, anyone?) than the complications of real life.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A695639</url>
+         <critic>Josh Rosenblatt</critic>
+      </review>
+      <review>
+         <snippet>Watching Guy Ritchie's British-underworld farce, RocknRolla, is like being compelled to pay attention to a nonstop rock station you normally use as background while you're doing chores. The words are catchy and the beat keeps you awake, though all of it quickly fades.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/reviews/bal-to.roundup31oct31,0,3702648.story</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>It's fun to see Tom Wilkinson, for instance, with a massive bald spot virtually eating scenery with a knife and fork.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=11386</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>A well-acted and attitudinal action movie, a return to Ritchie's trademark "Mockney" style, which takes amusing and twisted turns.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2008-10-07-rocknrolla_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>RocknRolla is a kickass crime drama that just doesn't know to quit while it's ahead.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/18271341/review/23356379/rocknrolla</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>Ritchie whisks you along on a whirlwind tour, but he's not averse to putting on the brakes long enough to admire some of his favorite attractions.</snippet>
+         <url>http://www.latimes.com/entertainment/news/reviews/la-et-rocknrolla8-2008oct08,0,221018.story</url>
+         <critic>Sam Adams</critic>
+      </review>
+      <review>
+         <snippet>It never generates much interest in its story or affection for its characters, and it's simply not half as funny as it needs to be.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/385719_rocknrolla31q.html</url>
+         <critic>William Arnold</critic>
+      </review>
+      <review>
+         <snippet>As punchy and energetic as the first few moments are, the rest of the film quickly falls back into mediocrity.</snippet>
+         <url>http://www.reelviews.net/php_review_template.php?identifier=1363</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>Like the filmmaking itself, the violence has no passion, no oomph, no sense of real or even feigned purpose.</snippet>
+         <url>http://movies.nytimes.com/2008/10/08/movies/08rock.html?ref=movies</url>
+         <critic>Manohla Dargis</critic>
+      </review>
+      <review>
+         <snippet>On the plus side, the actors - especially Butler and Wilkinson - work overtime to pump some extra life into the self-conscious script.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2008/10/07/2008-10-07_guy_ritchies_rocknrolla_is_lock_stock__a.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>This film's got EVERYTHING, although purists might quibble that it lacks any sliver of plausibility or dramatic interest.</snippet>
+         <url>http://www.newyorker.com/arts/critics/cinema/2008/10/20/081020crci_cinema_lane</url>
+         <critic>Anthony Lane</critic>
+      </review>
+      <review>
+         <snippet>RocknRolla is a copy of a copy of a valuable original, and you know how faint and unintelligible those can be.</snippet>
+         <url>http://events.charlotteobserver.com/reviews/show/33293-review-rocknrolla</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>If only RocknRolla's characters were at all believable - even in the context of its own cartoon universe.</snippet>
+         <url>http://www.philly.com/philly/entertainment/movies/20081031_Back_in_London_s_underworld.html</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>Thinking back on watching these performers, I see them mostly as an arrangement of bewildered actors awaiting orders, as if Ritchie hasn't bothered to tell them what he needs them to do. He’d sure make a lousy Mob boss.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2008/10/08/rocknrolla/</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>Ritchie, who shoots and cuts everything in RocknRolla like an ad for a particularly greasy brand of fragrance for men, delivers the beatings and killings in his trademark atmosphere of morally weightless flash.</snippet>
+         <url>http://chicago.metromix.com/movies/movie_review/movie-review-rocknrolla/727469/content</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>RocknRolla attempts to depict a world of ever-expanding chaos. But the chaos is only in the way the story is told. The actual vision Ritchie offers is pedestrian and tame.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2008/10/30/DDB913PIR8.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>Sum total of scenes that deserved to stay in the final cut: Thandie Newton doing a little shimmying frug.</snippet>
+         <url>http://www.villagevoice.com/2008-10-08/film/guy-ritchie-returns-to-form-for-better-or-worse-in-rocknrolla/</url>
+         <critic>Nick Pinkerton</critic>
+      </review>
+      <review>
+         <snippet>Frenetic and self-conscious to the point of tedium.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/33766_ROCKNROLLA.html</url>
+         <critic>Andrea Gronvall</critic>
+      </review>
+   </reviews>
+   <US_Gross>$5,700,626</US_Gross>
+   <weekend_gross>$203,586</weekend_gross>
+   <number_of_screens>7</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

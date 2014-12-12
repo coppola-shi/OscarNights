@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Primeval</name>
+   <company>Touchstone Pictures</company>
+   <genres>
+      <genre>Horror</genre>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>John D. Brancato</author>
+      <author>Michael Ferris</author>
+   </authors>
+   <directors>
+      <director>Michael Katleman</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Dominic Purcell</actor>
+      <actor>Brooke Langton</actor>
+      <actor>Orlo Jones</actor>
+      <actor>Jürgen Prochnow</actor>
+      <actor>Gideon Emery</actor>
+      <actor>Gabriel Malema</actor>
+      <actor>Linda Mpondo</actor>
+      <actor>Lehlohonolo Makoko</actor>
+   </actors>
+   <release_date>January 12, 2007</release_date>
+   <running_time>94</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>Pit a reptile the size of a school bus against an American TV-news crew in war-scarred Burundi, and you get "Hotel Rwanaconda," a horror movie interested in cheesy scares and drawing attention to the plight of poor Africans. (So no, Primeval is not the '"serial killer'" film promised by the ads.)</snippet>
+         <url>http://www.ew.com/ew/article/0,,20008797,00.html</url>
+         <critic>Gregory Kirschling</critic>
+      </review>
+      <review>
+         <snippet>It's not exactly good, but it's not bad, and far from boring.</snippet>
+         <url>http://www.variety.com/review/VE1117932442.html?categoryid=31&amp;cs=1</url>
+         <critic>Dennis Harvey</critic>
+      </review>
+      <review>
+         <snippet>Strangely self-serious, and without covering the prerequisites of top-shelf nastiness that contemporary horror requires, this giant crocodile movie turns out to be neither fish nor fowl.</snippet>
+         <url>http://www.calendarlive.com/printedition/calendar/cl-et-primeval13jan13,0,3425468.story</url>
+         <critic>Mark Olsen</critic>
+      </review>
+      <review>
+         <snippet>The screenplay, by John Brancato and Michael Ferris, tosses out a few chewy bits of B-movie wit, most of them supplied by Mr. Jones, who expresses the ambivalence of an African-American visiting the motherland through a series of bitter jokes.</snippet>
+         <url>http://movies2.nytimes.com/2007/01/13/movies/13prim.html?ref=movies</url>
+         <critic>A.O. Scott</critic>
+      </review>
+      <review>
+         <snippet>Primeval is a hoot if you're in the mood, though, and it gets points for trying to stuff a little globo-think into the minds of Friday night mayhem fans (who will probably rebel, since only one skull pops like a grape).</snippet>
+         <url>http://www.boston.com/ae/movies/blog/2007/01/primeval_movie.html</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>One of the few monster-crocodile movies that simultaneously tries to rip off "Jaws" and "Meet the Press."</snippet>
+         <url>http://www.nypost.com/seven/01132007/entertainment/movies/adventure_tale_a_crock_movies_kyle_smith.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>Though a few scenes drum up some intensity -- that green ham Gustave makes one last great appearance -- it's mostly grim, dull and ugly, three qualities that nobody wants in a piece of multiplex filler about a surly reptile.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/LAC.20070113.PRIMEVAL13/TPStory/TPEntertainment/Movies/</url>
+         <critic>Jason Anderson</critic>
+      </review>
+      <review>
+         <snippet>If there were a shred of sincerity to its straight-faced exposé of African strife, the film would be easier to forgive, but since it's really just a cheap horror-thriller about an ancient predator, the austere tone does it no favors.</snippet>
+         <url>http://www.avclub.com/content/node/57614</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>A low-rent monster movie that could well have been released by American International in the early 1970s, Primeval boasts a level of cheesiness that should well merit it a regular rotation on late-night cable.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?&amp;rid=8620</url>
+         <critic>Frank Scheck</critic>
+      </review>
+      <review>
+         <snippet>With a little camp, this could have been fun --see "Lake Placid" or "Anaconda."</snippet>
+         <url>http://www.laweekly.com/film+tv/film-reviews/film-reviews/15392/</url>
+         <critic>Luke Y. Thompson</critic>
+      </review>
+      <review>
+         <snippet>By the end of the film, I was hoping everyone on two legs would die, preferably suffering as much on screen as I was in the audience.</snippet>
+         <url>http://www.reelviews.net/movies/p/primeval.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+   </reviews>
+   <US_Gross>$10,597,734</US_Gross>
+   <weekend_gross>$6,048,315</weekend_gross>
+   <number_of_screens>2,444</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

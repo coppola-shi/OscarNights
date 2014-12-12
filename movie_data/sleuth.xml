@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Sleuth</name>
+   <company>Sony Pictures Classics</company>
+   <genres>
+      <genre>Comedy</genre>
+      <genre>Drama</genre>
+      <genre>Mystery</genre>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>Anthony Shaffer</author>
+      <author>Harold Pinter</author>
+   </authors>
+   <directors>
+      <director>Kenneth Branagh</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Michael Caine</actor>
+      <actor>Jude Law</actor>
+      <actor>Harold Pinter</actor>
+      <actor>Eve Channing</actor>
+   </actors>
+   <release_date>October 12, 2007</release_date>
+   <running_time>86</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>It's like "Deathtrap" crossed with "Cribs" as staged by Stanley Kubrick.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20151605,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>Caine, who has never been much for the stage, is a superb screen actor, so good his master classes on acting for the camera are on DVD. Here, dry and clipped, biting and savage, he goes for the kill.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20071018/REVIEWS/710180308</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>A pretty good movie. It just isn't a very good "Sleuth," exactly.</snippet>
+         <url>http://www.charlotte.com/145/story/394313.html</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>Language this lethal has all but disappeared from the movies, and it's an unmitigated pleasure to observe Caine and Law attack it with such ferocity. Sleuth is nasty fun.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-sleuth12oct12,0,5349926.story?coll=cl-mreview</url>
+         <critic>Carina Chocano</critic>
+      </review>
+      <review>
+         <snippet>Sleuth is well acted, and directed by Branagh with chilly, distant ingenuity. It has a certain edge and daring, or more to the point it pretends to.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2007/10/11/btm/index3.html</url>
+         <critic>Andrew O&amp;#039;Hehir</critic>
+      </review>
+      <review>
+         <snippet>I think the movie works best if you know the original and have a taste for goofy revisionism.</snippet>
+         <url>http://nymag.com/movies/reviews/38963/index1.html</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>Despite top-flight acting from Michael Caine and Jude Law, it loses its grip in the third act and let's the air out of what might have been a memorably gripping film.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/imdb/reviews/article_display.jsp?rid=9697&amp;vnu_special_account_code=thrsiteimdbpro</url>
+         <critic>Ray Bennett</critic>
+      </review>
+      <review>
+         <snippet>The 1972 movie was better paced and presented a superior story but this one has its own pleasures. It's an interesting failure - a film that works more successfully as a study of technique and writing than as a motion picture.</snippet>
+         <url>http://www.reelviews.net/movies/s/sleuth2007.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>While the entire premise of Sleuth is a gimmick, having Michael Caine and Jude Law remake the 1972 adaptation of Anthony Shaffer's Tony Award-winning play heightens the gimmick quotient.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2007-10-11-sleuth_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>Just when things should be getting exciting and complex, they become repetitive and predictable. Subtext becomes hint becomes statement becomes declaration. For once, Pinter is a little too easy to understand.</snippet>
+         <url>http://www.nypost.com/seven/10122007/entertainment/movies/when_law_raises_caine.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>Caine and Law may not be playing human beings, but Pinter’s sense of humor is at least more interesting than Shaffer’s. Caine in particular appears to enjoy honing his cold-eyed stare.</snippet>
+         <url>http://chicago.metromix.com/movies/movie_review/movie-review-sleuth/233412/content</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>At 86 minutes, Sleuth '07 plays like a Cliffs Notes version of the original (which was skillfully adapted by Anthony Shaffer from his own hit play) with far too much of its pacing and delicious texture ruthlessly cut.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/336841_sleuth26q.html</url>
+         <critic>William Arnold</critic>
+      </review>
+      <review>
+         <snippet>A high-pedigree, low-interest affair that serves mostly as an exercise in postmortem speculation: Why is a project with so many prominent names attached to it so sterile and lifeless?</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20071025.wsleuth26/BNStory/Entertainment/home</url>
+         <critic>Liam Lacey</critic>
+      </review>
+      <review>
+         <snippet>This might have been OK for cable, but as a night out at the movies, it feels like a bit of a cheat.</snippet>
+         <url>http://www.miamiherald.com/1054/story/283641.html</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>It's not a disaster: Branagh is an actor's director, and there are biting moments throughout and solid performances from Caine and Law.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/119385873370450.xml&amp;coll=7</url>
+         <critic>M. E. Russell</critic>
+      </review>
+      <review>
+         <snippet>The result is unfortunate: Pinter can't find emotional depths that just aren't there, but dispenses with most of what made the original entertaining in the search for them.</snippet>
+         <url>http://www.tvguide.com/movies/sleuth/review/290393</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>Even lousy adaptations have worth, if they attract attention to little-seen originals.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2007/10/12/2007-10-12_short_takes_more_movie_reviews.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>The new version is a shiny piece of hardware that might as well be called "Sleuth 2.0," and it's exactly what you would expect from Pinter: very clever, extremely cold. Maliciously entertaining, too, until the halfway point, when you suddenly start wondering why anyone should care.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=10478</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>Sleuth"is that rare film that would have been better longer. You're not through looking at Caine and Law when the final credits roll.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2007/10/19/DDNLSRIF2.DTL#flick2</url>
+         <critic>Ruthe Stein</critic>
+      </review>
+      <review>
+         <snippet>Little more than a sleek, stylish stunt.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1138782&amp;categories=Movies&amp;nm=1</url>
+         <critic>Ann Hornaday</critic>
+      </review>
+      <review>
+         <snippet>The results will be received with a large, loud yawn by all but the most loyal fans of Pinter and hard-working co-stars Michael Caine and Jude Law.</snippet>
+         <url>http://www.variety.com/review/VE1117934531.html?categoryid=31&amp;cs=1&amp;p=0</url>
+         <critic>Robert Koehler</critic>
+      </review>
+      <review>
+         <snippet>Whatever pleasure can be wrung from Sleuth lies in the black comedy of Caine and Law's sinuous symbiosis.</snippet>
+         <url>http://www.villagevoice.com/film/0741,taylor,78007,20.html</url>
+         <critic>Ella Taylor</critic>
+      </review>
+      <review>
+         <snippet>It takes something really special to bring together a Nobel Prize-winning writer, a director renowned for his Shakespeare adaptations, a two-time Oscar-winning actor who also happens to be a knight of the British realm, and the reigning No. 1 British screen heartthrob and still come up with nonsense.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A558307</url>
+         <critic>Josh Rosenblatt</critic>
+      </review>
+      <review>
+         <snippet>Minus a couple of brisk, black laughs, this hollow remake botches the twists and sucks the fun right out of its feisty source.</snippet>
+         <url>http://www.empireonline.com/reviews/reviewcomplete.asp?FID=135025</url>
+         <critic>Simon Crook</critic>
+      </review>
+      <review>
+         <snippet>Director Kenneth Branagh has mercifully pared the action down to 88 minutes (the first movie dragged on for 138), but the final act, with its obscure homosexual flirtation, still seems to go on forever.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/32280_SLEUTH_BRANAGH.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>Art-directed within an inch of its life, Sleuth has the smirky gloss of a project that everyone involved with thinks is terribly good, and terribly clever. These people - Branagh, Pinter, Law and the usually great Caine (even in bad stuff) - are laboring under an epic misconception. Sleuth is just terrible.</snippet>
+         <url>http://www.philly.com/philly/entertainment/movies/20071102_Remake_of_Sleuth_is_all_style__no_substance.html</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>This is a perhaps even more misbegotten remake than the Farrelly Brothers' update of "The Heartbreak Kid."</snippet>
+         <url>http://www.premiere.com/moviereviews/4164/sleuth.html</url>
+         <critic>Glenn Kenny</critic>
+      </review>
+      <review>
+         <snippet>No doubt the list of talent involved in this remake sounded great, but the project hasn't been thought through as anything more than an arch exercise in style. And even in that trifling end, it fails utterly.</snippet>
+         <url>http://www.avclub.com/content/cinema/sleuth</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>If you consider what the exalted quartet of Branagh, Pinter, Caine and Law might have done with the project, and what they did to it, Sleuth has to be the worst prestige movie of the year.</snippet>
+         <url>http://www.time.com/time/arts/article/0,8599,1671173,00.html</url>
+         <critic>Richard Corliss</critic>
+      </review>
+      <review>
+         <snippet>The result is that what was once insignificant is now insufferable.</snippet>
+         <url>http://movies.nytimes.com/2007/10/12/movies/12sleu.html?ref=movies</url>
+         <critic>Manohla Dargis</critic>
+      </review>
+   </reviews>
+   <US_Gross>$342,895</US_Gross>
+   <weekend_gross>$46,265</weekend_gross>
+   <number_of_screens>9</number_of_screens>
+   <highest_grossing_actors_present/>
+   <num_highest_grossing_actors>1</num_highest_grossing_actors>
+   <highest_grossing_actor>michael caine</highest_grossing_actor>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

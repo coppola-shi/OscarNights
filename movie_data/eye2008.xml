@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Eye, The</name>
+   <company>Lionsgate</company>
+   <genres>
+      <genre>Drama</genre>
+      <genre>Horror</genre>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>Sebastian Gutierrez</author>
+      <author>Jo Jo Yuet-chun Hui</author>
+   </authors>
+   <directors>
+      <director>David Moreau</director>
+      <director>Xavier Palud</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Jessica Alba</actor>
+      <actor>Parker Posey</actor>
+      <actor>Alessro Nivola</actor>
+      <actor>Tamlyn Tomita</actor>
+      <actor>Chloe Moretz</actor>
+   </actors>
+   <release_date>February 1, 2008</release_date>
+   <running_time>97</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>A quirkily efficient genre exercise that knows exactly where and when to administer its cattle-prod shivers.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20080204.weye05/BNStory/Entertainment/home</url>
+         <critic>Stephen Cole</critic>
+      </review>
+      <review>
+         <snippet>It's as if, on the umpteenth Asian-horror Xerox, the ink has run dry.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20176578,00.html</url>
+         <critic>Leah Greenblatt</critic>
+      </review>
+      <review>
+         <snippet>This slick effort is effectively creepsome until it bogs down somewhat in plot explication.</snippet>
+         <url>http://www.variety.com/review/VE1117936035.html?categoryid=31&amp;cs=1</url>
+         <critic>Dennis Harvey</critic>
+      </review>
+      <review>
+         <snippet>Unfortunately, the final act (the Mexico sequences) illustrate where to take a ghost story if you want to exchange old-fashioned horror for a grilled cheese sandwich.</snippet>
+         <url>http://www.reelviews.net/movies/e/eye.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>Their movie is watchable - never more gratuitously so than when Alba is filmed showering and slipping into a tank top. But we've been here before, no?</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=9745</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>The most vivid aspect of The Eye is its poster image, that of a huge female eye with a human hand gripping the lower lid from the inside. The least vivid aspect is the way Jessica Alba delivers a simple line of expository dialogue.</snippet>
+         <url>http://chicago.metromix.com/movies/movie_review/movie-review-the-eye/297852/content</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>The major problem is the death of a horror film: It's startling, but not particularly scary.</snippet>
+         <url>http://www.avclub.com/content/cinema/the_eye</url>
+         <critic>Tasha Robinson</critic>
+      </review>
+      <review>
+         <snippet>Louder and more literal than its inspiration, The Eye benefits from a spiky performance by Alessandro Nivola as Sydney’s rehabilitation counselor. “Your eyes are not the problem,” he tells her at one point. He is so, so right.</snippet>
+         <url>http://movies.nytimes.com/2008/02/02/movies/02eye.html?ref=movies</url>
+         <critic>Jeannette Catsoulis</critic>
+      </review>
+      <review>
+         <snippet>Sacrifices the quietly creepy qualities of the original in favor of ramped-up horror film techniques that by now seem distressingly familiar.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?JSESSIONID=T13CHjbD9frQ0pJw7fspvFGJLvbJdBfvc6nQYWNXxG569vw8GKSm!1563609522&amp;&amp;rid=10586</url>
+         <critic>Frank Scheck</critic>
+      </review>
+      <review>
+         <snippet>A tediously noisesome English-language remake of an Asian horror picture that wasn't any great shakes to begin with.</snippet>
+         <url>http://www.premiere.com/moviereviews/4387/the-eye.html</url>
+         <critic>Glenn Kenny</critic>
+      </review>
+      <review>
+         <snippet>It's hard to know who bears the brunt of the blame for The Eye's stunning dullness.</snippet>
+         <url>http://www.tvguide.com/movies/eye/review/292201</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>The entire movie is an object lesson in diminishing returns: of nagging shock cuts and blaring sound cues used as indiscriminately as joy buzzers; of “look out behind you!” scares that wouldn’t make a Cub Scout flinch; of a blurry visual scheme that was far more terrifying in "The Diving Bell and the Butterfly," where it sought empathy rather than empty sensation.</snippet>
+         <url>http://www.laweekly.com/film+tv/film-reviews/caramel-over-her-dead-body-tre-the-eye/18261/</url>
+         <critic>Jim Ridley</critic>
+      </review>
+      <review>
+         <snippet>Most unforgivably, this Eye culminates not with the mounting dread and spectacular tragedy of the original film's decidedly downbeat vision, but with the trademark LASIK laziness of Hollywood's stylistically blank remake factory.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A585648</url>
+         <critic>Marc Savlov</critic>
+      </review>
+   </reviews>
+   <US_Gross>$31,418,697</US_Gross>
+   <weekend_gross>$12,425,776</weekend_gross>
+   <number_of_screens>2,436</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

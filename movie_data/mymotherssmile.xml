@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>My Mother&amp;#039;s Smile</name>
+   <company>New Yorker Films</company>
+   <genres>
+      <genre>Drama</genre>
+      <genre>Foreign</genre>
+   </genres>
+   <authors>
+      <author>Marco Bellocchio</author>
+   </authors>
+   <directors>
+      <director>Marco Bellocchio</director>
+   </directors>
+   <origins>
+      <origin>Italy</origin>
+   </origins>
+   <actors>
+      <actor>Sergio Castellitto</actor>
+      <actor>Maurizio Donadoni</actor>
+      <actor>Piera Degli Esposti</actor>
+      <actor>Toni Bertorelli</actor>
+      <actor>Alberto Mondini</actor>
+      <actor>Jacqueline Lustig</actor>
+      <actor>Gianni Schicchi</actor>
+      <actor>Chiara Conti</actor>
+      <actor>Gigio Alberti</actor>
+   </actors>
+   <release_date>February 11, 2005</release_date>
+   <running_time>103</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>This superbly filmed Italian drama stands with Bellocchio's best work. Originally titled "Ora di religione."</snippet>
+         <url>http://www.csmonitor.com/2005/0211/p14s02-almo.html</url>
+         <critic>David Sterritt</critic>
+      </review>
+      <review>
+         <snippet>It's messy and unsettled, but Bellocchio's distaste for the cynicism and mendacity is potent and sincere.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/233514_limited22.html</url>
+         <critic>Sean Axmaker</critic>
+      </review>
+      <review>
+         <snippet>Though the narrative is spotty, and occasionally confounding, there is an epic warmth in the way it's rendered.</snippet>
+         <url>http://movies2.nytimes.com/2005/02/11/movies/11smil.html</url>
+         <critic>A.O. Scott</critic>
+      </review>
+      <review>
+         <snippet>In his best film in years, Marco Bellocchio crafts a stringently moral tale that carries a hint of horror.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/capsules/23086_MY_MOTHERS_SMILE</url>
+         <critic>Barbara Scharres</critic>
+      </review>
+      <review>
+         <snippet>"A very odd thriller" is how Italian director Marco Bellocchio describes My Mother's Smile, his uncannily beautiful and deeply humanist exploration of the nightmares that resurface from a Roman atheist's Catholic childhood.</snippet>
+         <url>http://www.villagevoice.com/film/0506,camhi,60920,20.html</url>
+         <critic>Leslie Camhi</critic>
+      </review>
+      <review>
+         <snippet>It's a bit of a mess but strong stuff nevertheless -- a mournful, often wickedly funny religious satire that suggests what Kafka might have come up with had he been raised Catholic.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=6684</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>An artful look at religious hypocrisy, interfamily dynamics and the way people wrestle with personal history long after the original events are over.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2005/09/09/DDGM5EK0OI1.DTL#flick</url>
+         <critic>Jonathan Curiel</critic>
+      </review>
+      <review>
+         <snippet>There are many nuances to My Mother's Smile, not all of them evenly told. Yet even when the conversations sound absurd, the film never fails to captivate.</snippet>
+         <url>http://ae.miami.com/entertainment/ui/miami/movie.html?id=324709&amp;reviewId=20768</url>
+         <critic>Marta Barber</critic>
+      </review>
+      <review>
+         <snippet>In the end, Bellocchio suggests in this spiritual thriller that perhaps faith is the dream from which we do not awaken.</snippet>
+         <url>http://ae.miami.com/entertainment/ui/miami/movie.html?id=324709&amp;reviewId=18069</url>
+         <critic>Carrie Rickey</critic>
+      </review>
+      <review>
+         <snippet>At the last, My Mother's Smile conveys that, if Bellocchio is just doggedly hanging on to a career, he is still able to make us feel nostalgia for those high Italian days.</snippet>
+         <url>http://www.tnr.com/doc.mhtml?i=20050307&amp;s=kauffmann030705</url>
+         <critic>Stanley Kauffmann</critic>
+      </review>
+      <review>
+         <snippet>As absurd as the situation gets--and the film occasionally launches into surreal asides that only heighten the absurdity--director and star both keep it grounded in the situation's emotions.</snippet>
+         <url>http://www.theavclub.com/review.php?review_id=8524</url>
+         <critic>Keith Phipps</critic>
+      </review>
+      <review>
+         <snippet>In the central role, Castellitto's powerfully focused performance manages to keep the complex drama grounded.</snippet>
+         <url>http://www.variety.com/index.asp?layout=awardcentral2003&amp;content=jump&amp;nav=reviews&amp;jump=reviews&amp;reviewid=VE1117917494&amp;categoryid=1401&amp;cs=</url>
+         <critic>David Rooney</critic>
+      </review>
+      <review>
+         <snippet>A thoughtful, provocative film that understandably ruffled a few feathers in its native Italy -- the portrayal of the church is far less than beatific.</snippet>
+         <url>http://www.nypost.com/movies/39649.htm</url>
+         <critic>Debra Birnbaum</critic>
+      </review>
+      <review>
+         <snippet>It's a sly, subtle portrait of systematic hypocrisy.</snippet>
+         <url>http://tvguide.com/movies/database/showmovie.asp?MI=45913</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+   </reviews>
+   <US_Gross>$40,246</US_Gross>
+   <weekend_gross>$9,167</weekend_gross>
+   <number_of_screens>1</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

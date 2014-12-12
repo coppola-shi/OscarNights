@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Protector, The</name>
+   <company>The Weinstein Company</company>
+   <genres>
+      <genre>Action</genre>
+      <genre>Comedy</genre>
+      <genre>Crime</genre>
+      <genre>Foreign</genre>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>Kongdej Jaturanrasamee, Napalee,Piyaros Thongdee,Joe Wannapin and</author>
+      <author>Prachya Pinkaew</author>
+   </authors>
+   <directors>
+      <director>Prachya Pinkaew</director>
+   </directors>
+   <origins>
+      <origin>Thailand</origin>
+   </origins>
+   <actors>
+      <actor>Tony Jaa</actor>
+      <actor>Petchtai Wongkamlao</actor>
+      <actor>Bongkoj Khongmalai</actor>
+      <actor>Xing Jing</actor>
+      <actor>Nathan Jones</actor>
+      <actor>Johnny Nguyen</actor>
+      <actor>Lateef Crowder</actor>
+      <actor>Jon Foo</actor>
+   </actors>
+   <release_date>September 8, 2006</release_date>
+   <running_time>84</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>A furiously choreographed martial-arts spectacle wrapped in a fumbling narrative.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/284254_protector08q.html</url>
+         <critic>Sean Axmaker</critic>
+      </review>
+      <review>
+         <snippet>The Protector is about 84 minutes long, and only four of those minutes are devoted to plot.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=9299</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>The Protector is the nuttiest movie I've seen all year, and I've seen the last 20 minutes of "The Wicker Man."</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/1157586957176860.xml&amp;coll=7</url>
+         <critic>M. E. Russell</critic>
+      </review>
+      <review>
+         <snippet>The Protector supersizes the formula of "Ong Bak."</snippet>
+         <url>http://movies2.nytimes.com/2006/09/08/movies/08prot.html?ref=movies</url>
+         <critic>Nathan Lee</critic>
+      </review>
+      <review>
+         <snippet>It's silly, at times laughable, sure, but Jaa has a reckless, bone-cracking grace that transcends the film's triviality.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1533222_1_0_,00.html</url>
+         <critic>Marc Bernardin</critic>
+      </review>
+      <review>
+         <snippet>But while every expertly choreographed Muy Thai bout delivers, the film suffers from haphazard editing. Entire sequences of explanation are missing, as if Pinkaew made a 2 1/2 hour martial-arts film and then cut everything but the fighting scenes.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A400660</url>
+         <critic>Brian Clark</critic>
+      </review>
+      <review>
+         <snippet>Delivers a steady stream of cheap B-movie thrills, plus two positive messages for young people: Be nice to animals, and when in doubt, always aim for the tendons.</snippet>
+         <url>http://www.avclub.com/content/node/52902</url>
+         <critic>Nathan Rabin</critic>
+      </review>
+      <review>
+         <snippet>The movie is a series of ever more elaborate fight sequences and increasingly more and larger opponents.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/LAC.20060908.PROTO08/TPStory/TPEntertainment/Movies/</url>
+         <critic>Liam Lacey</critic>
+      </review>
+      <review>
+         <snippet>While the story's silly, the stunts, choreographed by Jaa and popular Thai filmmaker Panna Rittikrai, are spectacular.</snippet>
+         <url>http://www.nydailynews.com/09-08-2006/entertainment/col/story/450526p-379029c.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>Boasting the same refreshing avoidance of CGI and wire work as "Warrior," slickly made production (largely by the same team) is more consciously aimed at the international market, with its Australian setting and multilingual dialogue.</snippet>
+         <url>http://www.variety.com/review/VE1117929265?categoryid=31&amp;cs=1&amp;s=h&amp;p=0</url>
+         <critic>Derek Elley</critic>
+      </review>
+      <review>
+         <snippet>Even a superstar needs to surround himself with better material than this.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-to.protector08sep08,0,5369744.story?coll=bal-artslife-movies</url>
+         <critic>Chris Kaltenbach</critic>
+      </review>
+      <review>
+         <snippet>In truth, only hard-core martial-arts fans will be able to keep from squirming in their seats with boredom through at least some parts of this 82-minute kablammo-fest.</snippet>
+         <url>http://www.slate.com/id/2149236</url>
+         <critic>Dana Stevens</critic>
+      </review>
+      <review>
+         <snippet>A bad film with a great star and some truly amazing action sequences.</snippet>
+         <url>http://sfgate.com/cgi-bin/article.cgi?f=/c/a/2006/09/08/DDG2VL0FDG1.DTL&amp;type=movies</url>
+         <critic>G. Allen Johnson</critic>
+      </review>
+      <review>
+         <snippet>Jaa has the skills for the job, and shows them off in numerous fight scenes; it's just a shame that the movie he's in is barely acceptable in any other respect.</snippet>
+         <url>http://www.laweekly.com/film+http://www.laweekly.com/film+tv/film-reviews/film-reviews/14428/tv/film-reviews/film-reviews/14428/</url>
+         <critic>Luke Y. Thompson</critic>
+      </review>
+      <review>
+         <snippet>Lives up to Tarantino's imprimatur, both in its cheesy grind house aesthetic and its occasional forays into brilliant, bravura filmmaking.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1125316&amp;categories=Movies&amp;nm=1</url>
+         <critic>Ann Hornaday</critic>
+      </review>
+      <review>
+         <snippet>A relentless focus on action over character and story will leave more mainstream viewers cold.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1003118642</url>
+         <critic>Richard James Havis</critic>
+      </review>
+      <review>
+         <snippet>It's little more than a disjointed succession of kick-ass action scenes.</snippet>
+         <url>http://online.tvguide.com/newsearch/detail.aspx?tvobjectid=282463&amp;more=ucmoviereview</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>A general lack of charm make this pretty tough to sit through.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/7384_PROTECTOR.html</url>
+         <critic>Reece Pendleton</critic>
+      </review>
+      <review>
+         <snippet>Anytime Jaa isn't on screen, The Protector sputters.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-060908-movies-review-protector,0,7256495.story?coll=mmx-movies_top_heds</url>
+         <critic>Robert K. Elder</critic>
+      </review>
+      <review>
+         <snippet>The movie is basically a love story between a man and his elephant, and if viewed as such, it's not nearly as ridiculous as the movie it first appears to be.</snippet>
+         <url>http://ae.miami.com/entertainment/ui/miami/movie.html?id=684680&amp;reviewId=21439</url>
+         <critic>Peter Debruge</critic>
+      </review>
+      <review>
+         <snippet>Sadly, the greatness of Jaa's movements are drowned by an ocean of bad editing, terrible dubbing, disorienting action sequences, and repetitive fight sequences that feel as if they were copied straight from a side-scrolling videogame like "Streets of Rage."</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=9291</url>
+         <critic>Michael Ferraro</critic>
+      </review>
+      <review>
+         <snippet>This ludicrous Quentin Tarantino-chosen low-budget movie features choppy editing and an amateurish script, and it switches strangely back and forth between dubbing and subtitles.</snippet>
+         <url>http://www.nypost.com/entertainment/movies/shtick_kicker_movies_kyle_smith.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+   </reviews>
+   <US_Gross>$12,044,087</US_Gross>
+   <production_budget>$5,700,000</production_budget>
+   <weekend_gross>$5,034,180</weekend_gross>
+   <number_of_screens>1,541</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

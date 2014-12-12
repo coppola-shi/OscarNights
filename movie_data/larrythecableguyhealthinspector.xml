@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Larry the Cable Guy: Health Inspector</name>
+   <company>Lions Gate Films</company>
+   <genres>
+      <genre>Comedy</genre>
+   </genres>
+   <authors>
+      <author>Jonathan Bernstein</author>
+      <author>James Greer</author>
+   </authors>
+   <directors>
+      <director>Trent Cooper</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Larry The Cable Guy</actor>
+      <actor>Iris Bahr</actor>
+      <actor>Bruce Bruce</actor>
+      <actor>Joanna Cassidy</actor>
+      <actor>Brooke Dillman</actor>
+      <actor>Tony Hale</actor>
+      <actor>David Koechner</actor>
+      <actor>Lisa Lampanelli</actor>
+   </actors>
+   <release_date>March 24, 2006</release_date>
+   <running_time>89</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>It'll give fans exactly what they expect while passing unseen by anyone else.</snippet>
+         <url>http://www.laweekly.com/film-reviews/12967/film-reviews/</url>
+         <critic>Mark Olsen</critic>
+      </review>
+      <review>
+         <snippet>As an expat redneck, I recognize the deep, dumb need of every group for its own culturally customized minstrel show. Larry, a junker ''star'' vehicle run on arse wind and fan love, fills that niche.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1178158_1_0_,00.html</url>
+         <critic>Scott Brown</critic>
+      </review>
+      <review>
+         <snippet>Entirely comfortable as the crude character he has honed in countless stand-up routines and TV appearances, Larry the Cable Guy sustains a level of likeability that enables him to get away with a lot more than he has any right to. But, he remains very much an acquired taste.</snippet>
+         <url>http://www.variety.com/review/VE1117930036?categoryid=31&amp;cs=1</url>
+         <critic>Joe Leydon</critic>
+      </review>
+      <review>
+         <snippet>Folks watching any movie that opens with a shot of a butt crack (with the possible exception of "Lost in Translation") can't claim they weren't warned.</snippet>
+         <url>http://online.tvguide.com/movies/database/Movie-Review.asp?MI=46777</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>Larry offers enough scatological humor to fertilize the wheat fields in the star's home state of Nebraska.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/moviereviews/story/402823p-341077c.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>Toilet humor, jokes about paraplegics and serious overacting make this lowbrow comedy an irritating watch.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1002236915</url>
+         <critic>Richard James Havis</critic>
+      </review>
+      <review>
+         <snippet>You have to be a bit of an arrested adolescent to think "Larry" is funny.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-cableguy27weboct10,0,4498124.story</url>
+         <critic>John Anderson</critic>
+      </review>
+      <review>
+         <snippet>Though some of his one-liners are pretty good, his shtick can't sustain this dutifully scripted comedy. Megyn Price, who's done time on the sitcom Grounded for Life, is a welcome distraction as the waitress with a crush on Larry.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/29490_LARRY_THE_CABLE_GUY_HEALTH_INSPECTOR.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>Laughing at this turkey might not necessarily make you a redneck, but it sure does make you easily amused.</snippet>
+         <url>http://www.avclub.com/content/node/46833</url>
+         <critic>Nathan Rabin</critic>
+      </review>
+      <review>
+         <snippet>''Health Inspector" hopes to do for Larry what ''Ace Ventura: Pet Detective" did for Jim Carrey, who in this context looks like Noel Coward.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=8738</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>Unpleasant, uncouth and painfully unfunny..</snippet>
+         <url>http://movies2.nytimes.com/2006/03/28/movies/28cabl.html</url>
+         <critic>Jeannette Catsoulis</critic>
+      </review>
+      <review>
+         <snippet>This so-called comedy is so not funny, it makes "Deuce Bigalow: Male Gigolo" look like Chaplin.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2006/03/27/DDG2LHTSG51.DTL&amp;type=movies</url>
+         <critic>Ruthe Stein</critic>
+      </review>
+      <review>
+         <snippet>Virtually unwatchable and laugh-free.</snippet>
+         <url>http://www.nypost.com/movies/61441.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>I give this the BOMB!</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A349050</url>
+         <critic>Steve Davis</critic>
+      </review>
+   </reviews>
+   <US_Gross>$15,680,099</US_Gross>
+   <production_budget>$17,000,000</production_budget>
+   <weekend_gross>$6,922,767</weekend_gross>
+   <number_of_screens>1,710</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

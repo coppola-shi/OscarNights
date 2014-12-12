@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Happy Feet</name>
+   <company>Warner Bros. Pictures</company>
+   <genres>
+      <genre>Adventure</genre>
+      <genre>Animation</genre>
+      <genre>Comedy</genre>
+      <genre>FamilyKids</genre>
+      <genre>Musical</genre>
+   </genres>
+   <authors>
+      <author>Warren Coleman</author>
+      <author>John Collee</author>
+      <author>George Miller</author>
+      <author>Judy Morris</author>
+   </authors>
+   <directors>
+      <director>George Miller</director>
+   </directors>
+   <origins>
+      <origin>AustraliaUSA</origin>
+   </origins>
+   <actors>
+      <actor>Robin Williams</actor>
+      <actor>Hugh Jackman</actor>
+      <actor>Elijah Wood</actor>
+      <actor>Nicole Kidman</actor>
+      <actor>Brittany Murphy</actor>
+      <actor>Hugo Weaving</actor>
+      <actor>Johnny A. Sanchez</actor>
+      <actor>Carlos Alazraqui</actor>
+   </actors>
+   <release_date>November 17, 2006</release_date>
+   <running_time>87</running_time>
+   <rating>PG</rating>
+   <reviews>
+      <review>
+         <snippet>In the year of the animated movie, this one soars above them all.</snippet>
+         <url>http://www.nydailynews.com/11-17-2006/entertainment/col/story/472206p-397215c.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>Happy Feet is not only the year's best animated movie, it's one of the year's best movies, period. Go.</snippet>
+         <url>http://www.nypost.com/seven/11172006/entertainment/movies/ice_ice__baby__movies_lou_lumenick.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>You should see Happy Feet--not only because it's stupendous, but also because it features the best dancing you'll see on the screen this year.</snippet>
+         <url>http://nymag.com/movies/reviews/25009/index1.html</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>It's a gorgeously rendered marvel that pulls out all the stops to wow its viewers, but in spite of its crowd-pleasing ploys, it holds onto its integrity with a smart and surprisingly deep story.</snippet>
+         <url>http://www.avclub.com/content/node/55391</url>
+         <critic>Tasha Robinson</critic>
+      </review>
+      <review>
+         <snippet>What's truly surprising about Happy Feet is not its giddily brilliant entertainment, its intimate knowledge of the culture or its toe-tapping music. It's how commonplace these qualities have become in computer-animated movies… Happy Feet may be just one of the crowd, but what a great crowd it is.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1109478&amp;categories=Movies&amp;nm=1</url>
+         <critic>Desson Thomson</critic>
+      </review>
+      <review>
+         <snippet>An animated film that challenges preconceptions about the genre and foregoes the usual romance/adventure structure.</snippet>
+         <url>http://ae.charlotte.com/entertainment/ui/charlotte/movie.html;jsessionid=BAF85268626BD6E42DB4112D3FA93F46.prodapp12_ae_01?id=739683&amp;reviewId=21795&amp;startDate=11%2F17%2F2006</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>In a year rich with animation options, Happy Feet stands head and shoulders above its competition.</snippet>
+         <url>http://ae.miami.com/entertainment/ui/miami/movie.html?id=739683&amp;reviewId=21807</url>
+         <critic>Peter Debruge</critic>
+      </review>
+      <review>
+         <snippet>Miller's global harmonizing never feels preachy -- he's too busy cramming Happy Feet with enough entertainment for three movies.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/1163645749159250.xml&amp;coll=7</url>
+         <critic>M. E. Russell</critic>
+      </review>
+      <review>
+         <snippet>No film with as many elements as Happy Feet is successful with all of them, and the romantic-emotional elements of this story feel overly familiar. But the music and dancing are fresh and new, and this strong an ecological message has not been seen since Hayao Miyazaki's "Princess Mononoke."</snippet>
+         <url>http://www.calendarlive.com/printedition/calendar/cl-et-happy17nov17,0,3837030.story</url>
+         <critic>Kenneth Turan</critic>
+      </review>
+      <review>
+         <snippet>This animated all-penguin musical is terrific fun.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?JSESSIONID=FXS7Jx7P2Nv29NzDc2xnQJzsJgJbHBpXhpwyn1nGJ0HGVjNz2S2X!55466238&amp;&amp;rid=8229</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>One of the very best directed animated films on record. Not surprisingly from the force behind the "Babe" movies, the attention to detail is phenomenal, the humor ample.</snippet>
+         <url>http://www.variety.com/review/VE1117932092.html?categoryid=31&amp;cs=1&amp;p=0</url>
+         <critic>Todd McCarthy</critic>
+      </review>
+      <review>
+         <snippet>Antarctica is a beautiful blue paradise, and the final set piece, in which penguins and humans tap their way to a unity of green-minded spirit, is a small masterpiece of conciliatory wackiness.</snippet>
+         <url>http://www.laweekly.com/film+tv/film-reviews/film-reviews/15027/</url>
+         <critic>Ella Taylor</critic>
+      </review>
+      <review>
+         <snippet>The constant singing and dancing throughout is charmingly presented, and the CGI recreations of Antarctica are stunning.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A420081</url>
+         <critic>Marjorie Baumgarten</critic>
+      </review>
+      <review>
+         <snippet>A lot of director George Miller's film is gorgeous and exciting. Its craftsmanship and ambition put it a continent ahead of nearly every other animated feature of the last couple of years.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-061117-movies-review-happy,0,7927786.story?coll=mmx-movies_top_heds</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>Happy Feet ends on an upbeat note with singing and dancing, but the weaknesses that precede it deflate the euphoria.</snippet>
+         <url>http://www.reelviews.net/movies/h/happy_feet.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>A moderately adorable, musically wacky, ecologically activist CG family comedy.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1559783_1_0_,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>The dazzling animation, catchy songs and Broadway-worthy dance numbers give the film even broader appeal.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2006-11-16-review-happy-feet_x.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>The movie's an uncategorizable mixture of the tacky and profound, and on some weird level, you have to respect it.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=7819</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>Don't little ones have enough to worry about without ecological concerns popping up in family entertainment? Happy Feet should have stayed light on its feet.</snippet>
+         <url>http://sfgate.com/cgi-bin/article.cgi?f=/c/a/2006/11/17/DDGBHMDJFE1.DTL&amp;type=movies</url>
+         <critic>Ruthe Stein</critic>
+      </review>
+      <review>
+         <snippet>It's a movie that keeps flirting with greatness, but settles for being above average.</snippet>
+         <url>http://www.premiere.com/moviereviews/3270/happy-feet.html</url>
+         <critic>Ethan Alter</critic>
+      </review>
+      <review>
+         <snippet>Offers dazzling cinematic family fun, and a mad medley of tunes.</snippet>
+         <url>http://ae.philly.com/entertainment/ui/philly/movie.html?id=739683&amp;reviewId=21805</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>Overall, however, for a children's film, it hits all the major notes. Keep it musical, keep it lively, keep it cute and, you know, if you can, slip in a moral.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=9437</url>
+         <critic>Mark Bell</critic>
+      </review>
+      <review>
+         <snippet>The essence of this inventive though erratic animated feature is joyous music and eye-popping motion.</snippet>
+         <url/>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>While compromised by the uplift and affirmation that mainstream animation regurgitates like a mommy penguin, it also shows a remarkable persistence of vision. Even in a story about singing-and-dancing fat and feather, Mr. Miller can’t help but go dark and deep.</snippet>
+         <url>http://movies2.nytimes.com/2006/11/17/movies/17feet.html?ref=movies</url>
+         <critic>Manohla Dargis</critic>
+      </review>
+      <review>
+         <snippet>Unfortunately, once the "be yourself" story line is resolved (singing and dancing go together, who would have guessed?), the film is only half over.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/292637_feet17q.html</url>
+         <critic>Gianni Truzzi</critic>
+      </review>
+      <review>
+         <snippet>Funny moments can be found throughout, but it's mostly silly and scattered.</snippet>
+         <url>http://tvguide.com/detail/movie.aspx?tvobjectid=284444&amp;more=ucmoviereview</url>
+         <critic>Angel Cohn</critic>
+      </review>
+      <review>
+         <snippet>Small kids will love the waddlesome dancing and colourful animation, but older viewers will likely be disturbed by the story’s darker elements.</snippet>
+         <url>http://www.empireonline.com/reviews/review.asp?FID=132906</url>
+         <critic>Helen O&amp;#039;Hara</critic>
+      </review>
+      <review>
+         <snippet>This curious ecological parable was directed by George Miller (Babe: Pig in the City), who still has an eye and a sense of humor but on this particular outing can't get the script he wrote with three others to make much sense.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/30722_HAPPY_FEET.html</url>
+         <critic>Jonathan Rosenbaum</critic>
+      </review>
+      <review>
+         <snippet>Children, innocent as they are, may not yet have grown to loathe the actor's (Robin Williams) shtick, but you might like to know that he has two--yes, two--roles in this film.</snippet>
+         <url>http://www.villagevoice.com/film/0646,harper,75042,20.html</url>
+         <critic>Jordan Harper</critic>
+      </review>
+      <review>
+         <snippet>Let's just say this is a perfect film for penguin lovers who also are devoted members of the Green party - and leave it at that.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-to.happy17nov17,0,338404.story?coll=bal-movies-utility</url>
+         <critic>Chris Kaltenbach</critic>
+      </review>
+   </reviews>
+   <US_Gross>$198,000,317</US_Gross>
+   <production_budget>$85,000,000</production_budget>
+   <weekend_gross>$41,533,432</weekend_gross>
+   <number_of_screens>3,804</number_of_screens>
+   <oscar_winning_actors_present/>
+   <num_oscar_winning_actors>1</num_oscar_winning_actors>
+   <oscar_winning_actor>nicole kidman</oscar_winning_actor>
+   <highest_grossing_actors_present/>
+   <num_highest_grossing_actors>2</num_highest_grossing_actors>
+   <highest_grossing_actor>elijah wood</highest_grossing_actor>
+   <highest_grossing_actor>robin williams</highest_grossing_actor>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Law Abiding Citizen</name>
+   <company/>
+   <genres>
+      <genre>Drama</genre>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>Kurt Wimmer</author>
+   </authors>
+   <directors>
+      <director>F. Gary Gray</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Jamie Foxx</actor>
+      <actor>Gerard Butler</actor>
+      <actor>Bruce McGill</actor>
+      <actor>Colm Meaney</actor>
+      <actor>Leslie Bibb</actor>
+      <actor>Michael Irby</actor>
+      <actor>Regina Hall</actor>
+      <actor>Viola Davis</actor>
+   </actors>
+   <release_date>October 16, 2009</release_date>
+   <running_time>minutes,</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>One of those movies you like more at the time than in retrospect.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20091014/REVIEWS/910149996</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>The script does create sufficient tension and intrigue to hook viewers along with a photogenic, hardworking cast.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film-reviews/law-abiding-citizen-film-review-1004022798.story</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>That the film, directed in swift strokes by F. Gary Gray from a screenplay credited to Kurt Wimmer, doesn't really work - unrelentingly grim, unintentionally funny - is almost beside the point. It's a wild concept.</snippet>
+         <url>http://www.philly.com/philly/entertainment/movies/20091014_lawabidingcitizen.html</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>True torture-porn aficionados will be disappointed, as editor Tariq Anwar cuts away right before blade meets flesh -- a move that feels a tad, well, gutless under the circumstances. But elsewhere, "Citizen" proves startlingly graphic, even by R-rated standards.</snippet>
+         <url>http://www.variety.com/review/VE1117941383.html?categoryid=31&amp;cs=1</url>
+         <critic>Justin Chang</critic>
+      </review>
+      <review>
+         <snippet>Deep within Law Abiding Citizen lurks a thought-provoking movie. But most of what we see on the screen is implausible, superficial and only marginally involving.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2009-10-15-law-abiding-citizen_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>The payback in Law Abiding Citizen doesn't have a cathartic kick, because the revenge is so extreme it's horrifying.</snippet>
+         <url>http://www.miamiherald.com/entertainment/movies/reviews/story/1283666.html</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>The biggest problem with Law Abiding Citizen, however, is that the plot is just plain dumb.</snippet>
+         <url>http://www.reelviews.net/php_review_template.php?identifier=1825</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>LawAbiding Citizen smells a bit musty these days. Indeed, in an era when the debate has shifted from too little state vigilance to too damn much, this thing seems almost quaint.</snippet>
+         <url>http://www.theglobeandmail.com/news/arts/law-abiding-citizen/article1325027/</url>
+         <critic>Rick Groen</critic>
+      </review>
+      <review>
+         <snippet>The movie starts out as a potboiler with a troubling character arc; unfortunately, it ends up becoming a goofy, story-overwhelming Rube Goldberg contraption that would make the producers of the "Saw" series blush.</snippet>
+         <url>http://www.oregonlive.com/movies/index.ssf/2009/10/movie_review_law_abiding_citiz.html</url>
+         <critic>M. E. Russell</critic>
+      </review>
+      <review>
+         <snippet>Clyde is meant to be nuts, but too often it's Law Abiding Citizen that checks rationality at the door.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20312179,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>Law Abiding Citizen, ultimately and inappropriately, tips the scales in favor of the Man over mankind. Somebody call Charles Bronson.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A893447</url>
+         <critic>Marc Savlov</critic>
+      </review>
+      <review>
+         <snippet>We're supposed to be awed, but a more reasonable response is to giggle. How does a Kevlar tie kill? And if it can, why hasn't the CIA sent a Kevlar scarf to Osama bin Laden?</snippet>
+         <url>http://www.npr.org/templates/story/story.php?storyId=113747333</url>
+         <critic>Mark Jenkins</critic>
+      </review>
+      <review>
+         <snippet>The film's greatest sin isn't its cynical moral posturing but its complete failure to engage audiences on even a visceral level.</snippet>
+         <url>http://www.latimes.com/entertainment/news/la-et-law16-2009oct16,0,1755772.story</url>
+         <critic>Glenn Whipp</critic>
+      </review>
+      <review>
+         <snippet>Relentlessly ugly, preposterous and hackneyed of dialogue: guilty on all counts. It will do well, then.</snippet>
+         <url>http://www.empireonline.com/reviews/reviewcomplete.asp?FID=135959</url>
+         <critic>Angie Errigo</critic>
+      </review>
+      <review>
+         <snippet>Jeez, did the "surprise" climax have to be this eye-rollingly stupid?</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/30501864/review/30501875/law_abiding_citizen</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>A movie devoted to baroque revenge would be, on its own terms, acceptable; what makes Law Abiding Citizen so risible is its humorless conviction that it's got Big Ideas at its core.</snippet>
+         <url>http://www.washingtonpost.com/gog/movies/law-abiding-citizen,1158534/critic-review.html#reviewNum1</url>
+         <critic>Dan Kois</critic>
+      </review>
+      <review>
+         <snippet>Wears its preposterousness with a certain pride. It’s about the cat-and-mouse game between two very smart guys, and it’s perfectly happy to be as dumb as it wants.</snippet>
+         <url>http://movies.nytimes.com/2009/10/16/movies/16law.html?ref=movies</url>
+         <critic>A.O. Scott</critic>
+      </review>
+      <review>
+         <snippet>Such a lazy action-drama underachiever, it seems unfair to target stars Jamie Foxx and Gerard Butler for bringing their C game.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2009/10/16/2009-10-16_criminally_lame_jamie_foxx_gerard_butler_actioner_law_abiding_citizen_just_plain.html</url>
+         <critic>Joe Neumaier</critic>
+      </review>
+      <review>
+         <snippet>If the filmmakers meant a word of it, they'd quit making films and do something more useful. "Saw" with a conscience is not what the world needs.</snippet>
+         <url>http://www.villagevoice.com/2009-10-13/film/z-grade-revenge-thrills-in-law-abiding-citizen/</url>
+         <critic>Robert Wilonsky</critic>
+      </review>
+      <review>
+         <snippet>Butler has the showier part, but his impersonation of the tragic hero is undercut by his weird resemblance to Soupy Sales. You start hoping that Shelton will kill somebody with a custard (or puffer-fish) pie to the face.</snippet>
+         <url>http://www.time.com/time/arts/article/0,8599,1930672,00.html</url>
+         <critic>Richard Corliss</critic>
+      </review>
+      <review>
+         <snippet>Generally I don’t mind a little recreational fascism as long as it’s deep-fried in savory violent vengeance, but this overwrought mess gives vigilantism a bad name.</snippet>
+         <url>http://www.chicagoreader.com/chicago/MovieTimes?oid=977856</url>
+         <critic>Cliff Doerksen</critic>
+      </review>
+      <review>
+         <snippet>Vigilante movies hold a firm place in cinematic history, but for them to work, the vigilante needs to be a sympathetic anti-hero.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2009/10/15/MV6G1A5O8R.DTL</url>
+         <critic>Amy Biancolli</critic>
+      </review>
+      <review>
+         <snippet>A flagrantly ridiculous thriller that tries to retrofit "Saw" to function as a mainstream, semi-respectable vigilante picture</snippet>
+         <url>http://www.avclub.com/articles/law-abiding-citizen,34167/</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>Like a lot of action-movie directors, Gray lacks the imagination to view the art of cat-and-mouse as more than a chance to play with state-of-the-art war technology.</snippet>
+         <url>http://www.boston.com/ae/movies/articles/2009/10/16/in_law_abiding_citizen_revenge_never_seemed_so_bland/</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>A vigilante/torture-porn potpourri, is particularly toxic because it's scented with phony importance.</snippet>
+         <url>http://www.stltoday.com/stltoday/entertainment/reviews.nsf/movie/story/3AA7477803FBDCD28625764F006CA714?OpenDocument</url>
+         <critic>Joe Williams</critic>
+      </review>
+      <review>
+         <snippet>At last, the missing link be tween "Phantom of the Opera" and "Saw." Welcome to the gonzo revenge saga Law Abiding Citizen.</snippet>
+         <url>http://www.nypost.com/p/entertainment/movies/vigilante_nonsense_vBvl16X2Qh4YRPiTrFT5EL</url>
+         <critic>Kyle Smith</critic>
+      </review>
+   </reviews>
+   <US_Gross>$73,357,727</US_Gross>
+   <production_budget>$53,000,000</production_budget>
+   <weekend_gross>$21,039,502</weekend_gross>
+   <number_of_screens>2,890</number_of_screens>
+   <oscar_winning_actors_present/>
+   <num_oscar_winning_actors>1</num_oscar_winning_actors>
+   <oscar_winning_actor>jamie foxx</oscar_winning_actor>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

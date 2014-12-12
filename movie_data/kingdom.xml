@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Kingdom, The</name>
+   <company>Universal Pictures</company>
+   <genres>
+      <genre>Drama</genre>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>Matthew Michael Carnahan</author>
+   </authors>
+   <directors>
+      <director>Peter Berg</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Jamie Foxx</actor>
+      <actor>Jennifer Garner</actor>
+      <actor>Jason Bateman</actor>
+      <actor>Chris Cooper</actor>
+      <actor>Jeremy Piven</actor>
+      <actor>Brooke Langton</actor>
+      <actor>Frances Fisher</actor>
+   </actors>
+   <release_date>September 28, 2007</release_date>
+   <running_time>110</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>Berg doesn't let up on the tension, even when the action is bloodless.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-to.kingdom28sep28,0,1997531.story</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>Not quite as smart as it wants to be, and a better action movie than it is a political thriller, this is still a heart-pounding drama.</snippet>
+         <url>http://www.empireonline.com/reviews/reviewcomplete.asp?FID=134397</url>
+         <critic>Helen O&amp;#039;Hara</critic>
+      </review>
+      <review>
+         <snippet>Foxx is magnetic in the lead, and the subplot in which he bonds with his Saudi police liaison (Ashraf Barhom, giving the movie's best performance) is touching.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/333407_king28q.html</url>
+         <critic>William Arnold</critic>
+      </review>
+      <review>
+         <snippet>Though its violence is searing and brutal, the film, about four FBI agents investigating a terrorist attack in Saudi Arabia, shows a conscience and a brain, and if it explains things a bit simplistically at times, so much the better.</snippet>
+         <url>http://www.miamiherald.com/1054/story/251923.html</url>
+         <critic>Connie Ogle</critic>
+      </review>
+      <review>
+         <snippet>Director Peter Berg and first-time writer Matthew Michael Carnahan do a smooth, efficient job of storytelling most of the way.</snippet>
+         <url>http://ae.charlotte.com/entertainment/ui/charlotte/movie.html?id=947709&amp;reviewId=22680&amp;startDate=NEXT7</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>Overall, the film is smart and engaging, and if it plays a little on our fears of the next big terrorist attack, it does so without feeling exploitative.</snippet>
+         <url>http://www.reelviews.net/movies/k/kingdom2007.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>Matthew Michael Carnahan's caffeinated script isn't much concerned with balance, but it gets some anyway, from the resonant images of culture clash that Berg catches on the fly and a remarkable performance from Ashraf Barhom.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/10498754/review/16495819/the_kingdom</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>A realist thriller that mixes crowd-pleasing mayhem with provocative politics.</snippet>
+         <url>http://www.variety.com/review/VE1117934687.html?categoryid=31&amp;cs=1&amp;p=0</url>
+         <critic>John Anderson</critic>
+      </review>
+      <review>
+         <snippet>A timely--if tepid--fantasy of American vengeance on the Qutbian extremists of Saudi Arabia.</snippet>
+         <url>http://www.villagevoice.com/film/0739,hoberman,77870,20.html</url>
+         <critic>J. Hoberman</critic>
+      </review>
+      <review>
+         <snippet>Sensationally directed by Peter Berg, it’s a combination forensics detective movie (car bomb blows up secure American compound in Saudi Arabia--who dunnit and how can we stop him from doing it again?) and red-meat waste-the-terrorists action picture.</snippet>
+         <url>http://nymag.com/movies/reviews/38019/index1.html</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>As a genre movie, The Kingdom delivers atmosphere, heroic American derring-do and some decent thrills, though director Peter Berg's approximation of a jerky documentary style suffers from its proximity to the more textured "Bourne Ultimatum."</snippet>
+         <url>http://www.msnbc.msn.com/id/20920342/site/newsweek/</url>
+         <critic>David Ansen</critic>
+      </review>
+      <review>
+         <snippet>The Kingdom is distasteful in several obvious and irrefutable ways: For one thing, the idea of setting an action-thriller against terrorist activity that's all too close to real-life events is simply opportunistic and creepy.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2007/09/28/kingdom/index.html</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>The result is a slick, brutishly effective genre movie: “Syriana” for dummies. Which is not entirely a put-down.</snippet>
+         <url>http://movies.nytimes.com/2007/09/28/movies/28king.html</url>
+         <critic>A.O. Scott</critic>
+      </review>
+      <review>
+         <snippet>Director Peter Berg cannily hypes the tension and the sentiment in the only one of the current Middle East political movies designed to appeal to the action crowd. Hard truths are absorbed while stuff blows up.</snippet>
+         <url>http://www.time.com/time/magazine/article/0,9171,1666278,00.html</url>
+         <critic>Richard Corliss</critic>
+      </review>
+      <review>
+         <snippet>Wants to be both a hot-button, ripped-from-the-headlines statement movie and a crowd-pleasing, rip-roaring action thriller. It ends up meeting each goal about halfway.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/1190845536194860.xml&amp;coll=7</url>
+         <critic>Marc Mohan</critic>
+      </review>
+      <review>
+         <snippet>The filmmakers's attempts to balance out the gung-ho shoot-'em-ups with an overlay of "fairness" are rudimentary. The movie works us into a frenzy of righteous revenge, it makes us cheer each kill by the FBI warriors, and then it tells us that this violence only breeds more violence.</snippet>
+         <url>http://www.csmonitor.com/2007/0928/p11s01-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>Berg has an excellent eye for violent extravaganza and the action - especially a 10-15 minute set piece midway through - is as cleansing as a high colonic.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2007/09/28/2007-09-28_blast_action_heroes_take_saudi_power_tri.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>Director Peter Berg's frenetic style heightens tension and a sense of disorientation. But some will find its chaotic quality dizzying and off-putting.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2007-09-27-kingdom_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>The movie ends on a plaintive can’t-we-all-get-along note, but at heart it’s a Charles Bronson flick. It mashes the revenge button the real world won’t let us push.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=9228</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>The Kingdom has a heart and a viewpoint. It’s a thrill ride with a lingering thought or two in its wake. But the explosions, breakneck chases, daredevil escapes and predictability about which side will be victorious remain its foremost mission.</snippet>
+         <url>http://chicago.metromix.com/movies/movie_review/movie-review-the-kingdom/209140/content</url>
+         <critic>Sid Smith</critic>
+      </review>
+      <review>
+         <snippet>Peter Berg's fast-talking and unnecessarily complicated tale of Middle East terrorism is more smoke and mirrors than meat. It may come on like Syriana, but it boils down to little more than a diverting episode of "CSI: Riyadh."</snippet>
+         <url>http://www.tvguide.com/movies/kingdom/review/290659</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>Ultimately, this jingo-bingo action thriller squarely hits its target, then delivers a delayed-action message contrary to everything that has preceded it. Berg heroizes the plucky Americans, but in the closing scenes of his ripping action flick, sucker-punches them. It's as if this populist Syriana frags itself.</snippet>
+         <url>http://www.philly.com/inquirer/columnists/carrie_rickey/20070928_Action_thriller_moves_at_a_furious_clip.html</url>
+         <critic>Carrie Rickey</critic>
+      </review>
+      <review>
+         <snippet>THE Kingdom has some power but not enough sense. A ripped-from-today's-headlines thriller, it wants us to feel as if we're watching something relevant when what's really going on is a slick excuse for efficient mayhem that's not half as smart as it would like to be.</snippet>
+         <url>http://www.calendarlive.com/movies/turan/cl-et-kingdom28sep28,0,6634156.story</url>
+         <critic>Kenneth Turan</critic>
+      </review>
+      <review>
+         <snippet>A thumper of a movie, full of furious souls.</snippet>
+         <url>http://www.newyorker.com/arts/critics/cinema/2007/10/01/071001crci_cinema_lane</url>
+         <critic>Anthony Lane</critic>
+      </review>
+      <review>
+         <snippet>Berg's movie is no more than an action movie with an exotic backdrop. That would be fine, if only the movie were more exciting. It succeeds neither as a pointed political commentary nor as a taut thriller.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/imdb/reviews/article_display.jsp?rid=9801&amp;vnu_special_account_code=thrsiteimdbpro</url>
+         <critic>Stephen Farber</critic>
+      </review>
+      <review>
+         <snippet>If the jingoism that permeates the latter half of The Kingdom does not sufficiently sour the experience of watching it, then the film's closing sentiments about the eternality of vengeance will surely do the trick.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A542097</url>
+         <critic>Marjorie Baumgarten</critic>
+      </review>
+      <review>
+         <snippet>The Kingdom is essentially "C.S.I.: Riyadh," starring Jamie Foxx in yet another movie his Oscar statue will watch with shame.</snippet>
+         <url>http://dallasobserver.com/2007-09-27/film/shooting-blanks/</url>
+         <critic>Robert Wilonsky</critic>
+      </review>
+      <review>
+         <snippet>The Kingdom is a barely coherent compendium of Middle East fantasies, fears and doubts.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20070927.kingdom28nat/BNStory/Entertainment/home</url>
+         <critic>Liam Lacey</critic>
+      </review>
+      <review>
+         <snippet>“Syriana's” dumber, louder cousin.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=10311</url>
+         <critic>Pete Vonder Haar</critic>
+      </review>
+      <review>
+         <snippet>The Kingdom comes down to a police procedural, and one whose procedures prove none too interesting.</snippet>
+         <url>http://online.wsj.com/article/SB119093399274741863.html</url>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>The opening is spectacular, but the rest is fairly routine.</snippet>
+         <url>http://sfgate.com/cgi-bin/article.cgi?f=/c/a/2007/09/28/DDBHSEIDK.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>The heroes of Peter Berg's gung-ho retribution tale are fighting the terrorists over there so we don't have to fight them here, but his film is indulging in a queasy brand of escapism. Winning imaginary wars isn't the same as winning real ones, but The Kingdom nonetheless smells like victory.</snippet>
+         <url>http://www.avclub.com/content/cinema/the_kingdom</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>One electrifying performance becomes the only saving grace of The Kingdom, a goofy action movie that tries to marry the blitzkrieg entertainment of "Rambo" to the cultural consciousness of "Syriana."</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1131820&amp;categories=Movies&amp;nm=1</url>
+         <critic>Desson Thomson</critic>
+      </review>
+      <review>
+         <snippet>So shameless is The Kingdom, ignoring consequence and treating its audience like cash-dispensing machines with buttons to be pushed rather than thinking individuals willing to consider the reality of America's entanglement with the Middle East.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20058666,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>The opening montage raises expectations of a serious, politically incisive depiction of the region. What we actually get is an offensively pandering, Bruckheimer-esque riff on the real-life Khobar Towers bombing of 1996, a Saudi Hezbollah attack that killed 19 Americans.</snippet>
+         <url>http://www.nypost.com/seven/09282007/entertainment/movies/the_king_dumb.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>Its climactic highway shootout, and much else in the picture, is rendered in the best Paul Greengrass manner that Hollywood money can buy. But where Greengrass pictures aim to keep one on the edge of one's seat throughout, the tension here, such as it is, is designed to stoke audience bloodlust. If that's your kind of thing, The Kingdom certainly satisfies.</snippet>
+         <url>http://www.premiere.com/moviereviews/4105/the-kingdom.html</url>
+         <critic>Glenn Kenny</critic>
+      </review>
+      <review>
+         <snippet>At its core this is just another piece of big-studio nothingness. The characters are so underwritten they barely qualify as types, and the movie is badly paced, bookended by high-ordnance action sequences but painfully static in the middle.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/capsules/32088_KINGDOM</url>
+         <critic>J.R. Jones</critic>
+      </review>
+   </reviews>
+   <US_Gross>$47,467,250</US_Gross>
+   <production_budget>$72,500,000</production_budget>
+   <weekend_gross>$17,135,055</weekend_gross>
+   <number_of_screens>2,793</number_of_screens>
+   <oscar_winning_actors_present/>
+   <num_oscar_winning_actors>1</num_oscar_winning_actors>
+   <oscar_winning_actor>jamie foxx</oscar_winning_actor>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Sherman&amp;#039;s Way</name>
+   <company>Starry Night Entertainment</company>
+   <genres>
+      <genre>Comedy</genre>
+   </genres>
+   <authors>
+      <author>Tom Nance</author>
+   </authors>
+   <directors>
+      <director>Craig Saavedra</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>James LeGros</actor>
+      <actor>Donna Murphy</actor>
+      <actor>Michael Shulman</actor>
+      <actor>Enrico Colantoni</actor>
+      <actor>Brooke Nevin</actor>
+   </actors>
+   <release_date>March 6, 2009</release_date>
+   <running_time>minutes,</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>The director, Craig Saavedra, generates surprising warmth from the familiar tropes of the odd-couple road movie. Shooting mostly in the verdant sweep of California's wine country -- and with a superb supporting cast -- he allows Mr. Le Gros room to engage.</snippet>
+         <url>http://movies.nytimes.com/2009/03/06/movies/06sher.html?ref=movies</url>
+         <critic>Jeannette Catsoulis</critic>
+      </review>
+      <review>
+         <snippet>An agreeable tone and cast make Sherman’s Way go down easy.</snippet>
+         <url>http://www.variety.com/review/VE1117936478.html?categoryid=31&amp;cs=1&amp;query=sherman%27s+way</url>
+         <critic>Dennis Harvey</critic>
+      </review>
+      <review>
+         <snippet>Never too dreary, Sherman's Way is a pleasant drama-comedy that's just fun to watch, much like a laid-back drive during the summer; it's not about where you're going, or how you'll get there, but just about how it feels to be in the car driving.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=10804</url>
+         <critic>Mark Bell</critic>
+      </review>
+      <review>
+         <snippet>The film simply has too many tiredly predictable elements for its own good, and despite the handsome cinematography of the extremely picturesque California locations, "Sherman's" never really finds its way.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film-reviews/film-review-sherman-s-way-1003949550.story</url>
+         <critic>Frank Scheck</critic>
+      </review>
+      <review>
+         <snippet>The film is confidently polished, and thankfully more sweet-tempered than preachy, given that every narrative thread has an underlying theme of social injustice.</snippet>
+         <url>http://www.laweekly.com/2009-03-12/film-tv/movie-reviews-miss-march-race-to-witch-mountain-sunshine-cleaning/2</url>
+         <critic>Aaron Hillis</critic>
+      </review>
+      <review>
+         <snippet>It's lost-in-life meets lust-for-life in the reliably regenerative wine country, which means most moviegoers could hand this emotionally stranded odd couple a road map of where they'll be by the closing credits.</snippet>
+         <url>http://www.latimes.com/entertainment/news/reviews/la-et-capsules13-2009mar13,0,5014281.story</url>
+         <critic>Robert Abele</critic>
+      </review>
+      <review>
+         <snippet>Coming-of-age road trips have rarely been more tedious or predictable.</snippet>
+         <url>http://www.nypost.com/seven/03062009/entertainment/movies/shermans_way_158311.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>Plays like something out of an indie-film paint-by-numbers.</snippet>
+         <url>http://www.villagevoice.com/2009-03-04/film/sherman-s-way-plays-like-a-rinky-dink-redo-of-eastbound-down/</url>
+         <critic>Robert Wilonsky</critic>
+      </review>
+      <review>
+         <snippet>Unfortunately, this strained comedy relies entirely on clichés and contrivances to tell the story of Sherman.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2009/03/06/2009-03-06_short_takes_tokyo_explicit_ills.html?page=1</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+   </reviews>
+   <US_Gross>$9,626</US_Gross>
+   <weekend_gross>$2,789</weekend_gross>
+   <number_of_screens>1</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

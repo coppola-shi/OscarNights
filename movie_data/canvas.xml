@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Canvas</name>
+   <company>Screen Media Films</company>
+   <genres>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author>Joseph Greco</author>
+   </authors>
+   <directors>
+      <director>Joseph Greco</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Joe Pantoliano</actor>
+      <actor>Marcia Gay Harden</actor>
+      <actor>Devon Gearhart</actor>
+      <actor>Sophia Bairley</actor>
+      <actor>Marcus Johns</actor>
+      <actor>Antony Del Rio</actor>
+   </actors>
+   <release_date>October 12, 2007</release_date>
+   <running_time>101</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>This autobiographical tale of a 10-year-old boy coping with his mother's severe illness boasts terrific performances from its three leads -- Joe Pantoliano, Marcia Gay Harden and young Devon Gearhart.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?&amp;rid=8503</url>
+         <critic>Frank Scheck</critic>
+      </review>
+      <review>
+         <snippet>First-rate performances, an uncompromising point of view and a fresh take on a well-worn movie subject -- madness.</snippet>
+         <url>http://www.variety.com/review/VE1117932198.html?categoryid=31&amp;cs=1&amp;p=0</url>
+         <critic>John Anderson</critic>
+      </review>
+      <review>
+         <snippet>Harden and Pantoliano (especially) can be two of the most over-the-top performers in the business, but they don't strike a false note in Canvas - and neither does this heartbreaking movie.</snippet>
+         <url>http://www.nypost.com/seven/10122007/entertainment/movies/painted_into_a_corner.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>Marcia Gay Harden finds a fine balance between madness and the temptations of overacting. Yes, she runs wild sometimes, but always as a human being, not as a caricature.</snippet>
+         <url>http://www.rogerebert.com/apps/pbcs.dll/article?AID=/20071011/REVIEWS/710110301/1023</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>A movie that rings emotionally true, despite structural contrivances and dim, washed-out color.</snippet>
+         <url>http://movies.nytimes.com/2007/10/12/movies/12canv.html?ref=movies</url>
+         <critic>Stephen Holden</critic>
+      </review>
+      <review>
+         <snippet>Greco's sincerity is so palpable that the frequent uplift feels deserved, but with just-passable filmmaking and the demeaning score, Canvas falls somewhere between powerful indie and made-for-TV diversion.</snippet>
+         <url>http://www.villagevoice.com/film/0741,hillis,78006,20.html</url>
+         <critic>Aaron Hillis</critic>
+      </review>
+      <review>
+         <snippet>Canvas is a thoughtful, sweet film that handles its difficult topic--schizophrenia--with tact and tenderness.</snippet>
+         <url>http://chicago.metromix.com/movies/movie_review/movie-review-canvas/220102/content</url>
+         <critic>Sid Smith</critic>
+      </review>
+      <review>
+         <snippet>Often rings painfully true, but would have benefited from judicious editing.</snippet>
+         <url>http://www.tvguide.com/movies/canvas/review/290619</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>Though Harden has the showier role, a subdued Pantoliano is the movie's real star. Sometimes, the quietest performances are the most powerful.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2007/10/12/2007-10-12_short_takes_more_movie_reviews.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>A sincere, slow-paced drama about a Florida family dealing with schizophrenia, Canvas is never terribly convincing, despite being inspired by writer-director Joseph Greco's life growing up with a mentally ill mother.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-capsules19oct19,0,7925460.story?coll=cl-mreview</url>
+         <critic>Staff (Not credited)</critic>
+      </review>
+   </reviews>
+   <US_Gross>$35,630</US_Gross>
+   <weekend_gross>$13,100</weekend_gross>
+   <number_of_screens>2</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

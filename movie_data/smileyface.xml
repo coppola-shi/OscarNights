@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Smiley Face</name>
+   <company>First Look Pictures</company>
+   <genres>
+      <genre>Comedy</genre>
+   </genres>
+   <authors>
+      <author>Dylan Haggerty</author>
+   </authors>
+   <directors>
+      <director>Gregg Araki</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Anna Faris</actor>
+      <actor>Adam Brody</actor>
+      <actor>John Krasinski</actor>
+      <actor>John Cho</actor>
+      <actor>Jane Lynch</actor>
+   </actors>
+   <release_date>November 16, 2007</release_date>
+   <running_time>88</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>On the plus side, 100 percent sober when I watched it, I can say with some authority that Dylan Haggerty has written an eleventh-hour candidate for the funniest movie of 2007, that Gregg Araki has directed his finest film since 1997's "Nowhere," and that Faris, flawless, rocks their inspired idiot odyssey in a virtuoso comedic turn.</snippet>
+         <url>http://www.villagevoice.com/film/0752,lee,78720,20.html</url>
+         <critic>Nathan Lee</critic>
+      </review>
+      <review>
+         <snippet>Uproarious pothead comedy.</snippet>
+         <url>http://www.laweekly.com/film+tv/film-reviews/film-reviews-smiley-face-beowulf-confessions-of-a-superhero-om-shanti-om/17696/?page=2</url>
+         <critic>Staff (Not credited)</critic>
+      </review>
+      <review>
+         <snippet>Gregg Araki's delirious Smiley Face is an unabashed valentine to Anna Faris, an opportunity for the actress to show that she can carry a movie composed of often hilarious nonstop misadventures.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-smiley16nov16,0,233536.story?coll=cl-mreview</url>
+         <critic>Kevin Thomas</critic>
+      </review>
+      <review>
+         <snippet>It's a fittingly loose, shambling little nothing of a comedy that's occasionally inspired, but at least a draft or two short of its potential. Still, it's a pleasure to watch Faris--a gifted, likeable comedian who tends to be the best element of many terrible movies.</snippet>
+         <url>http://www.avclub.com/content/cinema/smiley_face</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>Working from a script by TV actor Dylan Haggerty, Araki manages to capture what he's been trying to say all along about the lives of the stoned and indifferent with the kind of effortlessness those earlier attempts sorely lacked.</snippet>
+         <url>http://www.tvguide.com/movies/smiley-face/review/287464</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>Despite its laid-back script, “Smiley Face” is as prankishly political as Mr. Araki’s “Doom Generation,” evincing a deep unease with the media-saturated capitalist nation that Jane crawls inside her bong to escape.</snippet>
+         <url>http://movies.nytimes.com/2007/12/26/movies/26smil.html?ref=movies</url>
+         <critic>Matt Zoller Seitz</critic>
+      </review>
+      <review>
+         <snippet>This movie is all over the place. One giant discombobulated stoner trip that goes from one obscure adventure to another. And you know what? It is quite a fun, odd journey.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=9599</url>
+         <critic>Zack Haddad</critic>
+      </review>
+      <review>
+         <snippet>This is a midnight stoner movie if there ever was one.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2007/12/26/2007-12-26_anna_faris_is_high_point_of_smiley_face.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>A sterling space cadet performance by Anna Faris floats the genial if slight pothead comedy Smiley Face, a distaff "Dude, Where's My Car?"</snippet>
+         <url>http://www.variety.com/index.asp?layout=festivals&amp;jump=review&amp;reviewid=VE1117932587&amp;cs=1&amp;p=0</url>
+         <critic>Dennis Harvey</critic>
+      </review>
+   </reviews>
+   <US_Gross>$9,397</US_Gross>
+   <weekend_gross>$5,993</weekend_gross>
+   <number_of_screens>1</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

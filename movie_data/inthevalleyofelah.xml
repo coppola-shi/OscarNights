@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>In the Valley of Elah</name>
+   <company>Warner Independent Pictures</company>
+   <genres>
+      <genre>Drama</genre>
+      <genre>SuspenseThriller</genre>
+      <genre>War</genre>
+   </genres>
+   <authors>
+      <author>Mark Boal</author>
+      <author>Paul Haggis</author>
+   </authors>
+   <directors>
+      <director>Paul Haggis</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Tommy Lee Jones</actor>
+      <actor>Susan Saron</actor>
+      <actor>Charlize Theron</actor>
+      <actor>James Franco</actor>
+      <actor>Josh Brolin</actor>
+      <actor>Jason Patric</actor>
+      <actor>Frances Fisher</actor>
+   </actors>
+   <release_date>September 14, 2007</release_date>
+   <running_time>114</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>It's the first Hollywood Iraq movie to remind me of a Vietnam film like Coming Home, and it does more than disturb. It scalds, moves, and heals.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20054819,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>Paul Haggis' In the Valley of Elah is built on Tommy Lee Jones' persona, and that is why it works so well. The same material could have been banal or routine with an actor trying to be "earnest" and "sincere."</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20070913/REVIEWS/709130304</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>For the most part it is an effective, disturbing and - a rarity for Haggis - subtle exploration of the stateside war story.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2007/09/14/DD3GS1EI9.DTL&amp;type=movies</url>
+         <critic>Tamara Straus</critic>
+      </review>
+      <review>
+         <snippet>A deeply reflective, quietly powerful work that is as timely as it is moving.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/imdb/reviews/article_display.jsp?rid=9699&amp;vnu_special_account_code=thrsiteimdbpro</url>
+         <critic>Michael Rechtshaffen</critic>
+      </review>
+      <review>
+         <snippet>Tommy Lee Jones is marvelous in the film. He has one scene in particular, a simple two-person encounter, that's as good as it gets in the realm of American screen acting.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-070914-movies-review-elah,0,1455751.story?coll=mmx-movies_top_heds</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>A rare blend of emotional content and intelligent material that makes it simultaneously gut-wrenching and thought-provoking.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2007-09-13-review-valley-elah_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>Theron is very good as a woman struggling for respect in a sexist environment. There are also small but telling performances by Susan Sarandon as Hank's worried wife, and Frances Fisher as a topless bartender who aids in the investigation.</snippet>
+         <url>http://www.nypost.com/seven/09142007/entertainment/movies/fathers_grief_digs_up_wars_ske.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>Transcends politics and forces us to consider just what it is we ask of young people who answer the call to duty.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/1190238930242520.xml&amp;coll=7</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>One of the best films of 2007 but I wonder if it’s difficult message will turn away filmgoers. Haggis has constructed a very bitter pill that needs to be swallowed, especially by hardcore pro-war Americans.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=10305</url>
+         <critic>Don R. Lewis</critic>
+      </review>
+      <review>
+         <snippet>Tense, powerful and considerably less crass than "Crash," Elah may be jammed with ideas that don’t all connect, but Jones’ devastating performance makes this a compassionate and very human look at the Iraq conflict.</snippet>
+         <url>http://www.empireonline.com/reviews/reviewcomplete.asp?FID=135251</url>
+         <critic>William Thomas</critic>
+      </review>
+      <review>
+         <snippet>No one could mistake the movie for a documentary, but the picture has some of the rectitude of a good documentary--a tone of plainness without flatness.</snippet>
+         <url>http://www.newyorker.com/arts/critics/cinema/2007/09/24/070924crci_cinema_denby</url>
+         <critic>David Denby</critic>
+      </review>
+      <review>
+         <snippet>This is a sad, subtle and very good movie, designed not so much to make you think, but to make you feel the impact of large events on little lives.</snippet>
+         <url>http://www.time.com/time/arts/article/0,8599,1661963,00.html</url>
+         <critic>Richard Schickel</critic>
+      </review>
+      <review>
+         <snippet>The haunting, heart-piercing Elah isn't perfect. It's something better: essential.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/14216869/review/16496976/in_the_valley_of_elah</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>Haggis drops exclamation points after his symbolic gestures, but in the rush to drive home his message on the confused mission in Iraq he offers a queasy revisionism that all but denies the legacy of Vietnam. Considering Deerfield is a Vietnam vet, it feels doubly false.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/331560_elah14q.html</url>
+         <critic>Sean Axmaker</critic>
+      </review>
+      <review>
+         <snippet>Haggis' earnest and eloquent film about the impact of the war in Iraq on U.S. soldiers, and by extension, their nation, is human-scaled. And as deep and harrowed as Jones' crevassed face.</snippet>
+         <url>http://www.philly.com/philly/entertainment/movies/20070921_Fathers_search_personalizes_war.html</url>
+         <critic>Carrie Rickey</critic>
+      </review>
+      <review>
+         <snippet>Though the portentous title is taken from the Old Testament -- Elah is where little David took on Goliath -- the film's concerns are painfully timely and forcefully articulated.</snippet>
+         <url>http://www.tvguide.com/detail/movie.aspx?tvobjectid=290472&amp;more=ucmoviereview</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>Where "Crash" relentlessly pushed every conflict to a fever pitch, Elah takes its cues from Tommy Lee Jones' low-simmering lead performance.</snippet>
+         <url>http://www.avclub.com/content/cinema/in_the_valley_of_elah</url>
+         <critic>Nathan Rabin</critic>
+      </review>
+      <review>
+         <snippet>It's the casting of Iraq vet and non-professional Jake McLaughlin as Specialist Bonner, who fought alongside Deerfield's son in Iraq, that strikes a deeper emotional chord. His scenes with Jones, fraught with a complicated mix of bitterness, concern and guilt, are the best things in the movie.</snippet>
+         <url>http://www.msnbc.msn.com/id/20629908/site/newsweek/</url>
+         <critic>David Ansen</critic>
+      </review>
+      <review>
+         <snippet>As a narrative, it’s clunky. As a whodunit, it’s third-rate. As the drama of a closed-off man’s awakening, it’s predictable. But Haggis has got hold of a fiercely urgent subject: the moral devastation of American soldiers serving in (and coming home from) Iraq. At its heart are deeper mysteries--and a tragedy that reaches far beyond anything onscreen.</snippet>
+         <url>http://nymag.com/movies/reviews/37248/</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>Searing drama that uses the police procedural to explore the moral and psychological devastation of the Iraq war for U.S. soldiers (and, incidentally, for Iraqi citizens).</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/critic.html#32090</url>
+         <critic>Jonathan Rosenbaum</critic>
+      </review>
+      <review>
+         <snippet>As the movie moves through its murder mystery mode and begins racking up political points, Hank becomes a stand-in for all those Americans bewildered and beleaguered by the war. He becomes a Symbol.</snippet>
+         <url>http://www.csmonitor.com/2007/0914/p11s02-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>So instead of a nice, clean movie about parental regret we’re forced to suffer through an unnecessary biblical metaphor stretched way past its limits of applicability and a bit with an American flag that turns Deerfield from a human being suffering a crisis of conscience into a hollow symbol of a country in a state of political disenchantment.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A539679</url>
+         <critic>Josh Rosenblatt</critic>
+      </review>
+      <review>
+         <snippet>Journalists have a saying for someone who neglects or downplays the most important part of a news story: He buried the lead. That's what Paul Haggis does with "In the Valley of Elah," which submerges two important storylines beneath a pointless, unsatisfying whodunit.</snippet>
+         <url>http://ae.charlotte.com/entertainment/ui/charlotte/movie.html?id=952150&amp;reviewId=22676&amp;startDate=NEXT7</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>In the Valley of Elah dearly wants to be the Iraq war's counterpart to "Coming Home," documenting the tragic domestic legacy of a misguided foreign conflict. Wants to be, but isn't.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20070920.welah0921/BNStory/Entertainment/home</url>
+         <critic>Rick Groen</critic>
+      </review>
+      <review>
+         <snippet>The last scene of In the Valley of Elah may be the most ridiculously ham-fisted and over-the-top moment in all of 2007’s supposed prestige cinema.</snippet>
+         <url>http://www.reelviews.net/movies/i/in_valley.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>What Haggis obviously wants to explore is what the war in Iraq is doing to the humanity of our soldiers there. By approaching it indirectly, he simplifies it to a degree that I expect will anger many Iraq veterans.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2007/09/14/2007-09-14_back_from_iraq_the_horror_really_starts_.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>Paul Haggis switches from the problem of racism to the problem of Iraq. The war is a better fit. None of the exasperating guilt on display in "Crash" has made it into In the Valley of Elah, a solidly made genre movie: the Army mystery.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=10183</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>However you judge the movie’s politics, and whatever its flaws, there is something inarguable, something irreducibly honest and right, about Mr. Jones’s performance.</snippet>
+         <url>http://movies.nytimes.com/2007/09/14/movies/14elah.html?ref=movies</url>
+         <critic>A.O. Scott</critic>
+      </review>
+      <review>
+         <snippet>In the Valley of Elah is too inept and diffuse to be a howl against the war in Iraq. At best, it is a manly whimper.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-to.valley21sep21,0,4283218.story</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>Great actors can do more than carry a movie on the strength of their performances: They can also elevate it to a height it does not necessarily merit, and for much of In the Valley of Elah, Tommy Lee Jones does exactly that.</snippet>
+         <url>http://www.miamiherald.com/1054/story/243980.html</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>The more I thought about it, the less I liked what it turned out to be -- a vague promise unkept.</snippet>
+         <url>http://online.wsj.com/article/SB118972041029826727.html</url>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>The characters in this somber film have the glum look of individuals delivering a Very Important Message to the world. And though this film in fact does have something crucial to convey, this is not the way to go about it.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-elah14sep14,0,7759701.story?coll=cl-mreview</url>
+         <critic>Kenneth Turan</critic>
+      </review>
+      <review>
+         <snippet>In my cut of the film, it ends after Jones opens the parcel from his son that's been sitting on his kitchen table since shortly after he left. I recommend viewers leave the theater at that point. You won't be sorry that you did.</snippet>
+         <url>http://www.premiere.com/moviereviews/4069/in-the-valley-of-elah.html</url>
+         <critic>Glenn Kenny</critic>
+      </review>
+      <review>
+         <snippet>Too self-serious to work as a straight-ahead whodunit and too lacking in imagination to realize its art-film aspirations.</snippet>
+         <url>http://www.variety.com/VE1117934532.html</url>
+         <critic>Robert Koehler</critic>
+      </review>
+      <review>
+         <snippet>Elah comes packaged as a feverish murder mystery groaning beneath too many subplots and the added weight of a strained David and Goliath allegory.</snippet>
+         <url>http://www.villagevoice.com/film/0737,various,77754,20.html</url>
+         <critic>Ella Taylor</critic>
+      </review>
+      <review>
+         <snippet>Haggis also appears to have no respect for his audience. At its crudest, the film settles for agitprop...it's no Hollywood guy's call, particularly as he's extrapolating from a single case that could have occurred anywhere, at any time.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1135368&amp;categories=Movies&amp;nm=1</url>
+         <critic>Stephen Hunter</critic>
+      </review>
+      <review>
+         <snippet>The movie chickens out. In the Valley of Elah could have been really interesting -- and really daring -- if it had focused on Hank's realization that his own child, supposedly a good kid, had perhaps committed the kinds of atrocities that would make any decent human being recoil. The movie (which Haggis also wrote) dances around that territory, but doesn't dare to march straight into its terrifying maw.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2007/09/14/elah/</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+   </reviews>
+   <US_Gross>$6,777,741</US_Gross>
+   <production_budget>$23,000,000</production_budget>
+   <weekend_gross>$133,557</weekend_gross>
+   <number_of_screens>9</number_of_screens>
+   <oscar_winning_actors_present/>
+   <num_oscar_winning_actors>1</num_oscar_winning_actors>
+   <oscar_winning_actor>charlize theron</oscar_winning_actor>
+   <highest_grossing_actors_present/>
+   <num_highest_grossing_actors>1</num_highest_grossing_actors>
+   <highest_grossing_actor>tommy lee jones</highest_grossing_actor>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

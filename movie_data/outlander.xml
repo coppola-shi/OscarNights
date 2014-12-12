@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Outlander</name>
+   <company>The Weinstein Company</company>
+   <genres>
+      <genre>Adventure</genre>
+      <genre>Scifi</genre>
+   </genres>
+   <authors>
+      <author>Howard Mc</author>
+      <author>Cain</author>
+      <author>Dirk Blackman</author>
+   </authors>
+   <directors>
+      <director>Howard Mc</director>
+      <director>Cain</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>James Caviezel</actor>
+      <actor>John Hurt</actor>
+      <actor>Ron Perlman</actor>
+      <actor>Sophia Myles</actor>
+   </actors>
+   <release_date>January 23, 2009</release_date>
+   <running_time>minutes,</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>It's entertaining nonsense with major league special effects, larger-than-life characters and inventive monsters that draw on the "Aliens" and "Predator" models, being terrifying but also vaguely sympathetic.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?rid=11524</url>
+         <critic>Ray Bennett</critic>
+      </review>
+      <review>
+         <snippet>Surprise number one: It's smarter than it looks. Surprise number two: That doesn't entirely ruin it as an action film.</snippet>
+         <url>http://www.avclub.com/articles/outlander,22962/</url>
+         <critic>Tasha Robinson</critic>
+      </review>
+      <review>
+         <snippet>An enjoyably goofy hybrid of extraterrestrial sci-fi and Iron Age action, Outlander boasts a super-serious Jim Caviezel in the title role</snippet>
+         <url>http://www.philly.com/inquirer/columnists/steven_rea/20090123_Merging_extraterrestrial_sci-fi_with_some_Viking-age_action.html</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>If only Outlander was as fun as the premise makes it sound on paper.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/397082_outlander23q.html</url>
+         <critic>Sean Axmaker</critic>
+      </review>
+      <review>
+         <snippet>Not helped by a wooden perf from Jim Caviezel as a humanoid alien who accidentally imports a real alien to eighth-century Earth.</snippet>
+         <url>http://www.variety.com/review/VE1117937994.html?categoryid=31&amp;cs=1&amp;query=outlander</url>
+         <critic>Derek Elley</critic>
+      </review>
+      <review>
+         <snippet>Outlander is interesting as a collision of genres: the monster movie meets the Viking saga. You have to give it credit for carrying that premise to its ultimate (if not logical) conclusion.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20090121/REVIEWS/901219991</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>The nuttiest hunk of junk in many months.</snippet>
+         <url>http://www.chicagotribune.com/entertainment/movies/chi-0123-outlander-reviewjan23,0,2233194.story</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>By taking nonsense seriously Outlander never achieves camp. It's a comic book that's mistaken itself for scripture.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=12949</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>There isn't a single scene in this story about a traveler from another planet (Jim Caviezel) who crash-lands on Earth during the Iron Age that doesn't remind you of another, better movie.</snippet>
+         <url>http://www.miamiherald.com/entertainment/movies/reviews/story/866147.html</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>In its second half, Outlander falls apart completely, becoming nothing but a violent, mindless monster movie along the lines of "Alien vs. Predator."</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2009/01/22/DD2915DQIJ.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>Writer-director Howard McCain bids fair to dethrone Uwe Boll as the king of crap action flicks, and every second feels like time on the cross.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/34045_OUTLANDER.html</url>
+         <critic>Cliff Doerksen</critic>
+      </review>
+   </reviews>
+   <US_Gross>$166,003</US_Gross>
+   <production_budget>$50,000,000</production_budget>
+   <weekend_gross>$59,581</weekend_gross>
+   <number_of_screens>81</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

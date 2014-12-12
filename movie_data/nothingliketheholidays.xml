@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Nothing Like the Holidays</name>
+   <company>Overture Films</company>
+   <genres>
+      <genre>Comedy</genre>
+      <genre>Drama</genre>
+      <genre>Romance</genre>
+   </genres>
+   <authors>
+      <author>Rick Najera</author>
+      <author>Ted Perkins</author>
+      <author>Alison Swan</author>
+   </authors>
+   <directors>
+      <director>Alfredo De Villa</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>John Leguizamo</actor>
+      <actor>Debra Messing</actor>
+      <actor>Freddy Rodriguez</actor>
+      <actor>Vanessa Ferlito</actor>
+      <actor>Luis Guzman</actor>
+      <actor>Jay Hernez</actor>
+      <actor>Alfred Molina</actor>
+      <actor>Elizabeth Pena</actor>
+   </actors>
+   <release_date>December 12, 2008</release_date>
+   <running_time>minutes,</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>It's what we need at the holidays, and it's the modest goal of a modest little picture like this--to capture something heartfelt and real.</snippet>
+         <url>http://www.chicagotribune.com/features/lifestyle/chi-nothing-like-holidays-1212dec12,0,936152.story</url>
+         <critic>Christopher Borrelli</critic>
+      </review>
+      <review>
+         <snippet>The troubles are broad, the plot twists giant, and the performances cheery in this carol to ethnic pride in Chicago's traditionally Latino Humboldt Park.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20245361,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>The performers breathe real life into the characters, starting with Elizabeth Pena and Alfred Molina.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20081210/REVIEWS/812109989</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>This unassuming and unexpectedly moving picture set in Chicago's Humboldt Park neighborhood is a sugarplum-and-sofrito affair centering on the Rodriguez household.</snippet>
+         <url>http://www.philly.com/inquirer/columnists/carrie_rickey/20081212_La_navidad_s_going_to_be_less_than_feliz.html</url>
+         <critic>Carrie Rickey</critic>
+      </review>
+      <review>
+         <snippet>Like a Christmas present you didn't know you wanted but are delighted to receive.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2008/12/11/DDKI14KDFR.DTL&amp;type=movies</url>
+         <critic>Ruthe Stein</critic>
+      </review>
+      <review>
+         <snippet>The situations tend toward contrivance, but the atmosphere is easygoing and the actors seem relaxed even when everyone at the family table is yelling.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film-reviews/film-review-nothing-like-the-holidays-1003919697.story</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>So "The Family Stone" becomes "The Family Rodriguez," and to their credit, the able performers wring as much mileage as they can from such familiar material.</snippet>
+         <url>http://www.variety.com/review/VE1117939159.html?categoryid=31&amp;cs=1</url>
+         <critic>Brian Lowry</critic>
+      </review>
+      <review>
+         <snippet>Both despite its familiarity and because of it, Nothing Like the Holidays brings it home for Christmas.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=11738</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>Like fruitcake, movies like this are ubiquitous at this time of the year but rarely are they devoured with great relish or enthusiasm.</snippet>
+         <url>http://www.reelviews.net/php_review_template.php?identifier=1419</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>This year's warm and fuzzy Christmas movie. It's a generally winning diversion, thanks mostly to its likeable ensemble cast.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2008-12-11-nothing-like-the-holidays_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>It's a formula, all right, but a strong cast goes a long way toward carrying it off. We get one, for the most part, in Alfredo De Villa's cheerfully familiar dramedy.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2008/12/11/2008-12-11_leguizamos_nothing_like_the_holidays_is_.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>Director Alfredo De Villa doesn't play it for the kind of knockabout comedy so often seen in these films (like the shrill hit "Four Christmases").</snippet>
+         <url>http://seattlepi.nwsource.com/movies/391706_nothing12q.html</url>
+         <critic>Sean Axmaker</critic>
+      </review>
+      <review>
+         <snippet>Most of the cast range from tolerable to appealing (especially Molina and Pena), with a conspicuous exception. Debra Messing, as the career-driven outsider, is consistently stilted.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20081211.wholidays1212/BNStory/Entertainment/home</url>
+         <critic>Liam Lacey</critic>
+      </review>
+      <review>
+         <snippet>The ensemble cast boasts some of the finest actors in the business. They do their best to breathe life into the stereotypes, but they simply don't have enough to work with.</snippet>
+         <url>http://www.washingtonpost.com/gog/movies/nothing-like-the-holidays,1152548.html</url>
+         <critic>Mike Mayo</critic>
+      </review>
+      <review>
+         <snippet>The only distinguishing characteristic of this mildly agreeable variation of a worn-out formula is that the boisterous family under examination is Puerto Rican, and the screenplay includes a smattering of Spanish.</snippet>
+         <url>http://movies.nytimes.com/2008/12/12/movies/12holi.html?ref=movies</url>
+         <critic>Stephen Holden</critic>
+      </review>
+      <review>
+         <snippet>The cast is appealing enough, though, and those looking for seasonal warm fuzzies can find them, as predictably touching as a muddled-through "Auld Lang Syne."</snippet>
+         <url>http://www.villagevoice.com/2008-12-10/film/nothing-like-the-holidays-offers-seasonal-warm-fuzzies-little-more/</url>
+         <critic>Nick Pinkerton</critic>
+      </review>
+      <review>
+         <snippet>Take a cue from Guzmán, who serves as a kind of court jester, bouncing in and out of scenes in a one-man quest to bring levity to the occasion. The movie could stand to have more of his Christmas cheer; instead, it's a recast "Family Stone."</snippet>
+         <url>http://www.avclub.com/content/cinema/nothing_like_the_holidays</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>Is there anyone out there who hasn't seen this movie a dozen times before? Maybe even as recently as last week, since it's basically the same story line as the funnier, if less heartfelt, "Four Christmases."</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/reviews/bal-to.holidays12dec12,0,6969063.story</url>
+         <critic>Chris Kaltenbach</critic>
+      </review>
+      <review>
+         <snippet>My pleasure in seeing Chicago's underexposed Humboldt Park neighborhood on-screen was gradually overcome by this indie drama's cliched treatment of a dysfunctional family reunion.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/33946_NOTHING_LIKE_THE_HOLIDAYS.html</url>
+         <critic>Andrea Gronvall</critic>
+      </review>
+      <review>
+         <snippet>While it is true that nothing all that original happens during the funny parts of the movie either, the family's Puerto Rican heritage gives the movie's comedy a unique spin.</snippet>
+         <url>http://movies.tvguide.com/like-holidays/review/296119</url>
+         <critic>Perry Seibert</critic>
+      </review>
+      <review>
+         <snippet>Provides mostly entertaining spectacle.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=11425</url>
+         <critic>Stina Chyn</critic>
+      </review>
+      <review>
+         <snippet>This overly sentimental family Christmas drama, featuring a veritable checklist of prominent Hispanic actors, falls victim to the shortcoming so prevalent in similarly ethnic-themed movies with similar casts – everything and everyone is so damn serious.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A712052</url>
+         <critic>Steve Davis</critic>
+      </review>
+      <review>
+         <snippet>What's Spanglish for "oy"?</snippet>
+         <url>http://www.nypost.com/seven/12122008/entertainment/movies/if_yule_see_this__yule_see_anything_143809.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet/>
+         <url/>
+         <critic>John Anderson</critic>
+      </review>
+   </reviews>
+   <US_Gross>$7,503,736</US_Gross>
+   <weekend_gross>$3,531,664</weekend_gross>
+   <number_of_screens>1,671</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

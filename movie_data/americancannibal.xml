@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>American Cannibal</name>
+   <company>Lifesize Entertainment</company>
+   <genres>
+      <genre>Documentary</genre>
+   </genres>
+   <authors>
+      <author/>
+   </authors>
+   <directors>
+      <director>Perry Grebin</director>
+      <director>Michael Nigro</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors/>
+   <release_date>March 16, 2007</release_date>
+   <running_time>87</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>Still, no matter how Grebin and Nigro are selling it, American Cannibal isn't about the horrors of reality TV. It's about guys like Roberts and Ripley, who convince themselves that ANY job in show business would be preferable to waiting tables.</snippet>
+         <url>http://www.avclub.com/content/cinema/american_cannibal_the_road_to</url>
+         <critic>Noel Murray</critic>
+      </review>
+      <review>
+         <snippet>You'll suspect, and even hope, that what's on screen is a hoax, but it seems to be at the very least one version of the truth.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/1179356107180180.xml&amp;coll=7</url>
+         <critic>Marc Mohan</critic>
+      </review>
+      <review>
+         <snippet>Whatever the project's "reality," it's insightful as well as entertaining, and the inclusion of real interviews with people both inside and outside the business means it functions as both an intelligent critique and a dire warning.</snippet>
+         <url>http://tvguide.com/detail/movie.aspx?tvobjectid=285496&amp;more=ucmoviereview</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>The writers act shocked at how low they are stooping, but given their desire to write sitcoms, you have to wonder.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20014971,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>Fails to draw any conclusions and, thanks to legal issues, leaves too many questions unanswered.</snippet>
+         <url>http://www.variety.com/review/VE1117930401.html?categoryid=31&amp;cs=1&amp;p=0</url>
+         <critic>Jay Weissberg</critic>
+      </review>
+      <review>
+         <snippet>The documentary illustrates the premise that if you lie down with dogs, you wake up with fleas. Until everything collapses, and the filmmakers are left grasping at straws, it's absorbing in a sick way.</snippet>
+         <url>http://movies2.nytimes.com/2007/03/16/movies/16amer.html?ref=movies</url>
+         <critic>Stephen Holden</critic>
+      </review>
+      <review>
+         <snippet>What's here is a glimpse not into how far people will go to win a reality TV
+show, but how far greedy writers and producers will go to degrade, debouch and
+enrich themselves.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2007/03/16/2007-03-16_survival_of_the_ickiest.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>American Cannibal, something like the (mock-)doc equivalent of "The Producers," really, really should've been funnier.</snippet>
+         <url>http://www.villagevoice.com/film/0711,nelson,76055,20.html</url>
+         <critic>Rob Nelson</critic>
+      </review>
+      <review>
+         <snippet>Audiences probably often wonder when the reality genre is finally going to eat itself. American Cannibal stands ready for that moment with a bib and vinegar.</snippet>
+         <url>http://www.calendarlive.com/printedition/calendar/cl-et-cannibal27apr27,0,6065292.story</url>
+         <critic>Michael Ordona</critic>
+      </review>
+      <review>
+         <snippet>The ineptly made Animal Cannibal isn't remotely convincing as reality, and worse, isn't remotely entertaining as fiction.</snippet>
+         <url>http://www.nypost.com/seven/03162007/entertainment/movies/american_cannibal_movies_lou_lumenick.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+   </reviews>
+   <US_Gross>$16,567</US_Gross>
+   <weekend_gross>$4,778</weekend_gross>
+   <number_of_screens>1</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

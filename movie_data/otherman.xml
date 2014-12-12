@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Other Man, The</name>
+   <company>Image Entertainment</company>
+   <genres>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author>Richard Eyre</author>
+      <author>Bernhard Schlink</author>
+   </authors>
+   <directors>
+      <director>Richard Eyre</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Liam Neeson</actor>
+      <actor>Laura Linney</actor>
+      <actor>Antonio Beras</actor>
+      <actor>Romola Garai</actor>
+   </actors>
+   <release_date>September 11, 2009</release_date>
+   <running_time>90</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>The biggest mystery in this wannabe thriller is why such topnotch actors would sign on for such a dreary movie that amounts to a mediocre soap opera.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2009-09-10-other-man_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>Approaching the film with, let's say, lowered expectations may go a long way toward appreciating what it attempts, as well as what it achieves.</snippet>
+         <url>http://www.latimes.com/entertainment/news/la-et-other-man11-2009sep11,0,2837695.story</url>
+         <critic>Gary Goldstein</critic>
+      </review>
+      <review>
+         <snippet>The Other Man is self-conscious, overproduced, overacted Euro-marital hoo-ha.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20303102,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>Everything from the script to the film’s score seems stock, and echoes of past victories--Eyre’s dissection of infidelity in "Notes on a Scandal," Neeson and Linney’s chemistry in "Kinsey"--only remind you of what these talents are capable of when the stars actually align.</snippet>
+         <url>http://newyork.timeout.com/articles/film/78420/the-other-man-film-review</url>
+         <critic>David Fear</critic>
+      </review>
+      <review>
+         <snippet>It hurts to see a terrific cast (including the lovely and intelligent young Irish actress Romola Garai as the couple's quietly seething daughter) squandered on such dreary filmmaking.</snippet>
+         <url>http://www.villagevoice.com/2009-09-08/film/the-other-man-wastes-terrific-cast-on-dreary-filmmaking/</url>
+         <critic>Ella Taylor</critic>
+      </review>
+      <review>
+         <snippet>A movie needs to announce if it's playing games. Pulling the rug out from under a viewer is fine for whodunnits and psychological thrillers and the usual suspects. But a supposedly grown-up drama like The Other Man ought to have scruples about where it plans to take you.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2009/09/11/2009-09-11_the_other_man_tale_of_love_triangle_lacks_straying_power.html</url>
+         <critic>Joe Neumaier</critic>
+      </review>
+      <review>
+         <snippet>Muddled little dud of a melodrama.</snippet>
+         <url>http://movies.nytimes.com/2009/09/11/movies/11other.html?ref=movies</url>
+         <critic>Stephen Holden</critic>
+      </review>
+      <review>
+         <snippet>Seldom has such great star power been marshaled in the service of a sillier movie than The Other Man.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?rid=11661</url>
+         <critic>Peter Brunette</critic>
+      </review>
+   </reviews>
+   <US_Gross>$149,530</US_Gross>
+   <weekend_gross>$51,909</weekend_gross>
+   <number_of_screens>8</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

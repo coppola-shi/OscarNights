@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Cover</name>
+   <company>20th Century Fox</company>
+   <genres>
+      <genre>Drama</genre>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>Aaron Rahsaan Thomas</author>
+      <author>Aliya Jackson</author>
+   </authors>
+   <directors>
+      <director>Bill Duke</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Aunjanue Ellis</actor>
+      <actor>Razaaq Adoti</actor>
+      <actor>Mya</actor>
+      <actor>Paula Jai Parker</actor>
+      <actor>Vivica A. Fox</actor>
+      <actor>Louis Gossett Jr.</actor>
+   </actors>
+   <release_date>February 22, 2008</release_date>
+   <running_time>89</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>This is a weirdly schizophrenic movie, one that's light on the murder mystery and heavy on the sermonizing.</snippet>
+         <url>http://www.villagevoice.com/film/0808,302389,302389,20.html</url>
+         <critic>Chuck Wilson</critic>
+      </review>
+      <review>
+         <snippet>The sledgehammer message is clear: Best friends can help when you need a McMansion, but only God can help when your husband needs a man.</snippet>
+         <url>http://movies.nytimes.com/2008/02/22/movies/22cove.html?ref=movies</url>
+         <critic>Jeannette Catsoulis</critic>
+      </review>
+      <review>
+         <snippet>So overwrought that it quickly crosses the line into unintentionally funny and never recovers.</snippet>
+         <url>http://www.tvguide.com/movies/cover/review/292304</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>While this actor-filmmaker has delivered such worthy films as "A Rage in Harlem" and "Deep Cover" in the past, this misbegotten effort would be instantly forgettable if not for its potential as future camp classic.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?JSESSIONID=1T2PHGvGyJJsrbCVzdQ5rjQpjGbbGy1vzpGlsTTBGLC7fWtKn0CH!-7184459&amp;&amp;rid=10716</url>
+         <critic>Frank Scheck</critic>
+      </review>
+      <review>
+         <snippet>Featuring eyeball-rolling performances by Vivica A. Fox, Patti LaBelle, Clifton Davis and the singularly named Leon, Cover would be a candidate for the year's most unintentionally funny movie so far - if it weren't also the most homophobic.</snippet>
+         <url>http://www.nypost.com/seven/02222008/entertainment/movies/down_low_and_dirty_98702.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+   </reviews>
+   <US_Gross>$79,436</US_Gross>
+   <weekend_gross>$30,000</weekend_gross>
+   <number_of_screens>14</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

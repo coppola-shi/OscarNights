@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Planet B-Boy</name>
+   <company>Elephant Eye Films</company>
+   <genres>
+      <genre>Documentary</genre>
+   </genres>
+   <authors>
+      <author/>
+   </authors>
+   <directors>
+      <director>Benson Lee</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Knucklehead Zoo</actor>
+   </actors>
+   <release_date>March 21, 2008</release_date>
+   <running_time>101</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>The shows themselves are extraordinary, especially Japan's Ichigei group, which has the all-out fun and athleticism of a vitaminized Twyla Tharp troupe.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/reviews/bal-to.planet25apr25,0,2233229.story</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>What's fun about Benson Lee's documentary Planet B-Boy isn't just the amazingly athletic displays of B-boys he puts on screen, but the film's sense of cultural discovery.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20080529.wboy30/BNStory/Entertainment/home</url>
+         <critic>Liam Lacey</critic>
+      </review>
+      <review>
+         <snippet>It looks great and the dancing is the kind of stuff that would upstage the average pop star.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=11382</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>The crews are perfectly cast for maximum drama.</snippet>
+         <url>http://www.tvguide.com/movies/planet-b-boy/review/292993</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>Though he doesn't break any new documentary ground, Lee knows how to shoot his subjects. Their stories are moving, and their moves are thrilling.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2008/03/21/2008-03-21_short_takes_more_movie_reviews.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>Infectiously energetic.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2008/03/27/DD3OVQBLM.DTL&amp;type=movies</url>
+         <critic>David Wiegand</critic>
+      </review>
+      <review>
+         <snippet>An eye-catching combination of cultural history, performer profiles and competition footage that should see enthusiastic response from niche audiences in urban and specialty venues.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?JSESSIONID=bvfnHpwPzFMPQ8vPX2pk7C0XHp6v7RxFpqmGDhK7rnj87hjRyHQZ!-403277926&amp;&amp;rid=10863</url>
+         <critic>Justin Lowe</critic>
+      </review>
+      <review>
+         <snippet>From moment to moment, Planet B-Boy is fun, sometimes thrilling and packed with illuminating details and striking personalities.</snippet>
+         <url>http://movies.nytimes.com/2008/03/21/movies/21plan.html?ref=movies</url>
+         <critic>Matt Zoller Seitz</critic>
+      </review>
+      <review>
+         <snippet>Often exhilarating docu charts several breakdancing crews' path to the Battle of the Year, which hosts national winners from 18 countries -- not excluding Israel, Belgium or Latvia -- in dazzling competitive displays.</snippet>
+         <url>http://www.variety.com/review/VE1117936552.html?categoryid=31&amp;cs=1</url>
+         <critic>Dennis Harvey</critic>
+      </review>
+      <review>
+         <snippet>It turns out globalization has its good points after all, and they're sporting Chucks, Kangols, and post-Gomi DIY gear. Spin again.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A607366</url>
+         <critic>Marc Savlov</critic>
+      </review>
+      <review>
+         <snippet>For all the energy and personality of its subjects, Planet B-Boy tends to drag, especially toward the competition finals.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1145526&amp;categories=Movies&amp;nm=1</url>
+         <critic>Ann Hornaday</critic>
+      </review>
+      <review>
+         <snippet>Lee pays little attention to the roots of breakdancing or how it helped to spread hip-hop worldwide, choosing instead to obsess over the mad skillz of his international subjects.</snippet>
+         <url>http://www.villagevoice.com/film/0812,planet-b-boy-obsesses-over-mad-skillz,381192,20.html</url>
+         <critic>Ed Gonzalez</critic>
+      </review>
+      <review>
+         <snippet>Proves that what might be (but probably isn't) worth five minutes of your time while you're passing through the Times Square subway station really isn't worth a 1 1/2-hour movie.</snippet>
+         <url>http://www.nypost.com/seven/03212008/entertainment/movies/planet_b_boy_102808.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+   </reviews>
+   <US_Gross>$272,791</US_Gross>
+   <weekend_gross>$27,778</weekend_gross>
+   <number_of_screens>2</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

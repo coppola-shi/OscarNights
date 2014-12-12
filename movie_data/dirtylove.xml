@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Dirty Love</name>
+   <company>First Look Pictures Releasing</company>
+   <genres>
+      <genre>Comedy</genre>
+      <genre>Romance</genre>
+   </genres>
+   <authors>
+      <author>Jenny Mc</author>
+      <author>Carthy</author>
+   </authors>
+   <directors>
+      <director>John Mallory Asher</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Jenny McCarthy</actor>
+      <actor>Carmen Electra</actor>
+      <actor>Eddie Kaye Thomas</actor>
+      <actor>Kam Heskin</actor>
+      <actor>Victor Webster</actor>
+      <actor>Lochlyn Munro</actor>
+      <actor>Kathy Griffin</actor>
+      <actor>Jessica Collins</actor>
+   </actors>
+   <release_date>September 23, 2005</release_date>
+   <running_time>95</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>The sex-comedy-for-girls idea never quite takes off.</snippet>
+         <url>http://www.laweekly.com/film/film_results.php?showid=3567&amp;Sumbit.x=66&amp;Sumbit.y=14</url>
+         <critic>Mark Olsen</critic>
+      </review>
+      <review>
+         <snippet>The movie equivalent of a medical experiment gone horribly wrong and kept in a jar of formaldehyde as a warning to others: Comedy can be a deadly weapon in the wrong hands.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/moviereviews/story/349026p-297651c.html</url>
+         <critic>Jami Bernard</critic>
+      </review>
+      <review>
+         <snippet>The lighting and makeup are exceptionally harsh; all the women look shockingly rough beneath their garish makeup.</snippet>
+         <url>http://online.tvguide.com/movies/database/showmovie.asp?MI=46367</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>Few pretty actresses have so thoroughly discarded their vanity in an outright vanity piece as Jenny McCarthy does in Dirty Love, so it's unfortunate for her this exercise in comic self-abnegation, which she wrote for herself, falls so awfully flat.</snippet>
+         <url>http://www.variety.com/index.asp?layout=sundance2005&amp;nav=reviews&amp;content=reviews&amp;reviewid=VE1117926409&amp;categoryid=1865&amp;cs=</url>
+         <critic>Todd McCarthy</critic>
+      </review>
+      <review>
+         <snippet>The rest of the cast is uniformly awful, including Carmen Electra and Kathy Griffin as a wacky medium who asks, "What do I look like? A comedian?" Not from where I'm sitting.</snippet>
+         <url>http://www.nypost.com/movies/53036.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>Dirty Love offers a series of desperate would-be comic moments.</snippet>
+         <url>http://avclub.com/content/node/40890</url>
+         <critic>Keith Phipps</critic>
+      </review>
+      <review>
+         <snippet>Hollywood is definitely at its worst here and not the type of Hollywood which would dare to greenlight this; just Hollywood being portrayed on film.</snippet>
+         <url>http://www.filmthreat.com/Reviews.asp?Id=6850</url>
+         <critic>Rory L. Aronsky</critic>
+      </review>
+      <review>
+         <snippet>It will surely yield nominations for worst picture.</snippet>
+         <url>http://www.calendarlive.com/printedition/calendar/cl-et-capsules23sep23,0,1721549.story</url>
+         <critic>Kevin Crust</critic>
+      </review>
+      <review>
+         <snippet>Even by the standards of its bottom-feeding genre, Dirty Love clings to the gutter like a rat in garbage.</snippet>
+         <url>http://www.nytimes.com/2005/09/23/movies/23love.html</url>
+         <critic>Stephen Holden</critic>
+      </review>
+      <review>
+         <snippet>Dirty Love wasn't written and directed, it was committed. Here is a film so pitiful, it doesn't rise to the level of badness. It is hopelessly incompetent.</snippet>
+         <url>http://www.rogerebert.com/apps/pbcs.dll/article?AID=/20050922/REVIEWS/509220303/1023</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>This banal comedy is filmmaking of the lowest order.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1001138052</url>
+         <critic>Richard James Havis</critic>
+      </review>
+      <review>
+         <snippet>A kind of "Sex and the City" for L.A. bottom-feeders awash in clichéd, self-loathing misogyny that would make Howard Stern flinch.</snippet>
+         <url>http://www.villagevoice.com/film/0538,tracking2,68009,20.html</url>
+         <critic>Mark Holcomb</critic>
+      </review>
+   </reviews>
+   <US_Gross>$35,657</US_Gross>
+   <weekend_gross>$23,281</weekend_gross>
+   <number_of_screens>44</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

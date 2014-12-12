@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Turistas</name>
+   <company>Fox Atomic</company>
+   <genres>
+      <genre>Adventure</genre>
+      <genre>Drama</genre>
+      <genre>Horror</genre>
+      <genre>Mystery</genre>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>Michael Ross</author>
+   </authors>
+   <directors>
+      <director>John Stockwell</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Josh Duhamel</actor>
+      <actor>Melissa George</actor>
+      <actor>Olivia Wilde</actor>
+      <actor>Desmond Askew</actor>
+      <actor>Beau Garrett</actor>
+      <actor>Max Brown</actor>
+      <actor>Agles Steib</actor>
+      <actor>Miguel Lunardi</actor>
+   </actors>
+   <release_date>December 1, 2006</release_date>
+   <running_time>89</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>With Turistas, Stockwell dives head-first into a veritable riptide of churning, vicious exploitation cinema, and the result is surprisingly effective.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A423612</url>
+         <critic>Marc Savlov</critic>
+      </review>
+      <review>
+         <snippet>Before it descends into dull sadism and general incoherence in its third act, Turistas is a mostly effective exploitation picture, the kind of movie that would have been proudly displayed on the marquee of a '70s-era grindhouse.</snippet>
+         <url>http://www.premiere.com/moviereviews/3294/turistas.html</url>
+         <critic>Ethan Alter</critic>
+      </review>
+      <review>
+         <snippet>As the latest in a never-ending chain of thrillers about young people lost and dying in a hostile land, John Stockwell's Turistas at least offers the visual benefits of exotic settings and a cast of barely clad hardbodies.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/moviereviews/story/476247p-400439c.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>Nasty stuff. It's xenophobic (message: Americans, steer clear of the Third World); it's photogenic (the Sports Illustrated-likeswimsuit issue beach scenes, the colorful villages, the lush landscapes); it's gruesome (operating table POV shots); and it's violent.</snippet>
+         <url>http://ae.philly.com/entertainment/ui/philly/movie.html?id=762732&amp;reviewId=21892</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>Turistas is not a slasher film -- not conventionally. Released by Fox's new teen division, it's the latest aquatic titillation from John Stockwell, the man who also brought us "Blue Crush" and the shockingly good "Into the Blue."</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=9382</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>Once the gore and suspense take over, this becomes mechanical and unpleasant.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/30820_TURISTAS.html</url>
+         <critic>Jonathan Rosenbaum</critic>
+      </review>
+      <review>
+         <snippet>The cast is unusually good for this sort of film, which only makes the poor execution more regrettable.</snippet>
+         <url>http://tvguide.com/detail/movie.aspx?tvobjectid=284453&amp;more=ucmoviereview</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>Starts out as an effective little horror movie before devolving into an incoherent mess during its final 30 minutes.</snippet>
+         <url>http://www.reelviews.net/movies/t/turistas.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>Turistas seeks to exploit the current craze for torture-porn, but it lacks the relentless sadism of the "Saw" franchise. More than half the movie is dull buildup.</snippet>
+         <url>http://www.calendarlive.com/printedition/calendar/cl-et-turistas1dec01,0,4241827.story</url>
+         <critic>Dennis Lim</critic>
+      </review>
+      <review>
+         <snippet>Horror fans will twitch impatiently at those long stretches between killings. And audiences anticipating a feature-length "Girls Gone Wild" video will suffer withdrawal from the lack of loosened bra straps.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1126269&amp;categories=Movies&amp;nm=1</url>
+         <critic>Desson Thomson</critic>
+      </review>
+      <review>
+         <snippet>The movie, with the exception of that lone squirmy surgery scene, is "Hostel" without sadism, thrills, or funky severed-limb F/X. It quickly turns into a very dull escape thriller.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1564216_1_0_,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>Once the torture finally commences, the film attempts to float a political point about the Third World taking back First World health-care privileges, but the chief torturers' sadistic humanitarianism is never seriously considered.</snippet>
+         <url>http://www.avclub.com/content/node/55923</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>The result of this blender mash of exotic horror isn't much of anything at all, neither suspenseful, terrifying or inventively gory: Turistas is dead on arrival.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/294264_turistas01q.html</url>
+         <critic>Sean Axmaker</critic>
+      </review>
+      <review>
+         <snippet>It all begins to fall apart around the midway point, before completely unraveling into a confused, murky mess.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?JSESSIONID=FvBpPrGv2Dy12bmBDwp0kdRL6HgBs2lvh27gXnjtT2FqgQBw9ntv!-1722339471&amp;&amp;rid=8467</url>
+         <critic>Michael Rechtshaffen</critic>
+      </review>
+      <review>
+         <snippet>The "Hostel" similarities may strike some as too close for comfort, not only in plot outline but also in general mix of xenophobia, sexploitation, sadism and gore.</snippet>
+         <url>http://www.variety.com/review/VE1117932226.html?categoryid=31&amp;cs=1</url>
+         <critic>Dennis Harvey</critic>
+      </review>
+      <review>
+         <snippet>Turistas has mastered the international language: stupidity.</snippet>
+         <url>http://www.nypost.com/seven/12012006/entertainment/movies/hot_flesh__cold_blood_movies_kyle_smith.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>The stalwart American hero of Turistas comes off as a dislikable blank in the hands of Josh Duhamel, of the TV series "Las Vegas." More relaxed is Melissa George, who co-stars as the Aussie.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-061201-movies-review-turistas,0,5076526.story?coll=mmx-movies_top_heds</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>Turistas eventually bogs down in an underlit mess.</snippet>
+         <url>http://www.villagevoice.com/film/0648,film,75167,20.html</url>
+         <critic>Nathan Lee</critic>
+      </review>
+      <review>
+         <snippet>The movie is less painful than having your kidneys removed, but Turistas doesn't offer a trip entertaining enough to take.</snippet>
+         <url>http://ae.miami.com/entertainment/ui/miami/movie.html;jsessionid=99A13013CCEA3F6E7B122361EBFC857A.prodapp14_ae_02?id=762732&amp;reviewId=21888&amp;startDate=12%2F01%2F2006</url>
+         <critic>Connie Ogle</critic>
+      </review>
+      <review>
+         <snippet>These people are so stupid that they make us think, well, wait a second: Maybe those livers and kidneys could be put to better use.</snippet>
+         <url>http://sfgate.com/cgi-bin/article.cgi?f=/c/a/2006/12/01/DDG0SMM85J1.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>There are a couple of minutes of unscheduled surgery to put this in the sadistic fantasy genre of "Saw" and "Hostel," but mostly the movie plays out like a cheap survivalist copy of the television series "Lost."</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/LAC.20061201.TURISTAS01/TPStory/TPEntertainment/Movies/</url>
+         <critic>Liam Lacey</critic>
+      </review>
+      <review>
+         <snippet>There's only one surgery scene, but it's the heart (and kidneys) of Turistas. The rest -- especially the incoherent action -- falls well below the mark set by the last Americans Abroad torture-porn picture, "Hostel."</snippet>
+         <url>http://nymag.com/movies/reviews/24754/</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>A grubby, lethally dull bid to cash in on the new extreme horror, the film turns on a conceit as frayed as Freddy Krueger’s shtick.</snippet>
+         <url>http://movies2.nytimes.com/2006/12/01/movies/01turi.html?ref=movies</url>
+         <critic>Manohla Dargis</critic>
+      </review>
+      <review>
+         <snippet>Endless and tedious. It's also written-in-crayon, smack-your-face dumb, and edited so that every other shot is a close-up of a flailing limb.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/1164844511327320.xml&amp;coll=7</url>
+         <critic>M. E. Russell</critic>
+      </review>
+      <review>
+         <snippet>Director John Stockwell ("Blue Crush") and screenwriter Michael Ross have only two things in mind: titillation and giving young audiences something gross to whisper about in school the next day. On that limited basis, Turistas may well succeed. But that's nothing to brag about.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-to.turistas01dec01,0,7538127.story?coll=bal-movies-utility</url>
+         <critic>Chris Kaltenbach</critic>
+      </review>
+      <review>
+         <snippet>Turistas fails in almost every way a movie like this can.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=9456</url>
+         <critic>Pete Vonder Haar</critic>
+      </review>
+   </reviews>
+   <US_Gross>$7,027,762</US_Gross>
+   <production_budget>$10,000,000</production_budget>
+   <weekend_gross>$3,582,554</weekend_gross>
+   <number_of_screens>1,570</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

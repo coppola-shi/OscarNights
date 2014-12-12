@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>August</name>
+   <company>First Look Studios</company>
+   <genres>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author>Howard A. Rodman</author>
+   </authors>
+   <directors>
+      <director>Austin Chick</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Josh Hartnett</actor>
+      <actor>Adam Scott</actor>
+      <actor>David Bowie</actor>
+      <actor>Naomie Harris</actor>
+      <actor>Rip Torn</actor>
+   </actors>
+   <release_date>July 11, 2008</release_date>
+   <running_time>minutes,</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>Anyone who thinks that Josh Hartnett isn't a true movie star should see his riveting, high-wire performance in August.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20211739,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>Stylish, well acted drama.</snippet>
+         <url>http://www.tvguide.com/movies/august/review/293496</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>There's not much to it, but Austin Chick's hyper-focused indie does serve as a nicely assured showcase for lead Josh Hartnett.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2008/07/11/2008-07-11_short_takes_roman_polanski_wanted_and_de.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>This middling drama has no glaring faults, but simply lacks the intended urgency.</snippet>
+         <url>http://www.variety.com/index.asp?layout=festivals&amp;jump=review&amp;id=2471&amp;reviewid=VE1117935941&amp;cs=1</url>
+         <critic>Dennis Harvey</critic>
+      </review>
+      <review>
+         <snippet>Chick's underwhelming exploration of post-millennial angst is as empty and vacant as its protagonist's inexpressive peepers.</snippet>
+         <url>http://www.avclub.com/content/cinema/august</url>
+         <critic>Nathan Rabin</critic>
+      </review>
+      <review>
+         <snippet>Another among this year's crop of features that demonstrates that having a cast with indie cred can sometimes do little to buoy a film's miscalculated execution.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/imdb/reviews/article_display.jsp?rid=10561&amp;vnu_special_account_code=thrsiteimdbpro</url>
+         <critic>Justin Lowe</critic>
+      </review>
+      <review>
+         <snippet>The movie's amoral momentum is fatally slowed by an acronym-heavy script and flimsy characterizations that offer fine actors -- including Rip Torn as Tom's contemptuous father and Naomie Harris as his missed opportunity -- little to play.</snippet>
+         <url>http://movies.nytimes.com/2008/07/11/movies/11augu.html?ref=movies</url>
+         <critic>Jeannette Catsoulis</critic>
+      </review>
+      <review>
+         <snippet>Tedious and ultimately pointless film.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=10499</url>
+         <critic>Don R. Lewis</critic>
+      </review>
+      <review>
+         <snippet>August seems to be missing something essential--a prologue? Or maybe it's not what's missing that's the problem, but what's here.</snippet>
+         <url>http://www.villagevoice.com/2008-07-09/film/josh-hartnett-in-august/</url>
+         <critic>Nick Pinkerton</critic>
+      </review>
+      <review>
+         <snippet>As usual, Hartnett exhibits the acting ability of linoleum; his performance would not be measurably changed if he lapsed into a coma halfway through. Only an amusing cameo by David Bowie enlivens things, but he's onscreen for just about two minutes at the end.</snippet>
+         <url>http://www.nypost.com/seven/07112008/entertainment/movies/august_119333.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+   </reviews>
+   <US_Gross>$11,762</US_Gross>
+   <weekend_gross>$8,092</weekend_gross>
+   <number_of_screens>1</number_of_screens>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

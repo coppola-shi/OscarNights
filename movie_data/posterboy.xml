@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Poster Boy</name>
+   <company>Regent Releasing</company>
+   <genres>
+      <genre>Drama</genre>
+      <genre>GayLesbian</genre>
+   </genres>
+   <authors>
+      <author>Lecia Rosenthal</author>
+      <author>Ryan Shiraki</author>
+   </authors>
+   <directors>
+      <director>Zak Tucker</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Karen Allen</actor>
+      <actor>Michael Lerner</actor>
+      <actor>Matt Newton</actor>
+      <actor>Jack Noseworthy</actor>
+      <actor>Valerie Geffner</actor>
+      <actor>Ian Reed Kesler</actor>
+      <actor>Austin Lysy</actor>
+   </actors>
+   <release_date>August 11, 2006</release_date>
+   <running_time>98</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>The film's strident tone also serves to undermine its generally above-average performances.</snippet>
+         <url>http://online.tvguide.com/newsearch/detail.aspx?tvobjectid=282034&amp;more=ucmoviereview</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>Director Zak Tucker is a bit too fond of jump cuts as signifiers of edginess. Still, when the material doesn't get in the way he's pretty good at getting across the emotional content.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/capsules/26932_POSTER_BOY</url>
+         <critic>Hank Sartin</critic>
+      </review>
+      <review>
+         <snippet>Underproduced and compromised by an uneven script and a tendency to descend into melodrama, the DV-lensed feature nonetheless is well acted and directed with confidence.</snippet>
+         <url>http://www.variety.com/review/VE1117923764?categoryid=31&amp;cs=1</url>
+         <critic>David Rooney</critic>
+      </review>
+      <review>
+         <snippet>Even with satisfying performances from the principal actors, Poster Boy is longer on energy than focus.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-poster11aug11,0,102442.story</url>
+         <critic>Kevin Thomas</critic>
+      </review>
+      <review>
+         <snippet>Some clunky writing and a distracting subplot limit the effectiveness of this ambitious low-budget indie. Great idea for a movie, though.</snippet>
+         <url>http://sfgate.com/cgi-bin/article.cgi?f=/c/a/2006/08/18/DDGVUKJPQ91.DTL#flick3</url>
+         <critic>G. Allen Johnson</critic>
+      </review>
+      <review>
+         <snippet>A polemic masquerading as a movie, Poster Boy unspools like a humorless lecture on right-wing homophobia.</snippet>
+         <url>http://movies2.nytimes.com/2006/08/18/movies/18post.html?ref=movies</url>
+         <critic>Jeannette Catsoulis</critic>
+      </review>
+      <review>
+         <snippet>Although audiences will admire the film's do-it-yourself energy and commitment, Poster Boy finally collapses of its own contrived weight, deflating just when it should soar into madcap -- or at least thoughtful -- satire.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1105501&amp;categories=Movies&amp;nm=1</url>
+         <critic>Ann Hornaday</critic>
+      </review>
+      <review>
+         <snippet>An overwrought story of American politics and image-making that really only gets interesting in the final act.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=7695</url>
+         <critic>Janice Page</critic>
+      </review>
+      <review>
+         <snippet>As irritating as an ideological college student, this earnest debut from Zak Tucker is determined to teach us a lesson about right and wrong.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/moviereviews/story/444424p-374189c.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>Rather than creating believable characters engaged in nuanced conflict, Boy proffers a pair of obvious symbols and hopes that they'll make a statement about the personal and the political.</snippet>
+         <url>http://www.villagevoice.com/film/0633,levine,74198,20.html</url>
+         <critic>Melissa Levine</critic>
+      </review>
+      <review>
+         <snippet>Working from a preachy, clumsy script that's full of gaping holes in logic, plot and character development, director Zak Tucker is also handicapped by a cast filled with actors who seem to be in their first year of acting school.</snippet>
+         <url>http://www.laweekly.com/film+tv/film-reviews/film-reviews/14204/</url>
+         <critic>Ernest Hardy</critic>
+      </review>
+      <review>
+         <snippet>Tucker's message is sometimes on target, even if his film isn't.</snippet>
+         <url>http://www.nypost.com/entertainment/movies/poster_boy_movies_v_a__musetto.htm</url>
+         <critic>V.A. Musetto</critic>
+      </review>
+   </reviews>
+   <US_Gross>$62,062</US_Gross>
+   <weekend_gross>$10,760</weekend_gross>
+   <number_of_screens>2</number_of_screens>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

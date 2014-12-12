@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>This Is England</name>
+   <company>IFC Films</company>
+   <genres>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author>Shane Meadows</author>
+   </authors>
+   <directors>
+      <director>Shane Meadows</director>
+   </directors>
+   <origins>
+      <origin>UK</origin>
+   </origins>
+   <actors>
+      <actor>Thomas Turgoose</actor>
+      <actor>Stephen Graham</actor>
+      <actor>Jo Hartley</actor>
+      <actor>Andrew Shim</actor>
+      <actor>Vicky McClure</actor>
+      <actor>Joseph Gilgun</actor>
+      <actor>Perry Benson</actor>
+      <actor>George Newton</actor>
+   </actors>
+   <release_date>July 27, 2007</release_date>
+   <running_time>100</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>One of the year's best movies...It's one of the simplest and best re-creations of downscale urban England during the gritty post-punk years ever put on screen, and it's both upsetting and very funny.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2007/08/02/btm/index1.html</url>
+         <critic>Andrew O&amp;#039;Hehir</critic>
+      </review>
+      <review>
+         <snippet>The script and direction are virtually flawless.</snippet>
+         <url>http://sfgate.com/cgi-bin/article.cgi?f=/c/a/2007/08/10/DD19RF2QF.DTL&amp;type=movies</url>
+         <critic>David Wiegand</critic>
+      </review>
+      <review>
+         <snippet>As its title implies, This Is England isn't a hyperstylized head-trip a la "Trainspotting" but a straightforward calling to account.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=10109</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>Masterfully charted and acted.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/31894_THIS_IS_ENGLAND.html</url>
+         <critic>Jonathan Rosenbaum</critic>
+      </review>
+      <review>
+         <snippet>Taut, tense, and self-consciously stylish.</snippet>
+         <url>http://www.avclub.com/content/cinema/this_is_england</url>
+         <critic>Noel Murray</critic>
+      </review>
+      <review>
+         <snippet>A modest, near-flawless gem, This Is England is the fifth feature by the young British director Shane Meadows, doing his best work since he first hit the festival scene in the mid-1990s with his hilarious, raw-hewn shorts “Small Time.”</snippet>
+         <url>http://movies.nytimes.com/2007/07/27/movies/27engl.html?ref=movies</url>
+         <critic>Manohla Dargis</critic>
+      </review>
+      <review>
+         <snippet>The writer-director brilliantly juxtaposes the personal and the political, bookending a stirring coming-of-age drama with the provocative opening and an equally affecting end sequence.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-england3aug03,0,3777073.story?coll=cl-mreview</url>
+         <critic>Kevin Crust</critic>
+      </review>
+      <review>
+         <snippet>It has the feel of a classic coming-of-age story. It's the sleeper of the summer.</snippet>
+         <url>http://www.msnbc.msn.com/id/19999627/site/newsweek/</url>
+         <critic>David Ansen</critic>
+      </review>
+      <review>
+         <snippet>The result is a film marked by eruptions of brutal violence, but also passages of extraordinary tenderness.</snippet>
+         <url>http://www.laweekly.com/film+tv/film-reviews/film-reviews-bratz-el-cantante-hot-rod-and-more/16950/?page=2</url>
+         <critic>Scott Foundas</critic>
+      </review>
+      <review>
+         <snippet>Authentic, fresh and utterly relevant.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20071108.england09nat/BNStory/Entertainment/home</url>
+         <critic>Jennie Punter</critic>
+      </review>
+      <review>
+         <snippet>A small film that packs a big wallop.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-070803-movies-review-england,0,5901965.story?coll=mmx-movies_top_heds</url>
+         <critic>Sid Smith</critic>
+      </review>
+      <review>
+         <snippet>The movie is taut, tense, relentless. It shows why Shaun feels he needs to belong to a gang, what he gets out of it and how it goes wrong.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/section?category=RT</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>This Is England may be best summed up as a "coming-of-age" story that puts aside the clichéd baggage often carried by the description and ultimately ends up being moving, genuinely funny, thought-provoking, and highly recommended.</snippet>
+         <url>http://www.premiere.com/moviereviews/3952/this-is-england.html</url>
+         <critic>Eric Alt</critic>
+      </review>
+      <review>
+         <snippet>It's a remarkably sure-handed film, taking us with Shaun on a journey through alienation, anger, trepidation, ebullience and fear.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/118773512799540.xml&amp;coll=7</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>This Is England, set in the social dystopia of Margaret Thatcher's Great Britain, gives us something far more humane and complex than a culturally specific memoir about Doc Martens shoes, reggae music and mindless aggression.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1134606&amp;categories=Movies&amp;nm=1</url>
+         <critic>Desson Thomson</critic>
+      </review>
+      <review>
+         <snippet>Somewhere between the pop jouissance of Guy Ritchie and the social realism of Ken Loach, this ballsy drama freeze-frames bleak Thatcherite Yorkshire and exposes its racist underbelly.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A534277</url>
+         <critic>Marrit Ingman</critic>
+      </review>
+      <review>
+         <snippet>Sad, menacing, empathetic story.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20047969,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>Turgoose, in his first film role, is entirely convincing as the strong-willed but naïve Shaun, and Graham is a genuine fright as the feral prototype of the violent skinhead culture on the horizon.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2007/07/27/2007-07-27_untitled__dig27fx-1.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>The 34-year-old Meadows has assembled an effective cast, especially newcomer Thomas Turgoose as Shaun and veteran Stephen Graham as Combo.</snippet>
+         <url>http://www.nypost.com/seven/07272007/entertainment/movies/lads_with_thick_heads__thicker_accents_movies_v_a__musetto.htm</url>
+         <critic>V.A. Musetto</critic>
+      </review>
+      <review>
+         <snippet>British director Shane Meadows' strongest film to date is also his most personal: A stylish fictionalization of his own wayward youth, spent among a group of working-class skinheads in Thatcher's England.</snippet>
+         <url>http://www.tvguide.com/movies/england/review/289125</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>In addition to telling an involving story, This Is England is insightful and informative.</snippet>
+         <url>http://www.reelviews.net/movies/t/this_england.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>With its knockout lead perfs and taut if slightly familiar construction, this '80s-set dramedy about a skinhead gang reps Meadows' most fluently made film so far.</snippet>
+         <url>http://www.variety.com/review/VE1117931608.html?categoryid=31&amp;cs=1&amp;p=0</url>
+         <critic>Leslie Felperin</critic>
+      </review>
+      <review>
+         <snippet>Facile pop psychology is the real tragedy here, a double disappointment given the film's smart take on pop culture.</snippet>
+         <url>http://www.villagevoice.com/film/0730,lee,77307,20.html</url>
+         <critic>Nathan Lee</critic>
+      </review>
+   </reviews>
+   <US_Gross>$327,919</US_Gross>
+   <weekend_gross>$18,430</weekend_gross>
+   <number_of_screens>1</number_of_screens>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

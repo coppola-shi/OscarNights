@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Lassie</name>
+   <company>Roadside Attractions / Samuel Goldwyn Company</company>
+   <genres>
+      <genre>Adventure</genre>
+      <genre>FamilyKids</genre>
+   </genres>
+   <authors>
+      <author>Charles Sturridge</author>
+      <author>Eric Knight</author>
+   </authors>
+   <directors>
+      <director>Charles Sturridge</director>
+   </directors>
+   <origins>
+      <origin>FranceUKUSAIreland</origin>
+   </origins>
+   <actors>
+      <actor>Peter O&amp;#039;Toole</actor>
+      <actor>Samantha Morton</actor>
+      <actor>John Lynch</actor>
+      <actor>Peter Dinklage</actor>
+      <actor>Jonathan Mason</actor>
+      <actor>Hester Odgers</actor>
+   </actors>
+   <release_date>September 1, 2006</release_date>
+   <running_time>100</running_time>
+   <rating>PG</rating>
+   <reviews>
+      <review>
+         <snippet>When class conflict stirs the viewer's attention as much as a canine hero's homecoming, it's clear that this isn't the usual (read: mindless) family entertainment.</snippet>
+         <url>http://www.csmonitor.com/2006/0901/p14s02-almo.html</url>
+         <critic>Robert Koehler</critic>
+      </review>
+      <review>
+         <snippet>About as good as a Lassie movie can be.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1483955_1_0_,00.html</url>
+         <critic>Gregory Kirschling</critic>
+      </review>
+      <review>
+         <snippet>A heartwarming and moving adventure that does excellent justice to the classic character.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1002611297</url>
+         <critic>Frank Scheck</critic>
+      </review>
+      <review>
+         <snippet>It's a welcome throwback to the carefully crafted family films of the studio era. The scenery is lovely, and the cast is entirely worthy of the enterprise (including the regal and athletic star).</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/critic.html#30249</url>
+         <critic>Jonathan Rosenbaum</critic>
+      </review>
+      <review>
+         <snippet>Lassie is a dog movie even non-dog lovers will lap up.</snippet>
+         <url>http://www.nypost.com/entertainment/movies/best_in_show_movies_lou_lumenick.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>The new Lassie is faithful to Knight's story, capturing its sweep, Dickensian social contrasts and high emotion. All that is enhanced by a splendid cast.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-060901-movies-review-lassie,0,5210942.story?coll=mmx-movies_top_heds</url>
+         <critic>Michael Wilmington</critic>
+      </review>
+      <review>
+         <snippet>This latest remake goes back to the spirit and letter of Eric Knight's 1940 novel.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/283366_lassie01q.html</url>
+         <critic>William Arnold</critic>
+      </review>
+      <review>
+         <snippet>Mason and Odgers are charming young performers with cheeks that shade of pink generally found only in picture books or among English school children. That color goes perfectly here. There is an unabashed old-fashioned quality to the story-telling, not quaint, not fusty, but very much of another era -- and what a relief that is.</snippet>
+         <url/>
+         <critic>Joanne Kaufman</critic>
+      </review>
+      <review>
+         <snippet>Lassie balances cruelty and tenderness, pathos and humor without ever losing sight of its youngest audience member.</snippet>
+         <url>http://movies2.nytimes.com/2006/09/01/movies/01lass.html?ref=movies</url>
+         <critic>Jeanette Catsoulis</critic>
+      </review>
+      <review>
+         <snippet>Competent journeyman writer-helmer Charles Sturridge ("Brideshead Revisited") and his overqualified thesp ensemble steer a steady course between dogged fidelity to Eric Knight's sentimental original novel and modern auds' need for a little humorous bite with the barking.</snippet>
+         <url>http://www.variety.com/review/VE1117929151?categoryid=31&amp;cs=1&amp;s=h&amp;p=0</url>
+         <critic>Leslie Felperin</critic>
+      </review>
+      <review>
+         <snippet>Peter O'Toole is magisterial, blustering and sublime: His half-deaf duke still has a touch of Lawrence of Arabia's showstopping power.</snippet>
+         <url>http://www.slate.com/id/2148752</url>
+         <critic>Dana Stevens</critic>
+      </review>
+      <review>
+         <snippet>Lassie puts its trust in kids to be grown up, and appeals honestly (minus the usual knowing winks) to grown-ups by returning them to a state of childlike wonderment.</snippet>
+         <url>http://www.villagevoice.com/film/0636,taylor,74335,20.html</url>
+         <critic>Ella Taylor</critic>
+      </review>
+      <review>
+         <snippet>The young actors are charming, O'Toole commands every scene he's in, the scenery is lush, and the animals are gorgeous.</snippet>
+         <url>http://online.tvguide.com/newsearch/detail.aspx?tvobjectid=282889&amp;more=ucmoviereview</url>
+         <critic>Angel Cohn</critic>
+      </review>
+      <review>
+         <snippet>Writer-director Charles Sturridge doesn't mess with the Lassie formula--he provides plenty of dog-porn shots of the collie bounding through scenery in slow motion--but the overqualified cast puts the film over the top.</snippet>
+         <url>http://www.avclub.com/content/node/52166</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>With a respectfully committed cast, gorgeous scenery and two sad-eyed leads that will break your heart (the kid and the dog are equally adorable), this is clearly not your typical family film. Which will make it that much more appealing to every member of your family.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/moviereviews/story/448389p-377441c.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+   </reviews>
+   <US_Gross>$652,163</US_Gross>
+   <weekend_gross>$254,420</weekend_gross>
+   <number_of_screens>169</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>true</labor_release>
+</movie>

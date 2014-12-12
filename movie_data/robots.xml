@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Robots</name>
+   <company>Twentieth Century Fox Film Corp.</company>
+   <genres>
+      <genre>Animation</genre>
+      <genre>Comedy</genre>
+      <genre>FamilyKids</genre>
+      <genre>Fantasy</genre>
+      <genre>Scifi</genre>
+   </genres>
+   <authors>
+      <author>Lowell Ganz</author>
+      <author>Babaloo Mandel</author>
+      <author>Jim Mc</author>
+      <author>Clain</author>
+      <author>Ron Mita</author>
+   </authors>
+   <directors>
+      <director>Chris Wedge</director>
+      <director>Carlos Saldanha</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Ewan McGregor</actor>
+      <actor>Halle Berry</actor>
+      <actor>Greg Kinnear</actor>
+      <actor>Mel Brooks</actor>
+      <actor>Drew Carey</actor>
+      <actor>Ama Bynes</actor>
+      <actor>Robin Williams</actor>
+   </actors>
+   <release_date>March 11, 2005</release_date>
+   <running_time>91</running_time>
+   <rating>PG</rating>
+   <reviews>
+      <review>
+         <snippet>24-karat stuff, even if it has a soul of tin. With the voices of Ewan McGregor, Robin Williams and Mel Brooks, Robots is a giddy erector-set update of "Toy Story" with a splash of "The Wizard of Oz."</snippet>
+         <url>http://www.nypost.com/movies/40973.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>Full of wit, charm and wonder. It's so hilarious, you might blow a gasket.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-to.robots11mar11,1,770644.story?coll=bal-artslife-movies</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>Like "Finding Nemo," this is a movie that is a joy to behold entirely apart from what it is about. It looks happy, and, more to the point, it looks harmonious.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20050310/REVIEWS/50301005/1001</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>Zippy, enjoyable sci-fi slapstick jamboree.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1036486_1_0_,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>Robots goes for a color scheme that is cool, muted, instantly aged. Director Chris Wedge wants the eye to concentrate on the gags he and his writers (including veteran comedy craftsmen Lowell Ganz and Babaloo Mandel) have stuffed into the film.</snippet>
+         <url>http://www.time.com/time/magazine/article/0,9171,1034692,00.html</url>
+         <critic>Richard Corliss</critic>
+      </review>
+      <review>
+         <snippet>It's meant as high praise to say that, very early in Robots, the extraordinary starts to seem perfectly ordinary.</snippet>
+         <url>http://www.variety.com/review/VE1117926460?categoryid=31&amp;cs=1</url>
+         <critic>Joe Leydon</critic>
+      </review>
+      <review>
+         <snippet>The net effect of which is like a prolonged visit to an amusement park--kids will love it.</snippet>
+         <url>http://spacefinder.chicagoreader.com/movies/briefs/27490_ROBOTS.html</url>
+         <critic>Joshuan Katzmann</critic>
+      </review>
+      <review>
+         <snippet>There are a lot of terrific creative energies at play in Robots and they overcome an overreliance on amusement park sensibilities in the animated adventure.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/215391_robots11q.html</url>
+         <critic>Paula Nechak</critic>
+      </review>
+      <review>
+         <snippet>Wildly inventive, sweetly subversive.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-050310-movies-review-rke-robots.story</url>
+         <critic>Robert K. Elder</critic>
+      </review>
+      <review>
+         <snippet>Jim Broadbent is the wild card in the cast; he screeches and growls his way through Madame Gasket's lines in the best traditions of British drag.</snippet>
+         <url>http://ae.philly.com/entertainment/ui/philly/movie.html?id=263305&amp;reviewId=17481</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>Cluttered as it is colorful, Robots is a visual delight.</snippet>
+         <url>http://ae.philly.com/entertainment/ui/philly/movie.html?id=263305&amp;reviewId=17480</url>
+         <critic>Carrie Rickey</critic>
+      </review>
+      <review>
+         <snippet>Isn't as trippy, scary, handmade-looking, or environmentally aware as some of Miyazaki's pictures. But it shares their dreaminess. Even at its most ingenious, not even Pixar does that.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=2738</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>Robots never stays in the same gear for long, and the abrupt shifts in tone kill the movie's chances of becoming a classic.</snippet>
+         <url>http://sfgate.com/cgi-bin/article.cgi?f=/c/a/2005/03/11/DDGR8BLNC219.DTL&amp;type=movies</url>
+         <critic>Peter Hartlaub</critic>
+      </review>
+      <review>
+         <snippet>Sure, it's a bit mechanical, but what did you expect? The important thing is that the characters and jokes don't prevent you from grooving on the pleasures of the moving parts.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/ArticleNews/TPStory/LAC/20050311/ROBOTS11/TPEntertainment/Film</url>
+         <critic>Liam Lacey</critic>
+      </review>
+      <review>
+         <snippet>Clever and charming.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/111037329772820.xml</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>Robots is more than a load of spare parts, but there are some sprockets and rivets missing.</snippet>
+         <url>http://movie-reviews.colossus.net/movies/r/robots.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>Entertaining enough that it leaves one wishing for more in the way of android mythology—a pint-sized Blade Runner or A.I. The screenplay goes on autopilot, grinding toward a happy ending just when it has a shot at something darker and more memorable.</snippet>
+         <url>http://www.villagevoice.com/film/0511,kenigsberg,62052,20.html</url>
+         <critic>Ben Kenigsberg</critic>
+      </review>
+      <review>
+         <snippet>The amiable but thin comedy Robots does have a little more going on, but not quite enough to make a difference, although it looks good enough to distract viewers from that fact for a while.</snippet>
+         <url>http://www.theavclub.com/review_pop.php?review_id=8277</url>
+         <critic>Keith Phipps</critic>
+      </review>
+      <review>
+         <snippet>Robots doesn't rely on being current, which will ultimately render it as timeless as any great fable. At its center is a big, beating heart.</snippet>
+         <url>http://dallasobserver.com/issues/2005-03-10/film/film.html</url>
+         <critic>Robert Wilonsky</critic>
+      </review>
+      <review>
+         <snippet>For audiences simply looking for easy entertainment and some neat-looking robots along the way.</snippet>
+         <url>http://www.washingtonpost.com/wp-dyn/articles/A23680-2005Mar10.html</url>
+         <critic>Desson Thomson</critic>
+      </review>
+      <review>
+         <snippet>The animated tale has flashes of brilliance but seems assembled from cultural flotsam.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-robots11mar11,2,3320657.story</url>
+         <critic>Carina Chocano</critic>
+      </review>
+      <review>
+         <snippet>The voice talent behind Robots reads like a who's who of comic actors...But too much reliance is placed on their star power and not enough on an interesting and fresh idea.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2005-03-10-robots_x.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>There's too much going on to take it all in. It's a shame, really. Robots boasts some of the most vibrant visual design ever captured on screen.</snippet>
+         <url>http://www.premiere.com/article.asp?section_id=2&amp;article_id=2041</url>
+         <critic>Peter Debruge</critic>
+      </review>
+      <review>
+         <snippet>Visually, Robots is fun and imaginative. The wow factor is enhanced in the IMAX version, also opening today.</snippet>
+         <url>http://www.nydailynews.com/03-11-2005/front/story/289006p-247142c.html</url>
+         <critic>Jami Bernard</critic>
+      </review>
+      <review>
+         <snippet>If sheer cleverness were everything, Robots would be the best computer-animated cartoon yet…Yet, unlike the very best CG animation, Robots doesn't quite connect with the emotions and humor for which one yearns in cartoons.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1000827973</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>Though the script is best described as mechanical and it takes a while to get into gear, this computer-generated "reach for the stars" story is a well-calibrated piece of entertainment.</snippet>
+         <url>http://tvguide.com/movies/database/showmovie.asp?MI=45887</url>
+         <critic>Angel Cohn</critic>
+      </review>
+      <review>
+         <snippet>The movie can be funny in fits, but too often the scripters go for the obvious and uninspired.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A261556</url>
+         <critic>Kimberley Jones</critic>
+      </review>
+      <review>
+         <snippet>On a storytelling level, Robots is in dire need of an upgrade.</snippet>
+         <url>http://www.laweekly.com/film/film_results.php?showid=3316&amp;Sumbit.x=46&amp;Sumbit.y=19</url>
+         <critic>Scott Foundas</critic>
+      </review>
+      <review>
+         <snippet>The visuals are spectacular at times, but the screenplay is trite, intermittently vulgar, and just not funny.</snippet>
+         <url>http://www.csmonitor.com/2005/0311/p14s02-almo.html</url>
+         <critic>David Sterritt</critic>
+      </review>
+      <review>
+         <snippet>The visuals have so much intrinsic motion that it's too bad Robots is oppressively rollercoasterish.</snippet>
+         <url>http://www.slate.com/id/2114673/</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>The story fails to really engage on any level save the kinetic.</snippet>
+         <url>http://www.washingtonpost.com/wp-dyn/articles/A25749-2005Mar10.html</url>
+         <critic>Stephen Hunter</critic>
+      </review>
+      <review>
+         <snippet>In the end, though, Robots is hollow and mechanical, an echo chamber of other movies and an awkward attempt to turn the intrinsically scary sensitive-robot theme into something heartwarming and cute.</snippet>
+         <url>http://movies2.nytimes.com/2005/03/11/movies/11robo.html</url>
+         <critic>Dana Stevens</critic>
+      </review>
+      <review>
+         <snippet>The video-game sequences are impressive, but you know that a 'toon is in big trouble when its most powerful theme is planned obsolescence.</snippet>
+         <url/>
+         <critic>Joe Morgenstern</critic>
+      </review>
+   </reviews>
+   <US_Gross>$128,200,012</US_Gross>
+   <production_budget>$80,000,000</production_budget>
+   <weekend_gross>$36,045,301</weekend_gross>
+   <number_of_screens>3,776</number_of_screens>
+   <oscar_winning_actors_present/>
+   <num_oscar_winning_actors>1</num_oscar_winning_actors>
+   <oscar_winning_actor>halle berry</oscar_winning_actor>
+   <highest_grossing_actors_present/>
+   <num_highest_grossing_actors>2</num_highest_grossing_actors>
+   <highest_grossing_actor>robin williams</highest_grossing_actor>
+   <highest_grossing_actor>ewan mcgregor</highest_grossing_actor>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

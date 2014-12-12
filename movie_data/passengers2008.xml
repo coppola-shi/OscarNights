@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Passengers</name>
+   <company>Columbia Pictures (Sony)</company>
+   <genres>
+      <genre>Drama</genre>
+      <genre>Horror</genre>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>Ronnie Christensen</author>
+   </authors>
+   <directors>
+      <director>Rodrigo Garcia</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Anne Hathaway</actor>
+      <actor>Patrick Wilson</actor>
+      <actor>David Morse</actor>
+      <actor>Andre Braugher</actor>
+      <actor>Clea DuVall</actor>
+      <actor>Dianne Wiest</actor>
+   </actors>
+   <release_date>October 24, 2008</release_date>
+   <running_time>94</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>Intelligent supernatural drama.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/33756_PASSENGERS.html</url>
+         <critic>Staff (Not credited)</critic>
+      </review>
+      <review>
+         <snippet>With these actors and Rodrigo García's sensitive direction, Passengers might have fared well as a short. But as a full-length feature, it's a long ride to a familiar destination.</snippet>
+         <url>http://www.latimes.com/entertainment/news/reviews/la-et-passengers27-2008oct27,0,1582290.story</url>
+         <critic>Michael Ordona</critic>
+      </review>
+      <review>
+         <snippet>Turns out to be just another dud in the genre of revisionist mysteries that have been messing with our heads since Haley Joel Osment saw dead people. Only this time, the big reveal doesn't so much twist the plot as snap its neck.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20235857,00.html</url>
+         <critic>Adam Markovitz</critic>
+      </review>
+      <review>
+         <snippet>Cruising somewhere between therapy drama and paranoid thriller, this middlebrow tone poem aims for ambiguity but often veers into soporific, suspending answers (and often, viewer interest) en route to an ending that explains all.</snippet>
+         <url>http://www.variety.com/review/VE1117938804.html?categoryid=31&amp;cs=1</url>
+         <critic>Justin Chang</critic>
+      </review>
+      <review>
+         <snippet>A clunky, dead-on-arrival scary drama that proves that even people with good taste need a good script or direction.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2008/10/24/2008-10-24_anne_hathaways_passengers_is_plane_awful.html</url>
+         <critic>Joe Neumaier</critic>
+      </review>
+      <review>
+         <snippet>The film is a misfire, which you feel more acutely given the talents of those involved, including director Rodrigo Garcia ("Nine Lives," "Things You Can Tell Just by Looking at Her") and rising star Anne Hathaway.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?JSESSIONID=yw1FJCJY4qv37CPzgYb7mddQ581KfdG3mdvpwRvQJGH1phd8Jw8z!1627635326&amp;&amp;rid=11870</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>A kind of declawed, inside-out "Final Destination" -- with none of the sense of showmanship, and all the looming malice of a mawkish condolence card.</snippet>
+         <url>http://www.laweekly.com/2008-10-23/film-tv/movie-reviews-high-school-musical-3-passengers-noah-39-s-arc-jumping-the-broom/3</url>
+         <critic>Nick Pinkerton</critic>
+      </review>
+      <review>
+         <snippet>A supernatural thriller so mechanically inept and lacking in suspense that it doesn't even pass muster as lowbrow Halloween-ready entertainment.</snippet>
+         <url>http://movies.nytimes.com/2008/10/25/movies/25pass.html?ref=movies</url>
+         <critic>Stephen Holden</critic>
+      </review>
+   </reviews>
+   <US_Gross>$292,437</US_Gross>
+   <weekend_gross>$172,544</weekend_gross>
+   <number_of_screens>125</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

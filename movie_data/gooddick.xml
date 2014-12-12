@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Good Dick</name>
+   <company>Morning Knight, Present Pictures</company>
+   <genres>
+      <genre>Comedy</genre>
+      <genre>Drama</genre>
+      <genre>Romance</genre>
+   </genres>
+   <authors>
+      <author>Marianna Palka</author>
+   </authors>
+   <directors>
+      <director>Marianna Palka</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Marianna Palka</actor>
+      <actor>Jason Ritter</actor>
+      <actor>Eric Edelstein</actor>
+      <actor>Mark Webber</actor>
+      <actor>Martin Starr</actor>
+      <actor>Tom Arnold</actor>
+   </actors>
+   <release_date>October 10, 2008</release_date>
+   <running_time>86</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>In the vast wasteland of romantic comedies, this lovely film defies the tired genre.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=10579</url>
+         <critic>Jamie Tipps</critic>
+      </review>
+      <review>
+         <snippet>Good Dick carries its messed-up, highly improbable premise so lightly and gracefully that it ultimately comes off as a sweet, plausible and curiously grounded love story -- and touchingly old-fashioned.</snippet>
+         <url>http://www.latimes.com/entertainment/news/reviews/la-et-good10-2008oct10,0,3425269.story</url>
+         <critic>Carina Chocano</critic>
+      </review>
+      <review>
+         <snippet>This unlikely micro-budgeted project is written and directed by Marianna Palka, who also plays the female lead. The guy is portrayed by her real-life boyfriend, Jason Ritter (son of the late John). Their performances are quite remarkable and their chemistry is palpable, even if Good Dick is primarily intended for more adventurous moviegoers.</snippet>
+         <url>http://www.nypost.com/seven/10172008/entertainment/movies/roomies_ruminations_133918.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>At its best, the film is undeniably tender. Sweet, even.</snippet>
+         <url>http://www.philly.com/inquirer/columnists/steven_rea/20081030_Good_Dick_.html</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>A dark, sweet and sophisticated confection.</snippet>
+         <url>http://www.salon.com/ent/movies/btm/2008/01/24/dick/index.html?CP=IMD&amp;DN=110</url>
+         <critic>Andrew O&amp;#039;Hehir</critic>
+      </review>
+      <review>
+         <snippet>Good Dick surmounts its indie-movie quirkiness with exceptional acting and a sincere belief in the salvation of its wounded characters.</snippet>
+         <url>http://movies.nytimes.com/2008/10/17/movies/17good.html?ref=movies</url>
+         <critic>Jeannette Catsoulis</critic>
+      </review>
+      <review>
+         <snippet>Alternately compelling and dramatically limp, the film scores points for exploring unfamiliar territory but lacks the emotional depth to make some very strange behavior believable.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/imdb/reviews/article_display.jsp?rid=10480&amp;vnu_special_account_code=thrsiteimdbpro</url>
+         <critic>James Greenberg</critic>
+      </review>
+      <review>
+         <snippet>An annoying example of self-therapy posing as art.</snippet>
+         <url>http://www.variety.com/index.asp?layout=festivals&amp;jump=review&amp;id=2471&amp;reviewid=VE1117935829&amp;cs=1</url>
+         <critic>Todd McCarthy</critic>
+      </review>
+      <review>
+         <snippet>It feels provocative but inconclusive -- brimming with intriguing ideas about love's dark underbelly but not quite confident enough to pull them off.</snippet>
+         <url>http://www.laweekly.com/2008-10-09/film-tv/movie-reviews-city-of-ember-the-express-rocknrolla/2</url>
+         <critic>Tim Grierson</critic>
+      </review>
+      <review>
+         <snippet>Mainly, Good Dick just proves that TV actors like Ritter make good indie-film hires, because they'll go along with whatever ridiculous nonsense a novice filmmaker concocts.</snippet>
+         <url>http://www.avclub.com/content/cinema/good_dick</url>
+         <critic>Noel Murray</critic>
+      </review>
+      <review>
+         <snippet>It is crystal clear who screwed up this tortuously slow-moving romantic drama.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2008/11/13/DDER1438NH.DTL&amp;type=movies</url>
+         <critic>Ruthe Stein</critic>
+      </review>
+   </reviews>
+   <US_Gross>$28,835</US_Gross>
+   <production_budget>$200,000</production_budget>
+   <weekend_gross>$5,036</weekend_gross>
+   <number_of_screens>1</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Cape of Good Hope</name>
+   <company>Artistic License</company>
+   <genres>
+      <genre>Comedy</genre>
+      <genre>Drama</genre>
+      <genre>Foreign</genre>
+   </genres>
+   <authors>
+      <author>Mark Bamford</author>
+      <author>Suzanne Kay Bamford</author>
+   </authors>
+   <directors>
+      <director>Mark Bamford</director>
+   </directors>
+   <origins>
+      <origin>SouthAfricaUSA</origin>
+   </origins>
+   <actors>
+      <actor>Debbie Brown</actor>
+      <actor>Eriq Ebouaney</actor>
+      <actor>Nthati Moshesh</actor>
+      <actor>Morne Visser</actor>
+      <actor>Quanita Adams</actor>
+      <actor>David Isaacs</actor>
+      <actor>Kamo Masilo</actor>
+      <actor>Nick Boraine</actor>
+   </actors>
+   <release_date>November 11, 2005</release_date>
+   <running_time>107</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>A heartwarming, cleansing film that's simply good for the soul.</snippet>
+         <url>http://www.filmthreat.com/Reviews.asp?Id=6587</url>
+         <critic>Merle Bertrand</critic>
+      </review>
+      <review>
+         <snippet>South African director Mark Bamford's sweet-natured ensemble film doesn't shy away from addressing issues of racism -- both black and white.</snippet>
+         <url>http://online.tvguide.com/movies/database/ShowMovie.asp?MI=46572</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>A warmhearted film.</snippet>
+         <url>http://sfgate.com/cgi-bin/article.cgi?f=/c/a/2005/11/23/DDGJOFS6011.DTL&amp;type=movies</url>
+         <critic>Ruthe Stein</critic>
+      </review>
+      <review>
+         <snippet>When politics do not create walls (as apartheid did), most people are primarily interested in their families, their romances, and their jobs. They hope to improve all three. The movie is about their hope.</snippet>
+         <url>http://www.rogerebert.com/apps/pbcs.dll/article?AID=/20060105/REVIEWS/60103003/1023</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>Director Mark Bamford has a feel for the entanglements of daily life, and his lively editing rhythm holds the multiple stories together.</snippet>
+         <url>http://spacefinder.chicagoreader.com/movies/briefs/29151_CAPE_OF_GOOD_HOPE.html</url>
+         <critic>Fred Camper</critic>
+      </review>
+      <review>
+         <snippet>Grounded in the easy rhythms of daily life, this charming little film shows unexpected grit in sequences set in the white household where Lindiwe works, a place so oppressive that it suddenly seems way past time for South African movie characters - and their home audience - to experience a dose or two of Hollywood-style wish fulfillment.</snippet>
+         <url>http://www.laweekly.com/film/film_results.php?showid=3701&amp;Sumbit.x=43&amp;Sumbit.y=17</url>
+         <critic>Chuck Wilson</critic>
+      </review>
+      <review>
+         <snippet>Refreshingly devoid of politics.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1001659557</url>
+         <critic>Frank Scheck</critic>
+      </review>
+      <review>
+         <snippet>Although by now routine, the intertwining of separate story strands is solidly structured, and the different mini-narratives resolved in unsurprising yet satisfying ways.</snippet>
+         <url>http://www.variety.com/review/VE1117923911?categoryid=31&amp;cs=1</url>
+         <critic>Ronnie Scheib</critic>
+      </review>
+      <review>
+         <snippet>Satisfying and memorable film.</snippet>
+         <url>http://movies2.nytimes.com/2005/11/11/movies/11cape.html</url>
+         <critic>Laura Kern</critic>
+      </review>
+      <review>
+         <snippet>A charming if overlong romantic comedy.</snippet>
+         <url>http://www.nypost.com/movies/57223.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>The stories are interlinked effectively, and the film strikes an upbeat note yet does not address racism and discrimination. For all its affection toward its characters, however, the film is too long and too slack.</snippet>
+         <url>http://www.calendarlive.com/movies/cl-et-capsules16dec16,0,986429.story</url>
+         <critic>Kevin Thomas</critic>
+      </review>
+      <review>
+         <snippet>It's facile, predictable, and contrived, but there's still something winning about this multicultural drama from South Africa.</snippet>
+         <url>http://listings.dallasobserver.com/gyrobase/Film/ShowFilm</url>
+         <critic>Melissa Levine</critic>
+      </review>
+      <review>
+         <snippet>It lacks both complexity and compromised characters. While the cultural backdrop is intriguing, the story is frustratingly conventional and familiar.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/256304_limited20.html</url>
+         <critic>Sean Axmaker</critic>
+      </review>
+      <review>
+         <snippet>Cape of Good Hope is a hopeful piece of humanism that is difficult to begrudge too much.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A319707</url>
+         <critic>Steve Davis</critic>
+      </review>
+      <review>
+         <snippet>Only Nthati Moshesh, as a single black mother working as a housekeeper wooed by a displaced Congolese (Eriq Ebouaney), makes a dent in white-American-expatriate Mark Bamford's toothless scenario.</snippet>
+         <url>http://www.villagevoice.com/film/0545,atkinson,69782,20.html</url>
+         <critic>Michael Atkinson</critic>
+      </review>
+      <review>
+         <snippet>The film does deserve credit for juggling difficult racial and class issues - but with a wacky score, cute puppies and silly side stories also jockeying for space, Bamford's best intentions tumble to a heap long before the movie ends.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/moviereviews/story/364401p-310255c.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+   </reviews>
+   <US_Gross>$25,325</US_Gross>
+   <weekend_gross>$7,624</weekend_gross>
+   <number_of_screens>2</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

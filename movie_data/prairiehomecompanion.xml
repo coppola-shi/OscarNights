@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Prairie Home Companion, A</name>
+   <company>Picturehouse</company>
+   <genres>
+      <genre>Comedy</genre>
+      <genre>Musical</genre>
+   </genres>
+   <authors>
+      <author>Garrison Keillor</author>
+   </authors>
+   <directors>
+      <director>Robert Altman</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Woody Harrelson</actor>
+      <actor>Tommy Lee Jones</actor>
+      <actor>Garrison Keillor</actor>
+      <actor>Kevin Kline</actor>
+      <actor>Lindsay Lohan</actor>
+      <actor>Virginia Madsen</actor>
+      <actor/>
+      <actor>John C. Reilly</actor>
+      <actor>Maya Rudolph</actor>
+      <actor>Meryl Streep</actor>
+      <actor>Lily Tomlin</actor>
+      <actor>Marylouise Burke</actor>
+      <actor>L.Q. Jones</actor>
+   </actors>
+   <release_date>June 9, 2006</release_date>
+   <running_time>105</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>What a lovely film this is, so gentle and whimsical, so simple and profound.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20060608/REVIEWS/60606001/1001</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>A down-home-exquisite musical dramedy.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-to.prairie09jun09,0,7043809.story?coll=bal-artslife-movies</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>The songs in the film are a blast and John C. Reilly and Woody Harrelson share one of the funniest singing moments onscreen ever.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=8694</url>
+         <critic>Don R. Lewis</critic>
+      </review>
+      <review>
+         <snippet>Both magical and consistently joyous. The director, Robert Altman, and the writer, Garrison Keillor, have, against all odds, transmuted the fatigued public radio institution into a lovely fable about mortality, fleeting fame, fondness for the past and the ineffable beauty of life in the present.</snippet>
+         <url/>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>Not since Woody Allen's "Radio Days" has anyone created such a cinematic Valentine to the wonderfully imaginative medium of radio as A Prairie Home Companion.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1001995650</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>Rib-ticklingly funny at times and genial as all get-out.</snippet>
+         <url>http://www.variety.com/index.asp?layout=features2006&amp;content=jump&amp;jump=review&amp;head=berlin&amp;nav=RBerlin&amp;articleid=VE1117929559&amp;cs=1&amp;s=h&amp;p=0</url>
+         <critic>Todd McCarthy</critic>
+      </review>
+      <review>
+         <snippet>Sometimes you forget how great an actor is, then he or she is reborn in an Altman movie.</snippet>
+         <url>http://newyorkmetro.com/movies/reviews/17181/</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>Keillor's modest subservience to Altman's group dynamic feels downright gallant, and in the context of the veteran director's most humanistic movie by a wide margin, it certainly has its rewards.</snippet>
+         <url>http://www.villagevoice.com/film/0623,nelson,73447,20.html</url>
+         <critic>Rob Nelson</critic>
+      </review>
+      <review>
+         <snippet>It's not a perfect movie, and it does not aspire to be a great one. It's just wonderful.</snippet>
+         <url>http://movies2.nytimes.com/2006/06/09/movies/09prai.html</url>
+         <critic>Dana Stevens</critic>
+      </review>
+      <review>
+         <snippet>At the age of 81, Altman may show signs of mellowing, but he again emerges as a master filmmaker.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A372708</url>
+         <critic>Marjorie Baumgarten</critic>
+      </review>
+      <review>
+         <snippet>Take a swig of this moonshine. There's magic in it.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/_/id/9200812/rid/10466862/</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>As for this film's esteemed director, I don't remember getting such sheer pleasure out of an Altman movie since . . . hmm, lemme look at the filmo . . . hmm—"The Player"? Not so much . . . "O.C. and Stiggs"? I wish . . . Um, "Popeye"? More likely, but . . . Ah-"A Wedding." Yeah, that’s it, "A Wedding." Whoa. That was, like, almost 30 years ago.</snippet>
+         <url>http://www.premiere.com/article.asp?section_id=2&amp;article_id=2872</url>
+         <critic>Glenn Kenny</critic>
+      </review>
+      <review>
+         <snippet>A meditation on death that has you humming to the melody and laughing at the joke -- it's an elegiac picture that refuses to eulogize.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/LAC.20060609.PRAIRIE09/TPStory/TPEntertainment/Movies/</url>
+         <critic>Rick Groen</critic>
+      </review>
+      <review>
+         <snippet>Altman and Keillor's A Prairie Home Companion is fittingly both a celebration and a winning example of the joys of collaboration.</snippet>
+         <url>http://www.avclub.com/content/node/49266</url>
+         <critic>Nathan Rabin</critic>
+      </review>
+      <review>
+         <snippet>Streep and Tomlin are so attuned to each other that it's as if they had worked together all of their lives. In fact, it's their first time. Streep has become a wonderfully soulful comedian; Tomlin always was one.</snippet>
+         <url>http://www.csmonitor.com/2006/0609/p16s02-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>What sustains the film is the performers' belief in their shaggy-dog selves, which is more than just talent - it's faith.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1201750_1_0_,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>For a film about death and endings, A Prairie Home Companion is a cracking good time - a warm, golden bauble within which to shelter, like the radio show that inspired it, from the misery and ennui that engulf us in and out of the multiplex.</snippet>
+         <url>http://www.laweekly.com/film+tv/film/plains-song/13720/</url>
+         <critic>Ella Taylor</critic>
+      </review>
+      <review>
+         <snippet>With a theatrical setting, a large ensemble cast, and musical numbers, Altman and his crew are in their own tailored version of heaven.</snippet>
+         <url>http://www.slate.com/id/2143310/?nav=fo</url>
+         <critic>Michael Agger</critic>
+      </review>
+      <review>
+         <snippet>Kline's combination of pratfalls and urbanity is funny, but it rubs against the rest of the movie's effortless rustic charm. He's like Errol Flynn on a hayride.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=8803</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>It's a breezy, homespun, relaxing thing...watching this laid-back picture feels, oddly enough, like a vacation from movies.</snippet>
+         <url>http://ae.miami.com/entertainment/ui/miami/movie.html?id=598794&amp;reviewId=20949</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>People unfamiliar with either man may think Altman is mocking Keillor and his 32-year-old radio program here. But, it is pure affection, and the movie is as much up-tempo, irresistible fun to watch as the show is to hear.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/moviereviews/story/424964p-358446c.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>Like his recent, elegant dance film "The Company," A Prairie Home Companion will appeal especially to those who are not story-dependent. Altman's sidewinding tribute to a surprisingly hardy 32-year-old public radio phenomenon is like a 105-minute putter in the garden, with a few songs and some jokes.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-060609-movies-review-home,0,3487382.story?coll=mmx-movies_top_heds</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>As it stands, it entertains quite a bit, frustrates too much, and leaves you feeling slightly undernourished, like a meal of tasty but not filling hors d'oeuvres.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/1149647125114800.xml&amp;coll=7</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>A Prairie Home Companion has many lovely and funny moments, but there's not a lot going on. Dramatically, it's mellow to the point of inertia. There may not be any sweat, but there isn't any heat, either.</snippet>
+         <url>http://www.newyorker.com/critics/cinema/?060612crci_cinema</url>
+         <critic>David Denby</critic>
+      </review>
+      <review>
+         <snippet>Good-humored and enormously entertaining but also sentimental and a little dishonest.</snippet>
+         <url>http://www.chicagoreader.com/features/stories/moviereviews/060609/</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>It's by no means the greatest Altman, and not even a great Altman. And yet, even though it was written and conceived by Garrison Keillor -- as a fanciful fiction that draws on elements of his popular radio show -- it is somehow pure Altman.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2006/06/09/prairie/index.html</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>Overall, the film falls into some comforting cocoon midway between affectionate spoof and adoring homage, much like Keillor's warmly nostalgic show.</snippet>
+         <url>http://online.tvguide.com/newsearch/detail.aspx?id=46924&amp;sourcetype=m&amp;progseriesparentid=0&amp;tvobjectid=0&amp;keyword=&amp;more=ucmoviereview</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>I'm not sure that the endearing charms of the assorted fogeys and whelps add up to a movie. But I always enjoy how Altman weaves the warp of professional life with the weft of the personal.</snippet>
+         <url>http://ae.philly.com/entertainment/ui/philly/movie.html?id=598794&amp;reviewId=20958</url>
+         <critic>Carrie Rickey</critic>
+      </review>
+      <review>
+         <snippet>It's a pleasant but insubstantial excuse for a film.</snippet>
+         <url>http://ae.charlotte.com/entertainment/ui/charlotte/movie.html;jsessionid=ADAE001A09ABDE6AA87EE8F433FF73FF.prodapp12_ae_02?id=598794&amp;reviewId=20940&amp;startDate=06%2F09%2F2006</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>This combination of storytelling, singing, and corny comedy is sometimes a little too slow and long-winded for its own good, but at least the aftertaste isn't bitter.</snippet>
+         <url>http://movie-reviews.colossus.net/movies/p/prairie_home.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>A Prairie Home Companion tries to embrace the spirit of that longtime radio series but suffocates the very qualities that make the original show so special in the first place.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1113620&amp;lat=200.0&amp;lon=200.0&amp;displaySearchLocation=&amp;nm=1&amp;categories=Movies</url>
+         <critic>Desson Thomson</critic>
+      </review>
+      <review>
+         <snippet>Not one of Altman’s masterpieces, but aficionados will find pleasures in a bittersweet swansong from the grand old man.</snippet>
+         <url>http://www.empireonline.com/reviews/review.asp?FID=11278</url>
+         <critic>Angie Errigo</critic>
+      </review>
+      <review>
+         <snippet>A beautiful angel of death (Virginia Madsen) meanders through the final broadcast, gracing beatitudes over the backstage romances and egg-salad sandwiches.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/273262_prairie09q.html</url>
+         <critic>Gianni Truzzi</critic>
+      </review>
+      <review>
+         <snippet>At its best, it's a gentle meditation on mortality. But at weaker moments it feels meandering and strangely empty.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2006-06-08-prairie-review_x.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>The result is at once familiar and disconcerting, meta-Keillor done in Altman's desultory, distracted style.</snippet>
+         <url>http://www.calendarlive.com/movies/cl-et-prairie9jun09,0,5284185.story</url>
+         <critic>Carina Chocano</critic>
+      </review>
+      <review>
+         <snippet>At best, mildly entertaining.</snippet>
+         <url>http://www.nypost.com/movies/69855.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>Only the onstage performing has moments of lift, particularly Keillor's diabolically homespun monologues and the cowboys with their risqué jokes that are reminders of such outhouse reading as Captain Billy's Whiz Bang.</snippet>
+         <url>http://www.tnr.com/doc.mhtml?i=20060703&amp;s=kauffmann070306</url>
+         <critic>Stanley Kauffmann</critic>
+      </review>
+      <review>
+         <snippet>This is not one of the good Altmans. This isn't even one of the mediocre Altmans.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2006/06/09/DDGTEJACIP1.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+   </reviews>
+   <US_Gross>$20,342,852</US_Gross>
+   <weekend_gross>$4,566,293</weekend_gross>
+   <number_of_screens>760</number_of_screens>
+   <oscar_winning_actors_present/>
+   <num_oscar_winning_actors>1</num_oscar_winning_actors>
+   <oscar_winning_actor>meryl streep</oscar_winning_actor>
+   <highest_grossing_actors_present/>
+   <num_highest_grossing_actors>1</num_highest_grossing_actors>
+   <highest_grossing_actor>tommy lee jones</highest_grossing_actor>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

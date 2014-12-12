@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Blind Date</name>
+   <company>Variance Films</company>
+   <genres>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author>Stanley Tucci</author>
+      <author>David Schechter</author>
+   </authors>
+   <directors>
+      <director>Stanley Tucci</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Stanley Tucci</actor>
+      <actor>Patricia Clarkson</actor>
+   </actors>
+   <release_date>September 25, 2009</release_date>
+   <running_time>80</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>A sometimes hilarious, often wrenching pas de deux between actors Stanley Tucci and Patricia Clarkson.</snippet>
+         <url>http://www.variety.com/review/VE1117935924.html?categoryid=31&amp;cs=1&amp;query=blind+date</url>
+         <critic>John Anderson</critic>
+      </review>
+      <review>
+         <snippet>It’s the kind of two-hander that relies solely on the chemistry of the actors, both of whom banter, parry and bum rush their way through various left turns with grace. Their pas de deux almost makes up for this threadbare tragedy’s no-win endgame. Almost.</snippet>
+         <url>http://newyork.timeout.com/articles/film/78881/blind-date</url>
+         <critic>David Fear</critic>
+      </review>
+      <review>
+         <snippet>It's about watching two always-fine actors do a lot with very little.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2009/09/25/2009-09-25_short_movie_reviews_.html</url>
+         <critic>Joe Neumaier</critic>
+      </review>
+      <review>
+         <snippet>Under Tucci's direction, Blind Date careens into tedium as the couple plays out permutations of a blind-date pairing.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?rid=10490</url>
+         <critic>Duane Byrge</critic>
+      </review>
+      <review>
+         <snippet>Stagey pacing and unnecessary magic-realist voiceover aside, the film's ultimate failure as moving melodrama is that we experience these two acting as a dance partner, a reporter--even a blind man--but we never get who they really are, beyond grieving parents.</snippet>
+         <url>http://www.villagevoice.com/2009-09-22/film/blind-date-suffers-from-restrictions-of-an-ode/</url>
+         <critic>Aaron Hillis</critic>
+      </review>
+      <review>
+         <snippet>The self-consciousness of the premise and the playlike structure of Blind Date clash with the naturalism of Mr. Tucci and Ms. Clarkson’s acting styles, and the film never lifts itself above its origin as a well-meaning, underdeveloped exercise.</snippet>
+         <url>http://movies.nytimes.com/2009/09/25/movies/25blind.html?ref=movies</url>
+         <critic>A.O. Scott</critic>
+      </review>
+      <review>
+         <snippet>Set in a bar that echoes the far superior "Big Night," this labored two-hander plays more like an acting exercise than an actual movie.</snippet>
+         <url>http://www.nypost.com/p/entertainment/movies/trying_to_mend_fences_leads_up_blind_zPDvVPy29gGP7qfSX592lO</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+   </reviews>
+   <US_Gross>$4,090</US_Gross>
+   <weekend_gross>$2,787</weekend_gross>
+   <number_of_screens>1</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

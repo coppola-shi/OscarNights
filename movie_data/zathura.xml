@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Zathura</name>
+   <company>Sony Pictures Entertainment</company>
+   <genres>
+      <genre>Adventure</genre>
+      <genre>Fantasy</genre>
+   </genres>
+   <authors>
+      <author>David Koepp</author>
+      <author>John Kamps</author>
+      <author>Chris Van Allsburg</author>
+   </authors>
+   <directors>
+      <director>Jon Favreau</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Jonah Bobo</actor>
+      <actor>Josh Hutcherson</actor>
+      <actor>Dax Shepard</actor>
+      <actor>Kristen Stewart</actor>
+      <actor>Tim Robbins</actor>
+      <actor>Frank Oz</actor>
+      <actor>John Alexer</actor>
+      <actor>Derek Mears</actor>
+   </actors>
+   <release_date>November 11, 2005</release_date>
+   <running_time>113</running_time>
+   <rating>PG</rating>
+   <reviews>
+      <review>
+         <snippet>Zathura is a rarity: a stellar fantasy that faces down childhood anxieties with feet-on-the-ground maturity.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1127833_1_0_,00.html</url>
+         <critic>Scott Brown</critic>
+      </review>
+      <review>
+         <snippet>The result is a glorious low-tech pleasure that may be the most lyrical, phantasmagoric boys' adventure story since Joe Dante's Explorers.</snippet>
+         <url>http://www.laweekly.com/film/film_results.php?showid=3656&amp;Sumbit.x=54&amp;Sumbit.y=10</url>
+         <critic>Scott Foundas</critic>
+      </review>
+      <review>
+         <snippet>A wild buckle-up-and-blast-off adventure that plunges every corner of kids' favorite subject.</snippet>
+         <url>http://ae.miami.com/entertainment/ui/miami/movie.html?id=455569&amp;reviewId=19514</url>
+         <critic>Peter Debruge</critic>
+      </review>
+      <review>
+         <snippet>Cool!</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-to.zathura11nov11,1,1092609.story?coll=bal-artslife-movies</url>
+         <critic>Chris Kaltenbach</critic>
+      </review>
+      <review>
+         <snippet>Although the drama suffers from the episodic story structure, Zathura feels less like "Jumanji" and more like a really great episode of Steven Spielberg's "Amazing Stories" TV series.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/113157870824840.xml&amp;coll=7</url>
+         <critic>M. E. Russell</critic>
+      </review>
+      <review>
+         <snippet>Favreau keeps the picture throttling forward with a carefree charm.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A308277</url>
+         <critic>Marjorie Baumgarten</critic>
+      </review>
+      <review>
+         <snippet>Jonah Bobo and Josh Hutcherson -- may have delivered their parts just a wee too convincingly. Their squabbling is so pitch perfect that most adult viewers likely will want to reach through the screen and start crackin' some heads.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/247872_zathura11q.html</url>
+         <critic>Winda Benedetti</critic>
+      </review>
+      <review>
+         <snippet>The movie harks back to a time before state-of-the-art technology when writers and directors had to rely mostly on imagination.</snippet>
+         <url>http://sfgate.com/cgi-bin/article.cgi?f=/c/a/2005/11/11/DDGJBFLS9M1.DTL&amp;type=movies</url>
+         <critic>Ruthe Stein</critic>
+      </review>
+      <review>
+         <snippet>Zathura involves a lot of yelling, a lot of explosions and a lot of flying objects -- but what else would you expect from a movie that is, honestly for a change, intended for 10-year-old boys?</snippet>
+         <url>http://www.theglobeandmail.com/servlet/ArticleNews/TPStory/LAC/20051111/ZATHURA11/TPEntertainment/Film</url>
+         <critic>Liam Lacey</critic>
+      </review>
+      <review>
+         <snippet>Jon Favreau, the actor-director who made the delightful family film "Elf," has a firm grip and a light touch with this material about bickering brothers who find a board game that zaps the family home into hyperspace.</snippet>
+         <url>http://ae.philly.com/entertainment/ui/philly/movie.html?id=455569&amp;reviewId=19505</url>
+         <critic>Carrie Rickey</critic>
+      </review>
+      <review>
+         <snippet>Will work better for younger viewers than older ones. There's not much plot to absorb and there's plenty of action, so this is the kind of spectacle that will appeal to those without long attention spans.</snippet>
+         <url>http://movie-reviews.colossus.net/movies/z/zathura.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>The result is an odd mix of honesty and hokum that pilots a course toward greatness before settling into a somewhat lower orbit.</snippet>
+         <url>http://ae.charlotte.com/entertainment/ui/charlotte/movie.html?id=455569&amp;reviewId=19488&amp;startDate=NEXT7</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>It works gloriously as space opera.</snippet>
+         <url>http://www.rogerebert.com/apps/pbcs.dll/article?AID=/20051110/REVIEWS/51107002/1023</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>This handmade feel gives Zathura an appealing, childlike sense of wonder, an element too often forgotten in movies with many times the budget and technological resources.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1106437&amp;lat=200.0&amp;lon=200.0&amp;displaySearchTerm=Zathura&amp;displaySearchLocation=&amp;nm=1</url>
+         <critic>Desson Thomson</critic>
+      </review>
+      <review>
+         <snippet>In the enchanted limbo between waking and sleeping, Zathura feels both real and unreal, like a dream you could shake off at any moment.</snippet>
+         <url>http://www.nytimes.com/2005/11/11/movies/11zath.html</url>
+         <critic>Stephen Holden</critic>
+      </review>
+      <review>
+         <snippet>Neither pandering nor dull, Zathura plays exactly like a no-limits replica of the kind of space adventure that imaginative kids left to their own devices might enact.</snippet>
+         <url>http://dallasobserver.com/Issues/2005-11-10/film/film3.html</url>
+         <critic>Luke Y. Thompson</critic>
+      </review>
+      <review>
+         <snippet>Favreau again delivers that rare beast -- a family film that even childless adults can enjoy.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1001263216</url>
+         <critic>John DeFore</critic>
+      </review>
+      <review>
+         <snippet>Its unwieldy title notwithstanding, Zathura: A Space Adventure is arguably the best adaptation of a Chris Van Allsburg book to date.</snippet>
+         <url>http://www.variety.com/review/VE1117928700?categoryid=31&amp;cs=1</url>
+         <critic>Justin Chang</critic>
+      </review>
+      <review>
+         <snippet>Flawless comic timing and vivid imagination power this rollicking sequel to "Jumanji."</snippet>
+         <url>http://spacefinder.chicagoreader.com/movies/briefs/28840_ZATHURA.html</url>
+         <critic>Andrea Gronvall</critic>
+      </review>
+      <review>
+         <snippet>A low-key, warm-without-being-schmaltzy childhood adventure story that will engage younger viewers without driving their parents too crazy.</snippet>
+         <url>http://www.filmthreat.com/Reviews.asp?Id=8159</url>
+         <critic>Pete Vonder Haar</critic>
+      </review>
+      <review>
+         <snippet>Jon Favreau's adaptation of Chris Van Allsburg's kid-lit adventure of the same name, more than fills the bill - though it's unlikely to draw anyone over the age of 11 (not counting baby-sitters).</snippet>
+         <url>http://www.nydailynews.com/11-11-2005/entertainment/col/story/364444p-310267c.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>There's nary a smidgen of adult humor, so parents might find things a bit on the dull side at times, but in the end they will likely thank Favreau in droves for making a film that is at least certain not to give them a headache.</snippet>
+         <url>http://www.premiere.com/article.asp?section_id=2&amp;article_id=2371</url>
+         <critic>Ryan Devlin</critic>
+      </review>
+      <review>
+         <snippet>Director Jon Favreau, who dipped profitably into family entertainment with 2003's "Elf," effectively recreates the illustrative universe of a good children's book, but he's stuck with a story that noisily grinds its gears.</snippet>
+         <url>http://avclub.com/content/node/42478</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>The movie has a lot of the elements that might make it thrilling and it's visually arresting, but it's missing the emotional connection necessary to make it interesting.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-zathura11nov11,0,77200.story</url>
+         <critic>Kevin Crust</critic>
+      </review>
+      <review>
+         <snippet>One thing: Perhaps my studio-cynic hackles are raised imprudently, but either Favreau reimagined the boys' teenage sister to read as matinee sex bomb, Tootsie Rolling around in pink boxers for half the film, or children's books have become a lot hotter since I put down Seuss and Sendak for Encyclopedia Brown.</snippet>
+         <url>http://www.villagevoice.com/film/0545,lofficial,69822,20.html</url>
+         <critic>Peter L&amp;#039;Official</critic>
+      </review>
+      <review>
+         <snippet>It's a tick better than the movie version of "Jumanji," if that's any help. If you liked the book, you'll find the film of "Zathura" faithful in most respects, though not so much amplified as padded.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-0501111-movies-review-zathura,0,4864912.story?coll=mmx-movies_top_heds</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>Basically "Jumanji" in outer space -- and even without Robin Williams, this is still a singularly loud, charmless and overbearing family movie that could use a hit or two of Ritalin.</snippet>
+         <url>http://www.nypost.com/movies/57230.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>The film's Buck Rogers-style graphics are cool, but the shrilly squabbling brothers -- realistic though they may be -- are insufferable, the story's your-turn/my-turn structure is tedious, and its relentlessly reiterated message about brotherly love and cooperation is really grating.</snippet>
+         <url>http://online.tvguide.com/movies/database/ShowMovie.asp?MI=46515</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>Tim Robbins plays the working dad, and the movie misses him once he bails out early.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2005-11-10-zathura_x.htm</url>
+         <critic>Mike Clark</critic>
+      </review>
+      <review>
+         <snippet>Rarely is a movie audience asked to put up with so much noise for such a thankless payoff.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=7312</url>
+         <critic>Wesley Morris</critic>
+      </review>
+   </reviews>
+   <US_Gross>$28,045,540</US_Gross>
+   <production_budget>$65,000,000</production_budget>
+   <weekend_gross>$13,427,872</weekend_gross>
+   <number_of_screens>3,223</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

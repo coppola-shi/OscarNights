@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Once in a Lifetime</name>
+   <company>Miramax Films</company>
+   <genres>
+      <genre>Documentary</genre>
+   </genres>
+   <authors>
+      <author>John Dower</author>
+      <author>Mark Monroe</author>
+   </authors>
+   <directors>
+      <director>Paul Crowder</director>
+      <director>John Dower</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Matt Dillon (narrator)</actor>
+      <actor>Pelé</actor>
+      <actor>Franz Beckenbauer</actor>
+      <actor>Rodney Marsh</actor>
+      <actor>Carlos Alberto</actor>
+      <actor>Steve Ross</actor>
+   </actors>
+   <release_date>July 7, 2006</release_date>
+   <running_time>97</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>It's a stylish scramble of evocative footage, groovy music, and crazy-candid reminiscences from key players still proud to score.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1210282_1_0_,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>Funky, scrappy, dishy, screwy story of that star-studded, gilded squad.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/1155162329216730.xml&amp;coll=7</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>Crowder and Dower's film is a refreshing reminder that without Ross and the Erteguns, pundits would have had to coin an entirely different term to describe "soccer moms," since without the Cosmos' brief and shining moment in the sun, suburban soccer leagues would be as rare as collegiate boccie tournaments.</snippet>
+         <url>http://online.tvguide.com/newsearch/detail.aspx?tvobjectid=281261&amp;more=ucmoviereview</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>Once in a Lifetime, which is being released at the peak of World Cup fever, is the sort of sports documentary that will appeal even to nonfans. It's a quintessential only-in-New York story.</snippet>
+         <url>http://www.nypost.com/entertainment/movies/go_o_o_o_al____movies_lou_lumenick.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>Once in a Lifetime performs a belated autopsy on the Cosmos and the North American Soccer League and basically concludes that they died of impatience.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/moviereviews/story/433117p-364833c.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>You don't need to be a soccer fan to, like Cosmos fans, fall for this captivating tale, told in "Rashomon"-like style.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-060714-movies-review-lifetime,0,1209862.story?coll=mmx-movies_top_heds</url>
+         <critic>Kevin Williams</critic>
+      </review>
+      <review>
+         <snippet>What fun this documentary is.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2006/07/21/DDGA8K22F51.DTL&amp;type=movies</url>
+         <critic>G. Allen Johnson</critic>
+      </review>
+      <review>
+         <snippet>This is a movie so unabashedly in love with its subject that even audiences who don't know Giorgio Chinaglia from Georgie Best will leave the theater grinning.</snippet>
+         <url>http://movies2.nytimes.com/2006/07/07/movies/07cosm.html</url>
+         <critic>Jeannette Catsoulis</critic>
+      </review>
+      <review>
+         <snippet>An exuberant look at a heady moment in America's soccer past that is well worth remembering.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-cosmos14jul14,0,4170286.story?coll=cl-mreview</url>
+         <critic>Kevin Crust</critic>
+      </review>
+      <review>
+         <snippet>Informative and entertaining.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1121627&amp;lat=200.0&amp;lon=200.0&amp;displaySearchLocation=&amp;nm=1&amp;categories=Movies</url>
+         <critic>Desson Thomson</critic>
+      </review>
+      <review>
+         <snippet>This tale of the team that for a brief period in the 1970s promised to popularize soccer in the U.S. has it all: heroes, villains, sex and, oh yes, some sports as well.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1002839246</url>
+         <critic>Frank Scheck</critic>
+      </review>
+      <review>
+         <snippet>While soccer fans will rep the core aud, even non-fans can enjoy.</snippet>
+         <url>http://www.variety.com/index.asp?layout=features2006&amp;content=jump&amp;jump=review&amp;head=berlin&amp;nav=RBerlin&amp;articleid=VE1117929616&amp;cs=1&amp;s=h&amp;p=0</url>
+         <critic>Leslie Felperin</critic>
+      </review>
+      <review>
+         <snippet>Once In A Lifetime is less a proper documentary than an extended VH1 Behind The Music episode, but there's only a little bit wrong with that.</snippet>
+         <url>http://www.avclub.com/content/node/50164</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>Once in a Lifetime's only major failing is the fact that the iconic Pelé is seen only in period footage.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A393881</url>
+         <critic>Marc Savlov</critic>
+      </review>
+      <review>
+         <snippet>The movie is only so-so, borrowing a little from the VH-1 school of popumentary but lacking the snazzy production values.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=8987</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>This intermittently fascinating documentary chronicles the rise and fall of the Cosmos --which is also the rise and fall of U.S. soccer.</snippet>
+         <url>http://www.villagevoice.com/film/0627,lim,73755,20.html</url>
+         <critic>Bill Gallo</critic>
+      </review>
+      <review>
+         <snippet>Though the movie promises a Behind the Music–type look at the meteoric rise and tragic fall of the Cosmos -- a team (if the press notes are to be believed) overwhelmed by wealth, groupies, rivalry and power struggles -- it all adds up to a tempest in a tea pot.</snippet>
+         <url>http://www.laweekly.com/film+tv/film/once-is-enough/13991/</url>
+         <critic>Joe Donnelly</critic>
+      </review>
+      <review>
+         <snippet>Despite the title, this is less a soccer documentary than a corporate hagiography along the lines of "The Last Mogul" or "The Kid Stays in the Picture"; its real hero isn't Cosmos star Pele (who wisely declined to be interviewed), but Steve Ross, CEO of Warner Communications, which owned the team.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/30003_ONCE_IN_A_LIFETIME_THE_EXTRAORDINARY_STORY_OF_THE_NEW_YORK_COSMOS.html</url>
+         <critic>Jonathan Rosenbaum</critic>
+      </review>
+   </reviews>
+   <US_Gross>$144,601</US_Gross>
+   <production_budget>$1,000,000</production_budget>
+   <weekend_gross>$9,805</weekend_gross>
+   <number_of_screens>1</number_of_screens>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

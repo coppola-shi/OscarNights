@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Up</name>
+   <company>Walt Disney Pictures, Pixar Animation Studios</company>
+   <genres>
+      <genre>Action</genre>
+      <genre>Adventure</genre>
+      <genre>Animation</genre>
+      <genre>Comedy</genre>
+      <genre>FamilyKids</genre>
+   </genres>
+   <authors>
+      <author>Bob Peterson</author>
+   </authors>
+   <directors>
+      <director>Pete Docter</director>
+      <director>Bob Peterson</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Ed Asner</actor>
+      <actor>Christopher Plummer</actor>
+      <actor>John Ratzenberger</actor>
+      <actor>Delroy Lindo</actor>
+      <actor>Jordan Nagai</actor>
+   </actors>
+   <release_date>May 29, 2009</release_date>
+   <running_time>96</running_time>
+   <rating>PG</rating>
+   <reviews>
+      <review>
+         <snippet>Winsome, touching and arguably the funniest Pixar effort ever, the gorgeously rendered, high-flying adventure is a tidy 90-minute distillation of all the signature touches that came before it.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film-reviews/film-review-up-1003972156.story</url>
+         <critic>Michael Rechtshaffen</critic>
+      </review>
+      <review>
+         <snippet>A captivating odd-couple adventure that becomes funnier and more exciting as it flies along.</snippet>
+         <url>http://www.variety.com/index.asp?layout=festivals&amp;jump=review&amp;reviewid=VE1117940233&amp;cs=1</url>
+         <critic>Todd McCarthy</critic>
+      </review>
+      <review>
+         <snippet>The first 10 minutes of Up are flawless; the final 80 minutes, close enough. (Though, note this: Do not see Up in 3-D. It's inessential to the tale and altogether distracting.)</snippet>
+         <url>http://www.villagevoice.com/2009-05-27/film/pixar-s-up-soars-in-entirely-unexpected-ways/</url>
+         <critic>Robert Wilonsky</critic>
+      </review>
+      <review>
+         <snippet>A lovely, thoughtful, and yes, uplifting adventure.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20281262,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>Extending the patented Pixar mix of humor and heart, Up is the studio's most deeply emotional and affecting work.</snippet>
+         <url>http://www.time.com/time/arts/article/0,8599,1896685-2,00.html</url>
+         <critic>Richard Corliss</critic>
+      </review>
+      <review>
+         <snippet>This is another masterwork from Pixar, which is leading the charge in modern animation.</snippet>
+         <url>http://www.rogerebert.com/apps/pbcs.dll/article?AID=/20090527/REVIEWS/905279997/1023</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>Rousing, exhilarating entertainment.</snippet>
+         <url>http://www.miamiherald.com/entertainment/movies/reviews/story/1069026.html</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>Rarely has any film, let alone an animated one powered by the logic of dream and fantasy, been able to move so successfully -- and so effortlessly -- through so many different kinds of cinematic territory.</snippet>
+         <url>http://www.latimes.com/entertainment/news/la-et-up29-2009may29,0,221987.story</url>
+         <critic>Kenneth Turan</critic>
+      </review>
+      <review>
+         <snippet>On the most basic level the new film is pure vaudeville: a loopy flyaway fantasy that's hysterically funny if only to keep the darkness at bay.</snippet>
+         <url>http://www.boston.com/ae/movies/articles/2009/05/29/pixars_up_is_a_fantastical_voyage/</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>Up is a breathtaking ride into the realm of pure imagination.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/26845701/review/28454855/up</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>The exhilarating film pays tribute to Buster Keaton's "The Balloonatic" by way of its slapstick, and to Hayao Miyazaki's "Howl's Moving Castle" by way of its watercolor palette and traveling domicile.</snippet>
+         <url>http://www.philly.com/philly/entertainment/movies/20090529_With_the_wonderful__quot_Up_quot___Pixar_reachs_new_heights.html</url>
+         <critic>Carrie Rickey</critic>
+      </review>
+      <review>
+         <snippet>Easily the summer's, and probably the year's, most enchanting movie, Up is a buoyant delight.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2009-05-27-up_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>Up is Pixar's most ambitious attempt yet to take animation to higher (and deeper) places than it's been before, and Giacchino's sprightly music keeps the whole thing, impossibly, aloft.</snippet>
+         <url>http://www.slate.com/id/2219257/</url>
+         <critic>Dana Stevens</critic>
+      </review>
+      <review>
+         <snippet>Some of the comic inventions are inspired: Muntz has a pack of dogs equipped with electronic voice boxes, which means they're talking dogs, only they speak as if they've learned English from a poorly translated Berlitz guide.</snippet>
+         <url>http://www.chicagotribune.com/entertainment/movies/chi-tc-mov-up-0527-0529may29,0,5131405.story</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>The result is a soaring, touching, funny and altogether buoyant movie that lives up to its title in spirit and in form.</snippet>
+         <url>http://www.washingtonpost.com/gog/movies/up,1156226.html</url>
+         <critic>Ann Hornaday</critic>
+      </review>
+      <review>
+         <snippet>You get the feeling that, had Pixar been in business 25 years ago, Steven Spielberg might have made this movie for them as a follow-up to "Raiders of the Lost Ark."</snippet>
+         <url>http://movies.tvguide.com/up/review/294799</url>
+         <critic>Perry Seibert</critic>
+      </review>
+      <review>
+         <snippet>An exquisite work of cinematic art that also happens to be the funniest, most touching, most exciting and most entertaining movie released so far this year.</snippet>
+         <url>http://www.nypost.com/seven/05292009/entertainment/movies/up__up__hooray__171423.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>Everything about Up is an up, in the most visceral and poetic ways.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/reviews/bal-up-review-0528,0,4889084.story</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>A thoroughly uplifting bit of cinema.</snippet>
+         <url>http://blog.nola.com/mikescott/2009/05/pixars_up_sends_spirits_soarin.html</url>
+         <critic>Mike Scott</critic>
+      </review>
+      <review>
+         <snippet>Up emerges as a gentle hymn to adventure of both the soaring, storybook variety and the smaller, less obvious kind -- the perilous, unpredictable and richly rewarding journey of ordinary, everyday life.</snippet>
+         <url>http://www.laweekly.com/2009-05-28/film-tv/movie-reviews-burma-vj-up-what-goes-up/2</url>
+         <critic>Scott Foundas</critic>
+      </review>
+      <review>
+         <snippet>Writer-directors Pete Docter and Bob Peterson present hilarious insights into bird brains and canine psychology and treat thornier human emotions deftly.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/34410_UP_PIXAR.html</url>
+         <critic>Andrea Gronvall</critic>
+      </review>
+      <review>
+         <snippet>By all means, see Up in its 3-D incarnation: The cliff drops are vertiginous, and the scores of balloons--bunched into the shape of one giant balloon--are as pluckable as grapes.</snippet>
+         <url>http://nymag.com/movies/reviews/56929/</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>We will be comparing Up with classics like "The Wizard of Oz" for years to come.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A785534</url>
+         <critic>Marjorie Baumgarten</critic>
+      </review>
+      <review>
+         <snippet>Each character has their own story, and Pixar never sacrifices their development just for a happy ending.</snippet>
+         <url>http://www.premiere.com/Review/Movies/Up</url>
+         <critic>Staff (Not credited)</critic>
+      </review>
+      <review>
+         <snippet>Up is challenging, emotionally and narratively, but it trusts viewers to keep up; Pixar has never been interested in talking down to children or their parents.</snippet>
+         <url>http://www.avclub.com/articles/up,28526/?utm_source=channel_film</url>
+         <critic>Tasha Robinson</critic>
+      </review>
+      <review>
+         <snippet>Is Up top-shelf Pixar? No. But is it quality summer movie entertainment? Absolutely. Even when the folks at Pixar aim to keep their feet solidly on the ground, they can't help but soar.</snippet>
+         <url>http://blog.oregonlive.com/madaboutmovies/2009/05/review_lighter_than_air_up.html</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>As a piece of poetic compression, it ranks with the opening of Orson Welles's "The Magnificent Ambersons."</snippet>
+         <url>http://www.csmonitor.com/2009/0529/p17s02-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>The movie is packed with lovely jokes, some of them funny in inexplicable ways.</snippet>
+         <url>http://www.newyorker.com/arts/critics/cinema/2009/06/08/090608crci_cinema_denby</url>
+         <critic>David Denby</critic>
+      </review>
+      <review>
+         <snippet>If it had lived up to its golden first five minutes, Up would have been the film of the decade. As it is, it remains the best animated flick of 2009, a funny, moving, beautifully made argument that dreamers can move mountains.</snippet>
+         <url>http://www.empireonline.com/reviews/reviewcomplete.asp?FID=135479</url>
+         <critic>Ian Freer</critic>
+      </review>
+      <review>
+         <snippet>While their latest achievement can't quite one-up "WALL-E," it offers soaring highs that are bound to enchant viewers of any age.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2009/05/28/2009-05-28_disneypixar_does_it_again_up_will_enchant_viewers_of_all_ages.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>Up is not as transcendent as last year's "WALL-E," and doesn't rank near the top of Pixar's pantheon of great features, but it's a solid (and in some ways innovative) fantasy adventure that mixes comedy, action, and drama into a satisfying whole.</snippet>
+         <url>http://www.reelviews.net/php_review_template.php?identifier=1647</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>Has some great movie moments but also boring stretches.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2009/05/28/MV6617S4LC.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>Disney has historically peopled cartoons aimed at children with violent, gruesomely animated villains. For all its delicious whimsy, Up is no exception.</snippet>
+         <url>http://www.theglobeandmail.com/news/arts/up/article1157876/</url>
+         <critic>Kate Taylor</critic>
+      </review>
+      <review>
+         <snippet>Passages of glorious imagination are invariably matched by stock characters and banal story choices.</snippet>
+         <url>http://movies.nytimes.com/2009/05/29/movies/29up.html?ref=movies</url>
+         <critic>Manohla Dargis</critic>
+      </review>
+      <review>
+         <snippet>I'm still left, though, with an unshakable sense of Up being rushed and sketchy, a collection of lovely storyboards that coalesced incompletely or not at all.</snippet>
+         <url>http://online.wsj.com/article/SB124226358415817813.html</url>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>Save for a few inspired canine gags and a handful of very pretty visual details, Up left me cold. Its charms appear to have been applied with surgical precision; by the end, I felt expertly sutured, but not much else.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2009/05/29/up_review/index.html</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>After a strong takeoff, the film lands on dead grounds.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=11758</url>
+         <critic>Matthew Sorrento</critic>
+      </review>
+   </reviews>
+   <US_Gross>$293,004,164</US_Gross>
+   <production_budget>$175,000,000</production_budget>
+   <weekend_gross>$68,108,790</weekend_gross>
+   <number_of_screens>3,766</number_of_screens>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

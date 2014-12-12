@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Pandorum</name>
+   <company>Overture Films</company>
+   <genres>
+      <genre>Horror</genre>
+      <genre>Scifi</genre>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>Travis Milloy</author>
+   </authors>
+   <directors>
+      <director>Christian Alvart</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+      <origin>Germany</origin>
+   </origins>
+   <actors>
+      <actor>Ben Foster</actor>
+      <actor>Dennis Quaid</actor>
+      <actor>Cam Giget</actor>
+      <actor>Antje Traue</actor>
+      <actor>Cung Le</actor>
+      <actor>Eddie Rouse</actor>
+      <actor>Norman Reedus</actor>
+   </actors>
+   <release_date>September 25, 2009</release_date>
+   <running_time>minutes,</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>Handsomely mounted, emotionally involving sci-fi movies don't often show up in the darkened galaxies of our theatre chains. So Alvart's English-language debut is definitely a film you want to catch on the big screen. Just don't sit too close, lest you end up with a dose of pandorum.</snippet>
+         <url>http://www.theglobeandmail.com/news/arts/pandorum/article1300178/</url>
+         <critic>Stephen Cole</critic>
+      </review>
+      <review>
+         <snippet>Pandorum is a dark, disquieting dream worth watching out for.</snippet>
+         <url>http://www.boston.com/ae/movies/articles/2009/09/25/pandorum_chills_to_the_core/</url>
+         <critic>Justine Elias</critic>
+      </review>
+      <review>
+         <snippet>How brazenly can one film rip off "Alien," "I Am Legend," and, somewhat oddly, "The Poseidon Adventure"?</snippet>
+         <url>http://www.ew.com/ew/article/0,,20308135,00.html</url>
+         <critic>Clark Collis</critic>
+      </review>
+      <review>
+         <snippet>Director Christian Alvart clearly attended horror’s new paint-shaker school of direction (motto: shaky = scary!), but the script’s twisty, end-of-the-world intrigue saves this otherwise leaden film from total self-destruction.</snippet>
+         <url>http://www.laweekly.com/2009-09-24/film-tv/movie-reviews-fame-pandorum-surrogates/3</url>
+         <critic>Michelle Orange</critic>
+      </review>
+      <review>
+         <snippet>Throw out the presence of Dennis Quaid, and the new science-fiction/horror snoozer Pandorum could easily pass for a Roger Corman cheapie.</snippet>
+         <url>http://www.avclub.com/articles/pandorum,33366/</url>
+         <critic>Nathan Rabin</critic>
+      </review>
+      <review>
+         <snippet>Special effects are none too convincing, while sound effects are of the cheaply jolting variety favored by producer Paul W.S. Anderson in his films as director ("Resident Evil," "Event Horizon"). Other tech credits are, like the pic as a whole, lazily derivative.</snippet>
+         <url>http://www.variety.com/review/VE1117941239.html?categoryid=31&amp;cs=1</url>
+         <critic>Rob Nelson</critic>
+      </review>
+      <review>
+         <snippet>Claustrophobic, tedious sci-fi thriller.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film-reviews/pandorum-film-review-1004016214.story</url>
+         <critic>Frank Scheck</critic>
+      </review>
+      <review>
+         <snippet>According to the press notes, pandorum means “Orbital Dysfunctional Syndrome”; whatever that is, by the end of the movie I was convinced I had caught it.</snippet>
+         <url>http://movies.nytimes.com/2009/09/26/movies/26pandorum.html?ref=movies</url>
+         <critic>Jeannette Catsoulis</critic>
+      </review>
+      <review>
+         <snippet>Keeps its audience in the dark -- literally and figuratively -- far too long to be of much use besides as a patience-trying exercise in reference spotting.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-pandorum25-2009sep26,0,7236683.story</url>
+         <critic>Glenn Whipp</critic>
+      </review>
+      <review>
+         <snippet>The sort of thing that makes you wish you were playing a video game instead.</snippet>
+         <url>http://www.chicagoreader.com/chicago/MovieTimes?oid=977936</url>
+         <critic>Cliff Doerksen</critic>
+      </review>
+      <review>
+         <snippet>The movie soon turns into only a production-designed run-and-chase game, and our curiosity about what happened to Earth and the crew is teased and teased again until the movie’s big letdown of a reveal.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2009/09/25/2009-09-25_pandora_has_a_few_scifi_chills_and_thrills_but_not_enough_originality.html</url>
+         <critic>Joe Neumaier</critic>
+      </review>
+      <review>
+         <snippet>This is hackwork of the highest order, lacking in all poetry and barely comprehensible aurally or visually.</snippet>
+         <url>http://newyork.timeout.com/articles/film/79138/pandorum-film-review</url>
+         <critic>Keith Uhlich</critic>
+      </review>
+      <review>
+         <snippet>In all fairness, the sheer, overwhelming mediocrity of everything about Pandorum – Travis Milloy's hackneyed, ultra-derivative script, Alvart's plodding pacing and dull direction, even the eventual crimson tide of gore that duly arrives just in time to keep audience members over the age of 13 from dozing off – may well constitute a new breed of horror: In space, no one can hear you snore.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A875896</url>
+         <critic>Marc Savlov</critic>
+      </review>
+   </reviews>
+   <US_Gross>$10,330,853</US_Gross>
+   <production_budget>$40,000,000</production_budget>
+   <weekend_gross>$4,424,126</weekend_gross>
+   <number_of_screens>2,506</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Deal</name>
+   <company>MGM</company>
+   <genres>
+      <genre>Comedy</genre>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author>Gil Cates Jr.Mark Weinstock</author>
+   </authors>
+   <directors>
+      <director>Gil Cates Jr.</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Burt Reynolds</actor>
+      <actor>Charles Durning</actor>
+      <actor>Bret Harrison</actor>
+      <actor>Gary Grubbs</actor>
+      <actor>Shannon Elizabeth</actor>
+      <actor>Jennifer Tilly</actor>
+      <actor>Maria Mason</actor>
+   </actors>
+   <release_date>April 25, 2008</release_date>
+   <running_time>86</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>There's no compelling reason to see Deal. Everything it offers is familiar to the extent where even though it's not a remake, it feels like one.</snippet>
+         <url>http://www.reelviews.net/movies/d/deal.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>When you're working with clearly conventional material, it helps to attack it from a cockeyed angle or at least adopt a gritty, lived-in urgency, but Deal is fatally earnest.</snippet>
+         <url>http://www.laweekly.com/film+tv/film-reviews/movie-reviews-body-of-war-four-minutes-shotgun/18773/?page=2</url>
+         <critic>Tim Grierson</critic>
+      </review>
+      <review>
+         <snippet>The main pleasure of this high-stakes-poker drama is watching a septuagenarian Burt Reynolds effortlessly revive his 70s screen persona as a strutting paragon of male shrewdness and sexuality.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/33072_DEAL_CATES.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>Deal doesn't really care about the characters as much as it does the World Poker Championships, where Tommy and Alex end up. Once we get there the movie becomes interesting because Cates understands the game and its dramas a lot better than he understands people and theirs.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=10752</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>The dull production obviously sees itself as an updated "Cincinnati Kid" for the World Poker Tour set, but the end result and its characters have all the originality and dramatic depth of a TV telecast.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?JSESSIONID=ChhRLRHLpsvHHw1p1RBTcyWT1VzpvCSVz2tQ5n3zNzxqsDGQSThv!-1431123142&amp;&amp;rid=11017</url>
+         <critic>Michael Rechtshaffen</critic>
+      </review>
+      <review>
+         <snippet>Public fascination with Texas Hold 'em and other poker variations will likely bolster B.O., though more discriminating auds may choose to pass.</snippet>
+         <url>http://www.variety.com/review/VE1117936891.html?categoryid=31&amp;cs=1</url>
+         <critic>John Anderson</critic>
+      </review>
+      <review>
+         <snippet>Moving slowly these days, Reynolds does less than no acting in this role, and he’s still the best thing in Deal.</snippet>
+         <url>http://chicago.metromix.com/movies/movie_review/movie-review-deal/388151/content</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>The direction by Gil Cates Jr. is inept at best, and the script by Cates and Marc Weinstock seems to operate under the assumption that trafficking in flabby clichés -- the kindly call girl, the scrappy youngster, the angry dad -- will somehow smooth over the underdeveloped characters.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-capsules25apr25,0,5107403.story</url>
+         <critic>Mark Olsen</critic>
+      </review>
+      <review>
+         <snippet>To think that a semi-major studio financed a production this low-rent and listless is amazing: Since when did MGM start making student films?</snippet>
+         <url>http://www.avclub.com/content/cinema/deal</url>
+         <critic>Scott Tobias</critic>
+      </review>
+   </reviews>
+   <US_Gross>$61,626</US_Gross>
+   <weekend_gross>$35,281</weekend_gross>
+   <number_of_screens>50</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

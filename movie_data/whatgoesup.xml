@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>What Goes Up</name>
+   <company>Sony Pictures</company>
+   <genres>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author>Jonathan Glatzer</author>
+      <author>Robert Lawson</author>
+   </authors>
+   <directors>
+      <director>Jonathan Glatzer</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Steve Coogan</actor>
+      <actor>Hillary Duff</actor>
+      <actor>Josh Peck</actor>
+      <actor>Olivia Thirlby</actor>
+      <actor>Molly Shannon</actor>
+   </actors>
+   <release_date>May 29, 2009</release_date>
+   <running_time>104</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>Director and co-writer Jonathan Glatzer handles his talented cast well, and the movie is dark, droll and sentimental in roughly the correct proportions. Worth a look.</snippet>
+         <url>http://www.salon.com/ent/movies/btm/feature/2009/05/30/munyurangabo/index.html</url>
+         <critic>Andrew O&amp;#039;Hehir</critic>
+      </review>
+      <review>
+         <snippet>What Goes Up has a one-of-a-kind character in Coogan, a cynic with a savior complex, who lies partly out of convenience, and partly because he knows--as Glatzer and Lawson know--that even a messy story can still inspire.</snippet>
+         <url>http://www.avclub.com/articles/what-goes-up,28531/?utm_source=channel_film</url>
+         <critic>Noel Murray</critic>
+      </review>
+      <review>
+         <snippet>Even when Mr. Coogan can't make his scenes work, his prickly presence keeps you watching, as does the eerie scenes of winter that Mr. Glatzer captures with the camera.</snippet>
+         <url>http://movies.nytimes.com/2009/05/29/movies/29what.html?ref=movies</url>
+         <critic>Manohla Dargis</critic>
+      </review>
+      <review>
+         <snippet>The thesis-driven story precludes much dramatic discovery, and the looming shuttle disaster only exacerbates the sense of heavy-handedness.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/34426_WHAT_GOES_UP.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>Glatzer's self-consciously quirky indie is misguided on every level.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2009/05/29/2009-05-29_what_goes_up_is_pretentious_nonsense_.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>A pointless and pretentious drama.</snippet>
+         <url>http://www.variety.com/review/VE1117940220.html?categoryid=31&amp;cs=1&amp;query=what+goes+up</url>
+         <critic>Brian Lowry</critic>
+      </review>
+      <review>
+         <snippet>A turgid mess of a film that has a lot of ideas on its mind, none of which prove very interesting or in fact coherent.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film-reviews/film-review-what-goes-up-1003972810.story</url>
+         <critic>Ethan Alter</critic>
+      </review>
+      <review>
+         <snippet>Glatzer aims to wring laughter out of this desperation but succeeds only in producing a series of contrived characters and situations that make "The Breakfast Club" look like an unfiltered documentary.</snippet>
+         <url>http://www.latimes.com/entertainment/news/la-et-capsules29-2009may29,0,2741161.story</url>
+         <critic>Glenn Whipp</critic>
+      </review>
+      <review>
+         <snippet>This is rock bottom: I've seen a lot of terrible movies in the line of duty, but What Goes Up might be the only genuinely unreleasable one.</snippet>
+         <url>http://www.villagevoice.com/2009-05-27/film/what-goes-up-must-have-hilary-duff-going-down/</url>
+         <critic>Vadim Rizov</critic>
+      </review>
+      <review>
+         <snippet>Nothing in this movie is properly focused; everyone keeps talking about a character whom we never meet and does not matter; the tone keeps slipping around from indolent satire to thudding sincerity, and the Challenger shuttle disaster backdrop is queasy-making at best, offensive at worst.</snippet>
+         <url>http://www.chicagotribune.com/entertainment/movies/chi-0529-what-goes-up-reviewmay29,0,2927621.story</url>
+         <critic>Michael Phillips</critic>
+      </review>
+   </reviews>
+   <US_Gross>$5,290</US_Gross>
+   <weekend_gross>$5,290</weekend_gross>
+   <number_of_screens>11</number_of_screens>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

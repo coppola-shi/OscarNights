@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Gardens of the Night</name>
+   <company>City Lights Pictures</company>
+   <genres>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author>Damian Harris</author>
+   </authors>
+   <directors>
+      <director>Damian Harris</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Ryan Simpkins</actor>
+      <actor>Gillian Jacobs</actor>
+      <actor>Tom Arnold</actor>
+      <actor>Kevin Zegers</actor>
+      <actor>Jermaine &amp;#034;Scooter&amp;#034; Smith</actor>
+      <actor>Evan Ross</actor>
+      <actor>John Malkovich</actor>
+      <actor>Harold Perrineau</actor>
+      <actor>Jeremy Sisto</actor>
+   </actors>
+   <release_date>November 7, 2008</release_date>
+   <running_time>110</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>The film gives vivid reality to those photos of disappeared children on milk cartons by letting us peek into the lives of two abducted children subjected to sexual abuse and then prostitution.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/imdb/reviews/article_display.jsp?rid=10628&amp;vnu_special_account_code=thrsiteimdbpro</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>Well-meaning but underachieving drama.</snippet>
+         <url>http://www.variety.com/review/VE1117936146.html?categoryid=31&amp;cs=1</url>
+         <critic>Leslie Felperin</critic>
+      </review>
+      <review>
+         <snippet>Recovery time is recommended after seeing Gardens of the Night, a harrowing, obliquely told story of kidnapping and forced child prostitution that conjures a world entirely populated by predators and prey.</snippet>
+         <url>http://movies.nytimes.com/2008/11/07/movies/07gard.html?ref=movies</url>
+         <critic>Stephen Holden</critic>
+      </review>
+      <review>
+         <snippet>Pitched at the risible level of Marco Kreuzpaintner's Trade, the film never quite recovers from writer-director Damian Harris's dithering way of shooting things.</snippet>
+         <url>http://www.villagevoice.com/2008-11-05/film/gardens-of-the-night/</url>
+         <critic>Ed Gonzalez</critic>
+      </review>
+      <review>
+         <snippet>Tom Arnold plays the fatherly head of a child-prostitution ring and John Malkovich a sympathetic social worker - two clever casting twists that constitute the main interest in the grueling Gardens of the Night.</snippet>
+         <url>http://www.nypost.com/seven/11072008/entertainment/movies/gardens_of_the_night_137482.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+   </reviews>
+   <US_Gross>$11,436</US_Gross>
+   <weekend_gross>$3,072</weekend_gross>
+   <number_of_screens>1</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

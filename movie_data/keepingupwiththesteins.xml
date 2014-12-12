@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Keeping Up with the Steins</name>
+   <company>Miramax Films</company>
+   <genres>
+      <genre>Comedy</genre>
+   </genres>
+   <authors>
+      <author>Mark Zakarin</author>
+   </authors>
+   <directors>
+      <director>Scott Marshall</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Jami Gertz</actor>
+      <actor>Daryl Hannah</actor>
+      <actor>Garry Marshall</actor>
+      <actor>Jeremy Piven</actor>
+      <actor>Doris Roberts</actor>
+      <actor>Daryl Sabara</actor>
+      <actor>Cheryl Hines</actor>
+      <actor>Larry Miller</actor>
+   </actors>
+   <release_date>May 12, 2006</release_date>
+   <running_time>99</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>What begins as a scathing but loving satire of materialism loses its way once it turns into a warmhearted after-school special about a nice young Jewish boy discovering the true meaning of the bar mitzvah.</snippet>
+         <url>http://www.avclub.com/content/node/48298</url>
+         <critic>Nathan Rabin</critic>
+      </review>
+      <review>
+         <snippet>A fresh and lovable comedy about a dysfunctional Jewish family planning their son's bar mitzvah.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20060511/REVIEWS/60508005/1001</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>Mazel tov to Scott Marshall for creating an endearing portrayal of familial lunacy that ought to charm as many Smiths as it will Steins.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/moviereviews/story/417008p-352161c.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>To paraphrase the old ad for Levy's rye bread, you don't have to be Jewish to love "Keeping Up With the Steins," but it helps.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=9007</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>The tribute to an aging parent is moving and gives this routine comedy an extra something.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2006/05/26/DDG85J1KVV1.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>As director, Scott Marshall displays an unsurprising flair for selling a joke, but also a fine sense of dramatic pacing and, even better, a gift for brevity, neither of which, it could be argued, are innate skills of his famous filmmaking family.</snippet>
+         <url>http://www.laweekly.com/film+tv/film-reviews/film-reviews/13496/</url>
+         <critic>Chuck Wilson</critic>
+      </review>
+      <review>
+         <snippet>What could have made for particularly potent satire in the hands of an Albert Brooks or a Christopher Guest arrives in the form of a politely benign family comedy by first-time director Scott Marshall.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1002501479</url>
+         <critic>Michael Rechtshaffen</critic>
+      </review>
+      <review>
+         <snippet>A sure-fire audience-pleaser, Scott (son of Garry) Marshall's winning comedy bow could have been titled "My Big Fat Jewish Bar Mitzvah."</snippet>
+         <url>http://www.variety.com/review/VE1117930442?categoryid=31&amp;cs=1</url>
+         <critic>Ronnie Scheib</critic>
+      </review>
+      <review>
+         <snippet>Maybe because director Scott Marshall is Garry's son, he allows his affable father to steal the movie from everyone else, and his performance proves to be a small gift worth having.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/29728_KEEPING_UP_WITH_THE_STEINS.html</url>
+         <critic>Jonathan Rosenbaum</critic>
+      </review>
+      <review>
+         <snippet>A sitcom with enough big laughs and emotional truth to get audiences past awkward pacing and some slow spots.</snippet>
+         <url>http://www.nypost.com/movies/68411.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>Blends humor with heart for a satisfying, if predictable, experience.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2006-05-11-steins_x.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>Despite problems of tone and tempo, Steins is appealingly cast.</snippet>
+         <url>http://ae.philly.com/entertainment/ui/philly/movie.html?id=607914&amp;reviewId=20773</url>
+         <critic>Carrie Rickey</critic>
+      </review>
+      <review>
+         <snippet>Zakarin's semiautobiographical screenplay hits all the sitcom beats.</snippet>
+         <url>http://online.tvguide.com/newsearch/detail.aspx?id=46891&amp;sourcetype=m&amp;progseriesparentid=0&amp;tvobjectid=0&amp;keyword=&amp;more=ucmoviereview</url>
+         <critic>Staff (Not credited)</critic>
+      </review>
+      <review>
+         <snippet>Keeping Up With the Steins would have been a much better film if it had waited twice as long before retracting its fangs.</snippet>
+         <url>http://movies2.nytimes.com/2006/05/12/movies/12stei.html</url>
+         <critic>Stephen Holden</critic>
+      </review>
+      <review>
+         <snippet>Garry Marshall, old pro that he is, couldn't be more endearing as the grandfather, struggling gamely to make things right.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-to.steins26may26,0,4868459.story?coll=bal-artslife-movies</url>
+         <critic>Chris Kaltenbach</critic>
+      </review>
+      <review>
+         <snippet>The biggest disappointment in the film, however, is Piven's Adam. This film idealizes his character too much and thereby jettisons any case for serious respect.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1106339&amp;lat=200.0&amp;lon=200.0&amp;displaySearchLocation=&amp;nm=1&amp;categories=Movies</url>
+         <critic>Stephen Hunter</critic>
+      </review>
+      <review>
+         <snippet>Director Scott Marshall and screenwriter Mark Zakarin pander to Jewish viewers the way Andy Garcia's "The Lost City" panders to Cuban Americans.</snippet>
+         <url>http://ae.miami.com/entertainment/ui/miami/movie.html?id=607914&amp;reviewId=20782</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>Garry Marshall takes over the movie (no mystery: his son, Scott, directed it), and Keeping Up With the Steins turns into a recipe to forget: chopped liver with ''heart.''</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1192885_1_0_,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>Toothless, limp and clumsy.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/114972271472070.xml&amp;coll=7</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>It just devolves into the limp sort of schmaltzy conclusion you keep hoping it will avoid.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A372774</url>
+         <critic>Marc Savlov</critic>
+      </review>
+      <review>
+         <snippet>Squanders a decent comic premise.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-060512-movies-review-steins,0,6783825.story?coll=mmx-movies_top_heds</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>There is potential for laughs in a satire of rich people spending big money on religious galas, but that is not even the real subject of the picture.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/273264_steins09q.html</url>
+         <critic>Bill White</critic>
+      </review>
+   </reviews>
+   <US_Gross>$4,339,241</US_Gross>
+   <weekend_gross>$653,723</weekend_gross>
+   <number_of_screens>138</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

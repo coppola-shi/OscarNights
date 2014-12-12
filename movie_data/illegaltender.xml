@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Illegal Tender</name>
+   <company>Universal Studios</company>
+   <genres>
+      <genre>Crime</genre>
+      <genre>Drama</genre>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>Franc. Reyes</author>
+   </authors>
+   <directors>
+      <director>Franc. Reyes</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Rick Gonzalez</actor>
+      <actor>Wa De Jesus</actor>
+      <actor>J. Tom Archuleta</actor>
+      <actor>Tego Calderon</actor>
+      <actor>Julie Carmen</actor>
+      <actor>Delilah Cotto</actor>
+      <actor>Michael Philip Del Rio</actor>
+   </actors>
+   <release_date>August 24, 2007</release_date>
+   <running_time>108</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>Quite an entertaining genre piece boasting a terrifically sinewy lead performance from Wanda De Jesus.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?JSESSIONID=yt9FGMgJwDy6C3CF7JFCzXXvJzYfPqDTrF187K9yG9mmG2j5dzf2!-1904077233&amp;&amp;rid=9665</url>
+         <critic>Michael Rechtshaffen</critic>
+      </review>
+      <review>
+         <snippet>The movie's a genuine oddity: a Latino action drama with one foot in bullet-spitting genre flicks -- '70s blaxploitation and '80s coke-kingpin films are the primary reference points -- and the other in raggedly personal family melodrama.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=10464</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>As it is, Illegal Tender works as a melodrama, and it benefits enormously from the performance of Wanda DeJesus.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20070823/REVIEWS/708230303</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>Too muted to have much lasting impact, and remains modestly diverting only on a scene-to-scene basis. There's no quotable dialogue, no standout action sequence, no flashy supporting performances -- in short, nothing to lift Illegal Tender from the level of competent but inconsequential B-movie.</snippet>
+         <url>http://www.variety.com/review/VE1117934475.html?categoryid=31&amp;cs=1</url>
+         <critic>Joe Leydon</critic>
+      </review>
+      <review>
+         <snippet>For a second, the movie has the snap of a truly surprising thriller -- like a Hispanic "Kill Bill" -- about an aging lioness willing to kill to protect her cub.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20052858,00.html</url>
+         <critic>Marc Bernardin</critic>
+      </review>
+      <review>
+         <snippet>Pistol-packing De Jesus evokes Pam Grier in spots but certainly holds her own.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/32002_ILLEGAL_TENDER.html</url>
+         <critic>Jonathan Rosenbaum</critic>
+      </review>
+      <review>
+         <snippet>Never gets the mixture right, lurching between bullet-happy shootouts and overwrought domestic content.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2007/08/24/DD19RNENK.DTL#flick3</url>
+         <critic>Walter Addiego</critic>
+      </review>
+      <review>
+         <snippet>A throwback to 1970s blaxploitation flicks, with a Latin accent, Illegal Tender would be a brassy, sassy guilty pleasure if it were more, well, pleasurable.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1138310&amp;categories=Movies&amp;nm=1</url>
+         <critic>Ann Hornaday</critic>
+      </review>
+      <review>
+         <snippet>This tale of crime and punishment is wrapped in a veneer of flashy attitude but founders on mundane details.</snippet>
+         <url>http://www.tvguide.com/movies/illegal-tender/review/289889</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>What kind of movie is misdirected, poorly acted, preposterously written--and still wholly entertaining? A B-movie, of course. While Illegal Tender has misguided pretensions towards Serious Filmmaking, it's surprisingly likeable if you see it instead as a cheesy thriller good for a lazy Friday night.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2007/08/24/2007-08-24_more_movie_reviews.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>For a film about growing up, Illegal Tender loses itself in a lot of silly juvenilia.</snippet>
+         <url>http://www.avclub.com/content/cinema/illegal_tender</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>The movie's one bright spot is Gonzalez, a refreshingly natural young actor who needs to get out of B-movies.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/reviews/bal-to.illegal24aug24,0,5757213.story</url>
+         <critic>Rafer Guzman</critic>
+      </review>
+      <review>
+         <snippet>Never transcends its clichés.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A525835</url>
+         <critic>Marjorie Baumgarten</critic>
+      </review>
+      <review>
+         <snippet>We’re too bored to have fun.</snippet>
+         <url>http://www.laweekly.com/film+tv/film-reviews/film-reviews-mr-beans-holiday-closing-escrow-the-last-legion/17092/</url>
+         <critic>Robert Wilonsky</critic>
+      </review>
+      <review>
+         <snippet>Illegal Tender echoes "A History of Violence," another gritty film that explores escaping a criminal past. But the vast vapidity behind Illegal Tender's ill-conceived story line is far harder to overcome.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-070824-movies-review-illegal,0,3407000.story?coll=mmx-movies_top_heds</url>
+         <critic>Tasha Robinson</critic>
+      </review>
+      <review>
+         <snippet>Luridly earnest and laughably immoral, Illegal Tender is an old genre movie with a new look. Call it Hispanixploitation.</snippet>
+         <url>http://movies.nytimes.com/2007/08/24/movies/24ille.html?ref=movies</url>
+         <critic>Jeannette Catsoulis</critic>
+      </review>
+      <review>
+         <snippet>Illegal Tender is the sort of crime movie in which nothing, not one detail, has been observed from real life; it's composed entirely of fantasies and falsehoods lifted from bad movies and hip-hop videos.</snippet>
+         <url>http://www.miamiherald.com/entertainment/movies/story/212438.html</url>
+         <critic>Peter Debruge</critic>
+      </review>
+      <review>
+         <snippet>The real mystery here is why this slapdash semi-effort didn't go straight to video.</snippet>
+         <url>http://www.nypost.com/seven/08242007/entertainment/movies/thug_justice__danbury_style.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+   </reviews>
+   <US_Gross>$3,054,430</US_Gross>
+   <weekend_gross>$1,425,915</weekend_gross>
+   <number_of_screens>512</number_of_screens>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

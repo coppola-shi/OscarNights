@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Casanova</name>
+   <company>Buena Vista Pictures</company>
+   <genres>
+      <genre>Adventure</genre>
+      <genre>Comedy</genre>
+      <genre>Drama</genre>
+      <genre>Romance</genre>
+   </genres>
+   <authors>
+      <author>Jeffrey Hatcher</author>
+      <author>Kimberly Simi</author>
+      <author>Michael Cristofer</author>
+   </authors>
+   <directors>
+      <director>Lasse Hallström</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Heath Ledger</actor>
+      <actor>Sienna Miller</actor>
+      <actor>Jeremy Irons</actor>
+      <actor>Oliver Platt</actor>
+      <actor>Lena Olin</actor>
+   </actors>
+   <release_date>December 25, 2005</release_date>
+   <running_time>108</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>A lovely, mischievous Casanova that will sweep you off your feet.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-to.casanova06jan06,1,2284884.story?coll=bal-artslife-movies</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>Hallstrom gives us a genial interpretation and a supremely good-humored film.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-0501225-movies-review-casanova,0,4633823.story?coll=mmx-movies_top_heds</url>
+         <critic>Michael Wilmington</critic>
+      </review>
+      <review>
+         <snippet>A smart and sophisticated comedy romp.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1001054575</url>
+         <critic>Ray Bennett</critic>
+      </review>
+      <review>
+         <snippet>Lasse Hallstrom (Chocolat) directs a sparking screenplay by Jeffrey Hatcher (Stage Beauty) and Kimberly Simi; it starts as a frothy boudoir comedy but evolves into a masquerade by turns sweetly meditative and sharply satirical.</snippet>
+         <url>http://spacefinder.chicagoreader.com/movies/critic.html#29131</url>
+         <critic>Andrea Gronvall</critic>
+      </review>
+      <review>
+         <snippet>In the exhilarating Casanova, giddy shenanigans effectively set off the dangerous, darker impulses of human nature.</snippet>
+         <url>http://www.calendarlive.com/movies/cl-et-casanova23dec23,0,2109719.story</url>
+         <critic>Kevin Thomas</critic>
+      </review>
+      <review>
+         <snippet>A delightfully silly romp which reinvents the legendary Italian lover's adventures into the realm of broad farce.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=8273</url>
+         <critic>Phil Hall</critic>
+      </review>
+      <review>
+         <snippet>A handsome chunk of widescreen entertainment that's as nimble as its rakish hero.</snippet>
+         <url>http://www.variety.com/ac2006_review/VE1117928060?nav=reviews&amp;categoryid=1986&amp;cs=1&amp;s=h&amp;p=0</url>
+         <critic>Derek Elley</critic>
+      </review>
+      <review>
+         <snippet>Among the least-heralded of the Christmas releases, Casanova is one of the few that's wholly enjoyable.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2005/12/23/casanova/index.html?sid=1420273</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>And if real eroticism is missing - this is a Disney movie, with bosoms heaving more in a gentle parody of heaving than in full desire - the great discovery of this Casanova is Hallström's recovered capacity for play.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1145745_1_0_,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>Casanova is an entertaining if silly romp, with amusing dialogue, gorgeous production design and painterly cinematography. Venice, where the movie is set, has never been so breathtaking.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2005-12-22-casanova-review_x.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>In any case, what is on screen is a delightful respite from awards-season seriousness - a feather film, you might say, that actually tickles.</snippet>
+         <url>http://movies2.nytimes.com/2005/12/23/movies/23casa.html</url>
+         <critic>Dana Stevens</critic>
+      </review>
+      <review>
+         <snippet>It's a sweet, silly and not unintelligent romantic comedy: For a period farce, you could do worse.</snippet>
+         <url>http://dallasobserver.com/Issues/2005-12-22/film/film6.html</url>
+         <critic>Melissa Levine</critic>
+      </review>
+      <review>
+         <snippet>Hallström's latest is fine but unambitious, content with what it is – an arthouse trifle for the masses.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A322482</url>
+         <critic>Marrit Ingman</critic>
+      </review>
+      <review>
+         <snippet>As with his other costume farce, "Stage Beauty" (with Billy Crudup and Claire Danes), Hatcher produces more froth than zest.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/ArticleNews/TPStory/LAC/20051223/CASANOVA23/TPEntertainment/Film</url>
+         <critic>Liam Lacey</critic>
+      </review>
+      <review>
+         <snippet>The feisty supporting cast is forced to carry the show, and fortunately, they're more than up to it, notably Olin, Platt and Jeremy Irons.</snippet>
+         <url>http://online.tvguide.com/movies/database/ShowMovie.asp?MI=46528</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>Little by little, though, he (Ledger)and those around him achieve a critical mass -- an extremely light critical mass -- and the plot pops with entertaining complications.</snippet>
+         <url>http://online.wsj.com/article/SB113650219352239043.html?mod=2_1168_1</url>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>Although Casanova is far from a stinker, I can't join in the chorus of praise for what is essentially a coy farce replete with arch performances and even archer dialogue.</snippet>
+         <url>http://www.csmonitor.com/2006/0106/p15s02-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>Unfortunately, the goofiness never quite finds its groove. The romantic chemistry is tepid, the comedy misses as often as it hits, the picaresque plot keeps dogging down and even actors as skilled as Platt, Irons and Lena Olin fail to register strongly in their roles.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/253105_casanova23q.html</url>
+         <critic>William Arnold</critic>
+      </review>
+      <review>
+         <snippet>That the new Casanova lacks such wit is fatal. Heath Ledger is a good actor but Hallstrom's film is busy and unfocused, giving us the view of Casanova's ceaseless activity but not the excitement. It's a sitcom when what is wanted is comic opera.</snippet>
+         <url>http://www.rogerebert.com/apps/pbcs.dll/article?AID=/20051222/REVIEWS/51220002/1023</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>What happens when movie producers cross "Three's Company" with "Masterpiece Theater?" The result would be similar to what Touchstone Pictures has provided with Casanova, a farcical romantic comedy period piece.</snippet>
+         <url>http://movie-reviews.colossus.net/movies/c/casanova.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>The movie cries out for the bawdy, rompy air that filled Richard Lester's "Three Musketeers" movies, and what it gets instead is the same dispassionate "professionalism" that has made Hallström a steady fixture in a Hollywood that could do with an infusion of Casanova's own virile lifeblood.</snippet>
+         <url>http://www.laweekly.com/film/film_results.php?showid=3707&amp;Sumbit.x=56&amp;Sumbit.y=15</url>
+         <critic>Scott Foundas</critic>
+      </review>
+      <review>
+         <snippet>A period romp that tries too hard.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/moviereviews/story/377282p-320297c.html</url>
+         <critic>Jami Bernard</critic>
+      </review>
+      <review>
+         <snippet>Don't confuse the 18th-century Vene tian setting in Casanova with sophisti cation. The film's one-dimensional characters and lame one-liners make it a sitcom with petticoats.</snippet>
+         <url>http://www.nypost.com/movies/58770.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>The movie Casanova, starring Heath Ledger, not only fetters the randy Venetian in political correctness, it condemns him to dwell inside the modern equivalent of a bad Shakespeare play.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1106085&amp;lat=200.0&amp;lon=200.0&amp;displaySearchLocation=&amp;nm=1&amp;categories=Movies</url>
+         <critic>Desson Thomson</critic>
+      </review>
+      <review>
+         <snippet>At best, it's a light, boisterous little confection, but hasn't Hugh Grant already starred in this film a few times?</snippet>
+         <url>http://avclub.com/content/node/44025</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>A light film, airy, likable and set in Venice.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?file=/c/a/2005/12/24/DDG4SGCC581.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>When the credits were over at last, I sighed, and took away a moviegoer's fantasy of Ledger and Miller starting work again, far away from Venice and ball gowns, on something that might be worth seeing.</snippet>
+         <url>http://www.newyorker.com/critics/cinema/?060109crci_cinema</url>
+         <critic>David Denby</critic>
+      </review>
+      <review>
+         <snippet>Miller gives the film's one genuine, focused, committed performance, and you can see why she might even reform a rake of Casanova's standing.</snippet>
+         <url>http://ae.charlotte.com/entertainment/ui/charlotte/movie.html?id=487924&amp;reviewId=19869&amp;startDate=NEXT7</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>Casanova doesn't seduce so much as lull the audience into a stupor with tedious blather about the battle of the sexes, intermittent but pointless swordplay and clumsy slapstick.</snippet>
+         <url>http://ae.miami.com/entertainment/ui/miami/movie.html?id=487924&amp;reviewId=19879</url>
+         <critic>Connie Ogle</critic>
+      </review>
+      <review>
+         <snippet>Jeremy Irons slithers on board with a haughty sneer and papal vestments, playing Bishop Pucci.</snippet>
+         <url>http://ae.philly.com/entertainment/ui/philly/movie.html?id=487924&amp;reviewId=19802&amp;startDate=01%2F06%2F2006</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>The story, as so often in bad farce, treats them all as idiots, so it's almost impossible be engaged by anything other than the pretty rooms, gondolas and costumes.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/1136327110198241.xml&amp;coll=7</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>Ledger's comic flair is a big plus in a film that is fanatically busy and fatally sexless.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/_/id/7381627/rid/9118153/</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>This Jeffrey Hatcher-Kimberly Simi version, directed by Lasse Hallström, has a resemblance to some of Casanova's memoirs but is chiefly based on the assumption that, in a costume drama, anything goes.</snippet>
+         <url>http://www.tnr.com/doc.mhtml?i=20060130&amp;s=kauffmann013006</url>
+         <critic>Stanley Kauffmann</critic>
+      </review>
+      <review>
+         <snippet>Occasionally fun, always pretty, completely a mess, Casanova never quite finds its footing.</snippet>
+         <url>http://www.empireonline.com/incinemas/ReviewComplete.asp?FID=132337</url>
+         <critic>Dan Jolin</critic>
+      </review>
+      <review>
+         <snippet>The movie treats trysting as comedy and yet is stingy with the laughs.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=8171</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>Ledger's deadpan baritone pumps wit into his tepid one-liners like collagen into a wilted starlet's kisser, and the clumsy staging might not grate so much if the tone weren't so self-congratulatory.</snippet>
+         <url>http://www.villagevoice.com/film/0551,winter,71162,20.html</url>
+         <critic>Jessica Winter</critic>
+      </review>
+   </reviews>
+   <US_Gross>$11,304,403</US_Gross>
+   <weekend_gross>$119,276</weekend_gross>
+   <number_of_screens>37</number_of_screens>
+   <oscar_winning_actors_present/>
+   <num_oscar_winning_actors>1</num_oscar_winning_actors>
+   <oscar_winning_actor>jeremy irons</oscar_winning_actor>
+   <summer_release>false</summer_release>
+   <christmas_release>true</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

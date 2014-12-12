@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Americano</name>
+   <company>Americano Productions</company>
+   <genres>
+      <genre>Comedy</genre>
+      <genre>Romance</genre>
+   </genres>
+   <authors>
+      <author>Kevin Noland</author>
+   </authors>
+   <directors>
+      <director>Kevin Noland</director>
+   </directors>
+   <origins>
+      <origin>USASpain</origin>
+   </origins>
+   <actors>
+      <actor>Joshua Jackson</actor>
+      <actor>Leonor Varela</actor>
+      <actor>Timm Sharp</actor>
+      <actor>Ruthanna Hopper</actor>
+      <actor>Dennis Hopper</actor>
+   </actors>
+   <release_date>March 24, 2006</release_date>
+   <running_time>95</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>Beautifully shot and filled with lovable characters you could watch for hours, Americano is an amazing journey that makes one yearn for travel.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=8129</url>
+         <critic>Eric Campos</critic>
+      </review>
+      <review>
+         <snippet>Writer-director Kevin Noland effectively utilizes his fine young cast and the natural beauty and rich culture of northern Spain in amiably posing a timeless question of youth.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-americano24mar24,0,4496892.story</url>
+         <critic>Kevin Crust</critic>
+      </review>
+      <review>
+         <snippet>Watching Americano is like hearing a long story about someone else's holiday, and while it seems everyone had a nice time, it's too bad they didn't shoot a better film while they were there.</snippet>
+         <url>http://www.laweekly.com/film-reviews/12967/film-reviews/</url>
+         <critic>Mark Olsen</critic>
+      </review>
+   </reviews>
+   <US_Gross>$0</US_Gross>
+   <weekend_gross>$5,310</weekend_gross>
+   <number_of_screens>1</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

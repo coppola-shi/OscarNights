@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Big Question, The</name>
+   <company>ThinkFilm</company>
+   <genres>
+      <genre>Documentary</genre>
+      <genre>Foreign</genre>
+   </genres>
+   <authors>
+      <author>Francesco Cabras</author>
+      <author>Alberto Molinari</author>
+   </authors>
+   <directors>
+      <director>Francesco Cabras</director>
+      <director>Alberto Molinari</director>
+   </directors>
+   <origins>
+      <origin>Italy</origin>
+   </origins>
+   <actors>
+      <actor>Mel Gibson</actor>
+      <actor>Monica Bellucci</actor>
+      <actor>James Caviezel</actor>
+      <actor>Maia Morgenstern</actor>
+      <actor>other members of the cast  crew of The Passion of the Christ</actor>
+   </actors>
+   <release_date>March 17, 2006</release_date>
+   <running_time>75</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>Intriguing and surprisingly witty.</snippet>
+         <url>http://www.variety.com/review/VE1117925534?categoryid=31&amp;cs=1</url>
+         <critic>Robert Koehler</critic>
+      </review>
+      <review>
+         <snippet>The overall effect, especially given the gorgeous setting and liquid-gold cinematography, is less a discussion of the divine than a commercial for it.</snippet>
+         <url>http://www.nytimes.com/2006/03/17/movies/17ques.html</url>
+         <critic>Lawrence Van Gelder</critic>
+      </review>
+      <review>
+         <snippet>The film's tone - a mix of childlike directness, twee whimsy and arty sentimentality - is a matter of taste.</snippet>
+         <url>http://online.tvguide.com/movies/database/Movie-Review.asp?MI=46804</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>While the questions may be universal, they're not particularly original, and the responses largely run the expected range, rendering the whole project less enlightening than your average collegiate coffee-and-cigarettes bull session.</snippet>
+         <url>http://www.villagevoice.com/film/0611,land,72514,20.html</url>
+         <critic>Joshua Land</critic>
+      </review>
+      <review>
+         <snippet>What might have made for an interesting short film lacks the weight to sustain its feature (albeit, brief) length, and even the presence of Mel Gibson, Jim Caviezel (in full bloody Christ mode) and Monica Bellucci is unlikely to attract any but the "Passion" obsessed.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1002199015</url>
+         <critic>Frank Scheck</critic>
+      </review>
+      <review>
+         <snippet>Most of the interviews are as brief as they are obvious, and it doesn't help that none of those interviewees, including clergymen who served as technical advisers, are identified.</snippet>
+         <url>http://www.nypost.com/movies/65435.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+   </reviews>
+   <US_Gross>$2,248</US_Gross>
+   <weekend_gross>$466</weekend_gross>
+   <number_of_screens>1</number_of_screens>
+   <highest_grossing_actors_present/>
+   <num_highest_grossing_actors>1</num_highest_grossing_actors>
+   <highest_grossing_actor>mel gibson</highest_grossing_actor>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Crank: High Voltage</name>
+   <company>Lionsgate</company>
+   <genres>
+      <genre>Action</genre>
+   </genres>
+   <authors>
+      <author>Mark Neveldine</author>
+      <author>Brian Taylor</author>
+   </authors>
+   <directors>
+      <director>Mark Neveldine</director>
+      <director>Brian Taylor</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Jason Statham</actor>
+      <actor>Amy Smart</actor>
+      <actor>Dwight Yoakam</actor>
+      <actor>Efren Ramirez</actor>
+      <actor>Clifton Collins Jr.</actor>
+      <actor>Bai Ling</actor>
+   </actors>
+   <release_date>April 17, 2009</release_date>
+   <running_time>96</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>It'd be silly to call Crank: High Voltage over the top: The top is so far below that it isn't even visible. But at this mostly unexplored altitude--only 2007's inferior "Shoot 'Em Up" comes close.</snippet>
+         <url>http://www.avclub.com/articles/crank-high-voltage,26829/</url>
+         <critic>Josh Modell</critic>
+      </review>
+      <review>
+         <snippet>The result, an eye-popping strobe of flesh and blood, is as visually stunning as it is absurdly offensive, sure to thrill some while leaving others in a state of outrage-induced catatonia.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20273389,00.html</url>
+         <critic>Adam Markovitz</critic>
+      </review>
+      <review>
+         <snippet>This time, the adrenalized formula is even more unpredictable, with twists, turns, curves, and splurges taking the viewer on a rollercoaster ride unlike any other.</snippet>
+         <url>http://movies.tvguide.com/crank-high-voltage/review/293896</url>
+         <critic>Jeremy Wheeler</critic>
+      </review>
+      <review>
+         <snippet>Crank 2: High Voltage is the freak show act at a carnival. It's so over-the-top that the phrase ceases to have meaning in this context. It's a bizarre concoction of testosterone, adrenaline, and psychedelics. It seeks not only to top its predecessor, "Crank," but to outdo itself at every turn.</snippet>
+         <url>http://www.reelviews.net/php_review_template.php?identifier=1602</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>Proof that you can make good movies based on video games, as long as you don't bother making a video game first. Juice us up for Crank 3D.</snippet>
+         <url>http://www.empireonline.com/reviews/reviewcomplete.asp?FID=135905</url>
+         <critic>Helen O&amp;#039;Hara</critic>
+      </review>
+      <review>
+         <snippet>The movie thrives on absurdity and outrage, calculating that at some point you'll give in to its gonzo energies and go along for the ride.</snippet>
+         <url>http://www.latimes.com/entertainment/la-et-crankreview18-2009apr18,0,905070.story</url>
+         <critic>Sam Adams</critic>
+      </review>
+      <review>
+         <snippet>Follows the same formula as the first, with one difference: They've managed to ramp up the action and vulgarity beyond the insane heights of the original.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film-reviews/film-review-crank-high-voltage-1003963830.story</url>
+         <critic>Frank Scheck</critic>
+      </review>
+      <review>
+         <snippet>If you have a propensity for motion sickness you would be best served staying away. This movie is Tarantino on speed, and without focus and style. It is in-your-face and proud of it with no apologies.</snippet>
+         <url>http://www.premiere.com/Review/Movies/Crank-High-Voltage</url>
+         <critic>Rob Calvert</critic>
+      </review>
+      <review>
+         <snippet>Laughably and knowingly preposterous, cheerfully un-PC, and violent in a way that makes the myriad slaphappy deaths of Wile E. Coyote seem downright dull in comparison.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A765598</url>
+         <critic>Marc Savlov</critic>
+      </review>
+      <review>
+         <snippet>Imagine some very smart people setting out to make a very naughty action film and shooting themselves in the foot. Voila: Crank: High Voltage.</snippet>
+         <url>http://www.boston.com/ae/movies/articles/2009/04/18/crank_in_need_of_a_heart/</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>In Crank: High Voltage, Statham just looks miserable, as if appearing in this lousy picture just sucked all the heart right out of him.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2009/04/18/crank/index.html</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>The movie feels like a form of aversion therapy designed to take the fun out of dumb.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20090420.wcrank20art1625/BNStory/Entertainment/home</url>
+         <critic>Liam Lacey</critic>
+      </review>
+      <review>
+         <snippet>Boorish, bigoted and borderline pornographic.</snippet>
+         <url>http://www.nytimes.com/2009/04/18/movies/18cran.html?_r=1&amp;ref=movies</url>
+         <critic>Jeannette Catsoulis</critic>
+      </review>
+      <review>
+         <snippet>Benefits of the first film's ancillary gross-out will jolt "Voltage" like a speedball shot to the groin, until word of mouth spreads like an STD.</snippet>
+         <url>http://www.variety.com/review/VE1117940069.html?categoryid=31&amp;cs=1</url>
+         <critic>Rob Nelson</critic>
+      </review>
+      <review>
+         <snippet>The diminishing returns of shock value are the movie's built-in joke, and it would be a lot funnier without the directors' unforgivably bratty postsexist/postracist/posthuman showboating.</snippet>
+         <url>http://www.laweekly.com/2009-04-23/film-tv/movie-reviews-earth-the-garden-obsessed/</url>
+         <critic>Jim Ridley</critic>
+      </review>
+   </reviews>
+   <US_Gross>$13,684,249</US_Gross>
+   <weekend_gross>$6,963,565</weekend_gross>
+   <number_of_screens>2,223</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

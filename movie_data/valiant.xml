@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Valiant</name>
+   <company>Buena Vista Pictures</company>
+   <genres>
+      <genre>Adventure</genre>
+      <genre>Animation</genre>
+      <genre>Comedy</genre>
+      <genre>FamilyKids</genre>
+      <genre>War</genre>
+   </genres>
+   <authors>
+      <author>Jordan Katz</author>
+      <author>George Webster</author>
+      <author>George Melrod</author>
+   </authors>
+   <directors>
+      <director>Gary Chapman</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Ewan McGregor</actor>
+      <actor>Ricky Gervais</actor>
+      <actor>Tim Curry</actor>
+      <actor>Jim Broadbent</actor>
+      <actor>Hugh Laurie</actor>
+      <actor>John Cleese</actor>
+      <actor>John Hurt</actor>
+      <actor>Pip Torrens</actor>
+   </actors>
+   <release_date>August 19, 2005</release_date>
+   <running_time>minutes,</running_time>
+   <rating>G</rating>
+   <reviews>
+      <review>
+         <snippet>A smart, marvelously drawn account of the bravery of homing pigeons during World War II.</snippet>
+         <url>http://www.washingtonpost.com/wp-dyn/content/article/2005/08/18/AR2005081801911.html</url>
+         <critic>Ann Hornaday</critic>
+      </review>
+      <review>
+         <snippet>Valiant enlists a squad of loveable birdbrains to turn the classic fighter-pilot formula into an upbeat adventure film loaded with laughs.</snippet>
+         <url>http://ae.miami.com/entertainment/ui/miami/movie.html?id=392599&amp;reviewId=18857</url>
+         <critic>Peter Debruge</critic>
+      </review>
+      <review>
+         <snippet>While the target audience won't be as familiar with the voice of Gervais as with, say, Eddie Murphy, they'll no doubt love his dirty bird humor.</snippet>
+         <url>http://online.tvguide.com/movies/database/showmovie.asp?MI=46346</url>
+         <critic>Angel Cohn</critic>
+      </review>
+      <review>
+         <snippet>It's a tale with plenty of spirit and a good heart, and yet, this story doesn't so much soar across the screen as it does waddle.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/237135_valiant19q.html</url>
+         <critic>Winda Benedetti</critic>
+      </review>
+      <review>
+         <snippet>Adults expecting a little bit more, "Chicken Run,"  this ain't.</snippet>
+         <url>http://www.premiere.com/article.asp?section_id=2&amp;article_id=2244</url>
+         <critic>Ryan Devlin</critic>
+      </review>
+      <review>
+         <snippet>The best sequence comes when the gang meet a saucy French lady mouse who works for the Resistance and at moments of high drama sings "Je Ne Regrette Rien" ("Ah!" your children will say. "At last, an Edith Piaf joke!")</snippet>
+         <url>http://www.nypost.com/movies/51353.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>It's perhaps the first animated kids' film that can claim to be "based on a true story."</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-050818-movies-review-valiant,0,60085.story?coll=mmx-movies_top_heds</url>
+         <critic>Robert K. Elder</critic>
+      </review>
+      <review>
+         <snippet>Competently done and harmless enough to entertain the tots. It's just that the movie's kind of . . . sparse.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/1124359376192281.xml&amp;coll=7</url>
+         <critic>M. E. Russell</critic>
+      </review>
+      <review>
+         <snippet>Despite a decent cast of mostly British voice actors and better-than-average computer animation, the movie seems rushed at 76 minutes and is only marginally funny.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?file=/c/a/2005/08/19/DDGPLE9EJC1.DTL&amp;type=movies</url>
+         <critic>Peter Hartlaub</critic>
+      </review>
+      <review>
+         <snippet>Valiant is weak tea next to the best of Pixar and DreamWorks.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/ArticleNews/TPStory/LAC/20050819/VALIANT19/TPEntertainment/Film</url>
+         <critic>Jason Anderson</critic>
+      </review>
+      <review>
+         <snippet>It's not as clever as it thinks it is, not as funny or exciting as it should be, and not as engaging as it needs to be to prevent kids from losing interest and parents from falling asleep.</snippet>
+         <url>http://movie-reviews.colossus.net/movies/v/valiant.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>The voice acting is adequate, but it fails to convey the diversity or personality of "Chicken Run" or "Shrek."</snippet>
+         <url>http://listings.dallasobserver.com/gyrobase/Film/ShowFilm</url>
+         <critic>Jean Oppenheimer</critic>
+      </review>
+      <review>
+         <snippet>Given all its World War II references and parodies, the best audience for Valiant would be addled, octogenarian ex-RAF pilots in the old folks' home.</snippet>
+         <url>http://www.slate.com/id/2125179/?nav=fo</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>A mite too hard to follow for most of the kiddie crowd who'll want to see it.</snippet>
+         <url>http://www.washingtonpost.com/wp-dyn/content/article/2005/08/18/AR2005081800550.html</url>
+         <critic>Michael O&amp;#039;Sullivan</critic>
+      </review>
+      <review>
+         <snippet>The CG is on the rubbery side, and the backdrops are jarringly 2-D. But Valiant isn't so hard to look at -- it's hard to listen to.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1095033_1_0_,00.html</url>
+         <critic>Scott Brown</critic>
+      </review>
+      <review>
+         <snippet>The main problem with this Disney release--which also wastes the voices of Ricky Gervais and Jim Broadbent--is its refusal to recognize the war as anything but an excuse for tomfoolery.</snippet>
+         <url>http://www.villagevoice.com/film/0533,tracking3,66903,20.html</url>
+         <critic>Akiva Gottlieb</critic>
+      </review>
+      <review>
+         <snippet>Valiant is voiced by Robots' Ewan McGregor, an actor apparently no longer in a "Trainspotting" mood.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2005-08-18-valiant_x.htm</url>
+         <critic>Mike Clark</critic>
+      </review>
+      <review>
+         <snippet>The visuals might be undistinguished, but the voices are excellent.</snippet>
+         <url>http://www.nydailynews.com/08-19-2005/entertainment/col/story/338543p-289023c.html</url>
+         <critic>Jami Bernard</critic>
+      </review>
+      <review>
+         <snippet>The violence is minimal, and the humor is inoffensive enough for tots, but everything is damned soft--from the fuzzy backgrounds to the enemy's diluted Germanness.</snippet>
+         <url>http://spacefinder.chicagoreader.com/movies/briefs/28393_VALIANT.html</url>
+         <critic>Andrea Gronvall</critic>
+      </review>
+      <review>
+         <snippet>Valiant is in dire need of some "Shrek"-ian sass, not to mention a drop or two of genuine emotion.</snippet>
+         <url>http://movies2.nytimes.com/2005/08/19/movies/19vali.html</url>
+         <critic>Stephen Holden</critic>
+      </review>
+      <review>
+         <snippet>It was made fast and cheap, which shows in every none-too-slick frame.</snippet>
+         <url>http://avclub.com/content/node/25614</url>
+         <critic>Tasha Robinson</critic>
+      </review>
+      <review>
+         <snippet>A plucky little bird that just won't fly.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1000865912</url>
+         <critic>Ray Bennett</critic>
+      </review>
+      <review>
+         <snippet>Fails to get off the ground due to a by-numbers script and dodo-ugly character design.</snippet>
+         <url>http://www.variety.com/review/VE1117926691?categoryid=31&amp;cs=1</url>
+         <critic>Leslie Felperin</critic>
+      </review>
+      <review>
+         <snippet>Unless your child has a close working knowledge of the role of homing pigeons in World War II British espionage, he or she is likely to be bamboozled for the duration.</snippet>
+         <url>http://www.laweekly.com/film/film_results.php?showid=3515&amp;Sumbit.x=48&amp;Sumbit.y=16</url>
+         <critic>Ella Taylor</critic>
+      </review>
+      <review>
+         <snippet>The top-secret message this pigeon is carrying reads ''Wait for the DVD."</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=7511</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>An unconscionably dreary and amateurish-looking thing, and the rote plot and annoyingly predictable script -- a compendium of bird puns, mostly -- don't work nearly hard enough to make up for the hammy awfulness of the images.</snippet>
+         <url>http://www.calendarlive.com/movies/chocano/cl-et-valiant19aug19,0,4518659.story</url>
+         <critic>Carina Chocano</critic>
+      </review>
+      <review>
+         <snippet>The movie makes use of every avian pun possible, a pattern that becomes quickly monotonous and predictable, if not contagious.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A284682</url>
+         <critic>Marjorie Baumgarten</critic>
+      </review>
+   </reviews>
+   <US_Gross>$19,478,106</US_Gross>
+   <production_budget>$35,000,000</production_budget>
+   <weekend_gross>$5,914,722</weekend_gross>
+   <number_of_screens>2,014</number_of_screens>
+   <highest_grossing_actors_present/>
+   <num_highest_grossing_actors>1</num_highest_grossing_actors>
+   <highest_grossing_actor>ewan mcgregor</highest_grossing_actor>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

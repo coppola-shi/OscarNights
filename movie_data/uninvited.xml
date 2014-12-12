@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Uninvited, The</name>
+   <company>DreamWorks Pictures (Paramount)</company>
+   <genres>
+      <genre>Drama</genre>
+      <genre>Horror</genre>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>Craig Rosenberg</author>
+      <author>Doug Miro</author>
+      <author>Carlo Bernard</author>
+   </authors>
+   <directors>
+      <director>Thomas Guard</director>
+      <director>Charles Guard</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Elizabeth Banks</actor>
+      <actor>Emily Browning</actor>
+      <actor>Arielle Kebbel</actor>
+      <actor>David Strathairn</actor>
+   </actors>
+   <release_date>January 30, 2009</release_date>
+   <running_time>87</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>Emily Browning's face helps The Uninvited work so well...She makes you fear for her, and that's half the battle. Yet she's so fresh she's ready for a Jane Austen role.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20090128/REVIEWS/901289983</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>The Uninvited is a flawed production, but gratifying in the way it delivers. The interesting and unique elements of the movie effectively compensate for the formulaic way in which the plot develops.</snippet>
+         <url>http://www.reelviews.net/php_review_template.php?identifier=1467</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>Won't make anyone forget "The Shining," but it's a nice throwback to the days when scary movies featured pretty good actors, a plot that holds together and a couple of creepy-looking ghost kids.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2009/01/29/DDBH15IU4L.DTL&amp;type=movies</url>
+         <critic>Peter Hartlaub</critic>
+      </review>
+      <review>
+         <snippet>A remake of the 2003 Korean horror film "A Tale of Two Sisters," The Uninvited is a Hand That Rocks the Cradle–type thriller that's been dressed up as a horror movie.</snippet>
+         <url>http://www.laweekly.com/2009-01-29/film-tv/movie-reviews-new-in-town-taken-the-uninvited/2</url>
+         <critic>Chuck Wilson</critic>
+      </review>
+      <review>
+         <snippet>With visual nods to Stanley Kubrick's "The Shining" and a fairly faithful adherence to the tenor and tone of the Korean scare genre, The Uninvited doesn't startle and shock so much as it lulls you into a series of unsettling, hallucinogenic set pieces.</snippet>
+         <url>http://www.philly.com/philly/entertainment/movies/20090130_Much_blood__but_too_much_torpor.html</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>Don't be too quick to turn down The Uninvited. 
+A stylish horror thriller in the vein of "The Ring," it's well-acted, frightening and handsomely produced</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2009-01-29-the-uninvited_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>The actors are strong, however, and Banks in particular shows some skill and wiles in keeping her rascally stepmother stereotype lively.</snippet>
+         <url>http://www.chicagotribune.com/entertainment/movies/chi-0130-uninvited-reviewjan30,0,917877.story</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>Experienced horror fans will probably stay one step ahead of the game, but it's still a nice ride.</snippet>
+         <url>http://www.washingtonpost.com/gog/movies/the-uninvited,1149799.html</url>
+         <critic>Mike Mayo</critic>
+      </review>
+      <review>
+         <snippet>The result is a middling Frankenstein-like hybrid of spectral mayhem and murder mystery, constructed entirely out of borrowed parts.</snippet>
+         <url>http://www.avclub.com/articles/the-uninvited,23218/</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>The film is still cheesy rather than deliciously scary. It never really generates sustained suspense.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film-reviews/film-review-the-uninvited-1003936326.story</url>
+         <critic>Stephen Farber</critic>
+      </review>
+      <review>
+         <snippet>The first Hollywood horror flick I've seen that seems like it was made specifically for 12-year-olds.</snippet>
+         <url>http://www.miamiherald.com/entertainment/movies/reviews/story/878144.html</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>The main problem with The Uninvited lies in its refusal to decide just what movie it wants to be a commercial for. It certainly doesn’t have much in common with "A Tale of Two Sisters," the creepy Korean horror film of which it is supposedly a remake.</snippet>
+         <url>http://movies.nytimes.com/2009/01/30/movies/30unin.html?ref=movies</url>
+         <critic>A.O. Scott</critic>
+      </review>
+      <review>
+         <snippet>The horror flick The Uninvited is not unclever - but it is unoriginal.</snippet>
+         <url>http://www.nypost.com/seven/01302009/entertainment/movies/from_fear_to_maternity_152654.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>Once spoiled by the gossamer disquietude of Kim Jee-woon's original Tale, it's difficult to view this Americanized version in anything but the blandest light.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A731103</url>
+         <critic>Kimberley Jones</critic>
+      </review>
+      <review>
+         <snippet>Poor remake of the Korean thriller.</snippet>
+         <url>http://www.empireonline.com/reviews/reviewcomplete.asp?FID=135866</url>
+         <critic>Kim Newman</critic>
+      </review>
+      <review>
+         <snippet>As is generally the case with Hollywood movies that use Asian horror films as their inspiration, the Guard brothers seem to have glanced at the original, borrowed a few images and then made the movie according to some preconceived template of what makes audiences jump -- instead of burrowing into the stuff that haunts our dreams.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2009/01/30/uninvited/</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>Weak even by the standard of uninspired recent Asian-horror remakes, The Uninvited is more likely to induce snickers and yawns than shudders and yelps.</snippet>
+         <url>http://www.variety.com/review/VE1117939512.html?categoryid=31&amp;cs=1</url>
+         <critic>Dennis Harvey</critic>
+      </review>
+      <review>
+         <snippet>Yeah, this is pretty much your classic been-there, done-that scenario: evil stepmother, clueless father, imperiled teen.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2009/01/29/2009-01-29_stepmom_shocker_the_uninvited_is_wickedl.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>The plot borrows as freely from Hitchcock and Henry James as from the Bard of Avon, and doesn't make scrupulous sense, though I'd have to see the film again, which I won't do, to make sure it doesn't cheat.</snippet>
+         <url>http://online.wsj.com/article/film_review.html</url>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>The climax is the only thing for which the rest of this flick exists.</snippet>
+         <url>http://www.premiere.com/Review/Movies/The-Uninvited</url>
+         <critic>Richard Chester</critic>
+      </review>
+      <review>
+         <snippet>Without dwelling on the limited abilities of novice British filmmakers Tom and Charles Guard (a.k.a. the Guard Brothers) -- who seem to have divvied up duties here by having one sibling focus exclusively on close-up shots of doorknobs and the other oversee everything else -- the movie's fatal flaw is the undeveloped relationship between the two sisters.</snippet>
+         <url>http://www.latimes.com/entertainment/news/reviews/la-et-uninvited30-2009jan30,0,178416.story</url>
+         <critic>Glenn Whipp</critic>
+      </review>
+      <review>
+         <snippet>A brutally inane movie.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=11953</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>It's best to line The Uninvited right up on the soon-to-be-forgotten shelves next to the now third-generation Asian remakes and wait for the next effective foreign genre fare for Hollywood to butcher and rehash.</snippet>
+         <url>http://movies.tvguide.com/uninvited/review/296532</url>
+         <critic>Jeremy Wheeler</critic>
+      </review>
+      <review>
+         <snippet>Horror standbys like mangled corpses and stone-faced children pop up regularly, but sibling directors Charles and Thomas Guard haven't quite nailed the genre's rhythms.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20255812,00.html</url>
+         <critic>Adam Markovitz</critic>
+      </review>
+   </reviews>
+   <US_Gross>$28,596,818</US_Gross>
+   <weekend_gross>$10,325,824</weekend_gross>
+   <number_of_screens>2,344</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Twist of Faith</name>
+   <company>Artistic License</company>
+   <genres>
+      <genre>Documentary</genre>
+   </genres>
+   <authors>
+      <author/>
+   </authors>
+   <directors>
+      <director>Kirby Dick</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Jeff Anderson</actor>
+      <actor>Tony Comes</actor>
+      <actor>Wendy Comes</actor>
+      <actor>Catherine Hoolahan</actor>
+      <actor>Dennis O&amp;#039;Loughlin</actor>
+      <actor>Matthew Simon</actor>
+      <actor>Father Stephen Stanbery</actor>
+   </actors>
+   <release_date>July 1, 2005</release_date>
+   <running_time>87</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>This isn't a story about how thousands of youths were betrayed by the institution that was supposed to protect them; this is a bruising chronicle of how one life was damaged nearly to the point of ruin.</snippet>
+         <url>http://www.filmthreat.com/Reviews.asp?Id=6824</url>
+         <critic>Peter Hanson</critic>
+      </review>
+      <review>
+         <snippet>Riveting.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1000780040</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>A powerful and damning look at the long-term impact of sexual abuse.</snippet>
+         <url>http://www.variety.com/index.asp?layout=sundance2005&amp;nav=reviews&amp;content=reviews&amp;reviewid=VE1117926129&amp;categoryid=1865&amp;cs=</url>
+         <critic>Dennis Harvey</critic>
+      </review>
+      <review>
+         <snippet>Puts a face on the clerical sex scandals rocking the Roman Catholic Church.</snippet>
+         <url>http://www.nypost.com/movies/49120.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>Perhaps because the trial hits so many delays and roadblocks, Twist Of Faith doesn't gather much dramatic momentum, though there's something to be said for the emotional grind of running in place.</snippet>
+         <url>http://www.theavclub.com/review.php?review_id=8680</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>It's a demanding film but one filled with important truths about humanity in all its denominations.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-capsules22jul22,0,6811341.story</url>
+         <critic>Shawn Hubler</critic>
+      </review>
+      <review>
+         <snippet>Director Kirby Dick (Derrida) shapes the movie in such a way as to leave everyone flummoxed.</snippet>
+         <url>http://www.villagevoice.com/film/0526,bk2,65389,20.html</url>
+         <critic>Ben Kenigsberg</critic>
+      </review>
+      <review>
+         <snippet>Like so many true stories, Comes' lacks the clarity and comforting resolution of fiction</snippet>
+         <url>http://tvguide.com/movies/database/showmovie.asp?MI=45469</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>Doesn't offer much new in the way of news or analysis. What it does offer is inspiration from an unlikely source, via an unsparing look at one such victim.</snippet>
+         <url>http://www.laweekly.com/film/film_results.php?showid=3478&amp;Sumbit.x=31&amp;Sumbit.y=14</url>
+         <critic>Ron Stringer</critic>
+      </review>
+   </reviews>
+   <US_Gross>$8,129</US_Gross>
+   <weekend_gross>$2,085</weekend_gross>
+   <number_of_screens>2</number_of_screens>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>true</independence_release>
+   <labor_release>false</labor_release>
+</movie>

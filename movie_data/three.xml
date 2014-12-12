@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Thr3e</name>
+   <company>Twentieth Century-Fox Film Corporation</company>
+   <genres>
+      <genre>Drama</genre>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>Alan B. Mc</author>
+      <author>Elroy</author>
+      <author>Ted Dekker</author>
+   </authors>
+   <directors>
+      <director>Robby Henson</director>
+   </directors>
+   <origins>
+      <origin>PolandUSA</origin>
+   </origins>
+   <actors>
+      <actor>Marc Blucas</actor>
+      <actor>Justine Waddell</actor>
+      <actor>Laura Jordan</actor>
+      <actor>Max Ryan</actor>
+      <actor>Bill Moseley</actor>
+      <actor>Sherman Augustus</actor>
+      <actor>Priscilla Barnes</actor>
+      <actor>Tom Bower</actor>
+   </actors>
+   <release_date>January 5, 2007</release_date>
+   <running_time>105</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>Could pass for any serial killer movie except for some pertinent philosophizing about the nature of evil and the operations of the soul.</snippet>
+         <url>http://ae.charlotte.com/entertainment/ui/charlotte/movie.html;jsessionid=675C4FA50D89E9291EC61231B6796460.prodapp12_ae_01?id=777206&amp;reviewId=22041&amp;startDate=01%2F06%2F2007</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>The vile sadism of the Saw movies has been replaced by decorative references to Saint Augustine and Immanuel Kant, and there's a beautiful but brainy police profiler (Waddell) on hand to dispense a thick layer of psychobabble.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/30933_THREE_HENSON.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>A pretty run-of-the-mill B suspense movie.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/moviereviews/story/485794p-408906c.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>Most of the fun to be had with Thr3e is to spot the movies from which it cribs. Beyond that, what one has is a conventional psychological thriller that cheats too often and depends on actors determined to play only one note.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-to.thr3e05jan05,0,1606501.story?coll=bal-movies-utility</url>
+         <critic>Chris Kaltenbach</critic>
+      </review>
+      <review>
+         <snippet>The fairly routine plot is made somewhat more interesting by the infusion of issues regarding morality and faith, but ultimately Three, for all its philosophizing, is little more than a standard serial-killer movie with pretensions.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?JSESSIONID=FgGCcQt2T5812yPc9kdhgQvMjG0pMLf3j2Fc5nVbCJXmVm3KtyGG!606105796&amp;&amp;rid=8594</url>
+         <critic>Frank Scheck</critic>
+      </review>
+      <review>
+         <snippet>Ultimately aimed at a Christian audience looking for genre entertainment with a certain sense of propriety (which partly translates into there being no murders), the film tries to serve two masters and doesn't quite deliver for either.</snippet>
+         <url>http://tvguide.com/detail/movie.aspx?tvobjectid=285479&amp;more=ucmoviereview</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>Indeed, you could argue that weighty questions about the nature of evil and the allure of sin figured more prominently in the similarly titled "Se7en," one of several other, better suspensers dimly echoed here.</snippet>
+         <url>http://www.variety.com/review/VE1117932395.html?categoryid=31&amp;cs=1</url>
+         <critic>Joe Leydon</critic>
+      </review>
+      <review>
+         <snippet>Unfortunately, the filmmakers failed to replace sex, splatter and cursing with sharp dialogue, characters and plotting.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/1167872106236850.xml&amp;coll=7</url>
+         <critic>M. E. Russell</critic>
+      </review>
+      <review>
+         <snippet>Marc Blucas as the hunted seminary student Kevin Parson might as well be dead for all his charisma.</snippet>
+         <url>http://www.villagevoice.com/film/0701,grose,75457,20.html</url>
+         <critic>Jessica Grose</critic>
+      </review>
+      <review>
+         <snippet>This is one of the most confusing, horribly written movies I've ever seen, and I'm the king of watching bad movies ... and liking them.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/298431_thr3e05q.html</url>
+         <critic>Thom Koschwanez</critic>
+      </review>
+      <review>
+         <snippet>Suspenselessly directed by Robby Henson, Thr3e commits the eighth deadly sin - boredom.</snippet>
+         <url>http://www.nypost.com/seven/01052007/entertainment/movies/testament_to_boredom_movies_lou_lumenick.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>A frustrating exercise in diverted expectations.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A433214</url>
+         <critic>Marjorie Baumgarten</critic>
+      </review>
+      <review>
+         <snippet>Thr3e needs help with more than spelling.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1131659&amp;categories=Movies&amp;nm=1</url>
+         <critic>Stephen Hunter</critic>
+      </review>
+   </reviews>
+   <US_Gross>$1,008,849</US_Gross>
+   <production_budget>$2,400,000</production_budget>
+   <weekend_gross>$675,000</weekend_gross>
+   <number_of_screens>458</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

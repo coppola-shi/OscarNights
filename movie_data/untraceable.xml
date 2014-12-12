@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Untraceable</name>
+   <company>Screen Gems (Sony)</company>
+   <genres>
+      <genre>Crime</genre>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>Robert Fyvolent</author>
+      <author>Mark R. Brinker</author>
+      <author>Allison Burnett</author>
+   </authors>
+   <directors>
+      <director>Gregory Hoblit</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Diane Lane</actor>
+      <actor>Billy Burke</actor>
+      <actor>Colin Hanks</actor>
+      <actor>Joseph Cross</actor>
+      <actor>Mary Beth Hurt</actor>
+   </actors>
+   <release_date>January 25, 2008</release_date>
+   <running_time>100</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>A horrifying thriller, smart and tightly told, and merciless.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20080124/REVIEWS/801240301</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>Unfolding like a better-than-average episode of a first-rate TV police procedural, Untraceable is a satisfying slice of solidly crafted meat-and-potatoes filmmaking.</snippet>
+         <url>http://www.variety.com/review/VE1117935810.html?categoryid=31&amp;cs=1&amp;p=0</url>
+         <critic>Joe Leydon</critic>
+      </review>
+      <review>
+         <snippet>Highly watchable, anchored sturdily by Lane's convincing performance.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?JSESSIONID=B5m1HV8p5rTwh1CHWFpzjY7J8KDD10JjjbnQn9vM2NKg96BDcHT1!-1562314872&amp;&amp;rid=10469</url>
+         <critic>Michael Rechtshaffen</critic>
+      </review>
+      <review>
+         <snippet>If Dick Wolf is interested in doing a "Law &amp; Order: Cyber Crimes," he could do worse than to follow the lead of Untraceable, a diverting police procedural about an FBI unit tasked with sleuthing the Internet for mouse-wielding bad guys.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-untraceable25jan25,0,5331675.story</url>
+         <critic>Kevin Crust</critic>
+      </review>
+      <review>
+         <snippet>Lane skillfully sells the tech-heavy script. But after a much-too-early reveal of the murderer's identity, the ''low battery'' signal starts to flash on this film by thriller specialist Gregory Hoblit, director of last year's far superior "Fracture."</snippet>
+         <url>http://www.ew.com/ew/article/0,,20173410,00.html</url>
+         <critic>Clark Collis</critic>
+      </review>
+      <review>
+         <snippet>I like the idea of a cybercrimes agent cracking cases through superior knowledge of the Internet.  Marsh could be a great heroine for a continuing series. But Untraceable essentially forces its audience to identify with those who would be willing accomplices to torture and murder. To understate the point, that's not an audience-friendly approach.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2008/01/25/2008-01-25_untraceable_is_tough_on_siteseers-1.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>Lane gives the film her best shot; she's pretty much the only reason to see it. There's an intelligence mixed with ferocity that makes her performance compelling, far-more-so than anything else in the film.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/reviews/bal-to.untraceable25jan25,0,4364884.story</url>
+         <critic>Chris Kaltenbach</critic>
+      </review>
+      <review>
+         <snippet>From its very first scene, Untraceable isn't the sophisticated, brainy thriller it so nearly could have been, but just another movie about a serial murderer.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1140269&amp;categories=Movies&amp;nm=1</url>
+         <critic>Ann Hornaday</critic>
+      </review>
+      <review>
+         <snippet>The film, which has the ingredients for a thoughtful, tense thriller throws away a compelling first half so it can descend into silliness and clichés.</snippet>
+         <url>http://www.reelviews.net/movies/u/untraceable.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>Over and over again, Hoblit misses opportunities to make an engaging picture, instead giving us a merely pedestrian one.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2008/01/25/untraceable/</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>Even worse than its hypocrisy, gratuitous homophobia and cheap proselytizing, the movie is dull.</snippet>
+         <url>http://www.tvguide.com/movies/untraceable/review/292199</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>While the punishments and triumphs are absolute, the entertainment value is highly equivocal. This ultimately relegates Untraceable to the ranks of so-so thrillers with legitimate but half-developed intellectual aspirations. And since you inspired the movie in the first place, part of the responsibility rests on, well, you.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20080124.wtraceable25/BNStory/Entertainment/home</url>
+         <critic>Kamal AL-Solaylee</critic>
+      </review>
+      <review>
+         <snippet>A genuinely creepy film, though not in a "No Country for Old Men" kind of way. More in an overzealous-blog-comments kind of way, or a dude-on-the-bus-looking-at-me kind of way. Just ugh.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/348644_untraceable25q.html</url>
+         <critic>Travis Nichols</critic>
+      </review>
+      <review>
+         <snippet>Not only does Untraceable unmask its initially hidden killer with little ceremony, it's the sort of film that telegraphs every new development.</snippet>
+         <url>http://www.avclub.com/content/cinema/untraceable</url>
+         <critic>Keith Phipps</critic>
+      </review>
+      <review>
+         <snippet>Yet another mediocre-to-lame thriller shot in Portland.</snippet>
+         <url>http://www.oregonlive.com/movies/index.ssf/2008/01/movie_review_untraceable_compu.html</url>
+         <critic>M. E. Russell</critic>
+      </review>
+      <review>
+         <snippet>Computer movies have come a long way since the good old days of monitors projecting vector graphics on hackers’ faces, but there are still some forehead slappers in Untraceable.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=10735</url>
+         <critic>Pete Vonder Haar</critic>
+      </review>
+      <review>
+         <snippet>A competent suspenser, helped by the always-dependable Diane Lane, but it suffers by following the modern thriller playbook to the letter.</snippet>
+         <url>http://www.empireonline.com/reviews/reviewcomplete.asp?FID=135243</url>
+         <critic>Ian Freer</critic>
+      </review>
+      <review>
+         <snippet>An abhorrent cyberthriller starring a compelling Diane Lane.</snippet>
+         <url>http://www.philly.com/inquirer/columnists/carrie_rickey/20080125_Lane__great__the_film__torture.html</url>
+         <critic>Carrie Rickey</critic>
+      </review>
+      <review>
+         <snippet>It's a warmed-over suspense thriller that's more disturbing than it is surprising or scary.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=9468</url>
+         <critic>Janice Page</critic>
+      </review>
+      <review>
+         <snippet>The latest, Untraceable, owes everything to “Lambs,” and to “Se7en,” and to all the “Lambs” and “Se7en” knockoffs made by directors less talented than Jonathan Demme and David Fincher. In addition to being dull, the Portland, Ore. -set Untraceable is a monster hypocrite, wagging its finger at the mass audience’s appetite for strictly regimented, “creative” torture scenarios.</snippet>
+         <url>http://chicago.metromix.com/movies/movie_review/movie-review-untraceable/289906/content</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>A wan version of the same old tired serial killer story, despite its updated milieu -- cyberspace.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2008-01-24-untraceable_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>Directed by Gregory Hoblit from a screenplay by a trio (a trio!) of whomevers, Untraceable hasn't the brains of a class-act psychothriller like "The Silence of the Lambs" (though it does reprise that film's titillating homophobia); worse yet, it lacks the balls to juice up the trashy verve of the "Saw" series.</snippet>
+         <url>http://www.villagevoice.com/film/0804,lee,78919,20.html</url>
+         <critic>Nathan Lee</critic>
+      </review>
+      <review>
+         <snippet>The movie chides us for being a sick voyeuristic society, hungry for the sight of violence. The purity of this moral stance is somewhat clouded by the movie's habit of staging sick violent acts.</snippet>
+         <url>http://www.nypost.com/seven/01252008/entertainment/movies/call_a_help_desk_584802.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>Tepid, borderline offensive cyber-serial killer thriller.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A583315</url>
+         <critic>Marc Savlov</critic>
+      </review>
+      <review>
+         <snippet>You may view Untraceable, as I do, as a repugnant example of the voyeurism it pretends to condemn.</snippet>
+         <url>http://movies.nytimes.com/2008/01/25/movies/25untr.html?ref=movies</url>
+         <critic>Stephen Holden</critic>
+      </review>
+      <review>
+         <snippet>By now the hypocrisy of simultaneously condemning and exploiting the audience's sadism has become so commonplace in American movies it hardly seems noteworthy.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/nextweek/32683_UNTRACEABLE.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>This joyless thriller runs the gamut from unconscionable through unwatchable to unendurable.</snippet>
+         <url>http://online.wsj.com/article/SB120121992778015271.html</url>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>Talk about your pious frauds. I've got a better way to show your disgust for Internet scum: Don't see Untraceable.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/15086810/review/18067067/untraceable</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>As plain awful as Untraceable is, possibly the worst thing about it is that it pretends to mean something.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2008/01/25/DDTQUKDP7.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>Untraceable really is disgraceable. It's bad enough when a movie offers up atrocity scenes that would make the Nanking soldiers seem like Hannah Montana; it's repellent when the movie dresses up the sadism in a moral message that condemns the very weakness it is exploiting.</snippet>
+         <url>http://www.time.com/time/arts/article/0,8599,1706925,00.html</url>
+         <critic>Richard Corliss</critic>
+      </review>
+   </reviews>
+   <US_Gross>$28,687,835</US_Gross>
+   <production_budget>$35,000,000</production_budget>
+   <weekend_gross>$11,354,069</weekend_gross>
+   <number_of_screens>2,368</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

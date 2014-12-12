@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Tripper, The</name>
+   <company>Coquette Productions / NaVinci Films</company>
+   <genres>
+      <genre>Horror</genre>
+   </genres>
+   <authors>
+      <author>David Arquette</author>
+      <author>Joe Harris</author>
+   </authors>
+   <directors>
+      <director>David Arquette</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>David Arquette</actor>
+      <actor>Richmond Arquette</actor>
+      <actor>Courteney Cox</actor>
+      <actor>Paz de la Huerta</actor>
+      <actor>Ben Gardiner</actor>
+      <actor>Balthazar Getty</actor>
+      <actor>Lukas Haas</actor>
+      <actor>Josh Hammond</actor>
+   </actors>
+   <release_date>April 20, 2007</release_date>
+   <running_time>97</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>A convoluted mess of a horror movie.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2007/04/20/2007-04-20_tripper_stumbles_around.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>A mostly dull-blade exercise that offers little to think or scream about.</snippet>
+         <url>http://www.variety.com/review/VE1117933386.html?categoryid=31&amp;cs=1</url>
+         <critic>Justin Chang</critic>
+      </review>
+   </reviews>
+   <US_Gross>$23,200</US_Gross>
+   <weekend_gross>$20,840</weekend_gross>
+   <number_of_screens>50</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

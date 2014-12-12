@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Descent</name>
+   <company>City Lights Pictures</company>
+   <genres>
+      <genre>Drama</genre>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>Talia Lugacy</author>
+      <author>Brian Priest</author>
+   </authors>
+   <directors>
+      <director>Talia Lugacy</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Rosario Dawson</actor>
+      <actor>Chad Faust</actor>
+      <actor>Marcus Patrick</actor>
+      <actor>Christopher DeBlasio</actor>
+      <actor>Sergia Louise Anderson</actor>
+      <actor>Chuck Ardezzone</actor>
+   </actors>
+   <release_date>August 10, 2007</release_date>
+   <running_time>minutes,</running_time>
+   <rating/>
+   <reviews>
+      <review>
+         <snippet>It's been a while since we saw a demagogic feminist exploitation revenge drama, and Descent, while top-heavy with ''agenda,'' is shrewdly done.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20051860,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>It's a lot like a '70s exploitation movie, with its determination to seduce and shock the viewer with alternating currents of electrical stimulus, and its weird combination of arty arch-decadence and neo-Victorian moralizing.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2007/08/09/btm/index4.html</url>
+         <critic>Andrew O&amp;#039;Hehir</critic>
+      </review>
+      <review>
+         <snippet>Hard to watch but essential to see, Descent is at once realistic and rhetorical, and driven throughout by righteous anger that comes from an honest place.</snippet>
+         <url>http://movies.nytimes.com/2007/08/10/movies/10desc.html?ref=movies</url>
+         <critic>Matt Zoller Seitz</critic>
+      </review>
+      <review>
+         <snippet>A well-acted trifle straining to be a hard-hitting morality play.</snippet>
+         <url>http://www.villagevoice.com/film/0732,hardy,77460,20.html</url>
+         <critic>Ernest Hardy</critic>
+      </review>
+      <review>
+         <snippet>Though a clearly gifted new filmmaker, Lugacy doesn't get a handle on the combustible material, and she gets scalded in the process.</snippet>
+         <url>http://www.avclub.com/content/cinema/descent</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>Pic's message is the one thing that's made clear: A victim can sink lower than her predator. Whether receiving that message justifies the cost of watching Descent is another question.</snippet>
+         <url>http://www.variety.com/review/VE1117934287.html?categoryid=31&amp;cs=1&amp;p=0</url>
+         <critic>John Anderson</critic>
+      </review>
+      <review>
+         <snippet>Too elliptical to be convincing.</snippet>
+         <url>http://www.tvguide.com/detail/movie.aspx?tvobjectid=289722&amp;more=ucmoviereview</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>Depending on your revenge story preferences, the brutally pretentious Descent is either a payback flick with an agonizingly formless middle, or a soul-darkening head trip bracketed by a crude vengeance tale. Mostly, though, it's indie provocation trapped between shock and blah.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-descent10aug10,0,1930563.story?coll=cl-mreview</url>
+         <critic>Robert Abele</critic>
+      </review>
+      <review>
+         <snippet>There is no excusing date rape, but the revenge conceived and executed by Rosario Dawson's Maya in this revolting, amateurish drama is something you might only wish on Osama Bin Laden.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2007/08/10/2007-08-10_short_takes.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>Even worse than the hacky chick revenge fantasy now showing on channel 186 of your box.</snippet>
+         <url>http://www.nypost.com/seven/08102007/entertainment/movies/steep_drop_into_clich_s_movies_kyle_smith.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+   </reviews>
+   <US_Gross>$15,233</US_Gross>
+   <weekend_gross>$8,411</weekend_gross>
+   <number_of_screens>2</number_of_screens>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

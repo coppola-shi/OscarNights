@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Giuliani Time</name>
+   <company>Cinema Libre Studio</company>
+   <genres>
+      <genre>Documentary</genre>
+   </genres>
+   <authors>
+      <author/>
+   </authors>
+   <directors>
+      <director>Kevin Keating</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Rudolph W. Giuliani</actor>
+   </actors>
+   <release_date>May 12, 2006</release_date>
+   <running_time>130</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>The result is fearlessly divisive and will no doubt play according to viewers' preexisting perceptions.</snippet>
+         <url>http://online.tvguide.com/newsearch/detail.aspx?id=46929&amp;sourcetype=m&amp;progseriesparentid=0&amp;tvobjectid=0&amp;keyword=&amp;more=ucmoviereview</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>Giuliani Time has an ax to grind and wields it with dull-edged force.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=8896</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>With the former mayor currently enjoying one of the rare second acts in American political life, Giuliani Time does a strong job of reminding us what the first one was like.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-giuliani16jun16,0,2682567.story</url>
+         <critic>Kenneth Turan</critic>
+      </review>
+      <review>
+         <snippet>After 9-11, a sick, scandalized lame-duck mayor became a national hero for simply keeping his composure on TV. Keating's film is a comet out of the past, but it's focused, if only circumstantially, on the future.</snippet>
+         <url>http://www.villagevoice.com/film/0619,atkinson,73162,20.html</url>
+         <critic>Michael Atkinson</critic>
+      </review>
+      <review>
+         <snippet>While Keating's agenda is clearly hostile, and Giuliani's political committee is eagerly trying to do counter-propaganda, this isn't a campaign of character assassination or innuendo, but rather a dutifully constructed biographical film about a tremendously skilled prosecutor and politician.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2006/05/11/btm/index1.html</url>
+         <critic>Andrew O&amp;#039;Hehir</critic>
+      </review>
+      <review>
+         <snippet>In general, and in spite of its deft use of archival video clips and interviews, Giuliani Time offers a superficial reading of recent New York history, zeroing in on the headlines while often missing the context.</snippet>
+         <url>http://movies2.nytimes.com/2006/05/12/movies/12giul.html</url>
+         <critic>Dana Stevens</critic>
+      </review>
+      <review>
+         <snippet>Chock-a-block with incisive commentaries both pro and con, pic's sole drawback is its quick finish on that fateful September day without updating Rudy's subsequent rise and fall.</snippet>
+         <url>http://www.variety.com/review/VE1117926280?categoryid=31&amp;cs=1</url>
+         <critic>Jay Weissberg</critic>
+      </review>
+      <review>
+         <snippet>It drags a bit and suffers from not enough Rudy.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1120940&amp;lat=200.0&amp;lon=200.0&amp;displaySearchLocation=&amp;nm=1&amp;categories=Movies</url>
+         <critic>Michael Powell</critic>
+      </review>
+      <review>
+         <snippet>Giuliani Time energetically deflates one trumpeted myth after another about Giuliani's success at turning the city around from its doldrums in the 1970s.</snippet>
+         <url>http://www.laweekly.com/film+tv/film-reviews/film-reviews/13777/</url>
+         <critic>Ella Taylor</critic>
+      </review>
+      <review>
+         <snippet>While Giuliani Time offers a wealth of important information that many might have long forgotten, its impact is diluted by its heavily biased nature and lack of balance.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1002690565</url>
+         <critic>Frank Scheck</critic>
+      </review>
+      <review>
+         <snippet>The trouble with Giuliani Time is that Keating, as a filmmaker, wants to give power to the people but in his every perception he takes it away from them.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1197653_1_0_,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>The documentary Giuliani Time, which seeks to knock our former mayor off his pedestal, hits him with all the force of a wadded-up Kleenex. Those who hope Rudy Giuliani never returns to public life must be getting panicky.</snippet>
+         <url>http://www.nypost.com/movies/68407.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+   </reviews>
+   <US_Gross>$21,967</US_Gross>
+   <weekend_gross>$8,661</weekend_gross>
+   <number_of_screens>1</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

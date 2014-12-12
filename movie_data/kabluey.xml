@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Kabluey</name>
+   <company>Regent Releasing</company>
+   <genres>
+      <genre>Comedy</genre>
+   </genres>
+   <authors>
+      <author>Scott Prendergast</author>
+   </authors>
+   <directors>
+      <director>Scott Prendergast</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Lisa Kudrow</actor>
+      <actor>Christine Taylor</actor>
+      <actor>Teri Garr</actor>
+      <actor>Conchata Ferrell</actor>
+      <actor>Chris Parnell</actor>
+      <actor>Jeffrey Dean Morgan</actor>
+   </actors>
+   <release_date>July 4, 2008</release_date>
+   <running_time>86</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>The film's distance from factual reality oddly enhances its bleak underlying vision. It portrays a demoralized American work force fearfully going through the motions of life while waiting without much hope for things to get better.</snippet>
+         <url>http://movies.nytimes.com/2008/07/04/movies/04kabl.html?ref=movies</url>
+         <critic>Stephen Holden</critic>
+      </review>
+      <review>
+         <snippet>Groundlings alumnus Prendergast's dark comedy, drawn from on his own family experiences, is firmly rooted in messy, selfish, often-unappealing human behavior rather than self-referential irony and juvenile goofiness.</snippet>
+         <url>http://www.tvguide.com/movies/kabluey/review/294437</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>Eventually comes into its own as a wacky commentary on the state of America in the fifth year of the Iraq war.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2008/07/31/DD4411SJTG.DTL&amp;type=movies</url>
+         <critic>Walter Addiego</critic>
+      </review>
+      <review>
+         <snippet>A mordant, almost-too-dark comedy, but a comedy nonetheless.</snippet>
+         <url>http://www.oregonlive.com/movies/index.ssf/2008/08/movie_review_life_goes_kabluey.html</url>
+         <critic>Marc Mohan</critic>
+      </review>
+      <review>
+         <snippet>While the film's social-satire elements are flat and overly familiar, its dry absurdity is unmistakably Lynchian.</snippet>
+         <url>http://www.avclub.com/content/cinema/kabluey</url>
+         <critic>Nathan Rabin</critic>
+      </review>
+      <review>
+         <snippet>Catches the nation's mood of economic anxiety and workplace exploitation more pungently than anything else in theaters.</snippet>
+         <url>http://www.villagevoice.com/2008-07-02/film/kabluey-captures-economic-anxiety-better-than-anything-else-out-there/</url>
+         <critic>Jim Ridley</critic>
+      </review>
+      <review>
+         <snippet>The film is an ambitious mix of slapstick, black comedy and stinging social commentary.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/awards_festivals/fest_reviews/article_display.jsp?JSESSIONID=jvjBGKQQ05skphmFGJhfZLvcJJNSl9GPJ52WvMkGQ69Ll00CrLnJ!1541320243&amp;&amp;rid=9456</url>
+         <critic>Stephen Farber</critic>
+      </review>
+      <review>
+         <snippet>Strange and quirky.</snippet>
+         <url>http://www.nypost.com/seven/07042008/entertainment/movies/mascot_napping_118391.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>Kabluey is short on the cutes and ca-ca jokes. But it's also short on substance, despite a watchable supporting cast and an amiable overall tenor.</snippet>
+         <url>http://www.variety.com/review/VE1117934569.html?categoryid=31&amp;cs=1&amp;p=0</url>
+         <critic>Dennis Harvey</critic>
+      </review>
+      <review>
+         <snippet>A dark piece of whimsy that enchants and befuddles in equal measure.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-capsules11-2008jul11,0,4030005.story</url>
+         <critic>Robert Abele</critic>
+      </review>
+      <review>
+         <snippet>Quirky and undisturbed, unaffected and unaffecting.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A647342</url>
+         <critic>Josh Rosenblatt</critic>
+      </review>
+   </reviews>
+   <US_Gross>$83,506</US_Gross>
+   <weekend_gross>$7,373</weekend_gross>
+   <number_of_screens>1</number_of_screens>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>true</independence_release>
+   <labor_release>false</labor_release>
+</movie>

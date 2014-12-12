@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Superman Returns</name>
+   <company>Warner Bros. Pictures</company>
+   <genres>
+      <genre>Action</genre>
+      <genre>Adventure</genre>
+      <genre>Fantasy</genre>
+      <genre>Scifi</genre>
+   </genres>
+   <authors>
+      <author>Michael Dougherty</author>
+      <author>Dan Harris</author>
+      <author>Bryan Singer</author>
+      <author>Jerry Siegel and Joe Shuster</author>
+   </authors>
+   <directors>
+      <director>Bryan Singer</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Bron Routh</actor>
+      <actor>Kevin Spacey</actor>
+      <actor>Kate Bosworth</actor>
+      <actor>James Marsden</actor>
+      <actor>Frank Langella</actor>
+      <actor>Sam Huntington</actor>
+      <actor>Eva Marie Saint</actor>
+      <actor>Parker Posey</actor>
+   </actors>
+   <release_date>June 28, 2006</release_date>
+   <running_time>153</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>The best Hollywood movies always knew how to sneak a beguiling subtext into a crowd-pleasing story. Superman Returns is in that grand tradition. That's why it's beyond Super. It's superb.</snippet>
+         <url>http://www.time.com/time/magazine/article/0,9171,1205367,00.html</url>
+         <critic>Richard Corliss</critic>
+      </review>
+      <review>
+         <snippet>America's favorite superhero reappears in Bryan Singer's Superman Returns, and all we can say is, "Man, oh Man of Steel, it's good to have you back."</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/moviereviews/story/430270p-362670c.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>Superman Returns is a lush and enthralling piece of adventure storytelling that's both revisionist AND reverential, putting a timely spin on a timeless character without violating his primal appeal.</snippet>
+         <url>http://www.laweekly.com/film+tv/film/it-aint-easy-bein-blue/13850/</url>
+         <critic>Scott Foundas</critic>
+      </review>
+      <review>
+         <snippet>It’s all about heart - not that the spectacle falters; this is the finest popular entertainment since the Rings trilogy closed. Superman doesn’t fly - he soars.</snippet>
+         <url>http://www.empireonline.com/reviews/review.asp?FID=9751</url>
+         <critic>Ian Nathan</critic>
+      </review>
+      <review>
+         <snippet>The film is magnificently mounted, it moves like a speeding bullet and it's so respectful of Superman traditions that even the pickiest of die-hard fans should love it. After a lapse of two decades, it revitalizes the franchise and makes it seem fresh and alive.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/275399_superman27q.html</url>
+         <critic>William Arnold</critic>
+      </review>
+      <review>
+         <snippet>Superman, born in 1938, is still very much alive in 2006. The Man of Steel has so skillfully bent the bars of our imagination that he seems real to us. And in a sense, he is.</snippet>
+         <url>http://salon.com/ent/movies/review/2006/06/28/superman_returns/</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>Grandly conceived and sensitively drawn.</snippet>
+         <url>http://www.variety.com/VE1117930841.html</url>
+         <critic>Todd McCarthy</critic>
+      </review>
+      <review>
+         <snippet>This Superman, which infuses its action with poetry, soars as a love story filled with epic yearnings, thwarted desires and breathtaking imagery.</snippet>
+         <url>http://msnbc.msn.com/id/13389957</url>
+         <critic>David Ansen</critic>
+      </review>
+      <review>
+         <snippet>Superman Returns is not only a credit to the first two Superman movies; it may be the best of the series. Its combination of romance and fantasy adventure is unparalleled in superhero comic book-to-movie sagas.</snippet>
+         <url>http://movie-reviews.colossus.net/movies/s/superman_returns.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>A spectacularly satisfying reworking of the legend of Kal-El.</snippet>
+         <url>http://www.calendarlive.com/printedition/calendar/cl-et-superman27jun27,0,4989171.story</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>Bryan Singer's super, soulful and very expensive new resurrection of the venerable big-screen franchise, ups the ante with must-see results.</snippet>
+         <url>http://www.nypost.com/movies/the_tights_stuff_movies_lou_lumenick.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>Director Bryan Singer positions this new film as a sequel to Donner's film, and his Superman -- played with winning fortitude by newcomer Brandon Routh -- is less a Man of Steel than a Man of Heart.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1002689933</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>The daunting logistics of Superman Returns have obviously affected the director's work -- thus the hit-or-miss continuity of the narrative -- but Bryan Singer hasn't been defeated by them. While his movie can be cumbersome, it's consistently alive, and that is saying a lot when many such productions are dead in the water, on land or in the air. Also, how can you resist the charm of a fantasy in which everyone gets his news from newspapers?</snippet>
+         <url/>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>The movie may not be a single-bound building-leaper but Bryan Singer reconfigures the daddy of all comic-book sagas into something knowing, witty, and even sensitive.</snippet>
+         <url>http://www.villagevoice.com/film/0626,hoberman,73669,20.html</url>
+         <critic>J. Hoberman</critic>
+      </review>
+      <review>
+         <snippet>A generally thrilling entertainment that's not quite the grand slam you want it to be.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=7765</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>The film has such an expansive, likeable spirit.</snippet>
+         <url>http://ae.charlotte.com/entertainment/ui/charlotte/movie.html?id=623504&amp;reviewId=21051&amp;startDate=NEXT7</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>The surprise of Superman Returns is that it isn't a funky, ambitious conceptual reimagining, like last summer's "Batman Begins." This really IS your father's Superman; it re-creates - and updates, though just barely - the universe Donner invented.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1206674_1_0_,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>Superman returns with a bang. Singer tarnishes his hero's halo with just enough sexual longing and self-doubt to make him riveting and relatable. That "S" on his suit has a whole new meaning: He's a Soul man.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/_/id/7222783/rid/10638508/</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>By giving the hero's inner plight so many dimensions, Superman Returns brings a richer, grander perspective to a seminal character without changing his essence. It's a profoundly personal take on a universal icon, made by a filmmaker who continues to improve with each movie.</snippet>
+         <url>http://www.miami.com/mld/miamiherald/entertainment/movies/14895295.htm</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>Superman returns, and he's far from inconsequential yet considerably less than super - just a demi-god content to forfeit our love for our like.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20060627.wsuper28/BNStory/Entertainment/Movies/</url>
+         <critic>Rick Groen</critic>
+      </review>
+      <review>
+         <snippet>A rousing spectacle.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2006-06-26-superman_x.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>This Superman is like nothing you've ever seen before, but it tickles something primitive and comforting at the back of the mind. Gorgeously detailed and meticulously realized, it's a homecoming of a movie. Just wait for the theme; you'll understand.</snippet>
+         <url>http://www.premiere.com/article.asp?section_id=2&amp;article_id=2917</url>
+         <critic>Sara Brady</critic>
+      </review>
+      <review>
+         <snippet>The new Superman has its visionary charms, but there's only so far you can go without great characters.</snippet>
+         <url>http://www.csmonitor.com/2006/0627/p14s01-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>Singer's reverence for the 1978 version edges perilously close to mimicry, as if he has no new ideas to bring to the table, but he succeeds in drawing out the Superman myth with simple power and a refreshing absence of irony.</snippet>
+         <url>http://www.avclub.com/content/node/49884</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>The much ballyhooed movie, far from great and far from short (2 1/2 hours!), is still great fun.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1058938&amp;lat=200.0&amp;lon=200.0&amp;displaySearchLocation=&amp;nm=1&amp;categories=Movies</url>
+         <critic>Stephen Hunter</critic>
+      </review>
+      <review>
+         <snippet>The fanboy in me loves it, being wrapped in the warm projected glow of nostalgia for a movie I've memorized since age 9.</snippet>
+         <url>http://www.dallasobserver.com/Issues/2006-06-29/film/film.html</url>
+         <critic>Robert Wilonsky</critic>
+      </review>
+      <review>
+         <snippet>Yes, this Superman soars, but he doesn't always take us with him.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A377816</url>
+         <critic>Marjorie Baumgarten</critic>
+      </review>
+      <review>
+         <snippet>Superman Returns has everything going for it except surprise.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-060628-movies-review-superman,0,3822132.story?coll=mmx-movies_top_heds</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>Don't hate him because he's beautiful, decent, awesomely powerful, modest and just plain good. That's the big blue Boy Scout package - take it or leave it.</snippet>
+         <url>http://online.tvguide.com/newsearch/detail.aspx?id=46894&amp;sourcetype=m&amp;progseriesparentid=0&amp;tvobjectid=0&amp;keyword=&amp;more=ucmoviereview</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>Singer draws heavily on the 1978 hit that launched the Warner Brothers franchise, with Brandon Routh dully impersonating Christopher Reeve as the Man of Steel, Kevin Spacey getting all the good lines as the villainous Lex Luthor, and stock footage of Marlon Brando proving that death isn't always a good career move.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/29952_SUPERMAN_RETURNS.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>The film's most striking repeated effect, in which the caped hero dangles dejectedly in space as the Earth turns below him, emphasizes the passivity and loneliness of the character: This Superman's version of flight seems almost indistinguishable from a helpless freefall. Fair enough, but what's he got to be so existentially glum about?</snippet>
+         <url>http://www.slate.com/id/2144595</url>
+         <critic>Dana Stevens</critic>
+      </review>
+      <review>
+         <snippet>Star Routh's presence and the joys of flight keep Superman Returns alive, but all those missteps dog its heels, holding it back like little touches of Kryptonite in the night.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-superman27jun27,0,2078969.story?coll=cl-mreview</url>
+         <critic>Kenneth Turan</critic>
+      </review>
+      <review>
+         <snippet>Contains a dozen winning moments of humor, uplift or exhilaration. But are they enough to justify a 154-minute running time?</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-to.superman27jun27,0,6030828.story?coll=bal-artslife-movies</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>A dull, uninspiring film that combines pedestrian acting, lackluster special effects and deadly pace with a pseudo-religious theme.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/1151558920185130.xml&amp;coll=7</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>The movie consistently delivers in lots of little ways, but in a big way only once, in a spectacular sequence that begins with a series of earthquakes and culminates in an airline catastrophe.</snippet>
+         <url>http://sfgate.com/cgi-bin/article.cgi?f=/c/a/2006/06/27/DDGTSJJOPK1.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>Picture my disappointment as I realized that, for all the pizzazz of Superman Returns, its global weapon of choice would not be terrorism, or nuclear piracy, or dirty bombs. It would be real estate. What does Warner Bros. have in mind for the next installment? Superman overhauls corporate pension plans? Luthor screws Medicare?</snippet>
+         <url>http://www.newyorker.com/critics/cinema/?060703crci_cinema</url>
+         <critic>Anthony Lane</critic>
+      </review>
+      <review>
+         <snippet>When the hero, his alter ego, his girlfriend and the villain all seem to lack any joy in being themselves, why should we feel joy at watching them?</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20060626/REVIEWS/60606009</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>It's hard to see what the point is beyond the usual grandiosity that comes whenever B-movie material is pumped up with ambition and money.</snippet>
+         <url>http://movies2.nytimes.com/2006/06/27/movies/27supe.html</url>
+         <critic>Manohla Dargis</critic>
+      </review>
+      <review>
+         <snippet>I wanted to like Superman Returns, but Singer and company are so concerned about doing justice to Superman’s past, they fail to generate much interest in what, if any, future the franchise might have.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=9105</url>
+         <critic>Pete Vonder Haar</critic>
+      </review>
+      <review>
+         <snippet>The bigger problem is that Singer’s weighty rhythms are disastrous for Superman, and the movie actually gets heavier in its last half-hour.</snippet>
+         <url>http://newyorkmetro.com/movies/reviews/17394/</url>
+         <critic>David Edelstein</critic>
+      </review>
+   </reviews>
+   <US_Gross>$200,120,000</US_Gross>
+   <production_budget>$232,000,000</production_budget>
+   <weekend_gross>$84,593,540</weekend_gross>
+   <number_of_screens>4,065</number_of_screens>
+   <oscar_winning_actors_present/>
+   <num_oscar_winning_actors>1</num_oscar_winning_actors>
+   <oscar_winning_actor>kevin spacey</oscar_winning_actor>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>true</independence_release>
+   <labor_release>false</labor_release>
+</movie>

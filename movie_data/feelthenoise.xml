@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Feel the Noise</name>
+   <company>Sony BMG</company>
+   <genres>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author>Albert Leon</author>
+   </authors>
+   <directors>
+      <director>Alejandro Chomski</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Omarion Grberry</actor>
+      <actor>Victor Rasuk</actor>
+      <actor>Zulay Henao</actor>
+      <actor>Giancarlo Esposito</actor>
+   </actors>
+   <release_date>October 5, 2007</release_date>
+   <running_time>86</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>The plot is contrived, the performances are all over the board, and Chomski's camera ogles his actresses just a little too much.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2007/10/06/2007-10-06_feel_the_noise_is_reggaeton_tale_in_a_pl.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>It’s the subtexts -- about minority kinship and Hispanic self-actualization -- that resound. If only its fable (and leading man) didn’t keep getting in the way.</snippet>
+         <url>http://movies.nytimes.com/2007/10/06/movies/06nois.html?ref=movies</url>
+         <critic>Andy Webster</critic>
+      </review>
+      <review>
+         <snippet>Old story, new beat: That sums up Feel the Noise, an acceptable if resolutely average low-budget drama set in the New York/Puerto Rican musical melting pot known as reggaeton.</snippet>
+         <url>http://www.boston.com/ae/movies/articles/2007/10/06/feel_the_noise_needs_to_pump_up_the_volume/</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>Painfully cliched. The music is throbbing and the leads are cute, but there's nothing here viewers haven't seen before.</snippet>
+         <url>http://www.tvguide.com/detail/movie.aspx?tvobjectid=290834&amp;more=ucmoviereview</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>No one will mistake director Alejandro Chomski's Feel the Noise for great drama. But there's an undeniable sweetness to the characters, the performers are highly appealing, and the music sizzles.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?JSESSIONID=nXkGHGZRB6S5GnV9hcvpSCQPKX6d6NVMQ5q8pQHG4hlJh2tCpvJ6!526047702&amp;&amp;rid=9985</url>
+         <critic>Frank Scheck</critic>
+      </review>
+      <review>
+         <snippet>Trifling time-killer.</snippet>
+         <url>http://www.variety.com/review/VE1117934997.html?categoryid=31&amp;cs=1</url>
+         <critic>Joe Leydon</critic>
+      </review>
+      <review>
+         <snippet>It’s hard to fault a screenwriter for cramming every idea he’s ever had about anything into his first movie for fear there won’t be a second.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A545246</url>
+         <critic>Josh Rosenblatt</critic>
+      </review>
+      <review>
+         <snippet>Inane uplift tale for teens.</snippet>
+         <url>http://www.laweekly.com/film+tv/film-reviews/movie-reviews-kurt-cobain-about-a-son-michael-clayton/17417/</url>
+         <critic>Chuck Wilson</critic>
+      </review>
+      <review>
+         <snippet>Reggaeton has officially come of age: The burgeoning subgenre now has a terrible, opportunistic exploitation movie to call its own.</snippet>
+         <url>http://www.avclub.com/content/cinema/feel_the_noise</url>
+         <critic>Nathan Rabin</critic>
+      </review>
+   </reviews>
+   <US_Gross>$5,867,786</US_Gross>
+   <weekend_gross>$3,187,153</weekend_gross>
+   <number_of_screens>1,015</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

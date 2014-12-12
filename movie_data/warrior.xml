@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Warrior, The</name>
+   <company>Miramax Films</company>
+   <genres>
+      <genre>Adventure</genre>
+      <genre>Drama</genre>
+      <genre>Foreign</genre>
+   </genres>
+   <authors>
+      <author>Asif Kapadia</author>
+   </authors>
+   <directors>
+      <director>Asif Kapadia</director>
+   </directors>
+   <origins>
+      <origin>UKFrance</origin>
+   </origins>
+   <actors>
+      <actor>Irfan Khan</actor>
+      <actor>Puru Chibber</actor>
+      <actor>Aino Annuddin</actor>
+      <actor>Manoj Mishra</actor>
+      <actor>Nanhe Khan</actor>
+      <actor>Cher Singh</actor>
+      <actor>Hemant Maahaor</actor>
+      <actor>Makini Goswami</actor>
+   </actors>
+   <release_date>July 15, 2005</release_date>
+   <running_time>86</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>Scaled like an epic but possessing the narrative simplicity of a fable, The Warrior unfolds over a brisk 85 minutes of screen time, keeping dialogue to a minimum as it celebrates the power of stories told through handcrafted, CGI-free images.</snippet>
+         <url>http://www.laweekly.com/film/film_results.php?showid=3471&amp;Sumbit.x=27&amp;Sumbit.y=7</url>
+         <critic>Scott Foundas</critic>
+      </review>
+      <review>
+         <snippet>Most of all, it's a film for moviegoers who love powerful stories and ravishing imagery: timeless, eternal, the kind of tales handed from one generation and culture to the next -- and alive in all of them.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-050728-movies-review-warrior,0,6351564.story?coll=mmx-movies_top_heds</url>
+         <critic>Michael Wilmington</critic>
+      </review>
+      <review>
+         <snippet>What begins as Lafcadia's journey into the heart of darkness ends as his pilgrimage into the light. Stunning.</snippet>
+         <url>http://ae.philly.com/entertainment/ui/philly/movie.html?id=166253&amp;reviewId=18636</url>
+         <critic>Carrie Rickey</critic>
+      </review>
+      <review>
+         <snippet>Asif Kapadia's blazing feature debut, a gorgeously photographed saga with a fine sense of the way place shapes personality, has won numerous awards in the filmmaker's native Britain.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1082775_1_0_,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>A minimalist but strikingly beautiful tale of renounced violence told with uncommon precision and depth.</snippet>
+         <url>http://movies2.nytimes.com/2005/07/15/movies/15warr.html?adxnnl=1&amp;adxnnlx=1121382671-6m+c0Als2lFlIgUDfmqTvg</url>
+         <critic>Laura Kern</critic>
+      </review>
+      <review>
+         <snippet>It is chockablock with brutality, but the violence is of the high-minded, self-congratulatory sort that indicates without actually showing.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-warrior15jul15,0,2370967.story</url>
+         <critic>Jan Stuart</critic>
+      </review>
+      <review>
+         <snippet>What is best in the film is its depiction of the warrior's epic journey, photographed with breathtaking beauty and simplicity by Roman Osin.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20050728/REVIEWS/507280305</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>It's a compelling minimalist drama about spiritual evolution, with strong performances and exotic locations.</snippet>
+         <url>http://sfgate.com/cgi-bin/article.cgi?f=/c/a/2005/07/29/DDGRNDUJBI1.DTL</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>There's more than a nod to Sergio Leone in Kapadia's rugged wide-screen landscapes, minimal dialogue, and extreme close-ups, but there's scant humor to relieve the harshness, and though he has presence Khan is no Eastwood--or even a Mifune.</snippet>
+         <url>http://spacefinder.chicagoreader.com/movies/briefs/28320_WARRIOR_KAPADIA.html</url>
+         <critic>Andrea Gronvall</critic>
+      </review>
+      <review>
+         <snippet>What really makes 'The Warrior worthwhile is its indomitable soul.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=8128</url>
+         <critic>Janice Page</critic>
+      </review>
+      <review>
+         <snippet>The title-character's redemption comes very slowly. But if you have patience, this is a stately, beautifully composed story.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/moviereviews/story/328184p-280489c.html</url>
+         <critic>Jami Bernard</critic>
+      </review>
+      <review>
+         <snippet>This is a timeless tale; the time period is irrelevant as the story is a profoundly personal one about trying to reject the strong internal drive for vengeance.</snippet>
+         <url>http://www.filmthreat.com/Reviews.asp?Id=3527</url>
+         <critic>Rich Cline</critic>
+      </review>
+      <review>
+         <snippet>The film's epic look is undermined by his narrow focus; in the end it feels rather thin and less than the sum of its handsome parts.</snippet>
+         <url>http://tvguide.com/movies/database/ShowMovie.asp?MI=46167</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>Visual grandiloquence more than makes up for the bare-bones dialogue. But while high on mysticism and vast in scale, The Warrior seems more poised than poetic, and ultimately landscape proves to be the film's real grabber.</snippet>
+         <url>http://www.villagevoice.com/film/0528,tracking3,65803,20.html</url>
+         <critic>Uday Benegal</critic>
+      </review>
+      <review>
+         <snippet>The plot is simple to the point of being simplistic, and the characterizations are never more than rudimentary.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1761276</url>
+         <critic>Joe Mader</critic>
+      </review>
+      <review>
+         <snippet>Tendency to go for art rather than action, and a leisurely pace that isn't bolstered by much dialogue or food for thought.</snippet>
+         <url>http://www.variety.com/index.asp?layout=awardcentral2003&amp;content=jump&amp;nav=reviews&amp;jump=reviews&amp;reviewid=VE1117798791&amp;categoryid=1401&amp;cs=</url>
+         <critic>Derek Elley</critic>
+      </review>
+      <review>
+         <snippet>Boasts an action-movie plot and an action-movie title, but precious little action. It's a lovely film about brutal men, but its integrity and visual splendor ultimately can't make up for its overall lack of visceral excitement.</snippet>
+         <url>http://www.theonionavclub.com/review.php?review_id=8700</url>
+         <critic>Nathan Rabin</critic>
+      </review>
+      <review>
+         <snippet>The Warrior may be mighty of sword but he is exceedingly limp of writing. We never learn why he went bad in the first place, or what causes his sudden conversion. If the audience is expected to do most of the work, we should be paid $10.50 each.</snippet>
+         <url>http://www.nypost.com/movies/49782.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+   </reviews>
+   <US_Gross>$48,160</US_Gross>
+   <weekend_gross>$14,170</weekend_gross>
+   <number_of_screens>4</number_of_screens>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

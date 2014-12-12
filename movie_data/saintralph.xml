@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Saint Ralph</name>
+   <company>Samuel Goldwyn Films</company>
+   <genres>
+      <genre>Comedy</genre>
+      <genre>Drama</genre>
+      <genre>Foreign</genre>
+   </genres>
+   <authors>
+      <author>Michael Mc</author>
+      <author>Gowan</author>
+   </authors>
+   <directors>
+      <director>Michael Mc</director>
+      <director>Gowan</director>
+   </directors>
+   <origins>
+      <origin>Canada</origin>
+   </origins>
+   <actors>
+      <actor>Adam Butcher</actor>
+      <actor>Campbell Scott</actor>
+      <actor>Shauna MacDonald</actor>
+      <actor>Gordon Pinsent</actor>
+      <actor>Michael Kanev</actor>
+      <actor>Tamara Hope</actor>
+      <actor>Jennifer Tilly</actor>
+      <actor>Mira Black</actor>
+      <actor>Frank Crudele</actor>
+      <actor>Chris Ploszczansky</actor>
+   </actors>
+   <release_date>August 5, 2005</release_date>
+   <running_time>98</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>This deliciously offbeat Canadian comedy gets its charm from marvelous acting and from a screenplay bursting with ideas. Great fun.</snippet>
+         <url>http://www.csmonitor.com/2005/0805/p14s01-almo.html</url>
+         <critic>David Sterritt</critic>
+      </review>
+      <review>
+         <snippet>The kind of well-acted, genuine heartwarmer that some people complain Hollywood doesn't bother making anymore. And in this case, Hollywood didn't.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2005-08-04-saint-ralph_x.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>All of this is punctuated with refreshingly strange wit.</snippet>
+         <url>http://www.nypost.com/movies/50758.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>Wants to be a sex farce, a sports film and a serious meditation on Catholicism. To its credit, it succeeds as all three.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/1123063405114990.xml&amp;coll=7</url>
+         <critic>M. E. Russell</critic>
+      </review>
+      <review>
+         <snippet>McGowan’s film isn’t just about following this boy’s private quest to accomplish the impossible. It is also about how he affects the other characters in the film.</snippet>
+         <url>http://www.filmthreat.com/Reviews.asp?Id=7662</url>
+         <critic>Stina Chyn</critic>
+      </review>
+      <review>
+         <snippet>Even though it sprints along a well-trod path through familiar territory, Saint Ralph remains surprisingly compelling.</snippet>
+         <url>http://www.variety.com/review/VE1117925206?categoryid=31&amp;cs=1</url>
+         <critic>Joe Leydon</critic>
+      </review>
+      <review>
+         <snippet>A tart and tender comedy that pulls off a little miracle of its own by being genuinely heartwarming without leaving any cloyingly sticky emotional residue.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1001009370</url>
+         <critic>Michael Rechtshaffen</critic>
+      </review>
+      <review>
+         <snippet>As predictably uplifting movies go, Saint Ralph isn't completely charmless.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=7969</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>Tthe kind of movie the clergy can recommend to anxious parishioners.</snippet>
+         <url>http://ae.charlotte.com/entertainment/ui/charlotte/movie.html?id=386231&amp;reviewId=18691&amp;startDate=08%2F05%2F2005</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>Though Butcher is appealing, Saint Ralph is anchored by Scott's persuasive work as a model of intelligent decency.</snippet>
+         <url>http://www.calendarlive.com/movies/turan/cl-et-ralph5aug05,0,3659726.story#Scene_1</url>
+         <critic>Kenneth Turan</critic>
+      </review>
+      <review>
+         <snippet>Far from the sentimental drivel you might expect given the subject matter, this amiable and heartfelt drama about an adolescent boy's attempt to rouse his comatose mother explores the meaning of faith by tapping into the original, rebellious spirit of Christianity.</snippet>
+         <url>http://online.tvguide.com/movies/database/showmovie.asp?MI=1849</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>Little Ralph comes off like "Billy Elliot" on steroids. Still, this an energetic movie that can be truly hilarious in spots, and it captures perfectly the oppressive atmosphere of a Catholic boys' school in the ’50s.</snippet>
+         <url>http://listings.dallasobserver.com/gyrobase/Film/ShowFilm</url>
+         <critic>Bill Gallo</critic>
+      </review>
+      <review>
+         <snippet>At first, Ralph and the movie have moxie -- the kid even gets busted for pleasuring himself in the public pool. Then Ralph starts asking us to take this cornball mission seriously.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1089581_1_0_,00.html</url>
+         <critic>Gregory Kirschling</critic>
+      </review>
+      <review>
+         <snippet>Scott, whose sensitive turn as a priest inspired by Ralph's conviction and commitment gives the film a touch of grace at the cost of revealing McGowan's drab direction of every other actor.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/235278_ralph05q.html</url>
+         <critic>Sean Axmaker</critic>
+      </review>
+      <review>
+         <snippet>The sins of the inspirational Saint Ralph are venial, but they undeniably prevent the small Canadian film from stretching beyond the boundaries of an After School Special.</snippet>
+         <url>http://ae.miami.com/entertainment/ui/miami/movie.html?id=386231&amp;reviewId=18716</url>
+         <critic>Connie Ogle</critic>
+      </review>
+      <review>
+         <snippet>The real miracle here is that the hard-working cast manages to turn McGowan's script into an intermittently touching tale.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/moviereviews/story/334633p-285780c.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>Scott can invest just about any scene with heft and intelligence, but neither the material nor his co-star give him much help.</snippet>
+         <url>http://avclub.com/content/node/25251</url>
+         <critic>Keith Phipps</critic>
+      </review>
+      <review>
+         <snippet>The most blatant rip-off is of the "Rushmore" soundtrack. But Ralph Walker is no Max Fischer, and his monomania gets dull fast.</snippet>
+         <url>http://www.villagevoice.com/film/0531,tracking4,66471,20.html</url>
+         <critic>Ed Park</critic>
+      </review>
+      <review>
+         <snippet>The film isn't going to catapult Butcher to international stardom, but he holds his own in it and helps to sell its curious logic.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A286060</url>
+         <critic>Marrit Ingman</critic>
+      </review>
+      <review>
+         <snippet>In fairness, the movie isn't the absolute worst of its kind and there's a certain charm to Butcher's amiable, puppy-eyed performance. But Michael McGowan's direction is as flat as an asphalt road, and his script is gasping for air long before it enters the final stretch.</snippet>
+         <url>http://www.laweekly.com/film/film_results.php?showid=3493&amp;Sumbit.x=53&amp;Sumbit.y=14</url>
+         <critic>Scott Foundas</critic>
+      </review>
+      <review>
+         <snippet>This crude, inspirational tear-jerker is as sweet as a bowl of instant oatmeal smothered in molasses. It should please those who honestly believe that Santa Claus and God are synonymous; others may retch.</snippet>
+         <url>http://movies2.nytimes.com/2005/08/05/movies/05sain.html</url>
+         <critic>Stephen Holden</critic>
+      </review>
+   </reviews>
+   <US_Gross>$795,126</US_Gross>
+   <production_budget>$5,200,000</production_budget>
+   <weekend_gross>$447,460</weekend_gross>
+   <number_of_screens>61</number_of_screens>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

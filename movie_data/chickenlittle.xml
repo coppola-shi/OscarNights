@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Chicken Little</name>
+   <company>Buena Vista Pictures</company>
+   <genres>
+      <genre>Action</genre>
+      <genre>Adventure</genre>
+      <genre>Animation</genre>
+      <genre>Comedy</genre>
+      <genre>FamilyKids</genre>
+   </genres>
+   <authors>
+      <author>Steve Bencich</author>
+      <author>Ron J. Friedman</author>
+      <author>Robert L. Baird</author>
+      <author>Dan Gerson</author>
+   </authors>
+   <directors>
+      <director>Mark Dindal</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Zach Braff</actor>
+      <actor>Garry Marshall</actor>
+      <actor>Joan Cusack</actor>
+      <actor>Steve Zahn</actor>
+      <actor>Don Knotts</actor>
+      <actor>Amy Sedaris</actor>
+      <actor>Steve Zahn</actor>
+      <actor>Dan Molina</actor>
+   </actors>
+   <release_date>November 4, 2005</release_date>
+   <running_time>77</running_time>
+   <rating>G</rating>
+   <reviews>
+      <review>
+         <snippet>The visuals are irrepressibly witty and so is the script, which morphs from the classic fable into a spoof on "War of the Worlds." I prefer this version to Spielberg's.</snippet>
+         <url>http://www.csmonitor.com/2005/1104/p14s01-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>A consistently amusing, often inspired family romp.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1001392438</url>
+         <critic>Michael Rechtshaffen</critic>
+      </review>
+      <review>
+         <snippet>With one of the year's busiest scripts, Little launches 76 zippy minutes.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2005-11-03-chicken-little_x.htm</url>
+         <critic>Mike Clark</critic>
+      </review>
+      <review>
+         <snippet>This wild and unexpected ride should delight younger children with its bright colors and constant chaos, while adults are likely to be charmed by the witty banter, subtle one-liners and a sweet father-son relationship that highlights the need for good communication.</snippet>
+         <url>http://online.tvguide.com/movies/database/showmovie.asp?MI=46482</url>
+         <critic>Angel Cohn</critic>
+      </review>
+      <review>
+         <snippet>When the picture hits high gear, your qualms vanish one by one, and the script, credited to four writers, grows into its own.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/1130966711265260.xml&amp;coll=7</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>As cluttered as the movie gets before the ending, it's funny throughout, with some 1970s and '80s music thrown in to keep adults happy.</snippet>
+         <url>http://sfgate.com/cgi-bin/article.cgi?f=/c/a/2005/11/04/DDGOEFI1IA1.DTL&amp;type=movies</url>
+         <critic>Peter Hartlaub</critic>
+      </review>
+      <review>
+         <snippet>Animation fans will find this worth the wait.</snippet>
+         <url>http://spacefinder.chicagoreader.com/movies/briefs/28845_CHICKEN_LITTLE.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>The movie did make me smile. It didn't make me laugh, and it didn't involve my emotions, or the higher regions of my intellect, for that matter. It's a perfectly acceptable feature cartoon for kids up to a certain age, but it doesn't have the universal appeal of some of the best recent animation.</snippet>
+         <url>http://www.rogerebert.com/apps/pbcs.dll/article?AID=/20051103/REVIEWS/51019008/1023</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>Bogged down by many of the problems that have plagued Disney's recent traditional animated features: anonymous voice work, poor plot structure, and the mistaken belief that the Disney brand will elevate anything to a "must see" level for viewers starved for family friendly fare. If there's a bright side to Chicken Little, it's that kids will love it.</snippet>
+         <url>http://movie-reviews.colossus.net/movies/c/chicken_little.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>For all the whiz-bang visuals, however, "Little" could use a little consistency in tone.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-0501104-movies-review-chicken,0,281953.story?coll=mmx-movies_top_heds</url>
+         <critic>Robert K. Elder</critic>
+      </review>
+      <review>
+         <snippet>The problem is that Chicken Little settles for what's expedient and safe and, over all, lives down to its title.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/ArticleNews/TPStory/LAC/20051104/CHICKEN04/TPEntertainment/Film</url>
+         <critic>Liam Lacey</critic>
+      </review>
+      <review>
+         <snippet>Shiny and peppy, with some solid laughs and dandy vocal performances, but even a small child may sense how forced this movie is -- how hard it tries to be all things to all audiences.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=6925</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>There's more here for the under-tens than over-, but it's still charming, amusing and energetic enough to win you over.</snippet>
+         <url>http://www.empireonline.com/incinemas/ReviewComplete.asp?FID=10026</url>
+         <critic>Olly Richards</critic>
+      </review>
+      <review>
+         <snippet>It's often funny but it flails around like a chicken with its head cut off, flapping and squawking and making a spectacle, but never really going anywhere.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/247021_chicken04q.html</url>
+         <critic>Sean Axmaker</critic>
+      </review>
+      <review>
+         <snippet>Chicken Little is relentlessly cute. That's the good news, and those who consider the word cute anathema may want to look for entertainment elsewhere.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-to.chicken04nov04,1,7079352.story?coll=bal-artslife-movies</url>
+         <critic>Chris Kaltenbach</critic>
+      </review>
+      <review>
+         <snippet>Chicken Little, though it has its moments, mostly just feels anxious and overreaching. It tries to be all things to all people and fails to be anything to anyone.</snippet>
+         <url>http://www.calendarlive.com/movies/chocano/cl-et-chicken4nov04,0,4665827.story</url>
+         <critic>Carina Chocano</critic>
+      </review>
+      <review>
+         <snippet>The studio's fresh corps of CG animators may get up to speed before the current four-picture cycle is completed, but if they don't get better material to work with, the sky will be falling along Dopey Drive.</snippet>
+         <url>http://www.nydailynews.com/11-04-2005/front/story/362399p-308407c.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>Takes the story one more crank toward the literal. When the thing hits the bird, it turns out, guess what, it is a piece of the sky, the sky is falling. It's like saying: McCarthy was right! Sheesh, revisionist history: It's everywhere!</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1094061&amp;lat=200.0&amp;lon=200.0&amp;displaySearchTerm=Chicken%20Little&amp;displaySearchLocation=&amp;nm=1</url>
+         <critic>Stephen Hunter</critic>
+      </review>
+      <review>
+         <snippet>Lives up to its name by serving up a fraction of what audiences are used to getting in this department from PixarPixar and DreamWorks -- little originality, little humor and little ingratiating characterization.</snippet>
+         <url>http://www.variety.com/review/VE1117928729?categoryid=31&amp;cs=1</url>
+         <critic>Todd McCarthy</critic>
+      </review>
+      <review>
+         <snippet>Turning brief fairy tales into sweeping mini-epics has long been Disney's hallmark, but even for a fable, Chicken Little is thin stuff; it's a brief cautionary tale against alarmism, essentially "The Boy Who Cried Wolf" without any of the poetic irony.</snippet>
+         <url>http://avclub.com/content/node/42200</url>
+         <critic>Tasha Robinson</critic>
+      </review>
+      <review>
+         <snippet>What falls in Chicken Little are hopes.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1125302_1_0_,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>Chicken Little is a clunky, arbitrarily plotted, over-caffeinated spritz that, despite colorfully visualizing a world of suburbanized animals, shifts from social-outcast comedy to underdog clichés to War of the Worlds mayhem as if the filmmakers were an improv troupe slamming through genre requests.</snippet>
+         <url>http://www.laweekly.com/film/film_results.php?showid=3638&amp;Sumbit.x=23&amp;Sumbit.y=12</url>
+         <critic>Robert Abele</critic>
+      </review>
+      <review>
+         <snippet>If Chicken Little were in 3-D, shown in a theme park as you sit in motion simulators, the lame gags might not be so much of a problem.</snippet>
+         <url>http://listings.dallasobserver.com/gyrobase/Film/ShowFilm</url>
+         <critic>Luke Y. Thompson</critic>
+      </review>
+      <review>
+         <snippet>Heavy on celebrity voices, pop culture references and rock tunes and low on memorable characters or imagination, Chicken Little is on a par with such mediocre but popular CGI films as "Madagascar" and "Shark Tale."</snippet>
+         <url>http://www.nypost.com/movies/56812.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>Chicken Little is entirely lacking in anything "Disneyesque."</snippet>
+         <url>http://ae.philly.com/entertainment/ui/philly/movie.html?id=447975&amp;reviewId=19441&amp;startDate=NEXT7</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>In the film, the cleverness just isn't there. There's still a lot to like about Chicken Little - the animation is top notch, and the characters, if somewhat recycled, still generate the requisite sympathy and chuckles.</snippet>
+         <url>http://www.premiere.com/article.asp?section_id=2&amp;article_id=2364</url>
+         <critic>Ryan Devlin</critic>
+      </review>
+      <review>
+         <snippet>The usual pop-culture jokes, disco tunes, and sarcastic narrator are on hand to prevent atrophy, but by the time the sky really does start "falling"--courtesy of an alien invasion-- Chicken Little's frantic efforts to stay farm fresh have started to wear on the nerves.</snippet>
+         <url>http://www.villagevoice.com/film/0545,kenigsberg,69819,20.html</url>
+         <critic>Ben Kenigsberg</critic>
+      </review>
+      <review>
+         <snippet>Kids will love it. It feels fresh and original and mildly subversive, but it's all a cover for the filmmakers not having the patience or confidence to put together a real story with a beginning, middle and end.</snippet>
+         <url>http://ae.miami.com/entertainment/ui/miami/movie.html?id=447975&amp;reviewId=19446&amp;startDate=11%2F04%2F2005</url>
+         <critic>Peter Debruge</critic>
+      </review>
+      <review>
+         <snippet>It is funny at times – the teams for dodgeball break down into "popular" and "unpopular" – but Chicken Little is painful to watch for all ages.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A305818</url>
+         <critic>Marrit Ingman</critic>
+      </review>
+      <review>
+         <snippet>A hectic, uninspired pastiche of catchphrases and clichés, with very little wit, inspiration or originality to bring its frantically moving images to genuine life.</snippet>
+         <url>http://movies2.nytimes.com/2005/11/04/movies/04chic.html</url>
+         <critic>Dana Stevens</critic>
+      </review>
+      <review>
+         <snippet>If I could find some facet to praise, I'd be glad to do so, but the production's mediocrity is all-pervasive -- story, character, graphic design, even music -- and it all points to a failure of corporate imagination, or maybe just nerve.</snippet>
+         <url/>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>Seriously, it's a bad sign for your "kids movie" when the kids in question are asking their parents, "When is something going to happen?"</snippet>
+         <url>http://www.filmthreat.com/Reviews.asp?Id=8146</url>
+         <critic>Pete Vonder Haar</critic>
+      </review>
+   </reviews>
+   <US_Gross>$135,386,665</US_Gross>
+   <production_budget>$60,000,000</production_budget>
+   <weekend_gross>$40,049,778</weekend_gross>
+   <number_of_screens>3,654</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

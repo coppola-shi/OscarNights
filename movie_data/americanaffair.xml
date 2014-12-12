@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>American Affair, An</name>
+   <company>Screen Media Films</company>
+   <genres>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author>Alex Metcalf</author>
+   </authors>
+   <directors>
+      <director>William Olsson</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Gretchen Mol</actor>
+      <actor>James Rebhorn</actor>
+      <actor>Cameron Bright</actor>
+      <actor>Perrey Reeves</actor>
+      <actor>Mark Pellegrino</actor>
+      <actor>Noah Wyle</actor>
+   </actors>
+   <release_date>February 27, 2009</release_date>
+   <running_time>96</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>The reason to see An American Affair is Gretchen Mol. She has a mild, natural way of holding herself that's likably unactressy--in every film, she seems both smart and grounded.</snippet>
+         <url>http://nymag.com/movies/reviews/54687/</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>The film rises above its conventions. Just when it seems to be a fable of sexual initiation, An American Affair pivots away from sex. Just when it seems to be a re-dredging of the Kennedy mystique, it pushes past history. Thoughtfully and imperfectly, it dramatizes the flight from childhood, the surrender to adulthood and the pieces of us that survive.</snippet>
+         <url>http://www.washingtonpost.com/gog/movies/an-american-affair,1155347.html</url>
+         <critic>Dan Zak</critic>
+      </review>
+      <review>
+         <snippet>Even Oliver Stone would giggle at the notion that the CIA couldn't reach JFK through any means except via one of his blond playmates.</snippet>
+         <url>http://www.nypost.com/seven/02272009/entertainment/movies/a_hit_and_a_mistress_157098.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>A mess of a film that can't quite figure out what it wants to be: an illicit love story, a political thriller or a coming-of-age set piece</snippet>
+         <url>http://www.latimes.com/entertainment/news/reviews/la-et-american6-2009mar06,0,6480237.story</url>
+         <critic>Betsy Sharkey</critic>
+      </review>
+      <review>
+         <snippet>Only Noah Wyle, as Adam's unreadable dad, rises above the muck; he deserves his Tarantino-aided resurrection sooner rather than later.</snippet>
+         <url>http://www.villagevoice.com/2009-02-25/film/an-american-affair-mucks-through-a-tiresome-jfk-conspiracy/</url>
+         <critic>Vadim Rizov</critic>
+      </review>
+      <review>
+         <snippet>A coming-of-age tale and a JFK assassination conspiracy movie. The first half of that equation works nicely...But the assassination story line is absurd.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film-reviews/film-review-an-american-affair-1003945994.story</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>An American Affair is sordid business blandly portrayed and not worth meddling with.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2009-03-11-american-affair_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>Like many aspects of An American Affair, the music and the lopsided dramatic priorities take the viewer right out of the movie.</snippet>
+         <url>http://www.variety.com/review/VE1117939781.html?categoryid=31&amp;cs=1</url>
+         <critic>John Anderson</critic>
+      </review>
+      <review>
+         <snippet>Hard to say what's dumber, the premise or the characters in William Olsson's trashily preposterous An American Affair.</snippet>
+         <url>http://www.npr.org/templates/story/story.php?storyId=101141133</url>
+         <critic>Bob Mondello</critic>
+      </review>
+      <review>
+         <snippet>Were it a farce instead of an earnest, paranoid thriller with pretensions to historicity, An American Affair might not seem so offensively exploitative. The fact that it is quite well acted, especially by Ms. Mol, who has the air of a sophisticated 1960s party animal down pat, only compounds the insult.</snippet>
+         <url>http://movies.nytimes.com/2009/02/27/movies/27affa.html?ref=movies</url>
+         <critic>Stephen Holden</critic>
+      </review>
+      <review>
+         <snippet>This is one of those films in which almost every element is done in such an embarrassingly amateurish way, you want to put it out of its misery.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2009/02/26/2009-02-26_short_takes_trouble_with_romance_an_amer.html</url>
+         <critic>Joe Neumaier</critic>
+      </review>
+      <review>
+         <snippet>I have no idea how such shameless prattle found its way to the screen.</snippet>
+         <url>http://online.wsj.com/article/SB123568813212087341.html</url>
+         <critic>Joe Morgenstern</critic>
+      </review>
+   </reviews>
+   <US_Gross>$27,276</US_Gross>
+   <weekend_gross>$11,700</weekend_gross>
+   <number_of_screens>2</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

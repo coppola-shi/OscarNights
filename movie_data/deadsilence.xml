@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Dead Silence</name>
+   <company>Universal Pictures</company>
+   <genres>
+      <genre>Horror</genre>
+      <genre>Mystery</genre>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>Leigh Whannell</author>
+      <author>James Wan</author>
+   </authors>
+   <directors>
+      <director>James Wan</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Ryan Kwanten</actor>
+      <actor>Amber Valletta</actor>
+      <actor>Donnie Wahlberg</actor>
+      <actor>Michael Fairman</actor>
+      <actor>Joan Heney</actor>
+      <actor>Bob Gunton</actor>
+      <actor>Laura Regan</actor>
+      <actor>Dmitry Chepovetsky</actor>
+   </actors>
+   <release_date>March 16, 2007</release_date>
+   <running_time>90</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>The dialogue isn't ridiculous, and sometimes it's witty: A cynical cop (Donnie Wahlberg) doesn't buy Jamie's theory that the doll had something to do with the murder: "The mystery toy department is down the hall. This is the homicide department."</snippet>
+         <url>http://www.nypost.com/seven/03172007/entertainment/movies/a_horror_flick_for_dummies_movies_kyle_smith.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>This new movie is a more credible, less grisly act of filmmaking , but it's a less compelling exercise. It doesn't have the ruthless moral reasoning of the first two "Saw" pictures, however grotesque and specious that reasoning was. But it does have a plot that revolves around a ventriloquist and her demon doll.</snippet>
+         <url>http://www.boston.com/ae/movies/articles/2007/03/17/silence_is_too_conflicted_to_compel/</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>Boasts nothing new under the sun, but it does provide a few decent scares.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?JSESSIONID=XpJ6F7JbNZpFnPcQWsvqz548V3r082gq4qyvfkyhztM3XjNkytgQ!588941050&amp;&amp;rid=8925</url>
+         <critic>Frank Scheck</critic>
+      </review>
+      <review>
+         <snippet>Again coaxing the worst imaginable performances out of his actors (see also: Cary Elwes and Danny Glover in "Saw"), Wan casts charisma-free unknown Ryan Kwanten as a young married man whose small-town past catches up to him.</snippet>
+         <url>http://www.avclub.com/content/cinema/dead_silence</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>Terrified of puppets? Enjoy being scared? Then you'll be half-satisfied with Dead Silence, a rote horror pantomime.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20015589,00.html</url>
+         <critic>Scott Brown</critic>
+      </review>
+      <review>
+         <snippet>Wan does manage to infuse his film with some of the subtle unsubtleties of classic Euro-horror outings, chief among them the palpable, dreamlike sense of dislocation and the abiding severance from reality that tends to make nongenre fans wonder if someone spiked their popcorn with LSD.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A455703</url>
+         <critic>Marc Savlov</critic>
+      </review>
+      <review>
+         <snippet>Dolls are innately unnerving, but the movie's semi-menacing Charlie McCarthys never live up to their potential. As creaky nonsense goes, though, this is chock-full of corny goodness down to its hilarious sense-shredding "twist," which the movie reveals like a magician proudly unveiling a dead rabbit.</snippet>
+         <url>http://www.villagevoice.com/film/0712,ridley,76146,20.html</url>
+         <critic>Jim Ridley</critic>
+      </review>
+      <review>
+         <snippet>The movie's uninteresting characters, boneheaded dialogue and flagrantly nonsensical narrative detract considerably from the virtues of the visual design.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/LAC.20070319.DEAD19/TPStory/TPEntertainment/Movies/</url>
+         <critic>Jason Anderson</critic>
+      </review>
+      <review>
+         <snippet>There are no two ways about it: A chubby-cheeked dummy doing stuff it shouldn't be doing is spooky stuff. But Wan isn't on such sure footing with his actors -- Wahlberg is stilted as the tough-guy cop, and Kwanten is blandly uninteresting.</snippet>
+         <url>http://tvguide.com/detail/movie.aspx?tvobjectid=286408&amp;more=ucmoviereview</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>Too slack to do much harrowing and falls back on some very raggedy commonplaces at the points when it should be delivering knockout scares.</snippet>
+         <url>http://www.premiere.com/moviereviews/3597/dead-silence.html</url>
+         <critic>Glenn Kenny</critic>
+      </review>
+      <review>
+         <snippet>The director, James Wan, and the writer, Leigh Whannell (the team behind the controversially brutal "Saw" series), deliver the mandatory shocks and gross-outs, backed by dissonant bursts of music and made almost elegant by the cinematographer John R. Leonetti's desaturated images.</snippet>
+         <url>http://movies2.nytimes.com/2007/03/17/movies/17dead.html?ref=movies</url>
+         <critic>Matt Zoller Seitz</critic>
+      </review>
+      <review>
+         <snippet>Only those in a cold sweat for their weekly horror fix will bother with this formulaic and rather lazy exercise in booga-booga scare tactics.</snippet>
+         <url>http://www.variety.com/review/VE1117933107.html?categoryid=31&amp;cs=1</url>
+         <critic>Staff (Not credited)</critic>
+      </review>
+      <review>
+         <snippet>As "Saw" demonstrated, Wan and Whannell have a carnivalesque sense of fun and a sure instinct for recycling classic horror tropes, but their characters are so flat and their plotting so listless that this low-budget feature fails to generate much suspense.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/31247_DEAD_SILENCE_WAN.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>There's no attempt at humor in Dead Silence, but the biggest sin in the film is the lack of scares.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2007/03/19/DDGUFOMUTU1.DTL&amp;type=movies</url>
+         <critic>Peter Hartlaub</critic>
+      </review>
+      <review>
+         <snippet>A conflation of the horror genre's laziest tropes, plot angles and shorthands, this inept creation isn't so much a film as it is a smorgasbord.</snippet>
+         <url>http://www.calendarlive.com/printedition/calendar/cl-et-dead19mar19,0,3697828.story</url>
+         <critic>Ed Gonzalez</critic>
+      </review>
+   </reviews>
+   <US_Gross>$16,574,590</US_Gross>
+   <weekend_gross>$7,842,725</weekend_gross>
+   <number_of_screens>1,805</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

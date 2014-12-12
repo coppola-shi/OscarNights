@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>No Country for Old Men</name>
+   <company>Miramax Films</company>
+   <genres>
+      <genre>Adventure</genre>
+      <genre>Crime</genre>
+      <genre>Drama</genre>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>Ethan Coen</author>
+      <author>Joel Coen</author>
+   </authors>
+   <directors>
+      <director>Ethan Coen</director>
+      <director>Joel Coen</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Tommy Lee Jones</actor>
+      <actor>Javier Bardem</actor>
+      <actor>Josh Brolin</actor>
+      <actor>Woody Harrelson</actor>
+      <actor>Kelly Macdonald</actor>
+   </actors>
+   <release_date>November 9, 2007</release_date>
+   <running_time>122</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>Joel and Ethan Coen's adaptation of Cormac McCarthy's 2005 novel is an indisputably great movie, at this point the year's very best.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/14706943/review/17163450/no_country_for_old_men</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>A scorching blast of tense genre filmmaking shot through with rich veins of melancholy, down-home philosophy and dark, dark humor, No Country for Old Men reps a superior match of source material and filmmaking talent.</snippet>
+         <url>http://www.variety.com/index.asp?layout=festivals&amp;jump=review&amp;reviewid=VE1117933677&amp;cs=1&amp;p=0</url>
+         <critic>Todd McCarthy</critic>
+      </review>
+      <review>
+         <snippet>The most measured, classical film of their (Coen Brothers) 23-year career, and maybe the best.</snippet>
+         <url>http://www.villagevoice.com/film/0745,foundas,78252,20.html</url>
+         <critic>Scott Foundas</critic>
+      </review>
+      <review>
+         <snippet>Many of the scenes in No Country for Old Men are so flawlessly constructed that you want them to simply continue, and yet they create an emotional suction drawing you to the next scene. Another movie that made me feel that way was "Fargo." To make one such film is a miracle. Here is another.</snippet>
+         <url>http://www.rogerebert.com/apps/pbcs.dll/article?AID=/20071108/REVIEWS/711080304/1023</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>The movie is true to its own fierce vision and it's the better for it. I haven't seen a stronger or better American movie all year.</snippet>
+         <url>http://www.csmonitor.com/2007/1109/p12s03-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>The ultimate vision here is of a hard world in which civilization is the aberration, and the things we fear are always waiting for an excuse to make life normal again.</snippet>
+         <url>http://www.avclub.com/content/cinema/no_country_for_old_men</url>
+         <critic>Keith Phipps</critic>
+      </review>
+      <review>
+         <snippet>As stomach-churning a suspense exercise as the cinema has seen since the salad days of Hitchcock.</snippet>
+         <url>http://www.premiere.com/moviereviews/4229/no-country-for-old-men.html</url>
+         <critic>Glenn Kenny</critic>
+      </review>
+      <review>
+         <snippet>No Country for Old Men is purgatory for the squeamish and the easily spooked. For formalists -- those moviegoers sent into raptures by tight editing, nimble camera work and faultless sound design -- it’s pure heaven.</snippet>
+         <url>http://movies.nytimes.com/2007/11/09/movies/09coun.html?ref=movies</url>
+         <critic>A.O. Scott</critic>
+      </review>
+      <review>
+         <snippet>If watching movie violence is cathartic, then this film amounts to heavy therapy. It's much more than that, however. This is the best film the Coen brothers have done since their glory days of "Fargo" and "The Big Lebowski," maybe the best they've done, period.</snippet>
+         <url>http://online.wsj.com/article/SB119456479096187232.html?mod=2_1168_1</url>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>Feels positively Greek in its magnitude, a lament about fate, age, time and life.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2007/11/09/DD5QT7D9V.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>The Coens also understand the stark immediacy of this tale, and they visualize it with brilliantly judged details.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=10477</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>An intense, nihilistic thriller as well as a model of implacable storytelling, this is a film you can't stop watching even though you very much wish you could. That's because No Country escorts you through a world so pitilessly bleak, "you put your soul at hazard," as one character says, to be part of it.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-nocountry9nov09,0,7106929.story?coll=cl-mreview</url>
+         <critic>Kenneth Turan</critic>
+      </review>
+      <review>
+         <snippet>The Coen brothers adaptation is impeccable, a perfect mirror of McCarthy's prose – sparse, suspenseful, probing and profoundly disturbing.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20071108.country09nat/BNStory/Entertainment/home</url>
+         <critic>Rick Groen</critic>
+      </review>
+      <review>
+         <snippet>The first movie I've seen in a very long while that deserves to be called a masterpiece. It's such a stunning achievement in storytelling.</snippet>
+         <url>http://www.nypost.com/seven/11092007/entertainment/movies/neo_grande_823973.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>A return to form for the Coen Brothers and, while I feel the film will annoy and frustrate the masses, it will be looked back upon as one of the truly great movies of the first part of this new decade.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=10411</url>
+         <critic>Don R. Lewis</critic>
+      </review>
+      <review>
+         <snippet>Caught in the movie's grip, you are simply hypnotized by the damned thing.</snippet>
+         <url>http://www.time.com/time/arts/article/0,8599,1682381,00.html</url>
+         <critic>Richard Schickel</critic>
+      </review>
+      <review>
+         <snippet>A model of pitch and modulation and craft. For two hours, the Coens hold you in their grip so tightly that for long stretches it feels a little hard to breathe.</snippet>
+         <url>http://www.miamiherald.com/1054/story/308577.html</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>No Country for Old Men is about the kind of amoral madness that can sweep across a country and redefine a landscape. It's so admirably lean and sinewy that it deserves not merely a rave review but a Johnny Cash song about matter-of-fact killings in shady hotels and sun-scoured landscapes.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/reviews/bal-to.country16nov16,0,7700370.story</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>Strong, evocative storytelling pared to the bone and braced with a sensibility perfectly matched to the material.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/339829_country16q.html</url>
+         <critic>Sean Axmaker</critic>
+      </review>
+      <review>
+         <snippet>Violent, poetic, gripping, thrilling and blackly funny: that’ll be the Coens doing what they do best then. Now with added humanity.</snippet>
+         <url>http://www.empireonline.com/reviews/reviewcomplete.asp?FID=134048</url>
+         <critic>Ian Nathan</critic>
+      </review>
+      <review>
+         <snippet>In the main this is a muscular, exact and thrillingly cool movie.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/1195008924166260.xml&amp;coll=7</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>The breath of cinematic life, though, the sensibility, the energy, belong to Joel and Ethan Coen, and this is their stirring success.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20158940,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>It's the most ambitious and impressive Coen film in at least a decade, featuring the flat, sun-blasted landscapes of west Texas -- spectacularly shot by cinematographer Roger Deakins -- and an eerily memorable performance by Javier Bardem, in a Ringo Starr haircut.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2007/05/21/cannes_5/index1.html?CP=IMD&amp;DN=110</url>
+         <critic>Andrew O&amp;#039;Hehir</critic>
+      </review>
+      <review>
+         <snippet>It’s a near masterpiece.</snippet>
+         <url>http://nymag.com/movies/reviews/40291/index1.html</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>The adaptation by Joel and Ethan Coen (both co-credited as writer and director) of McCarthy's as-if-written-for-the-screen No Country for Old Men becomes a marvelous meld of narrative faithfulness and pre-established sensibilities.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A560348</url>
+         <critic>Marjorie Baumgarten</critic>
+      </review>
+      <review>
+         <snippet>If the structure is a tad out of whack, "No Country" does not lack for action or suspense. Some of the scenes of Chigurh's stalking of Moss are nearly unbearably tense. Bring your worry beads.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2007/11/09/2007-11-09_a_wild_wild_west_in_no_country_for_old_m.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>An eerily quiet, bracingly bloody, and expertly laid-out adaptation of the Cormac McCarthy novel.</snippet>
+         <url>http://www.philly.com/philly/entertainment/movies/20071109_The_Coens_do_death_in_Texas.html</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>The Coen brothers have fashioned a wry and riveting hybrid of a drama, Western, crime thriller and action film that is as powerful and thought-provoking as it is genre-bending.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2007-11-08-nocountry_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>As pure craftsmanship, No Country for Old Men is as good as we’ve ever gotten from Joel and Ethan Coen. Only “Fargo” is more satisfying (it’s also a comedy, which this one isn’t).</snippet>
+         <url>http://chicago.metromix.com/movies/movie_review/movie-review-no-country/247683/content</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>It’s mostly an off-kilter road trip that accomplishes what the Coens do best - seamlessly merging drama, violence, and quirky humor into a whole.</snippet>
+         <url>http://www.reelviews.net/movies/n/no_country.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>The Coens' typically superior filmmaking sustains the electrifying mood for most of the picture, but they are undone by being too faithful to the source novel by Cormac McCarthy.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?&amp;rid=9229</url>
+         <critic>Ray Bennett</critic>
+      </review>
+      <review>
+         <snippet>It's a hugely entertaining slice of sunbaked Gothic.</snippet>
+         <url>http://www.tvguide.com/movies/country-old-men/review/291106</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>The Coen brothers have never really accepted the idea that a movie has to have a plot. Offbeat characters, sure. Oblique dialogue that sounds meaningful and occasionally is so, absolutely. Eye-catching cinematography and a subtle, mood-reinforcing soundtrack, no question. Irony layered on thickly as cheese in good lasagna, yes. But a narrative that makes sense from end to end? Well, one doesn't have room for everything.</snippet>
+         <url>http://ae.charlotte.com/entertainment/ui/charlotte/movie.html?id=982263&amp;reviewId=22777&amp;startDate=NEXT7</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>Maybe part of the problem is that black comedy is a tough genre in which to create a masterpiece.</snippet>
+         <url>http://www.slate.com/id/2177685/fr/flyout</url>
+         <critic>Dana Stevens</critic>
+      </review>
+      <review>
+         <snippet>Beyond question a return to the dark, simmering days of their best work, in “Blood Simple” and “Miller’s Crossing.”</snippet>
+         <url>http://www.newyorker.com/arts/critics/cinema/2007/11/12/071112crci_cinema_lane</url>
+         <critic>Anthony Lane</critic>
+      </review>
+      <review>
+         <snippet>I appreciate No Country for Old Men for the skill in the film craft. I understand No Country for Old Men for its penetrating disquisition on narrative conventions and its heroic will in subverting them. I admire No Country for Old Men for the way it tightens its grip as it progresses, taking us deeper and deeper into a hellish world. I just don't like it very much.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1138342&amp;categories=Movies&amp;nm=1</url>
+         <critic>Stephen Hunter</critic>
+      </review>
+      <review>
+         <snippet>A very well-made genre exercise, but I can’t understand why it’s been accorded so much importance, unless it’s because it strokes some ideological impulse.</snippet>
+         <url>http://www.chicagoreader.com/features/stories/moviereviews/2007/071108/</url>
+         <critic>Jonathan Rosenbaum</critic>
+      </review>
+   </reviews>
+   <US_Gross>$74,273,505</US_Gross>
+   <production_budget>$25,000,000</production_budget>
+   <weekend_gross>$1,226,333</weekend_gross>
+   <number_of_screens>28</number_of_screens>
+   <highest_grossing_actors_present/>
+   <num_highest_grossing_actors>1</num_highest_grossing_actors>
+   <highest_grossing_actor>tommy lee jones</highest_grossing_actor>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

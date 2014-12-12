@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Surrogates</name>
+   <company>Touchstone Pictures</company>
+   <genres>
+      <genre>Action</genre>
+      <genre>Scifi</genre>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>Brett Weldele</author>
+      <author>Robert Venditti</author>
+      <author>John D. Brancato</author>
+      <author>Michael Ferris</author>
+   </authors>
+   <directors>
+      <director>Jonathan Mostow</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Bruce Willis</actor>
+      <actor>Radha Mitchell</actor>
+      <actor>Rosamund Pike</actor>
+      <actor>Boris Kodjoe</actor>
+      <actor>James Francis Ginty</actor>
+      <actor>James Cromwell</actor>
+      <actor>Ving Rhames</actor>
+   </actors>
+   <release_date>September 25, 2009</release_date>
+   <running_time>88</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>What follows is pulp made near-profound through director Jonathan Mostow’s sure-handed guidance.</snippet>
+         <url>http://newyork.timeout.com/articles/film/79130/surrogates-film-review</url>
+         <critic>Keith Uhlich</critic>
+      </review>
+      <review>
+         <snippet>There's fun robot stuff, some good philosophical ideas, and a brief, nutty Willis-Ving Rhames reunion 15 years after "Pulp Fiction."</snippet>
+         <url>http://www.ew.com/ew/article/0,,20308009,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>Among cheesy sci-fi movies meant to make you think, I'll take Surrogates over "District 9." Both are highly derivative, but in the course of recombining the basic chromosomes of "Blade Runner," "The Matrix" and especially "I, Robot," Surrogates nudges the robo-thriller in an interesting direction.</snippet>
+         <url>http://www.nypost.com/p/entertainment/movies/it_wry_tech_future_fr4CuzQLukcVEst54XO9IO</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>This represesents the smartest high-budget, high-profile science fiction film to have come along in quite some time.</snippet>
+         <url>http://www.reelviews.net/php_review_template.php?identifier=1803</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>Surrogates stays afloat by not taking itself too seriously, but also by recognizing that a movie about robots shouldn't look as if it were made by one.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2009/09/25/surrogates/index.html</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>Mostow's smart speculative suspenser imagines a time when people can live through ideal versions of themselves while they sit wired up at home.</snippet>
+         <url>http://www.variety.com/review/VE1117941218.html?categoryid=31&amp;cs=1</url>
+         <critic>Todd McCarthy</critic>
+      </review>
+      <review>
+         <snippet>Surrogates is entertaining and ingenious, but it settles too soon for formula.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20090923/REVIEWS/909279998</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>Willis is fine, both as his blond action figure (Zack Morris hair) and actual self, in trusty bruised palooka mode. Mostow does good meat-and-potatoes genre work, coherent even when reckless.</snippet>
+         <url>http://www.villagevoice.com/2009-09-22/film/surrogates-bruce-willis-is-fine-so-are-radha-mitchell-s-high-heeled-acrobatics/</url>
+         <critic>Nick Pinkerton</critic>
+      </review>
+      <review>
+         <snippet>The questions the movie raises have less to do with science than movie execution: Do the actors sound so robotic because they are playing robots well or humans badly? And did a machine write this dialogue? If so, could we please apply for an upgrade?</snippet>
+         <url>http://www.theglobeandmail.com/news/arts/surrogates/article1300241/</url>
+         <critic>Liam Lacey</critic>
+      </review>
+      <review>
+         <snippet>Half a howler but not nearly funny enough.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2009-09-24-surrogates_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>A reasonably watchable sci-fi B movie, a case of a good director and some intriguing ideas struggling to overcome formula plotting, limp dialogue, and a serious case of the sillies.</snippet>
+         <url>http://www.boston.com/ae/movies/articles/2009/09/25/in_surrogates_living_the_simulated_life/</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>Relentlessly plods from one dour moment to the next, coming to life only in a late-film car chase that takes the possibilities of a world filled with robots to an absurd extreme.</snippet>
+         <url>http://www.avclub.com/articles/surrogates,33344/</url>
+         <critic>Keith Phipps</critic>
+      </review>
+      <review>
+         <snippet>A mechanical sci-fi'er absent of logic or emotions. It functions as an expensive place-filler on the Disney release schedule and, as such, will be welcomed by only the least discriminating thriller fans.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film-reviews/surrogates-film-review-1004015853.story</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>In this kind of industrial entertainment, particularly one that seems to be missing some connective narrative tissue, it’s hard to know if the writers or the director can be credited or blamed for what’s left on screen.</snippet>
+         <url>http://movies.nytimes.com/2009/09/25/movies/25surrogates.html?ref=movies</url>
+         <critic>Manohla Dargis</critic>
+      </review>
+      <review>
+         <snippet>An interesting idea, but unfortunately, the film's narrative and emotional engine operate as mechanically as the titular, dead-eyed glamazoids.</snippet>
+         <url>http://www.latimes.com/entertainment/news/la-et-surrogates25-2009sep25,0,2505507.story</url>
+         <critic>Robert Abele</critic>
+      </review>
+      <review>
+         <snippet>An ambitious but sub-ordinary SF epic in which, as so often, Willis is better than his material.</snippet>
+         <url>http://www.time.com/time/arts/article/0,8599,1926092,00.html</url>
+         <critic>Richard Corliss</critic>
+      </review>
+      <review>
+         <snippet>Surrogates, which borrows tone and content freely from "I, Robot," is all windup and no pitch.</snippet>
+         <url>http://www.philly.com/philly/entertainment/movies/20090926_Tech_wreck.html</url>
+         <critic>David Hiltbrand</critic>
+      </review>
+      <review>
+         <snippet>The premise for this sci-fi actioner makes sense for about four seconds, after which you begin to wonder why everyone on the planet would willingly become a shut-in.</snippet>
+         <url>http://www.chicagoreader.com/chicago/MovieTimes?film=978041</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>Surrogates takes an interesting idea -- the triumph of technological convenience over grimy, workaday life -- and buries it under clumsy exposition, unconvincing action sequences and a by-the-numbers conspiracy plot.</snippet>
+         <url>http://www.washingtonpost.com/gog/movies/surrogates,1158248/critic-review.html#reviewNum1</url>
+         <critic>Dan Kois</critic>
+      </review>
+      <review>
+         <snippet>The filmmakers were too busy throwing together potential blockbuster material to notice all the loose ends and gaping holes in logic. Which may, ultimately, explain why Willis looks so confused throughout. Maybe he, too, is straining to locate some intelligence amid all the machinery.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2009/09/24/2009-09-24_surrogates_proves_theres_no_standin_for_smart_moviemaking__no_intelligent_life_h.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>Surrogates' morality is less Asimov than asinine, although it's bizarrely reassuring, in a nihilistic sort of way, to believe that in the future, when the world is ready to play The Sims for real (so to speak), our avatars are all going to look like generic porn stars with shitty airbrush jobs.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A875916</url>
+         <critic>Marc Savlov</critic>
+      </review>
+   </reviews>
+   <US_Gross>$38,577,772</US_Gross>
+   <production_budget>$80,000,000</production_budget>
+   <weekend_gross>$14,902,692</weekend_gross>
+   <number_of_screens>2,951</number_of_screens>
+   <highest_grossing_actors_present/>
+   <num_highest_grossing_actors>1</num_highest_grossing_actors>
+   <highest_grossing_actor>bruce willis</highest_grossing_actor>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

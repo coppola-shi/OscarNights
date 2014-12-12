@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Believe in Me</name>
+   <company>IFC Films</company>
+   <genres>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author>Robert Collector</author>
+   </authors>
+   <directors>
+      <director>Robert Collector</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Jeffrey Donovan</actor>
+      <actor>Samantha Mathis</actor>
+      <actor>Bruce Dern</actor>
+      <actor>Bob Gunton</actor>
+      <actor>Alicia Lagano</actor>
+   </actors>
+   <release_date>March 9, 2007</release_date>
+   <running_time>108</running_time>
+   <rating>PG</rating>
+   <reviews>
+      <review>
+         <snippet>It's very much in "A League of Their Own" league, but what the inspirational sports drama Believe in Me might lack in freshness, it nicely compensates for in heartfelt, winning conviction and spirited performances.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?&amp;rid=262</url>
+         <critic>Michael Rechtshaffen</critic>
+      </review>
+      <review>
+         <snippet>Even with ties to the true story of high school hoops coach Jim Keith and his unlikely triumph with a 1960s Oklahoma high school girls' squad, the hackneyed, overlong Believe in Me is much too similar to a recent flood of inspirational basketball pics to distinguish it.</snippet>
+         <url>http://www.variety.com/review/VE1117929855.html?categoryid=31&amp;cs=1&amp;p=0</url>
+         <critic>Robert Koehler</critic>
+      </review>
+      <review>
+         <snippet>Despite all its clichéd moralizing and blatant borrowings, the movie does offer a few clever twists on an old formula. "Hoosiers" may have been a better film, but Hackman never had to coach a team to victory after his star player quit to go have a baby.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A452825</url>
+         <critic>Josh Rosenblatt</critic>
+      </review>
+   </reviews>
+   <US_Gross>$209,654</US_Gross>
+   <weekend_gross>$81,569</weekend_gross>
+   <number_of_screens>54</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

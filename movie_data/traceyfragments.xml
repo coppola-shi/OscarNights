@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Tracey Fragments, The</name>
+   <company>THINKFilm</company>
+   <genres>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author>Maureen Medved</author>
+   </authors>
+   <directors>
+      <director>Bruce Mc</director>
+      <director>Donald</director>
+   </directors>
+   <origins>
+      <origin>Canada</origin>
+   </origins>
+   <actors>
+      <actor>Ellen Page</actor>
+      <actor>Ari Cohen</actor>
+      <actor>Max McCabe-Lokos</actor>
+      <actor>Erin McMurtry</actor>
+      <actor>SlimTwig</actor>
+      <actor>Julian Richings</actor>
+   </actors>
+   <release_date>May 9, 2008</release_date>
+   <running_time>77</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>In the hands of a more literal-minded filmmaker The Tracey Fragments might well have been dreary and unbearable, a chronicle of florid self-pity justified by arbitrary cruelty. Instead it is fierce, enigmatic and affecting.</snippet>
+         <url>http://movies.nytimes.com/2008/05/09/movies/09trac.html?ref=movies</url>
+         <critic>A.O. Scott</critic>
+      </review>
+      <review>
+         <snippet>I have a feeling that this is the last time we'll see a down-and-dirty Ellen Page. Her handlers have too much wrapped up in her mainstream persona to ever again allow her to do anything as daring and out of the loop as The Tracey Fragments. And that's a shame.</snippet>
+         <url>http://www.nypost.com/seven/05092008/entertainment/movies/provocative_page_110002.htm</url>
+         <critic>V.A. Musetto</critic>
+      </review>
+      <review>
+         <snippet>Even though the screen is often divided into a Mondrian-like grid, each individual box containing its own discreet moving image, McDonald's film is surprisingly fluid and easy to follow.</snippet>
+         <url>http://www.tvguide.com/movies/tracey-fragments/review/293432</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>Beyond its overarching aesthetic, The Tracey Fragments co-stars Toronto rockabilly punk Slim Twig as a Tim Burton caricature of Pretty in Pink’s Duckie and boasts a score by Broken Social Scene; it would all swagger dangerously close into hipster-trash territory if not for Page's pathos and wit, honest to blog.</snippet>
+         <url>http://www.villagevoice.com/film/0819,the-tracey-fragments,433930,20.html</url>
+         <critic>Aaron Hillis</critic>
+      </review>
+      <review>
+         <snippet>Page is generally commanding as the self-pitying teenager, but there are several moments when, let down by the text, the young thesp obviously does not believe what she is saying.</snippet>
+         <url>http://www.variety.com/index.asp?layout=festivals&amp;jump=review&amp;id=2478&amp;reviewid=VE1117932734&amp;cs=1&amp;p=0</url>
+         <critic>Russell Edwards</critic>
+      </review>
+      <review>
+         <snippet>Formally, the effect is like watching really cinematic confetti.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=11645</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>It's all a bit like "Girl Interrupted" shattered into a thousand shards, but Page somehow manages to come through with a performance despite the director's distracting technique.</snippet>
+         <url>http://www.csmonitor.com/2008/0509/p25s10-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>A failed cinematic experiment mainly notable for its fine starring performance by a pre-"Juno" Ellen Page, The Tracey Fragments provides more evidence (not that any was needed) that an extensive use of split-screen visuals is far more irritating than arresting.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?&amp;rid=11067</url>
+         <critic>Frank Scheck</critic>
+      </review>
+      <review>
+         <snippet>This unexceptional and uninteresting story of a self-pitying borderline-personality teenager verges on being unwatchable as a result of McDonald's decision to bombard the audience with extraneous images in lieu of telling the story.</snippet>
+         <url>http://www.reelviews.net/movies/t/tracey_fragments.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>The Tracey Fragments is a grating stunt that plays like a film-school project, cutting a bland story into a million tiny irritating pieces.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2008/05/09/2008-05-09_short_takes_more_movie_reviews.html</url>
+         <critic>Joe Neumaier</critic>
+      </review>
+   </reviews>
+   <US_Gross>$33,183</US_Gross>
+   <weekend_gross>$10,465</weekend_gross>
+   <number_of_screens>3</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

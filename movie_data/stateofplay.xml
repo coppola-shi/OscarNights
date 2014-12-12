@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>State of Play</name>
+   <company>Universal Pictures</company>
+   <genres>
+      <genre>Crime</genre>
+      <genre>Drama</genre>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>Matthew Michael Carnahan</author>
+      <author>Tony Gilroy</author>
+      <author>Billy Ray</author>
+   </authors>
+   <directors>
+      <director>Kevin Macdonald</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+      <origin>UK</origin>
+   </origins>
+   <actors>
+      <actor>Russell Crowe</actor>
+      <actor>Ben Affleck</actor>
+      <actor>Rachel McAdams</actor>
+      <actor>Robin Wright Penn</actor>
+      <actor>Jason Bateman</actor>
+      <actor>Jeff Daniels</actor>
+      <actor>Helen Mirren</actor>
+   </actors>
+   <release_date>April 17, 2009</release_date>
+   <running_time>118</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>This is a smart script. There is a wealth of twists, but none of them have to beat you over the head.</snippet>
+         <url>http://www.premiere.com/Review/Movies/State-of-Play</url>
+         <critic>Rob Calvert</critic>
+      </review>
+      <review>
+         <snippet>Nothing is as it seems in State of Play, a crackerjack political thriller in which no individual, profession or institution gets away clean.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-to.state17apr17,0,7945164.story</url>
+         <critic>Chris Kaltenbach</critic>
+      </review>
+      <review>
+         <snippet>Spins a thorny tale of political corruption laced with personal sleaze.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20272247,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>Acting-wise, the showstopper is Jason Bateman, with a diabolically entertaining turn as a smarmy PR man remarkably free with confidential information.</snippet>
+         <url>http://www.philly.com/philly/entertainment/movies/20090417_Reporter_on_the_case_in_juicy_D_C__thriller.html</url>
+         <critic>Carrie Rickey</critic>
+      </review>
+      <review>
+         <snippet>As dense as a Watergate-era newspaper and as immediate as a blog, State of Play is an absolutely riveting state-of-the-art "big conspiracy" thriller.</snippet>
+         <url>http://events.charlotteobserver.com/reviews/show/44131-review-state-of-play</url>
+         <critic>Roger Moore</critic>
+      </review>
+      <review>
+         <snippet>A rare treat for cinema lovers starved for the days when scruffy newspaper reporters fearlessly sniffed out corruption, State of Play delivers the kind of conspiratorial thrills that would have made Pakula proud.</snippet>
+         <url>http://movies.tvguide.com/state-play/review/294859</url>
+         <critic>Jason Buchanan</critic>
+      </review>
+      <review>
+         <snippet>Until State of Play slips into its small cascade of improbabilities near its end, it proves a thoroughly engaging and professional enterprise.</snippet>
+         <url>http://blog.oregonlive.com/madaboutmovies/2009/04/review_state_of_play_heres_a_t_2.html</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>Once you get over the unlikelihood of Affleck and Crowe as buddies, State Of Play stands as a sterling thriller, benefiting from admirable convictions and an arguable return to form by Russell Crowe.</snippet>
+         <url>http://www.empireonline.com/reviews/reviewcomplete.asp?FID=135201</url>
+         <critic>Dan Jolin</critic>
+      </review>
+      <review>
+         <snippet>An intelligent adult thriller about the death of newspapers.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2009/04/17/state_play/index.html</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>It is a refreshingly traditional star-driven thriller.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=11698</url>
+         <critic>Scott Mendelson</critic>
+      </review>
+      <review>
+         <snippet>For about 115 minutes, State of Play tells an alarming, tightly constructed story, with serious things to say about journalism and the state of the country. The movie appears to be all but over - and likely to stand as one of the best films of 2009. And then the filmmakers add one last embellishment, and they blow it.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2009/04/16/MV6I172UGN.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>Intelligent and engrossing saga.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2009-04-16-state-of-play_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>State of Play is far from a great movie, but it's sentimental in all the right ways.</snippet>
+         <url>http://www.csmonitor.com/2009/0417/p17s01-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>Co-written by Tony Gilroy, who penned the tricky "Michael Clayton" and the even trickier "Duplicity," State of Play displays its savvy without being quite so showy.</snippet>
+         <url>http://www.miamiherald.com/entertainment/movies/reviews/story/1001873.html</url>
+         <critic>Connie Ogle</critic>
+      </review>
+      <review>
+         <snippet>State of Play isn't a kinetic fireball like the second or third "Bourne" installment; like its protagonist, it's defiantly old school, "Three Days of the Condor" bleeding into "All the President's Men."</snippet>
+         <url>http://www.chicagotribune.com/entertainment/movies/chi-tc-mov-state-of-play-0415-17apr17,0,3913760.story</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>The movie never quite attains altitude. It has a great takeoff, levels nicely, and then seems to land on autopilot. Maybe it's the problem of resolving so much plot in a finite length of time, but it seems a little too facile toward the end.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20090415/REVIEWS/904159989</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>There's no question that State of Play feels a little rushed and the density of plot can be daunting, but the resulting tale unfolds with an urgency and sense of verisimilitude that will keep most viewers intrigued and involved without losing many along the way.</snippet>
+         <url>http://www.reelviews.net/php_review_template.php?identifier=1573</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>Affleck may strike you as off-putting at first, hitting wrong emotional notes, but hang on. State of Play keeps the twists coming.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/20532091/review/27538130/state_of_play</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>The result is a paper-thin alliance between the old-school Cal and the new-media Della. Crowe, husky and whisky-voiced, is warm amidst all the plot mechanics, and McAdams, perky and efficient, is a smart foil for him.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2009/04/16/2009-04-16_russell_crowes_state_of_play_is_a_thrilling_paper_chase.html</url>
+         <critic>Joe Neumaier</critic>
+      </review>
+      <review>
+         <snippet>In the end, though, it's Crowe who must carry the most freight, which he does with another characterization to relish. Still bulky, although not as much so as in "Body of Lies," long-tressed and somewhat grizzled, he finds the gist of the affable eccentricity, natural obsessiveness and mainstream contrarianism that marks many professional journalists.</snippet>
+         <url>http://www.variety.com/review/VE1117940041.html?categoryid=31&amp;cs=1</url>
+         <critic>Todd McCarthy</critic>
+      </review>
+      <review>
+         <snippet>Features a handsome production and terrific performances.</snippet>
+         <url>http://www.washingtonpost.com/gog/movies/stateofplay,1156187.html</url>
+         <critic>Ann Hornaday</critic>
+      </review>
+      <review>
+         <snippet>Though solidly plotted and executed all around, the film, too, feels like a quaint relic from another era, aping the form of journalistic thrillers like "All The President’s Men" while missing much of their urgency.</snippet>
+         <url>http://www.avclub.com/articles/state-of-play,26759/</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>It neither embarrasses the original, nor is superior to it in any way.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A765606</url>
+         <critic>Kimberley Jones</critic>
+      </review>
+      <review>
+         <snippet>The overall lack of subtlety is a riot - there's even a cautionary production of "Peter and the Wolf" happening in the background during one journalist-politician showdown at a Beltway gala. Still, it's a pleasure watching this cast make the most of the material.</snippet>
+         <url>http://www.boston.com/ae/movies/articles/2009/04/17/state_of_play/</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>An effectively involving journalism-cum-conspiracy yarn with a bang-bang opening and a frantic closer.</snippet>
+         <url>http://www.villagevoice.com/2009-04-15/film/affleck-crowe-pump-adrenaline-into-a-dying-industry-in-state-of-play/</url>
+         <critic>J. Hoberman</critic>
+      </review>
+      <review>
+         <snippet>It's tricky, it's surprising, and it's largely faithful to the original mini-series, but in context it's a nonevent. It's like a time bomb that's never dismantled but never explodes. The movie is good enough that the ending leaves you … not angry, exactly. Unfulfilled.</snippet>
+         <url>http://nymag.com/movies/reviews/55990/</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>Crowe has an animal quickness and sensitivity, a threatening way of penetrating what someone is up to, a feeling for weakness in friends as well as opponents. He seems every inch a great journalist; it's not his fault that the filmmakers let the big story slip through their fingers.</snippet>
+         <url>http://www.newyorker.com/arts/critics/cinema/2009/04/27/090427crci_cinema_denby?currentPage=2</url>
+         <critic>David Denby</critic>
+      </review>
+      <review>
+         <snippet>Those Hollywood tricksters have managed to shorten the story while slowing the pace -- all of a sudden, minutes are passing like hours.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20090416.wplay0417/BNStory/Entertainment/home</url>
+         <critic>Rick Groen</critic>
+      </review>
+      <review>
+         <snippet>This manages to make the real seem generic, rather than the other way around.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/34288_STATE_OF_PLAY.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>Somehow when State of Play should be at its stomach-clenching best, the tension simply evaporates.</snippet>
+         <url>http://www.latimes.com/entertainment/la-et-state17-2009apr17,0,1671786.story</url>
+         <critic>Betsy Sharkey</critic>
+      </review>
+      <review>
+         <snippet>After a bracing first hour, State of Play defaults on the most basic promise of the conspiracy thriller. Instead of luring us down an ever-darker and twistier path, it strands us in a tedious and ill-designed maze.</snippet>
+         <url>http://www.slate.com/id/2216301/</url>
+         <critic>Dana Stevens</critic>
+      </review>
+      <review>
+         <snippet>There is nothing we haven't seen here before in terms of chases, intrigue and betrayals, so for all its A-list cast and production values, the film comes off as routine.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film-reviews/film-review-state-of-play-1003961815.story</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>The film's director, Kevin Macdonald, who did "The Last King of Scotland," is not a flair fellow. The chase scenes interpolated into this version have no special oomph; the encounters no residual kick. Paging Ridley Scott? Oh, sorry, too late. So there it is: another film that can't compete with a TV show.</snippet>
+         <url>http://www.time.com/time/arts/article/0,8599,1891813,00.html</url>
+         <critic>Richard Corliss</critic>
+      </review>
+      <review>
+         <snippet>A superficially clever, self-important and finally incoherent thriller.</snippet>
+         <url>http://movies.nytimes.com/2009/04/17/movies/17play.html?ref=movies</url>
+         <critic>A.O. Scott</critic>
+      </review>
+      <review>
+         <snippet>There's simply too much stuff for a two-hour feature, and three writers, including Tony Gilroy, haven't figured out how to boil it down into a readily comprehensible narrative, or how to solve the problem of an ending that goes blah rather than bang.</snippet>
+         <url>http://online.wsj.com/article/SB123992063794426951.html</url>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>State of Play is bordered by the states of absurdity and cliché.</snippet>
+         <url>http://www.nypost.com/seven/04172009/entertainment/movies/stop_the_tresses__164762.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+   </reviews>
+   <US_Gross>$37,017,955</US_Gross>
+   <production_budget>$60,000,000</production_budget>
+   <weekend_gross>$14,071,280</weekend_gross>
+   <number_of_screens>2,803</number_of_screens>
+   <oscar_winning_actors_present/>
+   <num_oscar_winning_actors>2</num_oscar_winning_actors>
+   <oscar_winning_actor>helen mirren</oscar_winning_actor>
+   <oscar_winning_actor>russell crowe</oscar_winning_actor>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

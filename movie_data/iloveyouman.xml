@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>I Love You, Man</name>
+   <company>DreamWorks Pictures (Paramount)</company>
+   <genres>
+      <genre>Comedy</genre>
+      <genre>Romance</genre>
+   </genres>
+   <authors>
+      <author>Larry Levin</author>
+      <author>John Hamburg</author>
+   </authors>
+   <directors>
+      <director>John Hamburg</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Paul Rudd</actor>
+      <actor>Jason Segel</actor>
+      <actor>Rashida Jones</actor>
+      <actor>Andy Samberg</actor>
+      <actor>J.K. Simmons</actor>
+      <actor>Jane Curtin</actor>
+      <actor>Jon Favreau</actor>
+      <actor>Jaime Pressly</actor>
+   </actors>
+   <release_date>March 20, 2009</release_date>
+   <running_time>minutes,</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>By far the best Judd Apatow comedy that Judd Apatow had nothing at all to do with.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20266402,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>It's a hilarious comedy made even more successful because so much of the satire seems fresh.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2009/03/19/DDLG16IKNG.DTL&amp;type=movies</url>
+         <critic>Peter Hartlaub</critic>
+      </review>
+      <review>
+         <snippet>This movie was absolutely hilarious, and proved that dating might be easy, but making friends is much harder.</snippet>
+         <url>http://www.premiere.com/Review/Movies/I-Love-You-Man</url>
+         <critic>Staff (Not credited)</critic>
+      </review>
+      <review>
+         <snippet>Above all, just plain funny. It's funny with some dumb physical humor, yes, and some gross-out jokes apparently necessary to all buddy movies, but also funny in observations, dialogue, physical behavior and Sydney Fife's observations as a people-watcher.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20090318/REVIEWS/903189995</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>ILYM is the comedy that Rudd lovers have been waiting for since he first charmed us silly in "Clueless." It explores both the dweeby and heartthrobby sides of this guy whose crooked smile fails to mask his social anxiety.</snippet>
+         <url>http://www.philly.com/inquirer/columnists/carrie_rickey/20090320_A_metrosexual_meets_a_caveman.html</url>
+         <critic>Carrie Rickey</critic>
+      </review>
+      <review>
+         <snippet>It's a rare comedy that actually grows funnier on reflection. It benefits enormously from the talents of the two stars.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film-reviews/film-review-i-love-you-man-1003951500.story</url>
+         <critic>Stephen Farber</critic>
+      </review>
+      <review>
+         <snippet>I Love You, Man is totally formulaic, but the formula is unnervingly (and hilariously) inside out.</snippet>
+         <url>http://nymag.com/movies/reviews/55344/</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>The movie delivers an absolutely complete, fully realized, delightfully novel redo of the hoariest of forms: the meet-cute, love-at-first-sight, break-up-and-make-up, racing-to-the-altar slapstick weepy that's been a staple of cinema since the invention of cinema.</snippet>
+         <url>http://www.villagevoice.com/2009-03-18/film/i-love-you-man-reaches-bromantic-comedy-s-greatest-heights/</url>
+         <critic>Robert Wilonsky</critic>
+      </review>
+      <review>
+         <snippet>Apatow became the hottest comedy director in the business by seamlessly combining relationship comedy that didn't bore the guys and wild comedy that didn't nauseate the girls; this is a knockoff, pure and simple, but its wit and ingenuous characters prove how far the bar's been raised.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/34212_I_LOVE_YOU_MAN.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>Despite the movie's many flaws, the two leads' genuine rapport is enough to give the audience a solid contact high.</snippet>
+         <url>http://www.slate.com/id/2214239/</url>
+         <critic>Dana Stevens</critic>
+      </review>
+      <review>
+         <snippet>Rudd's timing has always been good, but in I Love You, Man he gives the finest performance of his career, breaking his comic beats down into weird and wonderful fractional increments. It's as if he's invented a new comedy dialect.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2009/03/20/i_love_you/index.html</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>After delivering scene-stealing turns in "The 40-Year-Old Virgin" and "Knocked Up" Rudd claims the much-deserved spotlight in I Love You, Man, which in its own endearing way tweaks the very same male-bonding pieties that those movies made a fortune celebrating.</snippet>
+         <url>http://www.washingtonpost.com/gog/movies/i-love-you-man,1144914.html</url>
+         <critic>Ann Hornaday</critic>
+      </review>
+      <review>
+         <snippet>There are ribald jokes and gross-out episodes, but the movie works because everything hinges on the camaraderie and undeniable chemistry between Rudd and Segel.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2009-03-19-love-you-man_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>The result is a film that's comfortable and familiar, but at the same time feels fresh, fun, and original.</snippet>
+         <url>http://movies.tvguide.com/detail/movie.aspx?tvobjectid=296926&amp;more=ucmoviereview</url>
+         <critic>Jason Buchanan</critic>
+      </review>
+      <review>
+         <snippet>This comedy of stereotypes pokes fun at poker buddies and coffee klatches only to make room for variations on more recent stereotypes. Some of the boldest 'types provide the funniest bits, such as Jon Favreau's embodiment of an upscale Stanley Kowalski who treats all-male card games as clan rites.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/reviews/bal-to.loveyouman20mar20,0,255697.story</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>The movie stakes out a whole new arena - male social performance anxiety - and ruthlessly mines it for comic embarrassment.</snippet>
+         <url>http://www.boston.com/ae/movies/articles/2009/03/20/i_love_you_man/</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>The real revelation is Lou Ferrigno, in his first non-Hulk-related big-screen role since 2002. OK, so he plays himself.</snippet>
+         <url>http://www.oregonlive.com/movies/index.ssf/2009/03/movie_review_a_fine_bromance_i.html</url>
+         <critic>Marc Mohan</critic>
+      </review>
+      <review>
+         <snippet>Both Rudd and Segel have splendid comic timing and their improvised scenes leap out from the script.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20090320.waloveyou20/BNStory/Entertainment/home</url>
+         <critic>Liam Lacey</critic>
+      </review>
+      <review>
+         <snippet>Hilarious and socially astute.</snippet>
+         <url>http://www.miamiherald.com/entertainment/movies/reviews/story/957282.html</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>The movie goes soft in its final stages, but Rudd and Segel keep it real. "Sweet, sweet hangin'," says Peter of knowing Sydney. The same goes for the movie.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/23654719/review/26794160/i_love_you_man</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>What works best is whatever's completely incidental to the story, such as the totes-magotes/slippy mcgippy jive talk.</snippet>
+         <url>http://www.chicagotribune.com/entertainment/movies/chi-tc-mov-i-love-you-man-0318mar20,0,1288968.story</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>The central love story, platonic though it may be, is entirely between the men. Their connection - and I’m determined to avoid the word “bromance” - saves this film from becoming just another Apatowian wanna-be.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2009/03/19/2009-03-19_paul_rudd_jason_segel_show_real_chemistr.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>The picture is worth catching for the delicate and toxic nuances of Rudd's performance. And one of its funniest corollaries is that it shows how hilarious and instructive a star this perennial supporting player can be.</snippet>
+         <url>http://www.time.com/time/arts/article/0,8599,1886825,00.html</url>
+         <critic>Richard Corliss</critic>
+      </review>
+      <review>
+         <snippet>A fitfully funny comedy.</snippet>
+         <url>http://movies.nytimes.com/2009/03/20/movies/20love.html</url>
+         <critic>Manohla Dargis</critic>
+      </review>
+      <review>
+         <snippet>What saves I Love You, Man, at least partially, is the relaxed chemistry between Paul Rudd and Jason Segel, both very funny men who are genuine enough to push back against a premise that's often maddeningly artificial.</snippet>
+         <url>http://www.avclub.com/articles/i-love-you-man,25304/</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>Despite the clever premise and several laugh-aloud moments, the film as a whole underwhelms.</snippet>
+         <url>http://www.reelviews.net/php_review_template.php?identifier=1542</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>Jon Favreau, J.K. Simmons, Thomas Lennon and half a dozen other capable comedians drift in and out. Yet the movie seems long even at 105 minutes.</snippet>
+         <url>http://events.charlotteobserver.com/reviews/show/42265-review-i-love-you-man</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>An amusing scenario gets a big boost from winning performances all round -- which lift it well above other bride vs. buddy 'triangle' japes like, say, "You, Me And Dupree."</snippet>
+         <url>http://www.empireonline.com/reviews/review.asp?FID=136055</url>
+         <critic>Staff (Not credited)</critic>
+      </review>
+      <review>
+         <snippet>For most of the film's 104 minutes, the characters have experiences that range from serious to zany. Although I can't formulate a better resolution to the narrative conflicts, I Love You, Man ends on a note that is too cute and conventional to accept.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=11643</url>
+         <critic>Stina Chyn</critic>
+      </review>
+      <review>
+         <snippet>Rudd is amusing enough; Segel, who towers over Rudd, is amusing, too, though the role seems to have been written for Owen Wilson. Maybe Wilson was busy. Lucky him.</snippet>
+         <url>http://www.csmonitor.com/2009/0321/p25s03-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>Watching this movie is like listening to Michael Jackson tell you what real men are like.</snippet>
+         <url>http://www.nypost.com/seven/03202009/entertainment/movies/dead_man_mocking_160369.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>A Judd Apatow clone that's one of the few recent R-rated raunch fests the ubiquitous auteur of larky crudeness actually had nothing to do with, I Love You, Man cranks out the kind of lowball humor that makes you gag on your own laughs.</snippet>
+         <url>http://www.variety.com/review/VE1117939871.html?categoryid=31&amp;cs=1</url>
+         <critic>Todd McCarthy</critic>
+      </review>
+      <review>
+         <snippet>Could have taken a more relevant, insightful and even funnier cut at a very rich topic. But the filmmakers didn't; they went with dog poo instead.</snippet>
+         <url>http://www.latimes.com/entertainment/la-et-love20-2009mar20,0,5582054.story</url>
+         <critic>Betsy Sharkey</critic>
+      </review>
+      <review>
+         <snippet>And like most women in bromance comedies, Jones does exactly what she's supposed to do by doing almost nothing.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A755564</url>
+         <critic>Josh Rosenblatt</critic>
+      </review>
+   </reviews>
+   <US_Gross>$71,440,011</US_Gross>
+   <weekend_gross>$17,810,270</weekend_gross>
+   <number_of_screens>2,711</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

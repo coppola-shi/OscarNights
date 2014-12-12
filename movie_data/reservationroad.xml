@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Reservation Road</name>
+   <company>Focus Features</company>
+   <genres>
+      <genre>Drama</genre>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>John Burnham Schwartz</author>
+      <author>Terry George</author>
+   </authors>
+   <directors>
+      <director>Terry George</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Joaquin Phoenix</actor>
+      <actor>Mark Ruffalo</actor>
+      <actor>Jennifer Connelly</actor>
+      <actor>Mira Sorvino</actor>
+   </actors>
+   <release_date>October 19, 2007</release_date>
+   <running_time>102</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>There's a kind of tough beauty to this deft, satisfying thriller.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20152828,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>It's a relentlessly downbeat, well-acted melodrama that's easy to admire, but intentionally impossible to enjoy.</snippet>
+         <url>http://www.avclub.com/content/cinema/reservation_road</url>
+         <critic>Nathan Rabin</critic>
+      </review>
+      <review>
+         <snippet>A powerful Christian parable, painful but illuminating, about crime and redemption.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/critic.html#32282</url>
+         <critic>Jonathan Rosenbaum</critic>
+      </review>
+      <review>
+         <snippet>Connelly, in particular, soars as the nail-biting mother trying desperately to put on a brave face and keep her family together, while Ruffalo and Phoenix, two of Hollywood’s best brooders, are excellent as wounded young fathers.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A553500</url>
+         <critic>Josh Rosenblatt</critic>
+      </review>
+      <review>
+         <snippet>Unrelentingly bleak, the movie is nonetheless a riveting drama with some outstanding performances.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2007/10/19/2007-10-19_short_takes_more_movie_reviews.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>Instead of a tense, emotional and psychological thriller or a thoughtful exploration of grief and guilt, what we end up with is ... soap. Whether you choose to wash your hands of it is up to you.</snippet>
+         <url>http://www.miamiherald.com/1054/story/283639.html</url>
+         <critic>Connie Ogle</critic>
+      </review>
+      <review>
+         <snippet>The book tore at my heart; the movie left me strangely unmoved.</snippet>
+         <url>http://www.reelviews.net/movies/r/reservation_road.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>Tries rather feebly to examine complex questions of morality. It does a better job of capturing a sense of shattering grief, but it gets too caught up in plot contrivances and coincidences to be believable.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2007-10-18-reservation-road_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>It's hard to watch two fine actors working themselves into a lather for so little reward.</snippet>
+         <url>http://www.tvguide.com/detail/movie.aspx?tvobjectid=290999&amp;more=ucmoviereview</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>Ruffalo is so squirrelly in the role that he seems like a dead giveaway from the start. You know exactly where the story is going, and, dang, that's exactly where it goes.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1137905&amp;categories=Movies&amp;nm=1</url>
+         <critic>Stephen Hunter</critic>
+      </review>
+      <review>
+         <snippet>The result is that, rather than tragedy, this unfolds like a plodding morality tale in which Wrath and Cowardice play out their respective parts.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20071019.wreservation19/BNStory/Entertainment/home</url>
+         <critic>Liam Lacey</critic>
+      </review>
+      <review>
+         <snippet>The best efforts of the performers cannot authenticate a plot that no longer feels inevitable. It feels contrived. And the audience stays at a remove instead of entering someone else’s nightmare.</snippet>
+         <url>http://chicago.metromix.com/movies/movie_review/movie-review-reservation-road/233564/content</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>Even the best actors -- and I'd rank Joaquin Phoenix and Mark Ruffalo among their generation's finest -- can't save a movie that aims for tragedy but stalls at soap opera.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/14592802/review/16971015/reservation_road</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>George, director of "Hotel Rwanda," is better at directing actors than visual storytelling. Every time the camera tilted to suggest a character's shaken world or distorted worldview I didn't feel heartache, I felt headache.</snippet>
+         <url>http://www.philly.com/inquirer/columnists/carrie_rickey/20071026_Melancholy_thriller_with_too_many_wrong_turns.html</url>
+         <critic>Carrie Rickey</critic>
+      </review>
+      <review>
+         <snippet>The real problem with this movie isn't its trashy side - the "Death Wish" stuff is actually suspenseful. It's the creepy note of causal judgment that hangs over it.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=9585</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>Serious Acting Opportunities abound! Unfortunately, sharp dialogue and characters who keep you riveted do not.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/11926635525320.xml&amp;coll=7</url>
+         <critic>M. E. Russell</critic>
+      </review>
+      <review>
+         <snippet>Dour, ponderous picture.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2007/10/19/reservation_road/</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>Despite some solid acting, the film is lacking in surprises. For all the suffering that these characters endure, there's very little payoff.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2007/10/19/DDNLSRIF2.DTL&amp;type=movies</url>
+         <critic>Peter Hartlaub</critic>
+      </review>
+      <review>
+         <snippet>The kind of movie that moves you to tears even as you resent the manipulative mechanics of the story.</snippet>
+         <url>http://www.slate.com/id/2176194/fr/flyout</url>
+         <critic>Dana Stevens</critic>
+      </review>
+      <review>
+         <snippet>There is no reason why Reservation Road could not have been great. George has co-written some powerful films in the past, including two for Daniel Day-Lewis, "In the Name of the Father" and "The Boxer." He is not wrong to want to mainline intensity here, but the inner lives of these men have not been explored, only displayed.</snippet>
+         <url>http://www.csmonitor.com/2007/1019/p14s02-bogn.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>Paints itself into a corner, creating a static situation in which everyone is either stymied or wracked by indecision, leaving the movie free for its two male leads to wallow in self-pity, remorse and bad behavior.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/awards_festivals/fest_reviews/article_display.jsp?&amp;rid=9818</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>A dramatic situation that should be wrenching is mostly tedious in Reservation Road.</snippet>
+         <url>http://www.variety.com/review/VE1117934713.html?categoryid=31&amp;cs=1&amp;p=0</url>
+         <critic>Todd McCarthy</critic>
+      </review>
+      <review>
+         <snippet>Reservation Road itself may twist and turn into the New England night, but emotionally and dramatically, the movie that bears its name is a dead end.</snippet>
+         <url>http://www.villagevoice.com/film/0742,foundas,78059,20.html</url>
+         <critic>Scott Foundas</critic>
+      </review>
+      <review>
+         <snippet>Very little in Reservation Road ultimately rings true, which makes the anguished theatrics on display that much more exasperating.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=10384</url>
+         <critic>Pete Vonder Haar</critic>
+      </review>
+      <review>
+         <snippet>Neither involving as a study in grief nor compelling as a thriller about conscience, the cat-and-mouse tragedy Reservation Road is a misery windup so schematic and obvious it reduces its crisis-stricken characters to little more than emotional bumper cars.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-reservation19oct19,0,3937078.story?coll=cl-mreview</url>
+         <critic>Robert Abele</critic>
+      </review>
+      <review>
+         <snippet>One of those infuriating films that can't allow this already dramatic situation to fester and develop on its own.</snippet>
+         <url>http://www.premiere.com/moviereviews/4178/reservation-road.html</url>
+         <critic>Eric Alt</critic>
+      </review>
+      <review>
+         <snippet>In the mood for some dead-child entertain ment tonight? Reservation Road has what you're looking for. It's "In the Bedroom" crossed with, um, "Fever Pitch."</snippet>
+         <url>http://www.nypost.com/seven/10192007/entertainment/movies/dull_and_contrived_tale_is_jus.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>This is one of those sadistic exercises that puts its characters through the wringer without saying anything true or meaningful.</snippet>
+         <url>http://movies.nytimes.com/2007/10/19/movies/19rese.html?ref=movies</url>
+         <critic>Manohla Dargis</critic>
+      </review>
+      <review>
+         <snippet>A deadly earnest and deadly dull psychological thriller.</snippet>
+         <url>http://online.wsj.com/article/SB119274821081164105.html?mod=2_1168_1</url>
+         <critic>Joe Morgenstern</critic>
+      </review>
+   </reviews>
+   <US_Gross>$101,440</US_Gross>
+   <weekend_gross>$36,269</weekend_gross>
+   <number_of_screens>14</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Game 6</name>
+   <company>Kindred Media Group</company>
+   <genres>
+      <genre>Comedy</genre>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author>Don De</author>
+      <author>Lillo</author>
+   </authors>
+   <directors>
+      <director>Michael Hoffman</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Michael Keaton</actor>
+      <actor>Robert Downey Jr.</actor>
+      <actor>Griffin Dunne</actor>
+      <actor>Bebe Neuwirth</actor>
+      <actor>Catherine O&amp;#039;Hara</actor>
+      <actor>Tom Aldredge</actor>
+      <actor>Ari Graynor</actor>
+      <actor>Roger Rees</actor>
+   </actors>
+   <release_date>March 10, 2006</release_date>
+   <running_time>87</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>It's an inside-the-park home run -- a small, lovingly overwritten comic drama about fate, failure, and primal longing. To put it in words a Sox fan would understand, the movie hurts good.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=7572</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>This is DeLillo's first produced screenplay, but he has written for the stage, and perhaps his portrait of Steven Schwimmer (Robert Downey Jr.), the detested critic, is drawn from life.</snippet>
+         <url>http://www.rogerebert.com/apps/pbcs.dll/article?AID=/20060323/REVIEWS/60323003/1023</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>A quirky little comedy about one day in the life of a New York playwright on the brink of either greatness or failure.</snippet>
+         <url>http://sfgate.com/cgi-bin/article.cgi?f=/c/a/2006/04/28/DDGI2IFU0F1.DTL#flick2</url>
+         <critic>Leba Hertz</critic>
+      </review>
+      <review>
+         <snippet>Keaton's so good you almost forget how wonderful Downey is as Steven Schwimmer.</snippet>
+         <url>http://www.dallasobserver.com/Issues/2006-04-13/film/film2.html</url>
+         <critic>Robert Wilonsky</critic>
+      </review>
+      <review>
+         <snippet>For viewers counting the minutes until opening day, Game 6 provides a quirky cinematic alternative to next week's "Benchwarmers."</snippet>
+         <url>http://www.laweekly.com/film-reviews/13010/film-reviews/</url>
+         <critic>James C. Taylor</critic>
+      </review>
+      <review>
+         <snippet>Small and intimate, Game 6 is a meditation on American theater and the Great American Pastime that hovers above the surface of reality but never quite takes off, either.</snippet>
+         <url>http://www.calendarlive.com/movies/chocano/cl-et-game31mar31,0,2090224.story</url>
+         <critic>Carina Chocano</critic>
+      </review>
+      <review>
+         <snippet>A modest but agreeable, and often very funny, movie.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2006/03/09/btm/index2.html</url>
+         <critic>Andrew O&amp;#039;Hehir</critic>
+      </review>
+      <review>
+         <snippet>The film is meandering and highly uneven, but Robert Downey Jr. is truly oddball as a venomous drama critic, and watching that ball once again roll through Bill Buckner's legs is torture (for Red Sox fans anyway).</snippet>
+         <url>http://www.csmonitor.com/2006/0324/p14s02-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>Hoffman makes impressive use of his low budget, thanks to a talented cast, an atmospheric soundtrack by Yo La Tengo, and the general feeling of confidence that a veteran director can bring to a project. But too much of Game 6 is designed to seem deeper than it really is.</snippet>
+         <url>http://www.avclub.com/content/node/46110</url>
+         <critic>Noel Murray</critic>
+      </review>
+      <review>
+         <snippet>All this stuff is enacted by a better-than-reliable cast (Griffin Dunne, Robert Downey Jr., Catherine O'Hara, Roger Rees, and more), so Game 6 is never a bore. But it's not much more besides never a bore.</snippet>
+         <url>http://www.premiere.com/article.asp?section_id=2&amp;article_id=2605</url>
+         <critic>Glenn Kenny</critic>
+      </review>
+      <review>
+         <snippet>There are funny bits strewn throughout Game 6, and it's good to see Keaton in a meaty, nonshowy role for a change. He has the chops when he's not mugging.</snippet>
+         <url>http://www.nydailynews.com/03-10-2006/entertainment/col/story/398498p-337578c.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>Despite a late-inning swoon of pat emotional generosity, Game Six is a gratifying playground of high-wire language.</snippet>
+         <url>http://www.villagevoice.com/film/0610,park,72443,20.html</url>
+         <critic>Ed Park</critic>
+      </review>
+      <review>
+         <snippet>It attempts to walk the fine line between despair and comedy, reality and imagination, and often succeeds. For audiences prepared to take the leap of faith and accept the unusual tone of the film, Game 6 should be a winner. Others may wonder what the fuss is about.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1000770644</url>
+         <critic>James Greenberg</critic>
+      </review>
+      <review>
+         <snippet>A tale of one man's meltdown that ought to have an expiration date of Oct. 27, 2004, stamped on every frame.</snippet>
+         <url>http://www.nytimes.com/2006/03/10/movies/10game.html</url>
+         <critic>Neil Genzlinger</critic>
+      </review>
+      <review>
+         <snippet>The movie includes a recurring motif of immigrant taxi drivers - like them, the movie is constantly going around in circles.</snippet>
+         <url>http://www.nypost.com/movies/64956.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>Game 6 is ultimately a curious dud.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A352862</url>
+         <critic>Marjorie Baumgarten</critic>
+      </review>
+      <review>
+         <snippet>Game 6, the first screenplay by one of America's great living novelists, Don DeLillo, is poorly served by Michael Hoffman's flat, soporific direction.</snippet>
+         <url>http://www.variety.com/index.asp?layout=sundance2005&amp;nav=reviews&amp;content=reviews&amp;reviewid=VE1117925985&amp;categoryid=1865&amp;cs=</url>
+         <critic>Robert Koehler</critic>
+      </review>
+      <review>
+         <snippet>Fails to make use of its clever dialogue and concepts as it attempts to become something more profound.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=6861</url>
+         <critic>Jeremy Mathews</critic>
+      </review>
+      <review>
+         <snippet>Though Keaton is convincing as a smarmy narcissist who secretly thinks he deserves to fail because writing plays isn't REAL work, he's also thoroughly unlikable -- a problematic trait in a protagonist.</snippet>
+         <url>http://online.tvguide.com/movies/database/Movie-Review.asp?MI=46770</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>DeLillo felt he needed a plot, and he invented one that is shockingly bad for a novelist of his accomplishment.  It isn't the use of a plot that degrades the picture: it is the degrading plot itself--which isn't even a good cartoon of a too-busy plot.</snippet>
+         <url>http://www.tnr.com/doc.mhtml?i=20060403&amp;s=kauffmann040306</url>
+         <critic>Stanley Kauffmann</critic>
+      </review>
+   </reviews>
+   <US_Gross>$129,664</US_Gross>
+   <weekend_gross>$9,610</weekend_gross>
+   <number_of_screens>4</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

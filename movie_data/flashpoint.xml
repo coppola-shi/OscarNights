@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Flash Point</name>
+   <company>Third Rail Releasing</company>
+   <genres>
+      <genre>Action</genre>
+   </genres>
+   <authors>
+      <author>Kam-Yuen Szeto</author>
+      <author>Lik-Kei Tang</author>
+   </authors>
+   <directors>
+      <director>Wilson Yip</director>
+   </directors>
+   <origins>
+      <origin>HongKong</origin>
+   </origins>
+   <actors>
+      <actor>Donnie Yen</actor>
+      <actor>Louis Koo</actor>
+      <actor>Collin Chou</actor>
+   </actors>
+   <release_date>March 14, 2008</release_date>
+   <running_time>88</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>Has a solid story, which keeps things interesting during the quiet moments when nobody is getting kicked in the head.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2008/03/13/DDL6VIONE.DTL&amp;type=movies</url>
+         <critic>Peter Hartlaub</critic>
+      </review>
+      <review>
+         <snippet>Donnie Yen is famous for combining martial arts traditions into his own unique fighting style and Collin Chou, who studied with Sammo Hung, is up to the task of holding his own.</snippet>
+         <url>http://www.tvguide.com/movies/flash-point/review/292463</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>The plot development of Flash Point is purely utilitarian, like a shuttle bus that transports stock characters from one action set to another.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/imdb/reviews/article_display.jsp?rid=9680&amp;vnu_special_account_code=thrsiteimdbpro</url>
+         <critic>Maggie Lee</critic>
+      </review>
+      <review>
+         <snippet>Plainly disappointing as a well-sustained kick-butt thriller, and politically toxic.</snippet>
+         <url>http://www.variety.com/review/VE1117934841.html?categoryid=31&amp;cs=1&amp;p=0</url>
+         <critic>Robert Koehler</critic>
+      </review>
+      <review>
+         <snippet>Flash Point”attaches coldly professional visuals to a narrative so baffling that it’s rarely clear who is pounding on whom or why.</snippet>
+         <url>http://movies.nytimes.com/2008/03/14/movies/14flash.html?ref=movies</url>
+         <critic>Jeannette Catsoulis</critic>
+      </review>
+      <review>
+         <snippet>Flash Point treats its audience like dogs, making us suffer through routine, almost inscrutable plot points and inconsequential characterizations to get to these episodes, and as such reveals itself as nothing more than a dumb action picture with delusions of Johnnie To–dom.</snippet>
+         <url>http://www.villagevoice.com/film/0811,374092,374092,20.html</url>
+         <critic>Ed Gonzalez</critic>
+      </review>
+      <review>
+         <snippet>Flash Point comes loaded with cliches and immediately starts blasting them in every direction.</snippet>
+         <url>http://www.nypost.com/seven/03142008/entertainment/movies/curse__shoot__kick__repeat_101841.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+   </reviews>
+   <US_Gross>$3,271</US_Gross>
+   <weekend_gross>$3,271</weekend_gross>
+   <number_of_screens>10</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

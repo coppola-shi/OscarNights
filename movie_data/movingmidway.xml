@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Moving Midway</name>
+   <company>First Run Features</company>
+   <genres>
+      <genre>Documentary</genre>
+   </genres>
+   <authors>
+      <author>Godfrey Cheshire</author>
+   </authors>
+   <directors>
+      <director>Godfrey Cheshire</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors/>
+   <release_date>September 12, 2008</release_date>
+   <running_time>95</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>In its 98 minutes, film critic Godfrey Cheshire’s documentary Moving Midway   records an amazing architectural feat, and that’s the least of its virtues.</snippet>
+         <url>http://chicago.metromix.com/movies/movie_review/movie-review-moving-midway/687667/content</url>
+         <critic>Maureen M. Hart</critic>
+      </review>
+      <review>
+         <snippet>In Moving Midway, Cheshire chronicles not only the history of the move but also of the family members, past and present, who occupied the place, and, most pointedly, the slaves who worked its fields, some of whom turn out to be related.</snippet>
+         <url>http://www.csmonitor.com/2008/0913/p25s01-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>May not advance any grand new thesis about the South and its history, but it turns an old house into a rich and strange repository of local knowledge.</snippet>
+         <url>http://movies.nytimes.com/2008/09/12/movies/12midw.html?ref=movies</url>
+         <critic>A.O. Scott</critic>
+      </review>
+      <review>
+         <snippet>Cheshire refuses to look away, no matter how complicated things get. In fact, it's the tangled, tortured roots that most inspire him, turning this deeply personal film into a potent meditation on our nation's past.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2008/09/11/2008-09-11_short_takes_for_the_weekend_of_912.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>Moving Midway is thrilling.</snippet>
+         <url>http://nymag.com/movies/reviews/49943/</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>His engaging chronicle of the physical, historical and psychological effect of the undertaking, is also an invitation for a film buff to meditate on the antebellum South's mythic power in stories and film.</snippet>
+         <url>http://www.latimes.com/entertainment/news/reviews/la-et-capsules17-2008oct17,0,1339677.story</url>
+         <critic>Robert Abele</critic>
+      </review>
+      <review>
+         <snippet>This is a deceptive film. It starts in one direction and discovers a better one. Cheshire is a dry, almost dispassionate narrator, and that is good; preaching about his discoveries would sound wrong.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20081015/REVIEWS/810150279</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>The oddly compelling documentary Moving Midway is an engineering tale combined with a family history and a ghost story.</snippet>
+         <url>http://www.nypost.com/seven/09122008/entertainment/movies/moving_scenes_in_story_of_this_old_house_128668.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>What begins as a leave-taking turns into a homecoming that reflects the mixed-race society of the modern south.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/33706_MOVING_MIDWAY.html</url>
+         <critic>Andrea Gronvall</critic>
+      </review>
+      <review>
+         <snippet>Uniquely Southern documentary has become surprisingly timely this election year.</snippet>
+         <url>http://www.variety.com/review/VE1117936621.html?categoryid=31&amp;cs=1&amp;query=Moving+midway</url>
+         <critic>Ronnie Scheib</critic>
+      </review>
+   </reviews>
+   <US_Gross>$40,864</US_Gross>
+   <weekend_gross>$6,539</weekend_gross>
+   <number_of_screens>2</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

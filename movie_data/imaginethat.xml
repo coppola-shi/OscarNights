@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Imagine That</name>
+   <company>Paramount Pictures</company>
+   <genres>
+      <genre>Comedy</genre>
+      <genre>Drama</genre>
+      <genre>Fantasy</genre>
+   </genres>
+   <authors>
+      <author>Ed Solomon</author>
+      <author>Chris Matheson</author>
+   </authors>
+   <directors>
+      <director>Karey Kirkpatrick</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+      <origin>Germany</origin>
+   </origins>
+   <actors>
+      <actor>Eddie Murphy</actor>
+      <actor>Thomas Haden Church</actor>
+      <actor>Yara Shahidi</actor>
+      <actor>Nicole Ari Parker</actor>
+      <actor>Ronny Cox</actor>
+      <actor>Martin Sheen</actor>
+   </actors>
+   <release_date>June 12, 2009</release_date>
+   <running_time>minutes,</running_time>
+   <rating>PG</rating>
+   <reviews>
+      <review>
+         <snippet>By no means a landmark, but it is a remarkably pleasant surprise -- so few movies aimed for the whole family show an understanding of why it's actually healthy to pretend.</snippet>
+         <url>http://movies.tvguide.com/detail/movie.aspx?tvobjectid=297741&amp;more=ucmoviereview</url>
+         <critic>Perry Seibert</critic>
+      </review>
+      <review>
+         <snippet>Superior family fare.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/reviews/bal-imagine-that-review-0612,0,5144234.story</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>Mr. Murphy rises to every occasion, not only with the crisp wit that has long been his hallmark, but with restraint and tenderness that serve him well.</snippet>
+         <url>http://online.wsj.com/article/film_review.html</url>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>Eddie Murphy strikes the right balance between silliness and pathos in this screwball family comedy.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/34463_IMAGINE_THAT.html</url>
+         <critic>Andrea Gronvall</critic>
+      </review>
+      <review>
+         <snippet>It's refreshing that in effects-happy Hollywood, Evan and Olivia only imagine their travels, rather than run a gantlet of computerized hallucinations. This may turn out to be one of the more endearing aspects of Imagine That to its younger audiences.</snippet>
+         <url>http://www.washingtonpost.com/gog/movies/imagine-that,1145249.html</url>
+         <critic>John Anderson</critic>
+      </review>
+      <review>
+         <snippet>The result is a much more playable film than recent efforts, though Murphy will have to share the applause with young Yara Shahidi.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film-reviews/film-review-imagine-that-1003981160.story</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>An undemandingly pleasant, mildly amusing fantasy.</snippet>
+         <url>http://www.variety.com/review/VE1117940426.html?categoryid=31&amp;cs=1</url>
+         <critic>Joe Leydon</critic>
+      </review>
+      <review>
+         <snippet>All in all, Imagine That is an amiable detour from its star's usual scatological skronk. Kids will empathize, parents will breathe a sigh of relief.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A791199</url>
+         <critic>Marc Savlov</critic>
+      </review>
+      <review>
+         <snippet>Amusing without ever being break-out funny.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20090610/REVIEWS/906109996</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>Despite an overly broad third act, one can't fault the film's message of family unity, underscored by a memorable use of the Beatles' "All You Need Is Love."</snippet>
+         <url>http://www.chicagotribune.com/entertainment/movies/chi-tc-mov-imagine-that-0610-061jun12,0,7597550.story</url>
+         <critic>Gary Goldstein</critic>
+      </review>
+      <review>
+         <snippet>While Imagine That falls short of its feel-good aim, its feel-nice vibe is a good Father's Day diversion for Dads and their spawn.</snippet>
+         <url>http://www.philly.com/philly/entertainment/movies/20090612_Daddy_daughter_comedy_with_a_feel-nice_vibe.html</url>
+         <critic>Carrie Rickey</critic>
+      </review>
+      <review>
+         <snippet>Twenty-five years ago, it would have been impossible to imagine that Imagine That would see Eddie Murphy and The Beatles coming together to create family entertainment, but I'll be darned if it doesn't work.</snippet>
+         <url>http://blog.nola.com/mikescott/2009/06/imagine_that_though_unimaginat.html</url>
+         <critic>Mike Scott</critic>
+      </review>
+      <review>
+         <snippet>Genuinely sweet and endearing Murphy film, at last.</snippet>
+         <url>http://www.empireonline.com/reviews/reviewcomplete.asp?FID=136006</url>
+         <critic>Chris Hewitt</critic>
+      </review>
+      <review>
+         <snippet>For the first time since "The Nutty Professor," Eddie Murphy successfully mixes his adult and kid-film personas -- imagine that.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2009/06/11/2009-06-11_eddie_murphys_imagine_that_a_happy_surprise_for_the_whole_family.html</url>
+         <critic>Joe Neumaier</critic>
+      </review>
+      <review>
+         <snippet>Imagine That does manage to get a crowd tearing up on cue for its emotional climax; as much as it works, it's through the personal charm of Murphy and Shahidi.</snippet>
+         <url>http://www.villagevoice.com/2009-06-10/film/imagine-that-survives-off-eddie-murphy-and-poop-jokes/</url>
+         <critic>Nick Pinkerton</critic>
+      </review>
+      <review>
+         <snippet>There's something sweet about the way that Murphy throws himself into this piffle. Thomas Haden Church does too.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20284277,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>Eddie Murphy in another mediocre family comedy? Imagine that.</snippet>
+         <url>http://www.boston.com/ae/movies/articles/2009/06/12/imagine_that_stretches_a_cute_concept/</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>An Eddie Murphy comedy that's actually endearing.</snippet>
+         <url>http://www.theglobeandmail.com/news/arts/imagine-that/article1178045/</url>
+         <critic>Liam Lacey</critic>
+      </review>
+      <review>
+         <snippet>Though Imagine That's message is benign, its adult focus is off-base, and every move feels too familiar, formulaic and telegraphed.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2009-06-11-imagine-review_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>The plot turns distasteful and shrill before its tidy resolution at the close.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2009/06/11/MVE1184DC3.DTL</url>
+         <critic>Amy Binacolli</critic>
+      </review>
+      <review>
+         <snippet>Though he commits to a lot of embarrassing silliness, Murphy projects so little genuine warmth that his transformation barely registers.</snippet>
+         <url>http://www.avclub.com/articles/imagine-that,29095/</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>Watching Imagine That, I was beset by a feeling of intense depression. Is this what Eddie Murphy has become?</snippet>
+         <url>http://www.reelviews.net/php_review_template.php?identifier=1678</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>Cutesy? My pain was acutesy as the entire plot yawned before me.</snippet>
+         <url>http://www.nypost.com/seven/06122009/entertainment/movies/cant_make_this_stuff_up_173782.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+   </reviews>
+   <US_Gross>$16,123,323</US_Gross>
+   <production_budget>$55,000,000</production_budget>
+   <weekend_gross>$5,503,519</weekend_gross>
+   <number_of_screens>3,008</number_of_screens>
+   <highest_grossing_actors_present/>
+   <num_highest_grossing_actors>1</num_highest_grossing_actors>
+   <highest_grossing_actor>eddie murphy</highest_grossing_actor>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

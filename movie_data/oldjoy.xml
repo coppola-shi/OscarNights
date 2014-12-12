@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Old Joy</name>
+   <company>Kino International Corp.</company>
+   <genres>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author>Jonathan Raymond</author>
+      <author>Kelly Reichardt</author>
+   </authors>
+   <directors>
+      <director>Kelly Reichardt</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Daniel London</actor>
+      <actor>Will Oldham</actor>
+      <actor>Tanya Smith</actor>
+      <actor>Robin Rosenberg</actor>
+      <actor>Keri Moran</actor>
+   </actors>
+   <release_date>September 20, 2006</release_date>
+   <running_time>76</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>It's in all the moments where little happens that Reichardt is most amazing, investing even a gas-station pit stop with perfect emotional pitch.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1537125_1_0_,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>Old Joy is only 76 minutes long, but it has the contemplative power of Buddhist meditation. Reichardt gives us long, stoned takes of rural roads; shots of birds, insects and slugs in the spectacular Oregon rain forest; interludes with Mark's dog, Lucy. Some viewers may well be bored, or monumentally irritated, by this. I found it masterly, riveting.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2006/09/21/btm/index2.html</url>
+         <critic>Andrew O&amp;#039;Hehir</critic>
+      </review>
+      <review>
+         <snippet>The movie's scale is minuscule, but the physical and emotional landscapes it travels are as broad, deep and mysterious as the human psyche itself.</snippet>
+         <url>http://www.laweekly.com/film+tv/film/on-the-road/14766/</url>
+         <critic>Ella Taylor</critic>
+      </review>
+      <review>
+         <snippet>A triumph of modesty and of seriousness that also happens to be one of the finest American films of the year.</snippet>
+         <url>http://movies2.nytimes.com/2006/09/20/movies/20joy.html?ref=movies</url>
+         <critic>Manohla Dargis</critic>
+      </review>
+      <review>
+         <snippet>For all the ephemeral pleasure of the company of old friends, there is a chasm between them and the dynamics shift from moment to moment. The beauty of the film is how director Kelly Reichardt brilliantly captures those moments with lucid simplicity.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/298427_limited05.html</url>
+         <critic>Sean Axmaker</critic>
+      </review>
+      <review>
+         <snippet>A spare, trembling lyric poem of a movie that uses stillness and facial blips the way melodramas use showdowns and action films big bangs.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-to.oldjoy02feb02,0,6057266.story?coll=bal-movies-utility</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>Old Joy doesn't try for too much, but its subtle victories leave plenty to savor.</snippet>
+         <url>http://www.avclub.com/content/node/53172</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>Miniaturist in its level of detail and evocatively abstract, Old Joy captures the weary mood of a generation that's crested its peak along with an era, quietly making a case for how well suited film can be to capturing the finer points of human interaction while preserving their mystery.</snippet>
+         <url>http://www.calendarlive.com/printedition/calendar/cl-et-old13oct13,0,5890394.story</url>
+         <critic>Carina Chocano</critic>
+      </review>
+      <review>
+         <snippet>It feels so real it hurts, and it's the perfect antidote to all those movies where all sorts of stuff blows up.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1121491&amp;categories=Movies&amp;nm=1</url>
+         <critic>Stephen Hunter</critic>
+      </review>
+      <review>
+         <snippet>This quiet, elegiac road movie hinges on a few beautifully underplayed scenes between Daniel London and Will Oldham.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/critic.html?week=nextweek#15258</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>A good Listless Film carries a double melancholy for all: it makes us sad for its characters and sad for the world that has thus affected them. Old Joy is such a film.</snippet>
+         <url>http://www.tnr.com/doc.mhtml?i=20061002&amp;s=kauffmann100206</url>
+         <critic>Stanley Kauffmann</critic>
+      </review>
+      <review>
+         <snippet>A precise, subtle and emotionally affecting portrait of the fraying friendship between two men, director Kelly Reichardt's Old Joy is an increasingly rare sort of American independent film: It aspires to be something other than a Hollywood movie with less money.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20061124.wold24/BNStory/Entertainment/home</url>
+         <critic>Jason Anderson</critic>
+      </review>
+      <review>
+         <snippet>Without relying on dialogue, and once again making good but sparing use of Yo La Tengo's toasty guitar soundtrack, Reichardt proves herself a filmmaker with a masterful sense of the expressive purity of the passing moment.</snippet>
+         <url>http://tvguide.com/detail/movie.aspx?tvobjectid=282699&amp;more=ucmoviereview</url>
+         <critic>Staff (Not credited)</critic>
+      </review>
+      <review>
+         <snippet>Kurt and Mark's trip to those hot springs is a figurative return to Eden. Anyone who's had a disillusioning reunion with a moony old friend knows what Mark discovers: They're too old to stay that innocent. None of this hit me until after the movie ended. But it hit me hard: You can't go home again.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=9256</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>A superb exercise in economical filmmaking. Not only from a financial standpoint, as the film was shot in HD and on-location in gorgeous Portland, Oregon…but the story here is so subtle and well drawn, if you blink you might miss it.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=8384</url>
+         <critic>Don R. Lewis</critic>
+      </review>
+      <review>
+         <snippet>Against a radiant backdrop of decay and rebirth, nothing needs to be said; everything in this lovely film is crystalline.</snippet>
+         <url>http://newyorkmetro.com/movies/reviews/21366/index1.html</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>A beautifully nuanced study in friendship and the irretrievability of the past.</snippet>
+         <url>http://www.variety.com/review/VE1117929799?categoryid=31&amp;cs=1&amp;s=h&amp;p=0</url>
+         <critic>Scott Foundas</critic>
+      </review>
+      <review>
+         <snippet>If Old Joy is more laid-back and contemplative than "Mutual Appreciation," it's because the characters are more weathered. Open-ended as it may appear, it has a crushing finality. For all the wool-gathering and guitar-noodling, this road movie is at least as tender as it is ironic.</snippet>
+         <url>http://www.villagevoice.com/film/0638,hoberman,74498,20.html</url>
+         <critic>J. Hoberman</critic>
+      </review>
+      <review>
+         <snippet>Making exceptional use of stillness and silence, this is a rather sad study of the passing of traditional concepts of American masculinity along with the landscape that forged them.</snippet>
+         <url>http://www.empireonline.com/reviews/review.asp?FID=134713</url>
+         <critic>David Parkinson</critic>
+      </review>
+      <review>
+         <snippet>Old Joy is an accurately observed slice of that moment between postadolescence and parenthood, when friends cling or scatter, and circumstances force buried feelings to the fore.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A415838</url>
+         <critic>Marrit Ingman</critic>
+      </review>
+      <review>
+         <snippet>The movie has a large theme, even if it's unspoken. Old Joy is about a particular friendship, but it's also about how American society changed in the '90s and the new century.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-061103-movies-review-joy,0,2332999.story?coll=mmx-movies_top_heds</url>
+         <critic>Michael Wilmington</critic>
+      </review>
+      <review>
+         <snippet>The result is a film that fails to completely involve you, even as you admire its artistry.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2006/10/20/DDGFFLRTLJ1.DTL&amp;type=movies</url>
+         <critic>Ruthe Stein</critic>
+      </review>
+      <review>
+         <snippet>Features some of the year's most beautiful scenery and two of its most wooden characters.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/moviereviews/story/454817p-382579c.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>You must lead a dull life if it would be enlivened by 76 minutes' worth of Old Joy.</snippet>
+         <url>http://www.nypost.com/entertainment/movies/old_joy_movies_kyle_smith.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+   </reviews>
+   <US_Gross>$255,923</US_Gross>
+   <weekend_gross>$3,310</weekend_gross>
+   <number_of_screens>1</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

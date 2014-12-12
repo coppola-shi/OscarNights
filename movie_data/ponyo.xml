@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Ponyo</name>
+   <company>Walt Disney Pictures</company>
+   <genres>
+      <genre>Adventure</genre>
+      <genre>Animation</genre>
+      <genre>FamilyKids</genre>
+      <genre>Fantasy</genre>
+   </genres>
+   <authors>
+      <author>Hayao Miyazaki</author>
+      <author>Melissa Mathison</author>
+   </authors>
+   <directors>
+      <director>Hayao Miyazaki</director>
+   </directors>
+   <origins>
+      <origin>Japan</origin>
+   </origins>
+   <actors>
+      <actor>Cate Blanchett</actor>
+      <actor>Matt Damon</actor>
+      <actor>Tina Fey</actor>
+      <actor>Frankie Jonas</actor>
+      <actor>Cloris Leachman</actor>
+      <actor>Liam Neeson</actor>
+      <actor>Lily Tomlin</actor>
+      <actor>Betty White</actor>
+      <actor>Betty White</actor>
+   </actors>
+   <release_date>August 14, 2009</release_date>
+   <running_time>100</running_time>
+   <rating>G</rating>
+   <reviews>
+      <review>
+         <snippet>Don't tell Walt Disney, but Hayao Miyazaki really holds the keys to the magic kingdom.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20297388,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>Best of all, Ponyo never ceases to be a genuine odyssey in short pants.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-ponyo-review-0813,0,5780174.story</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>It’s essentially a stroll through a fantastically detailed pastel world, in which the plot is little more than an excuse for Miyazaki to dive into a world teeming with colorful (and sometimes prehistoric) life.</snippet>
+         <url>http://www.avclub.com/articles/ponyo,31664/</url>
+         <critic>Tasha Robinson</critic>
+      </review>
+      <review>
+         <snippet>There is a word to describe Ponyo, and that word is magical. This poetic, visually breathtaking work by the greatest of all animators has such deep charm that adults and children will both be touched.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20090812/REVIEWS/908129989</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>It is a work of great fantasy and charm that will delight children ages 3 to 100.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?rid=11566</url>
+         <critic>Deborah Young</critic>
+      </review>
+      <review>
+         <snippet>You'll be planning to see Ponyo twice before you've finished seeing it once. Five minutes into this magical film you'll be making lists of the individuals of every age you can expose to the very special mixture of fantasy and folklore, adventure and affection.</snippet>
+         <url>http://www.latimes.com/entertainment/news/la-et-ponyo14-2009aug14,0,5765029.story</url>
+         <critic>Kenneth Turan</critic>
+      </review>
+      <review>
+         <snippet>The latest masterwork from Hayao Miyazaki, places emphasis on the natural world, its tumults and fragility.</snippet>
+         <url>http://movies.nytimes.com/2009/08/14/movies/14ponyo.html?ref=movies</url>
+         <critic>Manohla Dargis</critic>
+      </review>
+      <review>
+         <snippet>One of Miyazaki's most kid-accessible movies, but still an unnerving film.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2009/08/13/MVS61977FI.DTL&amp;type=movies</url>
+         <critic>Peter Hartlaub</critic>
+      </review>
+      <review>
+         <snippet>A marvel.</snippet>
+         <url>http://www.csmonitor.com/2009/0814/p17s04-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>Though targeted at tots, Ponyo may appeal most to jaded adults thirsty for wondrous beauty and unpackaged innocence</snippet>
+         <url>http://www.variety.com/review/VE1117938129.html?categoryid=3212&amp;cs=1</url>
+         <critic>Ronnie Scheib</critic>
+      </review>
+      <review>
+         <snippet>Ponyo isn't Hayao Miyazaki's greatest film -- that would be a tall order in a 30-year feature career that includes the Oscar-winning "Spirited Away" -- but his beautiful, quirky fable has magic other children's movies can't touch.</snippet>
+         <url>http://www.washingtonpost.com/gog/movies/ponyo,1156558.html</url>
+         <critic>Dan Kois</critic>
+      </review>
+      <review>
+         <snippet>If the plot of Ponyo is small as a minnow, its themes--the relationship between parent and child, between the young and the elderly, between friends, between man and nature--are large and fully realized.</snippet>
+         <url>http://online.wsj.com/article/film_review.html</url>
+         <critic>Joanne Kaufman</critic>
+      </review>
+      <review>
+         <snippet>Imagination spills across the screen in a bold, undeniable presence.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=11826</url>
+         <critic>Mark Fulton</critic>
+      </review>
+      <review>
+         <snippet>Miyazaki creates fascinating, fluid and whimsical scenarios.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2009-08-13-ponyo_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>You watch a Miyazaki film with the pie-eyed, gape-mouthed awe of a child being read the most fantastic story and suddenly transported to places previously beyond the limits of imagination. It's quite a trip.</snippet>
+         <url>http://www.philly.com/philly/entertainment/movies/20090814_Sea_dream_from_the_master_Miyazaki.html</url>
+         <critic>Carrie Rickey</critic>
+      </review>
+      <review>
+         <snippet>Traditional in the best sense.</snippet>
+         <url>http://www.stltoday.com/stltoday/entertainment/reviews.nsf/movie/story/1B5D9F0C520D207F8625761100009C26?OpenDocument</url>
+         <critic>Calvin Wilson</critic>
+      </review>
+      <review>
+         <snippet>This environmentally themed, very loose version of Hans Christian Andersen's "Little Mermaid" is never going to be mistaken for Disney's musical of the same name.</snippet>
+         <url>http://www.nypost.com/seven/08142009/entertainment/movies/sea_ing_is_believing_184423.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>Miyazaki works marvels. Sit back and behold.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/28284693/review/29647915/ponyo</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>An entertaining and fascinating film.</snippet>
+         <url>http://blog.oregonlive.com/madaboutmovies/2009/08/review_ponyo_pops_up_from_the.html</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>Liam Neeson has gravely splendid pipes as Ponyo’s father, a once-human wizard who lives underwater and despises humankind for polluting the planet.</snippet>
+         <url>http://nymag.com/movies/reviews/58189/</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>It's a movie for anyone who, like Miyazaki himself, can still happily commune with his inner five-year-old.</snippet>
+         <url>http://www.villagevoice.com/2009-08-11/film/ponyo-appeal-not-limited-to-romper-room-set/</url>
+         <critic>Scott Foundas</critic>
+      </review>
+      <review>
+         <snippet>Ponyo is another conceptually and thrilingly original masterstroke from an animator who long ago left Walt Disney in the dust.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A820676</url>
+         <critic>Marc Savlov</critic>
+      </review>
+      <review>
+         <snippet>My sense is that adults will be more taken with Ponyo than their offspring.</snippet>
+         <url>http://www.reelviews.net/php_review_template.php?identifier=1771</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>A movie loaded with strange delights.</snippet>
+         <url>http://www.boston.com/ae/movies/articles/2009/08/14/ponyo_integrates_stuff_of_dreams_with_an_ecological_message/</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>Even by Miyazaki standards, Ponyo makes less narrative sense than it should, and the pat ending is a bit of a letdown.</snippet>
+         <url>http://www.miamiherald.com/entertainment/movies/reviews/story/1183921.html</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>In short, it's very much a charming kids' film, created by a master of animation.</snippet>
+         <url>http://www.theglobeandmail.com/news/arts/ponyo/article1250841/</url>
+         <critic>Alan Niester</critic>
+      </review>
+      <review>
+         <snippet>Compared to "My Neighbor Totoro" and "Kiki's Delivery Service," this is one of the anime master's weaker efforts.</snippet>
+         <url>http://www.chicagoreader.com/chicago/MovieTimes?film=1007620</url>
+         <critic>Andrea Gronvall</critic>
+      </review>
+      <review>
+         <snippet>Trippy in the right way, and wholly enchanting.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2009/08/14/2009-08-14_short_movie_reviews_spread_ponyo_it_might_get_loud.html</url>
+         <critic>Joe Neumaier</critic>
+      </review>
+      <review>
+         <snippet>His (Miyazaki) stories, and often his character design, just leave me cold. I know I'm supposed to be magically transported by his fanciful tales and his whimsical grandiosity, but they make me listless.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2009/08/15/ponyo/index.html</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+   </reviews>
+   <US_Gross>$15,090,399</US_Gross>
+   <weekend_gross>$3,585,852</weekend_gross>
+   <number_of_screens>927</number_of_screens>
+   <highest_grossing_actors_present/>
+   <num_highest_grossing_actors>2</num_highest_grossing_actors>
+   <highest_grossing_actor>cate blanchett</highest_grossing_actor>
+   <highest_grossing_actor>matt damon</highest_grossing_actor>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

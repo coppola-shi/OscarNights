@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Hatchet</name>
+   <company>Anchor Bay Entertainment</company>
+   <genres>
+      <genre>Comedy</genre>
+      <genre>Horror</genre>
+   </genres>
+   <authors>
+      <author>Adam Green</author>
+   </authors>
+   <directors>
+      <director>Adam Green</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Joel Moore</actor>
+      <actor>Tamara Feldman</actor>
+      <actor>Deon Richmond</actor>
+      <actor>Mercedes McNab</actor>
+      <actor>Kane Hodder</actor>
+      <actor>Parry Shen</actor>
+      <actor>Joleigh Fioreavanti</actor>
+      <actor>Robert Englund</actor>
+   </actors>
+   <release_date>September 7, 2007</release_date>
+   <running_time>93</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>This horror comedy is loaded with decapitations, bodies torn in two and spewing blood, and yet, unlike the grim, torture-filled gore-fests of late, Hatchet’s mayhem is so giddily over-the-top that you end up applauding the low-budget aplomb of it all.</snippet>
+         <url>http://www.laweekly.com/film+tv/film-reviews/film-reviews-310-to-yuma-exiled-hatchet/17173/?page=2</url>
+         <critic>Chuck Wilson</critic>
+      </review>
+      <review>
+         <snippet>No other film in recent memory has featured such a terrifically retro maniac or revisited the heyday of Eighties gore films with such gleeful, moist abandon.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A531001</url>
+         <critic>Marc Savlov</critic>
+      </review>
+      <review>
+         <snippet>This is not a film intended for a wide audience. But B-movie fans who find their way to Adam Green's gory schlock extravaganza are going to like it.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-070907-movies-review-hatchet,0,4979873.story?coll=mmx-movies_top_heds</url>
+         <critic>Scott Schueller</critic>
+      </review>
+      <review>
+         <snippet>Hatchet is further evidence of the decline of Western civilization.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20070907.whatchet07/BNStory/Entertainment/home</url>
+         <critic>Stephen Cole</critic>
+      </review>
+      <review>
+         <snippet>Director Adam Green's genuine affection for the genre helps make Hatchet a cut above average.</snippet>
+         <url>http://www.nypost.com/seven/09072007/entertainment/movies/a_cut_above_usual_slash.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>Horror without suspense is like sex without love: you can appreciate the technicalities, but ultimately there’s no reason to care.</snippet>
+         <url>http://movies.nytimes.com/2007/09/07/movies/07hatc.html?ref=movies</url>
+         <critic>Jeannette Catsoulis</critic>
+      </review>
+      <review>
+         <snippet>Joel David Moore leads a cast full of token minorities and bickering bimbos, whom writer-helmer Adam Green dispatches with knowing glee and an obvious love for genre conventions that almost overcomes the derivative scripting.</snippet>
+         <url>http://www.variety.com/review/VE1117934668.html?categoryid=31&amp;cs=1</url>
+         <critic>Justin Chang</critic>
+      </review>
+      <review>
+         <snippet>Even after appropriately lowering expectations, it's kind to call this one a cut below.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-hatchet7sep07,0,3641427.story?coll=cl-mreview</url>
+         <critic>Michael Ordona</critic>
+      </review>
+   </reviews>
+   <US_Gross>$9,152</US_Gross>
+   <weekend_gross>$9,152</weekend_gross>
+   <number_of_screens>82</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

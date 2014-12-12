@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Deep Sea 3D</name>
+   <company>IMAX Corporation</company>
+   <genres>
+      <genre>Documentary</genre>
+   </genres>
+   <authors>
+      <author/>
+   </authors>
+   <directors>
+      <director>Howard Hall</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Johnny Depp (narrator)</actor>
+      <actor>Kate Winslet (narrator)</actor>
+   </actors>
+   <release_date>March 3, 2006</release_date>
+   <running_time>45</running_time>
+   <rating>G</rating>
+   <reviews>
+      <review>
+         <snippet>It would be a mistake to think that if you've seen one fish up close and personal you've seen them all.  Deep Sea 3D is a total-immersion undersea adventure, in which the oceans' glories are on vivid display in three dimensions.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-deep3mar03,0,412768.story</url>
+         <critic>Kevin Crust</critic>
+      </review>
+      <review>
+         <snippet>Deep Sea 3D, along with the recent Imax films "Coral Reef Adventure" and "Volcanoes of the Deep Sea," is a glorious example of educational entertainment at its best.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1002074937</url>
+         <critic>Sheri Linden</critic>
+      </review>
+      <review>
+         <snippet>Forget haunted houses and the mountains of the moon: There's no better environment to show off the wonder of the immersive IMAX 3-D experience than the deep blue sea.</snippet>
+         <url>http://online.tvguide.com/movies/database/Movie-Review.asp?MI=46773</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>The soothing voices of Johnny Depp and Kate Winslet provide the informative yet often uninspired narration. And Danny Elfman's mystical sounds serve up just the right atmosphere for this almost complete immersive experience, during which adults will be made into giggling children, and children into aspiring marine biologists.</snippet>
+         <url>http://movies2.nytimes.com/2006/03/03/movies/03deep.html</url>
+         <critic>Laura Kern</critic>
+      </review>
+      <review>
+         <snippet>I have minor misgivings about the use of a few Disney-esque sound effects, as well as some conventionally garish voicings in the score by Danny Elfman, Hollywood's current master of the macabre. But none of that diminishes the educational value of Deep Sea 3-D, which was directed by Howard Hall, or the sometimes ethereal, sometimes fearsome beauty of its cast of trillions.</snippet>
+         <url/>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>The immersive quality of 3-D is particularly well suited to undersea documentaries, and this one, directed by Howard Hall ("Into the Deep"), offers a close-up look at such fantastic creatures as the fried egg jellyfish, the mantis shrimp, the sand tiger shark, and the thuggish wolf eel.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/29372_DEEP_SEA_THREE_D.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>A lively score by Danny Elfman and some of the most dramatic sound-effects work since the Three Stooges only add to the appeal of Deep Sea 3-D.</snippet>
+         <url>http://www.nypost.com/movies/64545.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>It's all about the pictures. Those images create a vision of nature that even a strip miner would want to conserve.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-060303-movies-review-sea,0,2529583.story?coll=mmx-movies_top_heds</url>
+         <critic>Michael Esposito</critic>
+      </review>
+      <review>
+         <snippet>Travels around the world via the oceans' floors to show us symbiosis at work in a variety of ecosystems.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=8479</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>Imax 3-D process has lost its original novelty, and little is done in Deep Sea to find new and exciting ways of using the medium.</snippet>
+         <url>http://www.variety.com/review/VE1117929717?categoryid=31&amp;cs=1&amp;s=h&amp;p=0</url>
+         <critic>Robert Koehler</critic>
+      </review>
+   </reviews>
+   <US_Gross>$43,033,563</US_Gross>
+   <weekend_gross>$700,213</weekend_gross>
+   <number_of_screens>43</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

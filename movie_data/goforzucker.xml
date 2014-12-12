@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Go For Zucker</name>
+   <company>First Run Features</company>
+   <genres>
+      <genre>Comedy</genre>
+      <genre>Foreign</genre>
+   </genres>
+   <authors>
+      <author>Holger Franke</author>
+      <author>Dani Levy</author>
+   </authors>
+   <directors>
+      <director>Dani Levy</director>
+   </directors>
+   <origins>
+      <origin>Germany</origin>
+   </origins>
+   <actors>
+      <actor>Henry Hübchen</actor>
+      <actor>Hannelore Elsner</actor>
+      <actor>Udo Samel</actor>
+      <actor>Golda Tencer</actor>
+      <actor>Steffen Groth</actor>
+      <actor>Anja Franke</actor>
+      <actor>Sebastian Blomberg</actor>
+      <actor>Elena Uhlig</actor>
+   </actors>
+   <release_date>January 20, 2006</release_date>
+   <running_time>90</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>Go for Zucker is far from a perfect film but it brings easy laughter and joy.</snippet>
+         <url>http://ae.miami.com/entertainment/ui/miami/movie.html?id=496761&amp;reviewId=19961</url>
+         <critic>Marta Barber</critic>
+      </review>
+      <review>
+         <snippet>Watching the antic inventions of  Go for Zucker, I was moved by the thought that Jews have achieved a kind of Germanness again, and even more moved by the thought that Germans have achieved a kind of Jewishness again.</snippet>
+         <url>http://www.newyorker.com/critics/cinema/?060123crci_cinema</url>
+         <critic>David Denby</critic>
+      </review>
+      <review>
+         <snippet>Picture lets loose an experienced cast of vets on a well-honed script that has broad appeal.</snippet>
+         <url>http://www.variety.com/ac2006_review/VE1117926522?nav=reviews&amp;categoryid=1986&amp;cs=</url>
+         <critic>Derek Elley</critic>
+      </review>
+      <review>
+         <snippet>Zucker!'s a bona fide hit in Germany, where, apparently, there's been a shortage of Jewish comedies since, oh, 1939, give or take. But it deserves its imported rep; rare's the movie that has an Orthodox Jew tripping on Ecstasy while getting a massage from a Palestinian prostitute hours before his mamala's funeral.</snippet>
+         <url>http://listings.dallasobserver.com/gyrobase/Film/ShowFilm</url>
+         <critic>Robert Wilonsky</critic>
+      </review>
+      <review>
+         <snippet>Writer-director Levy occasionally relies on cheap gags, but his light tone and breezy visual style are a nice contrast to Go for Zucker's metaphorical subtext about familial - and German - reunification.</snippet>
+         <url>http://www.laweekly.com/index.php?option=com_lawcontent&amp;task=view&amp;id=12621&amp;Itemid=9</url>
+         <critic>James C. Taylor</critic>
+      </review>
+      <review>
+         <snippet>Zippy, well-played, Wilder-esque farce.</snippet>
+         <url>http://www.calendarlive.com/movies/chocano/cl-et-capsules24mar24,0,7049309.story</url>
+         <critic>Robert Abele</critic>
+      </review>
+      <review>
+         <snippet>Henry Hübchen is dynamic as the title character.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/29477_GO_FOR_ZUCKER_ALLES_AUF_ZUCKER.html</url>
+         <critic>Andrea Gronvall</critic>
+      </review>
+      <review>
+         <snippet>It's not quite masterful enough to achieve all its goals, but Zucker is undeniably ambitious despite its relatively lowbrow and farcical approach.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A350465</url>
+         <critic>Marrit Ingman</critic>
+      </review>
+      <review>
+         <snippet>It's the rare German movie calling itself a comedy that is actually funny, even if only in bits and pieces.</snippet>
+         <url>http://movies2.nytimes.com/2006/01/20/movies/20zuck.html</url>
+         <critic>Stephen Holden</critic>
+      </review>
+      <review>
+         <snippet>Funny, director and co-writer Dani Levy suggests with no little coldness, how the scent of money can do what religion, ideology, and ethical principles cannot.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1157695_1_0_,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>Mildly tasteless (natürlich), if not exactly uproarious.</snippet>
+         <url>http://www.villagevoice.com/film/0603,hoberman,71720,20.html</url>
+         <critic>J. Hoberman</critic>
+      </review>
+      <review>
+         <snippet>Go for Zucker was a smash back home, where it was hailed as the first German comedy about Jews since World War II. But it will take more than that to make American audiences laugh.</snippet>
+         <url>http://www.nypost.com/movies/61852.htm</url>
+         <critic>V.A. Musetto</critic>
+      </review>
+      <review>
+         <snippet>A tiresomely madcap story with extremely faint political (and politically incorrect) overtones.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/moviereviews/story/384269p-326097c.html</url>
+         <critic>Jami Bernard</critic>
+      </review>
+      <review>
+         <snippet>It remains a diverting, mildly entertaining movie, far short of provoking the controversy (or hysterical laughter) it apparently prompted during its release in Germany.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-060407-movies-review-zucker,0,4616537.story?coll=mmx-movies_top_heds</url>
+         <critic>Jessica Reaves</critic>
+      </review>
+      <review>
+         <snippet>Perhaps the humor has been lost in translation.</snippet>
+         <url>http://sfgate.com/cgi-bin/article.cgi?f=/c/a/2006/03/03/DDGA1HHCIL1.DTL&amp;type=movies</url>
+         <critic>Ruthe Stein</critic>
+      </review>
+   </reviews>
+   <US_Gross>$87,490</US_Gross>
+   <weekend_gross>$2,130</weekend_gross>
+   <number_of_screens>2</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

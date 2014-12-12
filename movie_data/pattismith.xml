@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Patti Smith: Dream of Life</name>
+   <company>Palm Pictures</company>
+   <genres>
+      <genre>Documentary</genre>
+   </genres>
+   <authors>
+      <author>Steven Sebring</author>
+   </authors>
+   <directors>
+      <director>Steven Sebring</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Patti Smith</actor>
+      <actor>Lenny Kaye</actor>
+      <actor>Oliver Ray</actor>
+      <actor>Tony Shanahan</actor>
+      <actor>Jay Dee Daughterty</actor>
+      <actor>Jackson Smith</actor>
+      <actor>Jesse Smith</actor>
+      <actor>Tom Verlaine</actor>
+   </actors>
+   <release_date>August 6, 2008</release_date>
+   <running_time>109</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>A knowledge of Smith's landmark contribution as a rock 'n' roll pioneer is not essential, and the film should be a joy for anyone interested in pop culture of the past 40 years.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/imdb/reviews/article_display.jsp?rid=10502&amp;vnu_special_account_code=thrsiteimdbpro</url>
+         <critic>James Greenberg</critic>
+      </review>
+      <review>
+         <snippet>Frequently beautiful and intermittently haunting and could be called a meditation on aging and mortality, an intimate study of a peculiar variety of fame and a portrait of a genuinely remarkable person.</snippet>
+         <url>http://www.salon.com/ent/movies/btm/feature/2008/08/06/patti_smith/</url>
+         <critic>Andrew O&amp;#039;Hehir</critic>
+      </review>
+      <review>
+         <snippet>A lovely, drifty first feature that feels less like a documentary and more like an act of rapturous devotion.</snippet>
+         <url>http://movies.nytimes.com/2008/08/06/movies/06patt.html?ref=movies</url>
+         <critic>Manohla Dargis</critic>
+      </review>
+      <review>
+         <snippet>If one thing holds the picture back, it’s the self-conscious album-cover aesthetic of Sebring’s visual approach.</snippet>
+         <url>http://chicago.metromix.com/movies/movie_review/movie-review-patti-smith/632566/content</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>This intimate portrait of the so-called godmother of punk is aimed at viewers who are keenly fascinated by Smith.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20080926.wsmith26/BNStory/Entertainment/home</url>
+         <critic>Liam Lacey</critic>
+      </review>
+      <review>
+         <snippet>This isn't a performance film, and it is far from a definitive portrait of the androgynous performer.</snippet>
+         <url>http://www.nypost.com/seven/08082008/entertainment/movies/chatty_patti_123490.htm</url>
+         <critic>V.A. Musetto</critic>
+      </review>
+      <review>
+         <snippet>Steven Sebring spent a decade making this documentary about the punk poet, and it shows.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/33575_PATTI_SMITH_DREAM_OF_LIFE.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>Impossibly long and angular, with a brutally beautiful face, she represents something that's been rare in the popular culture in the past decade: an artist with a voice and a vision.</snippet>
+         <url>http://www.latimes.com/entertainment/news/reviews/la-et-pattismith17-2008oct17,0,196842.story</url>
+         <critic>Carina Chocano</critic>
+      </review>
+      <review>
+         <snippet>The textured, thoughtful results may prove too cerebral and abstract for audiences beyond Smith's hardcore followers,</snippet>
+         <url>http://www.variety.com/index.asp?layout=festivals&amp;jump=review&amp;id=2478&amp;reviewid=VE1117935992&amp;cs=1</url>
+         <critic>Robert Koehler</critic>
+      </review>
+      <review>
+         <snippet>When embraced on its own terms, the film will provide an ironic bridge for those who want to share a greater closeness with Smith.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A661698</url>
+         <critic>Marjorie Baumgarten</critic>
+      </review>
+      <review>
+         <snippet>We don't learn too many specifics of Smith's brilliant career, and only a die-hard fan will find all of it vitally interesting.</snippet>
+         <url>http://movies.tvguide.com/patti-smith-dream-life/review/294904</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>Most frustratingly, Smith's powerful music is heard only in snatches.</snippet>
+         <url>http://www.oregonlive.com/movies/index.ssf/2008/10/movie_review_poetic_license_pa.html</url>
+         <critic>Stan Hall</critic>
+      </review>
+      <review>
+         <snippet>The paltry amount of live performances is a crime. In some ways, Smith singing "Gloria" live would've been all the context anyone would ever need.</snippet>
+         <url>http://www.avclub.com/content/cinema/patti_smith_dream_of_life</url>
+         <critic>Noel Murray</critic>
+      </review>
+      <review>
+         <snippet>Most audience members will probably want more.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2008/10/16/DDMG13JBNR.DTL&amp;type=movies</url>
+         <critic>Peter Hartlaub</critic>
+      </review>
+      <review>
+         <snippet>109 mostly black-and-white minutes of punk's wet nurse floating through the modern world while endlessly ruminating on mortality, art, and the occasional bodily function. Problem is, there's nary a hint of context, even with biographic essentials.</snippet>
+         <url>http://www.villagevoice.com/2008-08-05/film/patti-smith-dream-of-life/</url>
+         <critic>Camille Dodero</critic>
+      </review>
+   </reviews>
+   <US_Gross>$6,703</US_Gross>
+   <weekend_gross>$6,703</weekend_gross>
+   <number_of_screens>1</number_of_screens>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Hawk Is Dying, The</name>
+   <company>Strand Releasing</company>
+   <genres>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author>Julian Goldberger</author>
+      <author>Harry Crews</author>
+   </authors>
+   <directors>
+      <director>Julian Goldberger</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Paul Giamatti</actor>
+      <actor>Michelle Williams</actor>
+      <actor>Michael Pitt</actor>
+      <actor>Karl Anthony</actor>
+      <actor>P.J. Lalka</actor>
+      <actor>Marc Macaulay</actor>
+      <actor>Rusty Schwimmer</actor>
+      <actor>Robert Wisdom</actor>
+   </actors>
+   <release_date>March 30, 2007</release_date>
+   <running_time>112</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>Goldberger, who made his debut with the similarly gritty and deliberately unpolished "Trans," tries to pull the novel's concerns to the surface, but much of its subtlety is lost. Giamatti, however, delivers yet another superb performance, turning what might have been a freak show into an unexpectedly moving experience.</snippet>
+         <url>http://www.tvguide.com/detail/movie.aspx?tvobjectid=287132&amp;more=ucmoviereview</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>A fragile little movie, occasionally ridiculous, but with M. Night Shyamalan's "Lady In The Water," Giamatti proved that he can make even the weirdest material believable.</snippet>
+         <url>http://www.avclub.com/content/cinema/the_hawk_is_dying</url>
+         <critic>Noel Murray</critic>
+      </review>
+      <review>
+         <snippet>Not an easy movie to watch, and it's far from perfect - but it does have an artsy integrity and a fascinatingly intense performance by Paul Giamatti.</snippet>
+         <url>http://www.nypost.com/seven/03302007/entertainment/movies/obsessed_with_hawks__depressed_by_life_movies_lou_lumenick.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>I won't pretend it makes for a happy night at the cinema, and it may require a leap of faith to succumb to Goldberger's spell. But I leapt, and found it enthralling up to the point where this legitimately weird movie capitulates to the most conventional catharsis. I'd rather watch Goldberger fail than a hundred others succeed.</snippet>
+         <url>http://www.villagevoice.com/film/0713,lee,76200,20.html</url>
+         <critic>Nathan Lee</critic>
+      </review>
+      <review>
+         <snippet>For all the effort Giamatti gives in making George a convincing character, the movie itself, never quite gets off the ground. The feel is too deliberately peculiar, and Goldberger's detached style never gives us a reason to invest ourselves in anyone but George.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=8360</url>
+         <critic>Pete Vonder Haar</critic>
+      </review>
+      <review>
+         <snippet>Set in North Florida and based on a book by Harry Crews, The Hawk Is Dying is a dreary study of male angst groaning beneath the weight of its own symbolism.</snippet>
+         <url>http://movies2.nytimes.com/2007/03/29/movies/30hawk.html?ref=movies</url>
+         <critic>Jeannette Catsoulis</critic>
+      </review>
+      <review>
+         <snippet>Goldberger's stubbornly insular script - adapted from a novel by Harry Crews - might have fared better on stage, where the story would feel more contained than suffocating. But by the time you crawl across this finish line, you'll know just how those sluggish the birdsfeel.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2007/03/30/2007-03-30_short_takes_bitesize_movie_reviews.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>Loaded with obtuse symbolism, the film is not only hard to understand, it isn't much fun trying to figure it out.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/imdb/reviews/article_display.jsp?rid=1001918443&amp;vnu_special_account_code=thrsiteimdbpro</url>
+         <critic>James Greenberg</critic>
+      </review>
+      <review>
+         <snippet>Already gasping for breath in its opening scenes, picture takes two bleak, unyielding hours to finally expire.</snippet>
+         <url>http://www.variety.com/index.asp?layout=features2006&amp;content=jump&amp;jump=review&amp;dept=cannes&amp;nav=RCannes&amp;articleid=VE1117929309&amp;cs=1&amp;p=0</url>
+         <critic>David Rooney</critic>
+      </review>
+   </reviews>
+   <US_Gross>$7,006</US_Gross>
+   <weekend_gross>$1,042</weekend_gross>
+   <number_of_screens>1</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

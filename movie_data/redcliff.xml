@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Red Cliff</name>
+   <company>Magnet Releasing (Magnolia Pictures)</company>
+   <genres>
+      <genre>Action</genre>
+      <genre>Adventure</genre>
+      <genre>Drama</genre>
+      <genre>War</genre>
+   </genres>
+   <authors>
+      <author>Terence Chang</author>
+      <author>John Woo</author>
+      <author>Khan Chan</author>
+      <author>Kuo Cheng, Sheng Heyu</author>
+   </authors>
+   <directors>
+      <director>John Woo</director>
+   </directors>
+   <origins>
+      <origin>China</origin>
+   </origins>
+   <actors>
+      <actor>Tony Leung</actor>
+      <actor>Takeshi Kaneshiro</actor>
+      <actor>Chang Chen</actor>
+      <actor>Zhao Wei</actor>
+      <actor>Hu Jun</actor>
+   </actors>
+   <release_date>November 18, 2009</release_date>
+   <running_time>148</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>Anyone who enjoys stylized hyper-violence should be enthralled by this long, sweeping, murderously vivid dramatization of ancient Chinese warfare, circa A.D. 208.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2009/11/24/MVDM1AP5D1.DTL</url>
+         <critic>Amy Biancolli</critic>
+      </review>
+      <review>
+         <snippet>The immensity encompasses such variety, subtlety and intimacy that you may find yourself yearning for more.</snippet>
+         <url>http://online.wsj.com/article/film_review.html</url>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>This is magnificent filmmaking, and a magnificent film.</snippet>
+         <url>http://www.philly.com/inquirer/columnists/steven_rea/20091124_Red_Cliff.html</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>Red Cliff is a dichotomous beast: The computer-generated imagery that makes so much of it possible is served up in heaping, state-of-the-art portions, but the results occasionally border on the cartoonish. At the same time, Red Cliff is a classic tale that gets a classicist's treatment.</snippet>
+         <url>http://www.washingtonpost.com/gog/movies/red-cliff,1158942/critic-review.html#reviewNum1</url>
+         <critic>John Anderson</critic>
+      </review>
+      <review>
+         <snippet>Woo's hand is sure and his eye, as ever, finds beauty in everything, even death.</snippet>
+         <url>http://blog.oregonlive.com/madaboutmovies/2009/11/review_--_the_majestic_sweep_o.html</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>The spectacular battle scenes are the engorged heart of the delirious adventure. But Woo also gets maximum romantic value from Tony Leung as a war hero married to Chiling Lin as the tea-pouring beauty.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20320747,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>Camp, over-the-top and entirely unbelievable: in short, the best thing John Woo has made in years.</snippet>
+         <url>http://www.empireonline.com/reviews/review.asp?FID=134574</url>
+         <critic>Ian Nathan</critic>
+      </review>
+      <review>
+         <snippet>Balances character, grit, spectacle and visceral action in a meaty, dramatically satisfying pie that delivers on the hype and will surprise many who felt the Hong Kong helmer progressively lost his mojo during his long years stateside.</snippet>
+         <url>http://www.variety.com/review/VE1117937769.html?categoryid=31&amp;cs=1&amp;query=red+cliff</url>
+         <critic>Derek Elley</critic>
+      </review>
+      <review>
+         <snippet>Red Cliff exudes a physical grandiosity that few movies of the past 20 years have attempted--no matter that Woo, even at his best, is still more at ease with down-and-dirty action than epic pageantry.</snippet>
+         <url>http://www.villagevoice.com/2009-11-17/film/john-woo-s-killer-instincts-return-for-red-cliff-i/</url>
+         <critic>Scott Foundas</critic>
+      </review>
+      <review>
+         <snippet>It's a movie on the Hollywood scale that has so much of the Asian spirit. It has drawn the Asian audience back to the movie theater.</snippet>
+         <url>http://www.salon.com/ent/movies/btm/feature/2009/11/18/john_woo/index.html</url>
+         <critic>Andrew O&amp;#039;Hehir</critic>
+      </review>
+      <review>
+         <snippet>A scrumptious war movie.</snippet>
+         <url>http://www.nypost.com/p/entertainment/movies/red_cliff_oyB3q0aPZaApHHo8pe77dL</url>
+         <critic>V.A. Musetto</critic>
+      </review>
+      <review>
+         <snippet>As expected, it has gaping holes where back stories used to be. Still, it's a historical war movie with impressive sweep, strong characterizations and the kind of idiosyncratic flourishes that made Woo such an irresistible storyteller.</snippet>
+         <url>http://www.theglobeandmail.com/news/arts/red-cliff/article1387065/</url>
+         <critic>Stephen Cole</critic>
+      </review>
+      <review>
+         <snippet>We are reminded: War is hell. But at their best, war movies can be cool and beautiful.</snippet>
+         <url>http://www.stltoday.com/stltoday/entertainment/reviews.nsf/movie/story/801BFC78AB755FB286257688001CE905?OpenDocument</url>
+         <critic>Joe Williams</critic>
+      </review>
+      <review>
+         <snippet>Any war picture in which the heroine stalls the villain with a quiet, painstaking tea ceremony until the wind shifts direction and the good guys can firebomb the bad guys into oblivion is too ineffably Zen not to love.</snippet>
+         <url>http://nymag.com/movies/reviews/61858/index1.html</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>A prelude that provides the beams and columns for the narrative framework, but with a few decisive and spot-on action spectacles, it sufficiently kindles expectations for the climactic clash in Part 2.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?rid=11425</url>
+         <critic>Maggie Lee</critic>
+      </review>
+      <review>
+         <snippet>While handsome and intelligent and perfectly easy to sit through, never really approaches the visceral tug of Mr. Woo’s Hong Kong hits.</snippet>
+         <url>http://movies.nytimes.com/2009/11/18/movies/18redcliff.html?ref=movies</url>
+         <critic>Mike Hale</critic>
+      </review>
+      <review>
+         <snippet>Returning to his roots after a stint in Hollywood, Woo has made the most expensive film in mainland Chinese history, a pleasantly traditional picture that marks a new direction for one of the world's premier action maestros.</snippet>
+         <url>http://www.latimes.com/entertainment/news/la-et-redcliff25-2009nov25,0,5118832.story</url>
+         <critic>Kenneth Turan</critic>
+      </review>
+      <review>
+         <snippet>The film is both traditional and modern: austere in its engagement with history, and insistent in its showy action beats.</snippet>
+         <url>http://www.avclub.com/articles/red-cliff,35582/</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>You may have the biggest flat-screen DLP monitor in the city, but Red Cliff will never look half as spectacular as it will on the big – and I mean really big – screen.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A939981</url>
+         <critic>Marc Savlov</critic>
+      </review>
+      <review>
+         <snippet>Even at 148 minutes (and viewed twice!), you still feel as if you’re watching the longest coming attraction ever for a John Woo movie.</snippet>
+         <url>http://www.boston.com/ae/movies/articles/2009/11/25/red_cliff_feels_like_a_2_12_hour_trailer/</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>Overlong but ambitious, Woo proves he's as good at tactical maneuvers as he is at close-quarters combat.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2009/11/20/2009-11-20_short_movie_reviews_penelope_cruz_in_broken_embraces_planet_51_.html</url>
+         <critic>Joe Neumaier</critic>
+      </review>
+      <review>
+         <snippet>For all his brilliance with choreography, Woo is flummoxed by the thousands of actual human extras, though there’s no denying his commitment to the finer points of battle tactics (yawn).</snippet>
+         <url>http://newyork.timeout.com/articles/film/80771/red-cliff-film-review</url>
+         <critic>Joshua Rothkopf</critic>
+      </review>
+   </reviews>
+   <US_Gross>$624,131</US_Gross>
+   <production_budget>$40,000,000</production_budget>
+   <weekend_gross>$14,873</weekend_gross>
+   <number_of_screens>2</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

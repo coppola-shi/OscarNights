@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Steal Me</name>
+   <company>Cineville Inc.</company>
+   <genres>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author>Melissa Painter</author>
+   </authors>
+   <directors>
+      <director>Melissa Painter</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Danny Alexer</actor>
+      <actor>Hunter Parrish</actor>
+      <actor>Cara Seymour</actor>
+      <actor>John Terry</actor>
+      <actor>Chelsea Carlson</actor>
+      <actor>Paz de la Huerta</actor>
+   </actors>
+   <release_date>September 9, 2005</release_date>
+   <running_time>95</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>A beautifully realized small film of understated power.</snippet>
+         <url>http://www.calendarlive.com/printedition/calendar/cl-et-steal23sep23,0,7904837.story</url>
+         <critic>Kevin Thomas</critic>
+      </review>
+      <review>
+         <snippet>It's not really original stuff, and there are few genuine surprises, but Painter skillfully layers visual details and off-the-cuff dialogue into a smart, condescension-free piece on small towns and the complicated lives they contain. The standout here is the always-wonderful Seymour (Hotel Rwanda, Birth).</snippet>
+         <url>http://www.laweekly.com/film/film_results.php?showid=3571&amp;Sumbit.x=53&amp;Sumbit.y=14</url>
+         <critic>Ernest Hardy</critic>
+      </review>
+      <review>
+         <snippet>The film's real star is the stunning Montana landscape, beautifully captured by cinematographer Paul Ryan.</snippet>
+         <url>http://online.tvguide.com/movies/database/ShowMovie.asp?MI=46188</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>There's some nice low-key work amid the uneven performances, but the Montana-shot film's key strength is its sense of place.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1000874681</url>
+         <critic>Sheri Linden</critic>
+      </review>
+      <review>
+         <snippet>With its lovely scenery and languid pacing, has a warmth and a naturalness that transcend its overheated material.</snippet>
+         <url>http://movies2.nytimes.com/2005/09/09/movies/09stea.html</url>
+         <critic>Jeannette Catsoulis</critic>
+      </review>
+      <review>
+         <snippet>A classic case of overreaching, Steal Me boasts unorthodox camera angles, dramatic shifts in its palette and a generally adventurous visual style. What it lacks is believable dialogue, credible relationships and a serious foundation for its overripe psychology.</snippet>
+         <url>http://www.variety.com/index.asp?layout=sundance2005&amp;nav=reviews&amp;content=reviews&amp;reviewid=VE1117926035&amp;categoryid=1865&amp;cs=</url>
+         <critic>John Anderson</critic>
+      </review>
+      <review>
+         <snippet>Steal Me suffers from a distinct charisma vacuum at the center, which makes it easy to linger on its many shortcomings, especially its stilted dialogue and pseudo-poetic, pseudo-philosophical narration.</snippet>
+         <url>http://avclub.com/content/node/40661</url>
+         <critic>Nathan Rabin</critic>
+      </review>
+      <review>
+         <snippet>There’s enough character development for a 20-minute short, and 75 additional minutes are manufactured with slight variations on the same scenes in different rooms of the house.</snippet>
+         <url>http://www.filmthreat.com/Reviews.asp?Id=6806</url>
+         <critic>Jeremy Mathews</critic>
+      </review>
+      <review>
+         <snippet>The teen actors grin twitchily as if tickled by sudden growth spurts, but apparently nothing can hurt their chances with the females in this libidinous zip code.</snippet>
+         <url>http://www.nydailynews.com/09-09-2005/entertainment/movies/story/344610p-294223c.html</url>
+         <critic>Jami Bernard</critic>
+      </review>
+      <review>
+         <snippet>Solid performances can't save Melissa Painter's pretentious teen drama Steal Me, which plays like a cross between "Dangerous Skin" (without the gay sex) and "Picnic" (without the production values or credible situations).</snippet>
+         <url>http://www.nypost.com/movies/52411.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>Whether it's the guitar-strum soundtrack, "lyrical" cornfield shots, or arrhythmic performances, Steal Me has at least one indie-film cliché too many.</snippet>
+         <url>http://www.villagevoice.com/film/0536,tracking2,67582,20.html</url>
+         <critic>Ben Kenigsberg</critic>
+      </review>
+   </reviews>
+   <US_Gross>$1,600</US_Gross>
+   <weekend_gross>$1,600</weekend_gross>
+   <number_of_screens>1</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

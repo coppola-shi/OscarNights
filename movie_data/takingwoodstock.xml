@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Taking Woodstock</name>
+   <company>Focus Features</company>
+   <genres>
+      <genre>Comedy</genre>
+   </genres>
+   <authors>
+      <author>James Schamus</author>
+      <author>Elliot Tiber</author>
+   </authors>
+   <directors>
+      <director>Ang Lee</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Demetri Martin</actor>
+      <actor>Emile Hirsch</actor>
+      <actor>Imelda Staunton</actor>
+      <actor>Henry Goodman</actor>
+      <actor>Jonathan Groff</actor>
+      <actor>Mamie Gummer</actor>
+      <actor>Eugene Levy</actor>
+      <actor>Liev Schreiber</actor>
+   </actors>
+   <release_date>August 26, 2009</release_date>
+   <running_time>110</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>Taking Woodstock has the freshness of something being created, not remembered.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20090826/REVIEWS/908269991</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>Taiwanese director Ang Lee sees the '60s through a rose-colored telephoto lens, but his sympathetic spirit extends the generous message of the hippie era like a passed joint.</snippet>
+         <url>http://www.stltoday.com/stltoday/entertainment/reviews.nsf/movie/story/F165A06C90F62ACF8625761E006B15C4?OpenDocument</url>
+         <critic>Joe Williams</critic>
+      </review>
+      <review>
+         <snippet>This is very light material, and, unusually for a Lee picture, not everybody in the ensemble appears to be acting in the same universe, let alone the same story. On the other hand: It’s fun.</snippet>
+         <url>http://featuresblogs.chicagotribune.com/talking_pictures/</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>Ang Lee adds to the mythology with the sweet, gentle Taking Woodstock.</snippet>
+         <url>http://events.charlotteobserver.com/reviews/show/54207-review-taking-woodstock</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>Lee distills the flavor of this transforming event and hints at how it transformed some who were there. His movie is a contact high.</snippet>
+         <url>http://www.philly.com/philly/entertainment/movies/20090828_Ang_Lee_s_wry_take_on_Woodstock.html</url>
+         <critic>Carrie Rickey</critic>
+      </review>
+      <review>
+         <snippet>If you've ever wondered what it would be like to be there - to actually be there, man - this movie gets it.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2009/08/27/MVNI199RKS.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>A love letter to the time, and the period, and the legend that has grown around both. Maybe it's all too wonderful to be true, but that's OK. If Taking Woodstock is a fantasy, then it's a most benevolent one, and more power to it.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-ae.mo.woodstock28aug28,0,7102407.story</url>
+         <critic>Chris Kaltenbach</critic>
+      </review>
+      <review>
+         <snippet>Lee keeps things afloat with an appealing air of levity, including a fun but restrained use of split-screen, an homage to the 1970 doc, as well as cameos by that movie's Port-O-San guy and its peace-sign-flashing nuns.</snippet>
+         <url>http://www.nola.com/movies/index.ssf/2009/08/taking_woodstock_is_a_fun_faro.html</url>
+         <critic>Mike Scott</critic>
+      </review>
+      <review>
+         <snippet>This likable, humane movie is not an attempt to recreate the epochal Woodstock Music and Art Fair captured in Michael Wadleigh’s documentary “Woodstock.” It is essentially a small, intimate film into which is fitted a peripheral view of the landmark event.</snippet>
+         <url>http://movies.nytimes.com/2009/08/26/movies/26woodstock.html?ref=movies</url>
+         <critic>Stephen Holden</critic>
+      </review>
+      <review>
+         <snippet>It's a low-wattage film about a high-wattage event. Which is somewhat disappointing, though you do get a thoughtful, playful, often amusing film about what happened backstage at one of the '60s' great happenings.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film-reviews/taking-woodstock-film-review-1003973772.story</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>Lee has always had an affinity for innocence and an abiding affection for outcasts, and both traits serve him well in Taking Woodstock -- but only up to a point. Beyond that point, where sanctification meets reality, the film floats up, up, and away.</snippet>
+         <url>http://www.csmonitor.com/2009/0828/p17s03-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>Lee captures the fractious, joyful, monstrously evolving mass it all was.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20300271,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>Somehow Lee fails to make it speak to us. His heart is in the right place, but like many of the crowd that swarmed Yasgur's farm, he has rather lost his head.</snippet>
+         <url>http://blog.oregonlive.com/madaboutmovies/2009/08/review_taking_woodstock_is_a_l.html</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>This is as safe and sweet a movie as you could make about America’s sex-drugs-and-rock ’n’ roll-est event.</snippet>
+         <url>http://www.boston.com/ae/movies/articles/2009/08/28/taking_woodstock_is_a_nice_safe_trip/</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>This is Woodstock from another perspective -- one without Jimi Hendrix or Janis Joplin.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2009-08-25-taking-woodstock_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>The movie hits its stride when it deals directly with the concert. The more peripheral Elliot is to the story, the better things become.</snippet>
+         <url>http://www.reelviews.net/php_review_template.php?identifier=1778</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>The film's major sin of omission: the music.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/24470060/review/29774816/taking_woodstock</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>One man’s near-emotionless trip through an event that was the high watermark for US counterculture moves along without any real sense of purpose or pace.</snippet>
+         <url>http://www.empireonline.com/reviews/review.asp?FID=135688</url>
+         <critic>Philip Wilding</critic>
+      </review>
+      <review>
+         <snippet>Something of a traffic jam--even with his usual restraint, Lee couldn't recount a key moment of the '60s without a blurry parade of personalities--and also lullingly dull.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2009/08/28/2009-08-28_taking_woodstock_ang_lee_.html</url>
+         <critic>Joe Neumaier</critic>
+      </review>
+      <review>
+         <snippet>Lee’s movie is pleasant enough, but it’s too swept up in the spirit it’s celebrating to ask the relevant questions.</snippet>
+         <url>http://www.avclub.com/articles/taking-woodstock,32201/</url>
+         <critic>Keith Phipps</critic>
+      </review>
+      <review>
+         <snippet>It's a frustrating complication of a movie with a sprawling story and grand ambitions -- and some truly grand acting -- that stumbles almost as often as it soars. Bummer.</snippet>
+         <url>http://www.latimes.com/entertainment/news/la-et-taking-woodstock26-2009aug26,0,842975.story</url>
+         <critic>Betsy Sharkey</critic>
+      </review>
+      <review>
+         <snippet>Awfully amiable and dull. Instead of honoring musical gods, the film seems to think Pat Boone was headlining.</snippet>
+         <url>http://www.miamiherald.com/entertainment/movies/reviews/story/1204088.html</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>You can’t deny the smiling mood that wafts through the film like incense, and to that extent it honors the original three days; but not once does a character’s show of feeling stir you, send you, or stop you in your tracks, and the loss is unsustainable.</snippet>
+         <url>http://www.newyorker.com/arts/critics/cinema/2009/08/31/090831crci_cinema_lane</url>
+         <critic>Anthony Lane</critic>
+      </review>
+      <review>
+         <snippet>The picture serves up intermittent pleasures but is too raggedy and laid-back for its own good, its images evaporating nearly as soon as they hit the screen.</snippet>
+         <url>http://www.variety.com/review/VE1117940267.html?categoryid=31&amp;cs=1&amp;query=taking+woodstock</url>
+         <critic>Todd McCarthy</critic>
+      </review>
+      <review>
+         <snippet>So gentle it barely has enough vitality to stick to the screen.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2009/08/28/taking_woodstock/index.html</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>Elliot’s coming-out story is mostly shunted into the film’s latter half, and when it does emerge it is woefully conventional and diluted by other goings-on.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A825183</url>
+         <critic>Marjorie Baumgarten</critic>
+      </review>
+      <review>
+         <snippet>The screenplay is sharp and insightful, the period details ring true, and Martin is appealing as a dreamer conflicted about his homosexuality. But once the action shifts from the town to the festival, any momentum gets lost in a psychedelic haze.</snippet>
+         <url>http://www.chicagoreader.com/chicago/MovieTimes?oid=978048</url>
+         <critic>Andrea Gronvall</critic>
+      </review>
+      <review>
+         <snippet>Ultimately, even Lee appears to lose interest, flashing none of his usual visual panache and, at the end, content to forego any considered conclusion for a hunk of lumpy irony.</snippet>
+         <url>http://www.theglobeandmail.com/news/arts/taking-woodstock/article1266949/</url>
+         <critic>Rick Groen</critic>
+      </review>
+      <review>
+         <snippet>Taking Woodstock has a winning generosity of spirit, but even that serves chiefly to underline the film's curious inconsequentiality, as if it were a two-hour pilot for a show about a charmingly eccentric family and a rotating cast of colorful guest stars.</snippet>
+         <url>http://www.npr.org/templates/story/story.php?storyId=112090368</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>The gentle, ambling Ang Lee comedy that's a few tokes short of groovy.</snippet>
+         <url>http://online.wsj.com/article/film_review.html</url>
+         <critic>Joanne Kaufman</critic>
+      </review>
+      <review>
+         <snippet>A choppy and occasionally unsure film, one that doesn't achieve the superb tonal control of "The Ice Storm," but that certainly doesn't represent an unqualified disaster on a par with Lee's first attempt at the western, "Ride With the Devil."</snippet>
+         <url>http://www.washingtonpost.com/gog/movies/taking-woodstock,1156234/critic-review.html#reviewNum1</url>
+         <critic>Ann Hornaday</critic>
+      </review>
+      <review>
+         <snippet>No one's asking for a song-by-song re-enactment of the concert, but Lee's refusal to focus even for a moment on the musical aspect of the festival starts to feel almost perverse, as if he's deliberately frustrating the audience's desire.</snippet>
+         <url>http://www.slate.com/id/2226506/</url>
+         <critic>Dana Stevens</critic>
+      </review>
+      <review>
+         <snippet>Little music from the concert itself is heard. On display instead are inane, occasionally borderline offensive portrayals of Jews, performance artists, trannies, Vietnam vets, squares, and freaks.</snippet>
+         <url>http://www.villagevoice.com/2009-08-25/film/taking-woodstock-recycles-60-s-tropes/</url>
+         <critic>Melissa Anderson</critic>
+      </review>
+      <review>
+         <snippet>Lee and Schamus make history blandly palatable; in the process, they rob the times and the people they’re portraying of their complications.</snippet>
+         <url>http://newyork.timeout.com/articles/film/77920/taking-woodstock-film-review</url>
+         <critic>Keith Uhlich</critic>
+      </review>
+      <review>
+         <snippet>Ang Lee's Taking Woodstock achieves an amazing feat: It turns the fabled music festival, a key cultural moment of the late 20th century, into an exceedingly lame, heavily clichéd, thumb-sucking bore.</snippet>
+         <url>http://www.nypost.com/seven/08262009/entertainment/movies/dump_this_stock__186569.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+   </reviews>
+   <US_Gross>$7,460,204</US_Gross>
+   <production_budget>$29,000,000</production_budget>
+   <weekend_gross>$3,478,335</weekend_gross>
+   <number_of_screens>1,393</number_of_screens>
+   <oscar_winning_directors_present/>
+   <num_oscar_winning_directors>1</num_oscar_winning_directors>
+   <oscar_winning_director>ang lee</oscar_winning_director>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

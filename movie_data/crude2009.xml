@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Crude</name>
+   <company>First Run Features</company>
+   <genres>
+      <genre>Documentary</genre>
+   </genres>
+   <authors>
+      <author/>
+   </authors>
+   <directors>
+      <director>Joe Berlinger</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors/>
+   <release_date>September 9, 2009</release_date>
+   <running_time>105</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>Remarkable documentary.</snippet>
+         <url>http://www.villagevoice.com/2009-09-08/film/joe-berlinger-s-remarkable-crude/</url>
+         <critic>Scott Foundas</critic>
+      </review>
+      <review>
+         <snippet>Ahead of us lie many more documentaries similar in tone and spirit to this one. We can hope that at least a few of them are as intelligently and artfully made.</snippet>
+         <url>http://movies.nytimes.com/2009/09/09/movies/09crude.html?ref=movies</url>
+         <critic>A.O. Scott</critic>
+      </review>
+      <review>
+         <snippet>Here’s a powerhouse of a documentary that makes you feel mad as hell and unwilling to take it anymore.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/25457761/review/30065674/crude</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>If the movie is any indication, Chevron would have the public believe there was no Amazon at all -- something people might be willing to believe, were Berlinger not sticking Crude in their faces.</snippet>
+         <url>http://www.washingtonpost.com/gog/movies/crude,1157006/critic-review.html#reviewNum1</url>
+         <critic>John Anderson</critic>
+      </review>
+      <review>
+         <snippet>What's less clear, and more maddening, is how several generations of Ecuadorans have been left to live on toxic land, their health and livelihoods compromised, while lawyers file motions and counter-motions and blame is passed around.</snippet>
+         <url>http://www.philly.com/philly/entertainment/movies/20091009_A_David_and_Goliath_story_of_an_oil_giant_s_role_in_Ecuador.html</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>It's a David-and-Goliath tale, full of anger and disturbing accusation, but it's also inspiring.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20312187,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>Crude is so crammed with facts and figures that it can be a little dizzying, but what’s more important is what Berlinger records between all the talking-head interviews and vérité footage.</snippet>
+         <url>http://www.avclub.com/articles/crude,32717/</url>
+         <critic>Noel Murray</critic>
+      </review>
+      <review>
+         <snippet>Minor flaws and all, Crude represents a crucial document as much as any evidence put forward in the courtroom itself.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film-reviews/crude-film-review-1004010592.story</url>
+         <critic>Eric Monder</critic>
+      </review>
+      <review>
+         <snippet>Picture makes an engrossing case for justice.</snippet>
+         <url>http://www.variety.com/review/VE1117939489.html?categoryid=31&amp;cs=1&amp;query=crude</url>
+         <critic>Dennis Harvey</critic>
+      </review>
+      <review>
+         <snippet>Corporate inhumanity Berlinger ferociously exposes.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2009/09/11/2009-09-11_short_film_reviews_9_.html?page=1</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>For what Crude does best is take us behind the scenes and show in often candid detail how campaigns are waged, tactics decided on and strategies prioritized.</snippet>
+         <url>http://www.latimes.com/entertainment/news/la-et-crude18-2009sep18,0,4140417.story</url>
+         <critic>Kenneth Turan</critic>
+      </review>
+      <review>
+         <snippet>Crude's moving testimony and careful documentation make it hard to turn away from this issue. It will certainly remain in your mind the next time you stop for gas.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A890106</url>
+         <critic>Marjorie Baumgarten</critic>
+      </review>
+      <review>
+         <snippet>What makes Crude worthy of the overused term “epic” is the way the case symbolizes a host of contemporary issues: the iron-fistedness of multinational corporations; environmental despoliation; the disappearance of indigenous cultures; and the power of celebrity and the media to influence justice.</snippet>
+         <url>http://www.theglobeandmail.com/news/arts/crude/article1317336/</url>
+         <critic>Liam Lacey</critic>
+      </review>
+      <review>
+         <snippet>No film could convey all the complexities of the case - what Crude does is air the plaintiffs' claims and show the lawyers at work.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2009/09/24/MVKG19QPO2.DTL</url>
+         <critic>Walter Addiego</critic>
+      </review>
+      <review>
+         <snippet>Part eco-doc,  part legal-doc,  it is a troubling,  real story  --  and a well-told one at that  --  that is inspiring and infuriating all at once.</snippet>
+         <url>http://www.nola.com/movies/index.ssf/2009/09/mt-preview-84a614f06087b5ad0911fdd08a19e746db3dfcef.html</url>
+         <critic>Mike Scott</critic>
+      </review>
+      <review>
+         <snippet>So, yes, something needs to be done, and if it takes Sting reuniting the Police in-concert to sing “sending out an SOS’’ on behalf of the plaintiffs (among other worthy causes), so be it.</snippet>
+         <url>http://www.boston.com/ae/movies/articles/2009/11/05/crude_chronicles_what_happens_when_an_ecological_disaster_meets_a_media_circus/</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>Crude is only a progress report of a case that might last until well into the decade, the sordid details of which are still, pardon the pun, spilling out.</snippet>
+         <url>http://www.oregonlive.com/movies/index.ssf/2009/11/review_crude_tracks_chevron_ca.html</url>
+         <critic>Stan Hall</critic>
+      </review>
+      <review>
+         <snippet>Not exactly genre-bending innovation or anything but a decent documentary about an important episode in history of oil company exploitation.</snippet>
+         <url>http://www.empireonline.com/reviews/reviewcomplete.asp?FID=136662</url>
+         <critic>Dan Jolin</critic>
+      </review>
+      <review>
+         <snippet>Here's what's depressing: that, given the millions spent on defense by multinational conglomerates, our last best hope isn't the courts but the fickle attentions of glossy magazines and the noblesse oblige of celebrities.</snippet>
+         <url>http://nymag.com/movies/reviews/58859/</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>Berlinger is fully invested here, but a little distance might have helped.</snippet>
+         <url>http://newyork.timeout.com/articles/film/78383/crude-film-review</url>
+         <critic>Joshua Rothkopf</critic>
+      </review>
+      <review>
+         <snippet>Like its subject, a lawsuit that is expected to go on for another 10 years, Crude has no ending. This is the perfect ending for this Goliath versus Goliath documentary about powerful personal-injury lawyers taking on a powerful corporation.</snippet>
+         <url>http://www.nypost.com/p/entertainment/movie/reviews/oily_mess_unctuous_lawyers_EjdAoDBJARkHXbpeXbsoCO</url>
+         <critic>Kyle Smith</critic>
+      </review>
+   </reviews>
+   <US_Gross>$168,606</US_Gross>
+   <weekend_gross>$21,823</weekend_gross>
+   <number_of_screens>1</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

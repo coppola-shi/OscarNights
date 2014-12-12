@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Wanted</name>
+   <company>Universal Pictures</company>
+   <genres>
+      <genre>Action</genre>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>J.G. Jones, Mark Millar</author>
+      <author>Michael Brandt</author>
+      <author>Derek Haas</author>
+      <author>Chris Morgan</author>
+   </authors>
+   <directors>
+      <director>Timur Bekmambetov</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>James McAvoy</actor>
+      <actor>Morgan Freeman</actor>
+      <actor>Terence Stamp</actor>
+      <actor>Thomas Kretschmann</actor>
+      <actor>Common</actor>
+      <actor>Angelina Jolie</actor>
+   </actors>
+   <release_date>June 27, 2008</release_date>
+   <running_time>110</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>This over-the-top, ultraviolent, hyperkinetic action thriller pretty much has it all.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?JSESSIONID=hrzfLd5WPpDlYh6Lncr3pxM95vTqG72rT0vPYnKXpBQ2Sr2pTGg2!1587555933&amp;&amp;rid=11280</url>
+         <critic>Michael Rechtshaffen</critic>
+      </review>
+      <review>
+         <snippet>It takes about an hour after it's over for the heart to slow, the brain to recalibrate, and the nonsensicalness of the thing to sink in.</snippet>
+         <url>http://nymag.com/movies/reviews/47982/</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>Bekmambetov revs it up furiously and unleashes one bit of hyperactive, dazzling invention after another. The result is a throwaway wrapped up in the coolest packaging imaginable, which is acres better than the opposite.</snippet>
+         <url>http://blog.oregonlive.com/madaboutmovies/2008/06/review_giddy_gore_in_wanted.html</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>What's bleakly hilarious about the whole movie is that Bekmambetov directs the nonaction scenes just as hyperbolically.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/reviews/bal-to.wanted0627,0,5550219.story</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>The summer's zazziest action movie.</snippet>
+         <url>http://www.time.com/time/arts/article/0,8599,1818519,00.html</url>
+         <critic>Richard Corliss</critic>
+      </review>
+      <review>
+         <snippet>Not as dark as its source material, Wanted works exceptionally on its own terms. McAvoy crashes the A-list, Jolie finally gets to be as big a star on screen as she has been in print, and Bekmambetov proves the most exciting action-oriented emigré since John Woo.</snippet>
+         <url>http://www.empireonline.com/reviews/reviewcomplete.asp?FID=133072</url>
+         <critic>Kim Newman</critic>
+      </review>
+      <review>
+         <snippet>Like it or not, Wanted pretty much slams you to the back of your chair from the outset and scarcely lets up for the duration.</snippet>
+         <url>http://www.variety.com/review/VE1117937471.html?categoryId=31</url>
+         <critic>Todd McCarthy</critic>
+      </review>
+      <review>
+         <snippet>For all of its shortcomings, Wanted is a strangely enjoyable flick.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=11054</url>
+         <critic>Pete Vonder Haar</critic>
+      </review>
+      <review>
+         <snippet>The way to enjoy this film is to put your logic on hold, along with any higher sensitivities that might be vulnerable and immerse yourself as if in a video game.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20080626/REVIEWS/294566124</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>Brutal, sexy, built to thrill and minus a scintilla of redeeming social value, the movie -- based on a series of comic books by Mark Millar and J.G. Jones -- explodes like summer fireworks.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/17041740/review/21477251/wanted</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>If you're looking for memorable dialogue and gripping drama, then you better get in line for another flick. But if it's spellbinding special effects and high-wire acts you crave, Wanted should be at the top of your list for big budget thrill rides.</snippet>
+         <url>http://www.premiere.com/moviereviews/4623/wanted.html</url>
+         <critic>Malina Saval</critic>
+      </review>
+      <review>
+         <snippet>Jolie steals the film from nominal star McAvoy in the wild gunfight and dynamically absurd chase that kick Wanted into high gear. Her wicked moves and seductive smirk brand her immediately as a true believer who really, really loves her work.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/368545_wanted27q.html</url>
+         <critic>Sean Axmaker</critic>
+      </review>
+      <review>
+         <snippet>His movies are thrilling and ridiculous in equal measure, and I often laughed with incredulous approval as he wreaked havoc.</snippet>
+         <url>http://www.charlotte.com/entertainment/story/686987.html</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>Best of all, there's a lot of Jolie, barrels blazing. The star's fearlessly sexy hauteur is unique in the biz today. And when she works it in Wanted, she kills, bullets optional.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20209078,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>There are times when the film is flat-out silly (such as the spinning car assassination), but that's part of the movie's charm. At its worst, Wanted is never boring. At its best, it can be damn close to intoxicating. One word, written without apology, describes it best: fun.</snippet>
+         <url>http://www.reelviews.net/php_review_template.php?identifier=1154</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>This is a blockbuster busting out of the block; this is a Hollywood staple served up on a European platter; this is summertime fare with a wintry verve.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20080627.wwanted27/BNStory/Entertainment/home</url>
+         <critic>Rick Groen</critic>
+      </review>
+      <review>
+         <snippet>Wanted is like a 12-armed heavy-metal drummer after a case of Red Bull, flailing and thundering through two hours of impossible action.</snippet>
+         <url>http://www.nypost.com/seven/06272008/entertainment/movies/the_stunt_runner_117366.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>Before Wanted reaches the end of its wild course, the violence that's been nothing but oppressive becomes genuinely if perversely impressive; the ritual carnage becomes balletic carnage (railroad cars included); the Walter Mitty-esque hero, Wesley, played by James McAvoy becomes a formidable enforcer of summary justice, and Mr. McAvoy, most memorably the young doctor in "The Last King of Scotland," becomes a certified star.</snippet>
+         <url>http://online.wsj.com/article/SB121451823921608769.html?mod=2_1168_1</url>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>Wanted's hyperkinetic antics are sometimes weighed down by a surfeit of adolescent misanthropy. But the adrenaline-overdose strategy works for viewers as well as hit men. As long as Bekmambetov keeps the pedal to the metal, you don't notice the rotten scenery outside.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/la-et-wanted27-2008jun27,0,5498187.story</url>
+         <critic>Sam Adams</critic>
+      </review>
+      <review>
+         <snippet>Fast-moving and bloody, enjoyable even within its unapologetically generic limits. But McAvoy is its real secret weapon: With his X-ray blue eyes and lips that look bitten with anxiety, he has the miraculous ability to fool us into thinking there's really something at stake here.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2008/06/27/wanted/</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>In the end, Wanted may be most notable for cementing the connection between superhero movies and the cinematic craze they have temporarily supplanted, torture porn--both genres that, like "Fight Club," address our ambiguous fascination with being powerless and invulnerable at the same time.</snippet>
+         <url>http://www.villagevoice.com/film/0826,wanted,478574,20.html</url>
+         <critic>Jim Ridley</critic>
+      </review>
+      <review>
+         <snippet>With its pounding, bloody violence, foul-mouthed language and putrid worldview, Wanted isn't comic book-y on a par with "Iron Man" or "The Incredible Hulk." Rather it's an example of revenge of the nerds at its nastiest and most vulgar.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1141813&amp;categories=Movies&amp;nm=1</url>
+         <critic>Ann Hornaday</critic>
+      </review>
+      <review>
+         <snippet>A compendium of bedside erotica. I don't know when I've seen a mainstream movie that so explicitly caters to the S&amp;M niche. And the chemistry of the central couple, which seemed destined to bring the movie down, is instead the hottest thing in this effects-laden but ultimately empty film.</snippet>
+         <url>http://www.slate.com/id/2194323/</url>
+         <critic>Dana Stevens</critic>
+      </review>
+      <review>
+         <snippet>Wanted is a queasily unapologetic power fantasy about becoming a better person through violence.</snippet>
+         <url>http://www.avclub.com/content/cinema/wanted</url>
+         <critic>Keith Phipps</critic>
+      </review>
+      <review>
+         <snippet>Preposterous, luridly entertaining.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=10201</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>Slick, stylish and super-violent, but also oddly dull.</snippet>
+         <url>http://www.tvguide.com/movies/wanted/review/292491</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>Wanted is head-spinning stuff, and it's easy to get caught up in its masterfully manipulated mayhem. Visually, and viscerally, it's pretty awesome.</snippet>
+         <url>http://www.philly.com/philly/entertainment/movies/20080627_Gun-filled_mayhem_misses_the_mark.html</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>The thrilling stunts and hyperkinetic action scenes are the undisputed stars of this surprisingly entertaining film.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2008-06-25-wanted_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>As nonsense goes, this has a certain gusto and glee, and what dismayed me was that Bekmambetov felt the need to spice it with the addition of coarsely chopped violence.</snippet>
+         <url>http://www.newyorker.com/arts/critics/cinema/2008/06/30/080630crci_cinema_lane</url>
+         <critic>Anthony Lane</critic>
+      </review>
+      <review>
+         <snippet>There's barely a frame that doesn't look stretched, smashed or otherwise harassed. Imagine "The Matrix" on speed, and you're halfway there.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2008/06/27/2008-06-27_wanted_is_good_dumb_fun_at_the_movies.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>Things happen in Wanted, but no one cares. You could call that nihilism, but even nihilism requires commitment of a kind and this, by contrast, is a movie built on indifference.</snippet>
+         <url>http://movies.nytimes.com/2008/06/27/movies/27want.html</url>
+         <critic>Manohla Dargis</critic>
+      </review>
+      <review>
+         <snippet>Either a go-for-broke action movie or a sick, sick movie for a sick, sick public.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2008/06/26/DDK711EC35.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>The film hardly aims to be serious entertainment, and, to its credit, it's never uninteresting visually.</snippet>
+         <url>http://www.miamiherald.com/1054/story/583625.html</url>
+         <critic>Connie Ogle</critic>
+      </review>
+      <review>
+         <snippet>Wanted has one good plot twist in store (though it makes little sense), and its sense of humor about its own silliness keeps the fantasy afloat for a while. But as the body count rises, so does the portentous tone, and the relentlessness of Bekmambetov's overamped style becomes oppressive.</snippet>
+         <url>http://www.newsweek.com/id/142668</url>
+         <critic>David Ansen</critic>
+      </review>
+      <review>
+         <snippet>What are Jolie and Freeman and McAvoy doing here, besides acting cooler than Clive Owen in "Shoot ’Em Up"? Cashing a check, that's what. Bekmametov may have talent, but the arrested-adolescent "escapism" of this picture emits a pretty bad odor.</snippet>
+         <url>http://chicago.metromix.com/movies/movie_review/movie-review-wanted/474618/content</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>Violence in the movies, no matter how many CGI effects are utilized, can't help but be far more luridly realistic. And, in the case of Wanted, to what end?</snippet>
+         <url>http://www.csmonitor.com/2008/0628/p25s01-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>Big, cruel, stupid actioner.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/33281_WANTED_BEKMAMBETOV.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>With every bit of sliced flesh and every punctured skull I found myself wondering who exactly this movie is for. Its unflinching violence has earned it an R rating, meaning its desired demographic – teenage boys – is out of contention. That raises the question: Are there really adults who want to sit through this kind of mindless, bullying mayhem?</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A639253</url>
+         <critic>Josh Rosenblatt</critic>
+      </review>
+   </reviews>
+   <US_Gross>$134,508,551</US_Gross>
+   <production_budget>$75,000,000</production_budget>
+   <weekend_gross>$50,927,085</weekend_gross>
+   <number_of_screens>3,175</number_of_screens>
+   <highest_grossing_actors_present/>
+   <num_highest_grossing_actors>1</num_highest_grossing_actors>
+   <highest_grossing_actor>morgan freeman</highest_grossing_actor>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Home of the Brave</name>
+   <company>Metro-Goldwyn-Mayer</company>
+   <genres>
+      <genre>Action</genre>
+      <genre>Drama</genre>
+      <genre>War</genre>
+   </genres>
+   <authors>
+      <author>Mark Friedman</author>
+      <author>Irwin Winkler</author>
+   </authors>
+   <directors>
+      <director>Irwin Winkler</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Samuel L. Jackson</actor>
+      <actor>Jessica Biel</actor>
+      <actor>Curtis Jackson</actor>
+      <actor>Brian Presley</actor>
+      <actor>Christina Ricci</actor>
+      <actor>Chad Michael Murray</actor>
+   </actors>
+   <release_date>December 15, 2006</release_date>
+   <running_time>105</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>Home of the Brave isn't exactly a subtle or a delicate picture -- it's an old-fashioned Hollywood movie, at least in tone, that's being released like an indie -- but it has some terrific acting and comes straight from the heart.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2006/12/14/btm/index1.html</url>
+         <critic>Andrew O&amp;#039;Hehir</critic>
+      </review>
+      <review>
+         <snippet>While Mark Friedman's script is as unsubtle as Winkler's direction, their sincerity and the subject's sharp immediacy lend the film a certain power.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/moviereviews/story/480298p-403958c.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>Timeliness is all very well, but the significant subject matter cries out for a defter directorial touch and a deeper complexity in regard to the characters and performances.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?JSESSIONID=F7xTQn2JFCYTSbqck171tn2Y4y0jDR536nlbpNCyMWNVpQcnsp3F!-512341271&amp;&amp;rid=8519</url>
+         <critic>Michael Rechtshaffen</critic>
+      </review>
+      <review>
+         <snippet>The movie's mild-mannerness is especially disappointing when compared with such documentaries as "The War Tapes" and the excellent "Home Front," vivid and incisive explorations of post-Iraq anger and disillusionment that have gone largely unseen by a disinterested public. If Americans are suffering from Iraq fatigue, Home of the Brave will do little to rouse them.</snippet>
+         <url>http://www.calendarlive.com/movies/cl-et-home15dec15,0,2199191.story</url>
+         <critic>Sam Adams</critic>
+      </review>
+      <review>
+         <snippet>Had Home of the Brave presented credible stories about believable characters, it might have been a powerful drama.</snippet>
+         <url>http://www.reelviews.net/movies/h/home_brave.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>Home of the Brave is a milestone of sorts. But it's a formulaic, overacted piece of work that rarely delves deep.</snippet>
+         <url>http://www.csmonitor.com/2006/1215/p14s01-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>Starts with a bang and ends in a long, protracted whimper.</snippet>
+         <url>http://tvguide.com/detail/movie.aspx?tvobjectid=284464&amp;more=ucmoviereview</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>Evenness of political keel, combined with a generic filmmaking style, is an artistic weapon way too puny for a successful assault on so tough, bruising, and crucial a subject.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1569431_1_0_,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>The best thing about the movie is that it's interested in the soldiers, not the self-serving popinjays who seem to think the war is a big fat career-enhancing photo opportunity. The people who got shot at deserve most of the attention.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1125131&amp;categories=Movies&amp;nm=1</url>
+         <critic>Stephen Hunter</critic>
+      </review>
+      <review>
+         <snippet>As this cautious, politically evenhanded movie grinds along like clockwork, the fuse that should spark an emotional explosion fizzles after some sporadic hisses and sputters.</snippet>
+         <url>http://movies2.nytimes.com/2006/12/15/movies/15brav.html?ref=movies</url>
+         <critic>Stephen Holden</critic>
+      </review>
+      <review>
+         <snippet>As sincere as a three-legged puppy.</snippet>
+         <url>http://www.villagevoice.com/film/0650,lee,75283,20.html</url>
+         <critic>Nathan Lee</critic>
+      </review>
+      <review>
+         <snippet>The apolitical and well-meaning Home of the Brave is predictable and maudlin.</snippet>
+         <url>http://www.nypost.com/seven/12152006/entertainment/movies/blood__vets_and_tears_movies_lou_lumenick.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>By straining to make a respectful war film for everyone, Winkler and Friedman have wound up with a toothless picture that won't satisfy anyone.</snippet>
+         <url>http://www.premiere.com/moviereviews/3331/home-of-the-brave.html</url>
+         <critic>Ethan Alter</critic>
+      </review>
+      <review>
+         <snippet>Whatever its model, the film is assembled from much poorer material, leftover parts of Lifetime movies and well-meaning indie films seen only on opening nights at some forgotten festival in Tampa.</snippet>
+         <url>http://www.avclub.com/content/node/56671</url>
+         <critic>Keith Phipps</critic>
+      </review>
+      <review>
+         <snippet>Starts well with the stirring spectacle of young men and women, members of a National Guard unit stationed south of Baghdad, struggling to do their duty in an alien land of unfathomable danger. Once they return, however, wounded physically or shattered spiritually, the film turns didactic, contrived and occasionally ludicrous.</snippet>
+         <url/>
+         <critic>Joe Morgenstern</critic>
+      </review>
+   </reviews>
+   <US_Gross>$43,753</US_Gross>
+   <weekend_gross>$25,261</weekend_gross>
+   <number_of_screens>44</number_of_screens>
+   <highest_grossing_actors_present/>
+   <num_highest_grossing_actors>1</num_highest_grossing_actors>
+   <highest_grossing_actor>samuel l. jackson</highest_grossing_actor>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Tale of Two Pizzas, A</name>
+   <company>Cockeyed Caravan</company>
+   <genres>
+      <genre>Comedy</genre>
+      <genre>Romance</genre>
+   </genres>
+   <authors>
+      <author>Vincent Sassone</author>
+   </authors>
+   <directors>
+      <director>Vincent Sassone</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Vincent Pastore</actor>
+      <actor>Frank Vincent</actor>
+      <actor>Robin Paul</actor>
+      <actor>Conor Dubin</actor>
+      <actor>Patti D&amp;#039;Arbanville</actor>
+   </actors>
+   <release_date>October 7, 2005</release_date>
+   <running_time>90</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>In scope, depth, rhythm and gags, "Pizzas" seems best suited to the small screen.</snippet>
+         <url>http://www.variety.com/review/VE1117928410?categoryid=31&amp;cs=1</url>
+         <critic>Ronnie Scheib</critic>
+      </review>
+      <review>
+         <snippet>Sassone's hit-and-miss ethnic comedy is actually a retelling of Shakespeare's Romeo and Juliet, with the Italian neighborhood of South Yonkers, N.Y., standing in for Verona.</snippet>
+         <url>http://online.tvguide.com/movies/database/ShowMovie.asp?MI=46468</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>Writer-director Vincent Sassone makes your mouth water with his lovingly photographed images of freshly baked pizza but turns your stomach with extra-cheesy dialogue and an inconsistent narrative.</snippet>
+         <url>http://www.villagevoice.com/film/0540,tracking9,68597,20.html</url>
+         <critic>Matt Singer</critic>
+      </review>
+      <review>
+         <snippet>The film borrows themes and cast members from HBO's "Sopranos," but the script lacks the nuance and wit of that series's creator, David Chase.</snippet>
+         <url>http://movies2.nytimes.com/2005/10/07/movies/07tale.html</url>
+         <critic>Janet Maslin</critic>
+      </review>
+      <review>
+         <snippet>Any way you slice it, A Tale of Two Pizzas is so ineptly written and directed that it's pretty soggy entertainment.</snippet>
+         <url>http://www.nypost.com/movies/53361.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+   </reviews>
+   <US_Gross>$14,305</US_Gross>
+   <weekend_gross>$964</weekend_gross>
+   <number_of_screens>2</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

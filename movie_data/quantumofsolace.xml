@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Quantum of Solace</name>
+   <company>Columbia Pictures (Sony), MGM</company>
+   <genres>
+      <genre>Action</genre>
+      <genre>Adventure</genre>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>Neal Purvis</author>
+      <author>Robert Wade</author>
+      <author>Paul Haggis</author>
+      <author>Ian Fleming</author>
+   </authors>
+   <directors>
+      <director>Marc Forster</director>
+   </directors>
+   <origins>
+      <origin>UK</origin>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Daniel Craig</actor>
+      <actor>Olga Kurylenko</actor>
+      <actor>Mathieu Amalric</actor>
+      <actor>Judi Dench</actor>
+      <actor>Gemma Arterton</actor>
+      <actor>Jeffrey Wright</actor>
+      <actor>Jesper Christensen</actor>
+      <actor>Joaquin Cosio</actor>
+   </actors>
+   <release_date>November 14, 2008</release_date>
+   <running_time>106</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>Quantum, thanks to a deft blend of exotic escapism and bare-bones modernism, is more than strong enough to be judged on its own. In fact, it's the perfect Bond film.</snippet>
+         <url>http://www.premiere.com/moviereviews/4823/quantum-of-solace.html</url>
+         <critic>James Jung</critic>
+      </review>
+      <review>
+         <snippet>As with "The Dark Knight," the only real caveat is that while it's exciting and imaginative, it's not exactly anyone's idea of fun. To keep in the game, perhaps the next movie could let the hero enjoy himself a bit more.</snippet>
+         <url>http://www.empireonline.com/reviews/reviewcomplete.asp?FID=134523</url>
+         <critic>Kim Newman</critic>
+      </review>
+      <review>
+         <snippet>The new picture allows hardly any flourishes of style and character in the 007 tradition, but moviegoers seeking an adrenaline rush will be well pleased.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?rid=11864</url>
+         <critic>Ray Bennett</critic>
+      </review>
+      <review>
+         <snippet>It's a grim, dark, and relentlessly violent film throughout; James Bond as Terminator rather than Templar – but it delivers the goods in bloody high style: explosively, sexily, and with 007 shaken (not stirred) to his icy core.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A700575</url>
+         <critic>Marc Savlov</critic>
+      </review>
+      <review>
+         <snippet>Never less than engaging.</snippet>
+         <url>http://www.philly.com/inquirer/columnists/steven_rea/20081114_Bravura_Bond__silly_title_and_all.html</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>It's dark and exciting, but with little breathing room.</snippet>
+         <url>http://www.avclub.com/content/cinema/quantum_of_solace</url>
+         <critic>Keith Phipps</critic>
+      </review>
+      <review>
+         <snippet>The point is, wherever he is, this James Bond is pissed. And that ceaseless anger begins to curdle every sequence that might otherwise bring a little happiness. I mean happiness for us, the viewers.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20237758,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>The movie is a relentlessly enjoyable star vehicle and a hard-charging action-o-rama full of the usual Bondian elements, for the most part well done. It's one of the year's better action films.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/387535_quantum13q.html</url>
+         <critic>William Arnold</critic>
+      </review>
+      <review>
+         <snippet>The least erotic, exotic, luxurious and sarcastic Bond film ever made. Its hero is haunted, obsessed, merciless, cold. There are no gadgets or flippant one-liners and there's almost no sex.</snippet>
+         <url>http://blog.oregonlive.com/madaboutmovies/2008/11/movie_review_is_less_bond_more.html</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>After the heights of "Casino Royale," the series falls back into routine with this above-average thriller, filled with over-the-top action, familiar Bond atmosphere and a story that's impossible to follow - and why bother anyway? Daniel Craig is still the coolest man in the universe. That definitely helps.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2008/11/13/DDEO143VED.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>Revenge is a dish best served with bullets, high explosives and giant rolling flameballs. In Quantum of Solace, James Bond orders the revenge buffet, deluxe.</snippet>
+         <url>http://www.nypost.com/seven/11142008/entertainment/movies/the_bond_supremacy_138533.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>The purpose of the Bond girl, and of the Bond film, is still to stroke the male ego. Bond changes just enough to stay exactly the same.</snippet>
+         <url>http://www.chicagoreader.com/features/stories/moviereviews/081113/</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>Craig never overreaches, and yet he accomplishes the unthinkable. He's not the Bond we ever asked for or hoped for, yet he's reimagined the character in ways we never could have foreseen. He's Bond with soul.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2008/11/14/quantum/</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>Quantum of Solace is too savage for family entertainment, but, as a study in headlong desperation, it's easier to believe in than many more ponderous films.</snippet>
+         <url>http://www.newyorker.com/arts/critics/cinema/2008/11/17/081117crci_cinema_lane</url>
+         <critic>Anthony Lane</critic>
+      </review>
+      <review>
+         <snippet>Kurylenko, a lovely Russian-Ukrainian hybrid who is oddly duskied up to look vaguely Latina, is a whiz at raising Quantum's temperature and gradually luring Bond out of his stolid shell.</snippet>
+         <url>http://www.time.com/time/arts/article/0,8599,1855662,00.html</url>
+         <critic>Richard Corliss</critic>
+      </review>
+      <review>
+         <snippet>The stunts are as muscular and the film as handsome to look at as the hero who so ably pulls them off. But the story linking it all together is thin and weak.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2008-11-12-quantum-of-solace_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>It delivers the popcorn goods, but it ignores the poison eating at Bond's insides. Killer mistake.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/20877366/review/24199268/quantum_of_solace</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>The way it's shot and cut, it plays like a parody of a car commercial shot in the style of a Bond film.</snippet>
+         <url>http://chicago.metromix.com/movies/movie_review/movie-review-quantum-of/769723/content</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>The film's biggest problem is its director. Marc Forster is an experienced art house filmmaker with impressive credits (most recently, "The Kite Runner)", but he is clueless when it comes to action sequences.</snippet>
+         <url>http://www.reelviews.net/php_review_template.php?identifier=1392</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>Thanks to Daniel Craig, the most Byronic of 007s, who, with scarcely any help from the filmmakers, manages the astonishing task of rooting an outlandish yet sober-sided movie in reality and bringing it an air of wicked amusement, too.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/reviews/bal-to.quantum14nov14,0,4489093.story</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>Stripped of "Royale's" humor, elegance and reinvented old-school stylishness, Quantum has little left except its plot, which is rudimentary and slightly barmy, in the line of the Roger Moore pics of the '70s and '80s.</snippet>
+         <url>http://www.variety.com/review/VE1117938800.html?categoryid=31&amp;cs=1&amp;query=quantum+of+solace</url>
+         <critic>Derek Elley</critic>
+      </review>
+      <review>
+         <snippet>Quantum of Solace may be explosive with images of fiery infernos, but it's convoluted and confusing, the plot playing second fiddle to its set pieces.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=11294</url>
+         <critic>Jay Slater</critic>
+      </review>
+      <review>
+         <snippet>The result isn't bland, but it's not exactly Bond either.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2008/11/12/2008-11-12_latest_bond_installment_offers_little_so.html</url>
+         <critic>Joe Neumaier</critic>
+      </review>
+      <review>
+         <snippet>All dressed up with no particular place to go, this 22nd Bond film tries hard but ends up an underachiever.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-solace13-2008nov13,0,2291510.story</url>
+         <critic>Kenneth Turan</critic>
+      </review>
+      <review>
+         <snippet>The violence in his (Craig's) first outing, "Casino Royale," was notably intense, and while Quantum of Solace is not quite as brutal, the mood is if anything even more grim and downcast.</snippet>
+         <url>http://movies.nytimes.com/2008/11/14/movies/14quan.html?ref=movies</url>
+         <critic>A.O. Scott</critic>
+      </review>
+      <review>
+         <snippet>A model of mediocrity.</snippet>
+         <url>http://online.wsj.com/article/film_review.html</url>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>Don't ever let this happen again to James Bond. Quantum of Solace is his 22nd film and he will survive it, but for the 23rd it is necessary to go back to the drawing board and redesign from the ground up. Please understand: James Bond is not an action hero!</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20081111/REVIEWS/811129989</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>If the staging were as witty as the plotting, Quantum of Solace might have been a corker like "Casino Royale." But when the action starts, art-house-refugee director Marc Forster (Monster’s Ball) mashes together close-ups in the manner of "The Dark Knight," and every big set piece is borderline incoherent.</snippet>
+         <url>http://nymag.com/movies/reviews/52016/</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>After all these years of surviving everything that has been thrown at him, James Bond is finally being undone by his own team.</snippet>
+         <url>http://www.csmonitor.com/2008/1115/p25s02-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>This rare direct follow-up hopefully will put to rest the leftover emotional baggage of the character and leave Bond open to a bit more familiar interpretation in the future.</snippet>
+         <url>http://movies.tvguide.com/quantum-solace/review/292460</url>
+         <critic>Jeremy Wheeler</critic>
+      </review>
+      <review>
+         <snippet>Quantum of Solace isn't frivolous or cheesy, but it isn't all that much fun either.</snippet>
+         <url>http://www.newsweek.com/id/168849/page/2</url>
+         <critic>David Ansen</critic>
+      </review>
+      <review>
+         <snippet>The trouble with Quantum of Solace is that the frills are a mess, too. Even the customary opening title sequence, with its writhing silhouettes and screechy theme song by Jack White and Alicia Keys, is a cheesy throwback to the Roger Moore era: Ladies and gentlemen, the Quantum of Solace dancers!</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=9405</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>The film feels more like an extended epilogue than a stand-alone adventure, which may be because it is the shortest (105 minutes) entry in the series.</snippet>
+         <url>http://www.miamiherald.com/entertainment/movies/reviews/story/768588.html</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>A sequel that immediately picks up the plot of its predecessor, and then proceeds to drive the redeemed franchise right off the deep, dark end.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20081113.wSolace13/BNStory/Entertainment/home</url>
+         <critic>Rick Groen</critic>
+      </review>
+      <review>
+         <snippet>Thank heaven for Judi Dench, whose M provides Quantum of Solace its sole quantum of peppery brio.</snippet>
+         <url>http://www.washingtonpost.com/gog/movies/quantum-of-solace,1146530.html</url>
+         <critic>Ann Hornaday</critic>
+      </review>
+      <review>
+         <snippet>Quantum of Solace, the first bona fide sequel in the Bond series, has the poky pace and expository padding of the middle chapter of a trilogy.</snippet>
+         <url>http://www.slate.com/id/2204586/</url>
+         <critic>Dana Stevens</critic>
+      </review>
+      <review>
+         <snippet>Solace is especially frustrating when it moves down interesting paths, then stops.</snippet>
+         <url>http://events.charlotteobserver.com/reviews/show/34393-review-quantum-of-solace</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>A spastic, indecipherable, unholy, and altogether unwatchable mess.</snippet>
+         <url>http://www.villagevoice.com/2008-11-12/film/marc-forster-has-a-license-to-confuse-and-bore-in-quantum-of-solace/</url>
+         <critic>Robert Wilonsky</critic>
+      </review>
+   </reviews>
+   <US_Gross>$169,368,427</US_Gross>
+   <production_budget>$230,000,000</production_budget>
+   <weekend_gross>$67,528,882</weekend_gross>
+   <number_of_screens>3,451</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Day Watch</name>
+   <company>Fox Searchlight Pictures</company>
+   <genres>
+      <genre>Action</genre>
+      <genre>Fantasy</genre>
+      <genre>Foreign</genre>
+      <genre>Horror</genre>
+      <genre>Scifi</genre>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>Timur Bekmambetov</author>
+      <author>Sergei Lukyanenko</author>
+      <author>Vladimir Vasiliev</author>
+      <author>Alexander Talal</author>
+   </authors>
+   <directors>
+      <director>Timur Bekmambetov</director>
+   </directors>
+   <origins>
+      <origin>Russia</origin>
+   </origins>
+   <actors>
+      <actor>Konstantin Khabensky</actor>
+      <actor>Mariya Poroshina</actor>
+      <actor>Vladimir Menshov</actor>
+      <actor>Galina Tyunina</actor>
+      <actor>Viktor Verzhbitsky</actor>
+      <actor>Zhanna Friske</actor>
+      <actor>Dmitry Martynov</actor>
+      <actor>Valeri Zolotukhin</actor>
+   </actors>
+   <release_date>June 1, 2007</release_date>
+   <running_time>132</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>It's a high-energy blast.</snippet>
+         <url>http://www.tvguide.com/movies/day-watch/review/287518</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>Like its predecessor, the movie is a joyous celebration of extravagant pulp and post-Soviet kitsch, joyously trafficking in gore, loud cars, ladies' stilettos and excess for its own sake.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1136251&amp;categories=Movies&amp;nm=1</url>
+         <critic>Ann Hornaday</critic>
+      </review>
+      <review>
+         <snippet>While the sequel to "Night Watch" is an imperfect film, it's always interesting.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2007/06/01/DDGOJQ477Q1.DTL&amp;type=movies</url>
+         <critic>Peter Hartlaub</critic>
+      </review>
+      <review>
+         <snippet>Anyone looking for sleek futuristic action and production design should keep walking.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=10280</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>Though Day Watch seems less shocking and overwhelmingly strange than "Night Watch," it's another rocking mix of gritty thriller and glitzy sci-fi, once again in the vein of the director Bekmambetov's idols Quentin Tarantino and the Wachowski brothers.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-070615-movies-review-daywatch,0,4486669.story?coll=mmx-movies_top_heds</url>
+         <critic>Michael Wilmington</critic>
+      </review>
+      <review>
+         <snippet>The crazy fantasy world of this saga is plenty compelling and quirky.</snippet>
+         <url>http://www.premiere.com/moviereviews/3819/day-watch.html</url>
+         <critic>Glenn Kenny</critic>
+      </review>
+      <review>
+         <snippet>For all the vampires and blown-up cars, you'll see no sadism for the hell of it, only an oddly sweet-tempered mix of hyperbole, understatement and profoundly Slavic philosophizing about guilt, freedom and responsibility.</snippet>
+         <url>http://www.laweekly.com/film+tv/film-reviews/movie-reviews-day-watch-mr-brooks-paprika/16531/</url>
+         <critic>Ella Taylor</critic>
+      </review>
+      <review>
+         <snippet>The sequel is a minor wackjob head trip.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20040677,00.html</url>
+         <critic>Gregory Kirschling</critic>
+      </review>
+      <review>
+         <snippet>Though overlong, there are many stunning special effects, including a car chase up the side of a building, as well as the sort of wild animated subtitles that turned up in "Night Watch."</snippet>
+         <url>http://www.nypost.com/seven/06012007/entertainment/movies/russian_action_flick_provides_lots_to_watch_movies_lou_lumenick.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>Putting an entertainingly outlandish spin on "Matrix"-style action, Bekmambetov leans toward flamboyant special effects and operatic overacting.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2007/06/01/2007-06-01_short_takes.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>Ranks as one of the most elaborate, stunt- and effects-filled summer movies currently in the theatres. Unfortunately for its box-office prospects, it's also in Russian, which narrows its audience to action junkies with a foreign film bent.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20070608.wdaywatch08/BNStory/Entertainment/home</url>
+         <critic>Liam Lacey</critic>
+      </review>
+      <review>
+         <snippet>Day Watch does dazzle and even at times amuse. But its imagination is limited. The backstory is shallow and pat. Its characters are mostly one-note. And everything goes on much too long at 133 minutes.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?JSESSIONID=pn5LGyzLQTQcxJ7JlSSyLR4msHvJ11VJ1GbwxDdCGBcTgkvTJKkj!-998012584&amp;&amp;rid=9318</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>The worst thing Bekmambetov has picked up from his American models is the tendency of megasequels to aggrandize material grown enervated, to compensate for thinness by spreading out.</snippet>
+         <url>http://www.villagevoice.com/film/0722,lee,76796,20.html</url>
+         <critic>Nathan Lee</critic>
+      </review>
+      <review>
+         <snippet>The story is pure gobbledygook.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/320766_watch22q.html</url>
+         <critic>Bill White</critic>
+      </review>
+      <review>
+         <snippet>Bekmambetov introduces too many elements, losing interest in them or using them inadequately.</snippet>
+         <url>http://ae.miami.com/entertainment/ui/miami/movie.html?id=893878&amp;reviewId=22499</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>Day Watch falls prey to the curse of most sequels in which "more" is often a thin concept stretched beyond its limits and misconstrued to mean "bigger and better."</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A491496</url>
+         <critic>Marjorie Baumgarten</critic>
+      </review>
+      <review>
+         <snippet>Unfolding in a decrepit, present-day Moscow, Day Watch dazzles and confuses with equal determination.</snippet>
+         <url>http://movies2.nytimes.com/2007/05/31/movies/01watc.html?ref=movies</url>
+         <critic>Jeannette Catsoulis</critic>
+      </review>
+      <review>
+         <snippet>Bursting with incident and FX, Day Watch will delight fans of its predecessor, "Night Watch," but further annoy those antipathetic to the Russkie-made supernatural franchise.</snippet>
+         <url>http://www.variety.com/review/VE1117930204.html?categoryid=31&amp;cs=1&amp;p=0</url>
+         <critic>Leslie Felperin</critic>
+      </review>
+      <review>
+         <snippet>Like the dream it so closely resembles, it's fairly distracting while it's going on, but it fades into forgettable nonsense by the light of day.</snippet>
+         <url>http://www.avclub.com/content/cinema/day_watch</url>
+         <critic>Tasha Robinson</critic>
+      </review>
+      <review>
+         <snippet>I wasn't exactly engaged, but this time boredom never took over.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/31706_DAY_WATCH_DNEVNOY_DOZOR.html</url>
+         <critic>Jonathan Rosenbaum</critic>
+      </review>
+      <review>
+         <snippet>Like Russia's answer to "The Matrix" and "Lord of the Ring"s trilogies, Day Watch offers the second chapter in an epic battle between the forces of Light and Dark, the result of which is a gaping gray area where nothing much makes sense.</snippet>
+         <url>http://ae.miami.com/entertainment/ui/miami/movie.html?id=893878&amp;reviewId=22504</url>
+         <critic>Peter Debruge</critic>
+      </review>
+   </reviews>
+   <US_Gross>$459,095</US_Gross>
+   <weekend_gross>$46,730</weekend_gross>
+   <number_of_screens>5</number_of_screens>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

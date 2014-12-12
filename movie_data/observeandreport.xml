@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Observe and Report</name>
+   <company>Warner Bros. Pictures</company>
+   <genres>
+      <genre>Action</genre>
+      <genre>Comedy</genre>
+   </genres>
+   <authors>
+      <author>Jody Hill</author>
+   </authors>
+   <directors>
+      <director>Jody Hill</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Seth Rogen</actor>
+      <actor>Anna Faris</actor>
+      <actor>Michael Pena</actor>
+      <actor>Ray Liotta</actor>
+      <actor>Jesse Plemons</actor>
+   </actors>
+   <release_date>April 10, 2009</release_date>
+   <running_time>86</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>The superb character actor Celia Weston (In the Bedroom) is truly breathtaking as Ronnie's boozer mom.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20270917,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>Observe and Report is the rare "action-comedy" (almost always a muddled hybrid) that earns its cathartic climax. The blood is real because the psychosis is real. But somehow--the magic of comedy--it's also uproarious.</snippet>
+         <url>http://nymag.com/movies/reviews/55866/</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>You can't root for Ronnie. You can't identify with him. You can't hope he gets the girl – any girl. But you may want to look on with stunned fascination as he ticks away, ready to explode.</snippet>
+         <url>http://events.charlotteobserver.com/reviews/show/43710-review-observe-and-report</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>In a genuinely brave performance, Seth Rogen sheds his frat-boy comic styling and delivers an unflinching portrayal.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=11680</url>
+         <critic>Scott Mendelson</critic>
+      </review>
+      <review>
+         <snippet>The random and unpredictable nature makes it an extremely interesting film to watch.</snippet>
+         <url>http://www.premiere.com/Review/Movies/Observe-and-Report</url>
+         <critic>Rob Calvert</critic>
+      </review>
+      <review>
+         <snippet>It falls short of brilliant but it's a lot more daring than what passes for "dark comedy" these days, and it reminds us that "feel bad" comedies may not always be as funny as "feel good" ones but, when they work, they can ultimately be more satisfying.</snippet>
+         <url>http://www.reelviews.net/php_review_template.php?identifier=1571</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>This is one of those comedies where the humor lies in the audacity of tone and character rather than any particular sight gag or one-liner. Same with "The Foot Fist Way," which is absolutely worth your rental dollar.</snippet>
+         <url>http://www.oregonlive.com/movies/index.ssf/2009/04/review_the_mall_cop_goes_bad_o.html</url>
+         <critic>M. E. Russell</critic>
+      </review>
+      <review>
+         <snippet>Some movies strive to give you that warm, fuzzy feeling, and some strive to make you bawl your eyes out, but Observe and Report strives to make you feel ambivalent, confused, and a little bit dirty, and whether or not you find that enjoyable, it's not something you likely feel very often.</snippet>
+         <url>http://movies.tvguide.com/detail/movie.aspx?tvobjectid=297108&amp;more=ucmoviereview</url>
+         <critic>Cammila Albertson</critic>
+      </review>
+      <review>
+         <snippet>Funnier than the silliest comedy because it's surprisingly real.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2009/04/09/DDIU16VAKV.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>Admirable for venturing into very dark places rarely glimpsed in big-studio comedies.</snippet>
+         <url>http://www.nypost.com/seven/04102009/entertainment/movies/seth_rogens_got_malls__163703.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>Funny as hell.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/21376770/review/27182546/observe_and_report</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>As funny as it is sick (and it's plenty of both).</snippet>
+         <url>http://www.philly.com/philly/entertainment/movies/20090410_Mall-cop_comedy_with_a_sick_side.html</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>A feel-good ending is mandatory, even in a comedy like this, which promises to be transgressive because it's the first major-studio job for a director with an underground reputation for being crazy-bold.</snippet>
+         <url>http://www.time.com/time/arts/article/0,8599,1890378,00.html</url>
+         <critic>Richard Corliss</critic>
+      </review>
+      <review>
+         <snippet>While it stops before sliding too far into the darkness,Observe and Report hits a lot of bull's-eyes by aiming for the gut, not easy belly laugh.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2009/04/09/2009-04-09_mall_cop_flick_observe_and_report_is_seth_rogens_best_work.html</url>
+         <critic>Joe Neumaier</critic>
+      </review>
+      <review>
+         <snippet>Ronnie is more complex, and much scarier, than the kind of self-deluding boob auds usually encounter in comedies of this sort. With the invaluable aid of Rogen, who's never been better, Hill sustains an impressive degree of tension between seemingly contradictory elements.</snippet>
+         <url>http://www.variety.com/review/VE1117939886.html?categoryid=3479&amp;cs=1&amp;query=observe+and+report</url>
+         <critic>Joe Leydon</critic>
+      </review>
+      <review>
+         <snippet>Something of a cross between the formalist whimsy of Wes Anderson and the God's-lonely-man psychosis of "Taxi Driver," the film breaks all the rules, but the tonal schizophrenia that results isn't an accident.</snippet>
+         <url>http://www.avclub.com/articles/observe-and-report,26408/</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>The movie, starring Rogen as a mall cop with anger management issues, is essentially a goony romp flecked with disturbing eruptions of violence.</snippet>
+         <url>http://www.csmonitor.com/2009/0411/p17s04-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>Where "Mall Cop" is broad, safe and sticks to a formula, Observe and Report is unabashedly crude, cynical, off-kilter and funnier.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2009-04-09-observe-report_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>This new movie is crazier, scarier, funnier, and more bewildering. It's the strangest movie I expect to see from a Hollywood studio for the rest of the year.</snippet>
+         <url>http://www.boston.com/ae/movies/articles/2009/04/10/star_is_more_dirty_harry_than_teddy_bear_in_report/</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>Broad but thin and more bleak than uproarious--a humorously downsized homage to foundational '70s classics like "Dirty Harry" and, especially, "Taxi Driver."</snippet>
+         <url>http://www.villagevoice.com/2009-04-08/film/seth-rogen-wanders-another-shopper-s-paradise-in-observe-and-report/</url>
+         <critic>J. Hoberman</critic>
+      </review>
+      <review>
+         <snippet>An odd one. Rogen's latest clown is an angry, confused man who you never feel entirely comfortable laughing at. There are laughs -- you'll just feel guilty afterwards...</snippet>
+         <url>http://www.empireonline.com/reviews/reviewcomplete.asp?FID=136111</url>
+         <critic>Dan Jolin</critic>
+      </review>
+      <review>
+         <snippet>Cruel, unfunny and yet somehow perversely fascinating.</snippet>
+         <url>http://www.washingtonpost.com/gog/movies/observe-and-report,1156090.html</url>
+         <critic>John Anderson</critic>
+      </review>
+      <review>
+         <snippet>One of those comedies that is more peculiar than actually funny.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20090409.waobserve10/BNStory/Entertainment/home</url>
+         <critic>Liam Lacey</critic>
+      </review>
+      <review>
+         <snippet>Bobs and weaves between gross-out comedy and violent psychosexual drama, ultimately sliding into parody.</snippet>
+         <url>http://online.wsj.com/article/SB123931508054406587.html</url>
+         <critic>Joanne Kaufman</critic>
+      </review>
+      <review>
+         <snippet>What's meant (I think) to be a "f*** you" to action-movie conventions reads instead as a "f*** you" to the audience. Observe and Report tickets should come with a free breath mint, because however hard you've been laughing, that ending leaves a seriously bad taste in your mouth.</snippet>
+         <url>http://www.slate.com/id/2215812/</url>
+         <critic>Dana Stevens</critic>
+      </review>
+      <review>
+         <snippet>Barring a Terry Zwigoff return to "Bad Santa" territory, it's hard to imagine a filmmaker embracing this dubious hero to the extent writer-director Jody Hill does.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film-reviews/film-review-observe-and-report-1003952316.story</url>
+         <critic>John DeFore</critic>
+      </review>
+      <review>
+         <snippet>There's about 10 good minutes out of 85.</snippet>
+         <url>http://www.chicagotribune.com/entertainment/movies/chi-tc-mov-observe-report-0408-0apr10,0,95514.story</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>Observe and Report conveys an essential truth about Rogen: Like every other actor on the planet, he needs good material to do good work.</snippet>
+         <url>http://www.miamiherald.com/entertainment/movies/reviews/story/991573.html</url>
+         <critic>Connie Ogle</critic>
+      </review>
+      <review>
+         <snippet>Midway through, a character remarks as he leaves the scene of a takedown of Ronnie, "I thought this was going to be funny, but it's just kind of sad." The same thing is true about the movie as a whole.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A763713</url>
+         <critic>Marjorie Baumgarten</critic>
+      </review>
+      <review>
+         <snippet>Yes, the "Taxi Driver" parallels are intentional: Hill spells them out in the press notes, all but branding Observe and Report a Scorsesefied remake that reeks of stale Cinnabon.</snippet>
+         <url>http://www.dallasobserver.com/2009-04-09/film/observe-and-report-wait-a-minute-was-this-movie-supposed-to-be-funny/</url>
+         <critic>Robert Wilonsky</critic>
+      </review>
+      <review>
+         <snippet>I've observed this Seth Rogen comedy, and I can report that it's not very good.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/34261_OBSERVE_AND_REPORT.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>This film isn't the most awful comedy of the year (that would be Bride Wars or New in Town), but it may have the grossest antihero.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/reviews/bal-to.observe10apr10,0,6600003.story</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>It's possible Hill has a style, of sorts. But he doesn't work from the heart, or from the gut, as a good comedy director generally needs to. He operates from one guiding question: "How disturbing can we make this sh**?"</snippet>
+         <url>http://www.salon.com/ent/movies/review/2009/04/10/observe_report/index.html</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>If you thought Abu Ghraib was a laugh riot then you might love Observe and Report, a potentially brilliant conceptual comedy that fizzles because its writer and director, Jody Hill, doesn't have the guts to go with his spleen.</snippet>
+         <url>http://movies.nytimes.com/2009/04/10/movies/10obse.html?ref=movies</url>
+         <critic>Manohla Dargis</critic>
+      </review>
+      <review>
+         <snippet>It heaps piles of bad, crazy stuff at our feet then walks away. There is no moral to this story, and there's not much comedy either.</snippet>
+         <url>http://www.latimes.com/entertainment/la-et-observe10-2009apr10,0,1982270.story</url>
+         <critic>Betsy Sharkey</critic>
+      </review>
+   </reviews>
+   <US_Gross>$24,007,324</US_Gross>
+   <weekend_gross>$11,017,334</weekend_gross>
+   <number_of_screens>2,727</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

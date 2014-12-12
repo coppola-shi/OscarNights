@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Shaggy Dog, The</name>
+   <company>Buena Vista Pictures</company>
+   <genres>
+      <genre>Adventure</genre>
+      <genre>Comedy</genre>
+      <genre>FamilyKids</genre>
+      <genre>Fantasy</genre>
+   </genres>
+   <authors>
+      <author>Cormac Wibberley,Marianne Wibberley,Geoff Rodkey, Jack Amieland Michael Begler</author>
+   </authors>
+   <directors>
+      <director>Brian Robbins</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Tim Allen</actor>
+      <actor>Kristin Davis</actor>
+      <actor>Zena Grey</actor>
+      <actor>Spencer Breslin</actor>
+      <actor>Jane Curtin</actor>
+      <actor>Shawn Pyfrom</actor>
+      <actor>Jan Devereaux</actor>
+      <actor>Robert Downey Jr.</actor>
+      <actor>Danny Glover</actor>
+   </actors>
+   <release_date>March 10, 2006</release_date>
+   <running_time>98</running_time>
+   <rating>PG</rating>
+   <reviews>
+      <review>
+         <snippet>The star (Allen), unleashed, is so energetic in his approximation of a bearded collie -- his nose sniffing the air, his whole being (which toggles between human and canine form) overcome by the need to fetch any stick thrown -- that his slobbery charm carries the picture.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1171078_1_0_,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>As good as family entertainment gets.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2006/03/10/DDGKAHL0FD1.DTL&amp;type=movies</url>
+         <critic>Ruthe Stein</critic>
+      </review>
+      <review>
+         <snippet>What The Shaggy Dog feels like, more than anything, is an old-fashioned Disney movie.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=8175</url>
+         <critic>Louise Kennedy</critic>
+      </review>
+      <review>
+         <snippet>A fast-moving Walt Disney Co. comedy that manages to sail past many of the cliches usually found in this genre while throwing together a wild story line more apt for a new millennium.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1002116328</url>
+         <critic>Luke Sader</critic>
+      </review>
+      <review>
+         <snippet>Ms. Curtin is one of several examples of quirky casting that make this Shaggy Dog much more fun than it might have been.</snippet>
+         <url>http://www.nytimes.com/2006/03/10/movies/10shag.html?_r=1&amp;oref=slogin</url>
+         <critic>Neil Genzlinger</critic>
+      </review>
+      <review>
+         <snippet>May not make you howl, but it does offer a few bona fide belly laughs.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2006-03-09-shaggy-dog_x.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>Crafting this crude, noisy remake of Disney's first live-action comedy required the labor of no fewer than five screenwriters.</snippet>
+         <url>http://online.tvguide.com/movies/database/Movie-Review.asp?MI=46656</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>For a kids' picture this is relatively funny.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/29398_SHAGGY_DOG_ROBBINS.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>There are many delightful movie techniques out there available for making animals appear to speak, so it's too bad The Shaggy Dog doesn't use any of them.</snippet>
+         <url>http://www.nydailynews.com/03-10-2006/front/story/398557p-337583c.html</url>
+         <critic>Jami Bernard</critic>
+      </review>
+      <review>
+         <snippet>Strictly for the very young who will find giggles in the anthropomorphic mash-ups and won't be too distracted by the predictably mawkish sitcom plot.</snippet>
+         <url>http://www.calendarlive.com/movies/chocano/cl-et-shaggy10mar10,0,4806042.story</url>
+         <critic>Kevin Crust</critic>
+      </review>
+      <review>
+         <snippet>In this serviceable remake of the fondly remembered 1959 Disney comedy (which starred Fred MacMurray), an impressively dexterous Tim Allen plays Dave Douglas.</snippet>
+         <url>http://www.laweekly.com/film-reviews/12859/film-reviews/</url>
+         <critic>Chuck Wilson</critic>
+      </review>
+      <review>
+         <snippet>There are precious few surprises here, but parents will find director Robbins' breezy remake a painless affair and, judging by the yowls of laughter from the peanut gallery at the screening I attended, the kids will be barking all the way home.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A345379</url>
+         <critic>Marc Savlov</critic>
+      </review>
+      <review>
+         <snippet>It says something for Robert Downey Jr. that in a movie where a man becomes a dog, Downey creates the weirdest character.</snippet>
+         <url>http://www.rogerebert.com/apps/pbcs.dll/article?AID=/20060309/REVIEWS/60308004/1023</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>The extraordinary canine performances in Shaggy Dog and "Eight Below" lead me to wonder whether Disney could dispense with two-legged creatures altogether, until further notice.</snippet>
+         <url>http://ae.charlotte.com/entertainment/ui/charlotte/movie.html?id=554140&amp;reviewId=20308&amp;startDate=NEXT7</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>In movies as in life, superior technology doesn't necessarily trump humor, magic or really shaggy dogs.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-060310-movies-review-dog,0,6859559.story?coll=mmx-movies_top_heds</url>
+         <critic>Michael Wilmington</critic>
+      </review>
+      <review>
+         <snippet>This is precisely the type of moviegoing experience engineered for those who still get a laugh when the Baha Men hit "Who Let the Dogs Out?" accompanies a doggie mayhem montage.</snippet>
+         <url>http://ae.charlotte.com/entertainment/ui/charlotte/movie.html?id=554140&amp;reviewId=20296</url>
+         <critic>Peter Debruge</critic>
+      </review>
+      <review>
+         <snippet>The unruly pack of subplots make The Shaggy Dog much more convoluted than it needs to be. But Allen's physical comedy as man-becoming-dog, and his non-stop monologue as man-dog, are definitely worth a trip to the matinee.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/LAC.20060310.SHAGGY10/TPStory/TPEntertainment/</url>
+         <critic>Jennie Punter</critic>
+      </review>
+      <review>
+         <snippet>My eight-year-old nephew sat nearly silent throughout, so when he says he had fun, he must be talking about the treats.</snippet>
+         <url>http://www.villagevoice.com/film/0610,nelson,72460,20.html</url>
+         <critic>Rob Nelson</critic>
+      </review>
+      <review>
+         <snippet>This fur-fetched tale is bearable family viewing.</snippet>
+         <url>http://www.variety.com/review/VE1117929849?categoryid=31&amp;cs=1</url>
+         <critic>Justin Chang</critic>
+      </review>
+      <review>
+         <snippet>Feels like little more than a stale rehash with a promising cast whose talents haven't been tapped.</snippet>
+         <url>http://www.premiere.com/article.asp?section_id=2&amp;article_id=2663</url>
+         <critic>Jessica Letkemann</critic>
+      </review>
+      <review>
+         <snippet>Okay, so when does the fun start?</snippet>
+         <url>http://www.avclub.com/content/node/46117</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>As a comic actor, Allen's palette is limited to varying degrees of beige. He is not only boring, he's obnoxious and narcissistic. Where's the ASPCA -- the American Society for the Prevention of Cruelty to Audiences -- when you need 'em?</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1107262&amp;lat=200.0&amp;lon=200.0&amp;displaySearchLocation=&amp;nm=1&amp;categories=Movies</url>
+         <critic>Ann Hornaday</critic>
+      </review>
+      <review>
+         <snippet>The Shaggy Dog is paint, or more appropriately here, pant by the numbers. It also manages a one-two punch -- it will upset small children and bore their parents. There's just no other way to say this: Disney, that movie of yours is a dog.</snippet>
+         <url/>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>The movie is just this side of terrible. It misses all the charm and fun of the original. Allen's mugging is incorrigibly unfunny.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/262392_shaggy10q.html</url>
+         <critic>William Arnold</critic>
+      </review>
+      <review>
+         <snippet>Who let this dog out?</snippet>
+         <url>http://www.nypost.com/movies/64964.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+   </reviews>
+   <US_Gross>$61,123,569</US_Gross>
+   <production_budget>$60,000,000</production_budget>
+   <weekend_gross>$16,310,058</weekend_gross>
+   <number_of_screens>3,501</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

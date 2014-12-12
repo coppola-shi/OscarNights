@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Iron Island</name>
+   <company>Kino International Corp.</company>
+   <genres>
+      <genre>Drama</genre>
+      <genre>Foreign</genre>
+   </genres>
+   <authors>
+      <author>Mohammad Rasoulof</author>
+   </authors>
+   <directors>
+      <director>Mohammad Rasoulof</director>
+   </directors>
+   <origins>
+      <origin>Iran</origin>
+   </origins>
+   <actors>
+      <actor>Ali Nassirian</actor>
+      <actor>Hossein Farzi-Zadeh</actor>
+      <actor>Neda Pakdaman</actor>
+      <actor>Nemat</actor>
+   </actors>
+   <release_date>March 31, 2006</release_date>
+   <running_time>90</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>Director Mohammad Rasoulof has fashioned the ultimate metaphor for a society adrift from its culture.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/278283_limited21.html</url>
+         <critic>Sean Axmaker</critic>
+      </review>
+      <review>
+         <snippet>All in all, a harrowing, one-of-a-kind movie.</snippet>
+         <url>http://www.csmonitor.com/2006/0421/p14s05-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>A powerful symbolic drama.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-060623-movies-review-island,0,6325049.story?coll=mmx-movies_top_heds</url>
+         <critic>Michael Wilmington</critic>
+      </review>
+      <review>
+         <snippet>Mohammad Rasoulof's heartfelt and darkly comic second feature proves beyond any doubt that Iranian film is still alive and well, despite waning Western interest in one of the world's richest contemporary cinemas.</snippet>
+         <url>http://online.tvguide.com/movies/database/Movie-Review.asp?MI=46791</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>Richly detailed -- and improbably entertaining.</snippet>
+         <url/>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>A thrilling example of the cunning political allegory woven into vivid concretism that invigorates contemporary Iranian cinema, Mohammad Rasoulof's Iron Island takes as its monumental central image a sinking ship, symbol of decaying autocracy and the faint hope of liberation.</snippet>
+         <url>http://www.laweekly.com/film+tv/film-reviews/film-reviews/13252/</url>
+         <critic>Ella Taylor</critic>
+      </review>
+      <review>
+         <snippet>This is not a typical Iranian production. Simultaneously deeply allegorical and concretely physical, this striking film is not a typical production, period.</snippet>
+         <url>http://www.calendarlive.com/movies/turan/cl-et-island21apr21,0,1472843.story</url>
+         <critic>Kenneth Turan</critic>
+      </review>
+      <review>
+         <snippet>Like the great Iranian filmmakers, Rasoulof has no use for the artificiality of heightened drama.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=8801</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>A potent social allegory told with humor and mystery.</snippet>
+         <url>http://sfgate.com/cgi-bin/article.cgi?f=/c/a/2006/06/30/DDGIJJM7LD1.DTL#flick2</url>
+         <critic>Walter Addiego</critic>
+      </review>
+      <review>
+         <snippet>Iron Island is at its most compelling early, as Rasoulof explores his human-scaled ant farm, detailing how people make lives for themselves in cramped quarters, using cardboard partitions and jerry-rigged appliances.</snippet>
+         <url>http://www.avclub.com/content/node/46831</url>
+         <critic>Noel Murray</critic>
+      </review>
+      <review>
+         <snippet>Sparse of plot, Iron Island is visually rich, thanks to cinematographer Reza Jalai. The final scene is especially stunning.</snippet>
+         <url>http://www.nypost.com/movies/66296.htm</url>
+         <critic>V.A. Musetto</critic>
+      </review>
+      <review>
+         <snippet>Less consumed by behavioral details than many of his filmmaking compatriots, Mr. Rasoulof makes bold use of symbolic imagery - a satellite television is confiscated and tossed overboard - suggesting that utopias inevitably come at the price of isolation and authoritarianism.</snippet>
+         <url>http://movies2.nytimes.com/2006/03/27/movies/27iron.html</url>
+         <critic>Dave Kehr</critic>
+      </review>
+      <review>
+         <snippet>Stalwart Iranian actor Ali Nasirian plays Nemat with a thoughtful hubris, uniting the various plot strands by force of character.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1002346118</url>
+         <critic>Richard James Havis</critic>
+      </review>
+      <review>
+         <snippet>A fascinating allegory of modern-day Iran.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/29938_IRON_ISLAND.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>Well-photographed and adequately directed and acted, Iron Island is (painless) propaganda, informing us about domestic peace and goodwill. And this film, too, leaves us with a question: why does the currently aggressive Iran want the world, especially our chunk of it, to see what it is "really" like?</snippet>
+         <url>http://www.tnr.com/doc.mhtml?i=20060424&amp;s=kauffmann042406</url>
+         <critic>Stanley Kauffmann</critic>
+      </review>
+      <review>
+         <snippet>Depending on one's mood, the movie might seem boldly simplified and poetic--or boringly simpleminded and prosaic.</snippet>
+         <url>http://www.villagevoice.com/film/0613,hoberman,72679,20.html</url>
+         <critic>J. Hoberman</critic>
+      </review>
+   </reviews>
+   <US_Gross>$27,177</US_Gross>
+   <weekend_gross>$3,093</weekend_gross>
+   <number_of_screens>3</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>La Petite Jerusalem</name>
+   <company>Kino International</company>
+   <genres>
+      <genre>Foreign</genre>
+   </genres>
+   <authors>
+      <author>Karin Albou</author>
+   </authors>
+   <directors>
+      <director>Karin Albou</director>
+   </directors>
+   <origins>
+      <origin>France</origin>
+   </origins>
+   <actors>
+      <actor>Fanny Valette</actor>
+      <actor>Elsa Zylberstein</actor>
+      <actor>Bruno Todeschini</actor>
+      <actor>Hedi Tillette de Clermont-Tonnerre</actor>
+      <actor>Sonia Tahar</actor>
+      <actor>Michaël Cohen</actor>
+      <actor>Aurore Clément</actor>
+      <actor>François Marthouret</actor>
+      <actor>Saïda Bekkouche</actor>
+      <actor>Salah Teskouk</actor>
+   </actors>
+   <release_date>January 27, 2006</release_date>
+   <running_time>97</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>Beautifully played by Valette and Zylberstein, and directed with amazing grace by Albou, this touching film offers a respectful, fascinating look at a community that's ignored as often as it's misunderstood.</snippet>
+         <url>http://online.tvguide.com/movies/database/ShowMovie.asp?MI=46689</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>The sensuality is never salacious, merely curious, and the message is empowering ... at least within the confines of the insular community.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/269870_limited12.html</url>
+         <critic>Sean Axmaker</critic>
+      </review>
+      <review>
+         <snippet>Philosophy and religion become entangled with love and sex in Karin Albou's intelligent, sensual drama.</snippet>
+         <url>http://www.calendarlive.com/movies/cl-et-petite5may05,0,4879412.story</url>
+         <critic>Kevin Crust</critic>
+      </review>
+      <review>
+         <snippet>Albou's chosen a touchy subject, which she treats sensitively. Her mature script is complemented by heartfelt turns by Fanny Valette as Laura and Elsa Zylberstein as Mathilde.</snippet>
+         <url>http://www.nypost.com/movies/62353.htm</url>
+         <critic>V.A. Musetto</critic>
+      </review>
+      <review>
+         <snippet>The film, both light-hearted and serious, suggests that freedom comes more easily within restrictions--and that's true of Albou's approach as well.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-060505-movies-review-jerusalem,0,3530112.story?coll=mmx-movies_top_heds</url>
+         <critic>Michael Wilmington</critic>
+      </review>
+      <review>
+         <snippet>Absorbing tale of coming of age in a multi-ethnic Paris suburb.</snippet>
+         <url>http://www.laweekly.com/film+tv/film-reviews/film-reviews/13430/</url>
+         <critic>Ella Taylor</critic>
+      </review>
+      <review>
+         <snippet>For the first full hour, as we're guided inside privacies of culture and consciousness, Ms. Albou sustains her rich and gently intoxicating mode of storytelling, a feat all the more admirable in light of the overly schematic script.</snippet>
+         <url>http://movies2.nytimes.com/2006/01/27/movies/27peti.html</url>
+         <critic>Nathan Lee</critic>
+      </review>
+      <review>
+         <snippet>Stylish and well-observed while ultimately not adding up to very much.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1001995986</url>
+         <critic>Frank Scheck</critic>
+      </review>
+      <review>
+         <snippet>In what is arguably her best performance since "Van Gogh," Zylberstein brings Mathilde to life with grace and fervor.</snippet>
+         <url>http://www.variety.com/review/VE1117927138?categoryid=1929&amp;cs=1&amp;s=h&amp;p=0</url>
+         <critic>Lisa Nesselson</critic>
+      </review>
+      <review>
+         <snippet>The film strains under the influence of too many philosophy texts.</snippet>
+         <url>http://www.villagevoice.com/film/0604,aviv,71918,20.html</url>
+         <critic>Rachel Aviv</critic>
+      </review>
+      <review>
+         <snippet>It would be hard to imagine a filmmaking style as serious yet lazy as the earnest vérité bobbing and weaving employed by La Petite Jérusalem.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1155172_1_0_,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>Writer-director Karin Albou nicely balances intellect against spirituality but is defeated by the sex scenes, which are tinged with an Orientalist exoticism; the result is a bodice-ripper for the art-house crowd.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/29754_PETITE_JERUSALEM.html</url>
+         <critic>Andrea Gronvall</critic>
+      </review>
+      <review>
+         <snippet>Understandably, a script so obsessed with the dark doings of plot has little time left over for the study of character, and, thus, we never really get to know these people.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/LAC.20060519.LITTLE19/TPStory/TPEntertainment/Movies/</url>
+         <critic>Rick Groen</critic>
+      </review>
+   </reviews>
+   <US_Gross>$53,580</US_Gross>
+   <weekend_gross>$4,649</weekend_gross>
+   <number_of_screens>1</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

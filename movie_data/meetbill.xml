@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Meet Bill</name>
+   <company>First Look Pictures</company>
+   <genres>
+      <genre>Comedy</genre>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author>Melisa Wallack</author>
+   </authors>
+   <directors>
+      <director>Bernie Goldmann</director>
+      <director>Melisa Wallack</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Aaron Eckhart</actor>
+      <actor>Jessica Alba</actor>
+      <actor>Elizabeth Banks</actor>
+      <actor>Timothy Olyphant</actor>
+      <actor>Logan Lerman</actor>
+      <actor>Marisa Coughlan</actor>
+   </actors>
+   <release_date>April 4, 2008</release_date>
+   <running_time>97</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>Meet Bill is a typical storyline given new life by an overabundance of antic energy.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A617543</url>
+         <critic>Josh Rosenblatt</critic>
+      </review>
+      <review>
+         <snippet>After a promising start, this quirky comedy falls flat despite Eckhart's best efforts.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?&amp;rid=9833</url>
+         <critic>Michael Rechtshaffen</critic>
+      </review>
+      <review>
+         <snippet>For those whose idea of hilarity is an adult and a kid throwing fireworks at each other, then getting stoned and playing piggyback in the mall, this movie should be a refreshing tonic.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/364175_meet23q.html</url>
+         <critic>Bill White</critic>
+      </review>
+      <review>
+         <snippet>A labored screwball comedy about disenchanted people of privilege yearning for fulfillment, pic is full of leaden hijinx directed and played with all the subtlety of a myocardial infarction.</snippet>
+         <url>http://www.variety.com/review/VE1117934717.html?categoryid=31&amp;cs=1&amp;p=0</url>
+         <critic>Eddie Cockrell</critic>
+      </review>
+      <review>
+         <snippet>Harnessing mostly fine actors to a wholly asinine script, the directors, Melisa Wallack and Bernie Goldmann, have created a movie as spineless and dithering as its benighted namesake.</snippet>
+         <url>http://movies.nytimes.com/2008/05/09/movies/09bill.html?ref=movies</url>
+         <critic>Jeannette Catsoulis</critic>
+      </review>
+      <review>
+         <snippet>Even a hilarious turn by Kristen Wiig as the owner of a doughnut company can't save this clichéd, meandering story from playing like "American Beauty" lite.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20198415,00.html</url>
+         <critic>Loren Lankford</critic>
+      </review>
+      <review>
+         <snippet>Is Meet Bill the worst movie ever? Probably not, but it's certainly incoherent enough to give "Gigli" a run for its money.</snippet>
+         <url>http://www.laweekly.com/film+tv/film-reviews/movie-reviews-the-happening-poultrygeist-savage-grace/19092/</url>
+         <critic>Julia Wallace</critic>
+      </review>
+      <review>
+         <snippet>It isn't any good.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-capsules13-2008jun13,0,5996091.story</url>
+         <critic>Mark Olsen</critic>
+      </review>
+   </reviews>
+   <US_Gross>$59,108</US_Gross>
+   <weekend_gross>$35,201</weekend_gross>
+   <number_of_screens>36</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

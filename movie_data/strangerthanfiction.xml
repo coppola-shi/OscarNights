@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Stranger Than Fiction</name>
+   <company>Columbia Pictures / Sony Pictures Entertainment</company>
+   <genres>
+      <genre>Comedy</genre>
+      <genre>Drama</genre>
+      <genre>Fantasy</genre>
+      <genre>Romance</genre>
+   </genres>
+   <authors>
+      <author>Zach Helm</author>
+   </authors>
+   <directors>
+      <director>Marc Forster</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Will Ferrell</actor>
+      <actor>Maggie Gyllenhaal</actor>
+      <actor>Queen Latifah</actor>
+      <actor>Dustin Hoffman</actor>
+      <actor>Emma Thompson</actor>
+   </actors>
+   <release_date>November 10, 2006</release_date>
+   <running_time>113</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>In a feat of performing imagination, Ferrell turns his usual extroversion inside out and his usual zaniness into precision, and makes it all work for him.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-to.stranger10nov10,0,6821846.story?coll=bal-movies-utility</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>Stranger Than Fiction is slicker than Kaufman's work - and Forster's direction is certainly more studio-ish than Kaufman collaborators Spike Jonze's or Michel Gondry's. But it's a clever idea, and you feel a little smarter watching the thing unfurl.</snippet>
+         <url>http://ae.philly.com/entertainment/ui/philly/movie.html?id=746965&amp;reviewId=21770</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>What a thoughtful film this is, and how thought-stirring.  Marc Forster's Stranger Than Fiction comes advertised as a romance, a comedy, a fantasy, and it is a little of all three, but it's really a fable, a "moral tale."</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20061109/REVIEWS/611090301</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>Stranger than Fiction is a wonderful cinematic experience - a welcome way to spend a chilly autumn evening.</snippet>
+         <url>http://www.reelviews.net/movies/s/stranger_fiction.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>Maybe the best thing about Stranger Than Fiction is the way it extracts unexpected work from underrated actors.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/1163037347163610.xml&amp;coll=7</url>
+         <critic>M. E. Russell</critic>
+      </review>
+      <review>
+         <snippet>It might be Charlie Kaufman lite, but this is a great date movie for the discerning -- smart, ingenious and heartwarming.</snippet>
+         <url>http://www.empireonline.com/reviews/review.asp?FID=133835</url>
+         <critic>Ian Freer</critic>
+      </review>
+      <review>
+         <snippet>In a film that easily could have been cold or ironical, Ferrell provides the emotional thrust.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2006/11/10/DDGNMM87HI1.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>Intricately plotted without being contrived and exhilarating in its eccentricity.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2006-11-09-stranger-than-fiction-review_x.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>With a track record that stretches from "Monster's Ball" all the way to "Finding Neverland," Forster is clearly a director at ease with a wide range of material. He's found confection-land here, setting his beater on ready-whip and mixing the dough just fine.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20061110.wstranger10/BNStory/Entertainment/home</url>
+         <critic>Rick Groen</critic>
+      </review>
+      <review>
+         <snippet>Stranger Than Fiction may not be the typical crowd-pleaser, but it's a sweet, funny, intelligent film that showcases just how much Ferrell can do, even when he's doing less.</snippet>
+         <url>http://ae.miami.com/entertainment/ui/miami/movie.html?id=746965&amp;reviewId=21791</url>
+         <critic>Connie Ogle</critic>
+      </review>
+      <review>
+         <snippet>It has a nifty premise and outstanding performances from Ferrell, as the protagonist-in-progress, and Emma Thompson, as his blocked creator.</snippet>
+         <url>http://www.nydailynews.com/11-10-2006/front/story/470091p-395457c.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>Foster finds the common ground on which his eclectic cast can meet (no small feat when they range from brassy Queen Latifah to "Arrested Development"'s deadpan Tony Hale) and keeps the story's sweetness from devolving into saccharine kitsch.</snippet>
+         <url>http://tvguide.com/detail/movie.aspx?tvobjectid=284028&amp;more=ucmoviereview</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>When Ferrell and Hoffman do their thing together, a charming bit of whimsy becomes something more. It becomes really, really funny.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-061006-movies-review-fiction,0,6889620.story</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>This is a Ferrell you've never seen before, nailing a role that calls for breakneck humor in the final race against the clock and touching gravity in the love scenes with Gyllenhaal.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/7601796/review/12308730/stranger_than_fiction</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>Amid all this metafictional hoopla lies the real heart of the movie, a tentative romance between Ferrell and a tax-withholding baker played with adorable prickliness by Maggie Gyllenhaal.</snippet>
+         <url>http://www.avclub.com/content/node/55098</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>A refreshingly grown-up comedy, "Stranger" is a charming film that is unafraid to be low-key in ways that studio releases seldom are.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-stranger10anov10,0,4155442.story</url>
+         <critic>Kevin Crust</critic>
+      </review>
+      <review>
+         <snippet>It's soon apparent that a closer model for this charming romantic comedy is "Bell, Book and Candle." The direction by Marc Forster (Monster's Ball) is so fluffy it's easy to drift along and ignore the logical lapses.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/30365_STRANGER_THAN_FICTION.html</url>
+         <critic>Jonathan Rosenbaum</critic>
+      </review>
+      <review>
+         <snippet>Pulls us along in a state of pleasant expectation.</snippet>
+         <url/>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>While Stranger Than Fiction traffics in a bit of darkly funny existential anxiety, it also finds room for romantic fantasy and sentimental uplift.</snippet>
+         <url>http://movies2.nytimes.com/2006/11/10/movies/10fict.html</url>
+         <critic>A.O. Scott</critic>
+      </review>
+      <review>
+         <snippet>An oddly sweet little tale, and easily Ferrell’s most enjoyable movie in recent memory. And even though his onscreen chemistry with Gyllenhaal fills me with murderous rage, this film goes a long way towards erasing the memory of his more obnoxious roles.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=9415</url>
+         <critic>Pete Vonder Haar</critic>
+      </review>
+      <review>
+         <snippet>Sometimes becomes too self-consciously clever, and it doesn't entirely resolve its own central dilemma. But it remains inventive and funny to the end, features fine performances from Will Ferrell and especially Emma Thompson.</snippet>
+         <url>http://www.variety.com/awardcentral_review/VE1117931559.html?nav=reviews07&amp;categoryid=2352&amp;cs=1&amp;p=0</url>
+         <critic>Todd McCarthy</critic>
+      </review>
+      <review>
+         <snippet>A more sensitive Ferrell in a script that plays like Charlie Kaufman Lite: that should send up breakthrough and Oscar signals. It doesn't quite, though. The movie is clever, but a little too pleased with its own clockwork intricacy.</snippet>
+         <url>http://www.time.com/time/magazine/article/0,9171,1555116,00.html</url>
+         <critic>Richard Corliss</critic>
+      </review>
+      <review>
+         <snippet>Teems with ideas both literary and existential, which might make it unbearably precious, were it not redeemed by woozy charm and some serious acting from Will Ferrell.</snippet>
+         <url>http://www.laweekly.com/film+tv/film/hearing-voices/14980/</url>
+         <critic>Ella Taylor</critic>
+      </review>
+      <review>
+         <snippet>In practice, "Fiction" isn't nearly that unusual. Less like "Adaptation" than a smarter version of "Click," the picture pleases while remaining unchallenging to a broad audience.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?&amp;rid=8221</url>
+         <critic>John DeFore</critic>
+      </review>
+      <review>
+         <snippet>Like Jim Carrey, Ferrell seems to think that the way to be taken seriously as a dramatic actor is to drain himself of everything that audiences love about him.</snippet>
+         <url>http://www.csmonitor.com/2006/1110/p12s03-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>A good movie but not a great one, Stranger Than Fiction is reminiscent of the films of Charlie Kaufman (Adaptation, Eternal Sunshine of the Spotless Mind) but lacks that writer's conceptual rigor and imaginative power.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A417467</url>
+         <critic>Josh Rosenblatt</critic>
+      </review>
+      <review>
+         <snippet>An eminently easy-to-watch piece of one-joke pop japery, is a movie that mimics the I'm-a-character-in-my-own-life metaphysical playfulness of "The Truman Show."</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1556499_1_0_,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>A boldly original undertaking: It's the first movie ever to come up with the idea of remaking "The Truman Show."</snippet>
+         <url>http://www.nypost.com/seven/11102006/entertainment/movies/not_so_novel_movies_kyle_smith.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>With its twist, the movie leaps into a fresh realm of fantasy. But director Marc Forster and first-time screenwriter Zach Helm don't know what to do when they get there, and the film's greatest asset almost becomes its undoing.</snippet>
+         <url>http://ae.charlotte.com/entertainment/ui/charlotte/movie.html;jsessionid=AC1F2E27214534C9E3B8AE5F82C3748A.prodapp15_ae_01?id=746965&amp;reviewId=21764</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>The picture is an overworked trifle: There's so much going on in it that it becomes hard to care about ANYTHING that's going on in it. The story in Stranger Than Fiction is stranger than fiction. But what good is it if it's unreadable?</snippet>
+         <url>http://www.salon.com/ent/movies/review/2006/11/10/stranger/index.html</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>Stranger Than Fiction merely layers whimsy upon whimsy. As written, Harold Crick is no more convincing a human being than he is an IRS agent; Kay Eiffel's writing, supposedly good enough to inspire the career-long devotion of a literature professor (Dustin Hoffman), sounds as dully declamatory as movie-trailer narration.</snippet>
+         <url>http://www.villagevoice.com/film/0645,ridley,74954,20.html</url>
+         <critic>Jim Ridley</critic>
+      </review>
+      <review>
+         <snippet>Seems to suffer from low self-esteem. Why can't this movie see that it doesn't need a hulking meta-narrative apparatus to make us care about its story? It had us at hello--or would have, if not for the excess of high-concept trickery.</snippet>
+         <url>http://www.slate.com/id/2153355</url>
+         <critic>Dana Stevens</critic>
+      </review>
+      <review>
+         <snippet>There's a problem: This romance isn't developed enough to be truly satisfying -- it's fat-free SnackWell's when you want Godiva. It's not the original story we signed up for -- or thought we did.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1115182&amp;categories=Movies&amp;nm=1</url>
+         <critic>Desson Thomson</critic>
+      </review>
+      <review>
+         <snippet>The bad news is that Ferrell's modestly likable performance is the ONLY good thing about this misguided comedy that's so tiresomely written, badly acted by a stellar cast and ploddingly directed (by art-house whiz Marc Forster) that it just never quite gets off the ground.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/291783_fiction10q.html</url>
+         <critic>William Arnold</critic>
+      </review>
+      <review>
+         <snippet>Watching the movie made me long for the big , risky ideas and entertainingly fearless filmmaking in David O. Russell's "I Heart Huckabees " and Spike Jonze's "Adaptation ," which Kaufman wrote. Both were similarly conceptual escapades, but they let it all hang out.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=8458</url>
+         <critic>Wesley Morris</critic>
+      </review>
+   </reviews>
+   <US_Gross>$40,435,190</US_Gross>
+   <production_budget>$30,000,000</production_budget>
+   <weekend_gross>$13,411,093</weekend_gross>
+   <number_of_screens>2,264</number_of_screens>
+   <oscar_winning_actors_present/>
+   <num_oscar_winning_actors>2</num_oscar_winning_actors>
+   <oscar_winning_actor>emma thompson</oscar_winning_actor>
+   <oscar_winning_actor>dustin hoffman</oscar_winning_actor>
+   <highest_grossing_actors_present/>
+   <num_highest_grossing_actors>1</num_highest_grossing_actors>
+   <highest_grossing_actor>dustin hoffman</highest_grossing_actor>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

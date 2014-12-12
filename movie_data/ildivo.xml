@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Il Divo</name>
+   <company>MPI Media Group</company>
+   <genres>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author>Paolo Sorrentino</author>
+   </authors>
+   <directors>
+      <director>Paolo Sorrentino</director>
+   </directors>
+   <origins>
+      <origin>Italy</origin>
+      <origin>France</origin>
+   </origins>
+   <actors>
+      <actor>Anna Bonaiuto</actor>
+      <actor>Toni Servillo</actor>
+      <actor>Piera Degli Esposti</actor>
+      <actor>Giulio Bosetti</actor>
+   </actors>
+   <release_date>April 24, 2009</release_date>
+   <running_time>110</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>An intensely political film so wildly inventive and witty that it will become a touchstone for years to come, Il Divo is a masterpiece for maverick helmer-scribe Paolo Sorrentino.</snippet>
+         <url>http://www.variety.com/review/VE1117937270.html?categoryid=31&amp;cs=1&amp;query=Il+divo</url>
+         <critic>Jay Weissberg</critic>
+      </review>
+      <review>
+         <snippet>You need know nothing about Italian politics to completely enjoy the fantastical, Fellini-fied, tragi-comic, biographical fun-for-all Il Divo.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20275488,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>Simultaneously exhilarating and confounding, dazzling and confusing, this is filmmaking of such verve and style that you likely won't care that you can't follow it completely.</snippet>
+         <url>http://www.latimes.com/entertainment/news/la-et-divo1-2009may01,0,4878546.story</url>
+         <critic>Kenneth Turan</critic>
+      </review>
+      <review>
+         <snippet>The frequently outrageous Il Divo follows the career of one of the best-known and most tenacious figures in Italian political history in a lively, sensory-overload, cartoonlike fashion reminiscent of "Amelie" and "Moulin Rouge." The fact that it's often over-the-top goes with saying, and is part of the fun.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?rid=11177</url>
+         <critic>Peter Brunette</critic>
+      </review>
+      <review>
+         <snippet>The highly stylized, often outrageously funny biopic is anchored by a devastating performance by Toni Servillo as Andreotti, brilliantly capturing the gnomic politician's trademark slouch and inexpressive face.</snippet>
+         <url>http://www.nypost.com/seven/04242009/entertainment/movies/the_untouchable_165857.htm</url>
+         <critic>V.A. Musetto</critic>
+      </review>
+      <review>
+         <snippet>All in all, this phenomenal film illustrates Alexis de Tocqueville's observation that "The people get the government they deserve." In both meanings of the word, Il Divo is sensational.</snippet>
+         <url>http://www.philly.com/philly/entertainment/movies/20090605_A_comic__tragic_portrait_of_a_powerful_Italian_politician.html</url>
+         <critic>Carrie Rickey</critic>
+      </review>
+      <review>
+         <snippet>The film proceeds like a black comedy version of "The Godfather," crossed with Oliver Stone’s "Nixon."</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20090708/REVIEWS/907089993</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>Anyone suggesting that an Italian film could rival the style and grandeur of "The Godfather" might end up sleeping with the fishes. But Il Divo delivers.</snippet>
+         <url>http://www.stltoday.com/stltoday/entertainment/reviews.nsf/movie/story/F4991D66AD27F68D8625762C00693575?OpenDocument</url>
+         <critic>Joe Williams</critic>
+      </review>
+      <review>
+         <snippet>As operatic cinema, it ranks alongside the best of Martin Scorsese and Francis Ford Coppola.</snippet>
+         <url>http://movies.nytimes.com/2009/04/24/movies/24divo.html</url>
+         <critic>Stephen Holden</critic>
+      </review>
+      <review>
+         <snippet>Consume with great caution, and with joy.</snippet>
+         <url>http://www.newyorker.com/arts/critics/cinema/2009/05/04/090504crci_cinema_lane</url>
+         <critic>Anthony Lane</critic>
+      </review>
+      <review>
+         <snippet>Il Divo plays like an elegantly ritualized black comedy.</snippet>
+         <url>http://www.villagevoice.com/2009-04-22/film/il-divo-follows-the-opaque-path-of-giulio-andreotti/</url>
+         <critic>Ella Taylor</critic>
+      </review>
+      <review>
+         <snippet>Fortunately, there's always the fascination of watching actor Toni Servillo, who does a brilliant job of playing Andreotti (known as Beelzebub) as a kind of devil with a clown's exterior.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20080902.wtiff_minireviews/BNStory/tiff2008/home/?pageRequested=all</url>
+         <critic>Liam Lacey</critic>
+      </review>
+      <review>
+         <snippet>We see the tormented, limited and potentially dangerous man underneath.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2009/05/14/MV6S17J492.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>Il Divo is showboat moviemaking, but the opulence is of a piece with the film's damning assessment of the durable Italian elder statesman Giulio Andreotti.</snippet>
+         <url>http://www.boston.com/ae/movies/articles/2009/06/05/il_divo_a_dazzlingly_grim_look_at_corruption_greed/</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>Sorrentino is a spectacularly inventive talent and has harnessed an astounding performance from Servillo.</snippet>
+         <url>http://blog.oregonlive.com/madaboutmovies/2009/06/review_going_after_italys_fox.html</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>Instead of a modern classic, able to travel the globe with ease, Il Divo is merely a wonderfully cast, tonally assured achievement, with a uniquely strange tour de force at its core.</snippet>
+         <url>http://www.chicagotribune.com/entertainment/movies/chi-0710-il-divo-reviewjul10,0,5726088.story</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>Through Sorrentino's lens, Andreotti's chief lieutenants are made to look like Reservoir Dogs, with Andreotti as a calm, tight-lipped, upper-crust analog to Lawrence Tierney.</snippet>
+         <url>http://www.avclub.com/articles/il-divo,27061/</url>
+         <critic>Scott Tobias</critic>
+      </review>
+   </reviews>
+   <US_Gross>$239,294</US_Gross>
+   <weekend_gross>$13,867</weekend_gross>
+   <number_of_screens>2</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

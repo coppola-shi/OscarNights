@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>El Cantante</name>
+   <company>Picturehouse Entertainment</company>
+   <genres>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author>David Darmstaeder</author>
+      <author>Todd Bello</author>
+      <author>Leon Ichaso</author>
+   </authors>
+   <directors>
+      <director>Leon Ichaso</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Jennifer Lopez</actor>
+      <actor>Marc Anthony</actor>
+   </actors>
+   <release_date>August 3, 2007</release_date>
+   <running_time>116</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>Anthony doesn't have a large emotional range as an actor, and neither does Lopez. Still, the musical numbers, which constitute a hefty portion of screen time, are thrilling.</snippet>
+         <url>http://www.csmonitor.com/2007/0803/p14s01-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>A special film, one that refuses to package a person's life into a comfortably familiar genre.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/326152_whelcantante03.html</url>
+         <critic>Bill White</critic>
+      </review>
+      <review>
+         <snippet>It's a soaring, crashing, blazing affair with pyrotechnic performances by real-life spouses Marc Anthony and Jennifer Lopez as Lavoe and his wife, Puchi. Like a plane disaster, it holds you in thrall of ¡ay, Dios mio! drama.</snippet>
+         <url>http://www.philly.com/philly/entertainment/movies/20070803_A_fearless_Lopez__an_electrifying_Anthony.html</url>
+         <critic>Carrie Rickey</critic>
+      </review>
+      <review>
+         <snippet>A star isn't born in El Cantante as much as it's reconfirmed. She's still here, and she's still got it.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1133392&amp;categories=Movies&amp;nm=1</url>
+         <critic>Ann Hornaday</critic>
+      </review>
+      <review>
+         <snippet>The music is the uncontested highlight of El Cantante.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2007-08-02-el-cantante_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>Biopic cliches hamstring producer-star Jennifer Lopez's pet project.</snippet>
+         <url>http://www.tvguide.com/movies/el-cantante/review/288610</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>The awkwardly told story of salsa legend Hector Lavoe, El Cantante doesn't even get the title right: It should have been called "La Esposa," since it's really less about the singer than his wife.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2007/08/03/2007-08-03_strugglingsinger_epic_hits_mostly_jlo_no.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>A sizzling soundtrack and Jennifer Lopez's best performance since "Out of Sight" go only so far in El Cantante, a downer of a musical biopic that leaves no cliché unturned.</snippet>
+         <url>http://www.nypost.com/seven/08032007/entertainment/movies/real_j_lo_downer_movies_lou_lumenick.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>If you're a fan of Hector Lavoe and Latin music, or Lopez and Anthony, you'll want to see El Cantante for what's good in it. Otherwise, you may be disappointed. The director (Leon Ichaso) and his co-writers haven't licked a crucial question: Why do we need to see this movie and not just listen to the music?</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20070802/REVIEWS/708020303</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>"Everybody loved him. One woman understood him," goes the ad line. But the movie makes you wonder how anyone could love this screw-up and why anyone would have a problem understanding him.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/reviews/bal-to.cantante03aug03,0,7497954.story</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>Ideally, it would give you a sense of an entire people knocking the planet off its axis with a shake of their hips. If only El Cantante were that movie. Instead, it's a curiously sludgy cross between a Doomed Star biopic and a J. Lo vanity project.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=9965</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>It may be best to approach El Cantante less as a movie than as a two-hour promotional video for a must-have soundtrack album.</snippet>
+         <url>http://movies.nytimes.com/2007/08/03/movies/03cant.html?ref=movies</url>
+         <critic>A.O. Scott</critic>
+      </review>
+      <review>
+         <snippet>Unfortunately, the music is as irresistible as the tired story of a musician succumbing to substance abuse is resistible.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/imdb/reviews/article_display.jsp?rid=1003123113&amp;vnu_special_account_code=thrsiteimdbpro</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>Anthony, with his famished thousand-yard stare, turns in a delicate -- perhaps too delicate -- performance more informed by the shadow of Lavoe's death than the spark of his art. And his shrill domestic scenes with Lopez feel small and squalid, as we wait restlessly for the band to play us out.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20049512,00.html</url>
+         <critic>Scott Brown</critic>
+      </review>
+      <review>
+         <snippet>Turns out to be nothing special. Well, the music is. The storytelling is not.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-070803-movies-review-cantante,0,6129662.story?coll=mmx-movies_top_heds</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>Anthony delivers a respectable performance, but his character never comes into sharp focus. Consequently, Lavoe emerges as a supporting character in his own story.</snippet>
+         <url>http://www.avclub.com/content/cinema/el_cantante</url>
+         <critic>Nathan Rabin</critic>
+      </review>
+      <review>
+         <snippet>It's whenever the music stops that the movie runs into trouble.</snippet>
+         <url>http://www.miamiherald.com/entertainment/movies/story/190181.html</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>Lopez can't decide if she's playing Lavoe's victim or enabler -- the movie sort of half blames her -- and neither of her characters is likable. The music's lovely, though.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/118601254496641.xml&amp;coll=7</url>
+         <critic>M. E. Russell</critic>
+      </review>
+      <review>
+         <snippet>A virtual template of every imaginable cliche of the musical biopic, picture suffers from a lack of narrative and character focus</snippet>
+         <url>http://www.variety.com/review/VE1117931648.html?categoryid=31&amp;cs=1&amp;p=0</url>
+         <critic>Robert Koehler</critic>
+      </review>
+      <review>
+         <snippet>Unfortunately, there's little more than formula in Ichaso's El Cantante.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A509479</url>
+         <critic>Marjorie Baumgarten</critic>
+      </review>
+      <review>
+         <snippet>Before long, El Cantante disintegrates into a stylized jumble -- even a straightforward jumble would have been preferable.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2007/08/03/el_cantante/index.html</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>Ichaso seems far too interested in what led to Lavoe's downfall rather than what made him great.</snippet>
+         <url>http://www.premiere.com/moviereviews/3994/el-cantante.html</url>
+         <critic>Scott Warren</critic>
+      </review>
+      <review>
+         <snippet>Focusing almost solely on Lavoe's addictions (drugs and women, ho and hum), El Cantante is a garish, dispiriting bit of work--a mountain of biopic clichés snorted through the lens of a fidgety camera that never pauses long enough for us to get to like (or even know) the man responsible for making the Nuyorican sound a mainstream American commodity in the 1970s and early '80s.</snippet>
+         <url>http://www.villagevoice.com/film/0731,wilonsky_ts,77385,20.html</url>
+         <critic>Robert Wilonsky</critic>
+      </review>
+      <review>
+         <snippet>The film doesn't make a case for Lavoe as an important artist.</snippet>
+         <url>http://sfgate.com/cgi-bin/article.cgi?f=/c/a/2007/08/03/DDURRBRLH2.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+   </reviews>
+   <US_Gross>$7,556,004</US_Gross>
+   <weekend_gross>$3,202,035</weekend_gross>
+   <number_of_screens>542</number_of_screens>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

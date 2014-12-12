@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Night at the Museum</name>
+   <company>Twentieth Century-Fox Film Corporation</company>
+   <genres>
+      <genre>Action</genre>
+      <genre>Comedy</genre>
+      <genre>FamilyKids</genre>
+      <genre>Fantasy</genre>
+   </genres>
+   <authors>
+      <author>Ben Garant</author>
+      <author>Thomas Lennon</author>
+      <author>Milan Trenc</author>
+   </authors>
+   <directors>
+      <director>Shawn Levy</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Ben Stiller</actor>
+      <actor>Carla Gugino</actor>
+      <actor>Robin Williams</actor>
+      <actor>Dick Van Dyke</actor>
+      <actor>Steve Coogan</actor>
+      <actor>Patrick Gallagher</actor>
+      <actor>Ricky Gervais</actor>
+      <actor>Mickey Rooney</actor>
+   </actors>
+   <release_date>December 22, 2006</release_date>
+   <running_time>108</running_time>
+   <rating>PG</rating>
+   <reviews>
+      <review>
+         <snippet>For all its dazzling computer-generated sequences, "Museum'' wouldn't be nearly the delight it is without the talents of some of the best comedians in the business.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2006/12/22/DDGNRN3GFU1.DTL&amp;type=movies</url>
+         <critic>Ruthe Stein</critic>
+      </review>
+      <review>
+         <snippet>Stuffed with smart performers doing graciously silly work, and all Levy has to do is manage traffic.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=8730</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>A fantastic holiday toy that, amazingly enough, doesn't require batteries.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20061222.wnight22/BNStory/Entertainment/home</url>
+         <critic>Stephen Cole</critic>
+      </review>
+      <review>
+         <snippet>Wonderfully energetic.</snippet>
+         <url>http://ae.miami.com/entertainment/ui/miami/movie.html?id=771998&amp;reviewId=22012</url>
+         <critic>Connie Ogle</critic>
+      </review>
+      <review>
+         <snippet>Drawn from a children's book by Croatian illustrator Milan Trenc, this fantasy isn't exactly heavy, but its ideological implications are interesting nevertheless.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/30878_NIGHT_AT_THE_MUSEUM.html</url>
+         <critic>Jonathan Rosenbaum</critic>
+      </review>
+      <review>
+         <snippet>It's a fun ride, and the big payoff -- that history turns out to be way cooler than its reputation suggests -- is even more gratifying. Bully!</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1124662&amp;categories=Movies&amp;nm=1</url>
+         <critic>Ann Hornaday</critic>
+      </review>
+      <review>
+         <snippet>Night at the Museum ends up being a pretty fun all-ages comedy -- if you can survive its first 20 minutes.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/1166664328238670.xml&amp;coll=7</url>
+         <critic>M. E. Russell</critic>
+      </review>
+      <review>
+         <snippet>The truly bizarre Ben Stiller farce, Night at the Museum, is no laugh riot, and misfires all over the screen, but it develops its own unique charm and leaves a pleasant afterglow. A family audience could do worse for a comedy this holiday season.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/296769_museum22q.html</url>
+         <critic>William Arnold</critic>
+      </review>
+      <review>
+         <snippet>After a slow start, this feel-good family film is a nice postcard from the Big Apple that may benefit New York and the Museum of Natural History as much as it does 20th Century Fox.</snippet>
+         <url>http://www.premiere.com/moviereviews/3353/night-at-the-museum.html</url>
+         <critic>Laine Ewen</critic>
+      </review>
+      <review>
+         <snippet>The sad truth is that the film squanders almost all of its inspiration in the first 20 minutes or so.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-to.night22dec22,0,2248095.story?coll=bal-artslife-movies</url>
+         <critic>Chris Kaltenbach</critic>
+      </review>
+      <review>
+         <snippet>What a dull, nice movie, wrenched from a wild premise and battered into docility.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1573714_1_0_,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>The premise of Night at the Museum is definitely a bit more creative than the standard family films we are used to at this time of year, but the problem is that the film is marred with many gags that are outdated and therefore feel cheap.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=9509</url>
+         <critic>Zach Haddad</critic>
+      </review>
+      <review>
+         <snippet>If the filmmakers had a script half as good as their special effects, Night at the Museum would be a must-see.</snippet>
+         <url>http://ae.philly.com/entertainment/ui/philly/movie.html?id=771998&amp;reviewId=21990</url>
+         <critic>Carrie Rickey</critic>
+      </review>
+      <review>
+         <snippet>Though the premise is clever -- everything comes to life at night in New York City's Natural History Museum -- this movie doesn't make the best comic use of the concept.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2006-12-21-museum-review_x.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>This loud, overlong and thoroughly exhausting fantasy, based on Milan Trenc's slim children's book, purports to introduce youngsters to the wonders of New York City's American Museum of Natural History, but in fact aims squarely at hyperactive kids who can't sit still or stand a moment's silence.</snippet>
+         <url>http://tvguide.com/detail/movie.aspx?tvobjectid=285026&amp;more=ucmoviereview</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>Night at the Museum takes a can't-miss comedy premise and misses by a country mile.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/moviereviews/story/482171p-405794c.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>Strands several generations of performers in a highly derivative script and hackneyed direction.</snippet>
+         <url>http://www.nypost.com/seven/12222006/entertainment/movies/a_real_dinosnore_movies_lou_lumenick.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>With a cast featuring Ben Stiller, Owen Wilson, Robin Williams, and Ricky Gervais, one has a right to expect something amusing from Night at the Museum. Oddly, not only is the movie unfunny, but it rarely tries for laughs.</snippet>
+         <url>http://www.reelviews.net/movies/n/night_museum.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>The first half-hour's too slow; the last half-hour's too manic, as if to compensate. But at least it entertains, thanks in large measure to the buddy-pic relationship between Owen Wilson's miniature cowpoke and his Roman pal Steve Coogan.</snippet>
+         <url>http://www.villagevoice.com/film/0651,wilonsky,75360,20.html</url>
+         <critic>Robert Wilonsky</critic>
+      </review>
+      <review>
+         <snippet>This season's answer to "Dr. Seuss' How the Grinch Stole Christmas," it's an overstuffed grab bag in which lumps of coal are glued together with melted candy.</snippet>
+         <url>http://movies2.nytimes.com/2006/12/22/movies/22muse.html?ref=movies</url>
+         <critic>Stephen Holden</critic>
+      </review>
+      <review>
+         <snippet>Director Levy struggles to find a uniform pitch that would agreeably blend together the gags, the visual effects and the obligatory heart moments. In its absence, there's a stop-and-start hollowness that confuses noise and chaos for comic energy.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?JSESSIONID=FLXQfV5VskvnzTQJhRKqTDTgnC0v49dQqqW5JBXh3VDMyt5TWNgJ!-1340717188&amp;&amp;rid=8568</url>
+         <critic>Michael Rechtshaffen</critic>
+      </review>
+      <review>
+         <snippet>This rambunctious, "Jumanji"-style extravaganza is a gallery of special effects in search of a story; rarely has so much production value yielded so little in terms of audience engagement.</snippet>
+         <url>http://www.variety.com/review/VE1117932351.html?categoryid=31&amp;cs=1</url>
+         <critic>Justin Chang</critic>
+      </review>
+      <review>
+         <snippet>The bulk of the movie is a series of sight gags and set pieces that wreak much havoc but little else.</snippet>
+         <url>http://www.calendarlive.com/printedition/calendar/cl-et-night22dec22,0,5746721.story</url>
+         <critic>Kevin Crust</critic>
+      </review>
+      <review>
+         <snippet>This energetically charmless 'family' fantasy lies there dead on screen, occasionally twitching at a funny line.</snippet>
+         <url>http://www.empireonline.com/reviews/review.asp?FID=133172</url>
+         <critic>Kim Newman</critic>
+      </review>
+      <review>
+         <snippet>Stranded in this charmless fantasy, Stiller is reduced to his old halting, squirming tricks.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-061222-movies-review-museum,0,6587222.story?coll=mmx-movies_top_heds</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>This movie is made by and for people who don't care about good storytelling.</snippet>
+         <url>http://ae.miami.com/entertainment/ui/miami/movie.html?id=771998&amp;reviewId=21985</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>Stiller's continued efforts to court the broadest possible audience has taken the edge off his comedy. Whenever he shares screen time with Williams, it looks like the grim future he's mapping out for himself.</snippet>
+         <url>http://www.avclub.com/content/node/56916</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>Watching Williams as Teddy Roosevelt ogle through binoculars Sacajawea (Mizuo Peck) while she stalks around a glassed-in display like some hippie chick in a buffalo-skin straitjacket after a bad trip at Woodstock ’94 makes me sad and uncomfortable.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A430244</url>
+         <critic>Shawn Badgley</critic>
+      </review>
+   </reviews>
+   <US_Gross>$250,863,268</US_Gross>
+   <production_budget>$110,000,000</production_budget>
+   <weekend_gross>$30,433,781</weekend_gross>
+   <number_of_screens>3,685</number_of_screens>
+   <highest_grossing_actors_present/>
+   <num_highest_grossing_actors>2</num_highest_grossing_actors>
+   <highest_grossing_actor>ben stiller</highest_grossing_actor>
+   <highest_grossing_actor>robin williams</highest_grossing_actor>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

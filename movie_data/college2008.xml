@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>College</name>
+   <company>MGM</company>
+   <genres>
+      <genre>Comedy</genre>
+   </genres>
+   <authors>
+      <author>Adam Ellison</author>
+      <author>Dan Callahan</author>
+   </authors>
+   <directors>
+      <director>Deb Hagan</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Gary Owens</actor>
+      <actor>Ryan Pinkston</actor>
+      <actor>Drake Bell</actor>
+      <actor>Kevin Covais</actor>
+      <actor>Andrew Caldwell</actor>
+      <actor>Haley Bennett</actor>
+      <actor>Nick Zano</actor>
+      <actor>Camille Mana</actor>
+   </actors>
+   <release_date>August 29, 2008</release_date>
+   <running_time>minutes,</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>Friendly yet toothless, College musters little energy even as anarchic-party-movie nostalgia.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20222672,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>Hardly superbad, but sorta OK.</snippet>
+         <url>http://www.variety.com/review/VE1117938115.html?categoryid=31&amp;cs=1</url>
+         <critic>Rob Nelson</critic>
+      </review>
+      <review>
+         <snippet>An ugly, unfunny frat comedy.</snippet>
+         <url>http://movies.tvguide.com/college/review/293513</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>Strains to sell itself as one crazy ride (raging parties! hot lesbian sex! bare breasts!), and chances are it won't disappoint those looking solely for unadulterated raunch.</snippet>
+         <url>http://movies.nytimes.com/2008/08/30/movies/30coll.html?ref=movies</url>
+         <critic>Laura Kern</critic>
+      </review>
+      <review>
+         <snippet>This low-rent frat house comedy is at once far more vulgar and decidedly less anarchic than its obvious inspiration and should flunk out of theaters before this year's crop of freshman students even finish unpacking their bags.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?JSESSIONID=19CpL43J4pnlnXWlpYvtP5wL5Krx3h50zzpF1WYlf0NHpv6b65Bh!-1822479789&amp;&amp;rid=11560</url>
+         <critic>Frank Scheck</critic>
+      </review>
+      <review>
+         <snippet>In the battle for the hearts, minds and fat wallets of North American teens, College fights dirtier and sinks lower than most gross-out screen comedies.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20080901.wcollege01/BNStory/Entertainment/home</url>
+         <critic>Kamal AL-Solaylee</critic>
+      </review>
+      <review>
+         <snippet>A tedious, by-the-numbers raunch-fest that exists strictly because it can.</snippet>
+         <url>http://www.latimes.com/entertainment/news/reviews/la-et-college1-2008sep01,0,3293109.story</url>
+         <critic>Gary Goldstein</critic>
+      </review>
+      <review>
+         <snippet>God-awful.</snippet>
+         <url>http://www.avclub.com/content/cinema/college</url>
+         <critic>Nathan Rabin</critic>
+      </review>
+      <review>
+         <snippet>The grime, filth, slop, vomit, and crotch-nibbling pigs double all too easily as a recipe for this movie's failure. It hasn't been made so much as excreted.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=9717</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>Film critics never come home stinking of their honest labor, but the nearest equivalent is reviewing something like College, which leaves its stain on one's very humanity.</snippet>
+         <url>http://www.laweekly.com/2008-08-28/film-tv/movie-reviews-beautiful-losers-death-note/2</url>
+         <critic>Nick Pinkerton</critic>
+      </review>
+      <review>
+         <snippet>College, a film so persistently loud and annoying that it single-handedly makes the case for drugging yourself with a roofie.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A664822</url>
+         <critic>Marc Savlov</critic>
+      </review>
+   </reviews>
+   <US_Gross>$4,694,491</US_Gross>
+   <production_budget>$6,000,000</production_budget>
+   <weekend_gross>$2,153,109</weekend_gross>
+   <number_of_screens>2,123</number_of_screens>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>true</labor_release>
+</movie>

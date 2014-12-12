@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Nina&amp;#039;s Heavenly Delights</name>
+   <company>Regent Releasing</company>
+   <genres>
+      <genre>Comedy</genre>
+      <genre>GayLesbian</genre>
+   </genres>
+   <authors>
+      <author>Pratibha Parmar</author>
+      <author>Andrea Gibb</author>
+   </authors>
+   <directors>
+      <director>Pratibha Parmar</director>
+   </directors>
+   <origins>
+      <origin>UK</origin>
+   </origins>
+   <actors>
+      <actor>Shelley Conn</actor>
+      <actor>Laura Fraser</actor>
+      <actor>Ronny Jhutti</actor>
+      <actor>Veena Sood</actor>
+      <actor>Raji James</actor>
+      <actor>Art Malik</actor>
+   </actors>
+   <release_date>November 21, 2007</release_date>
+   <running_time>94</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>Light and sweet, comfort food dressed up with a dash of exotic spice.</snippet>
+         <url>http://www.tvguide.com/movies/ninas-heavenly-delights/review/291354</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>Stereotypes abound, dialogue is conventional and pace scattered. Still, resulting stew is pleasant.</snippet>
+         <url>http://www.variety.com/review/VE1117932022.html?cs=1&amp;p=0</url>
+         <critic>Lisa Nesselson</critic>
+      </review>
+      <review>
+         <snippet>"A difficult choice, between perfection and heavenly delight," crows the announcer at an Indian-cooking contest during this movie's climax. Sadly, Pratibha Parmar's Nina's Heavenly Delights offers neither.</snippet>
+         <url>http://www.villagevoice.com/film/0740,deutsch,77963,20.html</url>
+         <critic>Abigail Deutsch</critic>
+      </review>
+      <review>
+         <snippet>There are a few surprising flavors in Nina's Heavenly Delights, but it's more of a samosa than a meal. The ceiling is set pretty low when characters start exhorting each other to "follow your heart." Which they do, early and often.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-nina21nov21,0,1655670.story?coll=cl-mreview</url>
+         <critic>Michael Ordona</critic>
+      </review>
+      <review>
+         <snippet>A lesbian-foodie fairy tale that keeps its appetites well under control. The title may hint at naughty pleasures, but the director, Pratibha Parmar, is more interested in pappadams than passion.</snippet>
+         <url>http://movies.nytimes.com/2007/11/30/movies/30nina.html?ref=movies</url>
+         <critic>Jeannette Catsoulis</critic>
+      </review>
+      <review>
+         <snippet>This movie's heart is in the right place, which is one way of saying it's terrible.</snippet>
+         <url>http://www.nypost.com/seven/11302007/entertainment/movies/ninas_heavenly_delights_347817.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>A lightweight and sentimental exercise that succeeds at little except maybe inspiring the viewer to go out and find a decent curry.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2007/12/07/DDO1TNJOC.DTL&amp;type=movies</url>
+         <critic>Walter Addiego</critic>
+      </review>
+   </reviews>
+   <US_Gross>$9,936</US_Gross>
+   <weekend_gross>$359</weekend_gross>
+   <number_of_screens>1</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

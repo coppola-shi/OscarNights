@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Saw V</name>
+   <company>Lionsgate</company>
+   <genres>
+      <genre>Action</genre>
+      <genre>Crime</genre>
+      <genre>Horror</genre>
+      <genre>Mystery</genre>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>Patrick Melton</author>
+      <author>Marcus Dunstan</author>
+   </authors>
+   <directors>
+      <director>David Hackl</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Tobin Bell</actor>
+      <actor>Costas Mylor</actor>
+      <actor>Scott Patterson</actor>
+      <actor>Mark Rolston</actor>
+      <actor>Betsy Russell</actor>
+      <actor>Carlo Rota</actor>
+      <actor>Julie Benz</actor>
+   </actors>
+   <release_date>October 24, 2008</release_date>
+   <running_time>88</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>The production values have become so horror-movie shoddy that Saw V has more in common with kitsch like "Friday the 13th Part V" than the original "Saw."</snippet>
+         <url>http://www.ew.com/ew/article/0,,20235807,00.html</url>
+         <critic>Gregory Kirschling</critic>
+      </review>
+      <review>
+         <snippet>The method to the madness of the traps turns out to be quite clever, but the rewriting of Saw mythology is the slasher equivalent of revising Star Wars so that Greedo fires at Han Solo first.</snippet>
+         <url>http://www.laweekly.com/2008-10-23/film-tv/movie-reviews-high-school-musical-3-passengers-noah-39-s-arc-jumping-the-broom/3</url>
+         <critic>Luke Y. Thompson</critic>
+      </review>
+      <review>
+         <snippet>This is easily the smallest-scale of the sequels, and it has the feeling of a massively shrunken budget.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=11302</url>
+         <critic>Scott Mendelson</critic>
+      </review>
+      <review>
+         <snippet>It's cheap, sloppy, and too jumbled up to know what it should be.</snippet>
+         <url>http://movies.tvguide.com/saw-v/review/295693</url>
+         <critic>Jeremy Wheeler</critic>
+      </review>
+      <review>
+         <snippet>Truly, the greatest torture of all is boredom.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A691777</url>
+         <critic>Marc Savlov</critic>
+      </review>
+      <review>
+         <snippet>Saw V is a terrible combination: grisly and tedious. Let's just call it bloody dull.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2008-10-30-saw-v_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>Devotes so much time and energy to flashbacks and recycling footage from its predecessors that it threatens to implode.</snippet>
+         <url>http://www.avclub.com/content/cinema/saw_v</url>
+         <critic>Nathan Rabin</critic>
+      </review>
+      <review>
+         <snippet>This year's installment is as disappointing as a Halloween bag filled with nothing but raisins.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2008/10/24/2008-10-24_saw_v_gore_fest_just_doesnt_cut_it_.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>By-the-numbers retread.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?JSESSIONID=yw1FJCJY4qv37CPzgYb7mddQ581KfdG3mdvpwRvQJGH1phd8Jw8z!1627635326&amp;&amp;rid=11869</url>
+         <critic>Frank Scheck</critic>
+      </review>
+      <review>
+         <snippet>Oh, Jigsaw. Here we go again. You kill. I doze off. Someone at the studio goes "ka-ching!"</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=11367</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>A particularly dull and discombobulated affair, shot and acted with all the flair of a basic-cable procedural. Patterson and Mandylor are so wooden that their cat-and-mouse game has all the excitement of watching dust bunnies swirl in an air current.</snippet>
+         <url>http://www.latimes.com/entertainment/news/reviews/la-et-saw25-2008oct25,0,6974568.story</url>
+         <critic>Sam Adams</critic>
+      </review>
+      <review>
+         <snippet>Skips back and forth in time, trying to piece together who did what, when and why. The only question really worth asking here: Who cares?</snippet>
+         <url>http://www.nytimes.com/2008/10/25/movies/25saw.html?_r=1&amp;ref=movies&amp;oref=slogin</url>
+         <critic>Nathan Lee</critic>
+      </review>
+   </reviews>
+   <US_Gross>$56,746,769</US_Gross>
+   <production_budget>$10,800,000</production_budget>
+   <weekend_gross>$30,053,954</weekend_gross>
+   <number_of_screens>3,060</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

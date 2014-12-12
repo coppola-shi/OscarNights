@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Mutant Chronicles</name>
+   <company>Magnolia Pictures</company>
+   <genres>
+      <genre>Action</genre>
+      <genre>Adventure</genre>
+      <genre>Scifi</genre>
+   </genres>
+   <authors>
+      <author>Philip Eisner</author>
+   </authors>
+   <directors>
+      <director>Simon Hunter</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Thomas Jane</actor>
+      <actor>Ron Perlman</actor>
+      <actor>Devon Aoki</actor>
+      <actor>John Malkovich</actor>
+   </actors>
+   <release_date>April 24, 2009</release_date>
+   <running_time>111</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>It's pretty much all nonsense, but Mutant Chronicles is based on a game -- so just play along. That's when the fun begins.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-etw-mutant25-2009apr25,0,4055290.story</url>
+         <critic>Michael Ordona</critic>
+      </review>
+      <review>
+         <snippet>A film this monotonous will make you zone out.</snippet>
+         <url>http://www.villagevoice.com/2009-04-22/film/let-s-hope-malkovich-was-paid-handsomely-for-mutant-chronicles/</url>
+         <critic>Aaron Hillis</critic>
+      </review>
+   </reviews>
+   <US_Gross>$4,724</US_Gross>
+   <weekend_gross>$4,724</weekend_gross>
+   <number_of_screens>2</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

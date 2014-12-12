@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Ratatouille</name>
+   <company>Buena Vista Pictures</company>
+   <genres>
+      <genre>Animation</genre>
+      <genre>Comedy</genre>
+      <genre>FamilyKids</genre>
+   </genres>
+   <authors>
+      <author>Brad Bird</author>
+      <author>Jim Capobianco</author>
+      <author>Jan Pinkava</author>
+      <author>Emily Cook and Kathy Greenberg</author>
+   </authors>
+   <directors>
+      <director>Brad Bird</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Patton Oswalt</actor>
+      <actor>Ian Holm</actor>
+      <actor>Lou Romano</actor>
+      <actor>Brian Dennehy</actor>
+      <actor>Peter Sohn</actor>
+      <actor>Peter O&amp;#039;Toole</actor>
+      <actor>Brad Garrett</actor>
+      <actor>Janeane Garofalo</actor>
+      <actor>Will Arnett</actor>
+   </actors>
+   <release_date>June 29, 2007</release_date>
+   <running_time>110</running_time>
+   <rating>G</rating>
+   <reviews>
+      <review>
+         <snippet>Brad Bird and Pixar recapture the charm and winning imagination of classic Disney animation.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?&amp;rid=9381</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>Ratatouille is delicious. In this satisfying, souffle-light tale of a plucky French rodent with a passion for cooking, the master chefs at Pixar have blended all the right ingredients -- abundant verbal and visual wit, genius slapstick timing, a soupcon of Gallic sophistication -- to produce a warm and irresistible concoction that's sure to appeal to everyone's inner Julia Child.</snippet>
+         <url>http://www.variety.com/review/VE1117933921.html?categoryid=31&amp;cs=1</url>
+         <critic>Justin Chang</critic>
+      </review>
+      <review>
+         <snippet>Bird clearly knows the great silent clowns: The slapstick he devises is balletic.</snippet>
+         <url>http://nymag.com/movies/reviews/33977/index1.html</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>Its sense of humor is more sly, more sophisticated and more interesting than most PG-13 or R-rated comedies at the moment. The film may be animated, and largely taken up with rats, but its pulse is gratifyingly human.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-070629-movies-review-ratatouille,0,3953295.story?coll=mmx-movies_top_heds</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>A nearly flawless piece of popular art, as well as one of the most persuasive portraits of an artist ever committed to film. It provides the kind of deep, transporting pleasure, at once simple and sophisticated, that movies at their best have always promised.</snippet>
+         <url>http://movies2.nytimes.com/2007/06/29/movies/29rata.html?ref=movies</url>
+         <critic>A.O. Scott</critic>
+      </review>
+      <review>
+         <snippet>The characters are irresistible -- why would anyone want to resist a hero who so gallantly transcends his rattiness? -- the animation is astonishing and the film, a fantasy version of a foodie rhapsody, sustains a level of joyous invention that hasn't been seen in family entertainment since "The Incredibles."</snippet>
+         <url>http://online.wsj.com/article/SB118307125242752135.html</url>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>If there is a genius working in Hollywood today, it's animation director Brad Bird, who tops the delightful "The Incredibles" with arguably the finest 'toon in the Pixar canon, Ratatouille.</snippet>
+         <url>http://www.nypost.com/seven/06292007/entertainment/movies/gratifying_movies_lou_lumenick.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>Ratatouille is a sublime dish of a movie, and the company's piece de resistance.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-to.rat29jun29,0,1815776.story?coll=bal-movies-utility</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>Ratatouille is as audacious as they come. It takes risks and goes places other films wouldn't dare, and it ends up putting rival imaginations in the shade.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-ratatouille29jun29,0,6235436.story?coll=cl-mreview</url>
+         <critic>Kenneth Turan</critic>
+      </review>
+      <review>
+         <snippet>The most difficult task in Pixar's 20-year history: to make an un-Mickey-like rodent appealing enough to admire.</snippet>
+         <url>http://ae.charlotte.com/entertainment/ui/charlotte/movie.html?id=898393&amp;reviewId=22539&amp;startDate=06%2F29%2F2007</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>Superbly rendered CGI animation.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/31733_RATATOUILLE.html</url>
+         <critic>Staff (not credited)</critic>
+      </review>
+      <review>
+         <snippet>A gorgeous, wonderfully inventive computer-animated comedy.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2007/06/29/2007-06-29_a_rat_to_catch.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>The slapstick-comic set pieces involving Remy and Linguini's cooking struggles might solicit the admiration of Buster Keaton and Jacques Tati.</snippet>
+         <url>http://www.premiere.com/moviereviews/3909/ratatouille.html</url>
+         <critic>Glenn Kenny</critic>
+      </review>
+      <review>
+         <snippet>Bird is one of the great modern animators -- as well as an astonishingly gifted filmmaker, period -- precisely because he doesn't set out to wow us.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2007/06/29/ratatouille/index.html</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>Ratatouille is a classic.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2007/06/29/DDGD8QN2A21.DTL&amp;type=movies</url>
+         <critic>Peter Hartlaub</critic>
+      </review>
+      <review>
+         <snippet>A film as rich as a sauce béarnaise, as refreshing as a raspberry sorbet.</snippet>
+         <url>http://www.msnbc.msn.com/id/19490168/site/newsweek/</url>
+         <critic>David Ansen</critic>
+      </review>
+      <review>
+         <snippet>The subtle colors and textures of the food alone make Ratatouille a three-star Michelin evening.</snippet>
+         <url>http://www.time.com/time/arts/article/0,8599,1639090,00.html</url>
+         <critic>Richard Corliss</critic>
+      </review>
+      <review>
+         <snippet>In Ratatouille, the level of moment-by-moment craftsmanship is a wonder.</snippet>
+         <url>http://www.newyorker.com/arts/critics/cinema/2007/07/23/070723crci_cinema_denby?currentPage=2</url>
+         <critic>David Denby</critic>
+      </review>
+      <review>
+         <snippet>This is clearly one of the best of the year's films. Every time an animated film is successful, you have to read all over again about how animation isn't "just for children" but "for the whole family," and "even for adults going on their own." No kidding!</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20070830/REVIEWS/708300303</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>That feeling you have as you leave the cinema - that buzzing in the fingers and lightness in the heart - is called joy.</snippet>
+         <url>http://www.empireonline.com/reviews/reviewcomplete.asp?FID=134258</url>
+         <critic>Ian Nathan</critic>
+      </review>
+      <review>
+         <snippet>Long for an animated feature and too demanding for very young children, but it's also filled with delights.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/321659_ratatouille29q.html</url>
+         <critic>Sean Axmaker</critic>
+      </review>
+      <review>
+         <snippet>Bird and his co-writers leave room for quiet moments and gentle morals, but for the most part, they send visual gags and verbal punchlines tearing past at an enjoyably demanding speed, whipping up the film's energy at every turn.</snippet>
+         <url>http://www.avclub.com/content/cinema/ratatouille</url>
+         <critic>Tasha Robinson</critic>
+      </review>
+      <review>
+         <snippet>Hilarious. And more proof that Pixar is in a class of its own.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/1182819323120990.xml&amp;coll=7</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>Ratatouille is as much a feast for the senses as it is food for thought.</snippet>
+         <url>http://www.villagevoice.com/film/0726,foundas,77064,20.html</url>
+         <critic>Scott Foundas</critic>
+      </review>
+      <review>
+         <snippet>Observed mostly from Remy's rat's-eye view, Gusteau's kitchen is a memorable world-in-miniature with its vivid old-fashioned stoves, bright, brassy pots and general air of frenzied industry; never did sliced red onions or simmering soup look so fresh and real.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1132589&amp;categories=Movies&amp;nm=1</url>
+         <critic>Desson Thomson</critic>
+      </review>
+      <review>
+         <snippet>Pixar's animation is simply flawless; colorful, deeply realized, and ably conveying both the chaos of the kitchen, and the sensual allure of food well prepared.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A495797</url>
+         <critic>Marc Savlov</critic>
+      </review>
+      <review>
+         <snippet>What makes Ratatouille such a hilarious and heartfelt wonder is the way Bird contrives to let it sneak up on you.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/15137663/review/15221337/ratatouille</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>All the voice work here is excellent, especially Oswalt's. He sounds like Paul Giamatti but with a greater capacity for confidence.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=8933</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>Remy, the little rat who stars in the big, beautiful, funny Ratatouille, isn't gross at all. In fact, he's adorable.</snippet>
+         <url>http://www.philly.com/inquirer/columnists/steven_rea/20070629_Youll_smell_a_______terrific_toon__starring_a_rat.html</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>Like the best French cuisine, Ratatouille is ambitious and delightful.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2007-06-28-ratatouille-review_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>A French rat as a master chef? Absurd. But a brilliant French chef with an American accent? C'est grotesque!</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20070629.wrat29/BNStory/Entertainment/home</url>
+         <critic>Liam Lacey</critic>
+      </review>
+      <review>
+         <snippet>A clever, ingeniously animated film filled with many shining moments.</snippet>
+         <url>http://www.tvguide.com/movies/ratatouille/review/288599</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>As was also true of Pixar's last movie, "Cars," Ratatouille is better at pleasing the eye than the other senses.</snippet>
+         <url>http://www.csmonitor.com/2007/0629/p11s02-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>Stunningly animated, cleverly scripted, and genuinely humorous.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=10134</url>
+         <critic>Pete Vonder Haar</critic>
+      </review>
+      <review>
+         <snippet>Has the sort of richness and dimension that are the hallmarks of master storytellers at work.</snippet>
+         <url>http://ae.miami.com/entertainment/ui/miami/movie.html?id=898393&amp;reviewId=22542</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>Ratatouille is a blithe concoction, as well as a miraculously textured piece of animated design.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20043117,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>For parents looking to spend time in a theater with their kids or adults who want something lighter and less testosterone-oriented than the usual summer fare, Ratatouille offers a savory main course.</snippet>
+         <url>http://www.reelviews.net/movies/r/ratatouille.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+   </reviews>
+   <US_Gross>$206,445,654</US_Gross>
+   <production_budget>$150,000,000</production_budget>
+   <weekend_gross>$47,027,395</weekend_gross>
+   <number_of_screens>3,940</number_of_screens>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

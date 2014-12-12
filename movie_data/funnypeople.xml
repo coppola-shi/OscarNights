@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Funny People</name>
+   <company>Universal Pictures</company>
+   <genres>
+      <genre>Comedy</genre>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author>Judd Apatow</author>
+   </authors>
+   <directors>
+      <director>Judd Apatow</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Adam Sler</actor>
+      <actor>Seth Rogen</actor>
+      <actor>Leslie Mann</actor>
+      <actor>Eric Bana</actor>
+      <actor>Jonah Hill</actor>
+      <actor>Jason Schwartzman</actor>
+   </actors>
+   <release_date>July 31, 2009</release_date>
+   <running_time>140</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>Funny People is a true brass ring effort, a reach for excellence that takes big risks. It's 146 minutes, with a story that's more European in feeling than American.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2009/07/30/DDTE1911GH.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>Turns out to be one of the most absorbing films of the year. Plus it has lots of wiener jokes.</snippet>
+         <url>http://www.nypost.com/seven/07312009/entertainment/movies/lol__182161.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>Funny People nimbly intersperses humor and reflection. It is a rumination on mortality, fame and life choices, punctuated with Apatow's trademark raunchy humor.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2009-07-30-funny-people_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>The result is a raucously funny and poignant love letter to standup comics.</snippet>
+         <url>http://movies.tvguide.com/funny-people/review/297353</url>
+         <critic>Perry Seibert</critic>
+      </review>
+      <review>
+         <snippet>The thing about Funny People is that it's a real movie. That means carefully written dialogue and carefully placed supporting performances -- and it's ABOUT SOMETHING.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20090729/REVIEWS/907299997</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>It's the work of a major talent. Apatow scores by crafting the film equivalent of a stand-up routine that encompasses the joy, pain, anger, loneliness and aching doubt that go into making an audience laugh.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/25910332/review/29476887/funny_people</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>Even the most forced, artificial episodes in Funny People ring oddly true, because George's life -- the obscene wealth, the loneliness, the fame -- is odd. Perhaps not since "Sunset Boulevard" have the wages and eccentricities of celebrity been depicted with such tough, almost perverse honesty.</snippet>
+         <url>http://www.washingtonpost.com/gog/movies/funny-people,1156222.html</url>
+         <critic>Ann Hornaday</critic>
+      </review>
+      <review>
+         <snippet>Apatow’s richest, most complicated movie yet--a summing up of his feelings about comedy and its relation to the rest of existence.</snippet>
+         <url>http://www.newyorker.com/arts/critics/cinema/2009/08/03/090803crci_cinema_denby</url>
+         <critic>David Denby</critic>
+      </review>
+      <review>
+         <snippet>An absolute treat. In spite of its disappointing climax, this is Apatow’s smartest, rudest and -- yes -- funniest film yet.</snippet>
+         <url>http://www.empireonline.com/reviews/reviewcomplete.asp?FID=136419</url>
+         <critic>Mark Dinning</critic>
+      </review>
+      <review>
+         <snippet>The sharpest parts of the movie hack through the Hollywood jungle with an insider's certitude. But Apatow is so grounded in the comedy circuit that he can't quite capture the emotional wavelength of the life-and-death drama.</snippet>
+         <url>http://www.stltoday.com/stltoday/entertainment/reviews.nsf/movie/story/5AFB05055C54983786257602006DB2B0?OpenDocument</url>
+         <critic>Joe Williams</critic>
+      </review>
+      <review>
+         <snippet>The movie's power sneaks up on you, reminiscent of something screenwriter I.A.L. Diamond once famously described as "the Billy Wilder touch": A combination of the sweet and the sour, because even funny people, like you and I, aren't always being funny.</snippet>
+         <url>http://www.miamiherald.com/entertainment/movies/reviews/story/1163891.html</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>Funny People turns out to be fairly predictable, and not so rough. In a thoroughly satisfying way.</snippet>
+         <url>http://www.philly.com/philly/entertainment/movies/20090731_Funnyman_in_a_sad__hilarious_fix.html</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>It's refreshingly unformulaic, but a rambling mess. It's also tremendously funny.</snippet>
+         <url>http://www.avclub.com/articles/funny-people,31083/</url>
+         <critic>Keith Phipps</critic>
+      </review>
+      <review>
+         <snippet>Apatow is on the right track. In moving his adolescent male comedies into more adult realms, the humor sharpens and characters deepen.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film-reviews/funny-people-film-review-1003997380.story</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>Messy but engaging comedy.</snippet>
+         <url>http://www.chicagoreader.com/chicago/MovieTimes?film=977740</url>
+         <critic>Cliff Doerksen</critic>
+      </review>
+      <review>
+         <snippet>Perhaps Simmons is the man Apatow fears he will become. If so, with Sandler's help the filmmaker's fashioned a solid work of self reflection. There's plenty to love and laugh along with here.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=11832</url>
+         <critic>Matthew Sorrento</critic>
+      </review>
+      <review>
+         <snippet>Not quite funny enough, or serious enough, falls into the muddle middle.</snippet>
+         <url>http://www.csmonitor.com/2009/0731/p17s04-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>Funny People – sensitive, shaggy, a little bit draggy – is as much about the maturation of Ira as a performer and George as a man as it is about Apatow’s maturation as an artist.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A815286</url>
+         <critic>Kimberley Jones</critic>
+      </review>
+      <review>
+         <snippet>The drama aspect is necessary to the story, but it just drags on too long.</snippet>
+         <url>http://www.premiere.com/Review/Movies/Funny-People</url>
+         <critic>Staff (Not credited)</critic>
+      </review>
+      <review>
+         <snippet>The movie wears thin its welcome a couple of reels before Apatow has finished telling his story.</snippet>
+         <url>http://www.reelviews.net/php_review_template.php?identifier=1735</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>It's got a smattering of hearty laughs and a career-high performance from Sandler.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-funny-people-review-0730,0,6169924.story</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>50 percent good and 50 percent close.</snippet>
+         <url>http://www.chicagotribune.com/entertainment/movies/chi-tc-mov-funny-people-0729-073jul31,0,609380.story</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>Apatow answers to no one. His worst enemy as a director is his unwillingness to linger in the dark places from which his comedy springs.</snippet>
+         <url>http://www.slate.com/id/2223907/</url>
+         <critic>Dana Stevens</critic>
+      </review>
+      <review>
+         <snippet>Amusing and engaging yet lacking in snap and cohesion, this insider's look at the world of standup comics in contempo Los Angeles rings true in its view of the variously warped, stunted and narrow lives of its mostly male denizens.</snippet>
+         <url>http://www.variety.com/review/VE1117940729.html?categoryid=31&amp;cs=1</url>
+         <critic>Todd McCarthy</critic>
+      </review>
+      <review>
+         <snippet>There's so much that's so disarmingly good and sharp about Funny People that you wish the whole movie weren't so much of a shambles.</snippet>
+         <url>http://www.villagevoice.com/2009-07-28/film/apatow-and-sandler-confront-mortality-in-funny-people-mdash-sort-of/</url>
+         <critic>Scott Foundas</critic>
+      </review>
+      <review>
+         <snippet>You find yourself wishing that Apatow had managed a script that was either really funny or about real people instead of this half-baked pseudo-memoir that's neither.</snippet>
+         <url>http://blog.oregonlive.com/madaboutmovies/2009/07/funny_people_not_quite_either.html</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>That heart comes bursting out of Funny People, Apatow's intermittently engaging, 2 hr. 26 min. essay in schizo-cinemaphrenia.</snippet>
+         <url>http://www.time.com/time/arts/article/0,8599,1913892,00.html</url>
+         <critic>Richard Corliss</critic>
+      </review>
+      <review>
+         <snippet>Apatow wants to be taken seriously. Funny People is the attempt to raise his game a notch – and it fails.</snippet>
+         <url>http://www.theglobeandmail.com/news/arts/funny-people/article1236614/</url>
+         <critic>Michael Posner</critic>
+      </review>
+      <review>
+         <snippet>Sandler isn't afraid of plumbing his dark side, but Apatow fails him: Scenes of George's self-pity drag on too long, and as the character loses stature, Sandler recedes from his own vehicle. Rogen doesn't fill the vacuum.</snippet>
+         <url>http://nymag.com/movies/reviews/58083/</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>What’s best about Funny People, actually, is Sandler, who takes the weird, resentful anger that has always coursed beneath his comedy and puts it right on the surface.</snippet>
+         <url>http://www.boston.com/ae/movies/articles/2009/07/31/sandler_shines_in_funny_people/</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>The message that comes across is: We're all screwed, and then we die. Ba-DUM.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20294547,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>There’s something irritatingly self-satisfied about Funny People, which explains why, though it glances on the perils of fame, it mostly affirms its pleasures.</snippet>
+         <url>http://movies.nytimes.com/2009/07/31/movies/31funny.html?ref=movies</url>
+         <critic>Manohla Dargis</critic>
+      </review>
+      <review>
+         <snippet>Any sort of new insight into comedy's darker themes, to say nothing of life's, eludes Funny People. Instead Sandler and Rogen and the rest are left to wander aimlessly, with tedious comedy gigs, an even more tedious faux sitcom and relatively vapid relationships masquerading as a plot.</snippet>
+         <url>http://www.latimes.com/entertainment/news/la-et-funny31-2009jul31,0,2750380.story</url>
+         <critic>Betsy Sharkey</critic>
+      </review>
+      <review>
+         <snippet>Funny People is an ambitious, misshapen picture that feels like two, maybe even three, separate movies uncomfortably jammed into one.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2009/07/31/funny_people/index.html</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>Gets old fast.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2009/07/30/2009-07-30_judd_apatows_tale_of_an_aging_comedian.html</url>
+         <critic>Joe Neumaier</critic>
+      </review>
+      <review>
+         <snippet>The denizens of Judd Apatow’s Funny People have been pulled every which way to fit a misshapen concept, yet they remain painfully unfunny, and consistently off-putting.</snippet>
+         <url>http://online.wsj.com/article/film_review.html</url>
+         <critic>Joe Morgenstern</critic>
+      </review>
+   </reviews>
+   <US_Gross>$51,855,045</US_Gross>
+   <production_budget>$70,000,000</production_budget>
+   <weekend_gross>$22,657,780</weekend_gross>
+   <number_of_screens>3,007</number_of_screens>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Never Back Down</name>
+   <company>Summit Entertainment</company>
+   <genres>
+      <genre>Action</genre>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author>Chris Hauty</author>
+      <author>Sean Faris</author>
+   </authors>
+   <directors>
+      <director>Jeff Wadlow</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Sean Faris</actor>
+      <actor>Djimon Hounsou</actor>
+      <actor>Cam Giget</actor>
+      <actor>Amber Heard</actor>
+      <actor>Evan Peters</actor>
+      <actor>Wyatt Smith</actor>
+   </actors>
+   <release_date>March 14, 2008</release_date>
+   <running_time>110</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>Formulaic and derivative, but sufficiently well made to work as both teen-angst melodrama and bone-rattling brawl picture.</snippet>
+         <url>http://www.tvguide.com/movies/never/review/292656</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>Although the movie set in the hot new arena of mixed martial arts is a bit short on star power, it's energetic and warm-hearted enough to become a word-of-mouth hit.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?JSESSIONID=85C1HZMDpbgGbDJBhwF17WYvyX6PBtyTnD1tDyNWnJjpzhvSypbh!-1234477464&amp;&amp;rid=10822</url>
+         <critic>Stephen Farber</critic>
+      </review>
+      <review>
+         <snippet>The movie is just a cheesy, preposterous, semi-eroticized way of yelling, "Fight! Fight!," when two people go at it in the school cafeteria.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=10703</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>Best part, though, is the cast: Everyone's a model, everyone beats each other half to death, and no one looks as if they've ever suffered so much as a coldsore.</snippet>
+         <url>http://www.variety.com/review/VE1117936487.html?categoryid=31&amp;cs=1</url>
+         <critic>John Anderson</critic>
+      </review>
+      <review>
+         <snippet>A modest surprise: better acted than needed, better made than expected.</snippet>
+         <url>http://www.villagevoice.com/film/0811,374090,374090,20.html</url>
+         <critic>Jim Ridley</critic>
+      </review>
+      <review>
+         <snippet>It’s a little “Karate Kid,” a smidge of “Fight Club” (with none of the ironic ambivalence toward violence that David Fincher brought to that story), a lot of “The O.C.” (evil boy Gigandet played an evil boy on that series), and presto: probable hit.</snippet>
+         <url>http://chicago.metromix.com/movies/movie_review/movie-review-never-back/336619/content</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>Director Jeff Wadlow and screenwriter Chris Hauty are so committed to following through on the "Karate Kid" formula that they don't care for novelty; it's enough for them just to hit their cues and play up the slo-mo MMA brutality. In the future, movies this derivative will be made by robots.</snippet>
+         <url>http://www.avclub.com/content/cinema/never_back_down</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>Jeff Wadlow directed this exploitation flick, which seems designed for students on spring break.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/32887_NEVER_BACK_DOWN.html</url>
+         <critic>Andrea Gronvall</critic>
+      </review>
+      <review>
+         <snippet>This movie isn't bad just because it follows a formula slavishly but because it does so without verve or passion.</snippet>
+         <url>http://www.reelviews.net/movies/n/never_back.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>A disposable sports drama.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-never14mar14,0,5571777.story</url>
+         <critic>Jan Stuart</critic>
+      </review>
+      <review>
+         <snippet>A junior version of "Fight Club," only with no movie stars and different moves.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2008/03/13/DDL6VIONE.DTL#flick</url>
+         <critic>Ruthe Stein</critic>
+      </review>
+      <review>
+         <snippet>By the time ever-noble, ever-watchable Djimon Hounsou shows up to teach earnest young Jake honor and roundhouse kicks, the power-rock and smashmouth idiocy become like a fever dream, sweaty and hard to shake off.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2008/03/14/2008-03-14_short_takes_more_movie_reviews.html?page=1</url>
+         <critic>Joe Neumaier</critic>
+      </review>
+      <review>
+         <snippet>Borrows from other movies almost shamelessly.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A600935</url>
+         <critic>Steve Davis</critic>
+      </review>
+      <review>
+         <snippet>About as bland, predictable, and self-important as you’d expect.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=10838</url>
+         <critic>Felix Vasques Jr.</critic>
+      </review>
+      <review>
+         <snippet>"The Karate Kid" meets "Fight Club" but it's no way near as good as it sounds.</snippet>
+         <url>http://www.empireonline.com/reviews/reviewcomplete.asp?FID=135525</url>
+         <critic>Nick De Semlyen</critic>
+      </review>
+      <review>
+         <snippet>At times, the film is more fun than it deserves to be, and it's probably a lot more fun if you're a 13-year-old with an addiction to "Bully: Scholarship Edition."</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20080313.wnever14/BNStory/Entertainment/home</url>
+         <critic>Jason McBride</critic>
+      </review>
+      <review>
+         <snippet>The movie speeds up and slows down as though controlled by a director in the grip of competing medications. For those who make it to the final beatdown, however, the only pill worth taking is the one that makes you forget.</snippet>
+         <url>http://movies.nytimes.com/2008/03/14/movies/14never.html?ref=movies</url>
+         <critic>Jeannette Catsoulis</critic>
+      </review>
+      <review>
+         <snippet>A formula flick that should have tapped out in the script stage.</snippet>
+         <url>http://www.nypost.com/seven/03142008/entertainment/movies/never_back_down_101844.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>Movie is dopey. And with its emphasis on stupid violence, xylophone abs, and getting yourself on YouTube, it's yet another product that makes you feel bad about today's youth culture.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20185180,00.html</url>
+         <critic>Gregory Kirschling</critic>
+      </review>
+      <review>
+         <snippet>Reprehensible.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/reviews/bal-to.never14mar14,0,2252761.story</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>While too bland and stupid to be offensive, Never Back Down spouts a hollow message of nonviolence while celebrating the brutal satisfaction of beating the crap out of someone.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/354917_never14q.html</url>
+         <critic>Sean Axmaker</critic>
+      </review>
+      <review>
+         <snippet>Sitting through this is groan-inducing enough, but it's spiritually depressing to watch Djimon Hounsou, who deserves better.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1145659&amp;categories=Movies&amp;nm=1</url>
+         <critic>Desson Thomson</critic>
+      </review>
+   </reviews>
+   <US_Gross>$24,850,922</US_Gross>
+   <production_budget>$21,000,000</production_budget>
+   <weekend_gross>$8,603,195</weekend_gross>
+   <number_of_screens>2,729</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

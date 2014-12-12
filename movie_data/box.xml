@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Box, The</name>
+   <company>Warner Bros. Pictures</company>
+   <genres>
+      <genre>Horror</genre>
+      <genre>Scifi</genre>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>Richard Kelly</author>
+   </authors>
+   <directors>
+      <director>Richard Kelly</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Cameron Diaz</actor>
+      <actor>James Marsden</actor>
+      <actor>Frank Langella</actor>
+   </actors>
+   <release_date>November 6, 2009</release_date>
+   <running_time>115</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>Movie Marmite. Many will be perplexed. Donnie Darko fans should lap it up.</snippet>
+         <url>http://www.empireonline.com/reviews/reviewcomplete.asp?FID=10245</url>
+         <critic>Mark Dinning</critic>
+      </review>
+      <review>
+         <snippet>Whenever The Box threatens to crash, Kelly summons up another haunting image or heartfelt, albeit thin, moral inquiry. It’s an unwieldy, ambitious, one-of-a-kind film waiting for a cult to find it.</snippet>
+         <url>http://www.avclub.com/articles/the-box,35085/</url>
+         <critic>Keith Phipps</critic>
+      </review>
+      <review>
+         <snippet>The Box is a mess, but it's a curiously haunting, intriguing, brain-tickling mess, and it delivers that "Donnie Darko" feeling in truckloads. Or should that be rocketloads?</snippet>
+         <url>http://www.miamiherald.com/entertainment/movies/reviews/story/1317458.html</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>This movie kept me involved and intrigued, and for that I'm grateful. I'm beginning to wonder whether, in some situations, absurdity might not be a strength.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20091104/REVIEWS/911069998</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>The Box is the work of a visionary flirting with commercialism after having so grandly flouted it with “Southland Tales.’’ He doesn’t give in completely. Several trips to the megaplex might be required for The Box to make complete sense.</snippet>
+         <url>http://www.boston.com/ae/movies/articles/2009/11/07/a_jarring_pandora_like_box/</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>The Box turns into a kind of sacrilegious Christian fable; it’s haunted by God, but it delivers a vicious doctrine. At the risk of impoliteness, I would suggest that Kelly drop his reliance on religio-mystico-eschatological humbug and embrace, in realistic terms, the fantastic possibilities in ordinary acts of murder, fear, heroism, and death. If he pulls himself together, he could be the next Hitchcock.</snippet>
+         <url>http://www.newyorker.com/arts/critics/cinema/2009/11/16/091116crci_cinema_denby?currentPage=2</url>
+         <critic>David Denby</critic>
+      </review>
+      <review>
+         <snippet>For his third feature, Richard Kelly delivers neither a triumph (like his first, Donnie Darko) nor a travesty (like his second, Southland Tales) but a sure-handed genre piece that manages to wrap up before its plot mushrooms completely out of control.</snippet>
+         <url>http://www.chicagoreader.com/chicago/MovieTimes?oid=977609</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>Despite its flaws, The Box remains intriguing; however, as its mysteries are solved, the prevailing sense is one of frustration rather than satisfaction. That makes The Box worthy of the dubious label of "an interesting failure."</snippet>
+         <url>http://www.reelviews.net/php_review_template.php?identifier=1857</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>The revelation of the film's mystery just barely makes sense. Yet, we dismiss it as an extended MacGuffin, and thus can delight in the film's devious turns.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=11980</url>
+         <critic>Matthew Sorrento</critic>
+      </review>
+      <review>
+         <snippet>What a shame that Kelly's pacing doesn't run as fast as his imagination. Instead of sweeping you along, The Box just sits there like something unclaimed at lost and found. Damaged goods.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/6166519/review/30792747/the_box</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>Sincere and sinister and inevitably ambitious, a serious work that insists on its own seriousness even when it edges toward the preposterous.</snippet>
+         <url>http://movies.nytimes.com/2009/11/06/movies/06thebox.html?ref=movies</url>
+         <critic>Manohla Dargis</critic>
+      </review>
+      <review>
+         <snippet>Kelly's trademark mix of sci-fi, surrealism and suburbia occasionally entertains.</snippet>
+         <url>http://www.variety.com/review/VE1117941484.html?categoryid=31&amp;cs=1</url>
+         <critic>Jordan Mintzer</critic>
+      </review>
+      <review>
+         <snippet>Kelly is devoted to telling his stories visually -- except when he's not. And the second half of The Box, unfortunately, underscores everything Kelly, as a filmmaker, wants to be and just can't.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2009/11/05/the_box/index.html</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>The Box plays like "The Pardoner's Tale" as retold by the conspiracy theorist haunting your neighborhood Radio Shack.</snippet>
+         <url>http://www.slate.com/id/2234731/</url>
+         <critic>John Swansburg</critic>
+      </review>
+      <review>
+         <snippet>It's no coincidence that The Box plays like the world's murkiest Twilight Zone episode. It's loosely based on ''Button, Button,'' a short story by Richard Matheson, who wrote some of the series' greatest scripts.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20318136,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>"Southland Tales" was a soporific mess, and while The Box (based on material by novelist Richard Matheson) is superior by a certain margin, Kelly derails his newfound discipline with the usual shimmering portals and hazy notions of apocalyptic sacrifice.</snippet>
+         <url>http://newyork.timeout.com/articles/film/80367/the-box-film-review</url>
+         <critic>Joshua Rothkopf</critic>
+      </review>
+      <review>
+         <snippet>An artistic fiasco that cuts across genre lines and all logic to become, perhaps, an instant midnight movie.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film-reviews/the-box-film-review-1004033457.story</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>It's a mess and it might cost him some career freedom, but at least Kelly hasn't cashed in his trademark narrative complexity for Hollywood pap.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A903577</url>
+         <critic>Marc Savlov</critic>
+      </review>
+      <review>
+         <snippet>The characters in The Box are like cardboard cutouts: Some have "foolish victim" labeled on them, and others fall into the category of absurdly creepy villain.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2009-11-06-thebox06_ST_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>The pacing throughout is languid. Your eye becomes fixated on the hideous 70s wallpaper behind them. If only the story's interstellar narrative developments had the intensity of that wallpaper. Rod Serling might've gotten a great hour out of it (the story, that is, not the wallpaper). It simply is not two hours' worth, no matter how many quantum leaps into the unknown Kelly takes.</snippet>
+         <url>http://www.chicagotribune.com/entertainment/movies/chi-tc-mov-box-1104-1106nov06,0,6885930.story</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>The new Richard Kelly movie is basically a sock of coal for Christmas.</snippet>
+         <url>http://www.villagevoice.com/2009-11-03/film/richard-kelly-s-flick-in-the-box/</url>
+         <critic>J. Hoberman</critic>
+      </review>
+      <review>
+         <snippet>What the plot doesn't decimate, the film's slower-than-a-clogged-drain pacing does. Sadly, this is one box that's just not worth picking up off the porch, much less opening, not even for a million dollars.</snippet>
+         <url>http://www.latimes.com/entertainment/news/la-et-thebox6-2009nov06,0,3846142.story</url>
+         <critic>Betsy Sharkey</critic>
+      </review>
+      <review>
+         <snippet>After a slightly promising start, this great-looking but ultimately deeply confusing and unscary sci-fi/horror opus turns into a quite boring rehash of M. Night Shyamalan's post-"Signs" films.</snippet>
+         <url>http://www.nypost.com/p/entertainment/movies/button_pressed_for_money_h5Ac5ejW4UYaHc33p2iHnM</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>The Box is its own kind of awful, a disconnected mess that never finds its reason for being.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2009/11/06/2009-11-06_the_box_dont_even_bother_opening_this_one.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+   </reviews>
+   <US_Gross>$15,051,977</US_Gross>
+   <production_budget>$25,000,000</production_budget>
+   <weekend_gross>$7,571,417</weekend_gross>
+   <number_of_screens>2,635</number_of_screens>
+   <highest_grossing_actors_present/>
+   <num_highest_grossing_actors>1</num_highest_grossing_actors>
+   <highest_grossing_actor>cameron diaz</highest_grossing_actor>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

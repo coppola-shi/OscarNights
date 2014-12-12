@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>300</name>
+   <company>Warner Bros. Pictures</company>
+   <genres>
+      <genre>Action</genre>
+      <genre>Adventure</genre>
+      <genre>Drama</genre>
+      <genre>War</genre>
+   </genres>
+   <authors>
+      <author>Zack Snyder</author>
+      <author>Kurt Johnstad</author>
+      <author>Michael Gordon</author>
+      <author>Frank Miller and Lynn Varley</author>
+   </authors>
+   <directors>
+      <director>Zack Snyder</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Gerard Butler</actor>
+      <actor>Lena Headey</actor>
+      <actor>Dominic West</actor>
+      <actor>David Wenham</actor>
+      <actor>Vincent Regan</actor>
+      <actor>Michael Fassbender</actor>
+      <actor>Tom Wisdom</actor>
+      <actor>Andrew Pleavin</actor>
+   </actors>
+   <release_date>March 9, 2007</release_date>
+   <running_time>116</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>Director Zack Snyder uses his computers to create ferocious and painterly images, with as much attention to each frame as a hand-drawn panel.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/306667_30009q.html</url>
+         <critic>Gianni Truzzi</critic>
+      </review>
+      <review>
+         <snippet>300 is a feast for the senses (well, two of them anyway) and an impressive technical achievement. More than that, it's a hell of a lot of fun.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=9860</url>
+         <critic>Pete Vonder Haar</critic>
+      </review>
+      <review>
+         <snippet>Not since Mario Bava's "Hercules in the Haunted World" has Greco-Roman movie-house mythmaking been so thoroughly well-conceived and executed.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A452782</url>
+         <critic>Marc Savlov</critic>
+      </review>
+      <review>
+         <snippet>300 is a movie blood-drunk on its own artful excess. Guys of all ages and sexes won't be able to resist it.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/6156065/review/13711861/300</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>Look, but don't be touched: There is much to see but little to remember in this telling of a battle we are meant never to forget.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20014254,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>300 may not offer masterful storytelling in a conventional sense, but it's hard to beat as a spectacle and that makes it worthwhile viewing for all but the most squeamish of potential audience members.</snippet>
+         <url>http://www.reelviews.net/movies/t/300.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>300 is a huge step forward in visually sophisticated storytelling.</snippet>
+         <url>http://ae.charlotte.com/entertainment/ui/charlotte/movie.html;jsessionid=12704FDA6F32D510E9D5EED0099DDA1D.prodapp14_ae_02?id=819009&amp;reviewId=22325&amp;startDate=03%2F08%2F2007</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>It's impossible not to be moved by its nearly nonstop visual assault.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/moviereviews/story/503684p-424758c.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>Cinema has once again proven its ability to incorporate every other mass-media art form. Director Zack Snyder and his computer wizards have made the best example yet of the movie-as-comic-book.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-to.three09mar09,0,2702274.story?coll=bal-movies-utility</url>
+         <critic>Chris Kaltenbach</critic>
+      </review>
+      <review>
+         <snippet>Significantly, this hyper-stylization of 300 is limited to its visuals. The performances are played straight, and this combination -- straight performances and stylized visuals -- produces an uncanny effect.</snippet>
+         <url>http://sfgate.com/cgi-bin/article.cgi?f=/c/a/2007/03/09/DDGQVOH7NC1.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>It may not be by-the-book history -- a relative term in any event, when discussing the ancients whose worldview embraced men, gods and monsters -- but what a spectacle!</snippet>
+         <url>http://tvguide.com/detail/movie.aspx?tvobjectid=286406&amp;more=ucmoviereview</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>In epic battle scenes where he combines breathtaking and fluid choreography, gorgeous 3-D drawings and hundreds of visual effects, director Zack Snyder puts onscreen the seemingly impossible heroism and gore of which Homer sang in "The Iliad."</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?&amp;rid=8813</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>The movie swings back and forth from awesome to awful so regularly and rapidly that it's like a jai alai match.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/117330992810860.xml&amp;coll=7</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>300 is at its best when it settles for purely visceral thrills, such as Leonidas' battle against a hulking warrior twice the size of a normal man. The movie's broad strokes are all superlative: It's the details that keep 300 from being anything more than a striking curiosity.</snippet>
+         <url>http://ae.charlotte.com/entertainment/ui/charlotte/movie.html;jsessionid=E1E3F3DF00A9F4C2BA0A9A3D24EC6364.prodapp14_ae_02?id=819009&amp;reviewId=22321</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>The action epic 300 is so overblown, overheated and over the top that on some level, it's fun to get caught up in the operatic dizziness of it.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2007-03-07-the300_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>This is a mixed blessing. For a story replete with open-air combat 300 is strangely claustrophobic. And for a film with lotsa flesh and even more blood, it's light on flesh-and-blood characters.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-070309-movies-review-300,0,4766850.story?coll=mmx-movies_top_heds</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>A blustery, bombastic, visually arresting account of the Battle of Thermopylae as channeled through the rabid imagination of graphic novelist Frank Miller.</snippet>
+         <url>http://www.variety.com/review/VE1117932810.html?categoryid=1236&amp;cs=1&amp;query=%22300%22</url>
+         <critic>Todd McCarthy</critic>
+      </review>
+      <review>
+         <snippet>Visually stunning, thoroughly belligerent and as shallow as a pygmy’s paddling pool, this is a whole heap of style tinged with just a smidgen of substance.</snippet>
+         <url>http://www.empireonline.com/reviews/review.asp?FID=11354</url>
+         <critic>Will Lawrence</critic>
+      </review>
+      <review>
+         <snippet>My deepest objection to the movie is that it is so blood-soaked. When dialogue arrives to interrupt the carnage, it's like the seventh-inning stretch.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20080804/REVIEWS/506949713</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>Part of the fascination of the Thermopylae story is that it really happened, and it helped define real heroism. There's nothing remotely like reality to be had in this film.</snippet>
+         <url>http://www.avclub.com/content/cinema/300</url>
+         <critic>Tasha Robinson</critic>
+      </review>
+      <review>
+         <snippet>The disconnect between the human actors and the digital backgrounds is more pronounced here than in a futuristic adventure like "Sky Captain and the World of Tomorrow," and because classic Hollywood cinema is so rich with epic images of antiquity, this can't help but seem chintzy.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/31181_THREE_HUNDRED.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>Sensory gluttony is reason enough to see a movie, and few epics overstuff the eyes like this one.</snippet>
+         <url>http://www.nypost.com/seven/03092007/entertainment/movies/persian_shrug_movies_kyle_smith.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>That it's so flat as an action movie probably has a lot to do with why people might prefer to jawbone over its putatively controversial aspects--there's really not much of a “wow” factor to revel in.</snippet>
+         <url>http://www.premiere.com/moviereviews/3580/300.html</url>
+         <critic>Glenn Kenny</critic>
+      </review>
+      <review>
+         <snippet>There's a stale, synthetic airlessness about the movie. Imagine a large cast trapped in a series of spectacular screensavers. It could be ancient Greece. It could be somebody's hard drive.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=8392</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>300 is "Gladiator" for the gamer set.</snippet>
+         <url>http://ae.charlotte.com/entertainment/ui/charlotte/movie.html;jsessionid=E1E3F3DF00A9F4C2BA0A9A3D24EC6364.prodapp14_ae_02?id=819009&amp;reviewId=22328</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>Just about everything in this pea-brained epic is overscaled and overwrought – it's a cartoon trying to be a towering triptych.</snippet>
+         <url>http://www.csmonitor.com/2007/0309/p14s01-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>300 is something to see, but unless you love violence as much as a Spartan, Quentin Tarantino or a video-game-playing teenage boy, you will not be endlessly fascinated.</snippet>
+         <url>http://www.calendarlive.com/printedition/calendar/cl-et-three9mar09,0,3473702.story</url>
+         <critic>Kenneth Turan</critic>
+      </review>
+      <review>
+         <snippet>300 will be talked about as a technical achievement, the next blip on the increasingly blurry line between movies and video games.</snippet>
+         <url>http://www.slate.com/id/2161450/fr/flyout</url>
+         <critic>Dana Stevens</critic>
+      </review>
+      <review>
+         <snippet>The bigger question to ask about 300 is why, for a supposedly rousing tale of heroism, it's so curiously unaffecting.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2007/03/09/300/index.html</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>As you watch -- no, endure -- this flattened-out spectacle, there's really nothing worth pondering save for a single thought: What a difference a director makes.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20070308.wthree09/BNStory/Entertainment/home</url>
+         <critic>Rick Groen</critic>
+      </review>
+      <review>
+         <snippet>Pop has always drawn energy from the lower floors of respectability; this movie, in which fan-boy cultism reaches new levels of goofy chaos and sexual confusion, draws energy from the subbasement.</snippet>
+         <url>http://www.newyorker.com/arts/critics/cinema/2007/04/02/070402crci_cinema_denby</url>
+         <critic>David Denby</critic>
+      </review>
+      <review>
+         <snippet>Another movie -- Matt Stone and Trey Parker's "Team America," whose wooden puppets were more compelling actors than most of the cast of 300 -- calculated the cost [of freedom] at $1.05. I would happily pay a nickel less, in quarters or arcade tokens, for a vigorous 10-minute session with the video game that 300 aspires to become.</snippet>
+         <url>http://movies2.nytimes.com/2007/03/09/movies/09thre.html?ref=movies</url>
+         <critic>A.O. Scott</critic>
+      </review>
+      <review>
+         <snippet>300 presents a dual clash of civilizations. An action adventure that pits thousands of Persians against 300 brave Spartans at the Battle of Thermopylae, it also pits millions of fans of brainless violence against a gallant band, or so I choose to think of us, who still expect movies to contain detectable traces of humanity.</snippet>
+         <url/>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>It's kind of a ghastly hoot, and while I suppose it does no harm, it also contributes nothing. It's a guilty unpleasantness.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1126276&amp;categories=Movies&amp;nm=1</url>
+         <critic>Stephen Hunter</critic>
+      </review>
+      <review>
+         <snippet>It's a ponderous, plodding, visually dull picture, but the blame shouldn't be put on Snyder's skills per se, and has nothing to do with his ambition to blur the distinction between CGI and photography. Frankly, it's the slavish, frame-by-frame devotion to Miller's source material that's the problem.</snippet>
+         <url>http://www.villagevoice.com/film/0710,lee,75993,20.html</url>
+         <critic>Nathan Lee</critic>
+      </review>
+   </reviews>
+   <US_Gross>$210,614,939</US_Gross>
+   <production_budget>$60,000,000</production_budget>
+   <weekend_gross>$70,885,301</weekend_gross>
+   <number_of_screens>3,103</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

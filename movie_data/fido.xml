@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Fido</name>
+   <company>Roadside Attractions</company>
+   <genres>
+      <genre>Comedy</genre>
+      <genre>Foreign</genre>
+      <genre>Horror</genre>
+      <genre>Scifi</genre>
+   </genres>
+   <authors>
+      <author>Robert Chomiak</author>
+      <author>Andrew Currie</author>
+      <author>Dennis Heaton</author>
+   </authors>
+   <directors>
+      <director>Andrew Currie</director>
+   </directors>
+   <origins>
+      <origin>Canada</origin>
+   </origins>
+   <actors>
+      <actor>Carrie-Anne Moss</actor>
+      <actor>Billy Connolly</actor>
+      <actor>Dylan Baker</actor>
+      <actor>K&amp;#039;sun Ray</actor>
+      <actor>Tim Blake Nelson</actor>
+   </actors>
+   <release_date>June 15, 2007</release_date>
+   <running_time>91</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>With its use of aggressively cheerful hues that are equal parts Technicolor and Tim Burton Candyland, Fido is a "boy and his dog" movie thrown into a horror movie blender. This is perfectly realized in a jaw-droppingly funny "Timmy's trapped in the well" sequence that almost seems like it could have been made in the 50s had George Romero ever worked on "Lassie."</snippet>
+         <url>http://www.premiere.com/moviereviews/3878/fido.html</url>
+         <critic>Eric Alt</critic>
+      </review>
+      <review>
+         <snippet>It's madly funny--a treat for moviegoers who don't mind gnawed-off limbs with their high jinks.</snippet>
+         <url>http://nymag.com/movies/reviews/33141/</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>It won't make you bleed, just howl.</snippet>
+         <url>http://movies2.nytimes.com/2007/06/15/movies/15fido.html?ref=movies</url>
+         <critic>Manohla Dargis</critic>
+      </review>
+      <review>
+         <snippet>It's just a clever, pointed little fable about the price of complacent conformity, slavish worship of the status quo, and trading freedom for the illusion of safety, wrapped in a sugary-sweet, Jordan-almond-colored coating that looks good enough to eat.</snippet>
+         <url>http://www.tvguide.com/movies/fido/review/288374</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>It's definitely the most fun you'll have with the undead this week.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2007/06/15/2007-06-15_zombie_film_is_dropdead_fun.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>Andrew Currie's stylish satire falls into the narrower niche of zombie farce, as pioneered by "Shaun of the Dead ," "Slither," Robert Rodriguez's half of "Grindhouse."</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=9713</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>The echoes of Douglas Sirk melodramas and Lassie movies just add to the fun.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/322576_fido06q.html</url>
+         <critic>Sean Axmaker</critic>
+      </review>
+      <review>
+         <snippet>Brightly packaged and steadily amusing.</snippet>
+         <url>http://www.variety.com/review/VE1117931530.html?categoryid=31&amp;cs=1&amp;p=0</url>
+         <critic>Dennis Harvey</critic>
+      </review>
+      <review>
+         <snippet>Most consistently funny is a deadpan Henry Czerny as the pipe-smoking, battle-hardened Zomcon head of security.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-fido15jun15,0,5264747.story?coll=cl-mreview</url>
+         <critic>Robert Abele</critic>
+      </review>
+      <review>
+         <snippet>Director Andrew Currie is better at laughs than scares, but he can’t sustain either as Fido runs out of steam in the final stretch. Till then, it’s fiendish fun.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/14707303/review/15040198/fido</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>Amusing without being particularly biting.</snippet>
+         <url>http://www.nypost.com/seven/06152007/entertainment/movies/dogged_by_insignificance_movies_lou_lumenick.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>Vancouver-based writer-director Andrew Currie leads us to stop expecting actual jokes while squandering the talents of an overqualified cast</snippet>
+         <url>http://www.villagevoice.com/film/0724,nelson,76933,20.html</url>
+         <critic>Rob Nelson</critic>
+      </review>
+   </reviews>
+   <US_Gross>$298,110</US_Gross>
+   <production_budget>$8,000,000</production_budget>
+   <weekend_gross>$10,203</weekend_gross>
+   <number_of_screens>2</number_of_screens>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

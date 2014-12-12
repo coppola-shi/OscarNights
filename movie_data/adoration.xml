@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Adoration</name>
+   <company>Sony Pictures Classics</company>
+   <genres>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author>Atom Egoyan</author>
+   </authors>
+   <directors>
+      <director>Atom Egoyan</director>
+   </directors>
+   <origins>
+      <origin>Canada</origin>
+   </origins>
+   <actors>
+      <actor>Arsinee Khanjian</actor>
+      <actor>Scott Speedman</actor>
+      <actor>Rachel Blanchard</actor>
+      <actor>Devon Bostick</actor>
+   </actors>
+   <release_date>May 8, 2009</release_date>
+   <running_time>100</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>A profound and provocative exploration of cultural inheritance, communications technology and the roots and morality of terrorism, the Canadian filmmaker Atom Egoyan nimbly wades into an ideological minefield without detonating an explosion.</snippet>
+         <url>http://movies.nytimes.com/2009/05/08/movies/08ador.html</url>
+         <critic>Stephen Holden</critic>
+      </review>
+      <review>
+         <snippet>Moody, provocative and intellectually ambitious, Adoration is primed to elicit impassioned discussion among audiences.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2009-05-07-adoration_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>At a minimum, his new film, Adoration, marks a welcome return to the Egoyan of old, the one who could spin seductive mysteries out of disassembled parts and show how images can be manipulated into comforting lies.</snippet>
+         <url>http://www.avclub.com/articles/adoration,27955/?utm_source=channel_film</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>Shot on beautifully utilized film but employing images vividly from the Internet and mobile phones, it's an examination of the power that false ideas may have on people's imagination and beliefs when they are repeated over and over.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?rid=11170</url>
+         <critic>Ray Bennett</critic>
+      </review>
+      <review>
+         <snippet>Though there are moments when the drama turns into intellectual debate, the film is also emotional, moving with a fluid, mounting tension and moments of anguish and strange, startling humour.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20080902.wtiff_minireviews/BNStory/tiff2008/home/?pageRequested=all</url>
+         <critic>Liam Lacey</critic>
+      </review>
+      <review>
+         <snippet>Some viewers may find the film confusing; I found it absorbing.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20090520/REVIEWS/905209985</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>Adoration, Egoyan's most affecting film since "The Sweet Hereafter."</snippet>
+         <url>http://www.philly.com/philly/entertainment/movies/20090522_A_troubled_youth_s_essay_and_its_effects.html</url>
+         <critic>Carrie Rickey</critic>
+      </review>
+      <review>
+         <snippet>Scott Speedman gives a piercing, intelligent performance.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/34408_ADORATION.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>This ambitious think-piece ultimately smothers its good intentions in didactic revelations, earnest pleading and incessant violin music. Engrossing nonetheless, the story of a high schooler troubled by his parents' legacy reps one of the Canadian writer-director's most accessible efforts.</snippet>
+         <url>http://www.variety.com/index.asp?layout=festivals&amp;jump=review&amp;reviewid=VE1117937251&amp;cs=1&amp;query=adoration</url>
+         <critic>Justin Chang</critic>
+      </review>
+      <review>
+         <snippet>Egoyan’s return to form is welcome, nevertheless Adoration adds up to less than we might have hoped for</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A791768</url>
+         <critic>Marjorie Baumgarten</critic>
+      </review>
+      <review>
+         <snippet>Adoration, which hinges on a number of coincidences, contains some really fine performances.</snippet>
+         <url>http://www.nypost.com/seven/05082009/entertainment/movies/free_of_a_clear_narrative_168180.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>Watching Adoration is like juggling three tennis balls, a porcupine, and a graduate thesis, but eventually it finds a unifying theme, that of tolerance melting away racial and intergenerational hatreds.</snippet>
+         <url>http://www.boston.com/ae/movies/articles/2009/05/15/terrorism_tow_trucks_and_the_nativity/</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>The end result is a movie considerably more absorbing to talk, write, and think about afterward than it is to actually watch.</snippet>
+         <url>http://www.villagevoice.com/2009-05-06/film/adoration-close-in-form-to-egoyan-s-early-work/</url>
+         <critic>Scott Foundas</critic>
+      </review>
+      <review>
+         <snippet>Once all the pieces of the story are assembled, the whole thing turns out to be not that big of a deal.</snippet>
+         <url>http://www.oregonlive.com/movies/index.ssf/2009/05/review_atom_egoyan_goes_online.html</url>
+         <critic>Marc Mohan</critic>
+      </review>
+      <review>
+         <snippet>The complex story structure teeters between the revelatory and the absurd, depending on how much you buy the irritating-then-intriguing performance by Arsine Khanjian (Egoyan's wife, the Armenian-Canadian actor).</snippet>
+         <url>http://www.washingtonpost.com/gog/movies/adoration,1156489.html</url>
+         <critic>Dan Zak</critic>
+      </review>
+      <review>
+         <snippet>After a promising start, this ambitious but ultimately clunky and unwieldy movie dissolves into a pile of ideas in dire need of dramatization.</snippet>
+         <url>http://www.miamiherald.com/entertainment/movies/reviews/story/1153678.html</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>Adoration, despite a family resemblance to some of his finest work ("The Sweet Hereafter," "Ararat"), is Egoyan at his worst. The movie is slow and airless, with a script so weak one wonders why Egoyan bothered to film it.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2009/05/14/MVKC17JVLO.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>The upshot is that those who appear to be guilty may not be -- a muddled message for our time.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20276715,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>There is always a risk with having such a singular focus on a single theme; you might wake up to find the walls of that favored niche are closing in on you. And that is where we find Egoyan in Adoration.</snippet>
+         <url>http://www.latimes.com/entertainment/news/la-et-adoration8-2009may08,0,2853872.story</url>
+         <critic>Betsy Sharkey</critic>
+      </review>
+      <review>
+         <snippet>Despite strong turns, it feels little more than an Egoyan lecture on Serious Stuff; lots to talk about, little to enjoy.</snippet>
+         <url>http://www.empireonline.com/reviews/reviewcomplete.asp?FID=136658</url>
+         <critic>Alan Morrison</critic>
+      </review>
+   </reviews>
+   <US_Gross>$293,614</US_Gross>
+   <weekend_gross>$39,358</weekend_gross>
+   <number_of_screens>10</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>London</name>
+   <company>Samuel Goldwyn Films LLC</company>
+   <genres>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author>Hunter Richards</author>
+   </authors>
+   <directors>
+      <director>Hunter Richards</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Jessica Biel</actor>
+      <actor>Jason Statham</actor>
+      <actor>Chris Evans</actor>
+      <actor>Joy Bryant</actor>
+      <actor>Kelli Garner</actor>
+      <actor>Isla Fisher</actor>
+      <actor>Dane Cook</actor>
+   </actors>
+   <release_date>February 10, 2006</release_date>
+   <running_time>100</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>London has a distinct Off-Off-Broadway feel. There's a stagebound quality to its handful of claustrophobic locations, its endless assault of intense coke talk, and its third-rate invocation of David Mamet, David Rabe, and Neil LaBute.</snippet>
+         <url>http://www.avclub.com/content/node/45225</url>
+         <critic>Nathan Rabin</critic>
+      </review>
+      <review>
+         <snippet>The film delivers lots of high-pitched hysteria but never manages to make its spoiled protagonists interesting.</snippet>
+         <url>http://online.tvguide.com/movies/database/ShowMovie.asp?MI=46735</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>Perhaps the best compliment that can be paid to Hunter Richards' directorial debut is that it nearly manages to make some of the most irritatingly shallow human beings on Earth seem tragic.</snippet>
+         <url>http://www.laweekly.com/index.php?option=com_lawcontent&amp;task=view&amp;id=12621&amp;Itemid=9</url>
+         <critic>Tim Grierson</critic>
+      </review>
+      <review>
+         <snippet>First-time writer-director Hunter Richards? London is even worse torture than it sounds. It includes flashbacks that actually demonstrate just how miserable a jerk the main character is.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/moviereviews/story/390159p-330844c.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>At least London nails the inanity of drug-speak - the bathroom chat quickly devolves from God and ''time horizons'' to coprophilia and a truly dumb confessional tirade by Statham - although perhaps this achievement is unintentional.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1159760_1_0_,00.html</url>
+         <critic>Gregory Kirschling</critic>
+      </review>
+      <review>
+         <snippet>Syd's (Chris Evans) emotional tailspin is embarrassingly banal, and his assertion that "everybody here hates me" quickly applies to the audience as well.</snippet>
+         <url>http://www.villagevoice.com/film/0606,park,72091,20.html</url>
+         <critic>Ed Park</critic>
+      </review>
+      <review>
+         <snippet>Bad movie. Ugly movie.</snippet>
+         <url>http://www.rogerebert.com/apps/pbcs.dll/article?AID=/20060209/REVIEWS/602090304/1023</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>Newbie director Richards shoots all the women like slabs of meat, and his self-seriousness throughout London--some of it tries to be funny, a lot of it is funny by accident--borders on the delusional.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-060210-movies-review-london,0,3970361.story?coll=mmx-movies_top_heds</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>Syd is a jerk whose anger does not make him interesting. The only reason to keep watching is because you hope someone will drop a piano on his head.</snippet>
+         <url>http://www.nypost.com/movies/63259.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>If London were a comedy, it just might work. Instead, it's a dead-serious marathon of angst from cool kids old enough to know they're mouthing cliches.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2006/02/10/DDGK8H5EQQ1.DTL&amp;type=movies</url>
+         <critic>Neva Chonin</critic>
+      </review>
+      <review>
+         <snippet>There's absolutely nothing fantastic or transporting about London, an endlessly ponderous relationship picture that also has zilch to do with the British city.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1001995464</url>
+         <critic>Michael Rechtshaffen</critic>
+      </review>
+      <review>
+         <snippet>A misfired attempt at provocation and the exploration of philosophical thought, London is little more than an immature display of male bonding on speed.</snippet>
+         <url>http://movies2.nytimes.com/2006/02/10/movies/10lond.html</url>
+         <critic>Laura Kern</critic>
+      </review>
+      <review>
+         <snippet>For those who enjoy fashion-model-looking twentysomethings yelling at each other in bathrooms while doing too much cocaine, voila! Heaven is a place called London.</snippet>
+         <url>http://www.variety.com/review/VE1117928127?categoryid=31&amp;cs=1</url>
+         <critic>Dennis Harvey</critic>
+      </review>
+      <review>
+         <snippet>The awful crank comedy "Spun" (2002) still ranks as the most dehumanizing youth picture of the decade, but this New York drama by first-time director Hunter Richards is a close second.</snippet>
+         <url>http://spacefinder.chicagoreader.com/movies/briefs/29285_LONDON.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>London is the independent film world's equivalent of a fiasco.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=8628</url>
+         <critic>Phil Hall</critic>
+      </review>
+   </reviews>
+   <US_Gross>$12,667</US_Gross>
+   <production_budget>$2,000,000</production_budget>
+   <weekend_gross>$12,667</weekend_gross>
+   <number_of_screens>7</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

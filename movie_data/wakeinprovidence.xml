@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Wake In Providence, A</name>
+   <company>Indican Pictures</company>
+   <genres>
+      <genre>Comedy</genre>
+   </genres>
+   <authors>
+      <author>Billy Van Zandt</author>
+      <author>Jane Milmore</author>
+      <author>Vincent Pagano</author>
+      <author>Mike Pagano</author>
+   </authors>
+   <directors>
+      <director>Rosario Roveto Jr.</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Vincent Pagano</actor>
+      <actor>Victoria Rowell</actor>
+      <actor>Mike Pagano</actor>
+      <actor>Adrienne Barbeau</actor>
+      <actor>Dan Lauria</actor>
+      <actor>Micole Mercurio</actor>
+      <actor>Lisa Raggio</actor>
+      <actor>Louis Guss</actor>
+   </actors>
+   <release_date>May 27, 2005</release_date>
+   <running_time>94</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>Might be said to have pleasant echoes of "Garden State" and "My Big Fat Greek Wedding" -- except that they aren't echoes; this 1999 indie film was made long before those other two hits, and frankly, is just about as good.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2005/04/15/DDGG0C7RVK1.DTL</url>
+         <critic>G. Allen Johnson</critic>
+      </review>
+      <review>
+         <snippet>Zesty indie comedy from Rhode Island is a winner, with ethnic humor easily mixing with universal truths about dealing with families.</snippet>
+         <url>http://www.variety.com/review/VE1117914990?categoryid=31&amp;cs=1</url>
+         <critic>Daniel Kimmel</critic>
+      </review>
+      <review>
+         <snippet>Lovingly shot on location in the Italian neighborhoods of Providence, this comfortably predictable film has its pleasures, most notably a dryly funny Adrienne Barbeau as the brothers' hip, hard-drinking Aunt Lidia.</snippet>
+         <url>http://movies2.nytimes.com/2005/11/11/movies/11wake.html</url>
+         <critic>Lawrence Van Gelder</critic>
+      </review>
+      <review>
+         <snippet>The best news here is Adrienne Barbeau, the 1970s TV star and B-movie queen (Swamp Thing), who invests the role of Anthony's aunt with a worldly-wise sensuality that suggests a long-lost cousin of Tony Soprano.</snippet>
+         <url>http://www.laweekly.com/film/film_results.php?showid=3655&amp;Sumbit.x=48&amp;Sumbit.y=14</url>
+         <critic>Chuck Wilson</critic>
+      </review>
+      <review>
+         <snippet>The film aims for a light social satire but mainly falls flat. It feels more like a long-lost pilot for some never-aired 1970s sitcom or a misguided sequel to a Billy Joel song.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-capsules11nov11,0,7466705.story</url>
+         <critic>Kevin Crust</critic>
+      </review>
+      <review>
+         <snippet>Witless farce.</snippet>
+         <url>http://online.tvguide.com/movies/database/ShowMovie.asp?MI=46033</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+   </reviews>
+   <US_Gross>$403,069</US_Gross>
+   <weekend_gross>$32,018</weekend_gross>
+   <number_of_screens>5</number_of_screens>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>true</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

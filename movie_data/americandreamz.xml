@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>American Dreamz</name>
+   <company>Universal Pictures</company>
+   <genres>
+      <genre>Comedy</genre>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author>Paul Weitz</author>
+   </authors>
+   <directors>
+      <director>Paul Weitz</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Hugh Grant</actor>
+      <actor>Dennis Quaid</actor>
+      <actor>My Moore</actor>
+      <actor>Marcia Gay Harden</actor>
+      <actor>Willem Dafoe</actor>
+      <actor>Chris Klein</actor>
+      <actor>Judy Greer</actor>
+      <actor>Sam Golzari</actor>
+   </actors>
+   <release_date>April 21, 2006</release_date>
+   <running_time>107</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>A blithe, funny, and engaging movie.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1184973_1_0_,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>The movie is more slapdash than smooth, more impulsive than calculating, and it takes cheap shots. I responded to its savage, sloppy zeal.</snippet>
+         <url>http://www.rogerebert.com/apps/pbcs.dll/article?AID=/20060420/REVIEWS/60419002/1023</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>"Network" it's not. Weitz doesn't have the killer instinct for merciless satire but he knows how to stage a gag and deliver a punchline.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/267466_dreamz21q.html</url>
+         <critic>Sean Axmaker</critic>
+      </review>
+      <review>
+         <snippet>Not as incisive a political commentary as "Thank You For Smoking," American Dreamz lampoons the public's appetite for mindless entertainment and easy distraction from serious concerns.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2006-04-20-dreamz_x.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>The rare case of a movie that gets better as it goes along.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2006/04/21/DDGBEIBU051.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>American Dreamz pitches its softballs with style. Martin Tweed, the preeningly heartless British host of the title TV show, just may be the great comic role that has always eluded Hugh Grant.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=8601</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>The jokes in American Dreamz whiz by with speed and grace, and Weitz maintains control of the material every minute.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2006/04/21/american_dreamz/index.html</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>Grant's second coming as a rake and an egotist is the best thing to happen to his career since "Four Weddings and a Funeral." He is twice as enjoyable as the preening bad guy as he was as the bumbling good guy, and Weitz makes perfect use of the new persona.</snippet>
+         <url>http://www.calendarlive.com/movies/chocano/cl-et-americandreamz21apr21,0,5775553.story</url>
+         <critic>Carina Chocano</critic>
+      </review>
+      <review>
+         <snippet>Weitz has a winning way with a one-liner, and he's recruited a stellar cast that gets the most out of his material.</snippet>
+         <url>http://www.avclub.com/content/node/47864</url>
+         <critic>Nathan Rabin</critic>
+      </review>
+      <review>
+         <snippet>This movie seems better suited as cable or video fare than for theatrical viewing.</snippet>
+         <url>http://movie-reviews.colossus.net/movies/a/american_dreamz.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>Where good satire is drawn with a surgeon's scalpel, this comedy is done with a brush broad enough to paint - or, at least, hit - the side of a barn. But in the softer realm of parody, it has a good premise, a couple of funny performances and enough giggles for a reasonably good time at the movies.</snippet>
+         <url>http://www.nydailynews.com/04-21-2006/entertainment/col/story/410791p-347374c.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>Pitched too broadly to get very deeply under your skin. Still, there are some smarts at work here, and it will make you laugh.</snippet>
+         <url>http://www.msnbc.msn.com/id/12442173/site/newsweek/</url>
+         <critic>David Ansen</critic>
+      </review>
+      <review>
+         <snippet>As a political statement, American Dreamz is overly didactic and liberal in a read-too-many-blogs sort of way.</snippet>
+         <url>http://www.slate.com/id/2140316/?nav=fo</url>
+         <critic>Michael Agger</critic>
+      </review>
+      <review>
+         <snippet>A moderately engaging satire, some of it amusing and some of it strained, but in considerable measure it reflects a strange circumstance in all our lives.</snippet>
+         <url>http://www.tnr.com/doc.mhtml?i=20060515&amp;s=kauffmann051506</url>
+         <critic>Stanley Kauffmann</critic>
+      </review>
+      <review>
+         <snippet>The only likable characters are ebullient Omer (Sam Golzari), a show-tune-loving reluctant Iraqi suicide bomber who comes to the O.C., and earnest William (Chris Klein), an American GI wounded in Iraq, who are mirror images.</snippet>
+         <url>http://ae.philly.com/entertainment/ui/philly/movie.html?id=586250&amp;reviewId=20596&amp;startDate=04%2F21%2F2006</url>
+         <critic>Carrie Rickey</critic>
+      </review>
+      <review>
+         <snippet>Hugh Grant's Martin Tweed is nowhere as menacing (or interesting) as the callous bruiser who makes every episode of American Idol a chilling psychotic adventure.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/LAC.20060421.DREAMZ21/TPStory/TPEntertainment/</url>
+         <critic>Stephen Cole</critic>
+      </review>
+      <review>
+         <snippet>Gets the details right while missing the big picture.</snippet>
+         <url>http://online.tvguide.com/newsearch/detail.aspx?id=46811&amp;sourcetype=m&amp;progseriesparentid=0&amp;tvobjectid=0&amp;keyword=&amp;more=ucmoviereview</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>Putting it another way: When spoofs of bad singing and songwriting are the sharpest arrows in your quiver, and your politics are diluted until they hit about as hard as someone sticking their tongue out, your satire has a problem.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/114548551330010.xml&amp;coll=7</url>
+         <critic>M. E. Russell</critic>
+      </review>
+      <review>
+         <snippet>Weitz's idea of satire is generally both ludicrous and mild: exaggerating types, then sentimentalizing them.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-to.american21apr21,0,2580360.story?coll=bal-artslife-movies</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>The vision of America as a vast, ratings-driven amateur hour is not without promise, but Weitz's movie, named for the most popular TV program in its parallel universe, is disappointingly soft in its individual characterizations.</snippet>
+         <url>http://www.villagevoice.com/film/0616,hoberman,72909,20.html</url>
+         <critic>J. Hoberman</critic>
+      </review>
+      <review>
+         <snippet>Grant, playing a variation on Simon Cowell, resident meanie on "American Idol" and its inspiration, Britain's "Pop Idol," does what's required with seedy panache. Yet the characterization, both as written and acted, lacks a spark.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-060421-movies-review-dreamz,0,5477686.story?coll=mmx-movies_top_heds</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>As in his previous "In Good Company," Weitz wants too much to like all of his characters, and he wants us to like them too. The result is a movie devoid of any threat, or many laughs, with barn door–broad performances.</snippet>
+         <url>http://www.laweekly.com/film+tv/film-reviews/film-reviews/13252/</url>
+         <critic>Scott Foundas</critic>
+      </review>
+      <review>
+         <snippet>A film with none of the heart that has characterized Weitz's best work and none of the freshness of his most successful.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1002234808</url>
+         <critic>John DeFore</critic>
+      </review>
+      <review>
+         <snippet>To keep his satirist’s street cred, Weitz chases the sentimentality with sour slaps at the audience. But for all its supposed outrageousness, American Dreamz has a soft center.</snippet>
+         <url>http://newyorkmetro.com/movies/reviews/16701/</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>Combining a gallery of targets including President Bush, "American Idol," the Iraq War and the overarching theme of a nation of citizens held in the thrall of phony dreams, pic and its ambitions are undermined by insistent cartoonishness and comic ineptitude.</snippet>
+         <url>http://www.variety.com/review/VE1117929997?categoryid=31&amp;cs=1</url>
+         <critic>Robert Koehler</critic>
+      </review>
+      <review>
+         <snippet>Maybe America will prove me wrong by voting, but I felt like you were holding back until the end.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A358529</url>
+         <critic>Marrit Ingman</critic>
+      </review>
+      <review>
+         <snippet>The movie tires itself out setting up the complex plot.</snippet>
+         <url>http://www.premiere.com/article.asp?section_id=2&amp;article_id=2755</url>
+         <critic>Allison Williams</critic>
+      </review>
+      <review>
+         <snippet>A cartoonish, unfocused and mostly unfunny satire.</snippet>
+         <url>http://www.nypost.com/movies/67351.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>The writer-producer-director of American Dreamz makes nearly every mistake in the satirical book. His targets are either too easy or too dated. He's inconsistent in his attitudes toward them. His stereotypes are stale.</snippet>
+         <url>http://ae.charlotte.com/entertainment/ui/charlotte/movie.html?id=586250&amp;reviewId=20586&amp;startDate=NEXT7</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>It's a redundant comedy, like hearing the same tired joke for the 100th time.</snippet>
+         <url>http://ae.miami.com/entertainment/ui/miami/movie.html?id=586250&amp;reviewId=20587</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>The director of "American Pie" has set out to make a merciless satire of American media culture along the lines of "Network," but his ideas are so commonplace that nothing registers except the bile.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/29374_AMERICAN_DREAMZ.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>This picture ain't funny. I winced three times, and gave a couple of short laughs, but that was it.</snippet>
+         <url>http://www.newyorker.com/critics/cinema/?060424crci_cinema</url>
+         <critic>Anthony Lane</critic>
+      </review>
+      <review>
+         <snippet>The jokes don't just fizzle into insignificance; they flop about with gaudy ineffectualness, gasping for air like newly landed trout.</snippet>
+         <url>http://movies2.nytimes.com/2006/04/21/movies/21drea.html?adxnnl=1&amp;adxnnlx=1145577071-iIg6TytBnqb2l/+lb7GTPA</url>
+         <critic>Manohla Dargis</critic>
+      </review>
+      <review>
+         <snippet>Weitz co-directed the wonderful "About a Boy" in 2002, but in "Dreamz" -- a tediously facile satire -- his comic instincts fail him.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1116968&amp;lat=200.0&amp;lon=200.0&amp;displaySearchLocation=&amp;nm=1&amp;categories=Movies</url>
+         <critic>Desson Thomson</critic>
+      </review>
+      <review>
+         <snippet>The movie stands as a genuine offense against the venerable and indispensable institution of satire.</snippet>
+         <url/>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>Weitz doesn't have the chops for satire, let alone black comedy.</snippet>
+         <url>http://www.csmonitor.com/2006/0421/p16s02-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>It is definitely the weakest movie of the Weitz catalog and will certainly be forgotten faster than Hung himself.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=8696</url>
+         <critic>Michael Ferraro</critic>
+      </review>
+   </reviews>
+   <US_Gross>$7,314,027</US_Gross>
+   <production_budget>$17,000,000</production_budget>
+   <weekend_gross>$3,667,420</weekend_gross>
+   <number_of_screens>1,500</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

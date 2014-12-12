@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>P2</name>
+   <company>Summit Entertainment</company>
+   <genres>
+      <genre>Horror</genre>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>Alexandre Aja</author>
+      <author>Franck Khalfoun</author>
+      <author>Gregory Levasseur</author>
+   </authors>
+   <directors>
+      <director>Franck Khalfoun</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Rachel Nichols</actor>
+      <actor>Wes Bentley</actor>
+      <actor>Simon Reynolds</actor>
+      <actor>Grace Lynn Kung</actor>
+      <actor>Paul Sun-Hyung Lee</actor>
+   </actors>
+   <release_date>November 9, 2007</release_date>
+   <running_time>98</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>If it weren't for two excessively violent deaths, P2 could be termed a refreshingly old-fashioned thriller, one dependent on hairbreadth escapes and the pluck of its heroine.</snippet>
+         <url>http://www.villagevoice.com/film/0745,wilson,78266,20.html</url>
+         <critic>Chuck Wilson</critic>
+      </review>
+      <review>
+         <snippet>If in the end P2 contains few surprises, it's still a nice piece of polished escapism.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1143568&amp;categories=Movies&amp;nm=1</url>
+         <critic>Mike Mayo</critic>
+      </review>
+      <review>
+         <snippet>P2 doesn't crash and burn, but its finale is more generic than what the effective first hour leads us to hope for.</snippet>
+         <url>http://www.reelviews.net/movies/p/p2.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>Swift and stealthy P2 is a canny exploitation of one of the urban woman’s greatest fears: the after-hours parking garage. Throw in a car that won’t start, a creepy security guard and a filmmaking team with perfect synchronicity, and the result is a minimalist nightmare.</snippet>
+         <url>http://movies.nytimes.com/2007/11/09/movies/09park.html?ref=movies</url>
+         <critic>Jeannette Catsoulis</critic>
+      </review>
+      <review>
+         <snippet>The minor pleasures of P2 lie in the simple effectiveness of the sleekly unshowy direction and the clean, unadorned script, which pares away extraneous distractions like motivation and complicated back stories to get on with the mechanics of tension and the obligatory jumps and startles (which stand in for genuine scares).</snippet>
+         <url>http://seattlepi.nwsource.com/movies/338854_p209q.html</url>
+         <critic>Sean Axmaker</critic>
+      </review>
+      <review>
+         <snippet>No two ways about it: The screenplay is derivative. But the location adds a little novelty to the standard-issue running and screaming.</snippet>
+         <url>http://www.tvguide.com/movies/p2/review/291151</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>Standard-issue slasher pic.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2007/11/09/DDTFT8QL3.DTL&amp;type=movies</url>
+         <critic>Walter Addiego</critic>
+      </review>
+      <review>
+         <snippet>In the sadism-for-thrills sweepstakes, P2 is no "Saw," but it will get young women to clutch their dates for a week or so in theaters before fading to DVD shelves.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?JSESSIONID=zhCCH4RZYNr1GWG7rF0KPBpNccGQkh6zVvf0n2zpLF1shpzTmsQm!1162618999&amp;&amp;rid=10178</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>What "Psycho" did for the shower, P2 tries very hard to do for the parking garage, spending most of its time below ground, and below an adequate level of convincing dread.</snippet>
+         <url>http://www.variety.com/review/VE1117935359.html?categoryid=31&amp;cs=1</url>
+         <critic>John Anderson</critic>
+      </review>
+      <review>
+         <snippet>Ultimately, though, and despite an enormously creepy turn from Bentley (American Beauty), the story has nowhere else to go but into the standard (albeit judiciously-used) stalk-and-slash territory.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A557898</url>
+         <critic>Marc Savlov</critic>
+      </review>
+      <review>
+         <snippet>The lighting is appropriately dim, the music is reasonably clever, and they get in a few nice scares in the beginning. But as the movie wears on and Angela’s desperation grows, any glimmer of fun seeps away. And we’re left watching the same old grim game of cat and mouse.</snippet>
+         <url>http://chicago.metromix.com/movies/movie_review/movie-review-p2/247665/content</url>
+         <critic>Jessica Reaves</critic>
+      </review>
+      <review>
+         <snippet>This is one of those thrillers where the person on-screen is often the only person in the theater who can't guess what'll happen next. 
+Lots of laughable moments provide camp value, though, and Bentley ("American Beauty") makes for a charismatic creep.</snippet>
+         <url>http://www.nypost.com/seven/11092007/entertainment/movies/p_2_153141.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>A pointless thriller.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20071108.p-two09nat/BNStory/Entertainment/home</url>
+         <critic>Jason McBride</critic>
+      </review>
+      <review>
+         <snippet>Has the feeling of something done many times before.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/reviews/bal-to.parking09nov09,0,959328.story</url>
+         <critic>Robert Abele</critic>
+      </review>
+      <review>
+         <snippet>Amid the dumbness and disgust for paying customers, the movie does manage to cough up something I didn't expect: a performance so terrible you can't quite believe it's happening: Bentley's.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=10765</url>
+         <critic>Wesley Morris</critic>
+      </review>
+   </reviews>
+   <US_Gross>$6,348,315</US_Gross>
+   <weekend_gross>$2,083,398</weekend_gross>
+   <number_of_screens>2,131</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Blind Side</name>
+   <company>Warner Bros. Pictures</company>
+   <genres>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author>John Lee Hancock</author>
+      <author>Michael Lewis</author>
+   </authors>
+   <directors>
+      <director>John Lee Hancock</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Sra Bullock</actor>
+      <actor>Tim McGraw</actor>
+      <actor>Kathy Bates</actor>
+      <actor>Quinton Aaron</actor>
+      <actor>Lily Collins</actor>
+      <actor>Jae Head</actor>
+   </actors>
+   <release_date>November 20, 2009</release_date>
+   <running_time>126</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>This may be Bullock's best performance. Ever.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=12012</url>
+         <critic>Elias Savada</critic>
+      </review>
+      <review>
+         <snippet>What makes The Blind Side a Thanksgiving treat is director Hancock's subtle touch and admirable refusal to yield to sports movie clichés, something he did previously with "The Rookie" and "Remember the Titans."</snippet>
+         <url>http://www.nypost.com/p/entertainment/movies/gridiron_maiden_zjVT2gPoN59dCthIt3SEGJ</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>One of the reasons it's so effective is because it's based on a real-life, odds-defying story: that of mountainous Baltimore Ravens offensive tackle Michael Oher (played by Quinton Aaron).</snippet>
+         <url>http://www.nola.com/movies/index.ssf/2009/11/sandra_bullock_the_blind_side.html</url>
+         <critic>Mike Scott</critic>
+      </review>
+      <review>
+         <snippet>Without restraint or subtlety, but with a lot of heart and energy, this movie tells a real-life tall tale.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-ae.mo.blind20nov20,0,61204.story</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>Best performance, minute for minute, comes from Adriane Lenox, whose cameo as Michael's drug-addled mother is the film's standout.</snippet>
+         <url>http://www.csmonitor.com/2009/1120/p17s06-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>Grounded in the direct, disarming truth of their experience, the movie has a straightforward lack of cheap sentiment that saves it from being either too maudlin or saccharine-sweet.</snippet>
+         <url>http://www.washingtonpost.com/gog/movies/the-blind-side,1158777/critic-review.html#reviewNum1</url>
+         <critic>Ann Hornaday</critic>
+      </review>
+      <review>
+         <snippet>In a head-to-head comparison, one would be hard-pressed not to declare that "Precious" is the better film - it makes fewer compromises and doesn't shy from showing the true ugliness only hinted at in this movie, but The Blind Side is more accessible. It's easier to digest. In the end, both films tell stories of triumph over adversity - a category of drama that uplifts while offering a dollop of social commentary.</snippet>
+         <url>http://www.reelviews.net/php_review_template.php?identifier=1888</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>Bullock is an irrepressible hoot in writer-director John Lee Hancock's otherwise thoroughly conventional take on Michael Lewis' fact-based book "The Blind Side: Evolution of a Game."</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film-reviews/the-blind-side-film-review-1004042928.story</url>
+         <critic>Michael Rechtshaffen</critic>
+      </review>
+      <review>
+         <snippet>Uplifting and entertaining feel-good, fact-based sports drama.</snippet>
+         <url>http://www.variety.com/review/VE1117941608.html?categoryid=31&amp;cs=1</url>
+         <critic>Joe Leydon</critic>
+      </review>
+      <review>
+         <snippet>The story is inspiring and involves sports, but to call it an inspirational sports story would be wrong; its real center is Leigh Anne Tuohy (Sandra Bullock in a fine performance), the strong-willed woman whose love and generosity helped turn a mute, hopeless boy with no social or academic skills into a functioning young man with a promising future.</snippet>
+         <url>http://www.chicagoreader.com/chicago/MovieTimes?oid=1007605</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>Wisely, Hancock has given the film as much humor as heart.</snippet>
+         <url>http://www.latimes.com/entertainment/news/la-et-blind-side20-2009nov20,0,683065.story</url>
+         <critic>Betsy Sharkey</critic>
+      </review>
+      <review>
+         <snippet>It’s not an altogether convincing portrait, but it is an entertaining, even moving one, and the forcefulness of Bullock's presence goes a long way in pulling the film back from the brink of cuddliness.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A917022</url>
+         <critic>Kimberley Jones</critic>
+      </review>
+      <review>
+         <snippet>Bullock’s levelheaded acting frequently saves the movie from emotional garishness.</snippet>
+         <url>http://www.boston.com/ae/movies/articles/2009/11/20/blind_side_sticks_to_the_playbook_on_race_and_renewal/</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>An engaging if transparent tearjerker of the first water.</snippet>
+         <url>http://www.philly.com/philly/entertainment/movies/20091120_A_big_tackle_and_a_little_lady.html</url>
+         <critic>David Hiltbrand</critic>
+      </review>
+      <review>
+         <snippet>Michael as a character is defined almost solely by his helplessness and gratitude. He's as lovable as a lost puppy, but a more perceptive movie than The Blind Side would have let us see him from another angle.</snippet>
+         <url>http://www.stltoday.com/stltoday/entertainment/reviews.nsf/movie/story/50213DCBF298E0FF862576720074DCE9?OpenDocument</url>
+         <critic>Joe Williams</critic>
+      </review>
+      <review>
+         <snippet>Has strong performances and stirring football scenes.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2009-11-20-blindside20_ST_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>For all The Blind Side's flaws, it's impossible not to get caught up in Michael Oher's life.</snippet>
+         <url>http://www.slate.com/id/2236151/</url>
+         <critic>Dana Stevens</critic>
+      </review>
+      <review>
+         <snippet>Unlike the tale told in "Precious", however, The Blind Side's story is contrived, storybook sweet, credulity-straining and ... um, true.</snippet>
+         <url>http://www.npr.org/templates/story/story.php?storyId=120456017</url>
+         <critic>Bob Mondello</critic>
+      </review>
+      <review>
+         <snippet>Never dull, but it's rarely more than gently entertaining.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2009/11/19/MVBI1ALUN6.DTL</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>A football story that deserves a penalty flag every other play for piling on the sentiment.</snippet>
+         <url>http://www.theglobeandmail.com/news/arts/the-blind-side/article1369953/</url>
+         <critic>Stephen Cole</critic>
+      </review>
+      <review>
+         <snippet>Veers perilously close to the concept of poverty tourism.</snippet>
+         <url>http://featuresblogs.chicagotribune.com/talking_pictures/</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>A feel-good movie that never stops feeling good. The film is based on a true story (it was adapted from a nonfiction best-seller by Michael Lewis), but you never feel that Hancock has honestly captured what's true about it.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20320739,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>The film, not unsurprisingly for a holiday- (and football-) season release from a major Hollywood studio, plays this story straight down the middle, shedding nuance and complication in favor of maximum uplift.</snippet>
+         <url>http://movies.nytimes.com/2009/11/20/movies/20blindside.html?ref=movies</url>
+         <critic>A.O. Scott</critic>
+      </review>
+      <review>
+         <snippet>It's fair to say that Bullock's appealing portrait of a strong-willed Tennessee belle ranks among the best work of her career. It's just too bad the movie around her comes up short.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2009/11/20/2009-11-20_the_blind_side_.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>A facile, feel-good fable that substitutes cliché for reality at nearly every turn.</snippet>
+         <url>http://www.oregonlive.com/movies/index.ssf/2009/11/review_the_blind_side_is_a_fee.html</url>
+         <critic>Marc Mohan</critic>
+      </review>
+      <review>
+         <snippet>Sports movies have a long, troubled history of well-meaning white paternalism, with poor black athletes finding success through white charity. But The Blind Side, based on Michael Lewis’ non-fiction book, finds a new low.</snippet>
+         <url>http://www.avclub.com/articles/the-blind-side,35586/</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>It’s just blinkered middle-class pandering at its most shameless.</snippet>
+         <url>http://newyork.timeout.com/articles/film/80764/the-blind-side-film-review</url>
+         <critic>David Fear</critic>
+      </review>
+      <review>
+         <snippet>Blind Side the movie peddles the most insidious kind of racism, one in which whiteys are virtuous saviors, coming to the rescue of African-Americans who become superfluous in narratives that are supposed to be about them.</snippet>
+         <url>http://www.villagevoice.com/2009-11-17/film/saintly-white-people-do-the-saving-in-the-blind-side/</url>
+         <critic>Melissa Anderson</critic>
+      </review>
+   </reviews>
+   <US_Gross>$254,273,981</US_Gross>
+   <production_budget>$35,000,000</production_budget>
+   <weekend_gross>$34,119,372</weekend_gross>
+   <number_of_screens>3,110</number_of_screens>
+   <oscar_winning_actors_present/>
+   <num_oscar_winning_actors>1</num_oscar_winning_actors>
+   <oscar_winning_actor>kathy bates</oscar_winning_actor>
+   <highest_grossing_actors_present/>
+   <num_highest_grossing_actors>1</num_highest_grossing_actors>
+   <highest_grossing_actor>kathy bates</highest_grossing_actor>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

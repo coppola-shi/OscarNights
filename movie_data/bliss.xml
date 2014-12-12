@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Bliss</name>
+   <company>First Run Features</company>
+   <genres>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author>Elif Ayan</author>
+   </authors>
+   <directors>
+      <director>Abdullah Oguz</director>
+   </directors>
+   <origins>
+      <origin>Turkey</origin>
+      <origin>Greece</origin>
+   </origins>
+   <actors>
+      <actor>Özgü Namal</actor>
+      <actor>Talat Bulut</actor>
+      <actor>Murat Han</actor>
+      <actor>Mustafa Avkiran</actor>
+      <actor>Emin Gursoy</actor>
+      <actor>Meral Çetinkaya</actor>
+      <actor>Lale Mansur</actor>
+   </actors>
+   <release_date>August 7, 2009</release_date>
+   <running_time>105</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>This consistently gripping, visually intoxicating film stands as a landmark of contemporary Turkish cinema.</snippet>
+         <url>http://movies.nytimes.com/2009/08/07/movies/07bliss.html?ref=movies</url>
+         <critic>Stephen Holden</critic>
+      </review>
+      <review>
+         <snippet>Self-discovery always comes with a cost, and in Bliss the price is a great one. It is mesmerizing to watch it unfold in the lives of these two young people.</snippet>
+         <url>http://www.latimes.com/entertainment/news/la-et-bliss9-2009oct09,0,1413227.story</url>
+         <critic>Betsy Sharkey</critic>
+      </review>
+      <review>
+         <snippet>Just as key to the movie's impact are its well-acted scenes of heart-wrenching emotion, although some stray perilously close to melodrama.</snippet>
+         <url>http://www.nola.com/movies/index.ssf/2009/09/turkish_drama_bliss_packs_an_e.html</url>
+         <critic>Mike Scott</critic>
+      </review>
+      <review>
+         <snippet>To its favor, the film is blessed with strong peformances by Ozgu Namal as Meryem and Murat Han as Cemal.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=11838</url>
+         <critic>Phil Hall</critic>
+      </review>
+      <review>
+         <snippet>Though calling out the abominable oppression of women, even in a vehicle as didactic as Bliss, serves at least some redeemable purpose.</snippet>
+         <url>http://www.villagevoice.com/2009-08-04/film/brutal-misogyny-meets-calcified-constructs-in-bliss/</url>
+         <critic>Melissa Anderson</critic>
+      </review>
+      <review>
+         <snippet>Director Abdullah Oguz gives us lots of nice scenery, but the simplistic story and characters strain credibility. What's more, the climactic plot turn is as hokey as it gets.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2009/09/03/MVU019HL20.DTL&amp;type=movies</url>
+         <critic>Walter Addiego</critic>
+      </review>
+      <review>
+         <snippet>The result is infotainment dressed up as an art flick. Turkish society is fascinatingly complex and its East/West tensions give rise not to easy allegories but to hard ambiguities. To explore that truth, read any novel by Orhan Pamuk. To escape it, watch Bliss.</snippet>
+         <url>http://www.theglobeandmail.com/news/arts/bliss/article1447634/</url>
+         <critic>Rick Groen</critic>
+      </review>
+   </reviews>
+   <US_Gross>$39,203</US_Gross>
+   <weekend_gross>$7,039</weekend_gross>
+   <number_of_screens>1</number_of_screens>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Delirious</name>
+   <company>Peace Arch Releasing</company>
+   <genres>
+      <genre>Comedy</genre>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author>Tom Di</author>
+      <author>Cillo</author>
+   </authors>
+   <directors>
+      <director>Tom Di</director>
+      <director>Cillo</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Steve Buscemi</actor>
+      <actor>Michael Pitt</actor>
+      <actor>Alison Lohman</actor>
+      <actor>David Wain</actor>
+   </actors>
+   <release_date>August 15, 2007</release_date>
+   <running_time>107</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>This is the best DiCillo movie I've seen, and he's made some good ones ("Box of Moonlight," "The Real Blonde").</snippet>
+         <url>http://www.rogerebert.com/apps/pbcs.dll/article?AID=/20070830/REVIEWS/70817017/1023</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>Smart, funny and ultimately over-the-top spoof is more often than not, spot on.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/imdb/reviews/article_display.jsp?rid=8651&amp;vnu_special_account_code=thrsiteimdbpro</url>
+         <critic>Sura Wood</critic>
+      </review>
+      <review>
+         <snippet>The movie is exhilarating in a way that only hard-won knowledge of the world can be.</snippet>
+         <url>http://www.newyorker.com/arts/critics/cinema/2007/08/20/070820crci_cinema_denby?currentPage=2</url>
+         <critic>David Denby</critic>
+      </review>
+      <review>
+         <snippet>An all-or-nothing perf from old DiCillo hand Steve Buscemi and a script that leaves no ironical stone unturned make this laugh-out-loud fare.</snippet>
+         <url>http://www.variety.com/review/VE1117931772.html?categoryid=31&amp;cs=1&amp;p=0</url>
+         <critic>Jonathan Holland</critic>
+      </review>
+      <review>
+         <snippet>Tom DiCillo’s angry comedy Delirious subjects modern celebrity culture to a microscopic examination that shows the toxic virus of fame squirming and multiplying under its lens.</snippet>
+         <url>http://movies.nytimes.com/2007/08/15/movies/15deli.html?ref=movies</url>
+         <critic>Stephen Holden</critic>
+      </review>
+      <review>
+         <snippet>Among DiCillo's best, and returns to the central theme of his career: the elusive and destructive nature of fame.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2007/08/16/btm/index1.html</url>
+         <critic>Andrew O&amp;#039;Hehir</critic>
+      </review>
+      <review>
+         <snippet>In the end, I don't know that Delirious has all that much to say about the fame game, but you'll laugh nonetheless.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2007/08/15/2007-08-15_its_the_age_of_paris_and_hes_the_parasit.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>Despite some plot holes, Delirious, hits the bull's-eye with razor-sharp performances and dialogue.</snippet>
+         <url>http://www.nypost.com/seven/08152007/entertainment/movies/with_lens_like_these____movies_lou_lumenick.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>Engaging, intelligent and enjoyable.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-070831-movies-review-delirious,0,3136907.story?coll=mmx-movies_top_heds</url>
+         <critic>Tasha Robinson</critic>
+      </review>
+      <review>
+         <snippet>DiCillo's short, sharp snapshot about celebrity and life on the fringe has nothing new to say, but it says it with considerable charm and affection.</snippet>
+         <url>http://www.tvguide.com/movies/delirious/review/289847</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>Buscemi makes this pathetic and potentially lethal shutterbug a figure of surprising humor and compassion.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/13120054/review/15221337/delirious</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>Wonderfully giddy meditation on the nature of fame.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2007/09/14/DDLTRLUSE.DTL&amp;type=movies</url>
+         <critic>David Wiegand</critic>
+      </review>
+      <review>
+         <snippet>A story peopled by flawed archetypes, it's an achingly funny film that is also a little sad around the edges.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-delirious17aug17,0,1271859.story?coll=cl-mreview</url>
+         <critic>Kevin Crust</critic>
+      </review>
+      <review>
+         <snippet>The story's surprises range from clever to annoying, but DiCillo manages to hold it all together with his consistently amusing cast members, who make you laugh at their characters' self-absorbed folly.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=9556</url>
+         <critic>Jeremy Mathews</critic>
+      </review>
+      <review>
+         <snippet>Agently attitudinous, generally zippy urban fairy tale about pop stars and the hangers-on who coddle (or prey upon) them, Tom DiCillo's Delirious is a mild "Midnight Cowboy," a minor "King of Comedy," and mainly a vehicle for Steve Buscemi as a lower Manhattan–based paparazzo.</snippet>
+         <url>http://www.villagevoice.com/film/0733,hoberman,77509,20.html</url>
+         <critic>J. Hoberman</critic>
+      </review>
+      <review>
+         <snippet>The jokes are sparse and predictable, and the storytelling is, too. But Buscemi and Gershon have great fun with their roles, and Pitt is strangely agreeable about the whole thing. Bully for him.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/118963442038580.xml&amp;coll=7</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>Everyone here is obsessed with finding "the real thing" - the next hot actor, the next revealing paparazzi shot, the lover or the friend who'll make it all worthwhile. Everyone settles for the illusion of reality instead. It's prettier, and it doesn't hurt so much.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=10573</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>It would be nice to see a sharp, funny, penetrating satire of the new, kicked-up culture of empty media fame, but Tom DiCillo's scattershot buddy movie Delirious isn't it.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20052855,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>Though it scores a reasonable share of laughs, Delirious might have been better off if it weren't a comedy at all.</snippet>
+         <url>http://www.avclub.com/content/cinema/delirious</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>The movie becomes less fizzy once DeCillo decides to make A Statement (a rather incoherent one at that).</snippet>
+         <url>http://www.premiere.com/moviereviews/4020/also-in-theaters-delirious-manda-bala-zebraman.html</url>
+         <critic>Glenn Kenny</critic>
+      </review>
+      <review>
+         <snippet>Purports to give us the lowdown on Manhattan celebrity life, yet it depends so consistently on plot contrivances and other movies (The King of Comedy, Midnight Cowboy, even All About Eve) that it often comes across as wannabe muckraking.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/32016_DELIRIOUS.html</url>
+         <critic>Jonathan Rosenbaum</critic>
+      </review>
+      <review>
+         <snippet>Too many different stories are vying for attention here, and none of them are very good.</snippet>
+         <url>http://www.csmonitor.com/2007/0817/p14s01-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+   </reviews>
+   <US_Gross>$86,460</US_Gross>
+   <weekend_gross>$23,388</weekend_gross>
+   <number_of_screens>5</number_of_screens>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

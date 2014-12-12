@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Room</name>
+   <company>The 7th Floor</company>
+   <genres>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author>Kyle Henry</author>
+   </authors>
+   <directors>
+      <director>Kyle Henry</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Cyndi Williams</actor>
+      <actor>Kenneth Wayne Bradley</actor>
+      <actor>Alexra Kiester</actor>
+      <actor>Hannah Nicolas</actor>
+      <actor>Jacqui Cross</actor>
+   </actors>
+   <release_date>June 28, 2006</release_date>
+   <running_time>80</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>For a film about looking for a sign, looking for solace, Room quite brazenly offers neither. It isn't an easy film, but the world's already got plenty of easy and easily digestible films.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A352630</url>
+         <critic>Kimberley Jones</critic>
+      </review>
+      <review>
+         <snippet>Winner of the John Cassavetes Award for Best Feature Under $500K at the 2006 Independent Spirit Awards, Henry's film is beautifully shot and extraordinarily well acted by Williams.</snippet>
+         <url>http://online.tvguide.com/newsearch/detail.aspx?id=46998&amp;sourcetype=m&amp;progseriesparentid=0&amp;tvobjectid=0&amp;keyword=&amp;more=ucmoviereview</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>The plot of the indie feature Room is, shall we say, sketchy. But that's a minor annoyance thanks to a gutsy performance by Cyndi Williams and vibrating cinematography by P.J. Raval.</snippet>
+         <url>http://www.nypost.com/movies/room_movies_v_a__musetto.htm</url>
+         <critic>V.A. Musetto</critic>
+      </review>
+      <review>
+         <snippet>A perceptive, unsettling psychodrama marking the assured feature writing and directing debut of shorts filmmaker Kyle Henry.</snippet>
+         <url>http://www.variety.com/index.asp?layout=sundance2005&amp;nav=reviews&amp;content=reviews&amp;reviewid=VE1117926151&amp;categoryid=1865&amp;False&amp;cs=</url>
+         <critic>Scott Foundas</critic>
+      </review>
+      <review>
+         <snippet>One of those rare American indies that confidently and successfully propose their own narrative logic, drawing viewers into a mental puzzle that may not contain a single clear solution.</snippet>
+         <url>http://www.villagevoice.com/film/0626,halter,73682,20.html</url>
+         <critic>Ed Halter</critic>
+      </review>
+      <review>
+         <snippet>Room is an existential horror film, a parable of the war against terror being waged in Julia's psyche.</snippet>
+         <url>http://movies2.nytimes.com/2006/06/28/movies/28room.html</url>
+         <critic>Nathan Lee</critic>
+      </review>
+      <review>
+         <snippet>Packs a punch in its first act with a passionate lead performance by Cyndi Williams and a painfully concrete sense of modern life closing in. But gradually it slips into the indie paradigm of an alienated soul rushing into darkness, climaxing with a semiabstract montage sequence that's more rhetorical than dramatic.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/30343_ROOM.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>Williams does a fine job with her role. I was pulling for her throughout her dreary journey. It's too bad it didn't get anywhere.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-060929-movies-review-room,0,5973174.story?coll=mmx-movies_top_heds</url>
+         <critic>Michael Esposito</critic>
+      </review>
+   </reviews>
+   <US_Gross>$5,228</US_Gross>
+   <weekend_gross>$4,798</weekend_gross>
+   <number_of_screens>1</number_of_screens>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>true</independence_release>
+   <labor_release>false</labor_release>
+</movie>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Sueño</name>
+   <company>Destination Films</company>
+   <genres>
+      <genre>Comedy</genre>
+      <genre>Drama</genre>
+      <genre>Musical</genre>
+   </genres>
+   <authors>
+      <author/>
+   </authors>
+   <directors>
+      <director>Renee Chabria</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>John Leguizamo</actor>
+      <actor>Elizabeth Peña</actor>
+      <actor>Nestor Serrano</actor>
+      <actor>José María Yazpik</actor>
+      <actor>Ana Claudia Talancón</actor>
+      <actor>Rafael Simón</actor>
+      <actor>Jsu Garcia</actor>
+      <actor>Rick Simon</actor>
+   </actors>
+   <release_date>September 30, 2005</release_date>
+   <running_time>108</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>First-time writer-director Renée Chabria's sincerity and commitment to Sueño are so complete they override its sentimental streak and some overly familiar plotting.</snippet>
+         <url>http://www.calendarlive.com/printedition/calendar/cl-et-sueno30sep30,0,1079904.story</url>
+         <critic>Kevin Thomas</critic>
+      </review>
+      <review>
+         <snippet>Will primarily strike a chord with Latina-skewing audiences with minimal crossover potential.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1001219814</url>
+         <critic>Michael Rechtshaffen</critic>
+      </review>
+      <review>
+         <snippet>Chabria lacks the effervescent touch, in both his clichéd, logic-challenged writing and his leaden direction, to make you care. Though the film is crammed with music -- the soundtrack is stellar -- the production numbers fall completely flat, leaving you to pine for the over-caffeinated touch of Baz Luhrmann.</snippet>
+         <url>http://www.laweekly.com/film/film_results.php?showid=3585&amp;Sumbit.x=66&amp;Sumbit.y=14</url>
+         <critic>Ernest Hardy</critic>
+      </review>
+      <review>
+         <snippet>Brimming with fanciful ideas about life, romance and the rejuvenating power of music, Sueno sings a lovely tune but chokes on its own banal lyrics.</snippet>
+         <url>http://www.variety.com/review/VE1117928380?categoryid=31&amp;cs=1#loop</url>
+         <critic>Justin Chang</critic>
+      </review>
+   </reviews>
+   <US_Gross>$4,181</US_Gross>
+   <weekend_gross>$4,181</weekend_gross>
+   <number_of_screens>8</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

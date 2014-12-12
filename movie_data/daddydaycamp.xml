@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Daddy Day Camp</name>
+   <company>Sony Pictures</company>
+   <genres>
+      <genre>Comedy</genre>
+   </genres>
+   <authors>
+      <author>Joel Cohen, Alec Sokolow</author>
+      <author>Geoff Rodkey</author>
+      <author>J. David Stem</author>
+      <author>David N. Weiss</author>
+   </authors>
+   <directors>
+      <director>Fred Savage</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Cuba Gooding Jr.</actor>
+      <actor>Paul Rae</actor>
+      <actor>Josh McLerran</actor>
+      <actor>Lochlyn Munro</actor>
+      <actor>Richard Gant</actor>
+   </actors>
+   <release_date>August 8, 2007</release_date>
+   <running_time>89</running_time>
+   <rating>PG</rating>
+   <reviews>
+      <review>
+         <snippet>This belabored summertime sequel is moderately less vulgar, certainly less expensive and, if possible, even less funny than its forerunning bomb, "Daddy Day Care."</snippet>
+         <url>http://seattlepi.nwsource.com/movies/326672_daddy08q.html</url>
+         <critic>Gianni Truzzi</critic>
+      </review>
+      <review>
+         <snippet>A tired and unnecessary sequel.</snippet>
+         <url>http://www.miamiherald.com/entertainment/story/194999.html</url>
+         <critic>Connie Ogle</critic>
+      </review>
+      <review>
+         <snippet>This terrible sequel to a bad movie was directed by Fred Savage, the now-grown star of "The Wonder Years," though there's no evidence of any behind-the-scenes adult supervision.</snippet>
+         <url>http://www.tvguide.com/movies/daddy-day-camp/review/289588</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>Innocuous amusement for 5- to 8-year-olds and other people stuck in the anal stage of development.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=10163</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>Any scrap of charm or honest-to-goodness humor already possessed in limited quantities by the original has been relegated to the outhouse in this sorry follow-up.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?JSESSIONID=GKgQGzyQvq6JMnQ11JPJVdTBShvZPp9TbMgtQ4jDHMVxb8nhGFMh!-1794785973&amp;&amp;rid=9581</url>
+         <critic>Michael Rechtshaffen</critic>
+      </review>
+      <review>
+         <snippet>This sequel to the 2003 Eddie Murphy comedy may appeal to auds still young enough not to have seen it all before, or who still find flatulence hilarious, or who think adults, when agitated, flail about like epileptic marionettes.</snippet>
+         <url>http://www.variety.com/review/VE1117934328.html?categoryid=31&amp;cs=1</url>
+         <critic>John Anderson</critic>
+      </review>
+      <review>
+         <snippet>It's gotten to the point where Gooding's presence on a marquee practically guarantees we'll be bashing our heads against the seat in front of us. Bonk, bonk, bonk.</snippet>
+         <url>http://www.washingtonpost.com/wp-dyn/content/article/2007/08/07/AR2007080702091.html</url>
+         <critic>Desson Thomson</critic>
+      </review>
+      <review>
+         <snippet>A recruiting poster for kids, insisting that there’s no domestic problem that military values can’t solve.</snippet>
+         <url>http://movies.nytimes.com/2007/08/08/movies/08camp.html?ref=movies</url>
+         <critic>Matt Zoller Seitz</critic>
+      </review>
+      <review>
+         <snippet>The unfunny jokes center on outhouses, vomit and flatulence. Gooding mugs, screeches, even hops up and down to no avail. Nothing can wring an ounce of comedy out of this sorry spectacle.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2007-08-07-daddy-day-camp_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>Filling in for Eddie Murphy in a septically humored kiddie sequel to "Daddy Day Care," Gooding gives a mug-job performance that consists mainly of reacting (again and again) to nasty smells.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20050621,00.html</url>
+         <critic>Gregory Kirschling</critic>
+      </review>
+      <review>
+         <snippet>Too predictable, but kids should like it.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?file=/c/a/2007/08/08/DDS1RDKV81.DTL&amp;type=movies</url>
+         <critic>Will Crain</critic>
+      </review>
+      <review>
+         <snippet>If you're looking for a modern-day "Meatballs" - or, for that matter, "Meatballs 4" - you're out of luck.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2007/08/08/2007-08-08_the_cuba_misfire_crisis_continues.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>A comedy for no ages, has an amazing amount of CGI - Cuba Gooding Incompetence.</snippet>
+         <url>http://www.nypost.com/seven/08082007/entertainment/movies/bad_gooding_brings_boos_for_daddy_movies_kyle_smith.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>Despite cute kids, tough dads, and problems controlling bed-wetting and farts, Daddy Day Camp should just limp off to the nurse's tent and call it quits.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A514044</url>
+         <critic>Marjorie Baumgarten</critic>
+      </review>
+      <review>
+         <snippet>Depressingly shrill.</snippet>
+         <url>http://www.laweekly.com/film+tv/film-reviews/film-reviews-daddy-day-camp-stardust/16995/</url>
+         <critic>Tim Grierson</critic>
+      </review>
+      <review>
+         <snippet>Like its methane-filled outhouse that explodes right on cue, this sequel to "Daddy Day Care" (2003) smells.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/31887_DADDY_DAY_CAMP.html</url>
+         <critic>Andrea Gronvall</critic>
+      </review>
+      <review>
+         <snippet>Daddy Day Camp is a perfect family film for the blind and deaf.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=10229</url>
+         <critic>Michael Ferraro</critic>
+      </review>
+      <review>
+         <snippet>A generic time-waster powered by a lazy, cynical combination of scatological kiddie humor and maudlin sentiment.</snippet>
+         <url>http://www.avclub.com/content/cinema/daddy_day_camp</url>
+         <critic>Nathan Rabin</critic>
+      </review>
+      <review>
+         <snippet>About as much fun as being given a wedgie and hung from the camp flagpole, Daddy Day Camp is an unnecessary sequel.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20070808.wdaddy08/BNStory/Entertainment/home</url>
+         <critic>Liam Lacey</critic>
+      </review>
+   </reviews>
+   <US_Gross>$13,235,267</US_Gross>
+   <production_budget>$76,000,000</production_budget>
+   <weekend_gross>$4,887,285</weekend_gross>
+   <number_of_screens>2,332</number_of_screens>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Revolver</name>
+   <company>Samuel Goldwyn Films</company>
+   <genres>
+      <genre>Crime</genre>
+      <genre>Drama</genre>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>Luc Besson</author>
+      <author>Guy Ritchie</author>
+   </authors>
+   <directors>
+      <director>Guy Ritchie</director>
+   </directors>
+   <origins>
+      <origin>FranceUK</origin>
+   </origins>
+   <actors>
+      <actor>Jason Statham</actor>
+      <actor>Ray Liotta</actor>
+      <actor>Vincent Pastore</actor>
+   </actors>
+   <release_date>December 7, 2007</release_date>
+   <running_time>115</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>Good grindhouse fun until a last act that's like a meeting of a psychoanalysts' convention.</snippet>
+         <url>http://www.nypost.com/seven/12072007/entertainment/movies/gang_therapy_799644.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>By turns clever, impassioned, incoherent and silly.</snippet>
+         <url>http://movies.nytimes.com/2007/12/07/movies/07revo.html?ref=movies</url>
+         <critic>Matt Zoller Seitz</critic>
+      </review>
+      <review>
+         <snippet>Part gambling heist, part graphic novel, part metaphysical mumbo jumbo, Revolver is a mess of many colors, few of them satisfying.</snippet>
+         <url>http://chicago.metromix.com/movies/movie_review/movie-review-revolver/264180/content</url>
+         <critic>Sid Smith</critic>
+      </review>
+      <review>
+         <snippet>Definitely deserves points for trying to be something thought-provoking and different, but it doesn't really stand up to analysis and it comes off as a pretentious mess.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/342542_revolver07q.html</url>
+         <critic>William Arnold</critic>
+      </review>
+      <review>
+         <snippet>The movie butts up against the director's newfound pretensions -- pseudo-philosophical voice-over, psychobabble, faux-art-film plotting -- and turns incomprehensible.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20164493,00.html</url>
+         <critic>Gregory Kirschling</critic>
+      </review>
+      <review>
+         <snippet>Its main purpose -- and no, you are not experiencing ocular breakdown -- is spiritual.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1113954&amp;categories=Movies&amp;nm=1</url>
+         <critic>Desson Thomson</critic>
+      </review>
+      <review>
+         <snippet>A few scenes are stylish enough to amuse, but they all add up to nothing - leaving you ten bucks short and feeling like a sucker.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2007/12/07/2007-12-07_short_takes_more_movie_reviews.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>Guy Ritchie's Revolver premiered at the Toronto International Film Festival two years ago September. That's 26 months on a shelf somewhere, depriving moviegoers the thrill of jaw-droppingly awful Ray Liotta line readings, of bloody shoot-outs, bags of money, cutaways to frosty babes sucking on lollipops, and even a bit of violent anime.</snippet>
+         <url>http://www.philly.com/inquirer/columnists/steven_rea/20071207_Revolver__1_2.html</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>The film's pretentious style and fractured storytelling preclude any audience involvement in the coy melodrama.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/imdb/reviews/article_display.jsp?rid=1001096918&amp;vnu_special_account_code=thrsiteimdbpro</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>It's no return to rock, this, but rather Ritchie's soporific, proggy-conceptual Film of Ideas, with Vivaldi interludes, fussbudget set design, recurrent references to chess, and a hit man inexplicably got up as Tati's Mr. Hulot.</snippet>
+         <url>http://www.villagevoice.com/film/0749,various,78521,20.html</url>
+         <critic>Nick Pinkerton</critic>
+      </review>
+      <review>
+         <snippet>The result is a film that's main crime is inducing stupefying boredom with little payoff in the end.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-revolver7dec07,0,128974.story?coll=cl-mreview</url>
+         <critic>Kevin Crust</critic>
+      </review>
+      <review>
+         <snippet>The movie's onslaught of psychobabble is the annoyance most likely to ruin your evening. Imagine getting stuck on a ski lift with Dr. Phil for nearly two hours.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2007/12/14/DDVFTTNB6.DTL&amp;type=movies</url>
+         <critic>Peter Hartlaub</critic>
+      </review>
+      <review>
+         <snippet>Surprise of surprises, Revolver turns out to be worse than "Swept Away" - and not just by a little bit.</snippet>
+         <url>http://www.reelviews.net/movies/r/revolver.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>Ritchie has said that it takes several viewings to fully understand what's going on in Revolver, but once will be enough for most to agree to take his word for it.</snippet>
+         <url>http://www.avclub.com/content/cinema/revolver</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>The problem with Revolver is that it is Ritchie's first attempt at a ''serious'' look at the underworld, but the result is so pretentious and muddled it's almost a little embarrassing.</snippet>
+         <url>http://www.miamiherald.com/1054/story/334074.html</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>The latest Guy Ritchie shoot-em-up, is a joke. You laugh with it but mostly at it.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=8085</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>Ritchie wraps this folderol in cinematic razzle-dazzle, including animated sequences, reverse motion, trompe l'oeil production design and tricky lighting. But it's still claptrap.</snippet>
+         <url>http://www.tvguide.com/detail/movie.aspx?tvobjectid=291705&amp;more=ucmoviereview</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>Guy Ritchie shoots a blank with Revolver, which replays the low-life criminal shtick from his first two features with an ill-advised overlay of pretension. The action, attitude and wise-guy talk all feel moldy this time around.</snippet>
+         <url>http://www.variety.com/review/VE1117928148.html?categoryid=31&amp;cs=1&amp;p=0</url>
+         <critic>Todd McCarthy</critic>
+      </review>
+      <review>
+         <snippet>It is a "thriller" without thrills, constructed in a meaningless jumble of flashbacks and flash-forwards and subtitles and mottos and messages and scenes that are deconstructed, reconstructed and self-destructed. I wanted to signal the projectionist to put a gun to it.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20071206/REVIEWS/712060303</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>This 2005 feature offered me my first taste of Guy Ritchie's macho-centric artiness, and I hope it's my last.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/32531_REVOLVER.html</url>
+         <critic>Jonathan Rosenbaum</critic>
+      </review>
+      <review>
+         <snippet>Although it contains crime and absurdity, it's not thrilling or funny and the title doesn't refer to a gun.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/1201742708320590.xml&amp;coll=7</url>
+         <critic>M. E. Russell</critic>
+      </review>
+   </reviews>
+   <US_Gross>$84,738</US_Gross>
+   <weekend_gross>$41,820</weekend_gross>
+   <number_of_screens>18</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

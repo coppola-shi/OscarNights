@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Smart People</name>
+   <company>Miramax Films</company>
+   <genres>
+      <genre>Comedy</genre>
+      <genre>Drama</genre>
+      <genre>Romance</genre>
+   </genres>
+   <authors>
+      <author>Mark Poirier</author>
+   </authors>
+   <directors>
+      <director>Noam Murro</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Dennis Quaid</actor>
+      <actor>Sarah Jessica Parker</actor>
+      <actor>Ellen Page</actor>
+      <actor>Thomas Haden Church</actor>
+      <actor>Ashton Holmes</actor>
+      <actor>Christine Lahti</actor>
+   </actors>
+   <release_date>April 11, 2008</release_date>
+   <running_time>95</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>A sharp, superbly acted character-driven comedic drama.</snippet>
+         <url>http://www.tvguide.com/movies/smart-people/review/292280</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>Smart People, unlike "Sideways" or "The Savages," has a plot that's a little too rote.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20190159,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>After its rough opening, Smart People settles down to be a funny, wryly enjoyable, effortlessly poignant parable of family life and a splendid showcase for its cast -- especially Page, who handily steals the movie and proves that her "Juno" success was no fluke.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/358554_smart11q.html</url>
+         <critic>William Arnold</critic>
+      </review>
+      <review>
+         <snippet>Page and Church work so brilliantly together as a comic team that it's worth enduring the leads' utter lack of chemistry together - not to mention the fact they're both wildly miscast.</snippet>
+         <url>http://www.nypost.com/seven/04112008/entertainment/movies/lucky_co_stars_105953.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>There's nothing world shattering about Smart People. No one is ever going to call it a "must see" movie. But it is a trim, intelligent, reasonably amusing little movie. Call it a "could see."</snippet>
+         <url>http://www.time.com/time/arts/article/0,8599,1729909,00.html</url>
+         <critic>Richard Schickel</critic>
+      </review>
+      <review>
+         <snippet>A good deal of the freshness comes from a grand, clownish slob played by Thomas Haden Church -- he's actually the smartest person of the piece -- while Dennis Quaid occupies the center with a mastery that's all the more notable for its humanity.</snippet>
+         <url>http://online.wsj.com/article/SB120788247820207273.html</url>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>Poirer and director Noam Murro have trouble bringing this to a satisfying climax, but the characters are credible and sharply observed and all four actors go to town.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/33016_SMART_PEOPLE.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>Poirier is a master at dialogue. His script crackles with sharp lines and he gives all his scenes a splendid comic undertow.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/imdb/reviews/article_display.jsp?rid=10500&amp;vnu_special_account_code=thrsiteimdbpro</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>It's the kind of observational comedy, that'll be hard to find come summertime and should be enjoyed while there's still a chance.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-smartpeople11apr11,0,5055766.story</url>
+         <critic>Carina Chocano</critic>
+      </review>
+      <review>
+         <snippet>The great virtue of Smart People, attributable to Noam Murro’s easygoing direction as well as to Mr. Poirier’s wandering screenplay, lies in its general preference for small insights over grand revelations.</snippet>
+         <url>http://movies.nytimes.com/2008/04/11/movies/11smar.html?ref=movies</url>
+         <critic>A.O. Scott</critic>
+      </review>
+      <review>
+         <snippet>These small-scale, intelligent movies can fall into a trap: it’s hard to achieve a satisfactory dramatic climax when observation is your principal dramatic mode.</snippet>
+         <url>http://www.newyorker.com/arts/critics/cinema/2008/04/21/080421crci_cinema_denby?currentPage=2</url>
+         <critic>David Denby</critic>
+      </review>
+      <review>
+         <snippet>There much more roiling beneath the surface of these characters and it's a shame we don't come to understand them better. Smart people, dumb choices: it's true for both the characters and the filmmakers.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A609658</url>
+         <critic>Marjorie Baumgarten</critic>
+      </review>
+      <review>
+         <snippet>Dennis Quaid could stand in for Jeff Daniels' similarly toxic snob in "The Squid And The Whale," if only he were a little smarter and a little better-dressed.</snippet>
+         <url>http://www.avclub.com/content/cinema/smart_people</url>
+         <critic>Tasha Robinson</critic>
+      </review>
+      <review>
+         <snippet>A third of the way through Smart People, I channeled Randy Newman's "Short People" and thought, "Smart people got no reason to live."</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/reviews/bal-to.smart11apr11,0,5529565.story</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>The main problem with Smart People is that it never breaks new ground. This is territory we have seen tilled to better effect by more perceptive motion pictures.</snippet>
+         <url>http://www.reelviews.net/movies/s/smart_people.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>Though it features witty dialogue and good performances, the plot contrivances keep it from being an altogether winning enterprise.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2008-04-10-smart-people_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>As tough as Lawrence is to like, Smart People is even harder to hate, mainly because of the sharply observed script by novelist Mark Jude Poirier. Just when you're losing patience with the movie, it sneaks up on you with a poignant detail or a character-defining turn of phrase.</snippet>
+         <url>http://www.slate.com/id/2188756/</url>
+         <critic>Dana Stevens</critic>
+      </review>
+      <review>
+         <snippet>It is just too bad that this film isn’t as snarky and groundbreaking as it would like you to think it is.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=10636</url>
+         <critic>Zack Haddad</critic>
+      </review>
+      <review>
+         <snippet>Dysfunctional family seriocomedy is well cast, but characters and conflicts lack the sharper definition of similar recent exercises like "Little Miss Sunshine," "The Upside of Anger" and Noah Baumbach's films.</snippet>
+         <url>http://www.variety.com/review/VE1117936024.html?categoryid=31&amp;cs=1&amp;query=smart+people</url>
+         <critic>Dennis Harvey</critic>
+      </review>
+      <review>
+         <snippet>The ensemble can't bring enough, though, to overcome the unoriginal setup and predictable story arc.</snippet>
+         <url>http://www.oregonlive.com/movies/index.ssf/2008/04/review_smart_peopleor_are_they.html</url>
+         <critic>Marc Mohan</critic>
+      </review>
+      <review>
+         <snippet>Fine actors do their damnedest to make this dumb movie look sharp.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2008/04/11/smart_people/</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>The movie gets bogged down in the formula conventions of romantic comedy, and in the process, it loses all honesty.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2008/04/10/DDN1102SQ4.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>Smart People tastes as fake as a Wal-Mart corn dog. Besides, it doesn't even know the work is Faerie Queen, not ''Fairie.'' Somewhere, Edmund Spenser is turning in his grave. You don't even have to be smart to know that.</snippet>
+         <url>http://www.miamiherald.com/1054/story/490123.html</url>
+         <critic>Connie Ogle</critic>
+      </review>
+      <review>
+         <snippet>The middling romantic comedy Smart People, which centers on a hyperintellectual dysfunctional family, is of interest chiefly for the first post-Juno role of Ellen Page.</snippet>
+         <url>http://nymag.com/movies/reviews/45985/index1.html</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>It's impossible to tell whether the film's ending is happy because it's happy or because it's ending.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1142427&amp;categories=Movies&amp;nm=1</url>
+         <critic>Ann Hornaday</critic>
+      </review>
+      <review>
+         <snippet>Quaid doesn't have much to work with, and so deflects the portrayal away from the mind toward the body – consistently giving the coot a hunched, pigeon-toed gait. Nice try, but that bird won't fly.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20080410.smart11nat/BNStory/Entertainment/home</url>
+         <critic>Rick Groen</critic>
+      </review>
+      <review>
+         <snippet>Church is most at home in his character’s skin; aside from the game but strident Quaid, all the leading players are ideally cast. It’s the script that isn’t ideally cast.</snippet>
+         <url>http://chicago.metromix.com/movies/movie_review/movie-review-smart-people/372910/content</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>Mostly, Smart People is a failure of imagination.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=10924</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>Quaid and Church are funny, but too much of this film is not half as smart as it thinks it is.</snippet>
+         <url>http://www.csmonitor.com/2008/0411/p15s01-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>It's like the entire season of a sitcom whittled down to a single episode. There's no time for characterization, no room for emotion, no interest in anything other than moving the story forward. It's all action, no reaction. One minute they're miserable; 90 minutes later, aww better.</snippet>
+         <url>http://www.villagevoice.com/film/0815,ordinary-people,404112,20.html</url>
+         <critic>Robert Wilonsky</critic>
+      </review>
+      <review>
+         <snippet>Strong performances and a few laughs, but the story feels lazy next to superior efforts recently in the same genre.</snippet>
+         <url>http://www.empireonline.com/reviews/reviewcomplete.asp?FID=135561</url>
+         <critic>Helen O&amp;#039;Hara</critic>
+      </review>
+      <review>
+         <snippet>In what world does Smart People exist? Clearly not the real one, though this dramedy wants to think it's filled with ironic insights about love and family.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2008/04/11/2008-04-11_smart_people_story_is_sorta_sophomoric.html</url>
+         <critic>Joe Neumaier</critic>
+      </review>
+      <review>
+         <snippet>Dennis Quaid is mostly lost at sea as Lawrence Wetherhold, the Carnegie Mellon lit professor; he apparently saw fit to tinker with his performance as filming went along, greeting us in some scenes as a noticeably swishy highbrow, while at other moments he's channeling the smiling, drunken menace of Nicholson's Jack Torrance.</snippet>
+         <url>http://www.premiere.com/moviereviews/4518/smart-people.html</url>
+         <critic>Ryan Stewart</critic>
+      </review>
+   </reviews>
+   <US_Gross>$9,511,289</US_Gross>
+   <weekend_gross>$4,092,465</weekend_gross>
+   <number_of_screens>1,106</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

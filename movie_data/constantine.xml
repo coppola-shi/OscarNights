@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Constantine</name>
+   <company>Warner Bros.</company>
+   <genres>
+      <genre>Action</genre>
+      <genre>Drama</genre>
+      <genre>Fantasy</genre>
+      <genre>Horror</genre>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>Kevin Brodbin</author>
+      <author>Frank A. Cappello</author>
+      <author>Jamie Delano &amp; Garth Ennis</author>
+   </authors>
+   <directors>
+      <director>Francis Lawrence</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Keanu Reeves</actor>
+      <actor>Rachel Weisz</actor>
+      <actor>Shia LaBeouf</actor>
+      <actor>Djimon Hounsou</actor>
+      <actor>Max Baker</actor>
+      <actor>Pruitt Taylor Vince</actor>
+      <actor>Gavin McGregor Rossdale</actor>
+      <actor>Tilda Swinton</actor>
+      <actor>Peter Stormare</actor>
+   </actors>
+   <release_date>February 18, 2005</release_date>
+   <running_time>121</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>Reeves has confidently entered his self-parodic period. You’ll enjoy his wry post-Matrix murmurs and squinty stares.</snippet>
+         <url>http://newyorkmetro.com/nymetro/movies/reviews/11048/</url>
+         <critic>Ken Tucker</critic>
+      </review>
+      <review>
+         <snippet>Constantine is a one-of-a-kind hybrid: a theological noir action film. And until it goes irrevocably goofy at the end, it's a smart ride--and smart-looking too.</snippet>
+         <url>http://www.time.com/time/magazine/article/0,9171,1027514,00.html</url>
+         <critic>Richard Corliss</critic>
+      </review>
+      <review>
+         <snippet>An engrossing mix of atmospheric gothic horror and smart sci-fi that's cemented by intriguing mythology, terrific visual effects, a dry sense of humor and an ideally cast Keanu Reeves.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1000790342</url>
+         <critic>Michael Rechtshaffen</critic>
+      </review>
+      <review>
+         <snippet>What Constantine offers is a deceptively thoughtful tale tricked up like an action movie; it's beautiful to look at but even more lovely to ruminate over.</snippet>
+         <url>http://dallasobserver.com/issues/2005-02-17/film/film2.html</url>
+         <critic>Robert Wilonsky</critic>
+      </review>
+      <review>
+         <snippet>Pretty much rocks.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2005/02/18/constantine/index.html</url>
+         <critic>Andrew O&amp;#039;Hehir</critic>
+      </review>
+      <review>
+         <snippet>Constantine will likely hold far more interest for devoted fans of the series, but it's not necessary to have read the books to appreciate the film's sumptuous visuals and art direction.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A258895</url>
+         <critic>Marc Savlov</critic>
+      </review>
+      <review>
+         <snippet>Listen up, fanboys and enthusaiasts of sophisticated visual wizardry: this theological noir-horror actioner-a stand-alone, rapturous good time-craftily and accurately captures the straight-faced camp, wry wit and episodic structure of its source material.</snippet>
+         <url>http://www.premiere.com/article.asp?section_id=2&amp;article_id=1989</url>
+         <critic>Aaron Hillis</critic>
+      </review>
+      <review>
+         <snippet>Constantine, which opts in the end for what I can only describe as a kind of supernatural humanism, is not without its spiritual satisfactions.</snippet>
+         <url>http://www.laweekly.com/ink/05/13/film-taylor.php</url>
+         <critic>Ella Taylor</critic>
+      </review>
+      <review>
+         <snippet>Keanu Reeves has no peer when it comes to playing these sort of messianic roles -- he infuses them with a Zen blankness and serenity that somehow gets him through even the unlikeliest scenes with a quiet, unassuming dignity.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-constantine18feb18,2,3251823.story</url>
+         <critic>Carina Chocano</critic>
+      </review>
+      <review>
+         <snippet>It's inconsistent and it fudges the script's murkier details, but Lawrence keeps the story on track and doesn't cheat the world of Constantine."</snippet>
+         <url>http://seattlepi.nwsource.com/movies/212487_constantine18q.html</url>
+         <critic>Sean Axmaker</critic>
+      </review>
+      <review>
+         <snippet>It all sort of plays out like "Law and Order: Spiritual Victims Unit," but the movie's stuffed (some might say overstuffed) with wonderfully staged moments and set pieces.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/1108472530132490.xml</url>
+         <critic>M. E. Russell</critic>
+      </review>
+      <review>
+         <snippet>One thing's clear: R.J. Reynolds won't be showing Constantine at the company picnic any time soon.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=6518</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>The best thing about this big, imaginatively detailed movie is its premise, which director Francis Lawrence, a music-video veteran, takes his time exploring.</snippet>
+         <url>http://ae.miami.com/entertainment/ui/miami/movie.html?id=243459&amp;reviewId=17330</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>Flipping his cigarette lighter and snapping deadpan retorts, Reeves plays the demon-hunting detective with Keanu-esque panache.</snippet>
+         <url>http://ae.philly.com/entertainment/ui/philly/movie.html?id=243459&amp;reviewId=17334</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>The choice for the uninitiated is simple: Take the ride for its fitful thrills and dark elements, or just say the hell with it.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/_/id/6153709?pageid=rs.ReviewsMovieArchive&amp;pageregion=mainRegion</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>Constantine will appeal most strongly to those with a penchant for vivid cinematic comic book adaptations.</snippet>
+         <url>http://movie-reviews.colossus.net/movies/c/constantine.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>Slightly better than your run-of-the-mill late winter horror film.</snippet>
+         <url>http://www.filmthreat.com/Reviews.asp?Id=7115</url>
+         <critic>Pete Vonder Haar</critic>
+      </review>
+      <review>
+         <snippet>While lacking the richness of its source material, it remains an enjoyable, immoral and sometimes beautifully Gothic tale.</snippet>
+         <url>http://www.empireonline.co.uk/site/incinemas/ReviewInFull.asp?FID=9968</url>
+         <critic>Olly Richards</critic>
+      </review>
+      <review>
+         <snippet>Peaks early, then descends into portentous nonsense.</snippet>
+         <url>http://msnbc.msn.com/id/6999688/site/newsweek/</url>
+         <critic>David Ansen</critic>
+      </review>
+      <review>
+         <snippet>The movie is ornate, arbitrary, and fetishistic, too, with the added challenge of being hell to follow for those without access to crib notes. Intellectually, I can admire the emphasis on visual style over plot clarity.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1028468_1_0_,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>The story is a retread of the old "Exorcist" and "Omen" formats, but it delivers as much action and spectacle as fans of the genre could want.</snippet>
+         <url>http://www.csmonitor.com/2005/0218/p14s02-almo.html</url>
+         <critic>David Sterritt</critic>
+      </review>
+      <review>
+         <snippet>Fans of Hellblazer are bound to be disappointed.</snippet>
+         <url>http://www.villagevoice.com/film/0507,holcomb1,61127,20.html</url>
+         <critic>Mark Holcomb</critic>
+      </review>
+      <review>
+         <snippet>Though the story is potentially fascinating and the visuals sometimes spellbinding, the movie itself is stranded in the purgatory of the second-rate.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-050217-movies-review-mw-constantine.story</url>
+         <critic>Michael Wilmington</critic>
+      </review>
+      <review>
+         <snippet>This adaptation of the graphic novel "Hellblazer" blazes few new trails and bogs down in a confusing narrative muddle.</snippet>
+         <url>http://www.variety.com/review/VE1117926105?categoryid=31&amp;cs=1</url>
+         <critic>Brian Lowry</critic>
+      </review>
+      <review>
+         <snippet>For all its spiritual angst, Constantine is about as silly as fantasies get.</snippet>
+         <url>http://www.nydailynews.com/02-18-2005/entertainment/col/story/281960p-241618c.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>Music video-trained director Francis Lawrence whips up a witch's brew of gray-on-gray atmosphere, but for all the end-of-the-world mumbo jumbo, nothing much ever seems to be at stake.</snippet>
+         <url>http://tvguide.com/movies/database/showmovie.asp?MI=45212</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>A great-looking but torturously slow and often hokey cross between "The Exorcist" and "Dirty Harry."</snippet>
+         <url>http://www.nypost.com/movies/39987.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>It all comes off as a case of filmmakers wanting to have their communion wafer and eat it, too.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-to.constantine18feb18,1,325763.story?coll=bal-artslife-movies</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>Philippe Rousselot's elegant cinematography lends some gravitas to music-video veteran Francis Lawrence's directorial debut.</snippet>
+         <url>http://spacefinder.chicagoreader.com/movies/briefs/27402_CONSTANTINE.html</url>
+         <critic>Andrea Gronvall</critic>
+      </review>
+      <review>
+         <snippet>Tilda Swinton is the Angel Gabriel, adding a touch of high-class celestial cross-dressing to this overblown, overlong attempt - which falls just short of success - to make a movie dumber than "Van Helsing."</snippet>
+         <url>http://movies2.nytimes.com/2005/02/18/movies/18cons.html</url>
+         <critic>Dana Stevens</critic>
+      </review>
+      <review>
+         <snippet>The relation between Constantine and its source material is, at best, superfluous.</snippet>
+         <url>http://www.washingtonpost.com/wp-dyn/articles/A32464-2005Feb17.html</url>
+         <critic>Desson Thomson</critic>
+      </review>
+      <review>
+         <snippet>Reeves rigid delivery makes Constantine's occult backstory sound pretentious and silly, and converts Constantine himself into a repressed cipher. The film's biggest revision isn't in not making him blonde, or not making him British. It's in not making him human.</snippet>
+         <url>http://www.theavclub.com/review_pop.php?review_id=8240</url>
+         <critic>Tasha Robinson</critic>
+      </review>
+      <review>
+         <snippet>Much of Constantine simply portends.</snippet>
+         <url>http://www.washingtonpost.com/wp-dyn/articles/A33692-2005Feb17.html</url>
+         <critic>Hank Stuever</critic>
+      </review>
+      <review>
+         <snippet>There's a potentially good story rattling around somewhere inside this broken, self-contradictory and finally meaningless film.</snippet>
+         <url>http://ae.philly.com/entertainment/ui/philly/movie.html?id=243459&amp;reviewId=17335</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>Every time you think you grasp the concept, another layer of outlandish supernatural gobbledygook is laid on top, leaving the viewer feeling as spun-out as Linda Blair's head.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20050217.wxconstl18/BNStory/Entertainment/</url>
+         <critic>Leah McLaren</critic>
+      </review>
+      <review>
+         <snippet>Strange, that movies about Satan always require Catholics. You never see your Presbyterians or Episcopalians hurling down demons.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20050217/REVIEWS/50202001</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>Couldn't be murkier or less emotionally involving if it were "The Matrix 8," a natural observation because Keanu Reeves stars in both.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2005-02-17-constantine-review_x.htm</url>
+         <critic>Mike Clark</critic>
+      </review>
+      <review>
+         <snippet>Constantine is yet another studio extravaganza that's all aswirl with atmospherics, though empty at its center. The invasion of the soul snatchers proceeds apace.</snippet>
+         <url/>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>Borderline incoherent, theologically unsatisfying, and short to the point of dwarfism on suspense.</snippet>
+         <url>http://www.slate.com/id/2113719/</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>Maybe some of the audience should wonder if they aren't performing the Devil's work by sitting so quietly through movies that turn wonders into garbage.</snippet>
+         <url>http://www.newyorker.com/critics/cinema/?050307crci_cinema</url>
+         <critic>David Denby</critic>
+      </review>
+      <review>
+         <snippet>The movie isn't hellish, because there's always hope of leaving it. It's more like purgatory, two whole hours of it.</snippet>
+         <url>http://sfgate.com/cgi-bin/article.cgi?file=/c/a/2005/02/18/DDGNVBCGEF1.DTL</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+   </reviews>
+   <US_Gross>$75,976,178</US_Gross>
+   <production_budget>$75,000,000</production_budget>
+   <weekend_gross>$29,769,098</weekend_gross>
+   <number_of_screens>3,006</number_of_screens>
+   <highest_grossing_actors_present/>
+   <num_highest_grossing_actors>1</num_highest_grossing_actors>
+   <highest_grossing_actor>keanu reeves</highest_grossing_actor>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

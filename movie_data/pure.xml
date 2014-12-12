@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Pure</name>
+   <company>Indican Pictures</company>
+   <genres>
+      <genre>Drama</genre>
+      <genre>Foreign</genre>
+   </genres>
+   <authors>
+      <author>Alison Hume</author>
+   </authors>
+   <directors>
+      <director>Gillies Mac</director>
+      <director>Kinnon</director>
+   </directors>
+   <origins>
+      <origin>UK</origin>
+   </origins>
+   <actors>
+      <actor>Harry Eden</actor>
+      <actor>Vinnie Hunter</actor>
+      <actor>Molly Parker</actor>
+      <actor>David Wenham</actor>
+      <actor>Nitin Chra Ganatra</actor>
+      <actor>Levi Hayes</actor>
+      <actor>Keira Knightley</actor>
+      <actor>Rupert Procter</actor>
+   </actors>
+   <release_date>June 17, 2005</release_date>
+   <running_time>96</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>Pure's lively and colorful cinematic style turns a "downer" story about grim lives and desperation into a powerful love story.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1813990</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>Real kudos goes to Molly Parker, searing as a heroin-addicted mother immobilized by the death of her husband, and to a poised little boy named Harry Eden, who's astonishingly good as the 10-year-old son desperately trying to hold her to the straight and narrow.</snippet>
+         <url>http://www.laweekly.com/film/film_results.php?showid=3446&amp;Sumbit.x=74&amp;Sumbit.y=16</url>
+         <critic>Ella Taylor</critic>
+      </review>
+      <review>
+         <snippet>One of the movie's intriguing qualities is that its horrors take place within a world that is not as cruel and painful as we know it could be.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20050707/REVIEWS/507070304/1001</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>It's not without one or two missteps, but remains likely the most impressive juvenile acting you'll see this year.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/1124967948177440.xml&amp;coll=7</url>
+         <critic>Marc Mohan</critic>
+      </review>
+      <review>
+         <snippet>Solid if unspectacular.</snippet>
+         <url>http://sfgate.com/cgi-bin/article.cgi?f=/c/a/2005/09/23/DDGMQERQTO1.DTL#flick5</url>
+         <critic>G. Allen Johnson</critic>
+      </review>
+      <review>
+         <snippet>Pure belongs to Eden, a remarkably strong child actor, and Deadwood's Molly Parker, broken and affecting as his sweaty, gear-crazy mum.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1067732_1_0_,00.html</url>
+         <critic>Gregory Kirschling</critic>
+      </review>
+      <review>
+         <snippet>Pure loses a bit of its nerve in the home stretch, but Eden's unforgettable performance alone makes it a compelling portrait of a smart young boy forced to grow up way too fast.</snippet>
+         <url>http://www.theavclub.com/review.php?review_id=8678</url>
+         <critic>Nathan Rabin</critic>
+      </review>
+      <review>
+         <snippet>A small but achingly authentic piece of kitchen-sink realism, this might never have made it across the pond without babe du jour Keira Knightley, excellent in a supporting role as a smacked-out waitress. But the real wonder is Parker, whose vulnerability and wraithlike beauty are devastating.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/28231_PURE.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>The film belongs to Eden, who creates a winning personality out of a combination of vulnerability, resourcefulness, toughness and fragility. It's an outstanding juvenile performance.</snippet>
+         <url>http://www.variety.com/review/VE1117918843?categoryid=31&amp;cs=1</url>
+         <critic>David Stratton</critic>
+      </review>
+      <review>
+         <snippet>MacKinnon's film draws on his past as a youth worker and features a standout performance from first-time performer Harry Eden.</snippet>
+         <url>http://tvguide.com/movies/database/ShowMovie.asp?MI=44669</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>This is a conventional, well-acted, English working-class drama in the familiar realist style, but it does not attain anywhere near the level of artistry and imagination of a Ken Loach film.</snippet>
+         <url>http://www.calendarlive.com/movies/chocano/cl-et-capsules17jun17,0,3309173.story</url>
+         <critic>Carina Chocano</critic>
+      </review>
+   </reviews>
+   <US_Gross>$102,471</US_Gross>
+   <weekend_gross>$5,154</weekend_gross>
+   <number_of_screens>2</number_of_screens>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

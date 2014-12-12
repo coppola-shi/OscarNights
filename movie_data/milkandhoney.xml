@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Milk and Honey</name>
+   <company>Wellspring Media</company>
+   <genres>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author>Joe Maggio</author>
+   </authors>
+   <directors>
+      <director>Joe Maggio</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Clint Jordan</actor>
+      <actor>Kirsten Russell</actor>
+      <actor>Anthony Howard</actor>
+      <actor>Dudley Findlay Jr.</actor>
+      <actor>Eleanor Hutchins</actor>
+      <actor>Greg Amici</actor>
+      <actor>Richard Gnolfo</actor>
+   </actors>
+   <release_date>March 18, 2005</release_date>
+   <running_time>90</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>Smart and surprising.</snippet>
+         <url>http://www.csmonitor.com/2005/0318/p14s01-almo.html</url>
+         <critic>David Sterritt</critic>
+      </review>
+      <review>
+         <snippet>Dexterously scripted, darkly humorous.</snippet>
+         <url>http://www.variety.com/review/VE1117919839?categoryid=31&amp;cs=1</url>
+         <critic>David Rooney</critic>
+      </review>
+      <review>
+         <snippet>In the end, Milk and Honey's contrived connections blossom into a disarmingly effective reckoning with loss and regret.</snippet>
+         <url>http://www.villagevoice.com/film/0511,trackingshots,62060,20.html</url>
+         <critic>Mark Holcomb</critic>
+      </review>
+      <review>
+         <snippet>Maggio and his stars find some unexpected truths in a familiar tale.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/story/290868p-248989c.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>Has just enough quirks and unexpected shocks along the way to keep things interesting.</snippet>
+         <url>http://www.filmthreat.com/Reviews.asp?Id=3987</url>
+         <critic>Merle Bertrand</critic>
+      </review>
+      <review>
+         <snippet>Once Milk And Honey stops lurching after huge, actorly moments of near-psychotic intensity, it loosens up and actually gets around to telling a reasonably compelling human story.</snippet>
+         <url>http://www.theavclub.com/review.php?review_id=8574</url>
+         <critic>Nathan Rabin</critic>
+      </review>
+      <review>
+         <snippet>This 2003 drama suffers from a heavy narrative hand, as a series of ironic coincidences creates a tiny, hermetically sealed New York City, but the contrivances are overwhelmed by the intimacy and immediacy of the human encounters.</snippet>
+         <url>http://spacefinder.chicagoreader.com/movies/critic.html#28119</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>The lives of three deeply unhappy New Yorkers crisscross in unexpected ways in writer-director Joe Maggio's uneven but strangely affecting film.</snippet>
+         <url>http://tvguide.com/movies/database/showmovie.asp?MI=45996</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>Some fine performances shine through in Joe Maggio's pretentious, credulity-straining dramedy.</snippet>
+         <url>http://www.nypost.com/movies/41213.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>Milk and Honey is the kind of nightmare-in-a-box you might expect if Neil LaBute remade Martin Scorsese's "After Hours" on a shoestring.</snippet>
+         <url>http://movies2.nytimes.com/2005/03/18/movies/18milk.html</url>
+         <critic>Stephen Holden</critic>
+      </review>
+   </reviews>
+   <US_Gross>$9,231</US_Gross>
+   <weekend_gross>$4,315</weekend_gross>
+   <number_of_screens>1</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

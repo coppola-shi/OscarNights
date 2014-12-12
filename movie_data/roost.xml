@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Roost, The</name>
+   <company>Vitagraph Films</company>
+   <genres>
+      <genre>Horror</genre>
+   </genres>
+   <authors>
+      <author>Ti West</author>
+   </authors>
+   <directors>
+      <director>Ti West</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Tom Noonan</actor>
+      <actor>Karl Jacob</actor>
+      <actor>Vanessa Horneff</actor>
+      <actor>Sean Reid</actor>
+      <actor>Wil Horneff</actor>
+      <actor>Barbara Wilhide</actor>
+      <actor>Richard Little</actor>
+      <actor>John Speredakos</actor>
+      <actor>Larry Fessenden</actor>
+   </actors>
+   <release_date>October 21, 2005</release_date>
+   <running_time>80</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>It's clear right away that The Roost is no hack job. It's made by people who have a major love for the genre and generally anything that goes bump in the night.</snippet>
+         <url>http://www.filmthreat.com/Reviews.asp?Id=7202</url>
+         <critic>Eric Campos</critic>
+      </review>
+      <review>
+         <snippet>The Roost advances a nifty man-vs.-nature scenario that harks back to Fessenden's own "Wendigo" and provides a nice chaser to a summer movie season populated by cuddly penguins and benevolent cheetahs.</snippet>
+         <url>http://www.laweekly.com/film/film_results.php?showid=3617&amp;Sumbit.x=42&amp;Sumbit.y=12</url>
+         <critic>Scott Foundas</critic>
+      </review>
+      <review>
+         <snippet>Debuting helmer Ti West taps into the realist-horror spirit of mentor and exec producer Larry Fessenden, and makes a scarier pic than any by his master.</snippet>
+         <url>http://www.variety.com/review/VE1117927680?categoryid=31&amp;cs=1&amp;s=h&amp;p=0</url>
+         <critic>Robert Koehler</critic>
+      </review>
+      <review>
+         <snippet>Full of genuine scares and impressively disturbing effects.</snippet>
+         <url>http://www.calendarlive.com/printedition/calendar/cl-et-capsules21oct21,0,7755456.story</url>
+         <critic>Kevin Crust</critic>
+      </review>
+      <review>
+         <snippet>The cynical should be warned that, as in "Blair Witch," most of the scares depend upon sound and editing rather than elaborate effects, but young director Ti West gets a lot of bang for his meager bucks.</snippet>
+         <url>http://listings.dallasobserver.com/gyrobase/Film/ShowFilm</url>
+         <critic>Luke Y. Thompson</critic>
+      </review>
+      <review>
+         <snippet>Ti West's affectionate homage to no-frills fright flicks keeps it simple and succeeds on its own stripped-down terms.</snippet>
+         <url>http://online.tvguide.com/movies/database/ShowMovie.asp?MI=46541</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>The Roost proves that West has enough talent to do without the gimmick next time around.</snippet>
+         <url>http://www.villagevoice.com/film/0543,tracking4,69432,20.html</url>
+         <critic>Joshua Land</critic>
+      </review>
+      <review>
+         <snippet>Okay video-dungeon-style horror, a bit marooned on the big-screen but nevertheless murky fun.</snippet>
+         <url>http://www.empireonline.com/incinemas/ReviewComplete.asp?FID=133152</url>
+         <critic>Kim Newman</critic>
+      </review>
+      <review>
+         <snippet>The Roost proceeds with such youthful enthusiasm that its rawness is more charming than annoying.</snippet>
+         <url>http://movies2.nytimes.com/2005/10/21/movies/21roos.html</url>
+         <critic>Jeannette Catsoulis</critic>
+      </review>
+      <review>
+         <snippet>Keep your big-budget horror movie expectations locked away in a separate crawl space, because this grainy feature debut from writer-director Ti West demands that you buy into the silliness, and the cheese.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=8566</url>
+         <critic>Janice Page</critic>
+      </review>
+   </reviews>
+   <US_Gross>$5,642</US_Gross>
+   <weekend_gross>$2,926</weekend_gross>
+   <number_of_screens>3</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

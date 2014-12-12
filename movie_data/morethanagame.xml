@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>More Than a Game</name>
+   <company>Lionsgate</company>
+   <genres>
+      <genre>Documentary</genre>
+   </genres>
+   <authors>
+      <author>Kristopher Belman</author>
+   </authors>
+   <directors>
+      <director>Kristopher Belman</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>LeBron James</actor>
+   </actors>
+   <release_date>October 2, 2009</release_date>
+   <running_time>105</running_time>
+   <rating>PG</rating>
+   <reviews>
+      <review>
+         <snippet>A kind of classic of American sports history.</snippet>
+         <url>http://www.variety.com/review/VE1117938239.html?categoryid=2863&amp;cs=1&amp;query=more+than+a+game</url>
+         <critic>John Anderson</critic>
+      </review>
+      <review>
+         <snippet>This is one helluva good movie that craves the eyeballs of as many American high schoolers as it can possibly get.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film-reviews/more-than-a-game-film-review-1004016610.story</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>It's the die-hard camaraderie that undergirded this squad and lifted it to the top.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20309084,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>A knockout of a sports documentary. Destined against its will to be known as "the LeBron James movie," it is all that, and a good deal more.</snippet>
+         <url>http://www.latimes.com/entertainment/news/la-et-game2-2009oct02,0,1938605.story</url>
+         <critic>Kenneth Turan</critic>
+      </review>
+      <review>
+         <snippet>The film is filled with extraordinary characters and equally extraordinary circumstances that Hollywood could craft no better in any feature script.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=11915</url>
+         <critic>Michael Dequina</critic>
+      </review>
+      <review>
+         <snippet>While More Than a Game is a terrific exhibition of talent, exuberance and skill, it is above all a moving tribute to enduring friendship.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2009-10-01-more-than-a-game_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>Fascinating not only for its portrait of an emergent--and endearing--superstar, but for the evolution of three teammates the young LeBron came to love, and the hard-driving coach who evolved with them.</snippet>
+         <url>http://online.wsj.com/article/film_review.html</url>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>Unfortunately, producers (including James) went for the easy layup, showing so much on-court action instead of trying to hustle for insights about sports and society.</snippet>
+         <url>http://www.stltoday.com/stltoday/entertainment/reviews.nsf/movie/story/995AAC4B1DA00CE88625764F006CA710?OpenDocument</url>
+         <critic>Joe Williams</critic>
+      </review>
+      <review>
+         <snippet>A missed opportunity is the effect of the school on the boys, and vice versa. Instead of sociology, More Than a Game focuses on personality.</snippet>
+         <url>http://www.boston.com/ae/movies/articles/2009/10/16/lebron_teammates_got_game/</url>
+         <critic>Mark Feeney</critic>
+      </review>
+      <review>
+         <snippet>The art is lacking, but the material is remarkable enough to make up for pedestrian filmmaking.</snippet>
+         <url>http://movies.nytimes.com/2009/10/02/movies/02more.html?ref=movies</url>
+         <critic>A.O. Scott</critic>
+      </review>
+      <review>
+         <snippet>The result would make an excellent inspirational video for aspiring players, but it's not quite ready for the pros.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2009/10/02/2009-10-02_short_movie_reviews_more_than_a_game_.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>Belman doesn’t look into the bigger problems of James’ team jet-setting across the country during the school year, or the spectacle allowed to build up around him. He cares most about what happens on the court, which is diverting and fun as far as it goes, but not close to the whole story.</snippet>
+         <url>http://www.avclub.com/articles/more-than-a-game,33591/</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>The final message is a strong one: Even when the starting forward is one of the best high school players ever, basketball is still a team sport.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2009/10/15/MV2D1A2KPV.DTL</url>
+         <critic>Peter Hartlaub</critic>
+      </review>
+      <review>
+         <snippet>The documentary hasn’t the depth of another study of high school ball, "Hoop Dreams,"' and tends toward repetition, but, in the end, its heartfelt saga scores.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A893743</url>
+         <critic>Marjorie Baumgarten</critic>
+      </review>
+      <review>
+         <snippet>More Than a Game is less than a movie.</snippet>
+         <url>http://www.theglobeandmail.com/news/arts/more-than-a-game/article1344157/</url>
+         <critic>Rick Groen</critic>
+      </review>
+      <review>
+         <snippet>Good game footage, a few clear looks at the kids behind it, but mostly as processed as "Space Jam."</snippet>
+         <url>http://www.villagevoice.com/2009-09-29/film/lebron-s-more-than-a-game-as-processed-as-space-jams/</url>
+         <critic>Nick Pinkerton</critic>
+      </review>
+      <review>
+         <snippet>With the film heavily favoring extensive on-court footage at the expense of in-depth individual portraits, the “more” offered here is merely skin-deep, basketball-is-a-brotherhood uplift.</snippet>
+         <url>http://newyork.timeout.com/articles/film/79127/more-than-a-game-film-review</url>
+         <critic>Nick Schager</critic>
+      </review>
+      <review>
+         <snippet>Like one of those five-minute featurettes on star athletes deployed to soak up time on the pregame show -- expanded to a paralytic length.</snippet>
+         <url>http://www.nypost.com/p/entertainment/movies/more_than_game_69um0wxr3RgZxgtZknclUP</url>
+         <critic>Kyle Smith</critic>
+      </review>
+   </reviews>
+   <US_Gross>$950,675</US_Gross>
+   <weekend_gross>$182,943</weekend_gross>
+   <number_of_screens>14</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

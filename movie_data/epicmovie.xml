@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Epic Movie</name>
+   <company>Twentieth Century-Fox Film Corporation</company>
+   <genres>
+      <genre>Adventure</genre>
+      <genre>Comedy</genre>
+   </genres>
+   <authors>
+      <author>Jason Friedberg</author>
+      <author>Aaron Seltzer</author>
+   </authors>
+   <directors>
+      <director>Jason Friedberg</director>
+      <director>Aaron Seltzer</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Kal Penn</actor>
+      <actor>Adam Campbell</actor>
+      <actor>Jennifer Coolidge</actor>
+      <actor>Jayma Mays</actor>
+      <actor>Faune A. Chambers</actor>
+      <actor>Crispin Glover</actor>
+      <actor>Carmen Electra</actor>
+      <actor>Fred Willard</actor>
+   </actors>
+   <release_date>January 26, 2007</release_date>
+   <running_time>86</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>Epic Movie is just timely enough to conclude with a wink and a nod to Borat. I only wish that it had been bold enough to go Borat on HIM.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20010410,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>The real problem with Epic Movie is that while it does a decent job imitating films, it never bothers to make fun of or have fun with them, which is what Friedberg and Seltzer did so well with "Scary Movie."</snippet>
+         <url>http://www.calendarlive.com/printedition/calendar/cl-et-epic29jan29,0,6642361.story</url>
+         <critic>Alex Chun</critic>
+      </review>
+      <review>
+         <snippet>The humor is coarse and occasionally funny. The archly bombastic score, by Edward Sheamur, is the only thing you might call witty. But happily, Jennifer Coolidge and Fred Willard show up, as the White Bitch and Aslo the Lion, to add some easy, demented class.</snippet>
+         <url>http://movies2.nytimes.com/2007/01/27/movies/27epic.html</url>
+         <critic>A.O. Scott</critic>
+      </review>
+      <review>
+         <snippet>The cinematic equivalent of a tapeworm, this delivers few laughs beyond the initial chuckles of recognition. Seltzer and Friedberg (who also directed) have another script in development called "Raunchy Movie"; apparently one idea they haven't yet considered is "Watchable Movie."</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/31039_EPIC_MOVIE.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>If imitation is the sincerest form of flattery, big studio Hollywood hitmakers should consider themselves lauded to the max in Jason Friedberg and Aaron Selzer's Epic Movie, the latest (and epically unfunny) entry in the movie parody franchise.</snippet>
+         <url>http://www.variety.com/review/VE1117932586.html?categoryid=31&amp;cs=1</url>
+         <critic>Ronnie Scheib</critic>
+      </review>
+      <review>
+         <snippet>Epic Movie is a waste of time. It's like a bad issue of "Cracked Magazine" come to life. It's not so much painful as it is sleep inducing.</snippet>
+         <url>http://www.reelviews.net/movies/e/epic_movie.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>The sadists responsible for the painfully unfunny "Date Movie" (2006) are back, and this time they've outdone themselves: This theater-clearer is even less amusing than its terrible predecessor, a spoof so devoid of laughs it can longer be categorized as a comedy.</snippet>
+         <url>http://tvguide.com/detail/movie.aspx?tvobjectid=285615&amp;more=ucmoviereview</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>Still, if it gets little else right, at least Epic Movie is accurately titled: It may be only 86 minutes long, but it feels as if it lasts forever.</snippet>
+         <url>http://www.nydailynews.com/01-27-2007/entertainment/col/story/492302p-414658c.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>Jason Friedberg and Aaron Seltzer must be stopped. For the last two years, this filmmaking team has created a series of spoof movies so feeble, shoddy and unfunny that they may be part of a diabolical, "Manchurian Candidate"-like plot to stunt the intellectual development of American adolescents.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20070126.wepicreview0126/BNStory/Entertainment/home</url>
+         <critic>Jason Anderson</critic>
+      </review>
+      <review>
+         <snippet>By the time this dud drops on NetFlix, it'll be as obsolete as a Chia pet jokebook.</snippet>
+         <url>http://www.laweekly.com/film+tv/film-reviews/film-reviews/15487/</url>
+         <critic>Jim Ridley</critic>
+      </review>
+      <review>
+         <snippet>A monumentally unfunny time-waster.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?JSESSIONID=F2BJTZ2mpngxyyzYNnhF46Nhj3GCyLSG9LJ1cfC3lSvTNrlchyz2!557466552&amp;&amp;rid=8713</url>
+         <critic>Michael Rechtshaffen</critic>
+      </review>
+      <review>
+         <snippet>It is just too bad that the film isn't called "Miniscule Movie" because that is a better description of this epic-less piece of garbage.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=9699</url>
+         <critic>Zack Haddad</critic>
+      </review>
+      <review>
+         <snippet>The willful sloppiness and retrograde gags make Epic Movie, which was not shown to critics, an inevitable byproduct of our Internet video era. It seems downloaded and projected onto the screen, a failing online-film-school project paid for and put out by a Hollywood movie studio. That said, very little on YouTube is this unentertaining.</snippet>
+         <url>http://www.boston.com/ae/movies/articles/2007/01/27/sloppy_mix_of_blockbuster_parodies_makes_for_epic_disaster/</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>This spoof of "The Da Vinci Code," "Pirates of the Caribbean," "Harry Potter," "The Chronicles of Narnia" and other recent blockbusters piles up sex gags, toilet gags and make-you-gag gags.</snippet>
+         <url/>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>Only a complete idiot could think Epic Movie is remotely funny.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2007/01/29/DDGDKNPFJH1.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>I've rarely seen a movie as hostile as this one, both to its audience and to its protagonists, and I don't think I realized before just how mean-spirited comedy can get (and I was raised on the Three Stooges).</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A438452</url>
+         <critic>Josh Rosenblatt</critic>
+      </review>
+      <review>
+         <snippet>It's an ersatz comedy filled with unconvincing celebrity look-alikes and tone-deaf parodies. Only the desperation and cynicism feel authentic.</snippet>
+         <url>http://www.avclub.com/content/node/57935</url>
+         <critic>Nathan Rabin</critic>
+      </review>
+   </reviews>
+   <US_Gross>$39,739,367</US_Gross>
+   <production_budget>$20,000,000</production_budget>
+   <weekend_gross>$18,612,544</weekend_gross>
+   <number_of_screens>2,801</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

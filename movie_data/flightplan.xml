@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Flightplan</name>
+   <company>Buena Vista Pictures</company>
+   <genres>
+      <genre>Drama</genre>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>Peter A. Dowling</author>
+      <author>Billy Ray</author>
+   </authors>
+   <directors>
+      <director>Robert Schwentke</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Jodie Foster</actor>
+      <actor>Peter Sarsgaard</actor>
+      <actor>Sean Bean</actor>
+      <actor>Marlene Lawston</actor>
+      <actor>Erika Christensen</actor>
+   </actors>
+   <release_date>September 23, 2005</release_date>
+   <running_time>93</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>A tense, concise and elegantly shot film.</snippet>
+         <url>http://sfgate.com/cgi-bin/article.cgi?f=/c/a/2005/09/23/DDG0MERLHC11.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>For at least two-thirds of its length, all elements combine for a taut thriller, a Hitchcockian exercise in suspense pitting human frailty - can our minds be trusted? - against human resourcefulness.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-to.flightplan23sep23,1,5269698.story?coll=bal-artslife-movies</url>
+         <critic>Chris Kaltenbach</critic>
+      </review>
+      <review>
+         <snippet>The movie's excellence comes from Foster's performance as a resourceful and brave woman; from Bean, Sarsgaard and the members of the cabin crew, all with varying degrees of doubt; from the screenplay by Peter A. Dowling and Billy Ray; and from the direction by Robert Schwentke.</snippet>
+         <url>http://www.rogerebert.com/apps/pbcs.dll/article?AID=/20050922/REVIEWS/50921001/1023</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>Far-fetched but deliciously exciting aerial nail-biter.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/241864_flightplan23q.html</url>
+         <critic>William Arnold</critic>
+      </review>
+      <review>
+         <snippet>Until those final moments, Flightplan succeeds admirably, both as a sophisticated psychological thriller and as an example of, if not great art, then superb craftsmanship.</snippet>
+         <url>http://www.washingtonpost.com/wp-dyn/content/article/2005/09/22/AR2005092202335.html</url>
+         <critic>Ann Hornaday</critic>
+      </review>
+      <review>
+         <snippet>Has a routine finish but up to that point is a more than decent thriller--or, given its taut self-containment, a more than decent Hitchcockian "exercise in suspense."</snippet>
+         <url>http://www.slate.com/id/2126803/?nav=fo</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>Doesn't have its heroine's conviction. It'd be better if it had.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=7912</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>Jodie Foster's fiercely intelligent performance drives this disappointing thriller, whose taut, carefully constructed first half is sadly negated by its implausible and -- worst of all -- unengaging conclusion.</snippet>
+         <url>http://online.tvguide.com/movies/database/showmovie.asp?MI=46448</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>This thriller is effective if you can accept that--as with some of John Dickson Carr's locked-room mysteries--the trickiness counts more than any plausibility.</snippet>
+         <url>http://spacefinder.chicagoreader.com/movies/briefs/28577_FLIGHTPLAN.html</url>
+         <critic>Jonathan Rosenbaum</critic>
+      </review>
+      <review>
+         <snippet>Schwentke handles the claustrophobic environment efficiently enough, though he dallies too long before letting anxiety give way to action.</snippet>
+         <url>http://www.laweekly.com/film/film_results.php?showid=3573&amp;Sumbit.x=61&amp;Sumbit.y=14</url>
+         <critic>John Patterson</critic>
+      </review>
+      <review>
+         <snippet>Becomes more satisfying than the stock thriller–star vehicle it begins and ends as.</snippet>
+         <url>http://www.villagevoice.com/film/0539,holcomb,68233,20.html</url>
+         <critic>Mark Holcomb</critic>
+      </review>
+      <review>
+         <snippet>An enthralling, enjoyable if ultimately far-fetched thriller.</snippet>
+         <url>http://www.empireonline.co.uk/incinemas/ReviewComplete.asp?FID=11063</url>
+         <critic>Ian Freer</critic>
+      </review>
+      <review>
+         <snippet>Since Foster plays warming-up-for-a-straitjacket panic with a clenched intensity rare to behold in a Hollywood actress, I, for one, was rooting for the radical -- that is, nuthouse -- option.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1109121_1_0_,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>A thriller that goes from pretty good to absolutely ludicrous in the time it takes one actor to recite about four sentences of dialogue.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/112738711136470.xml&amp;coll=7</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>By the final act, involving possibly the most far-fetched scheme since Dr. Evil aimed his death ray at Earth in "Austin Powers: The Spy Who Shagged Me," the indifference has become completely contagious.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/ArticleNews/TPStory/LAC/20050923/FLIGHT23/TPEntertainment/Film</url>
+         <critic>Liam Lacey</critic>
+      </review>
+      <review>
+         <snippet>I'd like to say that Flightplan is one of those white-knuckle, edge-of-your-seat thrill rides that critics are always raving about, but instead, it's more like a transatlantic flight with no clear destination, where the cabin noise makes it impossible to sleep and the in-flight movie is a rerun.</snippet>
+         <url>http://www.premiere.com/article.asp?section_id=2&amp;article_id=2321</url>
+         <critic>Peter Debruge</critic>
+      </review>
+      <review>
+         <snippet>As it is, Flightplan is half of a pretty good movie. But to maintain that impression, I recommend you take a nap for the last 40 minutes.</snippet>
+         <url>http://www.filmthreat.com/Reviews.asp?Id=8017</url>
+         <critic>Pete Vonder Haar</critic>
+      </review>
+      <review>
+         <snippet>There is something really nasty about this cold, calculating exercise in mob psychology and human venality.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1001179496</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>This B-list thriller portrays air crews as inept, at best, and callous and cruel at worst.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2005-09-22-flightplan-review_x.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>Largely undone by a script that self-destructs in the third act of an otherwise well-made thriller.</snippet>
+         <url>http://www.variety.com/review/VE1117928298?categoryid=31&amp;cs=1</url>
+         <critic>Robert Koehler</critic>
+      </review>
+      <review>
+         <snippet>The plot is contingent on everything going perfectly in ways no one can possibly predict, right down to the most outlandish happenstance of timing and human behavior.</snippet>
+         <url>http://www.nydailynews.com/09-23-2005/entertainment/col/story/349082p-297650c.html</url>
+         <critic>Jami Bernard</critic>
+      </review>
+      <review>
+         <snippet>To watch Ms. Foster storm through a phony airplane for an entire movie has its very minor pleasures - given the numerous close-ups, you can study her lovely face at your leisure - but there is nothing here to feed the head or fray the nerves.</snippet>
+         <url>http://www.nytimes.com/2005/09/23/movies/23flig.html</url>
+         <critic>Manohla Dargis</critic>
+      </review>
+      <review>
+         <snippet>The movie loses some of its initial atmospheric tension as paranoid thrills give way to Rambo high jinks.</snippet>
+         <url>http://www.calendarlive.com/movies/chocano/cl-et-flightplan23sep23,0,2921757.story</url>
+         <critic>Carina Chocano</critic>
+      </review>
+      <review>
+         <snippet>Despite excellent elements - great actress, taut plot, slick visuals - Flightplan is like airplane food. No matter how good the ingredients the air chef has to work with, the entree inevitably ends up tasting like a Xerox of a facsimile of a meal.</snippet>
+         <url>http://ae.philly.com/entertainment/ui/philly/movie.html?id=421008&amp;reviewId=19080</url>
+         <critic>Carrie Rickey</critic>
+      </review>
+      <review>
+         <snippet>The latest motion picture to take an intriguing premise and flush it into the septic tank.</snippet>
+         <url>http://movie-reviews.colossus.net/movies/f/flightplan.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>But coming on the heels of "Red Eye," which is nothing if not an efficient thrill machine, Flightplan can only look conspicuously flat by comparison.</snippet>
+         <url>http://avclub.com/content/node/40881</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>A thriller of passive virtues, the steely intensity of Jodie Foster notwithstanding. It's not too violent. It's not assaultive. Even James Horner's music plays it cool.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-050923-movies-review-flightplan,0,2044654.story?coll=mmx-movies_top_heds</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>Sean Bean makes a positive impression as the caring but puzzled captain of the flight, though Peter Sarsgaard flies at half-mast as a clumsy air marshal.</snippet>
+         <url>http://ae.charlotte.com/entertainment/ui/charlotte/movie.html?id=421008&amp;reviewId=19073&amp;startDate=09%2F23%2F2005</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>Flightplan should have remained grounded for repairs.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A291991</url>
+         <critic>Marjorie Baumgarten</critic>
+      </review>
+      <review>
+         <snippet>An exercise in edgy tedium, and even though it's only 90 minutes or so, it seems to last longer than an actual transatlantic flight. If you bring an eye mask and a few sleeping pills, you should get through it OK. A magazine or book wouldn't hurt, either. It'll be over before you know it.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2005/09/23/flightplan/index.html?sid=1392501</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>As the movie enters its final chapter, you will come to the sad, sickening realization that the filmmakers have played you for a chump. What seemed so smart, so well crafted and finely tuned, falls apart into a flaming heap of c---, and all goodwill is dashed.</snippet>
+         <url>http://listings.dallasobserver.com/gyrobase/Film/ShowFilm</url>
+         <critic>Robert Wilonsky</critic>
+      </review>
+      <review>
+         <snippet>Absurdity has a new name: Flightplan.</snippet>
+         <url>http://www.nypost.com/movies/53046.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>This movie demands that the viewer -- and even its own characters -- turn into thumb-sucking 3-year-olds with no need for plausibility or logic, as long as there are lots of flashing lights and whooshing noises emanating from the screen.</snippet>
+         <url>http://ae.miami.com/entertainment/ui/miami/movie.html?id=421008&amp;reviewId=19093</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+   </reviews>
+   <US_Gross>$89,706,988</US_Gross>
+   <production_budget>$55,000,000</production_budget>
+   <weekend_gross>$24,629,938</weekend_gross>
+   <number_of_screens>3,424</number_of_screens>
+   <oscar_winning_actors_present/>
+   <num_oscar_winning_actors>1</num_oscar_winning_actors>
+   <oscar_winning_actor>jodie foster</oscar_winning_actor>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

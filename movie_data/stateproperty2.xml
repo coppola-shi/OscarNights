@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>State Property 2</name>
+   <company>Lions Gate Films Inc.</company>
+   <genres>
+      <genre>Action</genre>
+      <genre>Crime</genre>
+      <genre>Drama</genre>
+      <genre>Musical</genre>
+   </genres>
+   <authors>
+      <author>Adam Moreno</author>
+      <author>Damon Dash</author>
+   </authors>
+   <directors>
+      <director>Damon Dash</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Beanie Sigel</actor>
+      <actor>Damon Dash</actor>
+      <actor>Michael Bentt</actor>
+      <actor>Victor N.O.R.E. Santiago</actor>
+      <actor>Omillio Sparks</actor>
+      <actor>Oschino</actor>
+      <actor>Ol&amp;#039; Dirty Bastard</actor>
+   </actors>
+   <release_date>April 13, 2005</release_date>
+   <running_time>94</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>You may call the film blingsploitation but its fun-loving hoodlums know who's fooling whom.</snippet>
+         <url>http://www.nypost.com/movies/44421.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>Slicker, funnier and more professional than its predecessor, State Property 2, with Damon Dash at its helm tones down the original.</snippet>
+         <url>http://www.variety.com/review/VE1117926795?categoryid=31&amp;cs=1</url>
+         <critic>Ronnie Scheib</critic>
+      </review>
+      <review>
+         <snippet>Dash directs with a certain visual flare and a sense of humor, but as the film lumbers toward its climax, keeping track of the innumerable allegiances and double-crosses becomes an exercise in futility.</snippet>
+         <url>http://www.theavclub.com/review.php?review_id=8419</url>
+         <critic>Nathan Rabin</critic>
+      </review>
+      <review>
+         <snippet>It is not saying much to point out that the sequel is better than its predecessor (directed by Abdul Malik Abbott), which was crude and amateurish in every way.</snippet>
+         <url>http://movies2.nytimes.com/2005/04/13/movies/13stat.html</url>
+         <critic>Dana Stevens</critic>
+      </review>
+      <review>
+         <snippet>Ultimately, Adam Moreno's screenplay, with its multiple narrators and constantly shifting points of view, makes for mighty confusing viewing.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1000882737</url>
+         <critic>Michael Rechtshaffen</critic>
+      </review>
+      <review>
+         <snippet>Dash and screenwriter Adam "Blue" Moreno abandon the stone-faced seriousness of the first film for a more playful approach, goofing on gangsta' poses and colorful hood-speak.</snippet>
+         <url>http://tvguide.com/movies/database/ShowMovie.asp?MI=46044</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>When this flick is honest about its pimping, it has that Rat Pack charm. But attempts at real ruggish posturing--like that de rigueur sideways-gatted, full-body-exposure firing stance--are just plain laughable.</snippet>
+         <url>http://www.villagevoice.com/film/0515,sinagra1,62912,20.html</url>
+         <critic>Laura Sinagra</critic>
+      </review>
+      <review>
+         <snippet>State Property 2 is no more three-dimensional than your average brand-name-laden hip-hop video.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1048859_1_0_,00.html</url>
+         <critic>Neil Drumming</critic>
+      </review>
+      <review>
+         <snippet>Given that its predecessor hit bottom in the glorification of thug thrills, State Property 2 had nowhere to go but up. Yet, it doesn't.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/story/299301p-256234c.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>The left hand doesn't know who the right hand is shooting in State Property 2, Damon Dash's prodigiously muddled thug-life sequel.</snippet>
+         <url>http://ae.philly.com/entertainment/ui/philly/movie.html?id=292215&amp;reviewId=17770</url>
+         <critic>David Hiltbrand</critic>
+      </review>
+   </reviews>
+   <US_Gross>$1,691,706</US_Gross>
+   <weekend_gross>$1,102,299</weekend_gross>
+   <number_of_screens>202</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

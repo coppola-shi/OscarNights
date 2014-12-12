@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Reaping, The</name>
+   <company>Warner Bros. Pictures</company>
+   <genres>
+      <genre>Horror</genre>
+      <genre>Scifi</genre>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>Carey Hayes</author>
+      <author>Chad Hayes</author>
+      <author>Brian Rousso</author>
+   </authors>
+   <directors>
+      <director>Stephen Hopkins</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Hilary Swank</actor>
+      <actor>David Morrissey</actor>
+      <actor>Idris Elba</actor>
+      <actor>Stephen Rea</actor>
+      <actor>William Ragsdale</actor>
+      <actor>John McConnell</actor>
+      <actor>David Jensen</actor>
+      <actor>Samuel Garl</actor>
+   </actors>
+   <release_date>April 5, 2007</release_date>
+   <running_time>96</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>An effectively unsettling mix of Southern gothic and Old Testament hugger-mugger, with shades of "The Exorcist" and even "Rosemary's Baby" thrown in.</snippet>
+         <url>http://www.philly.com/inquirer/columnists/steven_rea/20070404_The_Reaping__a_horror_tale__pits_Hilary_Swank_against_the_plagues_of_Exodus.html</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>One either likes this sort of thing or not. Even fans might not buy the ending in which more people get wiped out than in Hurricane Katrina.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?JSESSIONID=f3h5GN9H2vCtSrnpSnSDwLjZt7jpx83WQLLfnhjm7lQyGbVzP35J!-1287570033&amp;&amp;rid=8989</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>Revisiting the book of Exodus in a feverish Southern-gothic context, this lurid, often ludicrously entertaining slab of Biblesploitation builds an earnest case for spirituality in a skeptical age.</snippet>
+         <url>http://www.variety.com/review/VE1117933247.html?categoryid=31&amp;cs=1</url>
+         <critic>Justin Chang</critic>
+      </review>
+      <review>
+         <snippet>The seeds of most Biblical horror movies are sown in the Book of Revelations; The Reaping at least gets marks for originality for springing from Exodus.</snippet>
+         <url>http://www.calendarlive.com/printedition/calendar/cl-wk-reaping5apr05,0,7253004.story</url>
+         <critic>Michael Ordona</critic>
+      </review>
+      <review>
+         <snippet>The Reaping is Bible camp, pure and simple. And for bad-movie lovers, it's manna from heaven.</snippet>
+         <url>http://www.avclub.com/content/cinema/the_reaping</url>
+         <critic>Nathan Rabin</critic>
+      </review>
+      <review>
+         <snippet>For genre fans, the horde-of-locust sequence may alone be worth the price of admission.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/310192_reaping05q.html</url>
+         <critic>William Arnold</critic>
+      </review>
+      <review>
+         <snippet>Notable for its enthusiastic abandonment of any semblance of narrative coherence.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/LAC.20070405.REAPING05/TPStory/TPEntertainment/Movies/</url>
+         <critic>Liam Lacey</critic>
+      </review>
+      <review>
+         <snippet>The script, which is rarely smart and barely scary, offers little more than a checklist of panic-inducing plagues, from locusts to boils to bad Southern accents.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2007/04/05/2007-04-05_plagues_the_thing.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>This stuff is strictly run of DeMille.</snippet>
+         <url>http://www.nypost.com/seven/04052007/entertainment/movies/foul_plague_movies_kyle_smith.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>Swank and Elba work hard for their paychecks, but Rea quite literally phones in his performance.</snippet>
+         <url>http://tvguide.com/movies/reaping/review/280129</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>The only remotely notable thing about this particular jumble of boos, bangs and door creaks...is that it tries to wed the horror trend with the heated-up God market.</snippet>
+         <url>http://movies2.nytimes.com/2007/04/05/movies/05reap.html?ref=movies</url>
+         <critic>Manohla Dargis</critic>
+      </review>
+      <review>
+         <snippet>Ludicrous and overstuffed, it plows through the Big 10 of Biblical plagues.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-070406-movies-review-reaping,0,7147161.story?coll=mmx-movies_top_heds</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>Some of the effects are squirm-worthy, if not actually frightening. Amid all the fake profundity, those moments -- you know, when the film is actually entertaining -- are rare.</snippet>
+         <url>http://www.premiere.com/moviereviews/3698/the-reaping.html</url>
+         <critic>Laine Ewen</critic>
+      </review>
+      <review>
+         <snippet>It's hard to say what is more responsible for the film's utter failure: Hopkins direction, the editing, or the screenplay. The result is such a muddle that one assumes each aspect deserves part of the blame.</snippet>
+         <url>http://www.reelviews.net/movies/r/reaping.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>No belief on earth can rescue Swank from a film that's a chain of disaster chintz masquerading as a sermon.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20033674,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>Those two age-old foes--science and blind faith--tango yet again in this noxious slice of Biblical horror about a series of Old Testament plagues being visited upon a Louisiana bayou backwater.</snippet>
+         <url>http://www.villagevoice.com/film/0714,foundas,76280,20.html</url>
+         <critic>Scott Foundas</critic>
+      </review>
+      <review>
+         <snippet>Pardon the pun, but audiences will reap little from this satanic backwoods juju thriller.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A460281</url>
+         <critic>Marrit Ingman</critic>
+      </review>
+      <review>
+         <snippet>The Reaping isn't a total failure. Swank is never less than competent.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=9930</url>
+         <critic>Pete Vonder Haar</critic>
+      </review>
+      <review>
+         <snippet>If only The Reaping had the decency to be coherent.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1120676&amp;categories=Movies&amp;nm=1</url>
+         <critic>Desson Thomson</critic>
+      </review>
+      <review>
+         <snippet>Although The Reaping' borrows elements from classics of the genre -- rips them off might be more accurate -- it fails to build the psychological tension that made them so creepily good.</snippet>
+         <url>http://sfgate.com/cgi-bin/article.cgi?f=/c/a/2007/04/05/DDGQEP1A3P1.DTL&amp;type=movies</url>
+         <critic>Ruthe Stein</critic>
+      </review>
+      <review>
+         <snippet>As if this drivel weren't bad enough, the ending blatantly threatens a sequel</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2007-04-04-the-reaping_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>Long-delayed, pitiful excuse for a horror film.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=8867</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>This high-decibel shocker is an insult to intelligence and faith alike.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/31324_REAPING.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+   </reviews>
+   <US_Gross>$25,126,214</US_Gross>
+   <production_budget>$40,000,000</production_budget>
+   <weekend_gross>$11,958,518</weekend_gross>
+   <number_of_screens>2,603</number_of_screens>
+   <oscar_winning_actors_present/>
+   <num_oscar_winning_actors>1</num_oscar_winning_actors>
+   <oscar_winning_actor>hilary swank</oscar_winning_actor>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

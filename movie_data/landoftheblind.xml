@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Land of the Blind</name>
+   <company>Bauer Martinez Studios</company>
+   <genres>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author>Robert Edwards</author>
+   </authors>
+   <directors>
+      <director>Robert Edwards</director>
+   </directors>
+   <origins>
+      <origin>UKUSA</origin>
+   </origins>
+   <actors>
+      <actor>Ralph Fiennes</actor>
+      <actor>Donald Sutherl</actor>
+      <actor>Tom Holler</actor>
+      <actor>Lara Flynn Boyle</actor>
+      <actor>Marc Warren</actor>
+      <actor>Ron Cook</actor>
+      <actor>Don Warrington</actor>
+      <actor>Laura Fraser</actor>
+   </actors>
+   <release_date>June 16, 2006</release_date>
+   <running_time>110</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>There's nothing particularly revolutionary about writer-director Robert Edwards' grimly satiric political fable.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1204244_1_0_,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>The dialogue creaks, all the more so since we know better than it does what it is going to say.</snippet>
+         <url>http://www.tnr.com/doc.mhtml?i=20060710&amp;s=kauffmann071006</url>
+         <critic>Stanley Kauffmann</critic>
+      </review>
+      <review>
+         <snippet>About as subtle as its all too obvious title would suggest.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1002801123</url>
+         <critic>Frank Scheck</critic>
+      </review>
+      <review>
+         <snippet>It's an easy movie to loathe, but it's designed imaginatively and enjoys the committed attention of its cast.</snippet>
+         <url>http://www.villagevoice.com/film/0624,atkinson,73537,20.html</url>
+         <critic>Michael Atkinson</critic>
+      </review>
+      <review>
+         <snippet>Dark, grim, and cliched Orwellian satire.</snippet>
+         <url/>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>Political satire is so rare that it's a shame to watch the reliable Ralph Fiennes and Donald Sutherland lend their talents to one that is blind to its own incompetence.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/_/id/10464424/rid/10533008/</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>First-time writer-director Robert Edwards is nothing if not ambitious, attempting to encapsulate the history of totalitarian oppression and misguided revolutionary zeal into a broad, blunt, black comedy.</snippet>
+         <url>http://online.tvguide.com/newsearch/detail.aspx?id=47001&amp;sourcetype=m&amp;progseriesparentid=0&amp;tvobjectid=0&amp;keyword=&amp;more=ucmoviereview</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>Though Fiennes has done (far) better work, the blurry story seems almost profound when seen through his eyes. To the extent the movie works at all, it works best when it's just the camera and Fiennes in a bleak white room.</snippet>
+         <url>http://www.nypost.com/movies/recipe_for_a_revolting_mess_movies_kyle_smith.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>One of the more spectacular misfires of recent years, Land of the Blind's lack of originality is only slightly exceeded by its failure to work as political satire.</snippet>
+         <url>http://www.variety.com/review/VE1117929631?categoryid=2215&amp;cs=1&amp;s=h&amp;p=0</url>
+         <critic>Jay Weissberg</critic>
+      </review>
+      <review>
+         <snippet>Mr. Edwards, who wrote and directed Land of the Blind (it's his debut film), might counter that the movie is a Brechtian comedy that's not supposed to make literal sense: the big picture is what matters. But the big picture is a mess.</snippet>
+         <url>http://movies2.nytimes.com/2006/06/16/movies/16blin.html</url>
+         <critic>Stephen Holden</critic>
+      </review>
+   </reviews>
+   <US_Gross>$5,244</US_Gross>
+   <weekend_gross>$5,244</weekend_gross>
+   <number_of_screens>2</number_of_screens>
+   <summer_release>true</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Ninja Assassin</name>
+   <company>Warner Bros. Pictures</company>
+   <genres>
+      <genre>Action</genre>
+      <genre>Crime</genre>
+      <genre>Drama</genre>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>Matthew Sand</author>
+      <author>J. Michael Straczynski</author>
+   </authors>
+   <directors>
+      <director>James Mc</director>
+      <director>Teigue</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Rain</actor>
+      <actor>Naomie Harris</actor>
+      <actor>Ben Miles</actor>
+      <actor>Sho Kosugi</actor>
+      <actor>Rick Yune</actor>
+   </actors>
+   <release_date>November 25, 2009</release_date>
+   <running_time>minutes,</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>Let's be honest, killing is this film's business...and business is good.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20322480,00.html</url>
+         <critic>Chris Nashawaty</critic>
+      </review>
+      <review>
+         <snippet>Ninja isn't a great movie, but if you're in the right frame of mind, it is a bloody good time.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film-reviews/ninja-assassin-film-review-1004041862.story</url>
+         <critic>Ethan Alter</critic>
+      </review>
+      <review>
+         <snippet>Despite the pace, though -- pedal, have you met my friend metal? -- Ninja Assassin still has some of its best stuff left at the end, when the master returns to demonstrate his extra-special, super-most-deadliest technique.</snippet>
+         <url>http://www.nypost.com/p/entertainment/movies/ninjas_slash_as_slash_can_Mn1GybYRZlQ5uydElymSDM</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>The finest effect in this visceral gouge of a picture is Korean pop star Rain.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2009/11/24/ninja_assassin/index.html</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>This saga, set in Berlin, is more committed to its bloodletting than to any of its characters.</snippet>
+         <url>http://movies.nytimes.com/2009/11/25/movies/25ninja.html?ref=movies</url>
+         <critic>Jeannette Catsoulis</critic>
+      </review>
+      <review>
+         <snippet>A convincing, reasonably co-ordinated action movie. Nothing special, but lovers of the genre will enjoy the workouts, especially if they bring night-vision glasses.</snippet>
+         <url>http://www.theglobeandmail.com/news/arts/ninja-assassin/article1375822/</url>
+         <critic>Stephen Cole</critic>
+      </review>
+      <review>
+         <snippet>How is an action movie that aims for kinetic thrills supposed to develop any forward momentum when it spends so much time looking back?</snippet>
+         <url>http://www.avclub.com/articles/ninja-assassin,35745/</url>
+         <critic>Nathan Rabin</critic>
+      </review>
+      <review>
+         <snippet>Seemingly made to capitalize on a dubious CG innovation -- namely, the slicing of bodies in half by whizzing five-pointed stars -- Ninja Assassin has little else to recommend it, not even laughs.</snippet>
+         <url>http://www.variety.com/review/VE1117941429.html?categoryid=31&amp;cs=1&amp;query=ninja+assassin</url>
+         <critic>Rob Nelson</critic>
+      </review>
+      <review>
+         <snippet>Just not feeling the holiday spirit? Maybe a brainless, extra-bloody B-movie will provide the boost you're looking for.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2009/11/27/2009-11-27_short_takes_ninja_assassin_home_and_ward_no_6.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>Director James McTeigue (V for Vendetta) films most fights in impenetrable shadow, punctuated by death screams, blood splatters and CGI throwing stars glinting from some unseen light source.</snippet>
+         <url>http://newyork.timeout.com/articles/film/81124/ninja-assassin-film-review</url>
+         <critic>Kevin B. Lee</critic>
+      </review>
+      <review>
+         <snippet>Decent ingredients but, as a whole, this is lacking in choreographic flair and plot substance.</snippet>
+         <url>http://www.empireonline.com/reviews/reviewcomplete.asp?FID=136641</url>
+         <critic>Will Lawrence</critic>
+      </review>
+      <review>
+         <snippet>Numbingly gory when it isn’t just plain numbing.</snippet>
+         <url>http://featuresblogs.chicagotribune.com/talking_pictures/</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>It’s like Bob Fosse night at the martial-arts studio. Most of the killing here is done with bladed throwing stars that, like the ninjas themselves, arrive from nowhere. They appear to have been used to edit the film as well.</snippet>
+         <url>http://www.boston.com/ae/movies/articles/2009/11/25/ninja_assassin_wields_a_dull_blade/</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>This amateurish action flick is so lacking in personality or punch, it ought to be titled "V for Video Store Discount Bin."</snippet>
+         <url>http://www.stltoday.com/stltoday/entertainment/reviews.nsf/movie/story/64485E3DC0C2BF5086257678006D9DA8?OpenDocument</url>
+         <critic>Joe Williams</critic>
+      </review>
+      <review>
+         <snippet>Ten minutes after you leave the movie, all the battles will have blended in your memory into a ceaseless muddle of sliced-off appendages, jets of blood splashing artfully on walls, gurgling screams and flashing swords.</snippet>
+         <url>http://www.washingtonpost.com/gog/movies/ninja-assassin,1151192/critic-review.html#reviewNum1</url>
+         <critic>Dan Kois</critic>
+      </review>
+      <review>
+         <snippet>A triple-cross plot with Harris's superiors doesn't help the movie's clarity--neither does the clattering sound design. Shouldn't throwing stars be silent? If they're gonna sound like gunshots, why not just use guns?</snippet>
+         <url>http://www.villagevoice.com/2009-11-24/film/zombies-more-fun-than-limb-snapping-ninja-assassin/</url>
+         <critic>Brian Miller</critic>
+      </review>
+      <review>
+         <snippet>You don't go into a movie called Ninja Assassin expecting a hell of a lot, but this shockingly disjointed and relentlessly dull picture can't even deliver the martial-arts kick its title so plainly promises.</snippet>
+         <url>http://www.miamiherald.com/entertainment/movies/reviews/story/1349374.html</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>It's a gorefest, a borefest and a snorefest.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2009/11/25/MVHH1ANENE.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>Soulless, hyperbolic actioner.</snippet>
+         <url>http://www.chicagoreader.com/chicago/MovieTimes?oid=977923</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>It's so unreal it hurts.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A916977</url>
+         <critic>Marc Savlov</critic>
+      </review>
+   </reviews>
+   <US_Gross>$38,122,883</US_Gross>
+   <production_budget>$50,000,000</production_budget>
+   <weekend_gross>$21,193,565</weekend_gross>
+   <number_of_screens>2,503</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

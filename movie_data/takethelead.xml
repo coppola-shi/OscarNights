@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Take the Lead</name>
+   <company>New Line Cinema</company>
+   <genres>
+      <genre>Drama</genre>
+      <genre>Musical</genre>
+   </genres>
+   <authors>
+      <author>Dianne Houston</author>
+   </authors>
+   <directors>
+      <director>Liz Friedlander</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Antonio Beras</actor>
+      <actor>Rob Brown</actor>
+      <actor>Alfre Woodard</actor>
+      <actor>Dante Basco</actor>
+      <actor>Ray Liotta</actor>
+      <actor>Lyriq Bent</actor>
+      <actor>Yaya DaCosta</actor>
+      <actor>John Oritz</actor>
+   </actors>
+   <release_date>April 7, 2006</release_date>
+   <running_time>108</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>Antonio Banderas is reason enough to see the movie.</snippet>
+         <url>http://www.rogerebert.com/apps/pbcs.dll/article?AID=/20060406/REVIEWS/604060308/1023</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>Though screenwriter Dianne Houston spent time observing the real-life Dulaine, her screenplay is a showcase for triumph-of-the-underdog sports-movie cliches and coming-of-age-through-adversity moral lessons.</snippet>
+         <url>http://online.tvguide.com/movies/database/Movie-Review.asp?MI=46661</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>Take the Lead hits all the marks you'd expect of a movie like this, but it's done vibrantly and with warm-blooded characters.</snippet>
+         <url>http://www.nydailynews.com/04-07-2006/front/story/406826p-344246c.html</url>
+         <critic>Jami Bernard</critic>
+      </review>
+      <review>
+         <snippet>Surprisingly charming and well-acted.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/114427951778660.xml&amp;coll=7</url>
+         <critic>M. E. Russell</critic>
+      </review>
+      <review>
+         <snippet>Its considerable charm lies in the way it fulfills, rather than bucks, our expectations.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2006/04/07/lead/index.html</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>This inspirational vehicle, based on a true story, is as hokey as it sounds, and it sometimes cuts too fast to allow us to see the dancing properly. But as in "Saturday Night Fever," the sense of reality giving way to fantasy on a dance floor is potent, and writer Dianne Houston and director Liz Friedlander are so sincere that they make much of it work.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/29528_TAKE_THE_LEAD.html</url>
+         <critic>Jonathan Rosenbaum</critic>
+      </review>
+      <review>
+         <snippet>It's a very slight and forgettable affair, and a formula job all the way. But it's easy to watch, the dance sequences are sporadically enjoyable (if hardly innovative) and Antonio Banderas is wonderfully magnetic and charming in the lead.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/265796_take07q.html</url>
+         <critic>William Arnold</critic>
+      </review>
+      <review>
+         <snippet>The movie's best moments are between Banderas and the kids. When the plot shifts to reveal the students' back stories (one has a prostitute mother, another a drunken father), the story becomes a melodramatic rehash of other movies, like "Fame" or "Rent."</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2006-04-06-take-the-lead_x.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>What keeps this from cloying? Universally good performances, led by Banderas' blazing intensity.</snippet>
+         <url>http://ae.charlotte.com/entertainment/ui/charlotte/movie.html?id=569901&amp;reviewId=20485&amp;startDate=04%2F07%2F2006</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>At one point, Dulaine takes the students to his studio and they look up at the mirrored disco ball glittering above the dance floor. "Corny, but cool," says one of the sweathogs. My feelings about the film precisely.</snippet>
+         <url>http://ae.charlotte.com/entertainment/ui/charlotte/movie.html?id=569901&amp;reviewId=20501</url>
+         <critic>Carrie Rickey</critic>
+      </review>
+      <review>
+         <snippet>Inspired by a true story (translation: a lot of it is made up), the movie shucks its corn straight from the cob. But it's no less engaging for that, thanks to the enthusiasm of the young cast and the fusion of classic dance with hip-hop moves courtesy of Rich and Tone Talauega.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/_/id/6824164/rid/9579220/</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>Things hold together longer than they would have without Banderas' commanding, committed performance.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1002275769</url>
+         <critic>Michael Rechtshaffen</critic>
+      </review>
+      <review>
+         <snippet>Well-intentioned, feel-good urban tale.</snippet>
+         <url>http://www.variety.com/review/VE1117930101?categoryid=31&amp;cs=1</url>
+         <critic>John Anderson</critic>
+      </review>
+      <review>
+         <snippet>It's no surprise to anyone who's seen his Robert Rodriguez films that Banderas works well with kids. But it may surprise those who saw "Evita" that he can make a music-and-dance movie that doesn't suck.</snippet>
+         <url>http://www.villagevoice.com/film/0614,thompson,72768,20.html</url>
+         <critic>Luke Y. Thompson</critic>
+      </review>
+      <review>
+         <snippet>To their credit, screenwriter Dianne Houston and director Liz Friedlander (both making their feature debuts) go relatively easy on the urban-life clichés and instead stick tight to dance class.</snippet>
+         <url>http://www.laweekly.com/film+tv/film-reviews/film-reviews/13131/</url>
+         <critic>Chuck Wilson</critic>
+      </review>
+      <review>
+         <snippet>There are some decent performances from the motley crew of students, and Banderas does well despite an underwritten role. But the breakout star here is the dance.</snippet>
+         <url>http://www.empireonline.com/incinemas/reviewcomplete.asp?FID=133566</url>
+         <critic>Helen O&amp;#039;Hara</critic>
+      </review>
+      <review>
+         <snippet>There's no denying Banderas' talent as an actor, and he's admittedly fun to watch. The rest of the cast are serviceable, meaning Woodard finds new ways to show us how this Latin heartthrob melts her icy exterior.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=8898</url>
+         <critic>Pete Vonder Haar</critic>
+      </review>
+      <review>
+         <snippet>One of the year's most uninspired inspirational stories.</snippet>
+         <url>http://movie-reviews.colossus.net/movies/t/take_lead.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>Corny and uncool. Initially, it doesn't matter. Banderas is so winning in the lead that the film's early scenes are almost as persuasive as one of his lectures.</snippet>
+         <url>http://www.avclub.com/content/node/47078</url>
+         <critic>Keith Phipps</critic>
+      </review>
+      <review>
+         <snippet>It's Banderas' film all the way, of course: he's one of those genuinely gifted, glowing actors who can nevertheless hold your attention through sheer onscreen charisma.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A352429</url>
+         <critic>Marc Savlov</critic>
+      </review>
+      <review>
+         <snippet>The latest ballroom dance-fever picture isn't very good, but some of the dancing is fun.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-060407-movies-review-lead,0,3426424.story?coll=mmx-movies_top_heds</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>Take the Lead, despite its nifty concept and fiery leading man, feels sloppy and rushed.</snippet>
+         <url>http://movies2.nytimes.com/2006/04/07/movies/07lead.html</url>
+         <critic>Stephen Holden</critic>
+      </review>
+      <review>
+         <snippet>Take the Lead mixes classical dance with hip-hop gyrations and features perhaps the most scrubbed set of delinquents since "West Side Story."</snippet>
+         <url>http://www.csmonitor.com/2006/0407/p14s02-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>Johnny can't read, but he sure can rumba - and that's just fine with Take the Lead.</snippet>
+         <url>http://www.nypost.com/movies/66643.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>An energetic young cast, consisting of a mix of professional dancers and actors who do convincing imitations of Arthur Murray graduates, is positively inspired in numbers combining traditional ballroom steps with hip-hop.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2006/04/07/DDG5UI43FV1.DTL&amp;type=movies</url>
+         <critic>Ruthe Stein</critic>
+      </review>
+      <review>
+         <snippet>The whole thing has all the spontaneity of high-school morning announcements.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/LAC.20060407.TAKE07/TPStory/TPEntertainment/</url>
+         <critic>Liam Lacey</critic>
+      </review>
+      <review>
+         <snippet>Put the tango in "To Sir, With Love," and you've got Take the Lead.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-to.take07apr07,0,5184559.story?coll=bal-artslife-movies</url>
+         <critic>Chris Kaltenbach</critic>
+      </review>
+      <review>
+         <snippet>The movie partners all the cliches of the inner-city school drama with the cliches of the dance instructional, and the two keep stomping on each other's toes.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=8384</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>The young cast members are full of attitude and heart. But the film is long on flashy dance sequences and short on depth, character and craft.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1097595&amp;lat=200.0&amp;lon=200.0&amp;displaySearchLocation=&amp;nm=1&amp;categories=Movies</url>
+         <critic>Sarah Kaufman</critic>
+      </review>
+      <review>
+         <snippet>Antonio Banderas is a charming and talented man, but in Take the Lead he lays on the old-world panache so thick - the accent, the flowery courtliness, the romance of romance - that he comes off like Dracula's metrosexual cousin.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1180349_1_0_,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+   </reviews>
+   <US_Gross>$34,742,066</US_Gross>
+   <production_budget>$30,000,000</production_budget>
+   <weekend_gross>$12,051,277</weekend_gross>
+   <number_of_screens>3,009</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

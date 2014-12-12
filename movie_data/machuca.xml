@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Machuca</name>
+   <company>Menemsha Films</company>
+   <genres>
+      <genre>Drama</genre>
+      <genre>Foreign</genre>
+   </genres>
+   <authors>
+      <author>Mamoun Hassan</author>
+      <author>Andrés Wood</author>
+   </authors>
+   <directors>
+      <director>Andrés Wood</director>
+   </directors>
+   <origins>
+      <origin>ChileSpainUKFrance</origin>
+   </origins>
+   <actors>
+      <actor>Matías Quer</actor>
+      <actor>Ariel Mateluna</actor>
+      <actor>Manuela Martelli</actor>
+      <actor>Aline Küppenheim</actor>
+      <actor>Ernesto Malbran</actor>
+      <actor>Tamara Acosta</actor>
+      <actor>Francisco Reyes</actor>
+      <actor>Alejro Trejo</actor>
+   </actors>
+   <release_date>January 19, 2005</release_date>
+   <running_time>120</running_time>
+   <rating>Not</rating>
+   <reviews>
+      <review>
+         <snippet>A sensitively wrought work.</snippet>
+         <url>http://sfgate.com/cgi-bin/article.cgi?f=/c/a/2005/07/15/DDGKGDNJ6P1.DTL#flick</url>
+         <critic>Jonathan Curiel</critic>
+      </review>
+      <review>
+         <snippet>A fine, exciting film that makes a bloody historical event live all over again by showing it through the eyes of children on the edges of the conflict.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-0501208-movies-review-machuca,0,1981290.story?coll=mmx-movies_top_heds</url>
+         <critic>Michael Wilmington</critic>
+      </review>
+      <review>
+         <snippet>An astonishingly intimate and painful coming-of-age story.</snippet>
+         <url>http://www.nydailynews.com/01-19-2005/entertainment/col/story/272745p-233424c.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>You don't have to know Chile's bloody history to be moved by the poignant new film Machuca, the first movie made by a Chilean about the country's 1973 military coup.</snippet>
+         <url>http://www.nypost.com/movies/38377.htm</url>
+         <critic>Russell Scott Smith</critic>
+      </review>
+      <review>
+         <snippet>Machuca is a quiet film, moving sadly toward its inevitable climax, the final scenes a lesson in the methods by which the military restores order to a divided country.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/255441_limited13.html</url>
+         <critic>Bill White</critic>
+      </review>
+      <review>
+         <snippet>Engaging entertainment and a great work of art.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1107149&amp;lat=200.0&amp;lon=200.0&amp;displaySearchLocation=&amp;nm=1&amp;categories=Movies</url>
+         <critic>Ann Hornaday</critic>
+      </review>
+      <review>
+         <snippet>Wood's film works, first and foremost, as a powerful character drama; it's not trying to teach historical or ideological lessons.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2005/02/03/btm/index3.html</url>
+         <critic>Andrew O&amp;#039;Hehir</critic>
+      </review>
+      <review>
+         <snippet>One of those special films that broadens and deepens as it goes on.</snippet>
+         <url>http://www.calendarlive.com/movies/turan/cl-et-machuca29apr29,2,5737381.story</url>
+         <critic>Kenneth Turan</critic>
+      </review>
+      <review>
+         <snippet>Tender, funny and smart, Machuca is that rare discovery, an incisive political parable that also succeeds as a drama of sharply drawn individuals.</snippet>
+         <url/>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>Packs a quiet wallop.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1000706680</url>
+         <critic>Michael Rechtshaffen</critic>
+      </review>
+      <review>
+         <snippet>Richly human in focus, the drama steadily cranks up its political and emotional charge.</snippet>
+         <url>http://www.variety.com/ac2005_review/VE1117923951?nav=reviews&amp;categoryid=1798&amp;cs=</url>
+         <critic>David Rooney</critic>
+      </review>
+      <review>
+         <snippet>Sweet, poignant, and winningly evocative of the period, though occasionally dogged by predictable scenarios and caricatures.</snippet>
+         <url>http://ae.philly.com/entertainment/ui/philly/movie.html?id=284562&amp;reviewId=18173</url>
+         <critic>Karen Heller</critic>
+      </review>
+      <review>
+         <snippet>It's a tale powerfully told, nevertheless, with an unusual vantage point in its upper-class young hero.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=8588</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>Both sweet and stringent, attuned to the wonders of childhood as well as its cruelty and terror.</snippet>
+         <url>http://movies2.nytimes.com/2005/01/19/movies/19mach.html</url>
+         <critic>Dana Stevens</critic>
+      </review>
+      <review>
+         <snippet>Wood's drama packs an emotional gut-punch that's all the more devastating for its being rooted in a dreadful historical reality.</snippet>
+         <url>http://tvguide.com/movies/database/showmovie.asp?MI=45877</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>A respectable entry in the Bicycle Thief school of art-house cinema, which uses a child's coming of age to explore an era of political and social turmoil.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/29062_MACHUCA.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>Though Machuca ultimately doesn't shy away from taking sides, it wisely keeps the focus on the human element. The politics take place in the background until they demand the foreground.</snippet>
+         <url>http://www.theavclub.com/review_pop.php?review_id=8142</url>
+         <critic>Keith Phipps</critic>
+      </review>
+      <review>
+         <snippet>Though the film would benefit from further cuts, Machuca still manages to convey the frailty of convictions and the difficulties of growing up -- be it a child or a nation.</snippet>
+         <url>http://ae.miami.com/entertainment/ui/miami/movie.html?id=284562&amp;reviewId=20877</url>
+         <critic>Marta Barber</critic>
+      </review>
+      <review>
+         <snippet>Machuca is still a half-measure. Wood is fastidious about period set design, but not much else; rather than burning with experience, the film feels opportunistic.</snippet>
+         <url>http://www.villagevoice.com/film/0503,atkinson,60094,20.html</url>
+         <critic>Michael Atkinson</critic>
+      </review>
+   </reviews>
+   <US_Gross>$26,676</US_Gross>
+   <weekend_gross>$6,350</weekend_gross>
+   <number_of_screens>1</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

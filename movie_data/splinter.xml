@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Splinter</name>
+   <company>Magnolia Pictures</company>
+   <genres>
+      <genre>Horror</genre>
+   </genres>
+   <authors>
+      <author>Kai Barry</author>
+      <author>Ian Shorr</author>
+      <author>Toby Wilkins</author>
+   </authors>
+   <directors>
+      <director>Toby Wilkins</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Shea Whigham</actor>
+      <actor>Paulo Costanzo</actor>
+      <actor>Jill Wagner</actor>
+      <actor>Rachel Kerbs</actor>
+      <actor>Charles Baker</actor>
+      <actor>Laurel Whitsett</actor>
+   </actors>
+   <release_date>October 31, 2008</release_date>
+   <running_time>minutes,</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>A nifty horror movie that doesn't claim to be anything other than a zippy exercise in creature-feature entertainment.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20236474,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>A spare, effective and genuinely frightening retro-nightmare.</snippet>
+         <url>http://www.variety.com/review/VE1117938819.html?categoryid=31&amp;cs=1</url>
+         <critic>John Anderson</critic>
+      </review>
+      <review>
+         <snippet>The result, however clichéd, is spectacularly unnerving: hair-trigger horror.</snippet>
+         <url>http://nymag.com/movies/reviews/51544/index1.html</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>Buoyed by solid ensemble work, some yuckily effective special effects, and a script that subverts genre convention by having its characters do smart things instead of stupid ones (mostly), Splinter earns our respect while delivering 82 minutes of lean, mean fun.</snippet>
+         <url>http://www.villagevoice.com/2008-10-29/film/splinter-offers-lean-mean-fun/</url>
+         <critic>Chuck Wilson</critic>
+      </review>
+      <review>
+         <snippet>It's short, taut, nicely shot, well-acted, astutely directed, specific where it might have been generic, original enough to be engrossing and derivative enough to be amusing.</snippet>
+         <url>http://online.wsj.com/article/SB122540686943785965.html</url>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>Splinter is no exploitative blood bath or torture horror like the "Saw" movies. It's more of a thriller along the lines of "The Thing" or "Alien." The scares are equal parts psychological jolts and gore. This is classic Halloween fun, with plenty of thrills and chills, surprisingly believable performances, and healthy doses of humor.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2008-10-30-splinter_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>A fan of flash-edited, orientation-challenged, hand-held camera mayhem, Wilkins unfortunately takes the wrong cue from his title and fragments the movie's attack scenes for maximum energy but minimal logical effect.</snippet>
+         <url>http://www.latimes.com/entertainment/news/reviews/la-et-capsules31-2008oct31,0,6456078.story</url>
+         <critic>Robert Abele</critic>
+      </review>
+      <review>
+         <snippet>If "Saw V" offers an example of how little filmmakers can get away with, Splinter proves how much a director can do with next to nothing.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2008/10/31/2008-10-31_more_movie_reviews_for_the_weekend_of_oc.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>There's potential for a lot more excitement in Splinter, but Wilkins seems content just to bring it across the finish line.</snippet>
+         <url>http://www.avclub.com/content/cinema/splinter</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>A diverting if not terribly original on-the-cheap horror film.</snippet>
+         <url>http://movies.nytimes.com/2008/10/31/movies/31spli.html</url>
+         <critic>A.O. Scott</critic>
+      </review>
+      <review>
+         <snippet>There have been worse horror flicks, but although this one offers a few scares, it doesn't have a lot of imagination.</snippet>
+         <url>http://www.nypost.com/seven/10312008/entertainment/movies/typical_creature_discomforts_136081.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>Splinter is a bad idea, borrowing body parts, as it were, from old horror flicks to genuinely unsatisfying results.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?rid=11851</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>You come away from Splinter feeling it would have made a far more effective short than the feature-length drag it is.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A695066</url>
+         <critic>Marc Savlov</critic>
+      </review>
+   </reviews>
+   <US_Gross>$14,154</US_Gross>
+   <weekend_gross>$9,517</weekend_gross>
+   <number_of_screens>4</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Pacifier, The</name>
+   <company>Buena Vista Pictures</company>
+   <genres>
+      <genre>Action</genre>
+      <genre>Comedy</genre>
+      <genre>FamilyKids</genre>
+   </genres>
+   <authors>
+      <author>Thomas Lennon</author>
+      <author>Ben Garant</author>
+   </authors>
+   <directors>
+      <director>Adam Shankman</director>
+   </directors>
+   <origins>
+      <origin>CanadaUSA</origin>
+   </origins>
+   <actors>
+      <actor>Vin Diesel</actor>
+      <actor>Lauren Graham</actor>
+      <actor>Faith Ford</actor>
+      <actor>Brittany Snow</actor>
+      <actor>Max Thieriot</actor>
+      <actor>Chris Potter</actor>
+      <actor>Carol Kane</actor>
+      <actor>Brad Garrett</actor>
+   </actors>
+   <release_date>March 4, 2005</release_date>
+   <running_time>91</running_time>
+   <rating>PG</rating>
+   <reviews>
+      <review>
+         <snippet>Has sufficient mayhem to please Diesel's action fans while allowing the star to reach out to family audiences.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-pacifier4mar04,2,4732612.story</url>
+         <critic>Kevin Thomas</critic>
+      </review>
+      <review>
+         <snippet>Mr. Diesel could not have succeeded as a genre-switcher without the proven television talents of the film's able ensemble.</snippet>
+         <url>http://movies2.nytimes.com/2005/03/04/movies/04paci.html</url>
+         <critic>Janet Maslin</critic>
+      </review>
+      <review>
+         <snippet>Here's a bizarre hodgepodge of influences: "Kindergarten Cop" meets "Sound of Music," filtered through the Hulk Hogan movie "Mr. Nanny." The formula, by now so overused it's actually formless, is pure Disney</snippet>
+         <url>http://listings.dallasobserver.com/gyrobase/Film/ShowFilm</url>
+         <critic>Robert Wilonsky</critic>
+      </review>
+      <review>
+         <snippet>All very nice, sometimes we smile, but there's nothing compelling.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20050303/REVIEWS/50222001/1023</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>Unlike Arnold Schwarzenegger, however, Vin Diesel shows no discernible comedic skills.</snippet>
+         <url>http://sfgate.com/cgi-bin/article.cgi?file=/c/a/2005/03/04/DDGE0BJGHQ1.DTL</url>
+         <critic>Carla Meyer</critic>
+      </review>
+      <review>
+         <snippet>Don't expect perfection, and you'll emerge from this goofy movie all in one piece, with reasonably entertained kids and a milder headache.</snippet>
+         <url>http://ae.miami.com/entertainment/ui/miami/movie.html?id=258824&amp;reviewId=17412</url>
+         <critic>Connie Ogle</critic>
+      </review>
+      <review>
+         <snippet>It's the sort of stuff younger viewers will love.</snippet>
+         <url>http://ae.philly.com/entertainment/ui/philly/movie.html?id=258824&amp;reviewId=17456</url>
+         <critic>Gary Thompson</critic>
+      </review>
+      <review>
+         <snippet>Low on Diesel fuel, though probably amusing enough if you're part of the intended demographic, which appears to be the age group that likes to stick fingers up noses.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2005-03-03-pacifier_x.htm</url>
+         <critic>Mike Clark</critic>
+      </review>
+      <review>
+         <snippet>If auds swallow this odoriferous exercise in calculated career repositioning, they'll swallow anything.</snippet>
+         <url>http://www.variety.com/review/VE1117926413?categoryid=31&amp;cs=1</url>
+         <critic>Todd McCarthy</critic>
+      </review>
+      <review>
+         <snippet>Vin Diesel is out of his element in this lame family comedy.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1000825941</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>Most of the occasional chuckles are provided by the spunky York, who really gives Diesel a run for his money.</snippet>
+         <url>http://tvguide.com/movies/database/showmovie.asp?MI=45975</url>
+         <critic>Angel Cohn</critic>
+      </review>
+      <review>
+         <snippet>Offensive because it offers little more than unleavened stupidity in the place of the family-friendly action and comedy it promises.</snippet>
+         <url>http://movie-reviews.colossus.net/movies/p/pacifier.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>Cheerful but mind-numbing.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-050303-movies-review-mw-pacifier.story</url>
+         <critic>Michael Wilmington</critic>
+      </review>
+      <review>
+         <snippet>Director Adam Shankman pushes together scenes with little rhythm or flow. Writers Thomas Lennon and Robert Ben Garant ignore credibility, throw in pointless sight gags, treat humiliation as comedy and use tiresome ethnic stereotypes. In short, Diesel doesn't get the help he needs.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20050304.wxpacifier04/BNStory/Entertainment/</url>
+         <critic>Liam Lacey</critic>
+      </review>
+      <review>
+         <snippet>JUST worth your children's time, and hardly worth yours.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=7224</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>A yawn-by-numbers romper-room dud.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1036490_1_0_,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>Disney misfire.</snippet>
+         <url>http://www.villagevoice.com/film/0510,tracking9,61961,20.html</url>
+         <critic>Laura Sinagra</critic>
+      </review>
+      <review>
+         <snippet>Revealing hitherto unseen depths of stiffness, Diesel stumbles badly in the role.</snippet>
+         <url>http://www.theavclub.com/review_pop.php?review_id=8284</url>
+         <critic>Nathan Rabin</critic>
+      </review>
+      <review>
+         <snippet>Director Adam Shankman (Bringing Down the House) can't block a sight gag to save his life.</snippet>
+         <url>http://spacefinder.chicagoreader.com/movies/briefs/27485_PACIFIER.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>With no real comedy to enjoy, it's torture to watch Diesel undergo a predictable change from emotionless soldier to loving family man. Makes you want to spit out your pacifier in disgust.</snippet>
+         <url>http://www.washingtonpost.com/wp-dyn/articles/A4438-2005Mar3.html</url>
+         <critic>Desson Thomson</critic>
+      </review>
+      <review>
+         <snippet>Ultimately this soppy Pacifier sucks.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/214402_pacifier04q.html</url>
+         <critic>Sean Axmaker</critic>
+      </review>
+      <review>
+         <snippet>An abysmal comedy that should have been strangled in its crib.</snippet>
+         <url>http://www.nydailynews.com/03-04-2005/entertainment/col/story/286569p-245361c.html</url>
+         <critic>Jami Bernard</critic>
+      </review>
+      <review>
+         <snippet>If the once red-hot Vin Diesel's overhyped career wasn't finished off by last summer's mega flop "The Chronicles of Riddick," the alleged family comedy The Pacifier ought to do the trick.</snippet>
+         <url>http://www.nypost.com/movies/41718.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>Diesel valiantly but unsuccessfully tries to raise this inane bit of Mr. Mommery above its afternoon-special standing.</snippet>
+         <url>http://www.premiere.com/article.asp?section_id=2&amp;article_id=2025</url>
+         <critic>Peter Debruge</critic>
+      </review>
+      <review>
+         <snippet>It just plain sucks.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/_/id/6824042?pageid=rs.ReviewsMovieArchive&amp;pageregion=mainRegion</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>Fails on both an emotional and comedic level.</snippet>
+         <url>http://www.empireonline.co.uk/site/incinemas/ReviewInFull.asp?FID=10511</url>
+         <critic>Anna Smith</critic>
+      </review>
+      <review>
+         <snippet>Is it funny? Not for a minute.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A260601</url>
+         <critic>Marrit Ingman</critic>
+      </review>
+   </reviews>
+   <US_Gross>$113,006,880</US_Gross>
+   <production_budget>$56,000,000</production_budget>
+   <weekend_gross>$30,552,694</weekend_gross>
+   <number_of_screens>3,131</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Step Up 2 the Streets</name>
+   <company>Touchstone Pictures (Disney)</company>
+   <genres>
+      <genre>Drama</genre>
+      <genre>Musical</genre>
+      <genre>Romance</genre>
+   </genres>
+   <authors>
+      <author>Toni Ann Johnson</author>
+      <author>Karen Barna</author>
+   </authors>
+   <directors>
+      <director>Jon M. Chu</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Briana Evigan</actor>
+      <actor>Robert Hoffman</actor>
+      <actor>Will Kemp</actor>
+      <actor>Cassie Ventura</actor>
+      <actor>Adam G. Sevani</actor>
+      <actor>Telisha Shaw</actor>
+   </actors>
+   <release_date>February 14, 2008</release_date>
+   <running_time>98</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>Human-spirit cliches and all, the movie accomplishes job one: It moves. It also has a choice soundtrack, spiced by the likes of Missy Elliott’s “Shake Your Pom Pom” and Digital Underground’s immortal “Humpty Dance.”</snippet>
+         <url>http://chicago.metromix.com/movies/movie_review/movie-review-step-up/306648/content</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>Isn't nearly as entertaining as it is predictable.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/351143_step14q.html</url>
+         <critic>Travis Nichols</critic>
+      </review>
+      <review>
+         <snippet>The wall-to-wall soundtrack naturally features plenty of today's leading hip-hop and R&amp;B artists, including Flo Rida, T-Pain, Missy Elliott and Trey Songz.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?JSESSIONID=pGZcHzmDTKFsCp0sdb19dJnLTCSLlvfRhJj5bNpfwVJy2LGyLZpn!-435314106&amp;&amp;rid=10671</url>
+         <critic>Frank Scheck</critic>
+      </review>
+      <review>
+         <snippet>Rather than mixing classical and modern styles the way "Step Up" did, this hip-hop-powered sequel is all about new moves, which should keep the kids coming back after the pic's initial Valentine's Day crush.</snippet>
+         <url>http://www.variety.com/review/VE1117936197.html?categoryid=31&amp;cs=1</url>
+         <critic>Peter Debruge</critic>
+      </review>
+      <review>
+         <snippet>Directed in humongous close-up by former dancer Jon M. Chu, Step Up 2 the Streets is suavely choreographed by Jamal Sims, Nadine "Hi Hat" Ruffin and Dave Scott.</snippet>
+         <url>http://www.laweekly.com/film+tv/film-reviews/movie-reviews-jumper-step-up-2-the-streets/18352/?page=2</url>
+         <critic>Ella Taylor</critic>
+      </review>
+      <review>
+         <snippet>In a sequel that features the original's Channing Tatum only in cameo, a Baltimore teen (Briana Evigan, very winning) enrolls at an arts academy, leaving her street-dancing pals behind. So far, ho hum. But when she decides to form a new crew with her classmates, Step Up 2 the Streets improves considerably -- and it doesn't skimp on cool pretzel moves.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20177964,00.html</url>
+         <critic>Gregory Kirschling</critic>
+      </review>
+      <review>
+         <snippet>So when it comes to rawness, realness or any other signifier of urban authenticity, Step Up 2 The Streets doesn't measure up, especially when compared with a grittier dance flick still in theatres, the Toronto-made "How She Move."</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20080214.wstep14/BNStory/Entertainment/home</url>
+         <critic>Jason Anderson</critic>
+      </review>
+      <review>
+         <snippet>Scores some serious points for its dance moves but does a lousy job of remembering there's a lot more to this big old world than moving your feet.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/bal-li.step14feb14,0,1514526.story</url>
+         <critic>Chris Kaltenbach</critic>
+      </review>
+      <review>
+         <snippet>The current, much better Canadian movie "How She Move" has a more realistic grip on the racial politics of hip-hop-dance.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=10570</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>The central romance is terminally bland, while Evigan's woozy family melodrama seems borrowed from countless superior dance movies.</snippet>
+         <url>http://www.avclub.com/content/cinema/step_up_2_the_streets</url>
+         <critic>Nathan Rabin</critic>
+      </review>
+      <review>
+         <snippet>Step Up 2 is one long, clichéd exercise in predictability with a couple of vibrant dance sequences and some unintentionally hilarious bad acting.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2008-02-13-step-up_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>Unabashedly earnest, completely predictable and packed with enough high-voltage dance scenes to make any audience applaud.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2008/02/14/2008-02-14_step_up_2_the_streets_has_busted_moves.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>A sequel arrives for Valentine's Day with the unwieldy title Step Up 2 the Streets. If it performs as well, watch for "Step Up 3: the Sprained Ankle."</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2008/02/13/DD4NUV9TE.DTL&amp;type=movies</url>
+         <critic>Ruthe Stein</critic>
+      </review>
+      <review>
+         <snippet>Much of the average viewer's time in the theater will be spent waiting somewhat impatiently for the high-energy climax. Catnaps are an advisable way to survive some of the slow spots.</snippet>
+         <url>http://www.reelviews.net/movies/s/step_up2.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>An earnest sequel to the 2006 cornball musical drama “Step Up,” mixing new characters into the original’s setting.</snippet>
+         <url>http://movies.nytimes.com/2008/02/14/movies/14stree.html?ref=movies</url>
+         <critic>Matt Zoller Seitz</critic>
+      </review>
+      <review>
+         <snippet>The stepping is terrific and the climactic sequence, a knowing nod to the infamous Bollywood "wet sari" number, is a knock out. But the united colors of we-can-overcome cuties, predictable class conflicts and sanitized keeping-it-real bluster bring the story's intensely formulaic nature into the.</snippet>
+         <url>http://www.tvguide.com/movies/step-2-streets/review/292322</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>The only reason to watch Step Up 2 the Streets, and I mean the only reason, is Briana Evigan.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=10783</url>
+         <critic>Felix Vasques Jr.</critic>
+      </review>
+      <review>
+         <snippet>The reason for all this dull-to-offensive story stuff is, of course, the dancing, which has its moments but overall seems so calculated to impress that it loses all other reason for being.</snippet>
+         <url>http://www.premiere.com/moviereviews/4407/step-up-2-the-streets.html</url>
+         <critic>Glenn Kenny</critic>
+      </review>
+      <review>
+         <snippet>Let's wait for a movie where they do get it all right: story, acting and dancing. It'll happen, just not this time.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1142499&amp;categories=Movies&amp;nm=1</url>
+         <critic>Desson Thomson</critic>
+      </review>
+      <review>
+         <snippet>If we don’t stop these public dance-offs here and now, before too long we’re going to have an entire generation of kids seeking salvation as back-up dancers for Justin Timberlake</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A589306</url>
+         <critic>Josh Rosenblatt</critic>
+      </review>
+   </reviews>
+   <US_Gross>$58,017,783</US_Gross>
+   <production_budget>$17,500,000</production_budget>
+   <weekend_gross>$25,509,286</weekend_gross>
+   <number_of_screens>2,470</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

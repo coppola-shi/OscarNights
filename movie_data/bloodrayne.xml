@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>BloodRayne</name>
+   <company>Romar Entertainment</company>
+   <genres>
+      <genre>Action</genre>
+      <genre>Fantasy</genre>
+      <genre>Horror</genre>
+   </genres>
+   <authors>
+      <author>Guinevere Turner</author>
+   </authors>
+   <directors>
+      <director>Uwe Boll</director>
+   </directors>
+   <origins>
+      <origin>USAGermany</origin>
+   </origins>
+   <actors>
+      <actor>Kristanna Loken</actor>
+      <actor>Michelle Rodriguez</actor>
+      <actor>Ben Kingsley</actor>
+      <actor>Michael Madsen</actor>
+      <actor>Matthew Davis</actor>
+      <actor>Billy Zane</actor>
+      <actor>Meat Loaf</actor>
+      <actor>Will Serson</actor>
+      <actor>Udo Kier</actor>
+      <actor>Michael Paré</actor>
+   </actors>
+   <release_date>January 6, 2006</release_date>
+   <running_time>94</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>There are all sorts of noteworthy people in this silly vampire epic, including acting greats Sir Ben Kingsley and Geraldine Chaplin, but the only artist this critic wants to heap praise upon is the regrettably unidentified Supervisor of Blood Splatter: Nice work, dude.</snippet>
+         <url>http://www.laweekly.com/film/film_results.php?showid=3719&amp;Sumbit.x=51&amp;Sumbit.y=19</url>
+         <critic>Chuck Wilson</critic>
+      </review>
+      <review>
+         <snippet>The only thing left unsliced is the ham in BloodRayne, yet another video game adaptation by German genre specialist Uwe Boll and a movie with more fading - or faded - talent than an Italian basketball team.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-bloodrayne6jan06,0,6308968.story</url>
+         <critic>John Anderson</critic>
+      </review>
+      <review>
+         <snippet>With minimal flare and maximal gore, Boll simply delivers the turgid drama and incompetently staged action sequences that have made him the unstoppable Big Boss of the gaming community.</snippet>
+         <url>http://avclub.com/content/node/44302</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>Our blood-smacking antiheroine, Rayne (Kristanna Loken), isn't a vampire; she's a dhampir, a half-human, half-vampire cross-fiend who's as anguished, strange, and sloppy as mercenaries, or movies, get.</snippet>
+         <url>http://www.villagevoice.com/film/0602,blumenkranz,71659,20.html</url>
+         <critic>Carla Blumenkranz</critic>
+      </review>
+      <review>
+         <snippet>Attention, Ben Kingsley (I mean, Sir Ben Kingsley): It's officially time to turn in your Oscar.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1001808315</url>
+         <critic>Frank Scheck</critic>
+      </review>
+      <review>
+         <snippet>Just when you thought camp was dead, along comes this bizarre cross between a Tarantino knockoff and a Hammer horror film.</snippet>
+         <url>http://spacefinder.chicagoreader.com/movies/briefs/29166_BLOODRAYNE.html</url>
+         <critic>Andrea Gronvall</critic>
+      </review>
+      <review>
+         <snippet>While there's no fun in mediocrity, ludicrousness is another matter. Boll is the best at what he does, and what he does is make truly terrible films.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/story/380647p-323229c.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>Semicoherent.</snippet>
+         <url>http://www.nypost.com/movies/59039.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>Yet another ill-conceived big screen videogame adaptation.</snippet>
+         <url>http://www.premiere.com/article.asp?section_id=2&amp;article_id=2485</url>
+         <critic>Jessica Letkemann</critic>
+      </review>
+      <review>
+         <snippet>Why do moviegoers and gamers keep going to see video-game-based movies when neither group is ever happy with the results?</snippet>
+         <url>http://online.tvguide.com/movies/database/ShowMovie.asp?MI=46667</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>Anemic action-fantasy.</snippet>
+         <url>http://www.variety.com/review/VE1117929212?categoryid=31&amp;cs=1</url>
+         <critic>Joe Leydon</critic>
+      </review>
+      <review>
+         <snippet>Maybe everyone involved was hoping that no one would see this movie, but Madsen is the only one who should fear anyone seeing his work.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A322472</url>
+         <critic>Marjorie Baumgarten</critic>
+      </review>
+      <review>
+         <snippet>Ghastly-bad.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1147910_1_0_,00.html</url>
+         <critic>Gregory Kirschling</critic>
+      </review>
+   </reviews>
+   <US_Gross>$2,405,420</US_Gross>
+   <production_budget>$25,000,000</production_budget>
+   <weekend_gross>$1,550,000</weekend_gross>
+   <number_of_screens>985</number_of_screens>
+   <oscar_winning_actors_present/>
+   <num_oscar_winning_actors>1</num_oscar_winning_actors>
+   <oscar_winning_actor>ben kingsley</oscar_winning_actor>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

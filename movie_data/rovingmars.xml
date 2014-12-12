@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Roving Mars</name>
+   <company>Walt Disney Pictures / IMAX Corporation</company>
+   <genres>
+      <genre>Documentary</genre>
+   </genres>
+   <authors>
+      <author/>
+   </authors>
+   <directors>
+      <director>George Butler</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors/>
+   <release_date>January 27, 2006</release_date>
+   <running_time>40</running_time>
+   <rating>G</rating>
+   <reviews>
+      <review>
+         <snippet>The movie is more compelling than exciting with one exception: the kind of rocket blast-off sequence for which IMAX screens were seemingly invented.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2006-01-26-roving-mars_x.htm</url>
+         <critic>Mike Clark</critic>
+      </review>
+      <review>
+         <snippet>A splendidly photographed IMAX 2-D film, takes us breathlessly through the process of designing Spirit and Opportunity, the two plucky Mars rovers that have been sending images 300 million miles since they hit the Red Planet in 2003.</snippet>
+         <url>http://www.nypost.com/movies/62345.htm</url>
+         <critic>Kyle Smith</critic>
+      </review>
+      <review>
+         <snippet>Butler deftly intercuts real footage with CGI, heightening the drama, and the film becomes especially compelling once the robots are launched into space.</snippet>
+         <url>http://spacefinder.chicagoreader.com/movies/briefs/29239_ROVING_MARS.html</url>
+         <critic>Joshua Katzman</critic>
+      </review>
+      <review>
+         <snippet>If many of the scenes are fake, however, the thrill of the project is not, and what we do see of the surface - hyperclear photographs on the scale of 100-by-180 feet - is out of this world.</snippet>
+         <url>http://movies2.nytimes.com/2006/01/27/movies/27mars.html</url>
+         <critic>Nathan Lee</critic>
+      </review>
+      <review>
+         <snippet>Helmer George Butler correctly gauges his film's strengths, with the search for life in the universe becoming a heartfelt tribute to a couple of robots.</snippet>
+         <url>http://www.variety.com/review/VE1117929368?categoryid=31&amp;cs=1</url>
+         <critic>Ronnie Scheib</critic>
+      </review>
+      <review>
+         <snippet>A briskly moving, deeply engaging 40-minute documentary.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1105174&amp;lat=200.0&amp;lon=200.0&amp;displaySearchLocation=&amp;nm=1&amp;categories=Movies</url>
+         <critic>Ann Hornaday</critic>
+      </review>
+      <review>
+         <snippet>The mission is an impressive coup for NASA - these scientists are smart! - but it doesn't quite slam-dunk as a fully satisfying IMAX experience.</snippet>
+         <url>http://www.ew.com/ew/article/review/movie/0,6115,1155190_1_0_,00.html</url>
+         <critic>Gregory Kirschling</critic>
+      </review>
+      <review>
+         <snippet>Not having a way to capture images of the machines at work means that too much of Butler's film -- his credits include "Pumping Iron" and the Imax film "Shackleton's Antarctic Adventure" -- is disappointingly made up of computer simulations.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-mars18aug18,0,4473721.story?coll=cl-mreview</url>
+         <critic>Mark Olsen</critic>
+      </review>
+      <review>
+         <snippet>A workmanlike effort -- a precision piece of filmmaking that provides education for children and a refresher course that adults can benefit from as well.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2006/01/27/DDG96GT2EV1.DTL&amp;type=movies</url>
+         <critic>Peter Hartlaub</critic>
+      </review>
+      <review>
+         <snippet>The sad thing is, even for NASA/space fans, a snooze isn't out of the question despite the film's scant 40-minute running time.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-060127-movies-review-mars,0,4540564.story?coll=mmx-movies_top_heds</url>
+         <critic>Michael Esposito</critic>
+      </review>
+      <review>
+         <snippet>Roving Mars is bound to inspire hordes of young science geeks to dream about sending in their resumes. The rest of us may not feel so excited.</snippet>
+         <url>http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1001919447</url>
+         <critic>Frank Scheck</critic>
+      </review>
+      <review>
+         <snippet>Sometimes comes on like a NASA commercial; those logos loom gigantic on the IMAX screen. More troublingly, the film fails to explain how computer animations were combined with actual imagery from the missions.</snippet>
+         <url/>
+         <critic>Joe Morgenstern</critic>
+      </review>
+   </reviews>
+   <US_Gross>$10,407,978</US_Gross>
+   <weekend_gross>$412,337</weekend_gross>
+   <number_of_screens>27</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

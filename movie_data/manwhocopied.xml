@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Man Who Copied, The</name>
+   <company>TLA Releasing</company>
+   <genres>
+      <genre>Comedy</genre>
+      <genre>Crime</genre>
+      <genre>Drama</genre>
+      <genre>Foreign</genre>
+      <genre>Romance</genre>
+   </genres>
+   <authors>
+      <author>Jorge Furtado</author>
+   </authors>
+   <directors>
+      <director>Jorge Furtado</director>
+   </directors>
+   <origins>
+      <origin>Brazil</origin>
+   </origins>
+   <actors>
+      <actor>Lázaro Ramos</actor>
+      <actor>Lera Leal</actor>
+      <actor>Luana Piovani</actor>
+      <actor>Pedro Cardoso</actor>
+   </actors>
+   <release_date>April 22, 2005</release_date>
+   <running_time>123</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>Furtado's comic thriller is a telling commentary on modern avarice in Brazil and elsewhere, which touches on everything from "The Simpsons" to "Rear Window" along the way. Too bad it runs out of ideas before the overlong story is over.</snippet>
+         <url>http://www.csmonitor.com/2005/0422/p14s02-almo.html</url>
+         <critic>David Sterritt</critic>
+      </review>
+      <review>
+         <snippet>Manages to tackle some serious issues without sacrificing its inherently sweet nature.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/story/302265p-258749c.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>An enjoyable ride.</snippet>
+         <url>http://www.laweekly.com/film/film_results.php?showid=3375&amp;Sumbit.x=52&amp;Sumbit.y=14</url>
+         <critic>Ernest Hardy</critic>
+      </review>
+      <review>
+         <snippet>An unassuming love comedy with plot problems.</snippet>
+         <url>http://www.nypost.com/movies/42979.htm</url>
+         <critic>V.A. Musetto</critic>
+      </review>
+      <review>
+         <snippet>What could have been an effervescent 90-minute experience is so in love with the sound of its own voice that it develops genre trouble and piddles on for two-plus hours.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=7752</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>There's at least one good movie in The Man Who Copied's 124 minutes, but Furtado never settles on it.</snippet>
+         <url>http://redesign.theonion.com/avclub/node/25096</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>It's too fundamentally light-hearted to wallow in grinding poverty and despair.</snippet>
+         <url>http://tvguide.com/movies/database/showmovie.asp?MI=41433</url>
+         <critic>Maitland McDonagh</critic>
+      </review>
+      <review>
+         <snippet>It's uneven, but still pretty charming, and director Jorge Furtado's whimsical visual touches keep things lively.</snippet>
+         <url>http://spacefinder.chicagoreader.com/movies/briefs/28319_MAN_WHO_COPIED.html</url>
+         <critic>Reece Pendleton</critic>
+      </review>
+      <review>
+         <snippet>Two movies in one, but it's no bargain. A charming romantic comedy... transforms awkwardly into a hedonistic crime thriller, with the two genres violently butting heads.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-capsules29apr29,2,2600990.story</url>
+         <critic>Kevin Thomas</critic>
+      </review>
+      <review>
+         <snippet>This ambitious and sometimes entertaining Brazilian feature tries to pull off a tricky maneuver but doesn't quite get it done.</snippet>
+         <url>http://sfgate.com/cgi-bin/article.cgi?f=/c/a/2005/05/27/DDGSBCUNKV1.DTL#flick2</url>
+         <critic>Walter Addiego</critic>
+      </review>
+      <review>
+         <snippet>The movie never recovers from its jarring turn into a rushed, unconvincing caper movie with a blasé, Robin Hood attitude.</snippet>
+         <url>http://movies2.nytimes.com/2005/04/22/movies/22man.html</url>
+         <critic>Stephen Holden</critic>
+      </review>
+      <review>
+         <snippet>Intermittently amusing.</snippet>
+         <url>http://www.variety.com/review/VE1117921935?categoryid=31&amp;cs=1</url>
+         <critic>Deborah Young</critic>
+      </review>
+      <review>
+         <snippet>In spite of some genuinely charming performances, The Man Who Copied is about as engaging as a paper jam.</snippet>
+         <url>http://www.villagevoice.com/film/0516,tracking1,63121,20.html</url>
+         <critic>Jorge Morales</critic>
+      </review>
+      <review>
+         <snippet>Never better than fair to middling pleasant.</snippet>
+         <url>http://www.washingtonpost.com/wp-dyn/content/article/2005/06/02/AR2005060201178.html</url>
+         <critic>Desson Thomson</critic>
+      </review>
+      <review>
+         <snippet>A sad, wasted movie.</snippet>
+         <url>http://metromix.chicagotribune.com/movies/mmx-050728-movies-review-copied,0,3174718.story?coll=mmx-movies_top_heds</url>
+         <critic>Achy Obejas</critic>
+      </review>
+   </reviews>
+   <US_Gross>$23,989</US_Gross>
+   <weekend_gross>$2,244</weekend_gross>
+   <number_of_screens>1</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

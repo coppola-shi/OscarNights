@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>New in Town</name>
+   <company>Lionsgate</company>
+   <genres>
+      <genre>Comedy</genre>
+      <genre>Romance</genre>
+   </genres>
+   <authors>
+      <author>Kenneth Rance</author>
+      <author>C. Jay Cox</author>
+   </authors>
+   <directors>
+      <director>Jonas Elmer</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Renee Zellweger</actor>
+      <actor>Harry Connick Jr.</actor>
+      <actor>J.K. Simmons</actor>
+      <actor>Siobhan Fallon Hogan</actor>
+      <actor>Frances Conroy</actor>
+      <actor>Mike O&amp;#039;Brien</actor>
+      <actor>Rashida Jones</actor>
+   </actors>
+   <release_date>January 30, 2009</release_date>
+   <running_time>96</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>A gentle, traditional (like, from the last century) romantic comedy.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20255825,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>It resorts to a story line so predictable that its willingness to go so earnestly into unoriginal territory is doubly disappointing since its first half had so much more going for it.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/397960_town30q.html</url>
+         <critic>Paula Nechak</critic>
+      </review>
+      <review>
+         <snippet>The first Hollywood feature from Danish filmmaker Jonas Elmer, New in Town is so choppy that it would seem to have been edited with a pickax.</snippet>
+         <url>http://www.philly.com/philly/entertainment/movies/20090130_Comedy_on_downsizing_has_familiar_feel.html</url>
+         <critic>Carrie Rickey</critic>
+      </review>
+      <review>
+         <snippet>It has a certain Midwestern charm that settles calmly in the stomach, making the viewer feel warm, comfortable, and quick to smile.</snippet>
+         <url>http://movies.tvguide.com/new-town/review/296531</url>
+         <critic>Jason Buchanan</critic>
+      </review>
+      <review>
+         <snippet>As for the locals, they speak like extras from "Fargo," although, on this go-round, that weird Swedish accent has somehow lost its power to amuse.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20090129.wtown0130/BNStory/Entertainment/home</url>
+         <critic>Rick Groen</critic>
+      </review>
+      <review>
+         <snippet>Zellweger takes an otherwise passable mainstream comedy and all but ruins it with her lack of effort.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2009/01/29/DDBH15ISLM.DTL&amp;type=movies</url>
+         <critic>Peter Hartlaub</critic>
+      </review>
+      <review>
+         <snippet>Do you like this sort of rom-com? It's a fair example of its type, not good, but competent.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20090128/REVIEWS/901289991</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>New in Town is "The Pajama Game" without the songs, the laughs or the bare-knuckled realism.</snippet>
+         <url>http://www.chicagotribune.com/entertainment/movies/chi-0130-new-in-town-reviewjan30,0,6186002.story</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>New In Town grinds its plucky protagonist through a predictable arc from dispassionate big-city ice queen to redeemed small-town tenderheart.</snippet>
+         <url>http://www.avclub.com/articles/new-in-town,23198/</url>
+         <critic>Nathan Rabin</critic>
+      </review>
+      <review>
+         <snippet>You've seen New in Town before, and you've seen it done better. Still, it's a sweet-hearted bit of anemia, pleasant and obvious, and there are a few honest laughs to it.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=12436</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>The movie wrong-foots Zellweger from the start. She's not enough the ice queen, like Sigourney Weaver in "Working Girl," for us to accept her transition into adorable Melanie Griffith.</snippet>
+         <url>http://www.villagevoice.com/2009-01-28/film/new-in-town-features-zellweger-as-mitt-romney-in-a-mini/</url>
+         <critic>Brian Miller</critic>
+      </review>
+      <review>
+         <snippet>The movie has little to recommend it and more than a few things to encourage those who pursue quality cinema to stay away.</snippet>
+         <url>http://www.reelviews.net/php_review_template.php?identifier=1459</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>The ghastly first half of this romantic comedy -- is as close to unwatchable as any moment in "Bride Wars." The fact that it stars Renée Zellweger just makes it harder to bear.</snippet>
+         <url>http://www.miamiherald.com/entertainment/movies/reviews/story/877378.html</url>
+         <critic>Connie Ogle</critic>
+      </review>
+      <review>
+         <snippet>Although it wasn't quite the comedy we had hoped for, the idea behind it is pretty cute; we just wished the laughs weren't so awkward and forced.</snippet>
+         <url>http://www.premiere.com/Review/Movies/New-in-Town</url>
+         <critic>Olivia Putnal</critic>
+      </review>
+      <review>
+         <snippet>There's no chemistry between Zellweger and Connick, and there's not a moment in which anything anyone does feels remotely plausible.</snippet>
+         <url>http://www.npr.org/templates/story/story.php?storyId=99880283</url>
+         <critic>Bob Mondello</critic>
+      </review>
+      <review>
+         <snippet>Watching Ms. Zellweger’s joyless performance, you have to wonder what happened to this formerly charming actress who not so long ago seemed on the verge of becoming a softer, more vulnerable Shirley MacLaine.</snippet>
+         <url>http://movies.nytimes.com/2009/01/30/movies/30town.html?ref=movies</url>
+         <critic>Stephen Holden</critic>
+      </review>
+      <review>
+         <snippet>On second thought, maybe just about everyone should stay away from this drearily cheerful little picture that isn't nearly as funny or as heartwarming -- or even as topical, given the economic climate -- as it thinks it is.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2009/01/30/new_in_town/</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>The laughs and emotional moments are so weak that director Jonas Elmer has no choice but to tweak them with music cues and bland guitar-rock.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/34070_NEW_IN_TOWN.html</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>Strictly old hat -- and a poorly assembled hat at that.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film-reviews/film-review-new-in-town-1003933834.story</url>
+         <critic>Michael Rechtshaffen</critic>
+      </review>
+      <review>
+         <snippet>It doesn't help that Zellweger, in an unfortunate attempt to make the aud appreciate her character's uptightness, spends many of the early scenes moving about as stiff as a flagpole in January.</snippet>
+         <url>http://www.variety.com/review/VE1117939433.html?categoryid=3478&amp;cs=1</url>
+         <critic>Joe Leydon</critic>
+      </review>
+      <review>
+         <snippet>The new comedy is flat, the romance is listless, the pacing is sluggish, and the fish-out-of-water flops -- flip-flop, flip-flop, I can hear it still.</snippet>
+         <url>http://www.latimes.com/entertainment/news/reviews/la-et-newintown30-2009jan30,0,5023498.story</url>
+         <critic>Betsy Sharkey</critic>
+      </review>
+      <review>
+         <snippet>Seriously, though, watching New in Town left me feeling as pained as Zellweger, playing Lucy Hill, looks.</snippet>
+         <url>http://www.washingtonpost.com/gog/movies/new-in-town,1155219.html</url>
+         <critic>Michael O&amp;#039;Sullivan</critic>
+      </review>
+      <review>
+         <snippet>One of many burdensome tasks required of the viewer of this fish-out-of-water love story. The toughest of all: caring about any of the characters in this smug, check-off-the-boxes comedy.</snippet>
+         <url>http://www.slate.com/id/2210091/</url>
+         <critic>Dana Stevens</critic>
+      </review>
+      <review>
+         <snippet>To say that New in Town is the worst movie of this fledgling year is to damn it with faint praise. It may be one of the worst movies of any year. Not content to be merely inane and predictable, it is downright insulting, humorlessly deriding those who choose to live in rural America, labor in factories or have a strong Christian faith.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2009-01-29-new-in-town_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>This crap is supposed to be the chick flick antidote to Super Bowl fever. Ha!</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/24604412/review/25756959/new_in_town</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>Reprehensible.</snippet>
+         <url>http://www.oregonlive.com/movies/index.ssf/2009/01/review_romcom_on_ice_new_in_to.html</url>
+         <critic>Marc Mohan</critic>
+      </review>
+      <review>
+         <snippet>The only point of interest in New in Town is sociological. In the current economic climate, this comedy about workers whose livelihood is rescued by a benevolent boss represents the ultimate wish-fulfillment fantasy. Don't spend your hard-earned discretionary cash on it.</snippet>
+         <url>http://www.csmonitor.com/2009/0131/p25s03-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>As a comic fable for hard times, New in Town is irredeemably moronic.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/reviews/bal-to.newintown30jan30,0,4492538.story</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>A romantic comedy that's neither romantic nor funny.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2009/01/29/2009-01-29_renee_zellwegers_romantic_comedy_new_in_.html</url>
+         <critic>Joe Neumaier</critic>
+      </review>
+      <review>
+         <snippet>New in Town might have better played on the less demanding stage of, say, a Lifetime made-for-TV movie.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A731107</url>
+         <critic>Kimberley Jones</critic>
+      </review>
+      <review>
+         <snippet>It's unfunny at best and borderline-amateur at worst, notwithstanding the desperate efforts of Renée Zellweger.</snippet>
+         <url>http://online.wsj.com/article/film_review.html</url>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>Excruciatingly unfunny.</snippet>
+         <url>http://www.nypost.com/seven/01302009/entertainment/movies/what_the_hellweger__152656.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+   </reviews>
+   <US_Gross>$16,734,283</US_Gross>
+   <weekend_gross>$6,741,530</weekend_gross>
+   <number_of_screens>1,941</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

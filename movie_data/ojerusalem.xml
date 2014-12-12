@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>O Jerusalem</name>
+   <company>Samuel Goldwyn Films</company>
+   <genres>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author>Elie Chouraqui</author>
+      <author>Didier Le Pêcheur</author>
+   </authors>
+   <directors>
+      <director>Elie Chouraqui</director>
+   </directors>
+   <origins>
+      <origin>FranceUKItalyGreeceIsraelUSA</origin>
+   </origins>
+   <actors>
+      <actor>JJ Feild</actor>
+      <actor>Saïd Taghmaoui</actor>
+      <actor>Maria Papas</actor>
+      <actor>Patrick Bruel</actor>
+      <actor>Ian Holm</actor>
+   </actors>
+   <release_date>October 17, 2007</release_date>
+   <running_time>104</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>Formulaic film recounts the tumultuous birth of Israel.</snippet>
+         <url>http://www.tvguide.com/detail/movie.aspx?tvobjectid=291008&amp;more=ucmoviereview</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>Features some first-rate cinematography and solid acting, but absolutely no sense of emotional boundaries.</snippet>
+         <url>http://www.variety.com/review/VE1117935202.html?categoryid=31&amp;cs=1</url>
+         <critic>John Anderson</critic>
+      </review>
+      <review>
+         <snippet>What is evident from the film is that there was never any chance these two peoples could make a peaceful coexistence.</snippet>
+         <url>http://www.miamiherald.com/1054/story/281071.html</url>
+         <critic>Marta Barber</critic>
+      </review>
+      <review>
+         <snippet>Alas, it aspires to be an epic drama but suffers from an acute identity crisis: It can't decide if it wants to be history, drama, or a cry for peace in the Mideast.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=10779</url>
+         <critic>Linda Matchan</critic>
+      </review>
+      <review>
+         <snippet>Imagine watching Otto Preminger's equally silly 1960 "Exodus" now and you'll have O Jerusalem, minus Paul Newman's blue-eyed wink.</snippet>
+         <url>http://www.villagevoice.com/film/0742,taylor,78075,20.html</url>
+         <critic>Ella Taylor</critic>
+      </review>
+      <review>
+         <snippet>As overstated and expository as a historical pageant, from the drippy music to a sputtering, running gag involving funky old jalopies to cliched speeches and teary-eyed deaths and a final voice-over crying out for peace. Why not add a song score and an exclamation mark in the title?</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/reviews/bal-to.jerusalem07dec07,0,5423807.story</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>Whether on a Middle Eastern battlefield or the streets of New York, characters converse in stilted, expository mouthfuls that smother emotion.</snippet>
+         <url>http://movies.nytimes.com/2007/10/17/movies/17jeru.html?ref=movies</url>
+         <critic>Jeannette Catsoulis</critic>
+      </review>
+      <review>
+         <snippet>O Jerusalem has the virtue of energy, but it suffers from superficiality, particularly with regard to the characterizations.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?JSESSIONID=ThMDHfDLGZh5JgbRrn9NvWQmSDrL7QzTFPJM7vDN2HhNQH1yvsQc!599055287&amp;&amp;rid=10091</url>
+         <critic>Stephen Farber</critic>
+      </review>
+      <review>
+         <snippet>Makes the mistake of including too sweeping a scope in too small a movie and with too few resources.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1141218&amp;categories=Movies&amp;nm=1</url>
+         <critic>Desson Thomson</critic>
+      </review>
+      <review>
+         <snippet>As a pocket history of the battles over Jerusalem in the ’40s, O Jerusalem is serviceable enough. But all the melodrama cheapens the real drama, and turns a war-torn region into a soap-opera stage.</snippet>
+         <url>http://chicago.metromix.com/movies/movie_review/movie-review-o-jerusalem/251925/content</url>
+         <critic>Tasha Robinson</critic>
+      </review>
+      <review>
+         <snippet>This bloated 2006 historical epic flatlines early and never regains a pulse.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/32429_O_JERUSALEM_OH_JERUSALEM.html</url>
+         <critic>Andrea Gronvall</critic>
+      </review>
+   </reviews>
+   <US_Gross>$234,480</US_Gross>
+   <weekend_gross>$35,402</weekend_gross>
+   <number_of_screens>12</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Synecdoche, New York</name>
+   <company>Sony Pictures Classics</company>
+   <genres>
+      <genre>Comedy</genre>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author>Charlie Kaufman</author>
+   </authors>
+   <directors>
+      <director>Charlie Kaufman</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Philip Seymour Hoffman</actor>
+      <actor>Dianne Wiest</actor>
+      <actor>Samantha Morton</actor>
+      <actor>Catherine Keener</actor>
+      <actor>Michelle Williams</actor>
+      <actor>Emily Watson</actor>
+      <actor>Jennifer Jason Leigh</actor>
+      <actor>Hope Davis</actor>
+      <actor>Tom Noonan</actor>
+   </actors>
+   <release_date>October 24, 2008</release_date>
+   <running_time>124</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>To say that Charlie Kaufman's Synecdoche, New York is one of the best films of the year or even one closest to my heart is such a pathetic response to its soaring ambition that I might as well pack it in right now.</snippet>
+         <url>http://movies.nytimes.com/2008/10/24/movies/24syne.html</url>
+         <critic>Manohla Dargis</critic>
+      </review>
+      <review>
+         <snippet>I think you have to see Charlie Kaufman's Synecdoche, New York twice. I watched it the first time and knew it was a great film and that I had not mastered it. The second time because I needed to. The third time because I will want to.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20081105/REVIEWS/811059995</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>Although obviously a stretched and lightly drawn caricature -- the cerebral writer is obsessed with his work, has metaphorical skin problems, can't have sex without weeping, etc. -- Cotard is real. Or as real a representation of an artist as we're likely to get in this biopic age.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/386685_synechdoche07q.html</url>
+         <critic>Travis Nichols</critic>
+      </review>
+      <review>
+         <snippet>Synecdoche is the kind of movie that rewards repeated viewings. But sometimes, as Van Morrison sings, it's just best to "sail into the mystic."</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A700665</url>
+         <critic>Marjorie Baumgarten</critic>
+      </review>
+      <review>
+         <snippet>Astonishing. Kaufman has surpassed himself with a film that will delight and confound. You will want to see it again. And again.</snippet>
+         <url>http://www.empireonline.com/reviews/review.asp?FID=135061</url>
+         <critic>Andrew Male</critic>
+      </review>
+      <review>
+         <snippet>In effect, Caden's life passes before his eyes while he is living it. And Kaufman shares this effect with us through a strange process he achieves with invisible strings; it's a knockout.</snippet>
+         <url>http://blog.oregonlive.com/madaboutmovies/2008/11/movie_review_synecdoche_new_yo.html</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>No film with an ambition this large, and achievement this impressive, can be anything but exhilarating, a vital affirmation of the creative process.</snippet>
+         <url>http://www.time.com/time/arts/article/0,8599,1853422,00.html</url>
+         <critic>Richard Corliss</critic>
+      </review>
+      <review>
+         <snippet>It's got more imagination than half a dozen movies combined; there's nothing else out there like this, and to me that's a very good thing.</snippet>
+         <url>http://www.nypost.com/seven/10242008/entertainment/movies/imagination_building_134975.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>At turns as neurotic and nebbishy as any Woody Allen flick, as creepy and disorienting as your favorite "Twilight Zone" episode, and as steeped in magical realism as the most moving Márquez novel, Synecdoche may not be the feel-good date movie of the year. But for viewers up for the challenge, it may be the film most likely to stick with you.</snippet>
+         <url>http://www.premiere.com/moviereviews/4797/synecdoche-new-york.html</url>
+         <critic>Emily Rems</critic>
+      </review>
+      <review>
+         <snippet>I can't pretend to know fully what Charlie Kaufman is up to in Synecdoche, New York, with all the doubled characters, dreamy reenactments, comical minutiae, and personal unhappiness. But I got a great deal of pleasure out of watching him mount his fantasia about an artist suffering not simply for his art, but because of it.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=12410</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>As a  director, Kaufman isn't yet his own best salesman. He's not enough of a visual stylist to sell his script's most challenging conceits. But the cast rises to a very strange and rich occasion.</snippet>
+         <url>http://chicago.metromix.com/movies/movie_review/movie-review-synecdoche-new/751305/content</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>For this master of mindfuckery, Synecdoche, New York probably qualifies as a magnum opus, since it essentially multiplies "Adaptation" by an exponential factor and thus grows into a snarling, ungainly beast of self-reflexive absurdities.</snippet>
+         <url>http://www.avclub.com/content/cinema/synecdoche_new_york</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>Synecdoche, New York is one heck of a head-trip.</snippet>
+         <url>http://www.npr.org/templates/story/story.php?storyId=96076454</url>
+         <critic>Bob Mondello</critic>
+      </review>
+      <review>
+         <snippet>You have never seen a movie quite like this one.</snippet>
+         <url>http://www.miamiherald.com/entertainment/movies/reviews/story/768585.html</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>It is a sprawling, ambitious and very long look at so many things, it's almost a miracle he was able to wrap it up in just two hours. And yet, for a film that is principally about death, the conclusion is surprisingly life-affirming, especially coming from Kaufman.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=11301</url>
+         <critic>Mariko McDonald</critic>
+      </review>
+      <review>
+         <snippet>Sprawling, awe-inspiring, heartbreaking, frustrating, hard-to-follow and achingly, achingly sad movie.</snippet>
+         <url>http://www.latimes.com/entertainment/news/reviews/la-et-synecdoche24-2008oct24,0,411816.story</url>
+         <critic>Carina Chocano</critic>
+      </review>
+      <review>
+         <snippet>Like most of Kaufman's work as a writer, Synecdoche, New York is a head trip that time and again returns to a place of real human emotion--in this case, to the idea that no matter how brilliant we may be or think we are, we're all looking for a little guidance (or, yes, direction) in life.</snippet>
+         <url>http://www.villagevoice.com/2008-10-22/film/art-imitates-life-imitating-art-in-charlie-kaufman-s-synecdoche-new-york/</url>
+         <critic>Scott Foundas</critic>
+      </review>
+      <review>
+         <snippet>Will mesmerize some and mystify others, while many will be bored silly. It's not a dream, Kaufman says, but it has a dreamlike quality, and those won over by its otherworldly jigsaw puzzle of duplicated characters, multiple environments and shifting time frames will dissect it endlessly.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?rid=11178</url>
+         <critic>Ray Bennett</critic>
+      </review>
+      <review>
+         <snippet>A wildly ambitious and gravely serious contemplation of life, love, art, human decay and death, the film bears Kaufman’s scripting fingerprints in its structural trickery and multiplane storytelling.</snippet>
+         <url>http://www.variety.com/review/VE1117937263.html?categoryid=2863&amp;cs=1&amp;query=synecdoche</url>
+         <critic>Todd McCarthy</critic>
+      </review>
+      <review>
+         <snippet>Philip Seymour Hoffman creates a mesmerizing portrait of the artist as a young, old and middle-aged man.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/20532231/review/23880498/synecdoche_new_york</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>In Synecdoche, Kaufman the screenwriter is not well-served by Kaufman the filmmaker. As a director, his propensity for heavyosity leadens rather than leavens this affair.</snippet>
+         <url>http://www.philly.com/inquirer/columnists/carrie_rickey/20081107_A_director_re-creates__reobserves_his_life.html</url>
+         <critic>Carrie Rickey</critic>
+      </review>
+      <review>
+         <snippet>Hoffman, Morton and Jon Brion's aching score somehow capture the all-too-human need to get things right. If you're in a certain frame of mind, those moments make up for all the stagecraft.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2008/10/23/2008-10-23_synecdoche_new_york_is_a_state_of_mind.html</url>
+         <critic>Joe Neumaier</critic>
+      </review>
+      <review>
+         <snippet>Strives to be a work of greatness. But Kaufman's overarching vision is a lot less interesting than the small insights he gathers along the way. This is what happens when life imitates art, and blows it.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2008/10/24/synecdoche/</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>Just because a movie is ambitious and challenging doesn't mean it can't also be tedious and at times unbearable.</snippet>
+         <url>http://www.reelviews.net/php_review_template.php?identifier=1379</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>The problem is that the movie's worldview, in the end, isn't expansive enough to justify the (quite literal) stage it takes place on.</snippet>
+         <url>http://www.slate.com/id/2202945/</url>
+         <critic>Dana Stevens</critic>
+      </review>
+      <review>
+         <snippet>There has long been a strain of sorry lassitude in Kaufman's work, and here it sickens into the morbid.</snippet>
+         <url>http://www.newyorker.com/arts/critics/cinema/2008/11/03/081103crci_cinema_lane</url>
+         <critic>Anthony Lane</critic>
+      </review>
+      <review>
+         <snippet>The temptation to be emphatic about Synecdoche, New York is overwhelming but should be resisted, because the movie really is a mixed bag. A particularly odd mix.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2008/11/06/DDIE13UP90.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>It seems more like an illustration of his (Kaufman) script than a full-fledged movie, proving how much he needs a Spike Jonze or a Michel Gondry to realize his surrealistic conceits.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/33832_SYNECHDOCHE,_NEW_YORK.html</url>
+         <critic>Jonathan Rosenbaum</critic>
+      </review>
+      <review>
+         <snippet>Here, there's not much that's funny, there's too much that's too clever by half, and there's not a damn thing that's lively - this is a film about Life whose sin is its lifelessness.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20081107.wsynecdoche07/BNStory/Entertainment/home</url>
+         <critic>Rick Groen</critic>
+      </review>
+      <review>
+         <snippet>As the movie rambles along with its own brand of quasi-magical surrealism, the links to real experience grow scarcer and more frayed.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/reviews/bal-to.synecdoche14nov14,0,1842347.story</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>Watching the film is also wearying, like assembling a puzzle from a box into which a sadist continually pours new pieces. I was still processing details when the abrupt ending snatched the puzzle away.</snippet>
+         <url>http://events.charlotteobserver.com/reviews/show/35253-review-synecdoche-new-york</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>It's heartbreaking how rich this failed project is, with enough poetry for several great movies, but not enough push for one.</snippet>
+         <url>http://nymag.com/movies/reviews/51391/</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>The film disappoints terribly, too. The directorial debut of such an imaginative and clever screenwriter was a highly anticipated event. His "Being John Malkovich" and "Eternal Sunshine of the Spotless Mind" are two of the most innovative and intriguing movies of the past decade. Synecdoche is one of the most maddening.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2008-10-23-synecdoche-new-york_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>I gave up making heads or tails of Synecdoche, New York, but I did get one message: The compulsion to stand outside of one's life and observe it to THIS degree isn't the mechanism of art -- it's the structure of psychosis.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20235024,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+   </reviews>
+   <US_Gross>$3,081,925</US_Gross>
+   <production_budget>$20,000,000</production_budget>
+   <weekend_gross>$172,194</weekend_gross>
+   <number_of_screens>9</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

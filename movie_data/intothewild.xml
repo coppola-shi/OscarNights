@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Into the Wild</name>
+   <company>Paramount Vantage</company>
+   <genres>
+      <genre>Adventure</genre>
+      <genre>Drama</genre>
+   </genres>
+   <authors>
+      <author>Jon Krakauer</author>
+      <author>Sean Penn</author>
+   </authors>
+   <directors>
+      <director>Sean Penn</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Emile Hirsch</actor>
+      <actor>Vince Vaughn</actor>
+      <actor>Marcia Gay Harden</actor>
+      <actor>William Hurt</actor>
+      <actor>Catherine Keener</actor>
+   </actors>
+   <release_date>September 21, 2007</release_date>
+   <running_time>140</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>Spellbinding.</snippet>
+         <url>http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20070927/REVIEWS/709270305</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>Penn's direction is amazingly sharp and intuitive, full of masterful touches that give an epic dimension and scope to the parable.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/333405_wild28q.html</url>
+         <critic>William Arnold</critic>
+      </review>
+      <review>
+         <snippet>A genuine odyssey: a journey to self-knowledge.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/reviews/bal-to.wild05oct05,0,6269990.story</url>
+         <critic>Michael Sragow</critic>
+      </review>
+      <review>
+         <snippet>The beauty of Into the Wild, which Penn has written and directed with magnificent precision and imaginative grace, is that what Christopher is running from is never as important as what he's running TO.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20057690,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>There's a bittersweet quality to McCandless' story that Penn captures intuitively.</snippet>
+         <url>http://www.avclub.com/content/cinema/into_the_wild</url>
+         <critic>Scott Tobias</critic>
+      </review>
+      <review>
+         <snippet>To these eyes, Into the Wild is an unusually soulful and poetic movie that crystallizes McCandless in all his glittering enigma, and allows us to decide for ourselves whether he was the spiritual son of Thoreau, Tolstoy, and John Muir, or the boy most likely to become Theodore Kaczynski.</snippet>
+         <url>http://www.villagevoice.com/film/0738,foundas,77807,20.html</url>
+         <critic>Scott Foundas</critic>
+      </review>
+      <review>
+         <snippet>If nothing else, Into the Wild is a beautiful film. Penn meticulously shot in the actual locations McCandless visited, and Eric Gautier's cinematography is breathtaking, many scenes are framed in such a way as to almost Hirsch entirely, further emphasizing how solitary his trek actually was.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=10322</url>
+         <critic>Pete Vonder Haar</critic>
+      </review>
+      <review>
+         <snippet>Sean Penn sings a powerful and poetic hymn to America with Into the Wild, his sweeping, sensitive and deeply affecting adaptation of Jon Krakauer's best-selling book.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1136198&amp;categories=Movies&amp;nm=1</url>
+         <critic>Ann Hornaday</critic>
+      </review>
+      <review>
+         <snippet>They are the only misstep in Penn's otherwise sure-footed journey to what he reveals as the heart of lightness.</snippet>
+         <url>http://www.philly.com/philly/entertainment/movies/20070928_Favorite_themes_skillfully_weaved.html</url>
+         <critic>Carrie Rickey</critic>
+      </review>
+      <review>
+         <snippet>Into the Wild is a beautifully made motion picture and some of the segments (especially those with Hal Holbrook and those that transpire around "the magic bus" in Alaska) are powerful.</snippet>
+         <url>http://www.reelviews.net/movies/i/into_wild.html</url>
+         <critic>James Berardinelli</critic>
+      </review>
+      <review>
+         <snippet>Penn, in tandem with the superb cinematographer Eric Gautier (The Motorcycle Diaries), captures the majesty and terror of the wilderness in ways that make you catch your breath.</snippet>
+         <url>http://www.rollingstone.com/reviews/movie/12311956/review/16494330/into_the_wild</url>
+         <critic>Peter Travers</critic>
+      </review>
+      <review>
+         <snippet>Captivating and multifaceted.</snippet>
+         <url>http://www.usatoday.com/life/movies/reviews/2007-09-20-into-the-wild_N.htm</url>
+         <critic>Claudia Puig</critic>
+      </review>
+      <review>
+         <snippet>Flawed but refreshingly intelligent.</snippet>
+         <url>http://www.tvguide.com/movies/wild/review/290236</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>Penn, one of Hollywood's most famous iconoclasts, must have felt instinctive sympathy with someone who told the whole world in general to leave him alone.</snippet>
+         <url>http://ae.charlotte.com/entertainment/ui/charlotte/movie.html?id=956331&amp;reviewId=22720&amp;startDate=NEXT7</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>Feels like a lost film from the '60s in the very best way: unstructured and intrepid and free. As a result, it's sometimes a little indulgent and overlong. But, like its hero, it's never less than sincere in its search for truth and beauty, even as it stares death in the eye.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/1191362110192250.xml&amp;coll=7</url>
+         <critic>Shawn Levy</critic>
+      </review>
+      <review>
+         <snippet>With the whole of America as his backdrop, Penn pulls off his most ambitious movie yet. The result is a beautiful and thought-provoking road movie.</snippet>
+         <url>http://www.empireonline.com/reviews/reviewcomplete.asp?FID=134034</url>
+         <critic>Dan Jolin</critic>
+      </review>
+      <review>
+         <snippet>Though Penn's fierce identification with the protagonist is a key source for the film's accomplishments, Into the Wild succeeds on screen because Hirsch ("Alpha Dog," "The Lords of Dogtown") throws himself into the part without reservation, projecting an appealing openness and life force that brings a special poignancy to his fate.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-wild21sep21,0,6374261.story?coll=cl-mreview</url>
+         <critic>Kenneth Turan</critic>
+      </review>
+      <review>
+         <snippet>Though the film’s structure may be tragic, its spirit is anything but.</snippet>
+         <url>http://movies.nytimes.com/2007/09/21/movies/21wild.html?ref=movies</url>
+         <critic>A.O. Scott</critic>
+      </review>
+      <review>
+         <snippet>From seductive start to shattering finish, the film is as stirring, entertaining and steadfastly thrilling as it is beautiful.</snippet>
+         <url>http://online.wsj.com/article/SB119032976515834521.html</url>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>A big leap forward for Penn as a director and deserves to be one of the most talked about films of the season.</snippet>
+         <url>http://sfgate.com/cgi-bin/article.cgi?f=/c/a/2007/09/28/DDL1SEKSH.DTL&amp;type=movies</url>
+         <critic>Mick LaSalle</critic>
+      </review>
+      <review>
+         <snippet>It’s half-crock and half-sublime, which seems about right for its subject.</snippet>
+         <url>http://chicago.metromix.com/movies/movie_review/movie-review-into-the/209126/content</url>
+         <critic>Michael Phillips</critic>
+      </review>
+      <review>
+         <snippet>One such paradox, which Into the Wild doesn't note, is that those who flee civilization more often than not bring it with them. The bus in which Christopher McCandless died is now a tourist destination.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=9740</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>A gorgeously photographed and less intermittently fascinating 2 1/2-hour film.</snippet>
+         <url>http://www.nypost.com/seven/09212007/entertainment/movies/dead_man_camping.htm</url>
+         <critic>Lou Lumenick</critic>
+      </review>
+      <review>
+         <snippet>Penn has a real feeling for the stray moments in life that suddenly rush up and overwhelm us with emotion. He also has an eye for beauty in the wilds, of which this film has many. And he's very good with actors. What he lacks is a sharper eye for the wooziness of romanticism, and that wooziness, despite some truly breathtaking moments, infuses Into the Wild.</snippet>
+         <url>http://www.csmonitor.com/2007/0921/p14s02-almo.html</url>
+         <critic>Peter Rainer</critic>
+      </review>
+      <review>
+         <snippet>Penn has often said that he dislikes acting and would prefer to direct full time. Into the Wild is impressive enough to give him license to do just that.</snippet>
+         <url>http://www.premiere.com/moviereviews/4088/into-the-wild.html</url>
+         <critic>Glenn Kenny</critic>
+      </review>
+      <review>
+         <snippet>Sean Penn delivers a compelling, ambitious work that will satisfy most admirers of the book.</snippet>
+         <url>http://www.variety.com/review/VE1117934548.html?categoryid=31&amp;cs=1&amp;p=0</url>
+         <critic>Dennis Harvey</critic>
+      </review>
+      <review>
+         <snippet>The character never really comes alive, and I walked away from Into the Wild feeling that Penn was too in love with the idea of Christopher McCandless the free-spirited hero to excavate the soul of Christopher McCandless the lost man.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A550688</url>
+         <critic>Josh Rosenblatt</critic>
+      </review>
+      <review>
+         <snippet>Penn is projecting heroic qualities onto a young guy who simply got in over his head.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2007/09/21/2007-09-21_alaska_trek_goes_into_the_wild.html</url>
+         <critic>Jack Mathews</critic>
+      </review>
+      <review>
+         <snippet>The result is a road movie with a lofty message that too frequently gets lost in its own thematic barrens.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20070927.wild28nat/BNStory/Entertainment/home</url>
+         <critic>Rick Groen</critic>
+      </review>
+      <review>
+         <snippet>The movie tries its hardest to celebrate the impetuousness of its hero and the exhilaration of his accomplishments. Mostly, though, it just reminds you of the severity of his mistakes.</snippet>
+         <url>http://www.miamiherald.com/1054/story/259804.html</url>
+         <critic>Rene Rodriguez</critic>
+      </review>
+      <review>
+         <snippet>Penn opts for epic proportions and clutters his narrative with gimmicks. For the most part, it works. What's missing is the perspective and insight that would illuminated the inner dimensions of a driven young man who is preachy and downright irritating.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?&amp;rid=9710</url>
+         <critic>Sura Wood</critic>
+      </review>
+      <review>
+         <snippet>If nature -- if life -- is as wild and precious as the movie makes it out to be, Hirsch needs to give us something, someone, to watch on-screen. We need to feel a presence before we can take the measure of an absence.</snippet>
+         <url>http://www.salon.com/ent/movies/review/2007/09/21/wild/</url>
+         <critic>Stephanie Zacharek</critic>
+      </review>
+      <review>
+         <snippet>Penn's eye for landscapes is stunning, and his affection for outsider lifestyles is tangible. Hirsch, who carries the film on his increasingly emaciated shoulders, performs heroically, but there's an edge missing. The ideal casting would have been the young Sean Penn.</snippet>
+         <url>http://www.msnbc.msn.com/id/20920376/site/newsweek/</url>
+         <critic>David Ansen</critic>
+      </review>
+      <review>
+         <snippet>I think the central mistake of this film derives from its lack of irony, a sense it refuses to impart that the world may not be exactly as the zealous Christopher perceives it to be. The film needs at least to entertain the possibility that its protagonist was driven less by high principle than by lamentable screwiness. And we need to leave it carrying some sense of tragic consequence with us. Instead, we're simply glad to be finished, at last, with this annoying man-child.</snippet>
+         <url>http://www.time.com/time/arts/article/0,8599,1664110,00.html</url>
+         <critic>Richard Schickel</critic>
+      </review>
+      <review>
+         <snippet>With all the narration and fits of slow motion,  the movie seems like the work of a nervous chain-smoker. It lacks concentration--and with it, the potential for rapture.</snippet>
+         <url>http://nymag.com/movies/reviews/37646/</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>Sean Penn’s Into the Wild is certainly visual--it’s entirely too visual, to the point of being cheaply lyrical.</snippet>
+         <url>http://www.newyorker.com/arts/critics/cinema/2007/10/08/071008crci_cinema_denby?currentPage=2</url>
+         <critic>David Denby</critic>
+      </review>
+      <review>
+         <snippet>It's  hard not to feel that Penn is stacking the deck heavily in his favor and losing out on the chance for a more sober meditation on the ambiguity of McCandless' quest.</snippet>
+         <url>http://www.slate.com/id/2174396/fr/flyout</url>
+         <critic>Dana Stevens</critic>
+      </review>
+      <review>
+         <snippet>A murky screenplay leaves most of the humans ciphers, save for Hal Holbrook in an exquisitely calibrated performance as the avuncular desert retiree whose advice McCandless should have heeded.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/briefs/32139_INTO_THE_WILD.html</url>
+         <critic>Andrea Gronvall</critic>
+      </review>
+   </reviews>
+   <US_Gross>$18,354,356</US_Gross>
+   <production_budget>$20,000,000</production_budget>
+   <weekend_gross>$212,440</weekend_gross>
+   <number_of_screens>4</number_of_screens>
+   <oscar_winning_actors_present/>
+   <num_oscar_winning_actors>1</num_oscar_winning_actors>
+   <oscar_winning_actor>william hurt</oscar_winning_actor>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

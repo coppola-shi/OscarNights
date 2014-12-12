@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Taxi to the Dark Side</name>
+   <company>THINKFilm</company>
+   <genres>
+      <genre>Documentary</genre>
+   </genres>
+   <authors>
+      <author>Alex Gibney</author>
+   </authors>
+   <directors>
+      <director>Alex Gibney</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors/>
+   <release_date>January 18, 2008</release_date>
+   <running_time>106</running_time>
+   <rating>R</rating>
+   <reviews>
+      <review>
+         <snippet>A triumph not of reporting but of synthesis.</snippet>
+         <url>http://onfilm.chicagoreader.com/movies/critic.html#32755</url>
+         <critic>J.R. Jones</critic>
+      </review>
+      <review>
+         <snippet>A rage-inducing expose.</snippet>
+         <url>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2008/02/08/DD4QUTE1O.DTL&amp;type=movies</url>
+         <critic>Tamara Straus</critic>
+      </review>
+      <review>
+         <snippet>This movie does not describe the America I learned about in civics class, or think of when I pledge allegiance to the flag. Yet I know I will get the usual e-mails accusing me of partisanship, bias, only telling one side, etc. What is the other side? See this movie, and you tell me.</snippet>
+         <url>http://www.rogerebert.com/apps/pbcs.dll/article?AID=/20080207/REVIEWS/802070303/1023</url>
+         <critic>Roger Ebert</critic>
+      </review>
+      <review>
+         <snippet>It is, at once, among the most riveting and hard-to-watch documentaries of recent years.</snippet>
+         <url>http://www.baltimoresun.com/entertainment/movies/reviews/bal-to.taxi22feb22,0,2403345.story</url>
+         <critic>Chris Kaltenbach</critic>
+      </review>
+      <review>
+         <snippet>Where "No End" is cool and measured, Taxi is hot, anguished, and sometimes as difficult to watch as pictures of torture ought to be.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20172136,00.html</url>
+         <critic>Lisa Schwarzbaum</critic>
+      </review>
+      <review>
+         <snippet>As numbing as the drumbeat of downbeat documentaries can be, as hard as it is to even be shocked at the depravities committed in our name, a film like this remains important, both as an indictment of the present day and as a warning to future generations that the ends don't always justify the means.</snippet>
+         <url>http://www.oregonlive.com/movies/oregonian/index.ssf?/base/entertainment/1206487520159730.xml&amp;coll=7</url>
+         <critic>Marc Mohan</critic>
+      </review>
+      <review>
+         <snippet>"Taxi” captures the evil that many men do under the guise of American justice. Just as Bardem's menacing Chigurh approaches his targets in "No Country," American military administrators approached Afghan detainees with shackles and convoluted policy in their pockets.</snippet>
+         <url>http://www.filmthreat.com/index.php?section=reviews&amp;Id=10784</url>
+         <critic>Matthew Sorrento</critic>
+      </review>
+      <review>
+         <snippet>The film quickly becomes one of the most powerful, carefully researched investigations of the moral-legal side effects of current American military campaigns in Afghanistan and Iraq. It's terrifying in a way that sneaks up on you.</snippet>
+         <url>http://www.boston.com/movies/display?display=movie&amp;id=11261</url>
+         <critic>Wesley Morris</critic>
+      </review>
+      <review>
+         <snippet>What one interviewee calls a "fog of ambiguity" surrounding what was and wasn't officially authorized shielded superior officers and key members of the Department of Defense -- namely Donald Rumsfeld.</snippet>
+         <url>http://www.tvguide.com/movies/taxi-dark/review/291251</url>
+         <critic>Ken Fox</critic>
+      </review>
+      <review>
+         <snippet>So disturbing, on so many levels.</snippet>
+         <url>http://www.philly.com/philly/entertainment/movies/20080222_How_the_Constitution_got_soiled.html</url>
+         <critic>Steven Rea</critic>
+      </review>
+      <review>
+         <snippet>Gibney also made the Oscar-nominated "Enron: The Smartest Guys in the Room," and he gets remarkable access to people you wouldn't expect to talk to him (including U.S. interrogators charged with crimes at Bagram).</snippet>
+         <url>http://www.charlotte.com/151/story/545102.html</url>
+         <critic>Lawrence Toppman</critic>
+      </review>
+      <review>
+         <snippet>If recent American history is ever going to be discussed with the necessary clarity and ethical rigor, this film will be essential.</snippet>
+         <url>http://movies.nytimes.com/2008/01/18/movies/18taxi.html?ref=movies</url>
+         <critic>A.O. Scott</critic>
+      </review>
+      <review>
+         <snippet>It’s the equal of "No End in Sight" in its tight focus on the nuts and bolts of incompetence, and it surpasses any recent melodrama in the empathy it evokes for both its victims and--surprisingly--victimizers.</snippet>
+         <url>http://nymag.com/movies/reviews/42772/</url>
+         <critic>David Edelstein</critic>
+      </review>
+      <review>
+         <snippet>Along with “No End in Sight,” this movie is one of the essential documentaries of the ongoing war.</snippet>
+         <url>http://www.newyorker.com/arts/critics/cinema/2008/03/24/080324crci_cinema_denby?currentPage=2</url>
+         <critic>David Denby</critic>
+      </review>
+      <review>
+         <snippet>Impossible to shake off.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A591020</url>
+         <critic>Marc Savlov</critic>
+      </review>
+      <review>
+         <snippet>Relentless, thorough and devastating.</snippet>
+         <url>http://www.theglobeandmail.com/servlet/story/RTGAM.20080221.wtaxiwar22/BNStory/Entertainment/home</url>
+         <critic>Jennie Punter</critic>
+      </review>
+      <review>
+         <snippet>Journeys into a new heart of darkness, the destination of which lies outside the frontiers of humanity.</snippet>
+         <url>http://seattlepi.nwsource.com/movies/350468_taxi08q.html</url>
+         <critic>Bill White</critic>
+      </review>
+      <review>
+         <snippet>Alex Gibney's forceful documentary starts with a single tragedy: the torture of an Afghani prisoner at Bagram Air Base. By the time it's over, he's broadened his focus into a documentary so damning of the U.S. government, it's hard to believe he even got it made.</snippet>
+         <url>http://www.nydailynews.com/entertainment/movies/2008/01/18/2008-01-18_short_takes_more_movie_reviews-1.html</url>
+         <critic>Elizabeth Weitzman</critic>
+      </review>
+      <review>
+         <snippet>An invaluable document, both for its hard questions and for the sickeningly unflinching interviews that provide the answers.</snippet>
+         <url>http://chicago.metromix.com/movies/movie_review/movie-review-taxi-to/299762/content</url>
+         <critic>Tasha Robinson</critic>
+      </review>
+      <review>
+         <snippet>As viewers of his Enron film will testify, Gibney is a scrupulous director, and Taxi to the Dark Side is filled with detailed factual information.</snippet>
+         <url>http://www.calendarlive.com/movies/reviews/cl-et-darkside18jan18,0,5182110.story?coll=cl-mreview</url>
+         <critic>Kenneth Turan</critic>
+      </review>
+      <review>
+         <snippet>Taxi is an impressively blueprinted work. Still images--from autopsy tables, makeshift holding cells, the Oval Office--are selected and deployed to maximum effect.</snippet>
+         <url>http://www.villagevoice.com/film/0803,pinkerton,78848,20.html</url>
+         <critic>Nick Pinkerton</critic>
+      </review>
+      <review>
+         <snippet>Taxi to the Dark Side adds something new to our awareness -- interviews with soldiers who served as interrogators in Afghanistan, and in Iraq's notorious Abu Ghraib prison, and who, in some cases that ended in courts martial, served prison terms themselves.</snippet>
+         <url>http://online.wsj.com/article/SB120061149390499007.html</url>
+         <critic>Joe Morgenstern</critic>
+      </review>
+      <review>
+         <snippet>In the end, this passionate indictment of present U.S. policies stirs both sadness and outrage.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/awards_festivals/fest_reviews/article_display.jsp?JSESSIONID=66hyGDVY1018zt7xhSGCG9m7lhMLm7RBjLnJMvLGSFGvLhSQmHd5!-1723751373&amp;&amp;rid=9176</url>
+         <critic>Stephen Farber</critic>
+      </review>
+      <review>
+         <snippet>Photos and video of torture at Bagram and Abu Ghraib are the most viscerally disturbing elements of Taxi to the Dark Side, but the way soft-spoken soldiers were transformed into beasts with the tacit approval of the higher-ups is just as profoundly chilling.</snippet>
+         <url>http://www.variety.com/review/VE1117933528.html?categoryid=31&amp;cs=1&amp;p=0</url>
+         <critic>Jay Weissberg</critic>
+      </review>
+      <review>
+         <snippet>Although it's tempting to call Gibney's documentary "the one Iraq film you MUST see this season!!!" (which, by the way, it is), it's not just about Iraq. It's about torture as policy.</snippet>
+         <url>http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&amp;id=1138783&amp;categories=Movies&amp;nm=1</url>
+         <critic>John Anderson</critic>
+      </review>
+   </reviews>
+   <US_Gross>$274,661</US_Gross>
+   <weekend_gross>$10,930</weekend_gross>
+   <number_of_screens>2</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+   <name>Stepfather, The</name>
+   <company>Screen Gems (Sony)</company>
+   <genres>
+      <genre>Horror</genre>
+      <genre>SuspenseThriller</genre>
+   </genres>
+   <authors>
+      <author>J.S. Cardone</author>
+   </authors>
+   <directors>
+      <director>Nelson Mc</director>
+      <director>Cormick</director>
+   </directors>
+   <origins>
+      <origin>USA</origin>
+   </origins>
+   <actors>
+      <actor>Dylan Walsh</actor>
+      <actor>Sela Ward</actor>
+      <actor>Penn Badgley</actor>
+      <actor>Sherry Stringfield</actor>
+      <actor>Jon Tenney</actor>
+      <actor>Paige Turco</actor>
+      <actor>Amber Heard</actor>
+   </actors>
+   <release_date>October 16, 2009</release_date>
+   <running_time>minutes,</running_time>
+   <rating>PG-13</rating>
+   <reviews>
+      <review>
+         <snippet>Tthe film is all of a piece, a handsome, thoughtfully crafted production that generates a mounting terror securely anchored by assured performances, consistent psychological persuasiveness and believable dialogue. What's most chilling about The Stepfather is that it was inspired by an actual incident in New Jersey in 1971.</snippet>
+         <url>http://www.latimes.com/entertainment/news/la-etw-stepfather16-2009oct17,0,1512123.story</url>
+         <critic>Kevin Thomas</critic>
+      </review>
+      <review>
+         <snippet>McCormick's Stepfather boasts a decent script by J.S. Cardone, but it seems to have been made in a bubble, as if nothing had transpired in the world of slasher/horror since the late Donald Westlake ("The Grifters") wrote the much-respected original.</snippet>
+         <url>http://www.variety.com/review/VE1117941391.html?categoryid=31&amp;cs=1</url>
+         <critic>John Anderson</critic>
+      </review>
+      <review>
+         <snippet>The trouble with the movie, apart from its rather monotonous dourness of tone, is that everyone in the family, especially the reformed-delinquent high school son (Penn Badgley), comes off as tougher, smarter, and quicker on the draw than the stepfather who's supposed to be outfoxing them.</snippet>
+         <url>http://www.ew.com/ew/article/0,,20313393,00.html</url>
+         <critic>Owen Gleiberman</critic>
+      </review>
+      <review>
+         <snippet>As such things go, it’s not bad: slick and proficient, The Stepfather 2.0 gets the adrenaline pumping, but the original has the brains.</snippet>
+         <url>http://www.boston.com/ae/movies/articles/2009/10/17/stepfather_remake_out_to_scare_teen_girls/</url>
+         <critic>Ty Burr</critic>
+      </review>
+      <review>
+         <snippet>Whereas the 1987 horror hit The Stepfather was top-notch drive-in fare, this perfunctory retread had a tame, made-for-TV feel.</snippet>
+         <url>http://www.chicagoreader.com/chicago/MovieTimes?oid=978032</url>
+         <critic>Cliff Doerksen</critic>
+      </review>
+      <review>
+         <snippet>A clumsy remake of the 1987 cult thriller.</snippet>
+         <url>http://movies.nytimes.com/2009/10/17/movies/17step.html?ref=movies</url>
+         <critic>Stephen Holden</critic>
+      </review>
+      <review>
+         <snippet>The kickoff is good -- the finale effectively literalizes the expression “broken home” -- but director Nelson McCormick doesn’t keep things “taut” in between. Rather than do scenes right the first time, he tends to déjà vu them (this usually involves Amber Heard, wearing not-too-much).</snippet>
+         <url>http://www.laweekly.com/2009-10-22/film-tv/movie-reviews-amelia-astro-boy-saw-vi/3</url>
+         <critic>Nick Pinkerton</critic>
+      </review>
+      <review>
+         <snippet>Cliché-ridden and full of plot-holes.</snippet>
+         <url>http://www.empireonline.com/reviews/reviewcomplete.asp?FID=136027</url>
+         <critic>Staff (Not credited)</critic>
+      </review>
+      <review>
+         <snippet>This remake turns a fondly remembered horror/thriller into a mild and tedious suspense film.</snippet>
+         <url>http://www.hollywoodreporter.com/hr/film-reviews/the-stepfather-film-review-1004023246.story</url>
+         <critic>Kirk Honeycutt</critic>
+      </review>
+      <review>
+         <snippet>A dull, plodding remake.</snippet>
+         <url>http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3A893451</url>
+         <critic>Marc Savlov</critic>
+      </review>
+      <review>
+         <snippet>Walsh is just a dumb bully who can’t see more than one or two steps ahead. He’s doomed to generic slasher villainy, and the film thoughtlessly obliges.</snippet>
+         <url>http://www.avclub.com/articles/the-stepfather,34238/</url>
+         <critic>Scott Tobias</critic>
+      </review>
+   </reviews>
+   <US_Gross>$29,062,561</US_Gross>
+   <production_budget>$20,000,000</production_budget>
+   <weekend_gross>$11,581,586</weekend_gross>
+   <number_of_screens>2,734</number_of_screens>
+   <summer_release>false</summer_release>
+   <christmas_release>false</christmas_release>
+   <memorial_release>false</memorial_release>
+   <independence_release>false</independence_release>
+   <labor_release>false</labor_release>
+</movie>
