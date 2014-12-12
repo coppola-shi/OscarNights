@@ -11,7 +11,7 @@ Proceedings of the North American Chapter of the Association for
 Computational Linguistics Human Language Technologies Conference 2010.
 ```
 
-The training set for sentiment analysis is from the [Movie Review](http://www.cs.cornell.edu/people/pabo/movie-review-data/) dataset of Pang, Lee, and Vaithyanathan at Cornell University. Please cite the appropriate paper if using the data:
+The training set for sentiment analysis is from the [Movie Review](http://www.cs.cornell.edu/people/pabo/movie-review-data/) dataset of Pang, Lee, and Vaithyanathan at Cornell University. Please cite the appropriate paper if using the data or referencing this project:
 
 ```
 Thumbs up? Sentiment Classification using Machine Learning Techniques. 
