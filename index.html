@@ -40,7 +40,7 @@
 
 <p>We build two classifiers: one allows us to predict whether a movie will be <em>nominated for at least one Oscar</em>, and the other allows us to predict whether an Oscar nominee <em>will win at least one Oscar</em>. Aside from building the predictive model, we are also interested in observing which features happen to be the most important predictors in the model.</p>
 
-<p>We train the classifiers on data for over 1000 movies released between 2005-2009 from Noah Smith's <a href="http://www.ark.cs.cmu.edu/movie%24-data/">Movies Data Corpus</a>. This data includes movie reviews from sources such as the <a href="http://www.nytimes.com/pages/movies/index.html">New York Times</a> and the <a href="http://www.austinchronicle.com/screens/">Austin Chronicle</a>. In order to quantify the positiveness of the movie reviews (this task is commonly refer to as <em>sentiment analysis</em>), we also use <a href="http://www.cs.cornell.edu/people/pabo/movie-review-data/">training data</a> from Bo Pang, Lillian Lee, and Shivakumar Vaithyanathan.</p>
+<p>We train the classifiers on data for over 1000 movies released between 2005 and 2009 from Noah Smith's <a href="http://www.ark.cs.cmu.edu/movie%24-data/">Movies Data Corpus</a>. This data includes movie reviews from sources such as the <a href="http://www.nytimes.com/pages/movies/index.html">New York Times</a> and the <a href="http://www.austinchronicle.com/screens/">Austin Chronicle</a>. In order to quantify the positiveness of the movie reviews (this task is commonly referred to as <em>sentiment analysis</em>), we also use <a href="http://www.cs.cornell.edu/people/pabo/movie-review-data/">training data</a> from Bo Pang, Lillian Lee, and Shivakumar Vaithyanathan.</p>
 
 <h3>
 <a id="results" class="anchor" href="#results" aria-hidden="true"><span class="octicon octicon-link"></span></a>Results</h3>
@@ -48,6 +48,12 @@
 <p>We are successfully able to predict Oscar nominations with an accuracy of <strong>95%</strong>, and to predict Oscar winnings with an accuracy of <strong>90%</strong>. Because the proportion of Oscar-winning and Oscar-nominated movies is very low, we also look at the F1 prediction score, a metric bounded between 0 (worst) and 1 (best) that gives an indication of both the true positive rate and the false positive rate. We perform very well still, achieving an F1 score of 0.87 for identifying Oscar nominees, and an F1 score of 0.89 for identifying Oscar winners.</p>
 
 <p>We find that the strongest predictors of Academy award performance (both in terms of nominations and award winnings) are the qualities of the movie reviews, box office performance, production budget, running time, number of screens for the movie premiere, and day of the year in which the movie is released.</p>
+
+<p>As one might expect, we find that Oscar winners and Oscar nominees tend to receive better-than-average reviews.</p>
+
+<p><img src="https://dl.dropboxusercontent.com/u/113867121/reviews.png" alt=""></p>
+
+<p>Perhaps more surprisingly, however, we also find that movies that are released later in the year tend to perform better at the Academy Awards. This effect might be driven by big-budget holiday releases.</p>
 
 <h3>
 <a id="contact-us" class="anchor" href="#contact-us" aria-hidden="true"><span class="octicon octicon-link"></span></a>Contact Us</h3>
