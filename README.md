@@ -1,8 +1,7 @@
 OscarNights
 ===========
 
-A predictive model for Academy Award performance. To view the project, clone the repository, and then run the iPython notebook contained within it. All the analysis is visible in the main iPython notebook. The movie metadata and reviews are from Noah Smith's [Movies Data Corpus](http://www.ark.cs.cmu.edu/movie$-data/). The data is for academic research purposes alone, and
-any commercial use of it is prohibited. If using the data or citing this project, please reference the paper:
+A predictive model for Academy Award performance. Please visit the [project page](http://coppola-shi.github.io/OscarNights/) for detailed information. To view the project, clone the repository, and then run the iPython notebook contained within it. All the analysis is visible in the main iPython notebook. The movie metadata and reviews are from Noah Smith's [Movies Data Corpus](http://www.ark.cs.cmu.edu/movie$-data/). The data is for academic research purposes alone, and any commercial use of it is prohibited. If using the data or citing this project, please reference the paper:
 
 ```
 Movie Reviews and Revenues: An Experiment in Text Regression.
