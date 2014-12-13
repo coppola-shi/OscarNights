@@ -33,22 +33,17 @@
 
 <p>Oscar Nights is a project realized for Harvard's Computer Science 109: Data Science. We aim to discover which movie features (budget, director, review statistics, etc…) are predictive of success on the night of the Academy Awards, and to see how well a classifier can predict Oscar nominations and Oscar winnings. The project comes in the form of an iPython notebook, with associated data files. In order to execute the code, extract the contents of the project archive locally, and then launch iPython.</p>
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/o6YXdTeuDCA" frameborder="0" allowfullscreen></iframe>
+
 
 <h3>
-<a id="designer-templates" class="anchor" href="#designer-templates" aria-hidden="true"><span class="octicon octicon-link"></span></a>Designer Templates</h3>
+<a id="project-specifications" class="anchor" href="#project-specifications" aria-hidden="true"><span class="octicon octicon-link"></span></a>Project Specifications</h3>
 
-<p>We've crafted some handsome templates for you to use. Go ahead and continue to layouts to browse through them. You can easily go back to edit your page before publishing. After publishing your page, you can revisit the page generator and switch to another theme. Your Page content will be preserved if it remained markdown format.</p>
+<p>We build <strong>two classifiers</strong>: one allows us to predict whether a movie will be <strong>nominated for at least one Oscar</strong>, and the other allows us to predict whether an Oscar nominee <strong>will win at least one Oscar</strong>. Aside from building the predictive model, we are also interested in observing which features happen to be the most important predictors in the model.</p>
 
-<h3>
-<a id="rather-drive-stick" class="anchor" href="#rather-drive-stick" aria-hidden="true"><span class="octicon octicon-link"></span></a>Rather Drive Stick?</h3>
-
-<p>If you prefer to not use the automatic generator, push a branch named <code>gh-pages</code> to your repository to create a page manually. In addition to supporting regular HTML content, GitHub Pages support Jekyll, a simple, blog aware static site generator written by our own Tom Preston-Werner. Jekyll makes it easy to create site-wide headers and footers without having to copy them across every page. It also offers intelligent blog support and other advanced templating features.</p>
+<p>We train the classifiers on data for over 1000 movies released between 2005-2009 from Noah Smith's <a href="http://www.ark.cs.cmu.edu/movie%24-data/">Movies Data Corpus</a>. This data includes movie reviews from sources such as the <a href="http://www.nytimes.com/pages/movies/index.html">New York Times</a> and the <a href="http://www.austinchronicle.com/screens/">Austin Chronicle</a>. In order to quantify the positiveness of the movie reviews (this task is commonly refer to as <strong>sentiment analysis</strong>), we also use <a href="http://www.cs.cornell.edu/people/pabo/movie-review-data/">training data</a> from Bo Pang, Lillian Lee, and Shivakumar Vaithyanathan.</p>
 
 <h3>
-<a id="authors-and-contributors" class="anchor" href="#authors-and-contributors" aria-hidden="true"><span class="octicon octicon-link"></span></a>Authors and Contributors</h3>
-
-<p>You can <a href="https://github.com/blog/821" class="user-mention">@mention</a> a GitHub username to generate a link to their profile. The resulting <code>&lt;a&gt;</code> element will link to the contributor's GitHub Profile. For example: In 2007, Chris Wanstrath (<a href="https://github.com/defunkt" class="user-mention">@defunkt</a>), PJ Hyett (<a href="https://github.com/pjhyett" class="user-mention">@pjhyett</a>), and Tom Preston-Werner (<a href="https://github.com/mojombo" class="user-mention">@mojombo</a>) founded GitHub.</p>
+<a id="the-results" class="anchor" href="#the-results" aria-hidden="true"><span class="octicon octicon-link"></span></a>The Results</h3>
 
 <h3>
 <a id="support-or-contact" class="anchor" href="#support-or-contact" aria-hidden="true"><span class="octicon octicon-link"></span></a>Support or Contact</h3>
